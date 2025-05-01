@@ -1,0 +1,543 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Banja Luka,PM2.5 - Principal,2025-02-01 01:00 AM,2025,02,01,01,-999.0,-999,N/A,117.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 02:00 AM,2025,02,01,02,118.4,195,Unhealthy,122.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 03:00 AM,2025,02,01,03,122.2,198,Unhealthy,125.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 04:00 AM,2025,02,01,04,94.7,178,Unhealthy,70.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 05:00 AM,2025,02,01,05,75.3,165,Unhealthy,57.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 06:00 AM,2025,02,01,06,45.8,126,Unhealthy for Sensitive Groups,17.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 07:00 AM,2025,02,01,07,30.2,90,Moderate,14.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 08:00 AM,2025,02,01,08,21.3,74,Moderate,12.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 09:00 AM,2025,02,01,09,17.5,67,Moderate,13.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 10:00 AM,2025,02,01,10,15.8,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 11:00 AM,2025,02,01,11,14.1,60,Moderate,12.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 12:00 PM,2025,02,01,12,12.2,57,Moderate,10.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 01:00 PM,2025,02,01,13,11.3,55,Moderate,10.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 02:00 PM,2025,02,01,14,11.9,56,Moderate,12.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 03:00 PM,2025,02,01,15,12.6,58,Moderate,13.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 04:00 PM,2025,02,01,16,12.9,58,Moderate,13.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 05:00 PM,2025,02,01,17,14.3,61,Moderate,16.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 06:00 PM,2025,02,01,18,15.0,62,Moderate,16.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 07:00 PM,2025,02,01,19,21.8,75,Moderate,27.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 08:00 PM,2025,02,01,20,24.8,80,Moderate,27.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 09:00 PM,2025,02,01,21,106.3,187,Unhealthy,187.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 10:00 PM,2025,02,01,22,135.2,211,Very Unhealthy,164.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-01 11:00 PM,2025,02,01,23,150.3,226,Very Unhealthy,165.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 12:00 AM,2025,02,02,00,159.6,235,Very Unhealthy,168.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 01:00 AM,2025,02,02,01,138.6,214,Very Unhealthy,117.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 02:00 AM,2025,02,02,02,112.5,191,Unhealthy,86.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 03:00 AM,2025,02,02,03,100.7,183,Unhealthy,88.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 04:00 AM,2025,02,02,04,85.1,172,Unhealthy,69.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 05:00 AM,2025,02,02,05,68.1,160,Unhealthy,51.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 06:00 AM,2025,02,02,06,55.6,151,Unhealthy,43.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 07:00 AM,2025,02,02,07,46.9,129,Unhealthy for Sensitive Groups,38.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 08:00 AM,2025,02,02,08,39.1,110,Unhealthy for Sensitive Groups,31.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 09:00 AM,2025,02,02,09,35.1,99,Moderate,31.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 10:00 AM,2025,02,02,10,33.1,96,Moderate,31.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 11:00 AM,2025,02,02,11,32.1,94,Moderate,31.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 12:00 PM,2025,02,02,12,31.6,93,Moderate,31.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 01:00 PM,2025,02,02,13,44.8,124,Unhealthy for Sensitive Groups,58.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 02:00 PM,2025,02,02,14,51.4,140,Unhealthy for Sensitive Groups,58.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 03:00 PM,2025,02,02,15,48.1,132,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 04:00 PM,2025,02,02,16,46.4,128,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 05:00 PM,2025,02,02,17,39.8,112,Unhealthy for Sensitive Groups,32.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 06:00 PM,2025,02,02,18,36.4,103,Unhealthy for Sensitive Groups,32.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 07:00 PM,2025,02,02,19,44.3,123,Unhealthy for Sensitive Groups,53.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 08:00 PM,2025,02,02,20,48.5,133,Unhealthy for Sensitive Groups,53.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 09:00 PM,2025,02,02,21,50.9,139,Unhealthy for Sensitive Groups,53.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 10:00 PM,2025,02,02,22,65.2,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-02 11:00 PM,2025,02,02,23,63.9,157,Unhealthy,62.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 12:00 AM,2025,02,03,00,72.6,163,Unhealthy,81.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 01:00 AM,2025,02,03,01,98.5,181,Unhealthy,124.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 02:00 AM,2025,02,03,02,100.0,182,Unhealthy,101.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 03:00 AM,2025,02,03,03,100.8,183,Unhealthy,101.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 04:00 AM,2025,02,03,04,100.1,182,Unhealthy,99.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 05:00 AM,2025,02,03,05,102.2,184,Unhealthy,104.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 06:00 AM,2025,02,03,06,74.4,164,Unhealthy,46.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 07:00 AM,2025,02,03,07,54.6,148,Unhealthy for Sensitive Groups,34.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 08:00 AM,2025,02,03,08,45.6,126,Unhealthy for Sensitive Groups,36.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 09:00 AM,2025,02,03,09,41.1,115,Unhealthy for Sensitive Groups,36.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 10:00 AM,2025,02,03,10,38.9,109,Unhealthy for Sensitive Groups,36.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 11:00 AM,2025,02,03,11,37.8,107,Unhealthy for Sensitive Groups,36.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 12:00 PM,2025,02,03,12,38.8,109,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 01:00 PM,2025,02,03,13,35.9,102,Unhealthy for Sensitive Groups,33.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 02:00 PM,2025,02,03,14,37.8,107,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 03:00 PM,2025,02,03,15,46.3,128,Unhealthy for Sensitive Groups,54.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 04:00 PM,2025,02,03,16,50.6,138,Unhealthy for Sensitive Groups,54.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 05:00 PM,2025,02,03,17,43.5,121,Unhealthy for Sensitive Groups,35.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 06:00 PM,2025,02,03,18,40.4,113,Unhealthy for Sensitive Groups,35.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 07:00 PM,2025,02,03,19,43.4,120,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 08:00 PM,2025,02,03,20,56.0,151,Unhealthy,68.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 09:00 PM,2025,02,03,21,62.7,156,Unhealthy,69.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 10:00 PM,2025,02,03,22,58.5,153,Unhealthy,54.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-03 11:00 PM,2025,02,03,23,84.3,171,Unhealthy,110.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 12:00 AM,2025,02,04,00,97.2,180,Unhealthy,110.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 01:00 AM,2025,02,04,01,99.6,182,Unhealthy,101.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 02:00 AM,2025,02,04,02,100.8,183,Unhealthy,101.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 03:00 AM,2025,02,04,03,93.9,178,Unhealthy,87.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 04:00 AM,2025,02,04,04,93.9,178,Unhealthy,93.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 05:00 AM,2025,02,04,05,74.2,164,Unhealthy,54.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 06:00 AM,2025,02,04,06,62.5,156,Unhealthy,50.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 07:00 AM,2025,02,04,07,49.2,135,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 08:00 AM,2025,02,04,08,41.5,116,Unhealthy for Sensitive Groups,33.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 09:00 AM,2025,02,04,09,38.3,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 10:00 AM,2025,02,04,10,35.0,99,Moderate,31.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 11:00 AM,2025,02,04,11,44.9,124,Unhealthy for Sensitive Groups,54.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 12:00 PM,2025,02,04,12,47.3,130,Unhealthy for Sensitive Groups,49.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-04 01:00 PM,2025,02,04,13,47.3,130,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 02:00 PM,2025,02,04,14,-999.0,-999,N/A,39.7,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 03:00 PM,2025,02,04,15,-999.0,-999,N/A,39.7,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 04:00 PM,2025,02,04,16,-999.0,-999,N/A,39.7,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 05:00 PM,2025,02,04,17,-999.0,-999,N/A,39.7,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 06:00 PM,2025,02,04,18,-999.0,-999,N/A,39.7,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 07:00 PM,2025,02,04,19,-999.0,-999,N/A,39.7,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 08:00 PM,2025,02,04,20,-999.0,-999,N/A,78.6,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 09:00 PM,2025,02,04,21,-999.0,-999,N/A,78.6,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 10:00 PM,2025,02,04,22,-999.0,-999,N/A,78.6,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-04 11:00 PM,2025,02,04,23,-999.0,-999,N/A,78.6,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-05 12:00 AM,2025,02,05,00,-999.0,-999,N/A,154.3,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-05 01:00 AM,2025,02,05,01,-999.0,-999,N/A,154.3,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-05 02:00 AM,2025,02,05,02,-999.0,-999,N/A,154.3,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-05 03:00 AM,2025,02,05,03,-999.0,-999,N/A,154.3,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-05 04:00 AM,2025,02,05,04,-999.0,-999,N/A,154.3,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-05 05:00 AM,2025,02,05,05,-999.0,-999,N/A,154.3,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-05 06:00 AM,2025,02,05,06,-999.0,-999,N/A,154.3,UG/M3,1 Hr,Invalid
+Banja Luka,PM2.5 - Principal,2025-02-10 05:00 PM,2025,02,10,17,-999.0,-999,N/A,73.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-10 06:00 PM,2025,02,10,18,76.8,166,Unhealthy,79.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-10 07:00 PM,2025,02,10,19,85.4,172,Unhealthy,96.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-10 08:00 PM,2025,02,10,20,86.4,173,Unhealthy,88.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-10 09:00 PM,2025,02,10,21,87.8,174,Unhealthy,90.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-10 10:00 PM,2025,02,10,22,88.8,174,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-10 11:00 PM,2025,02,10,23,84.7,171,Unhealthy,74.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 12:00 AM,2025,02,11,00,84.5,171,Unhealthy,83.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 01:00 AM,2025,02,11,01,82.6,170,Unhealthy,77.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 02:00 AM,2025,02,11,02,82.6,170,Unhealthy,82.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 03:00 AM,2025,02,11,03,63.4,157,Unhealthy,45.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 04:00 AM,2025,02,11,04,54.8,149,Unhealthy for Sensitive Groups,46.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 05:00 AM,2025,02,11,05,47.9,132,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 06:00 AM,2025,02,11,06,46.9,129,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 07:00 AM,2025,02,11,07,41.1,115,Unhealthy for Sensitive Groups,35.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 08:00 AM,2025,02,11,08,40.0,112,Unhealthy for Sensitive Groups,38.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 09:00 AM,2025,02,11,09,45.0,124,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 10:00 AM,2025,02,11,10,61.4,155,Unhealthy,77.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 11:00 AM,2025,02,11,11,67.7,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 12:00 PM,2025,02,11,12,69.9,161,Unhealthy,72.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 01:00 PM,2025,02,11,13,64.0,157,Unhealthy,58.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 02:00 PM,2025,02,11,14,68.4,160,Unhealthy,72.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 03:00 PM,2025,02,11,15,62.2,156,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 04:00 PM,2025,02,11,16,63.6,157,Unhealthy,65.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 05:00 PM,2025,02,11,17,65.8,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 06:00 PM,2025,02,11,18,71.1,162,Unhealthy,76.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 07:00 PM,2025,02,11,19,66.3,159,Unhealthy,61.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 08:00 PM,2025,02,11,20,68.0,160,Unhealthy,70.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 09:00 PM,2025,02,11,21,65.8,158,Unhealthy,60.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 10:00 PM,2025,02,11,22,68.8,160,Unhealthy,76.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-11 11:00 PM,2025,02,11,23,83.9,171,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 12:00 AM,2025,02,12,00,97.7,181,Unhealthy,110.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 01:00 AM,2025,02,12,01,96.9,180,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 02:00 AM,2025,02,12,02,95.0,179,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 03:00 AM,2025,02,12,03,88.4,174,Unhealthy,80.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 04:00 AM,2025,02,12,04,87.0,173,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 05:00 AM,2025,02,12,05,83.4,171,Unhealthy,78.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 06:00 AM,2025,02,12,06,80.1,168,Unhealthy,76.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 07:00 AM,2025,02,12,07,75.5,165,Unhealthy,69.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 08:00 AM,2025,02,12,08,74.9,165,Unhealthy,74.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 09:00 AM,2025,02,12,09,75.9,165,Unhealthy,75.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 10:00 AM,2025,02,12,10,73.9,164,Unhealthy,70.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 11:00 AM,2025,02,12,11,82.5,170,Unhealthy,97.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 12:00 PM,2025,02,12,12,73.8,164,Unhealthy,59.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 01:00 PM,2025,02,12,13,69.1,161,Unhealthy,61.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 02:00 PM,2025,02,12,14,77.9,167,Unhealthy,91.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 03:00 PM,2025,02,12,15,83.9,171,Unhealthy,93.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 04:00 PM,2025,02,12,16,99.5,182,Unhealthy,114.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 05:00 PM,2025,02,12,17,97.4,180,Unhealthy,95.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 06:00 PM,2025,02,12,18,95.4,179,Unhealthy,93.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 07:00 PM,2025,02,12,19,95.6,179,Unhealthy,95.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 08:00 PM,2025,02,12,20,93.4,178,Unhealthy,91.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 09:00 PM,2025,02,12,21,91.8,176,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 10:00 PM,2025,02,12,22,91.7,176,Unhealthy,91.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-12 11:00 PM,2025,02,12,23,86.9,173,Unhealthy,81.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 12:00 AM,2025,02,13,00,87.7,174,Unhealthy,88.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 01:00 AM,2025,02,13,01,93.8,178,Unhealthy,104.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 02:00 AM,2025,02,13,02,95.7,179,Unhealthy,100.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 03:00 AM,2025,02,13,03,98.3,181,Unhealthy,104.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 04:00 AM,2025,02,13,04,98.8,181,Unhealthy,104.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 05:00 AM,2025,02,13,05,101.2,183,Unhealthy,107.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 06:00 AM,2025,02,13,06,103.4,185,Unhealthy,108.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 07:00 AM,2025,02,13,07,104.3,185,Unhealthy,106.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 08:00 AM,2025,02,13,08,105.9,186,Unhealthy,109.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 09:00 AM,2025,02,13,09,103.1,184,Unhealthy,94.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 10:00 AM,2025,02,13,10,97.1,180,Unhealthy,80.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 11:00 AM,2025,02,13,11,105.1,186,Unhealthy,123.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 12:00 PM,2025,02,13,12,130.7,206,Very Unhealthy,156.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 01:00 PM,2025,02,13,13,165.4,241,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 02:00 PM,2025,02,13,14,171.7,247,Very Unhealthy,177.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 03:00 PM,2025,02,13,15,164.4,240,Very Unhealthy,157.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 04:00 PM,2025,02,13,16,174.2,249,Very Unhealthy,183.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 05:00 PM,2025,02,13,17,156.3,232,Very Unhealthy,138.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 06:00 PM,2025,02,13,18,149.3,225,Very Unhealthy,142.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 07:00 PM,2025,02,13,19,166.3,241,Very Unhealthy,183.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 08:00 PM,2025,02,13,20,247.0,344,Hazardous,327.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 09:00 PM,2025,02,13,21,322.5,494,Hazardous,397.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 10:00 PM,2025,02,13,22,371.8,592,Hazardous,421.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-13 11:00 PM,2025,02,13,23,341.6,532,Hazardous,311.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 12:00 AM,2025,02,14,00,350.6,550,Hazardous,359.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 01:00 AM,2025,02,14,01,317.0,483,Hazardous,283.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 02:00 AM,2025,02,14,02,281.1,412,Hazardous,245.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 03:00 AM,2025,02,14,03,239.3,328,Hazardous,197.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 04:00 AM,2025,02,14,04,202.0,277,Very Unhealthy,164.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 05:00 AM,2025,02,14,05,180.9,256,Very Unhealthy,159.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 06:00 AM,2025,02,14,06,167.6,243,Very Unhealthy,154.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 07:00 AM,2025,02,14,07,174.8,250,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 08:00 AM,2025,02,14,08,173.6,249,Very Unhealthy,172.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 09:00 AM,2025,02,14,09,141.4,217,Very Unhealthy,109.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 10:00 AM,2025,02,14,10,125.0,200,Unhealthy,108.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 11:00 AM,2025,02,14,11,107.6,188,Unhealthy,90.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 12:00 PM,2025,02,14,12,59.6,154,Unhealthy,11.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 01:00 PM,2025,02,14,13,41.4,116,Unhealthy for Sensitive Groups,23.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 02:00 PM,2025,02,14,14,26.5,83,Moderate,11.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 03:00 PM,2025,02,14,15,28.6,87,Moderate,30.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 04:00 PM,2025,02,14,16,25.7,82,Moderate,22.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 05:00 PM,2025,02,14,17,32.1,94,Moderate,38.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 06:00 PM,2025,02,14,18,39.3,110,Unhealthy for Sensitive Groups,46.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 07:00 PM,2025,02,14,19,66.1,158,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 08:00 PM,2025,02,14,20,57.1,152,Unhealthy,48.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 09:00 PM,2025,02,14,21,69.8,161,Unhealthy,82.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 10:00 PM,2025,02,14,22,65.3,158,Unhealthy,60.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-14 11:00 PM,2025,02,14,23,77.6,166,Unhealthy,89.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 12:00 AM,2025,02,15,00,77.6,166,Unhealthy,77.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 01:00 AM,2025,02,15,01,65.5,158,Unhealthy,53.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 02:00 AM,2025,02,15,02,56.1,151,Unhealthy,46.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 03:00 AM,2025,02,15,03,47.3,130,Unhealthy for Sensitive Groups,38.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 04:00 AM,2025,02,15,04,44.1,122,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 05:00 AM,2025,02,15,05,40.0,112,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 06:00 AM,2025,02,15,06,37.2,105,Unhealthy for Sensitive Groups,34.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 07:00 AM,2025,02,15,07,37.3,105,Unhealthy for Sensitive Groups,37.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 08:00 AM,2025,02,15,08,38.5,108,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 09:00 AM,2025,02,15,09,40.9,114,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 10:00 AM,2025,02,15,10,47.4,130,Unhealthy for Sensitive Groups,53.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 11:00 AM,2025,02,15,11,57.2,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 12:00 PM,2025,02,15,12,61.2,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 01:00 PM,2025,02,15,13,59.0,153,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 02:00 PM,2025,02,15,14,54.9,149,Unhealthy for Sensitive Groups,50.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 03:00 PM,2025,02,15,15,48.9,134,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 04:00 PM,2025,02,15,16,47.2,130,Unhealthy for Sensitive Groups,45.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 05:00 PM,2025,02,15,17,48.0,132,Unhealthy for Sensitive Groups,48.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 06:00 PM,2025,02,15,18,45.1,125,Unhealthy for Sensitive Groups,41.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 07:00 PM,2025,02,15,19,44.2,122,Unhealthy for Sensitive Groups,42.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 08:00 PM,2025,02,15,20,45.3,125,Unhealthy for Sensitive Groups,46.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 09:00 PM,2025,02,15,21,51.0,139,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 10:00 PM,2025,02,15,22,52.6,143,Unhealthy for Sensitive Groups,55.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-15 11:00 PM,2025,02,15,23,57.0,152,Unhealthy,64.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 12:00 AM,2025,02,16,00,52.8,144,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 01:00 AM,2025,02,16,01,43.7,121,Unhealthy for Sensitive Groups,33.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 02:00 AM,2025,02,16,02,41.7,116,Unhealthy for Sensitive Groups,39.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 03:00 AM,2025,02,16,03,39.6,111,Unhealthy for Sensitive Groups,37.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 04:00 AM,2025,02,16,04,35.3,100,Moderate,31.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 05:00 AM,2025,02,16,05,34.3,98,Moderate,33.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 06:00 AM,2025,02,16,06,32.2,94,Moderate,30.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 07:00 AM,2025,02,16,07,28.7,88,Moderate,25.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 08:00 AM,2025,02,16,08,29.9,90,Moderate,31.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 09:00 AM,2025,02,16,09,34.3,98,Moderate,38.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 10:00 AM,2025,02,16,10,35.9,102,Unhealthy for Sensitive Groups,37.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 11:00 AM,2025,02,16,11,35.6,101,Unhealthy for Sensitive Groups,35.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 12:00 PM,2025,02,16,12,34.4,98,Moderate,33.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 01:00 PM,2025,02,16,13,34.2,98,Moderate,33.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 02:00 PM,2025,02,16,14,34.4,98,Moderate,34.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 03:00 PM,2025,02,16,15,38.5,108,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 04:00 PM,2025,02,16,16,40.9,114,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 05:00 PM,2025,02,16,17,50.4,138,Unhealthy for Sensitive Groups,59.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 06:00 PM,2025,02,16,18,59.1,154,Unhealthy,67.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 07:00 PM,2025,02,16,19,56.3,152,Unhealthy,53.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 08:00 PM,2025,02,16,20,52.7,143,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 09:00 PM,2025,02,16,21,46.6,128,Unhealthy for Sensitive Groups,40.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 10:00 PM,2025,02,16,22,41.4,116,Unhealthy for Sensitive Groups,36.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-16 11:00 PM,2025,02,16,23,39.8,112,Unhealthy for Sensitive Groups,38.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 12:00 AM,2025,02,17,00,40.4,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 01:00 AM,2025,02,17,01,39.5,111,Unhealthy for Sensitive Groups,38.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 02:00 AM,2025,02,17,02,37.2,105,Unhealthy for Sensitive Groups,34.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 03:00 AM,2025,02,17,03,34.1,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 04:00 AM,2025,02,17,04,31.7,93,Moderate,29.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 05:00 AM,2025,02,17,05,31.2,92,Moderate,30.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 06:00 AM,2025,02,17,06,30.8,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 07:00 AM,2025,02,17,07,31.5,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 08:00 AM,2025,02,17,08,31.2,92,Moderate,29.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 09:00 AM,2025,02,17,09,30.8,91,Moderate,30.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 10:00 AM,2025,02,17,10,32.1,94,Moderate,35.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 11:00 AM,2025,02,17,11,31.7,93,Moderate,30.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 12:00 PM,2025,02,17,12,31.2,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 01:00 PM,2025,02,17,13,30.5,91,Moderate,28.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 02:00 PM,2025,02,17,14,30.2,90,Moderate,29.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 03:00 PM,2025,02,17,15,29.8,90,Moderate,28.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 04:00 PM,2025,02,17,16,27.5,85,Moderate,23.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 05:00 PM,2025,02,17,17,26.4,83,Moderate,24.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 06:00 PM,2025,02,17,18,28.3,87,Moderate,32.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 07:00 PM,2025,02,17,19,31.9,93,Moderate,37.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 08:00 PM,2025,02,17,20,33.9,97,Moderate,37.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 09:00 PM,2025,02,17,21,37.8,107,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 10:00 PM,2025,02,17,22,109.4,189,Unhealthy,180.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-17 11:00 PM,2025,02,17,23,142.3,218,Very Unhealthy,175.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 12:00 AM,2025,02,18,00,154.3,230,Very Unhealthy,166.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 01:00 AM,2025,02,18,01,160.1,235,Very Unhealthy,165.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 02:00 AM,2025,02,18,02,142.3,218,Very Unhealthy,124.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 03:00 AM,2025,02,18,03,134.8,210,Very Unhealthy,127.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 04:00 AM,2025,02,18,04,106.5,187,Unhealthy,78.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 05:00 AM,2025,02,18,05,107.3,187,Unhealthy,108.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 06:00 AM,2025,02,18,06,89.2,175,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 07:00 AM,2025,02,18,07,73.9,164,Unhealthy,58.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 08:00 AM,2025,02,18,08,54.9,149,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 09:00 AM,2025,02,18,09,86.1,172,Unhealthy,117.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 10:00 AM,2025,02,18,10,116.8,194,Unhealthy,147.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 11:00 AM,2025,02,18,11,134.9,210,Very Unhealthy,153.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 12:00 PM,2025,02,18,12,115.4,193,Unhealthy,95.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 01:00 PM,2025,02,18,13,89.1,175,Unhealthy,62.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 02:00 PM,2025,02,18,14,75.4,165,Unhealthy,61.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 03:00 PM,2025,02,18,15,62.1,156,Unhealthy,48.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 04:00 PM,2025,02,18,16,54.3,147,Unhealthy for Sensitive Groups,46.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 05:00 PM,2025,02,18,17,44.0,122,Unhealthy for Sensitive Groups,33.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 06:00 PM,2025,02,18,18,38.3,108,Unhealthy for Sensitive Groups,32.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 07:00 PM,2025,02,18,19,38.3,108,Unhealthy for Sensitive Groups,38.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 08:00 PM,2025,02,18,20,44.9,124,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 09:00 PM,2025,02,18,21,41.3,115,Unhealthy for Sensitive Groups,37.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 10:00 PM,2025,02,18,22,42.2,117,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-18 11:00 PM,2025,02,18,23,41.4,116,Unhealthy for Sensitive Groups,40.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 12:00 AM,2025,02,19,00,49.7,136,Unhealthy for Sensitive Groups,58.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 01:00 AM,2025,02,19,01,72.1,163,Unhealthy,94.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 02:00 AM,2025,02,19,02,56.7,152,Unhealthy,41.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 03:00 AM,2025,02,19,03,66.4,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 04:00 AM,2025,02,19,04,64.6,157,Unhealthy,62.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 05:00 AM,2025,02,19,05,60.8,155,Unhealthy,57.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 06:00 AM,2025,02,19,06,56.7,152,Unhealthy,52.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 07:00 AM,2025,02,19,07,52.8,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 08:00 AM,2025,02,19,08,56.1,151,Unhealthy,59.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 09:00 AM,2025,02,19,09,86.2,173,Unhealthy,116.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 10:00 AM,2025,02,19,10,79.5,168,Unhealthy,72.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 11:00 AM,2025,02,19,11,81.6,169,Unhealthy,83.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 12:00 PM,2025,02,19,12,89.3,175,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 01:00 PM,2025,02,19,13,61.6,155,Unhealthy,34.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 02:00 PM,2025,02,19,14,41.3,115,Unhealthy for Sensitive Groups,20.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 03:00 PM,2025,02,19,15,31.3,92,Moderate,21.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 04:00 PM,2025,02,19,16,26.6,84,Moderate,21.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 05:00 PM,2025,02,19,17,24.3,79,Moderate,22.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 06:00 PM,2025,02,19,18,24.5,80,Moderate,24.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 07:00 PM,2025,02,19,19,31.4,93,Moderate,38.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 08:00 PM,2025,02,19,20,37.9,107,Unhealthy for Sensitive Groups,44.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 09:00 PM,2025,02,19,21,132.2,208,Very Unhealthy,226.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 10:00 PM,2025,02,19,22,172.3,247,Very Unhealthy,212.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-19 11:00 PM,2025,02,19,23,213.9,289,Very Unhealthy,255.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 12:00 AM,2025,02,20,00,217.0,292,Very Unhealthy,220.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 01:00 AM,2025,02,20,01,204.3,279,Very Unhealthy,191.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 02:00 AM,2025,02,20,02,181.7,257,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 03:00 AM,2025,02,20,03,160.9,236,Very Unhealthy,140.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 04:00 AM,2025,02,20,04,129.3,205,Very Unhealthy,97.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 05:00 AM,2025,02,20,05,101.9,184,Unhealthy,74.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 06:00 AM,2025,02,20,06,83.7,171,Unhealthy,65.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 07:00 AM,2025,02,20,07,65.0,158,Unhealthy,46.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 08:00 AM,2025,02,20,08,60.8,155,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 09:00 AM,2025,02,20,09,51.1,139,Unhealthy for Sensitive Groups,41.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 10:00 AM,2025,02,20,10,44.9,124,Unhealthy for Sensitive Groups,38.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 11:00 AM,2025,02,20,11,42.7,119,Unhealthy for Sensitive Groups,40.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 12:00 PM,2025,02,20,12,36.0,102,Unhealthy for Sensitive Groups,29.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 01:00 PM,2025,02,20,13,36.6,104,Unhealthy for Sensitive Groups,37.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 02:00 PM,2025,02,20,14,36.4,103,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 03:00 PM,2025,02,20,15,33.0,96,Moderate,29.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 04:00 PM,2025,02,20,16,29.2,88,Moderate,25.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 05:00 PM,2025,02,20,17,27.4,85,Moderate,25.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 06:00 PM,2025,02,20,18,27.2,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 07:00 PM,2025,02,20,19,34.6,99,Moderate,42.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 08:00 PM,2025,02,20,20,126.9,202,Very Unhealthy,219.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 09:00 PM,2025,02,20,21,165.2,240,Very Unhealthy,203.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 10:00 PM,2025,02,20,22,208.7,283,Very Unhealthy,252.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-20 11:00 PM,2025,02,20,23,209.5,284,Very Unhealthy,210.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 12:00 AM,2025,02,21,00,209.8,285,Very Unhealthy,210.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 01:00 AM,2025,02,21,01,204.6,279,Very Unhealthy,199.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 02:00 AM,2025,02,21,02,182.8,258,Very Unhealthy,160.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 03:00 AM,2025,02,21,03,174.9,250,Very Unhealthy,166.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 04:00 AM,2025,02,21,04,114.1,192,Unhealthy,53.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 05:00 AM,2025,02,21,05,111.9,191,Unhealthy,109.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 06:00 AM,2025,02,21,06,75.9,165,Unhealthy,39.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 07:00 AM,2025,02,21,07,77.4,166,Unhealthy,78.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 08:00 AM,2025,02,21,08,79.8,168,Unhealthy,82.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 09:00 AM,2025,02,21,09,104.4,185,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 10:00 AM,2025,02,21,10,73.6,164,Unhealthy,42.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 11:00 AM,2025,02,21,11,62.5,156,Unhealthy,51.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 12:00 PM,2025,02,21,12,75.5,165,Unhealthy,88.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 01:00 PM,2025,02,21,13,75.3,165,Unhealthy,75.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 02:00 PM,2025,02,21,14,57.6,152,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 03:00 PM,2025,02,21,15,48.0,132,Unhealthy for Sensitive Groups,38.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 04:00 PM,2025,02,21,16,40.8,114,Unhealthy for Sensitive Groups,33.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 05:00 PM,2025,02,21,17,41.1,115,Unhealthy for Sensitive Groups,41.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 06:00 PM,2025,02,21,18,40.4,113,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 07:00 PM,2025,02,21,19,41.8,117,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 08:00 PM,2025,02,21,20,48.0,132,Unhealthy for Sensitive Groups,54.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 09:00 PM,2025,02,21,21,57.5,152,Unhealthy,67.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 10:00 PM,2025,02,21,22,63.0,156,Unhealthy,68.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-21 11:00 PM,2025,02,21,23,136.4,212,Very Unhealthy,209.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 12:00 AM,2025,02,22,00,177.4,252,Very Unhealthy,218.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 01:00 AM,2025,02,22,01,164.4,240,Very Unhealthy,151.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 02:00 AM,2025,02,22,02,160.5,236,Very Unhealthy,156.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 03:00 AM,2025,02,22,03,168.8,244,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 04:00 AM,2025,02,22,04,160.7,236,Very Unhealthy,152.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 05:00 AM,2025,02,22,05,160.2,235,Very Unhealthy,159.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 06:00 AM,2025,02,22,06,153.9,229,Very Unhealthy,147.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 07:00 AM,2025,02,22,07,140.6,216,Very Unhealthy,127.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 08:00 AM,2025,02,22,08,129.0,204,Very Unhealthy,117.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 09:00 AM,2025,02,22,09,135.2,211,Very Unhealthy,141.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 10:00 AM,2025,02,22,10,119.1,196,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 11:00 AM,2025,02,22,11,109.5,189,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 12:00 PM,2025,02,22,12,105.3,186,Unhealthy,97.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 01:00 PM,2025,02,22,13,117.1,194,Unhealthy,131.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 02:00 PM,2025,02,22,14,109.1,189,Unhealthy,99.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 03:00 PM,2025,02,22,15,98.1,181,Unhealthy,85.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 04:00 PM,2025,02,22,16,83.9,171,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 05:00 PM,2025,02,22,17,74.6,164,Unhealthy,65.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 06:00 PM,2025,02,22,18,72.1,163,Unhealthy,69.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 07:00 PM,2025,02,22,19,97.9,181,Unhealthy,123.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 08:00 PM,2025,02,22,20,113.9,192,Unhealthy,129.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 09:00 PM,2025,02,22,21,119.7,196,Unhealthy,125.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 10:00 PM,2025,02,22,22,111.1,190,Unhealthy,102.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-22 11:00 PM,2025,02,22,23,112.5,191,Unhealthy,113.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 12:00 AM,2025,02,23,00,119.3,196,Unhealthy,126.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 01:00 AM,2025,02,23,01,146.0,221,Very Unhealthy,172.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 02:00 AM,2025,02,23,02,160.9,236,Very Unhealthy,175.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 03:00 AM,2025,02,23,03,174.8,250,Very Unhealthy,188.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 04:00 AM,2025,02,23,04,177.9,253,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 05:00 AM,2025,02,23,05,166.3,241,Very Unhealthy,154.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 06:00 AM,2025,02,23,06,166.5,242,Very Unhealthy,166.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 07:00 AM,2025,02,23,07,156.5,232,Very Unhealthy,144.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 08:00 AM,2025,02,23,08,150.7,226,Very Unhealthy,143.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 09:00 AM,2025,02,23,09,128.7,204,Very Unhealthy,102.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 10:00 AM,2025,02,23,10,121.6,197,Unhealthy,113.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 11:00 AM,2025,02,23,11,129.8,205,Very Unhealthy,139.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 12:00 PM,2025,02,23,12,151.6,227,Very Unhealthy,177.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 01:00 PM,2025,02,23,13,153.4,229,Very Unhealthy,155.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 02:00 PM,2025,02,23,14,83.8,171,Unhealthy,13.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 03:00 PM,2025,02,23,15,48.4,133,Unhealthy for Sensitive Groups,13.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 04:00 PM,2025,02,23,16,37.0,105,Unhealthy for Sensitive Groups,25.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 05:00 PM,2025,02,23,17,40.0,112,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 06:00 PM,2025,02,23,18,62.8,156,Unhealthy,85.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 07:00 PM,2025,02,23,19,71.2,162,Unhealthy,79.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 08:00 PM,2025,02,23,20,76.8,166,Unhealthy,82.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 09:00 PM,2025,02,23,21,108.0,188,Unhealthy,139.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 10:00 PM,2025,02,23,22,177.8,253,Very Unhealthy,247.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-23 11:00 PM,2025,02,23,23,189.4,264,Very Unhealthy,200.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 12:00 AM,2025,02,24,00,157.7,233,Very Unhealthy,126.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 01:00 AM,2025,02,24,01,152.0,227,Very Unhealthy,146.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 02:00 AM,2025,02,24,02,133.5,209,Very Unhealthy,115.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 03:00 AM,2025,02,24,03,118.5,195,Unhealthy,103.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 04:00 AM,2025,02,24,04,104.0,185,Unhealthy,89.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 05:00 AM,2025,02,24,05,93.2,177,Unhealthy,82.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 06:00 AM,2025,02,24,06,85.6,172,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 07:00 AM,2025,02,24,07,85.2,172,Unhealthy,84.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 08:00 AM,2025,02,24,08,85.3,172,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 09:00 AM,2025,02,24,09,88.2,174,Unhealthy,91.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 10:00 AM,2025,02,24,10,101.4,183,Unhealthy,114.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 11:00 AM,2025,02,24,11,112.3,191,Unhealthy,125.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 12:00 PM,2025,02,24,12,123.1,198,Unhealthy,135.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 01:00 PM,2025,02,24,13,125.6,201,Very Unhealthy,131.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 02:00 PM,2025,02,24,14,110.9,190,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 03:00 PM,2025,02,24,15,101.1,183,Unhealthy,87.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 04:00 PM,2025,02,24,16,94.0,178,Unhealthy,84.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 05:00 PM,2025,02,24,17,87.4,173,Unhealthy,78.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 06:00 PM,2025,02,24,18,86.5,173,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 07:00 PM,2025,02,24,19,93.0,177,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 08:00 PM,2025,02,24,20,92.8,177,Unhealthy,92.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 09:00 PM,2025,02,24,21,94.3,178,Unhealthy,96.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 10:00 PM,2025,02,24,22,109.9,189,Unhealthy,131.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-24 11:00 PM,2025,02,24,23,100.4,182,Unhealthy,87.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 12:00 AM,2025,02,25,00,93.1,177,Unhealthy,82.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 01:00 AM,2025,02,25,01,94.2,178,Unhealthy,95.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 02:00 AM,2025,02,25,02,70.4,161,Unhealthy,47.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 03:00 AM,2025,02,25,03,55.5,151,Unhealthy,40.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 04:00 AM,2025,02,25,04,46.3,128,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 05:00 AM,2025,02,25,05,44.2,122,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 06:00 AM,2025,02,25,06,35.9,102,Unhealthy for Sensitive Groups,27.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 07:00 AM,2025,02,25,07,31.1,92,Moderate,26.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 08:00 AM,2025,02,25,08,27.9,86,Moderate,24.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 09:00 AM,2025,02,25,09,31.1,92,Moderate,34.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 10:00 AM,2025,02,25,10,32.6,95,Moderate,34.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 11:00 AM,2025,02,25,11,42.5,118,Unhealthy for Sensitive Groups,52.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 12:00 PM,2025,02,25,12,51.8,141,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 01:00 PM,2025,02,25,13,57.7,153,Unhealthy,63.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 02:00 PM,2025,02,25,14,60.7,155,Unhealthy,63.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 03:00 PM,2025,02,25,15,44.9,124,Unhealthy for Sensitive Groups,29.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 04:00 PM,2025,02,25,16,38.8,109,Unhealthy for Sensitive Groups,32.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 05:00 PM,2025,02,25,17,40.1,112,Unhealthy for Sensitive Groups,41.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 06:00 PM,2025,02,25,18,45.6,126,Unhealthy for Sensitive Groups,51.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 07:00 PM,2025,02,25,19,52.3,142,Unhealthy for Sensitive Groups,58.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 08:00 PM,2025,02,25,20,66.7,159,Unhealthy,81.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 09:00 PM,2025,02,25,21,114.3,192,Unhealthy,161.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 10:00 PM,2025,02,25,22,147.5,223,Very Unhealthy,180.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-25 11:00 PM,2025,02,25,23,157.8,233,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 12:00 AM,2025,02,26,00,153.5,229,Very Unhealthy,149.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 01:00 AM,2025,02,26,01,151.1,226,Very Unhealthy,148.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 02:00 AM,2025,02,26,02,141.5,217,Very Unhealthy,131.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 03:00 AM,2025,02,26,03,138.9,214,Very Unhealthy,136.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 04:00 AM,2025,02,26,04,135.1,211,Very Unhealthy,131.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 05:00 AM,2025,02,26,05,125.1,200,Unhealthy,115.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 06:00 AM,2025,02,26,06,116.1,193,Unhealthy,107.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 07:00 AM,2025,02,26,07,109.6,189,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 08:00 AM,2025,02,26,08,115.3,193,Unhealthy,119.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 09:00 AM,2025,02,26,09,133.3,209,Very Unhealthy,157.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 10:00 AM,2025,02,26,10,152.6,228,Very Unhealthy,178.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 11:00 AM,2025,02,26,11,150.2,225,Very Unhealthy,146.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 12:00 PM,2025,02,26,12,137.9,213,Very Unhealthy,121.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 01:00 PM,2025,02,26,13,107.5,187,Unhealthy,78.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 02:00 PM,2025,02,26,14,72.4,163,Unhealthy,37.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 03:00 PM,2025,02,26,15,54.3,147,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 04:00 PM,2025,02,26,16,51.9,141,Unhealthy for Sensitive Groups,49.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 05:00 PM,2025,02,26,17,47.3,130,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 06:00 PM,2025,02,26,18,45.8,126,Unhealthy for Sensitive Groups,44.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 07:00 PM,2025,02,26,19,59.4,154,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 08:00 PM,2025,02,26,20,102.8,184,Unhealthy,146.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 09:00 PM,2025,02,26,21,182.8,258,Very Unhealthy,262.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 10:00 PM,2025,02,26,22,201.1,276,Very Unhealthy,219.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-26 11:00 PM,2025,02,26,23,190.8,266,Very Unhealthy,180.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 12:00 AM,2025,02,27,00,173.9,249,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 01:00 AM,2025,02,27,01,158.2,233,Very Unhealthy,142.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 02:00 AM,2025,02,27,02,134.4,210,Very Unhealthy,110.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 03:00 AM,2025,02,27,03,132.9,208,Very Unhealthy,131.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 04:00 AM,2025,02,27,04,113.1,191,Unhealthy,93.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 05:00 AM,2025,02,27,05,88.6,174,Unhealthy,64.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 06:00 AM,2025,02,27,06,68.7,160,Unhealthy,48.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 07:00 AM,2025,02,27,07,58.9,153,Unhealthy,49.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 08:00 AM,2025,02,27,08,40.1,112,Unhealthy for Sensitive Groups,21.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 09:00 AM,2025,02,27,09,31.9,93,Moderate,23.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 10:00 AM,2025,02,27,10,23.3,77,Moderate,14.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 11:00 AM,2025,02,27,11,18.7,69,Moderate,14.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 12:00 PM,2025,02,27,12,16.3,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 01:00 PM,2025,02,27,13,15.9,64,Moderate,15.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 02:00 PM,2025,02,27,14,19.2,70,Moderate,22.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 03:00 PM,2025,02,27,15,17.1,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 04:00 PM,2025,02,27,16,16.5,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 05:00 PM,2025,02,27,17,17.9,67,Moderate,19.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 06:00 PM,2025,02,27,18,20.0,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 07:00 PM,2025,02,27,19,20.1,71,Moderate,21.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 08:00 PM,2025,02,27,20,21.8,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 09:00 PM,2025,02,27,21,20.7,73,Moderate,19.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 10:00 PM,2025,02,27,22,19.7,71,Moderate,18.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-27 11:00 PM,2025,02,27,23,19.3,70,Moderate,18.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 12:00 AM,2025,02,28,00,16.7,65,Moderate,13.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 01:00 AM,2025,02,28,01,12.1,57,Moderate,8.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 02:00 AM,2025,02,28,02,9.3,51,Moderate,6.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 03:00 AM,2025,02,28,03,7.0,39,Good,4.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 04:00 AM,2025,02,28,04,6.6,37,Good,6.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 05:00 AM,2025,02,28,05,6.4,36,Good,6.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 06:00 AM,2025,02,28,06,5.2,29,Good,3.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 07:00 AM,2025,02,28,07,6.9,38,Good,8.6,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 08:00 AM,2025,02,28,08,9.0,50,Good,11.2,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 09:00 AM,2025,02,28,09,13.5,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 10:00 AM,2025,02,28,10,13.3,59,Moderate,13.1,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 11:00 AM,2025,02,28,11,18.4,68,Moderate,23.4,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 12:00 PM,2025,02,28,12,19.1,70,Moderate,19.8,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 01:00 PM,2025,02,28,13,20.9,73,Moderate,22.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 02:00 PM,2025,02,28,14,20.3,72,Moderate,19.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 03:00 PM,2025,02,28,15,16.6,65,Moderate,12.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 04:00 PM,2025,02,28,16,19.8,71,Moderate,22.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 05:00 PM,2025,02,28,17,17.5,67,Moderate,15.3,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 06:00 PM,2025,02,28,18,18.0,68,Moderate,18.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 07:00 PM,2025,02,28,19,18.8,69,Moderate,19.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 08:00 PM,2025,02,28,20,21.7,74,Moderate,24.9,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 09:00 PM,2025,02,28,21,50.3,137,Unhealthy for Sensitive Groups,78.7,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 10:00 PM,2025,02,28,22,69.7,161,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-02-28 11:00 PM,2025,02,28,23,58.1,153,Unhealthy,46.5,UG/M3,1 Hr,Valid
+Banja Luka,PM2.5 - Principal,2025-03-01 12:00 AM,2025,03,01,00,76.1,165,Unhealthy,94.0,UG/M3,1 Hr,Valid

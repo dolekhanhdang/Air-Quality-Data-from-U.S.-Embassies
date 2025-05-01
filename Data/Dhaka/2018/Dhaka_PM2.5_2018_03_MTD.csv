@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dhaka,PM2.5 - Principal,2018-03-01 01:00 AM,2018,03,01,01,122.2,185,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 02:00 AM,2018,03,01,02,118.1,183,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 03:00 AM,2018,03,01,03,119.0,184,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 04:00 AM,2018,03,01,04,128.0,188,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 05:00 AM,2018,03,01,05,150.4,200,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 06:00 AM,2018,03,01,06,159.4,210,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 07:00 AM,2018,03,01,07,161.2,212,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 08:00 AM,2018,03,01,08,177.0,227,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 09:00 AM,2018,03,01,09,143.9,197,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 10:00 AM,2018,03,01,10,116.1,182,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 11:00 AM,2018,03,01,11,108.5,178,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 12:00 PM,2018,03,01,12,103.7,176,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 01:00 PM,2018,03,01,13,106.8,177,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 02:00 PM,2018,03,01,14,92.9,170,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 03:00 PM,2018,03,01,15,81.9,165,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 04:00 PM,2018,03,01,16,87.4,167,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 05:00 PM,2018,03,01,17,88.7,168,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 06:00 PM,2018,03,01,18,97.3,173,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 07:00 PM,2018,03,01,19,113.6,181,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 08:00 PM,2018,03,01,20,138.8,194,Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 09:00 PM,2018,03,01,21,150.4,200,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 10:00 PM,2018,03,01,22,154.2,205,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-01 11:00 PM,2018,03,01,23,163.1,213,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 12:00 AM,2018,03,02,00,163.0,213,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 01:00 AM,2018,03,02,01,172.5,223,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 02:00 AM,2018,03,02,02,175.2,225,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 03:00 AM,2018,03,02,03,192.1,242,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 04:00 AM,2018,03,02,04,181.0,231,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 05:00 AM,2018,03,02,05,186.4,237,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 06:00 AM,2018,03,02,06,200.6,251,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 07:00 AM,2018,03,02,07,188.9,239,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 08:00 AM,2018,03,02,08,301.8,352,Hazardous,414.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 09:00 AM,2018,03,02,09,285.4,336,Hazardous,269.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 10:00 AM,2018,03,02,10,253.7,304,Hazardous,222.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 11:00 AM,2018,03,02,11,204.3,254,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 12:00 PM,2018,03,02,12,147.1,198,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 01:00 PM,2018,03,02,13,112.5,180,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 02:00 PM,2018,03,02,14,97.2,173,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 03:00 PM,2018,03,02,15,86.1,167,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 04:00 PM,2018,03,02,16,77.5,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 05:00 PM,2018,03,02,17,80.7,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 06:00 PM,2018,03,02,18,88.8,168,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 07:00 PM,2018,03,02,19,113.9,181,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 08:00 PM,2018,03,02,20,138.9,194,Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 09:00 PM,2018,03,02,21,134.4,192,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 10:00 PM,2018,03,02,22,154.2,205,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-02 11:00 PM,2018,03,02,23,173.1,223,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 12:00 AM,2018,03,03,00,198.5,249,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 01:00 AM,2018,03,03,01,148.7,199,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 02:00 AM,2018,03,03,02,115.8,182,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 03:00 AM,2018,03,03,03,98.4,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 04:00 AM,2018,03,03,04,83.7,166,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 05:00 AM,2018,03,03,05,74.8,161,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 06:00 AM,2018,03,03,06,64.9,156,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 07:00 AM,2018,03,03,07,66.4,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 08:00 AM,2018,03,03,08,67.7,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 09:00 AM,2018,03,03,09,70.3,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 10:00 AM,2018,03,03,10,69.1,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 11:00 AM,2018,03,03,11,70.0,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 12:00 PM,2018,03,03,12,72.1,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 01:00 PM,2018,03,03,13,68.5,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 02:00 PM,2018,03,03,14,68.3,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 03:00 PM,2018,03,03,15,67.4,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 04:00 PM,2018,03,03,16,65.6,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 05:00 PM,2018,03,03,17,66.5,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 06:00 PM,2018,03,03,18,70.4,159,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 07:00 PM,2018,03,03,19,100.3,174,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 08:00 PM,2018,03,03,20,104.6,176,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 09:00 PM,2018,03,03,21,95.8,172,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 10:00 PM,2018,03,03,22,94.9,171,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-03 11:00 PM,2018,03,03,23,92.9,170,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 12:00 AM,2018,03,04,00,76.9,162,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 01:00 AM,2018,03,04,01,62.4,155,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 02:00 AM,2018,03,04,02,56.2,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 03:00 AM,2018,03,04,03,60.6,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 04:00 AM,2018,03,04,04,59.3,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 05:00 AM,2018,03,04,05,69.1,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 06:00 AM,2018,03,04,06,63.5,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 07:00 AM,2018,03,04,07,75.7,161,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 08:00 AM,2018,03,04,08,86.8,167,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 09:00 AM,2018,03,04,09,94.9,171,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 10:00 AM,2018,03,04,10,131.4,190,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 11:00 AM,2018,03,04,11,150.7,201,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 12:00 PM,2018,03,04,12,122.8,186,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 01:00 PM,2018,03,04,13,94.9,171,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 02:00 PM,2018,03,04,14,78.4,163,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 03:00 PM,2018,03,04,15,61.7,154,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 04:00 PM,2018,03,04,16,58.8,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 05:00 PM,2018,03,04,17,63.4,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 06:00 PM,2018,03,04,18,71.7,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 07:00 PM,2018,03,04,19,100.8,174,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 08:00 PM,2018,03,04,20,99.9,174,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 09:00 PM,2018,03,04,21,95.4,172,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 10:00 PM,2018,03,04,22,109.7,179,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-04 11:00 PM,2018,03,04,23,93.3,171,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 12:00 AM,2018,03,05,00,72.1,160,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 01:00 AM,2018,03,05,01,55.5,151,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 02:00 AM,2018,03,05,02,52.7,143,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 03:00 AM,2018,03,05,03,52.8,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 04:00 AM,2018,03,05,04,52.4,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 05:00 AM,2018,03,05,05,51.7,141,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 06:00 AM,2018,03,05,06,51.8,141,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 07:00 AM,2018,03,05,07,58.4,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 08:00 AM,2018,03,05,08,58.2,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 09:00 AM,2018,03,05,09,81.6,164,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 10:00 AM,2018,03,05,10,102.3,175,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 11:00 AM,2018,03,05,11,97.6,173,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 12:00 PM,2018,03,05,12,93.8,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 01:00 PM,2018,03,05,13,87.9,168,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 02:00 PM,2018,03,05,14,78.9,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 03:00 PM,2018,03,05,15,76.4,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 04:00 PM,2018,03,05,16,67.2,157,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 05:00 PM,2018,03,05,17,67.1,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 06:00 PM,2018,03,05,18,73.5,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 07:00 PM,2018,03,05,19,94.7,171,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 08:00 PM,2018,03,05,20,107.9,178,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 09:00 PM,2018,03,05,21,107.9,178,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 10:00 PM,2018,03,05,22,98.9,173,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-05 11:00 PM,2018,03,05,23,83.9,166,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 12:00 AM,2018,03,06,00,78.4,163,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 01:00 AM,2018,03,06,01,77.2,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 02:00 AM,2018,03,06,02,75.6,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 03:00 AM,2018,03,06,03,71.3,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 04:00 AM,2018,03,06,04,84.1,166,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 05:00 AM,2018,03,06,05,89.0,168,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 06:00 AM,2018,03,06,06,128.5,189,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 07:00 AM,2018,03,06,07,154.2,205,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 08:00 AM,2018,03,06,08,173.6,224,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 09:00 AM,2018,03,06,09,218.3,268,Very Unhealthy,263.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 10:00 AM,2018,03,06,10,157.1,208,Very Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 11:00 AM,2018,03,06,11,127.0,188,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 12:00 PM,2018,03,06,12,102.5,175,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 01:00 PM,2018,03,06,13,82.2,165,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 02:00 PM,2018,03,06,14,69.1,158,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 03:00 PM,2018,03,06,15,59.5,153,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 04:00 PM,2018,03,06,16,57.2,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 05:00 PM,2018,03,06,17,58.1,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 06:00 PM,2018,03,06,18,59.5,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 07:00 PM,2018,03,06,19,83.2,165,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 08:00 PM,2018,03,06,20,104.6,176,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 09:00 PM,2018,03,06,21,113.2,181,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 10:00 PM,2018,03,06,22,126.1,187,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-06 11:00 PM,2018,03,06,23,186.5,237,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 12:00 AM,2018,03,07,00,279.3,330,Hazardous,372.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 01:00 AM,2018,03,07,01,259.1,310,Hazardous,239.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 02:00 AM,2018,03,07,02,217.1,267,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 03:00 AM,2018,03,07,03,165.0,215,Very Unhealthy,113.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 04:00 AM,2018,03,07,04,144.0,197,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 05:00 AM,2018,03,07,05,125.0,187,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 06:00 AM,2018,03,07,06,113.5,181,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 07:00 AM,2018,03,07,07,118.2,183,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 08:00 AM,2018,03,07,08,116.1,182,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 09:00 AM,2018,03,07,09,102.0,175,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 10:00 AM,2018,03,07,10,78.0,163,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 11:00 AM,2018,03,07,11,60.9,154,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 12:00 PM,2018,03,07,12,49.9,136,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 01:00 PM,2018,03,07,13,45.4,125,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 02:00 PM,2018,03,07,14,49.2,135,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 03:00 PM,2018,03,07,15,55.0,149,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 04:00 PM,2018,03,07,16,50.5,138,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 05:00 PM,2018,03,07,17,49.2,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 06:00 PM,2018,03,07,18,54.6,148,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 07:00 PM,2018,03,07,19,70.8,159,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 08:00 PM,2018,03,07,20,89.9,169,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 09:00 PM,2018,03,07,21,114.4,181,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 10:00 PM,2018,03,07,22,97.7,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-07 11:00 PM,2018,03,07,23,100.8,174,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 12:00 AM,2018,03,08,00,101.9,175,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 01:00 AM,2018,03,08,01,107.9,178,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 02:00 AM,2018,03,08,02,160.0,210,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 03:00 AM,2018,03,08,03,158.0,208,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 04:00 AM,2018,03,08,04,152.0,202,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 05:00 AM,2018,03,08,05,146.0,198,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 06:00 AM,2018,03,08,06,133.0,191,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 07:00 AM,2018,03,08,07,120.5,185,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 08:00 AM,2018,03,08,08,115.7,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 09:00 AM,2018,03,08,09,96.8,172,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 10:00 AM,2018,03,08,10,83.9,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 11:00 AM,2018,03,08,11,95.4,172,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 12:00 PM,2018,03,08,12,84.2,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 01:00 PM,2018,03,08,13,73.6,160,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 02:00 PM,2018,03,08,14,69.7,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 03:00 PM,2018,03,08,15,64.8,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 04:00 PM,2018,03,08,16,58.9,153,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 05:00 PM,2018,03,08,17,57.9,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 06:00 PM,2018,03,08,18,63.4,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 07:00 PM,2018,03,08,19,81.2,164,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 08:00 PM,2018,03,08,20,95.1,171,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 09:00 PM,2018,03,08,21,105.5,177,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 10:00 PM,2018,03,08,22,105.2,177,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-08 11:00 PM,2018,03,08,23,109.6,179,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 12:00 AM,2018,03,09,00,131.3,190,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 01:00 AM,2018,03,09,01,128.6,189,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 02:00 AM,2018,03,09,02,134.3,192,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 03:00 AM,2018,03,09,03,144.1,197,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 04:00 AM,2018,03,09,04,165.1,215,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 05:00 AM,2018,03,09,05,162.5,213,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 06:00 AM,2018,03,09,06,187.3,237,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 07:00 AM,2018,03,09,07,201.1,251,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 08:00 AM,2018,03,09,08,184.5,235,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 09:00 AM,2018,03,09,09,163.7,214,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 10:00 AM,2018,03,09,10,134.8,192,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 11:00 AM,2018,03,09,11,114.4,181,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 12:00 PM,2018,03,09,12,91.7,170,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 01:00 PM,2018,03,09,13,76.8,162,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 02:00 PM,2018,03,09,14,72.4,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 03:00 PM,2018,03,09,15,72.1,160,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 04:00 PM,2018,03,09,16,62.0,154,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 05:00 PM,2018,03,09,17,60.0,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 06:00 PM,2018,03,09,18,64.4,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 07:00 PM,2018,03,09,19,78.7,163,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 08:00 PM,2018,03,09,20,102.3,175,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 09:00 PM,2018,03,09,21,128.6,189,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 10:00 PM,2018,03,09,22,160.3,211,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-09 11:00 PM,2018,03,09,23,188.6,239,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 12:00 AM,2018,03,10,00,218.8,269,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 01:00 AM,2018,03,10,01,213.4,263,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 02:00 AM,2018,03,10,02,217.2,267,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 03:00 AM,2018,03,10,03,299.1,349,Hazardous,381.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 04:00 AM,2018,03,10,04,300.1,350,Hazardous,301.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 05:00 AM,2018,03,10,05,296.0,346,Hazardous,292.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 06:00 AM,2018,03,10,06,269.0,319,Hazardous,242.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 07:00 AM,2018,03,10,07,247.0,297,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 08:00 AM,2018,03,10,08,211.5,261,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 09:00 AM,2018,03,10,09,173.7,224,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 10:00 AM,2018,03,10,10,133.8,191,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 11:00 AM,2018,03,10,11,102.9,175,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 12:00 PM,2018,03,10,12,91.4,170,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 01:00 PM,2018,03,10,13,77.2,162,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 02:00 PM,2018,03,10,14,66.5,157,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 03:00 PM,2018,03,10,15,61.2,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 04:00 PM,2018,03,10,16,62.5,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 05:00 PM,2018,03,10,17,52.7,143,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 06:00 PM,2018,03,10,18,56.3,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 07:00 PM,2018,03,10,19,71.6,159,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 08:00 PM,2018,03,10,20,104.3,176,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 09:00 PM,2018,03,10,21,122.1,185,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 10:00 PM,2018,03,10,22,151.5,202,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-10 11:00 PM,2018,03,10,23,165.3,216,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 12:00 AM,2018,03,11,00,193.1,243,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 01:00 AM,2018,03,11,01,166.0,216,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 03:00 AM,2018,03,11,03,215.5,265,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 03:00 AM,2018,03,11,03,273.8,324,Hazardous,332.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 04:00 AM,2018,03,11,04,334.4,384,Hazardous,395.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 05:00 AM,2018,03,11,05,354.2,403,Hazardous,374.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 06:00 AM,2018,03,11,06,413.6,443,Hazardous,473.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 07:00 AM,2018,03,11,07,525.9,517,Hazardous,638.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 08:00 AM,2018,03,11,08,530.5,520,Hazardous,535.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 09:00 AM,2018,03,11,09,377.2,419,Hazardous,224.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 10:00 AM,2018,03,11,10,245.1,295,Very Unhealthy,113.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 11:00 AM,2018,03,11,11,163.5,214,Very Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 12:00 PM,2018,03,11,12,112.7,181,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 01:00 PM,2018,03,11,13,83.8,166,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 02:00 PM,2018,03,11,14,73.4,160,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 03:00 PM,2018,03,11,15,66.1,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 04:00 PM,2018,03,11,16,61.0,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 05:00 PM,2018,03,11,17,59.9,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 06:00 PM,2018,03,11,18,67.9,157,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 07:00 PM,2018,03,11,19,94.9,171,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 08:00 PM,2018,03,11,20,123.4,186,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 09:00 PM,2018,03,11,21,136.1,193,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 10:00 PM,2018,03,11,22,177.6,228,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-11 11:00 PM,2018,03,11,23,220.8,271,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 12:00 AM,2018,03,12,00,244.9,295,Very Unhealthy,269.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 01:00 AM,2018,03,12,01,273.9,324,Hazardous,303.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 02:00 AM,2018,03,12,02,274.0,324,Hazardous,274.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 03:00 AM,2018,03,12,03,284.0,334,Hazardous,294.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 04:00 AM,2018,03,12,04,309.0,359,Hazardous,334.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 05:00 AM,2018,03,12,05,320.0,370,Hazardous,331.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 06:00 AM,2018,03,12,06,232.5,282,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 07:00 AM,2018,03,12,07,175.7,226,Very Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 08:00 AM,2018,03,12,08,130.8,190,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 09:00 AM,2018,03,12,09,99.9,174,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 10:00 AM,2018,03,12,10,78.4,163,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 11:00 AM,2018,03,12,11,78.3,163,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-12 12:00 PM,2018,03,12,12,65.4,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 01:00 PM,2018,03,12,13,64.5,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 02:00 PM,2018,03,12,14,64.2,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 03:00 PM,2018,03,12,15,61.5,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 04:00 PM,2018,03,12,16,57.6,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 05:00 PM,2018,03,12,17,60.3,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 06:00 PM,2018,03,12,18,71.1,159,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 07:00 PM,2018,03,12,19,84.0,166,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 08:00 PM,2018,03,12,20,106.8,177,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 09:00 PM,2018,03,12,21,115.9,182,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 10:00 PM,2018,03,12,22,123.9,186,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-12 11:00 PM,2018,03,12,23,110.4,179,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 12:00 AM,2018,03,13,00,96.2,172,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 01:00 AM,2018,03,13,01,82.1,165,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 02:00 AM,2018,03,13,02,84.0,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 03:00 AM,2018,03,13,03,85.5,166,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 04:00 AM,2018,03,13,04,64.2,155,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 05:00 AM,2018,03,13,05,58.1,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 06:00 AM,2018,03,13,06,61.5,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 07:00 AM,2018,03,13,07,65.2,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 08:00 AM,2018,03,13,08,60.1,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 09:00 AM,2018,03,13,09,63.5,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 10:00 AM,2018,03,13,10,66.2,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 11:00 AM,2018,03,13,11,68.6,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 12:00 PM,2018,03,13,12,67.8,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 01:00 PM,2018,03,13,13,67.9,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 02:00 PM,2018,03,13,14,63.9,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 03:00 PM,2018,03,13,15,59.9,153,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 04:00 PM,2018,03,13,16,57.3,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 05:00 PM,2018,03,13,17,59.1,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 06:00 PM,2018,03,13,18,61.2,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 07:00 PM,2018,03,13,19,59.9,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 08:00 PM,2018,03,13,20,56.5,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 09:00 PM,2018,03,13,21,56.6,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 10:00 PM,2018,03,13,22,58.2,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-13 11:00 PM,2018,03,13,23,62.2,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 12:00 AM,2018,03,14,00,64.3,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 01:00 AM,2018,03,14,01,71.1,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 02:00 AM,2018,03,14,02,88.2,168,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 03:00 AM,2018,03,14,03,124.6,187,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 04:00 AM,2018,03,14,04,135.8,192,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 05:00 AM,2018,03,14,05,101.4,175,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 06:00 AM,2018,03,14,06,118.2,183,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 07:00 AM,2018,03,14,07,166.6,217,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 08:00 AM,2018,03,14,08,221.3,271,Very Unhealthy,276.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 09:00 AM,2018,03,14,09,236.1,286,Very Unhealthy,251.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 10:00 AM,2018,03,14,10,191.1,241,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 11:00 AM,2018,03,14,11,129.5,189,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 12:00 PM,2018,03,14,12,102.7,175,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 01:00 PM,2018,03,14,13,88.3,168,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 02:00 PM,2018,03,14,14,76.6,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 03:00 PM,2018,03,14,15,84.8,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 04:00 PM,2018,03,14,16,97.9,173,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 05:00 PM,2018,03,14,17,100.4,174,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 06:00 PM,2018,03,14,18,98.7,173,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 07:00 PM,2018,03,14,19,104.8,176,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 08:00 PM,2018,03,14,20,122.9,186,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 09:00 PM,2018,03,14,21,125.9,187,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 10:00 PM,2018,03,14,22,118.4,183,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-14 11:00 PM,2018,03,14,23,122.7,186,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 12:00 AM,2018,03,15,00,127.3,188,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 01:00 AM,2018,03,15,01,134.1,192,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 02:00 AM,2018,03,15,02,102.7,175,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 03:00 AM,2018,03,15,03,90.4,169,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 04:00 AM,2018,03,15,04,75.1,161,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 05:00 AM,2018,03,15,05,69.0,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 06:00 AM,2018,03,15,06,64.0,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 07:00 AM,2018,03,15,07,64.0,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 08:00 AM,2018,03,15,08,65.4,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 09:00 AM,2018,03,15,09,68.7,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 10:00 AM,2018,03,15,10,75.8,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 11:00 AM,2018,03,15,11,116.9,183,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 12:00 PM,2018,03,15,12,101.9,175,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 01:00 PM,2018,03,15,13,93.4,171,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 02:00 PM,2018,03,15,14,89.7,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 03:00 PM,2018,03,15,15,79.8,164,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 04:00 PM,2018,03,15,16,78.9,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 05:00 PM,2018,03,15,17,70.4,159,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 06:00 PM,2018,03,15,18,75.2,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 07:00 PM,2018,03,15,19,82.1,165,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 08:00 PM,2018,03,15,20,88.5,168,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 09:00 PM,2018,03,15,21,75.7,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 10:00 PM,2018,03,15,22,69.8,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-15 11:00 PM,2018,03,15,23,55.4,150,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 12:00 AM,2018,03,16,00,49.7,136,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 01:00 AM,2018,03,16,01,38.3,108,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 02:00 AM,2018,03,16,02,38.1,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 03:00 AM,2018,03,16,03,35.0,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 04:00 AM,2018,03,16,04,43.0,119,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 05:00 AM,2018,03,16,05,40.5,113,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 06:00 AM,2018,03,16,06,45.2,125,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 07:00 AM,2018,03,16,07,46.6,128,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 08:00 AM,2018,03,16,08,49.8,136,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 09:00 AM,2018,03,16,09,51.4,140,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 10:00 AM,2018,03,16,10,53.6,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 11:00 AM,2018,03,16,11,59.8,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 12:00 PM,2018,03,16,12,61.4,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 01:00 PM,2018,03,16,13,67.7,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 02:00 PM,2018,03,16,14,68.8,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 03:00 PM,2018,03,16,15,67.8,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 04:00 PM,2018,03,16,16,72.9,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 05:00 PM,2018,03,16,17,75.5,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 06:00 PM,2018,03,16,18,87.0,167,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 07:00 PM,2018,03,16,19,91.4,170,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 08:00 PM,2018,03,16,20,106.7,177,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 09:00 PM,2018,03,16,21,93.8,171,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 10:00 PM,2018,03,16,22,83.9,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-16 11:00 PM,2018,03,16,23,83.0,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 12:00 AM,2018,03,17,00,80.5,164,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 01:00 AM,2018,03,17,01,78.5,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 02:00 AM,2018,03,17,02,81.4,164,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 03:00 AM,2018,03,17,03,80.9,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 04:00 AM,2018,03,17,04,81.7,165,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 05:00 AM,2018,03,17,05,85.0,166,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 06:00 AM,2018,03,17,06,85.4,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 07:00 AM,2018,03,17,07,81.2,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 08:00 AM,2018,03,17,08,81.0,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 09:00 AM,2018,03,17,09,82.0,165,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 10:00 AM,2018,03,17,10,79.0,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 11:00 AM,2018,03,17,11,77.5,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 12:00 PM,2018,03,17,12,72.5,160,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 01:00 PM,2018,03,17,13,73.2,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 02:00 PM,2018,03,17,14,70.3,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 03:00 PM,2018,03,17,15,65.9,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 04:00 PM,2018,03,17,16,65.5,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 05:00 PM,2018,03,17,17,63.2,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 06:00 PM,2018,03,17,18,66.0,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 07:00 PM,2018,03,17,19,80.3,164,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 08:00 PM,2018,03,17,20,119.1,184,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 09:00 PM,2018,03,17,21,177.5,228,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 10:00 PM,2018,03,17,22,146.8,198,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-17 11:00 PM,2018,03,17,23,137.9,194,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 12:00 AM,2018,03,18,00,121.9,185,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 01:00 AM,2018,03,18,01,123.9,186,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 02:00 AM,2018,03,18,02,125.5,187,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 03:00 AM,2018,03,18,03,108.7,178,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 04:00 AM,2018,03,18,04,94.3,171,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 05:00 AM,2018,03,18,05,83.6,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 06:00 AM,2018,03,18,06,106.3,177,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 07:00 AM,2018,03,18,07,129.6,189,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 08:00 AM,2018,03,18,08,146.3,198,Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 09:00 AM,2018,03,18,09,143.1,196,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 10:00 AM,2018,03,18,10,140.5,195,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 11:00 AM,2018,03,18,11,134.2,192,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 12:00 PM,2018,03,18,12,118.6,184,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 01:00 PM,2018,03,18,13,106.8,177,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 02:00 PM,2018,03,18,14,99.9,174,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 03:00 PM,2018,03,18,15,86.9,167,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 04:00 PM,2018,03,18,16,66.4,157,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 05:00 PM,2018,03,18,17,58.2,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 06:00 PM,2018,03,18,18,88.6,168,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 07:00 PM,2018,03,18,19,119.8,184,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 08:00 PM,2018,03,18,20,162.9,213,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 09:00 PM,2018,03,18,21,190.4,241,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 10:00 PM,2018,03,18,22,211.7,262,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-18 11:00 PM,2018,03,18,23,184.8,235,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 12:00 AM,2018,03,19,00,156.4,207,Very Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 01:00 AM,2018,03,19,01,154.7,205,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 02:00 AM,2018,03,19,02,158.8,209,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 03:00 AM,2018,03,19,03,152.9,203,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 04:00 AM,2018,03,19,04,119.4,184,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 05:00 AM,2018,03,19,05,129.2,189,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 06:00 AM,2018,03,19,06,146.1,198,Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 07:00 AM,2018,03,19,07,144.5,197,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 08:00 AM,2018,03,19,08,164.2,215,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 09:00 AM,2018,03,19,09,172.1,222,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 10:00 AM,2018,03,19,10,215.0,265,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 11:00 AM,2018,03,19,11,269.5,320,Hazardous,324.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 12:00 PM,2018,03,19,12,219.7,270,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 01:00 PM,2018,03,19,13,137.3,193,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 02:00 PM,2018,03,19,14,102.1,175,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 03:00 PM,2018,03,19,15,86.0,167,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 04:00 PM,2018,03,19,16,74.5,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 05:00 PM,2018,03,19,17,66.2,157,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 06:00 PM,2018,03,19,18,71.1,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 07:00 PM,2018,03,19,19,85.0,166,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 08:00 PM,2018,03,19,20,100.5,174,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 09:00 PM,2018,03,19,21,120.2,184,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 10:00 PM,2018,03,19,22,135.6,192,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-19 11:00 PM,2018,03,19,23,133.7,191,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 12:00 AM,2018,03,20,00,117.8,183,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 01:00 AM,2018,03,20,01,121.9,185,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 02:00 AM,2018,03,20,02,110.4,179,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 03:00 AM,2018,03,20,03,100.2,174,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 04:00 AM,2018,03,20,04,105.6,177,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 05:00 AM,2018,03,20,05,127.1,188,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 06:00 AM,2018,03,20,06,141.5,195,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 07:00 AM,2018,03,20,07,138.2,194,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 08:00 AM,2018,03,20,08,141.2,195,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 09:00 AM,2018,03,20,09,115.5,182,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 10:00 AM,2018,03,20,10,89.5,169,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 11:00 AM,2018,03,20,11,90.7,169,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 12:00 PM,2018,03,20,12,89.8,169,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 01:00 PM,2018,03,20,13,83.4,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 02:00 PM,2018,03,20,14,70.7,159,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 03:00 PM,2018,03,20,15,67.8,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 04:00 PM,2018,03,20,16,64.9,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 05:00 PM,2018,03,20,17,63.9,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 06:00 PM,2018,03,20,18,66.4,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 07:00 PM,2018,03,20,19,100.7,174,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 08:00 PM,2018,03,20,20,136.3,193,Unhealthy,172.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 09:00 PM,2018,03,20,21,152.1,203,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 10:00 PM,2018,03,20,22,154.6,205,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-20 11:00 PM,2018,03,20,23,146.8,198,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 12:00 AM,2018,03,21,00,195.4,245,Very Unhealthy,244.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 01:00 AM,2018,03,21,01,223.7,274,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 02:00 AM,2018,03,21,02,183.8,234,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 03:00 AM,2018,03,21,03,185.4,236,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 04:00 AM,2018,03,21,04,169.2,220,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 05:00 AM,2018,03,21,05,173.6,224,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 06:00 AM,2018,03,21,06,180.5,231,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 07:00 AM,2018,03,21,07,185.2,235,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 08:00 AM,2018,03,21,08,197.6,248,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 09:00 AM,2018,03,21,09,193.3,243,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 10:00 AM,2018,03,21,10,155.3,206,Very Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 11:00 AM,2018,03,21,11,146.1,198,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 12:00 PM,2018,03,21,12,141.0,195,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 01:00 PM,2018,03,21,13,108.0,178,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 02:00 PM,2018,03,21,14,83.9,166,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 03:00 PM,2018,03,21,15,68.9,158,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 04:00 PM,2018,03,21,16,68.9,158,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-21 05:00 PM,2018,03,21,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-21 06:00 PM,2018,03,21,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-21 07:00 PM,2018,03,21,19,-999.0,-999,N/A,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 08:00 PM,2018,03,21,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-21 09:00 PM,2018,03,21,21,204.2,254,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 10:00 PM,2018,03,21,22,199.8,250,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-21 11:00 PM,2018,03,21,23,178.5,229,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 12:00 AM,2018,03,22,00,155.7,206,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 01:00 AM,2018,03,22,01,127.2,188,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 02:00 AM,2018,03,22,02,113.9,181,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 03:00 AM,2018,03,22,03,107.4,178,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 04:00 AM,2018,03,22,04,116.7,183,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 05:00 AM,2018,03,22,05,197.9,248,Very Unhealthy,279.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 06:00 AM,2018,03,22,06,226.5,276,Very Unhealthy,255.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 07:00 AM,2018,03,22,07,319.3,369,Hazardous,412.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 08:00 AM,2018,03,22,08,322.1,372,Hazardous,325.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 09:00 AM,2018,03,22,09,245.0,295,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 10:00 AM,2018,03,22,10,209.5,259,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 11:00 AM,2018,03,22,11,206.2,256,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 12:00 PM,2018,03,22,12,178.1,228,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 01:00 PM,2018,03,22,13,134.5,192,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 02:00 PM,2018,03,22,14,103.2,176,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 03:00 PM,2018,03,22,15,90.6,169,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 04:00 PM,2018,03,22,16,88.8,168,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 05:00 PM,2018,03,22,17,89.8,169,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 06:00 PM,2018,03,22,18,93.9,171,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 07:00 PM,2018,03,22,19,107.4,178,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 08:00 PM,2018,03,22,20,122.6,186,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 09:00 PM,2018,03,22,21,139.3,194,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 10:00 PM,2018,03,22,22,139.1,194,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-22 11:00 PM,2018,03,22,23,130.0,189,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 12:00 AM,2018,03,23,00,115.0,182,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 01:00 AM,2018,03,23,01,97.0,172,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 02:00 AM,2018,03,23,02,84.5,166,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 03:00 AM,2018,03,23,03,79.7,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 04:00 AM,2018,03,23,04,142.3,196,Unhealthy,205.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 05:00 AM,2018,03,23,05,205.7,256,Very Unhealthy,269.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 06:00 AM,2018,03,23,06,231.8,282,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 07:00 AM,2018,03,23,07,233.4,283,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 08:00 AM,2018,03,23,08,202.7,253,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 09:00 AM,2018,03,23,09,188.8,239,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 10:00 AM,2018,03,23,10,166.9,217,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 11:00 AM,2018,03,23,11,137.4,193,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 12:00 PM,2018,03,23,12,115.2,182,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 01:00 PM,2018,03,23,13,92.1,170,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 02:00 PM,2018,03,23,14,86.0,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 03:00 PM,2018,03,23,15,85.5,166,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 04:00 PM,2018,03,23,16,82.7,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 05:00 PM,2018,03,23,17,82.7,165,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-23 06:00 PM,2018,03,23,18,81.5,164,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 07:00 PM,2018,03,23,19,83.4,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 08:00 PM,2018,03,23,20,83.4,165,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-23 09:00 PM,2018,03,23,21,101.9,175,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 10:00 PM,2018,03,23,22,111.9,180,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-23 11:00 PM,2018,03,23,23,101.8,175,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 12:00 AM,2018,03,24,00,101.9,175,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 01:00 AM,2018,03,24,01,81.0,164,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 02:00 AM,2018,03,24,02,71.9,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 03:00 AM,2018,03,24,03,66.9,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 04:00 AM,2018,03,24,04,58.4,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 05:00 AM,2018,03,24,05,52.7,143,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 06:00 AM,2018,03,24,06,50.3,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 07:00 AM,2018,03,24,07,44.1,122,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 08:00 AM,2018,03,24,08,50.0,137,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 09:00 AM,2018,03,24,09,56.5,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 10:00 AM,2018,03,24,10,56.2,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 11:00 AM,2018,03,24,11,53.6,146,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 12:00 PM,2018,03,24,12,65.3,156,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 01:00 PM,2018,03,24,13,64.1,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 02:00 PM,2018,03,24,14,64.1,155,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-24 03:00 PM,2018,03,24,15,75.3,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 04:00 PM,2018,03,24,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-24 05:00 PM,2018,03,24,17,94.0,171,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 06:00 PM,2018,03,24,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-24 07:00 PM,2018,03,24,19,100.7,174,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 08:00 PM,2018,03,24,20,109.8,179,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 09:00 PM,2018,03,24,21,118.6,184,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 10:00 PM,2018,03,24,22,124.0,186,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-24 11:00 PM,2018,03,24,23,150.5,201,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 12:00 AM,2018,03,25,00,168.4,219,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 01:00 AM,2018,03,25,01,156.6,207,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 02:00 AM,2018,03,25,02,146.3,198,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 03:00 AM,2018,03,25,03,163.4,214,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 04:00 AM,2018,03,25,04,188.8,239,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 05:00 AM,2018,03,25,05,180.4,231,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 06:00 AM,2018,03,25,06,131.2,190,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 07:00 AM,2018,03,25,07,107.6,178,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 08:00 AM,2018,03,25,08,96.2,172,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 09:00 AM,2018,03,25,09,82.6,165,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 10:00 AM,2018,03,25,10,81.8,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 11:00 AM,2018,03,25,11,85.8,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 12:00 PM,2018,03,25,12,90.4,169,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 01:00 PM,2018,03,25,13,94.7,171,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 02:00 PM,2018,03,25,14,93.8,171,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 03:00 PM,2018,03,25,15,88.9,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 04:00 PM,2018,03,25,16,88.4,168,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 05:00 PM,2018,03,25,17,83.9,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 06:00 PM,2018,03,25,18,85.5,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 07:00 PM,2018,03,25,19,86.8,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 08:00 PM,2018,03,25,20,125.2,187,Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 09:00 PM,2018,03,25,21,140.6,195,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 10:00 PM,2018,03,25,22,202.8,253,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-25 11:00 PM,2018,03,25,23,199.4,249,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 12:00 AM,2018,03,26,00,162.2,213,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 01:00 AM,2018,03,26,01,144.6,197,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 02:00 AM,2018,03,26,02,153.3,204,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 03:00 AM,2018,03,26,03,154.6,205,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 04:00 AM,2018,03,26,04,117.3,183,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 05:00 AM,2018,03,26,05,93.6,171,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 06:00 AM,2018,03,26,06,89.3,168,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 07:00 AM,2018,03,26,07,78.1,163,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 08:00 AM,2018,03,26,08,80.5,164,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 09:00 AM,2018,03,26,09,75.2,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 10:00 AM,2018,03,26,10,78.1,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 11:00 AM,2018,03,26,11,75.5,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 12:00 PM,2018,03,26,12,81.2,164,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 01:00 PM,2018,03,26,13,79.6,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 02:00 PM,2018,03,26,14,98.3,173,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 03:00 PM,2018,03,26,15,95.4,172,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-26 04:00 PM,2018,03,26,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-26 05:00 PM,2018,03,26,17,-999.0,-999,N/A,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 06:00 PM,2018,03,26,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-26 07:00 PM,2018,03,26,19,84.1,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 08:00 PM,2018,03,26,20,90.8,169,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 09:00 PM,2018,03,26,21,87.3,167,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 10:00 PM,2018,03,26,22,86.7,167,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-26 11:00 PM,2018,03,26,23,83.7,166,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 12:00 AM,2018,03,27,00,81.2,164,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 01:00 AM,2018,03,27,01,77.2,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 02:00 AM,2018,03,27,02,68.5,158,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 03:00 AM,2018,03,27,03,63.0,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 04:00 AM,2018,03,27,04,53.5,145,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 05:00 AM,2018,03,27,05,51.2,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 06:00 AM,2018,03,27,06,60.6,154,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 07:00 AM,2018,03,27,07,72.8,160,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 08:00 AM,2018,03,27,08,106.4,177,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 09:00 AM,2018,03,27,09,99.2,174,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 10:00 AM,2018,03,27,10,88.1,168,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 11:00 AM,2018,03,27,11,86.5,167,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 12:00 PM,2018,03,27,12,95.7,172,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 01:00 PM,2018,03,27,13,106.3,177,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 02:00 PM,2018,03,27,14,115.7,182,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 03:00 PM,2018,03,27,15,109.3,179,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 04:00 PM,2018,03,27,16,104.1,176,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 05:00 PM,2018,03,27,17,104.1,176,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-27 06:00 PM,2018,03,27,18,100.6,174,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 07:00 PM,2018,03,27,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-27 08:00 PM,2018,03,27,20,98.2,173,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 09:00 PM,2018,03,27,21,91.8,170,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 10:00 PM,2018,03,27,22,99.6,174,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-27 11:00 PM,2018,03,27,23,96.9,172,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 12:00 AM,2018,03,28,00,95.5,172,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 01:00 AM,2018,03,28,01,99.7,174,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 02:00 AM,2018,03,28,02,122.2,185,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 03:00 AM,2018,03,28,03,148.4,199,Unhealthy,171.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 04:00 AM,2018,03,28,04,152.2,203,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 05:00 AM,2018,03,28,05,115.0,182,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 06:00 AM,2018,03,28,06,98.0,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 07:00 AM,2018,03,28,07,78.5,163,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 08:00 AM,2018,03,28,08,71.7,159,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 09:00 AM,2018,03,28,09,70.8,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 10:00 AM,2018,03,28,10,74.9,161,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 11:00 AM,2018,03,28,11,70.4,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 12:00 PM,2018,03,28,12,69.7,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 01:00 PM,2018,03,28,13,68.8,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 02:00 PM,2018,03,28,14,80.4,164,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 03:00 PM,2018,03,28,15,85.2,166,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 04:00 PM,2018,03,28,16,78.3,163,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 05:00 PM,2018,03,28,17,78.3,163,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-28 06:00 PM,2018,03,28,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-28 07:00 PM,2018,03,28,19,-999.0,-999,N/A,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 08:00 PM,2018,03,28,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-28 09:00 PM,2018,03,28,21,118.6,184,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-28 10:00 PM,2018,03,28,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-28 11:00 PM,2018,03,28,23,81.0,164,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 12:00 AM,2018,03,29,00,82.2,165,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 01:00 AM,2018,03,29,01,76.7,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 02:00 AM,2018,03,29,02,64.2,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 03:00 AM,2018,03,29,03,56.4,151,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 04:00 AM,2018,03,29,04,43.0,119,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 05:00 AM,2018,03,29,05,46.0,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 06:00 AM,2018,03,29,06,38.0,107,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 07:00 AM,2018,03,29,07,53.5,145,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 08:00 AM,2018,03,29,08,53.5,145,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-29 09:00 AM,2018,03,29,09,70.5,159,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 10:00 AM,2018,03,29,10,72.5,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 11:00 AM,2018,03,29,11,72.7,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 12:00 PM,2018,03,29,12,64.1,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 01:00 PM,2018,03,29,13,66.0,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 02:00 PM,2018,03,29,14,63.0,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 03:00 PM,2018,03,29,15,67.5,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 04:00 PM,2018,03,29,16,68.2,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 05:00 PM,2018,03,29,17,68.2,158,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-29 06:00 PM,2018,03,29,18,76.8,162,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 07:00 PM,2018,03,29,19,93.4,171,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 08:00 PM,2018,03,29,20,111.3,180,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 09:00 PM,2018,03,29,21,111.3,180,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-29 10:00 PM,2018,03,29,22,79.7,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-29 11:00 PM,2018,03,29,23,67.8,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 12:00 AM,2018,03,30,00,62.0,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 01:00 AM,2018,03,30,01,57.8,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 02:00 AM,2018,03,30,02,59.4,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 03:00 AM,2018,03,30,03,51.6,141,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 04:00 AM,2018,03,30,04,48.3,133,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 05:00 AM,2018,03,30,05,91.2,169,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 06:00 AM,2018,03,30,06,80.1,164,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 07:00 AM,2018,03,30,07,82.0,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 08:00 AM,2018,03,30,08,65.5,156,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 09:00 AM,2018,03,30,09,64.7,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 10:00 AM,2018,03,30,10,70.8,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 11:00 AM,2018,03,30,11,77.4,162,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 12:00 PM,2018,03,30,12,61.7,154,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 01:00 PM,2018,03,30,13,53.3,145,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 02:00 PM,2018,03,30,14,53.3,145,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-30 03:00 PM,2018,03,30,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-30 04:00 PM,2018,03,30,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-30 05:00 PM,2018,03,30,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-30 06:00 PM,2018,03,30,18,-999.0,-999,N/A,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 07:00 PM,2018,03,30,19,21.9,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 08:00 PM,2018,03,30,20,21.9,72,Moderate,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2018-03-30 09:00 PM,2018,03,30,21,27.7,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 10:00 PM,2018,03,30,22,32.0,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-30 11:00 PM,2018,03,30,23,33.6,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 12:00 AM,2018,03,31,00,40.5,113,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 01:00 AM,2018,03,31,01,45.8,126,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 02:00 AM,2018,03,31,02,64.6,156,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 03:00 AM,2018,03,31,03,59.7,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 04:00 AM,2018,03,31,04,49.3,135,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 05:00 AM,2018,03,31,05,43.6,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 06:00 AM,2018,03,31,06,38.3,108,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 07:00 AM,2018,03,31,07,38.3,108,Unhealthy for Sensitive Groups,698.0,UG/M3,1 Hr,Invalid
+Dhaka,PM2.5 - Principal,2018-03-31 08:00 AM,2018,03,31,08,26.7,82,Moderate,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 09:00 AM,2018,03,31,09,21.7,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 10:00 AM,2018,03,31,10,24.0,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 11:00 AM,2018,03,31,11,28.6,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 12:00 PM,2018,03,31,12,30.8,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 01:00 PM,2018,03,31,13,34.9,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 02:00 PM,2018,03,31,14,37.4,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 03:00 PM,2018,03,31,15,40.7,114,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 04:00 PM,2018,03,31,16,38.3,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 05:00 PM,2018,03,31,17,41.1,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 06:00 PM,2018,03,31,18,47.5,131,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 07:00 PM,2018,03,31,19,57.8,152,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 08:00 PM,2018,03,31,20,78.9,163,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 09:00 PM,2018,03,31,21,78.4,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 10:00 PM,2018,03,31,22,70.7,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-03-31 11:00 PM,2018,03,31,23,64.8,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2018-04-01 12:00 AM,2018,04,01,00,61.9,154,Unhealthy,59.0,UG/M3,1 Hr,Valid

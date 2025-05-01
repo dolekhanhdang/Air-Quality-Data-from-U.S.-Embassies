@@ -1,0 +1,737 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Manama,PM2.5 - Principal,2022-03-01 01:00 AM,2022,03,01,01,23.0,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 02:00 AM,2022,03,01,02,22.8,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 03:00 AM,2022,03,01,03,22.2,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 04:00 AM,2022,03,01,04,22.4,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 05:00 AM,2022,03,01,05,26.8,82,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 06:00 AM,2022,03,01,06,28.6,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 07:00 AM,2022,03,01,07,33.6,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 08:00 AM,2022,03,01,08,34.3,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 09:00 AM,2022,03,01,09,34.3,98,Moderate,-999.0,UG/M3,1 Hr,Missing
+Manama,PM2.5 - Principal,2022-03-01 11:00 AM,2022,03,01,11,-999.0,-999,N/A,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 12:00 PM,2022,03,01,12,29.4,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 01:00 PM,2022,03,01,13,29.2,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 02:00 PM,2022,03,01,14,28.6,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 03:00 PM,2022,03,01,15,29.3,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 04:00 PM,2022,03,01,16,28.3,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 05:00 PM,2022,03,01,17,29.8,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 06:00 PM,2022,03,01,18,30.2,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 07:00 PM,2022,03,01,19,30.8,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 08:00 PM,2022,03,01,20,32.3,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 09:00 PM,2022,03,01,21,31.4,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 10:00 PM,2022,03,01,22,30.1,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-01 11:00 PM,2022,03,01,23,27.9,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 12:00 AM,2022,03,02,00,26.9,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 01:00 AM,2022,03,02,01,27.6,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 02:00 AM,2022,03,02,02,27.7,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 03:00 AM,2022,03,02,03,28.1,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 04:00 AM,2022,03,02,04,30.1,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 05:00 AM,2022,03,02,05,31.7,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 06:00 AM,2022,03,02,06,35.4,100,Moderate,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 07:00 AM,2022,03,02,07,43.2,120,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 08:00 AM,2022,03,02,08,54.1,147,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 09:00 AM,2022,03,02,09,40.5,113,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 10:00 AM,2022,03,02,10,33.2,95,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 11:00 AM,2022,03,02,11,29.6,88,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 12:00 PM,2022,03,02,12,28.3,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 01:00 PM,2022,03,02,13,26.1,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 02:00 PM,2022,03,02,14,25.0,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 03:00 PM,2022,03,02,15,26.5,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 04:00 PM,2022,03,02,16,27.2,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 05:00 PM,2022,03,02,17,28.6,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 06:00 PM,2022,03,02,18,27.3,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 07:00 PM,2022,03,02,19,27.6,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 08:00 PM,2022,03,02,20,28.5,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 09:00 PM,2022,03,02,21,30.8,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 10:00 PM,2022,03,02,22,33.2,95,Moderate,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-02 11:00 PM,2022,03,02,23,33.5,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 12:00 AM,2022,03,03,00,36.3,103,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 01:00 AM,2022,03,03,01,43.0,119,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 02:00 AM,2022,03,03,02,44.6,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 03:00 AM,2022,03,03,03,45.3,125,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 04:00 AM,2022,03,03,04,43.7,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 05:00 AM,2022,03,03,05,41.5,116,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 06:00 AM,2022,03,03,06,40.5,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 07:00 AM,2022,03,03,07,40.2,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 08:00 AM,2022,03,03,08,40.0,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 09:00 AM,2022,03,03,09,39.7,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 10:00 AM,2022,03,03,10,39.1,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 11:00 AM,2022,03,03,11,42.8,119,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 12:00 PM,2022,03,03,12,42.6,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 01:00 PM,2022,03,03,13,42.9,119,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 02:00 PM,2022,03,03,14,42.4,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 03:00 PM,2022,03,03,15,43.3,120,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 04:00 PM,2022,03,03,16,44.1,122,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 05:00 PM,2022,03,03,17,42.4,118,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 06:00 PM,2022,03,03,18,43.4,120,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 07:00 PM,2022,03,03,19,43.6,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 08:00 PM,2022,03,03,20,44.5,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 09:00 PM,2022,03,03,21,43.9,122,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 10:00 PM,2022,03,03,22,39.8,112,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-03 11:00 PM,2022,03,03,23,37.6,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 12:00 AM,2022,03,04,00,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 01:00 AM,2022,03,04,01,38.1,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 02:00 AM,2022,03,04,02,40.6,114,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 03:00 AM,2022,03,04,03,39.4,111,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 04:00 AM,2022,03,04,04,40.5,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 05:00 AM,2022,03,04,05,41.3,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 06:00 AM,2022,03,04,06,43.6,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 07:00 AM,2022,03,04,07,42.0,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 08:00 AM,2022,03,04,08,41.0,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 09:00 AM,2022,03,04,09,39.0,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 10:00 AM,2022,03,04,10,37.6,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 11:00 AM,2022,03,04,11,35.7,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 12:00 PM,2022,03,04,12,39.2,110,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 01:00 PM,2022,03,04,13,40.8,114,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 02:00 PM,2022,03,04,14,39.8,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 03:00 PM,2022,03,04,15,40.2,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 04:00 PM,2022,03,04,16,158.7,209,Very Unhealthy,277.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-04 05:00 PM,2022,03,04,17,158.8,209,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Manama,PM2.5 - Principal,2022-03-04 08:00 PM,2022,03,04,20,-999.0,-999,N/A,980.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-04 09:00 PM,2022,03,04,21,-999.0,-999,N/A,934.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-04 10:00 PM,2022,03,04,22,-999.0,-999,N/A,862.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-04 11:00 PM,2022,03,04,23,-999.0,-999,N/A,595.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 12:00 AM,2022,03,05,00,-999.0,-999,N/A,827.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 01:00 AM,2022,03,05,01,-999.0,-999,N/A,938.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 02:00 AM,2022,03,05,02,-999.0,-999,N/A,885.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 03:00 AM,2022,03,05,03,-999.0,-999,N/A,782.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 04:00 AM,2022,03,05,04,-999.0,-999,N/A,715.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 05:00 AM,2022,03,05,05,-999.0,-999,N/A,683.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 06:00 AM,2022,03,05,06,-999.0,-999,N/A,685.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 07:00 AM,2022,03,05,07,-999.0,-999,N/A,674.0,UG/M3,1 Hr,Invalid
+Manama,PM2.5 - Principal,2022-03-05 08:00 AM,2022,03,05,08,-999.0,-999,N/A,690.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 09:00 AM,2022,03,05,09,654.7,602,Hazardous,623.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 10:00 AM,2022,03,05,10,590.1,559,Hazardous,511.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 11:00 AM,2022,03,05,11,487.6,492,Hazardous,393.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 12:00 PM,2022,03,05,12,373.8,416,Hazardous,279.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 01:00 PM,2022,03,05,13,297.7,348,Hazardous,224.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 02:00 PM,2022,03,05,14,244.4,294,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 03:00 PM,2022,03,05,15,224.6,274,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 04:00 PM,2022,03,05,16,198.2,248,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 05:00 PM,2022,03,05,17,178.1,228,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 06:00 PM,2022,03,05,18,177.5,228,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 07:00 PM,2022,03,05,19,173.2,223,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 08:00 PM,2022,03,05,20,160.0,210,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 09:00 PM,2022,03,05,21,140.4,195,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 10:00 PM,2022,03,05,22,125.1,187,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-05 11:00 PM,2022,03,05,23,113.5,181,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 12:00 AM,2022,03,06,00,109.2,179,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 01:00 AM,2022,03,06,01,103.6,176,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 02:00 AM,2022,03,06,02,99.2,174,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 03:00 AM,2022,03,06,03,95.4,172,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 04:00 AM,2022,03,06,04,82.0,165,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 05:00 AM,2022,03,06,05,78.5,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 06:00 AM,2022,03,06,06,60.7,154,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 07:00 AM,2022,03,06,07,50.3,137,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 08:00 AM,2022,03,06,08,51.1,139,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 09:00 AM,2022,03,06,09,61.5,154,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 10:00 AM,2022,03,06,10,66.2,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 11:00 AM,2022,03,06,11,63.1,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 12:00 PM,2022,03,06,12,58.5,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 01:00 PM,2022,03,06,13,52.2,142,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 02:00 PM,2022,03,06,14,51.6,141,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 03:00 PM,2022,03,06,15,48.2,132,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 04:00 PM,2022,03,06,16,49.9,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 05:00 PM,2022,03,06,17,48.6,133,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 06:00 PM,2022,03,06,18,44.2,122,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 07:00 PM,2022,03,06,19,43.6,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 08:00 PM,2022,03,06,20,44.7,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 09:00 PM,2022,03,06,21,47.5,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 10:00 PM,2022,03,06,22,46.3,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-06 11:00 PM,2022,03,06,23,46.5,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 12:00 AM,2022,03,07,00,47.3,130,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 01:00 AM,2022,03,07,01,47.0,129,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 02:00 AM,2022,03,07,02,50.2,137,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 03:00 AM,2022,03,07,03,52.4,143,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 04:00 AM,2022,03,07,04,48.4,133,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 05:00 AM,2022,03,07,05,38.3,108,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 06:00 AM,2022,03,07,06,38.1,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 07:00 AM,2022,03,07,07,37.1,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 08:00 AM,2022,03,07,08,38.5,108,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 09:00 AM,2022,03,07,09,46.6,128,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 10:00 AM,2022,03,07,10,59.8,153,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 11:00 AM,2022,03,07,11,84.9,166,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 12:00 PM,2022,03,07,12,93.4,171,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 01:00 PM,2022,03,07,13,93.2,170,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 02:00 PM,2022,03,07,14,101.6,175,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 03:00 PM,2022,03,07,15,97.8,173,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 04:00 PM,2022,03,07,16,95.4,172,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 05:00 PM,2022,03,07,17,89.7,169,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 06:00 PM,2022,03,07,18,90.8,169,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 07:00 PM,2022,03,07,19,91.9,170,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 08:00 PM,2022,03,07,20,91.9,170,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 09:00 PM,2022,03,07,21,90.1,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 10:00 PM,2022,03,07,22,92.9,170,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-07 11:00 PM,2022,03,07,23,97.7,173,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 12:00 AM,2022,03,08,00,94.9,171,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 01:00 AM,2022,03,08,01,92.6,170,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 02:00 AM,2022,03,08,02,88.7,168,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 03:00 AM,2022,03,08,03,87.3,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 04:00 AM,2022,03,08,04,85.4,166,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 05:00 AM,2022,03,08,05,80.9,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 06:00 AM,2022,03,08,06,79.6,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 07:00 AM,2022,03,08,07,79.0,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 08:00 AM,2022,03,08,08,79.3,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 09:00 AM,2022,03,08,09,80.5,164,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 10:00 AM,2022,03,08,10,80.3,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 11:00 AM,2022,03,08,11,78.6,163,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 12:00 PM,2022,03,08,12,78.2,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 01:00 PM,2022,03,08,13,86.5,167,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 02:00 PM,2022,03,08,14,116.9,183,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 03:00 PM,2022,03,08,15,121.4,185,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 04:00 PM,2022,03,08,16,115.2,182,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 05:00 PM,2022,03,08,17,110.6,179,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 06:00 PM,2022,03,08,18,101.8,175,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 07:00 PM,2022,03,08,19,93.5,171,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 08:00 PM,2022,03,08,20,90.2,169,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 09:00 PM,2022,03,08,21,93.6,171,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 10:00 PM,2022,03,08,22,91.8,170,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-08 11:00 PM,2022,03,08,23,94.3,171,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 12:00 AM,2022,03,09,00,102.3,175,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 01:00 AM,2022,03,09,01,107.4,178,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 02:00 AM,2022,03,09,02,98.7,173,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 03:00 AM,2022,03,09,03,90.3,169,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 04:00 AM,2022,03,09,04,86.3,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 05:00 AM,2022,03,09,05,82.6,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 06:00 AM,2022,03,09,06,81.3,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 07:00 AM,2022,03,09,07,79.8,164,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 08:00 AM,2022,03,09,08,79.5,163,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 09:00 AM,2022,03,09,09,82.1,165,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 10:00 AM,2022,03,09,10,84.1,166,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 11:00 AM,2022,03,09,11,84.0,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 12:00 PM,2022,03,09,12,82.2,165,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 01:00 PM,2022,03,09,13,82.1,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 02:00 PM,2022,03,09,14,82.5,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 03:00 PM,2022,03,09,15,81.4,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 04:00 PM,2022,03,09,16,82.1,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 05:00 PM,2022,03,09,17,79.6,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 06:00 PM,2022,03,09,18,80.8,164,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 07:00 PM,2022,03,09,19,81.5,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 08:00 PM,2022,03,09,20,80.8,164,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 09:00 PM,2022,03,09,21,81.4,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 10:00 PM,2022,03,09,22,78.4,163,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-09 11:00 PM,2022,03,09,23,75.7,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 12:00 AM,2022,03,10,00,74.3,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 01:00 AM,2022,03,10,01,73.0,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 02:00 AM,2022,03,10,02,71.0,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 03:00 AM,2022,03,10,03,68.4,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 04:00 AM,2022,03,10,04,68.7,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 05:00 AM,2022,03,10,05,69.6,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 06:00 AM,2022,03,10,06,69.8,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 07:00 AM,2022,03,10,07,68.2,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 08:00 AM,2022,03,10,08,64.8,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 09:00 AM,2022,03,10,09,61.3,154,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 10:00 AM,2022,03,10,10,52.5,143,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 11:00 AM,2022,03,10,11,47.9,132,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 12:00 PM,2022,03,10,12,39.0,110,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 01:00 PM,2022,03,10,13,37.5,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 02:00 PM,2022,03,10,14,40.2,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 03:00 PM,2022,03,10,15,44.1,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 04:00 PM,2022,03,10,16,44.5,123,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 05:00 PM,2022,03,10,17,43.2,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 06:00 PM,2022,03,10,18,41.6,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 07:00 PM,2022,03,10,19,40.5,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 08:00 PM,2022,03,10,20,42.0,117,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 09:00 PM,2022,03,10,21,43.3,120,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 10:00 PM,2022,03,10,22,41.8,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-10 11:00 PM,2022,03,10,23,42.2,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 12:00 AM,2022,03,11,00,42.7,119,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 01:00 AM,2022,03,11,01,42.2,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 02:00 AM,2022,03,11,02,41.7,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 03:00 AM,2022,03,11,03,41.2,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 04:00 AM,2022,03,11,04,41.9,117,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 05:00 AM,2022,03,11,05,44.2,122,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 06:00 AM,2022,03,11,06,44.2,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 07:00 AM,2022,03,11,07,45.2,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 08:00 AM,2022,03,11,08,44.6,123,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 09:00 AM,2022,03,11,09,45.0,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 10:00 AM,2022,03,11,10,61.7,154,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 11:00 AM,2022,03,11,11,92.3,170,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 12:00 PM,2022,03,11,12,113.6,181,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 01:00 PM,2022,03,11,13,133.3,191,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 02:00 PM,2022,03,11,14,134.1,192,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 03:00 PM,2022,03,11,15,130.1,190,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 04:00 PM,2022,03,11,16,134.5,192,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 05:00 PM,2022,03,11,17,136.2,193,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 06:00 PM,2022,03,11,18,135.1,192,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 07:00 PM,2022,03,11,19,119.5,184,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 08:00 PM,2022,03,11,20,106.7,177,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 09:00 PM,2022,03,11,21,96.8,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 10:00 PM,2022,03,11,22,91.2,169,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-11 11:00 PM,2022,03,11,23,87.9,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 12:00 AM,2022,03,12,00,93.9,171,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 01:00 AM,2022,03,12,01,88.0,168,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 02:00 AM,2022,03,12,02,66.9,157,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 03:00 AM,2022,03,12,03,51.9,141,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 04:00 AM,2022,03,12,04,47.4,130,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 05:00 AM,2022,03,12,05,44.7,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 06:00 AM,2022,03,12,06,39.3,110,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 07:00 AM,2022,03,12,07,34.6,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 08:00 AM,2022,03,12,08,32.8,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 09:00 AM,2022,03,12,09,32.9,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 10:00 AM,2022,03,12,10,34.4,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 11:00 AM,2022,03,12,11,34.7,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 12:00 PM,2022,03,12,12,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 01:00 PM,2022,03,12,13,37.0,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 02:00 PM,2022,03,12,14,40.0,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 03:00 PM,2022,03,12,15,44.4,123,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 04:00 PM,2022,03,12,16,55.9,151,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 05:00 PM,2022,03,12,17,67.0,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 06:00 PM,2022,03,12,18,71.5,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 07:00 PM,2022,03,12,19,78.2,163,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 08:00 PM,2022,03,12,20,75.6,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 09:00 PM,2022,03,12,21,67.3,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 10:00 PM,2022,03,12,22,61.1,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-12 11:00 PM,2022,03,12,23,61.5,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 12:00 AM,2022,03,13,00,61.7,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 01:00 AM,2022,03,13,01,61.5,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 02:00 AM,2022,03,13,02,62.2,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 03:00 AM,2022,03,13,03,65.8,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 04:00 AM,2022,03,13,04,67.7,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 05:00 AM,2022,03,13,05,67.0,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 06:00 AM,2022,03,13,06,62.7,155,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 07:00 AM,2022,03,13,07,62.4,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 08:00 AM,2022,03,13,08,62.3,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 09:00 AM,2022,03,13,09,68.5,158,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 10:00 AM,2022,03,13,10,102.8,175,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 11:00 AM,2022,03,13,11,140.4,195,Unhealthy,178.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 12:00 PM,2022,03,13,12,155.2,206,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 01:00 PM,2022,03,13,13,178.6,229,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 02:00 PM,2022,03,13,14,219.3,269,Very Unhealthy,260.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 03:00 PM,2022,03,13,15,240.1,290,Very Unhealthy,261.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 04:00 PM,2022,03,13,16,235.6,285,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 05:00 PM,2022,03,13,17,237.8,288,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 06:00 PM,2022,03,13,18,235.4,285,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 07:00 PM,2022,03,13,19,201.2,251,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 08:00 PM,2022,03,13,20,184.1,234,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 09:00 PM,2022,03,13,21,151.5,202,Very Unhealthy,119.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 10:00 PM,2022,03,13,22,124.2,186,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-13 11:00 PM,2022,03,13,23,102.6,175,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 12:00 AM,2022,03,14,00,87.8,168,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 01:00 AM,2022,03,14,01,83.8,166,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 02:00 AM,2022,03,14,02,80.9,164,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 03:00 AM,2022,03,14,03,77.4,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 04:00 AM,2022,03,14,04,79.2,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 05:00 AM,2022,03,14,05,80.0,164,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 06:00 AM,2022,03,14,06,85.5,166,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 07:00 AM,2022,03,14,07,89.2,168,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 08:00 AM,2022,03,14,08,93.1,170,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 09:00 AM,2022,03,14,09,92.7,170,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 10:00 AM,2022,03,14,10,92.2,170,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 11:00 AM,2022,03,14,11,91.9,170,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 12:00 PM,2022,03,14,12,90.5,169,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 01:00 PM,2022,03,14,13,87.1,167,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 02:00 PM,2022,03,14,14,84.0,166,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 03:00 PM,2022,03,14,15,242.0,292,Very Unhealthy,404.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 04:00 PM,2022,03,14,16,259.0,309,Hazardous,276.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 05:00 PM,2022,03,14,17,166.0,216,Very Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 06:00 PM,2022,03,14,18,123.0,186,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 07:00 PM,2022,03,14,19,108.5,178,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 08:00 PM,2022,03,14,20,87.2,167,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 09:00 PM,2022,03,14,21,73.6,160,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 10:00 PM,2022,03,14,22,66.3,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-14 11:00 PM,2022,03,14,23,60.1,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 12:00 AM,2022,03,15,00,57.5,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 01:00 AM,2022,03,15,01,56.7,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 02:00 AM,2022,03,15,02,55.3,150,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 03:00 AM,2022,03,15,03,55.6,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 04:00 AM,2022,03,15,04,54.5,148,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 05:00 AM,2022,03,15,05,51.2,140,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 06:00 AM,2022,03,15,06,54.5,148,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 07:00 AM,2022,03,15,07,53.7,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 08:00 AM,2022,03,15,08,55.4,150,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 09:00 AM,2022,03,15,09,58.1,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 10:00 AM,2022,03,15,10,63.3,155,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 11:00 AM,2022,03,15,11,66.8,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 12:00 PM,2022,03,15,12,74.6,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 01:00 PM,2022,03,15,13,77.7,162,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 02:00 PM,2022,03,15,14,75.7,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 03:00 PM,2022,03,15,15,75.0,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 04:00 PM,2022,03,15,16,78.4,163,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 05:00 PM,2022,03,15,17,73.8,160,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 06:00 PM,2022,03,15,18,70.1,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 07:00 PM,2022,03,15,19,65.9,156,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 08:00 PM,2022,03,15,20,63.7,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 09:00 PM,2022,03,15,21,61.8,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 10:00 PM,2022,03,15,22,55.0,149,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-15 11:00 PM,2022,03,15,23,52.8,144,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 12:00 AM,2022,03,16,00,52.0,142,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 01:00 AM,2022,03,16,01,55.4,150,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 02:00 AM,2022,03,16,02,58.6,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 03:00 AM,2022,03,16,03,63.4,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 04:00 AM,2022,03,16,04,62.9,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 05:00 AM,2022,03,16,05,55.3,150,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 06:00 AM,2022,03,16,06,52.7,143,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 07:00 AM,2022,03,16,07,50.0,137,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 08:00 AM,2022,03,16,08,48.0,132,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 09:00 AM,2022,03,16,09,40.9,114,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 10:00 AM,2022,03,16,10,37.4,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 11:00 AM,2022,03,16,11,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 12:00 PM,2022,03,16,12,35.8,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 01:00 PM,2022,03,16,13,35.9,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 02:00 PM,2022,03,16,14,32.9,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 03:00 PM,2022,03,16,15,31.9,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 04:00 PM,2022,03,16,16,27.9,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 05:00 PM,2022,03,16,17,25.9,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 06:00 PM,2022,03,16,18,26.5,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 07:00 PM,2022,03,16,19,23.7,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 08:00 PM,2022,03,16,20,22.0,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 09:00 PM,2022,03,16,21,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 10:00 PM,2022,03,16,22,21.0,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-16 11:00 PM,2022,03,16,23,21.9,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 12:00 AM,2022,03,17,00,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 01:00 AM,2022,03,17,01,21.5,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 02:00 AM,2022,03,17,02,20.5,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 03:00 AM,2022,03,17,03,22.3,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 04:00 AM,2022,03,17,04,32.0,93,Moderate,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 05:00 AM,2022,03,17,05,53.5,145,Unhealthy for Sensitive Groups,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 06:00 AM,2022,03,17,06,43.7,121,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 07:00 AM,2022,03,17,07,37.3,105,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 08:00 AM,2022,03,17,08,33.1,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 09:00 AM,2022,03,17,09,36.0,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 10:00 AM,2022,03,17,10,36.0,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 11:00 AM,2022,03,17,11,28.0,84,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 12:00 PM,2022,03,17,12,24.5,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 01:00 PM,2022,03,17,13,21.2,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 02:00 PM,2022,03,17,14,19.6,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 03:00 PM,2022,03,17,15,18.3,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 04:00 PM,2022,03,17,16,17.1,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 05:00 PM,2022,03,17,17,18.0,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 06:00 PM,2022,03,17,18,18.0,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 07:00 PM,2022,03,17,19,17.5,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 08:00 PM,2022,03,17,20,18.7,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 09:00 PM,2022,03,17,21,19.8,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 10:00 PM,2022,03,17,22,20.3,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-17 11:00 PM,2022,03,17,23,22.2,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 12:00 AM,2022,03,18,00,23.8,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 01:00 AM,2022,03,18,01,28.3,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 02:00 AM,2022,03,18,02,31.1,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 03:00 AM,2022,03,18,03,32.0,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 04:00 AM,2022,03,18,04,30.5,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 05:00 AM,2022,03,18,05,30.7,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 06:00 AM,2022,03,18,06,28.8,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 07:00 AM,2022,03,18,07,26.2,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 08:00 AM,2022,03,18,08,25.1,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 09:00 AM,2022,03,18,09,25.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 10:00 AM,2022,03,18,10,24.9,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 11:00 AM,2022,03,18,11,24.2,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 12:00 PM,2022,03,18,12,23.7,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 01:00 PM,2022,03,18,13,24.5,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 02:00 PM,2022,03,18,14,27.0,82,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 03:00 PM,2022,03,18,15,26.9,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 04:00 PM,2022,03,18,16,25.9,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 05:00 PM,2022,03,18,17,26.2,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 06:00 PM,2022,03,18,18,25.8,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 07:00 PM,2022,03,18,19,24.1,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 08:00 PM,2022,03,18,20,23.0,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 09:00 PM,2022,03,18,21,21.7,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 10:00 PM,2022,03,18,22,21.8,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-18 11:00 PM,2022,03,18,23,20.6,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 12:00 AM,2022,03,19,00,17.6,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 01:00 AM,2022,03,19,01,19.8,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 02:00 AM,2022,03,19,02,20.7,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 03:00 AM,2022,03,19,03,23.5,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 04:00 AM,2022,03,19,04,24.1,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 05:00 AM,2022,03,19,05,25.4,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 06:00 AM,2022,03,19,06,27.2,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 07:00 AM,2022,03,19,07,28.1,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 08:00 AM,2022,03,19,08,32.5,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 09:00 AM,2022,03,19,09,32.2,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 10:00 AM,2022,03,19,10,31.1,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 11:00 AM,2022,03,19,11,30.0,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 12:00 PM,2022,03,19,12,29.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 01:00 PM,2022,03,19,13,27.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 02:00 PM,2022,03,19,14,28.5,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 03:00 PM,2022,03,19,15,27.4,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 04:00 PM,2022,03,19,16,27.6,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 05:00 PM,2022,03,19,17,27.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 06:00 PM,2022,03,19,18,27.3,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 07:00 PM,2022,03,19,19,24.5,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 08:00 PM,2022,03,19,20,23.0,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 09:00 PM,2022,03,19,21,22.2,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 10:00 PM,2022,03,19,22,21.6,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-19 11:00 PM,2022,03,19,23,18.6,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 12:00 AM,2022,03,20,00,16.7,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 01:00 AM,2022,03,20,01,17.3,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 02:00 AM,2022,03,20,02,17.6,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 03:00 AM,2022,03,20,03,18.2,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 04:00 AM,2022,03,20,04,18.1,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 05:00 AM,2022,03,20,05,18.5,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 06:00 AM,2022,03,20,06,24.2,76,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 07:00 AM,2022,03,20,07,26.1,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 08:00 AM,2022,03,20,08,26.5,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 09:00 AM,2022,03,20,09,20.7,69,Moderate,15.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 10:00 AM,2022,03,20,10,23.3,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 11:00 AM,2022,03,20,11,23.6,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 12:00 PM,2022,03,20,12,23.3,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 01:00 PM,2022,03,20,13,22.1,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 02:00 PM,2022,03,20,14,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 03:00 PM,2022,03,20,15,21.0,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 04:00 PM,2022,03,20,16,19.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 05:00 PM,2022,03,20,17,20.0,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 06:00 PM,2022,03,20,18,21.4,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 07:00 PM,2022,03,20,19,21.6,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 08:00 PM,2022,03,20,20,20.4,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 09:00 PM,2022,03,20,21,20.7,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 10:00 PM,2022,03,20,22,21.7,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-20 11:00 PM,2022,03,20,23,21.7,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 12:00 AM,2022,03,21,00,22.8,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 01:00 AM,2022,03,21,01,23.5,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 02:00 AM,2022,03,21,02,24.0,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 03:00 AM,2022,03,21,03,24.8,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 04:00 AM,2022,03,21,04,24.8,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 05:00 AM,2022,03,21,05,28.6,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 06:00 AM,2022,03,21,06,42.1,117,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 07:00 AM,2022,03,21,07,57.0,152,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 08:00 AM,2022,03,21,08,62.0,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 09:00 AM,2022,03,21,09,45.0,124,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 10:00 AM,2022,03,21,10,39.0,110,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 11:00 AM,2022,03,21,11,35.0,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 12:00 PM,2022,03,21,12,32.5,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 01:00 PM,2022,03,21,13,31.7,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 02:00 PM,2022,03,21,14,29.8,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 03:00 PM,2022,03,21,15,32.9,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 04:00 PM,2022,03,21,16,32.4,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 05:00 PM,2022,03,21,17,29.2,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 06:00 PM,2022,03,21,18,28.1,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 07:00 PM,2022,03,21,19,30.0,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 08:00 PM,2022,03,21,20,30.0,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 09:00 PM,2022,03,21,21,31.1,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 10:00 PM,2022,03,21,22,37.3,105,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-21 11:00 PM,2022,03,21,23,38.0,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 12:00 AM,2022,03,22,00,38.0,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 01:00 AM,2022,03,22,01,37.5,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 02:00 AM,2022,03,22,02,38.1,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 03:00 AM,2022,03,22,03,40.2,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 04:00 AM,2022,03,22,04,41.4,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 05:00 AM,2022,03,22,05,46.0,127,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 06:00 AM,2022,03,22,06,47.6,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 07:00 AM,2022,03,22,07,51.8,141,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 08:00 AM,2022,03,22,08,52.8,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 09:00 AM,2022,03,22,09,52.7,143,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 10:00 AM,2022,03,22,10,54.8,149,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 11:00 AM,2022,03,22,11,58.0,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 12:00 PM,2022,03,22,12,62.8,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 01:00 PM,2022,03,22,13,64.8,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 02:00 PM,2022,03,22,14,68.0,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 03:00 PM,2022,03,22,15,66.8,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 04:00 PM,2022,03,22,16,66.4,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 05:00 PM,2022,03,22,17,66.1,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 06:00 PM,2022,03,22,18,65.4,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 07:00 PM,2022,03,22,19,64.8,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 08:00 PM,2022,03,22,20,64.1,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 09:00 PM,2022,03,22,21,63.3,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 10:00 PM,2022,03,22,22,62.2,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-22 11:00 PM,2022,03,22,23,61.7,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 12:00 AM,2022,03,23,00,61.0,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 01:00 AM,2022,03,23,01,61.8,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 02:00 AM,2022,03,23,02,64.7,156,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 03:00 AM,2022,03,23,03,66.0,156,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 04:00 AM,2022,03,23,04,68.9,158,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 05:00 AM,2022,03,23,05,70.3,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 06:00 AM,2022,03,23,06,72.9,160,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 07:00 AM,2022,03,23,07,75.1,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 08:00 AM,2022,03,23,08,76.0,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 09:00 AM,2022,03,23,09,77.6,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 10:00 AM,2022,03,23,10,81.5,164,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 11:00 AM,2022,03,23,11,90.3,169,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 12:00 PM,2022,03,23,12,86.4,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 01:00 PM,2022,03,23,13,85.3,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 02:00 PM,2022,03,23,14,83.7,166,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 03:00 PM,2022,03,23,15,82.5,165,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 04:00 PM,2022,03,23,16,82.1,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 05:00 PM,2022,03,23,17,81.8,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 06:00 PM,2022,03,23,18,83.1,165,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 07:00 PM,2022,03,23,19,84.0,166,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 08:00 PM,2022,03,23,20,83.6,166,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 09:00 PM,2022,03,23,21,79.4,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 10:00 PM,2022,03,23,22,71.3,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-23 11:00 PM,2022,03,23,23,70.1,159,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 12:00 AM,2022,03,24,00,68.2,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 01:00 AM,2022,03,24,01,64.2,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 02:00 AM,2022,03,24,02,64.7,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 03:00 AM,2022,03,24,03,63.4,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 04:00 AM,2022,03,24,04,62.2,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 05:00 AM,2022,03,24,05,63.1,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 06:00 AM,2022,03,24,06,65.0,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 07:00 AM,2022,03,24,07,66.3,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 08:00 AM,2022,03,24,08,65.3,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 09:00 AM,2022,03,24,09,67.4,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 10:00 AM,2022,03,24,10,70.7,159,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 11:00 AM,2022,03,24,11,77.0,162,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 12:00 PM,2022,03,24,12,76.4,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 01:00 PM,2022,03,24,13,72.3,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 02:00 PM,2022,03,24,14,68.4,158,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 03:00 PM,2022,03,24,15,66.7,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 04:00 PM,2022,03,24,16,67.1,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 05:00 PM,2022,03,24,17,66.2,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 06:00 PM,2022,03,24,18,63.7,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 07:00 PM,2022,03,24,19,63.1,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 08:00 PM,2022,03,24,20,58.2,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 09:00 PM,2022,03,24,21,58.9,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 10:00 PM,2022,03,24,22,56.1,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-24 11:00 PM,2022,03,24,23,57.4,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 12:00 AM,2022,03,25,00,55.0,149,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 01:00 AM,2022,03,25,01,65.6,156,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 02:00 AM,2022,03,25,02,90.9,169,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 03:00 AM,2022,03,25,03,103.9,176,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 04:00 AM,2022,03,25,04,79.9,164,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 05:00 AM,2022,03,25,05,60.4,154,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 06:00 AM,2022,03,25,06,48.7,134,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 07:00 AM,2022,03,25,07,38.3,108,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 08:00 AM,2022,03,25,08,35.1,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 09:00 AM,2022,03,25,09,32.5,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 10:00 AM,2022,03,25,10,29.7,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 11:00 AM,2022,03,25,11,30.3,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 12:00 PM,2022,03,25,12,36.1,102,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 01:00 PM,2022,03,25,13,37.0,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 02:00 PM,2022,03,25,14,36.5,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 03:00 PM,2022,03,25,15,30.2,89,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 04:00 PM,2022,03,25,16,31.4,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 05:00 PM,2022,03,25,17,32.0,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 06:00 PM,2022,03,25,18,40.0,112,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 07:00 PM,2022,03,25,19,33.0,95,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 08:00 PM,2022,03,25,20,28.5,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 09:00 PM,2022,03,25,21,25.7,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 10:00 PM,2022,03,25,22,26.8,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-25 11:00 PM,2022,03,25,23,23.9,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 12:00 AM,2022,03,26,00,20.9,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 01:00 AM,2022,03,26,01,19.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 02:00 AM,2022,03,26,02,19.4,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 03:00 AM,2022,03,26,03,20.7,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 04:00 AM,2022,03,26,04,21.8,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 05:00 AM,2022,03,26,05,23.4,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 06:00 AM,2022,03,26,06,22.8,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 07:00 AM,2022,03,26,07,23.6,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 08:00 AM,2022,03,26,08,22.3,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 09:00 AM,2022,03,26,09,22.9,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 10:00 AM,2022,03,26,10,27.5,83,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 11:00 AM,2022,03,26,11,25.4,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 12:00 PM,2022,03,26,12,26.5,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 01:00 PM,2022,03,26,13,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 02:00 PM,2022,03,26,14,29.7,88,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 03:00 PM,2022,03,26,15,34.5,98,Moderate,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 04:00 PM,2022,03,26,16,32.8,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 05:00 PM,2022,03,26,17,31.9,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 06:00 PM,2022,03,26,18,33.4,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 07:00 PM,2022,03,26,19,36.1,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 08:00 PM,2022,03,26,20,34.1,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 09:00 PM,2022,03,26,21,33.2,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 10:00 PM,2022,03,26,22,30.6,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-26 11:00 PM,2022,03,26,23,31.2,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 12:00 AM,2022,03,27,00,31.8,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 01:00 AM,2022,03,27,01,32.8,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 02:00 AM,2022,03,27,02,31.3,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 03:00 AM,2022,03,27,03,30.8,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 04:00 AM,2022,03,27,04,31.8,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 05:00 AM,2022,03,27,05,31.2,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 06:00 AM,2022,03,27,06,30.2,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 07:00 AM,2022,03,27,07,30.5,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 08:00 AM,2022,03,27,08,30.4,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 09:00 AM,2022,03,27,09,29.5,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 10:00 AM,2022,03,27,10,28.5,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 11:00 AM,2022,03,27,11,28.4,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 12:00 PM,2022,03,27,12,28.5,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 01:00 PM,2022,03,27,13,28.6,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 02:00 PM,2022,03,27,14,28.4,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 03:00 PM,2022,03,27,15,28.3,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 04:00 PM,2022,03,27,16,27.6,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 05:00 PM,2022,03,27,17,27.0,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 06:00 PM,2022,03,27,18,22.6,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 07:00 PM,2022,03,27,19,24.1,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 08:00 PM,2022,03,27,20,24.1,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 09:00 PM,2022,03,27,21,25.2,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 10:00 PM,2022,03,27,22,24.3,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-27 11:00 PM,2022,03,27,23,23.8,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 12:00 AM,2022,03,28,00,25.0,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 01:00 AM,2022,03,28,01,24.6,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 02:00 AM,2022,03,28,02,25.1,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 03:00 AM,2022,03,28,03,25.0,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 04:00 AM,2022,03,28,04,25.3,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 05:00 AM,2022,03,28,05,26.7,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 06:00 AM,2022,03,28,06,26.3,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 07:00 AM,2022,03,28,07,26.6,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 08:00 AM,2022,03,28,08,27.2,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 09:00 AM,2022,03,28,09,28.8,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 10:00 AM,2022,03,28,10,29.2,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 11:00 AM,2022,03,28,11,29.5,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 12:00 PM,2022,03,28,12,29.1,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 01:00 PM,2022,03,28,13,29.5,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 02:00 PM,2022,03,28,14,29.2,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 03:00 PM,2022,03,28,15,31.6,92,Moderate,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 04:00 PM,2022,03,28,16,30.5,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 05:00 PM,2022,03,28,17,29.5,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 06:00 PM,2022,03,28,18,29.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 07:00 PM,2022,03,28,19,30.4,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 08:00 PM,2022,03,28,20,29.7,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 09:00 PM,2022,03,28,21,29.8,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 10:00 PM,2022,03,28,22,30.6,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-28 11:00 PM,2022,03,28,23,31.0,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 12:00 AM,2022,03,29,00,30.2,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 01:00 AM,2022,03,29,01,31.8,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 02:00 AM,2022,03,29,02,30.7,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 03:00 AM,2022,03,29,03,31.3,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 04:00 AM,2022,03,29,04,31.0,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 05:00 AM,2022,03,29,05,30.3,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 06:00 AM,2022,03,29,06,35.0,99,Moderate,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 07:00 AM,2022,03,29,07,37.9,107,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 08:00 AM,2022,03,29,08,43.2,120,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 09:00 AM,2022,03,29,09,44.4,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 10:00 AM,2022,03,29,10,42.5,118,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 11:00 AM,2022,03,29,11,42.7,119,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 12:00 PM,2022,03,29,12,38.9,109,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 01:00 PM,2022,03,29,13,38.1,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 02:00 PM,2022,03,29,14,36.7,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 03:00 PM,2022,03,29,15,36.4,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 04:00 PM,2022,03,29,16,40.5,113,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 05:00 PM,2022,03,29,17,40.9,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 06:00 PM,2022,03,29,18,40.0,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 07:00 PM,2022,03,29,19,39.3,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 08:00 PM,2022,03,29,20,39.7,111,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 09:00 PM,2022,03,29,21,41.1,115,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 10:00 PM,2022,03,29,22,41.9,117,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-29 11:00 PM,2022,03,29,23,40.8,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 12:00 AM,2022,03,30,00,40.9,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 01:00 AM,2022,03,30,01,42.2,117,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 02:00 AM,2022,03,30,02,44.6,123,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 03:00 AM,2022,03,30,03,44.7,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 04:00 AM,2022,03,30,04,47.8,131,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 05:00 AM,2022,03,30,05,47.3,130,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 06:00 AM,2022,03,30,06,44.8,124,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 07:00 AM,2022,03,30,07,41.8,117,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 08:00 AM,2022,03,30,08,39.8,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 09:00 AM,2022,03,30,09,36.7,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 10:00 AM,2022,03,30,10,34.0,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 11:00 AM,2022,03,30,11,34.0,97,Moderate,-999.0,UG/M3,1 Hr,Missing
+Manama,PM2.5 - Principal,2022-03-30 05:00 PM,2022,03,30,17,-999.0,-999,N/A,11.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 06:00 PM,2022,03,30,18,7.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 07:00 PM,2022,03,30,19,3.9,16,Good,1.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 08:00 PM,2022,03,30,20,5.5,23,Good,7.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 09:00 PM,2022,03,30,21,5.7,24,Good,6.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 10:00 PM,2022,03,30,22,6.9,29,Good,8.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-30 11:00 PM,2022,03,30,23,5.9,25,Good,5.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 12:00 AM,2022,03,31,00,6.4,27,Good,7.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 01:00 AM,2022,03,31,01,8.2,34,Good,10.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 02:00 AM,2022,03,31,02,8.1,34,Good,8.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 03:00 AM,2022,03,31,03,7.0,29,Good,6.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 04:00 AM,2022,03,31,04,6.5,27,Good,6.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 05:00 AM,2022,03,31,05,6.7,28,Good,7.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 06:00 AM,2022,03,31,06,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 07:00 AM,2022,03,31,07,8.9,37,Good,11.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 08:00 AM,2022,03,31,08,9.4,39,Good,10.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 09:00 AM,2022,03,31,09,8.2,34,Good,7.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 10:00 AM,2022,03,31,10,6.1,25,Good,4.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 11:00 AM,2022,03,31,11,6.0,25,Good,6.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 12:00 PM,2022,03,31,12,5.0,21,Good,4.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 01:00 PM,2022,03,31,13,3.5,15,Good,2.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 02:00 PM,2022,03,31,14,3.2,13,Good,3.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 03:00 PM,2022,03,31,15,3.6,15,Good,4.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 04:00 PM,2022,03,31,16,3.8,16,Good,4.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 05:00 PM,2022,03,31,17,3.9,16,Good,4.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 06:00 PM,2022,03,31,18,4.4,18,Good,5.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 07:00 PM,2022,03,31,19,5.7,24,Good,7.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 08:00 PM,2022,03,31,20,5.8,24,Good,6.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 09:00 PM,2022,03,31,21,6.9,29,Good,8.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 10:00 PM,2022,03,31,22,7.4,31,Good,8.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-03-31 11:00 PM,2022,03,31,23,7.7,32,Good,8.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2022-04-01 12:00 AM,2022,04,01,00,5.8,24,Good,4.0,UG/M3,1 Hr,Valid

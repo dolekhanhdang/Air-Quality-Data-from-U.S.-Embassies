@@ -1,0 +1,681 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Abuja,PM2.5 - Principal,2024-01-01 01:00 AM,2024,01,01,01,162.2,213,Very Unhealthy,161.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 02:00 AM,2024,01,01,02,137.6,193,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 03:00 AM,2024,01,01,03,101.9,175,Unhealthy,66.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 04:00 AM,2024,01,01,04,85.6,167,Unhealthy,69.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 05:00 AM,2024,01,01,05,67.6,157,Unhealthy,49.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 06:00 AM,2024,01,01,06,61.0,154,Unhealthy,54.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 07:00 AM,2024,01,01,07,58.1,152,Unhealthy,55.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 08:00 AM,2024,01,01,08,59.5,153,Unhealthy,60.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 09:00 AM,2024,01,01,09,58.1,152,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 10:00 AM,2024,01,01,10,62.3,155,Unhealthy,66.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 11:00 AM,2024,01,01,11,70.0,158,Unhealthy,77.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 12:00 PM,2024,01,01,12,72.1,160,Unhealthy,74.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 01:00 PM,2024,01,01,13,72.2,160,Unhealthy,72.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 02:00 PM,2024,01,01,14,69.2,158,Unhealthy,66.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 03:00 PM,2024,01,01,15,66.1,156,Unhealthy,60.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 04:00 PM,2024,01,01,16,64.2,155,Unhealthy,60.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 05:00 PM,2024,01,01,17,64.2,155,Unhealthy,62.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 06:00 PM,2024,01,01,18,65.1,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 07:00 PM,2024,01,01,19,72.8,160,Unhealthy,87.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 08:00 PM,2024,01,01,20,97.1,172,Unhealthy,118.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 09:00 PM,2024,01,01,21,116.1,182,Unhealthy,135.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 10:00 PM,2024,01,01,22,118.3,183,Unhealthy,120.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-01 11:00 PM,2024,01,01,23,119.8,184,Unhealthy,121.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 12:00 AM,2024,01,02,00,122.5,186,Unhealthy,125.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 01:00 AM,2024,01,02,01,119.2,184,Unhealthy,115.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 02:00 AM,2024,01,02,02,98.7,173,Unhealthy,78.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 03:00 AM,2024,01,02,03,73.8,160,Unhealthy,48.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 04:00 AM,2024,01,02,04,60.5,154,Unhealthy,47.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 05:00 AM,2024,01,02,05,58.2,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 06:00 AM,2024,01,02,06,61.3,154,Unhealthy,64.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 07:00 AM,2024,01,02,07,65.5,156,Unhealthy,69.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 08:00 AM,2024,01,02,08,73.7,160,Unhealthy,81.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 09:00 AM,2024,01,02,09,80.0,164,Unhealthy,86.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 10:00 AM,2024,01,02,10,77.2,162,Unhealthy,74.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 11:00 AM,2024,01,02,11,70.2,159,Unhealthy,63.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 12:00 PM,2024,01,02,12,69.7,158,Unhealthy,69.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 01:00 PM,2024,01,02,13,66.5,157,Unhealthy,62.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 02:00 PM,2024,01,02,14,65.6,156,Unhealthy,64.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 03:00 PM,2024,01,02,15,65.8,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 04:00 PM,2024,01,02,16,66.0,156,Unhealthy,65.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 05:00 PM,2024,01,02,17,66.5,157,Unhealthy,66.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 06:00 PM,2024,01,02,18,66.6,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 07:00 PM,2024,01,02,19,75.8,161,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 08:00 PM,2024,01,02,20,100.7,174,Unhealthy,122.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 09:00 PM,2024,01,02,21,123.5,186,Unhealthy,145.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 10:00 PM,2024,01,02,22,125.4,187,Unhealthy,127.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-02 11:00 PM,2024,01,02,23,112.8,181,Unhealthy,100.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 12:00 AM,2024,01,03,00,97.9,173,Unhealthy,82.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 01:00 AM,2024,01,03,01,85.0,166,Unhealthy,72.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 02:00 AM,2024,01,03,02,80.3,164,Unhealthy,75.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 03:00 AM,2024,01,03,03,69.0,158,Unhealthy,57.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 04:00 AM,2024,01,03,04,64.1,155,Unhealthy,59.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 05:00 AM,2024,01,03,05,65.3,156,Unhealthy,66.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 06:00 AM,2024,01,03,06,81.5,164,Unhealthy,97.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 07:00 AM,2024,01,03,07,88.0,168,Unhealthy,94.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 08:00 AM,2024,01,03,08,95.4,172,Unhealthy,102.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 09:00 AM,2024,01,03,09,95.3,172,Unhealthy,95.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 10:00 AM,2024,01,03,10,95.0,171,Unhealthy,95.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 11:00 AM,2024,01,03,11,95.3,172,Unhealthy,95.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 12:00 PM,2024,01,03,12,91.4,170,Unhealthy,86.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 01:00 PM,2024,01,03,13,85.8,167,Unhealthy,78.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 02:00 PM,2024,01,03,14,79.6,163,Unhealthy,71.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 03:00 PM,2024,01,03,15,76.0,162,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 04:00 PM,2024,01,03,16,75.6,161,Unhealthy,71.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 05:00 PM,2024,01,03,17,75.8,161,Unhealthy,74.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 06:00 PM,2024,01,03,18,77.2,162,Unhealthy,80.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 07:00 PM,2024,01,03,19,85.4,166,Unhealthy,103.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 08:00 PM,2024,01,03,20,108.4,178,Unhealthy,131.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 09:00 PM,2024,01,03,21,123.0,186,Unhealthy,137.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 10:00 PM,2024,01,03,22,125.3,187,Unhealthy,127.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-03 11:00 PM,2024,01,03,23,131.6,190,Unhealthy,138.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 12:00 AM,2024,01,04,00,129.4,189,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 01:00 AM,2024,01,04,01,126.9,188,Unhealthy,124.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 02:00 AM,2024,01,04,02,117.3,183,Unhealthy,107.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 03:00 AM,2024,01,04,03,98.0,173,Unhealthy,77.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 04:00 AM,2024,01,04,04,76.3,162,Unhealthy,55.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 05:00 AM,2024,01,04,05,63.8,155,Unhealthy,51.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 06:00 AM,2024,01,04,06,55.6,151,Unhealthy,47.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 07:00 AM,2024,01,04,07,53.6,146,Unhealthy for Sensitive Groups,51.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 08:00 AM,2024,01,04,08,57.7,152,Unhealthy,61.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 09:00 AM,2024,01,04,09,59.0,153,Unhealthy,60.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 10:00 AM,2024,01,04,10,65.3,156,Unhealthy,71.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 11:00 AM,2024,01,04,11,68.3,158,Unhealthy,71.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 12:00 PM,2024,01,04,12,78.5,163,Unhealthy,88.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 01:00 PM,2024,01,04,13,88.7,168,Unhealthy,98.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 02:00 PM,2024,01,04,14,91.0,169,Unhealthy,93.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 03:00 PM,2024,01,04,15,89.9,169,Unhealthy,88.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 04:00 PM,2024,01,04,16,86.5,167,Unhealthy,83.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 05:00 PM,2024,01,04,17,83.7,166,Unhealthy,80.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 06:00 PM,2024,01,04,18,85.3,166,Unhealthy,86.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 07:00 PM,2024,01,04,19,94.5,171,Unhealthy,106.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 08:00 PM,2024,01,04,20,105.8,177,Unhealthy,116.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 09:00 PM,2024,01,04,21,109.5,179,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 10:00 PM,2024,01,04,22,132.5,191,Unhealthy,152.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-04 11:00 PM,2024,01,04,23,139.0,194,Unhealthy,148.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 12:00 AM,2024,01,05,00,134.9,192,Unhealthy,130.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 01:00 AM,2024,01,05,01,128.4,189,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 02:00 AM,2024,01,05,02,118.7,184,Unhealthy,107.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 03:00 AM,2024,01,05,03,114.1,181,Unhealthy,108.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 04:00 AM,2024,01,05,04,114.9,182,Unhealthy,115.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 05:00 AM,2024,01,05,05,115.8,182,Unhealthy,116.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 06:00 AM,2024,01,05,06,115.8,182,Unhealthy,112.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 07:00 AM,2024,01,05,07,114.3,181,Unhealthy,110.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 08:00 AM,2024,01,05,08,114.8,182,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 09:00 AM,2024,01,05,09,106.9,178,Unhealthy,94.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 10:00 AM,2024,01,05,10,84.5,166,Unhealthy,64.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 11:00 AM,2024,01,05,11,80.9,164,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 12:00 PM,2024,01,05,12,77.0,162,Unhealthy,71.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 01:00 PM,2024,01,05,13,75.2,161,Unhealthy,72.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 02:00 PM,2024,01,05,14,71.3,159,Unhealthy,66.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 03:00 PM,2024,01,05,15,69.4,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 04:00 PM,2024,01,05,16,70.5,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 05:00 PM,2024,01,05,17,71.4,159,Unhealthy,72.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 06:00 PM,2024,01,05,18,73.1,160,Unhealthy,75.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 07:00 PM,2024,01,05,19,77.8,163,Unhealthy,83.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 08:00 PM,2024,01,05,20,90.3,169,Unhealthy,109.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 09:00 PM,2024,01,05,21,122.9,186,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 10:00 PM,2024,01,05,22,137.5,193,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-05 11:00 PM,2024,01,05,23,138.6,194,Unhealthy,139.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 12:00 AM,2024,01,06,00,136.7,193,Unhealthy,134.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 01:00 AM,2024,01,06,01,133.7,191,Unhealthy,130.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 02:00 AM,2024,01,06,02,129.8,189,Unhealthy,125.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 03:00 AM,2024,01,06,03,117.4,183,Unhealthy,104.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 04:00 AM,2024,01,06,04,102.2,175,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 05:00 AM,2024,01,06,05,94.8,171,Unhealthy,87.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 06:00 AM,2024,01,06,06,91.5,170,Unhealthy,84.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 07:00 AM,2024,01,06,07,85.5,166,Unhealthy,79.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 08:00 AM,2024,01,06,08,101.5,175,Unhealthy,119.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 09:00 AM,2024,01,06,09,120.2,184,Unhealthy,140.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 10:00 AM,2024,01,06,10,137.3,193,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 11:00 AM,2024,01,06,11,101.4,175,Unhealthy,64.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 12:00 PM,2024,01,06,12,76.0,162,Unhealthy,50.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 01:00 PM,2024,01,06,13,70.1,159,Unhealthy,64.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 02:00 PM,2024,01,06,14,67.1,157,Unhealthy,64.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 03:00 PM,2024,01,06,15,65.8,156,Unhealthy,64.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 04:00 PM,2024,01,06,16,65.9,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 05:00 PM,2024,01,06,17,66.3,157,Unhealthy,66.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 06:00 PM,2024,01,06,18,68.0,157,Unhealthy,69.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 07:00 PM,2024,01,06,19,73.9,161,Unhealthy,79.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 08:00 PM,2024,01,06,20,102.0,175,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 09:00 PM,2024,01,06,21,113.4,181,Unhealthy,124.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 10:00 PM,2024,01,06,22,118.6,184,Unhealthy,123.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-06 11:00 PM,2024,01,06,23,124.3,187,Unhealthy,129.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 12:00 AM,2024,01,07,00,127.7,188,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 01:00 AM,2024,01,07,01,132.7,191,Unhealthy,137.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 02:00 AM,2024,01,07,02,124.3,187,Unhealthy,115.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 03:00 AM,2024,01,07,03,113.5,181,Unhealthy,102.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 04:00 AM,2024,01,07,04,102.4,175,Unhealthy,91.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 05:00 AM,2024,01,07,05,94.9,171,Unhealthy,86.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 06:00 AM,2024,01,07,06,91.4,170,Unhealthy,82.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 07:00 AM,2024,01,07,07,88.6,168,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 08:00 AM,2024,01,07,08,93.5,171,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 09:00 AM,2024,01,07,09,100.6,174,Unhealthy,111.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 10:00 AM,2024,01,07,10,100.6,174,Unhealthy,100.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 11:00 AM,2024,01,07,11,99.6,174,Unhealthy,98.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 12:00 PM,2024,01,07,12,95.0,171,Unhealthy,88.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 01:00 PM,2024,01,07,13,84.0,166,Unhealthy,68.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 02:00 PM,2024,01,07,14,76.0,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 03:00 PM,2024,01,07,15,69.1,158,Unhealthy,61.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 04:00 PM,2024,01,07,16,64.4,156,Unhealthy,59.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 05:00 PM,2024,01,07,17,60.6,154,Unhealthy,57.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 06:00 PM,2024,01,07,18,61.0,154,Unhealthy,61.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 07:00 PM,2024,01,07,19,68.5,158,Unhealthy,76.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 08:00 PM,2024,01,07,20,94.9,171,Unhealthy,121.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 09:00 PM,2024,01,07,21,123.9,186,Unhealthy,152.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 10:00 PM,2024,01,07,22,146.2,198,Unhealthy,168.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-07 11:00 PM,2024,01,07,23,157.2,208,Very Unhealthy,168.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 12:00 AM,2024,01,08,00,158.4,209,Very Unhealthy,159.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 01:00 AM,2024,01,08,01,154.2,205,Very Unhealthy,149.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 02:00 AM,2024,01,08,02,126.2,188,Unhealthy,98.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 03:00 AM,2024,01,08,03,84.9,166,Unhealthy,43.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 04:00 AM,2024,01,08,04,64.7,156,Unhealthy,44.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 05:00 AM,2024,01,08,05,52.2,142,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 06:00 AM,2024,01,08,06,47.4,130,Unhealthy for Sensitive Groups,42.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 07:00 AM,2024,01,08,07,49.8,136,Unhealthy for Sensitive Groups,52.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 08:00 AM,2024,01,08,08,59.9,153,Unhealthy,69.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 09:00 AM,2024,01,08,09,63.1,155,Unhealthy,66.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 10:00 AM,2024,01,08,10,62.6,155,Unhealthy,62.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 11:00 AM,2024,01,08,11,70.4,159,Unhealthy,78.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 12:00 PM,2024,01,08,12,77.1,162,Unhealthy,83.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 01:00 PM,2024,01,08,13,73.8,160,Unhealthy,70.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 02:00 PM,2024,01,08,14,69.7,158,Unhealthy,65.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 03:00 PM,2024,01,08,15,70.2,159,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 04:00 PM,2024,01,08,16,72.8,160,Unhealthy,75.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 05:00 PM,2024,01,08,17,73.1,160,Unhealthy,73.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 06:00 PM,2024,01,08,18,72.4,160,Unhealthy,71.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 07:00 PM,2024,01,08,19,99.2,174,Unhealthy,125.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 08:00 PM,2024,01,08,20,138.7,194,Unhealthy,178.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 09:00 PM,2024,01,08,21,162.0,212,Very Unhealthy,185.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 10:00 PM,2024,01,08,22,176.5,227,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-08 11:00 PM,2024,01,08,23,191.2,241,Very Unhealthy,205.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 12:00 AM,2024,01,09,00,187.6,238,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 01:00 AM,2024,01,09,01,182.4,233,Very Unhealthy,177.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 02:00 AM,2024,01,09,02,165.8,216,Very Unhealthy,149.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 03:00 AM,2024,01,09,03,149.4,199,Unhealthy,133.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 04:00 AM,2024,01,09,04,132.2,191,Unhealthy,114.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 05:00 AM,2024,01,09,05,119.3,184,Unhealthy,106.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 06:00 AM,2024,01,09,06,114.6,182,Unhealthy,108.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 07:00 AM,2024,01,09,07,104.1,176,Unhealthy,94.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 08:00 AM,2024,01,09,08,97.6,173,Unhealthy,91.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 09:00 AM,2024,01,09,09,93.3,171,Unhealthy,89.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 10:00 AM,2024,01,09,10,90.1,169,Unhealthy,86.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 11:00 AM,2024,01,09,11,93.8,171,Unhealthy,97.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 12:00 PM,2024,01,09,12,96.2,172,Unhealthy,98.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 01:00 PM,2024,01,09,13,92.5,170,Unhealthy,87.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 02:00 PM,2024,01,09,14,88.5,168,Unhealthy,81.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 03:00 PM,2024,01,09,15,85.0,166,Unhealthy,76.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 04:00 PM,2024,01,09,16,79.0,163,Unhealthy,69.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 05:00 PM,2024,01,09,17,74.3,161,Unhealthy,67.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 06:00 PM,2024,01,09,18,77.8,163,Unhealthy,81.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 07:00 PM,2024,01,09,19,90.2,169,Unhealthy,110.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 08:00 PM,2024,01,09,20,118.4,183,Unhealthy,143.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 09:00 PM,2024,01,09,21,133.8,191,Unhealthy,149.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 10:00 PM,2024,01,09,22,151.1,202,Very Unhealthy,168.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-09 11:00 PM,2024,01,09,23,169.0,219,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 12:00 AM,2024,01,10,00,173.9,224,Very Unhealthy,178.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 01:00 AM,2024,01,10,01,163.8,214,Very Unhealthy,153.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 02:00 AM,2024,01,10,02,155.3,206,Very Unhealthy,146.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 03:00 AM,2024,01,10,03,142.2,196,Unhealthy,129.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 04:00 AM,2024,01,10,04,129.5,189,Unhealthy,116.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 05:00 AM,2024,01,10,05,102.6,175,Unhealthy,75.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 06:00 AM,2024,01,10,06,78.1,163,Unhealthy,53.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 07:00 AM,2024,01,10,07,63.0,155,Unhealthy,47.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 08:00 AM,2024,01,10,08,53.3,145,Unhealthy for Sensitive Groups,43.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 09:00 AM,2024,01,10,09,50.2,137,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 10:00 AM,2024,01,10,10,72.4,160,Unhealthy,94.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 11:00 AM,2024,01,10,11,92.7,170,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 12:00 PM,2024,01,10,12,82.4,165,Unhealthy,72.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 01:00 PM,2024,01,10,13,66.0,156,Unhealthy,49.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 02:00 PM,2024,01,10,14,62.4,155,Unhealthy,58.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 03:00 PM,2024,01,10,15,64.6,156,Unhealthy,66.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 04:00 PM,2024,01,10,16,66.4,157,Unhealthy,68.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 05:00 PM,2024,01,10,17,68.0,157,Unhealthy,69.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 06:00 PM,2024,01,10,18,69.7,158,Unhealthy,71.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 07:00 PM,2024,01,10,19,80.7,164,Unhealthy,91.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 08:00 PM,2024,01,10,20,108.0,178,Unhealthy,135.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 09:00 PM,2024,01,10,21,133.1,191,Unhealthy,158.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 10:00 PM,2024,01,10,22,140.0,195,Unhealthy,146.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-10 11:00 PM,2024,01,10,23,146.7,198,Unhealthy,153.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 12:00 AM,2024,01,11,00,125.7,187,Unhealthy,104.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 01:00 AM,2024,01,11,01,89.3,168,Unhealthy,52.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 02:00 AM,2024,01,11,02,71.6,159,Unhealthy,53.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 03:00 AM,2024,01,11,03,60.9,154,Unhealthy,50.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 04:00 AM,2024,01,11,04,51.9,141,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 05:00 AM,2024,01,11,05,45.9,127,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 06:00 AM,2024,01,11,06,45.4,125,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 07:00 AM,2024,01,11,07,47.2,130,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 08:00 AM,2024,01,11,08,47.9,132,Unhealthy for Sensitive Groups,48.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 09:00 AM,2024,01,11,09,40.8,114,Unhealthy for Sensitive Groups,33.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 10:00 AM,2024,01,11,10,34.3,98,Moderate,27.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 11:00 AM,2024,01,11,11,38.0,107,Unhealthy for Sensitive Groups,41.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 12:00 PM,2024,01,11,12,44.4,123,Unhealthy for Sensitive Groups,51.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 01:00 PM,2024,01,11,13,37.9,107,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 02:00 PM,2024,01,11,14,34.0,97,Moderate,29.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 03:00 PM,2024,01,11,15,34.4,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 04:00 PM,2024,01,11,16,37.2,105,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 05:00 PM,2024,01,11,17,37.4,106,Unhealthy for Sensitive Groups,37.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 06:00 PM,2024,01,11,18,40.9,114,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 07:00 PM,2024,01,11,19,45.5,126,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 08:00 PM,2024,01,11,20,58.4,152,Unhealthy,70.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 09:00 PM,2024,01,11,21,85.9,167,Unhealthy,113.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 10:00 PM,2024,01,11,22,114.8,182,Unhealthy,143.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-11 11:00 PM,2024,01,11,23,136.1,193,Unhealthy,157.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 12:00 AM,2024,01,12,00,148.7,199,Unhealthy,161.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 01:00 AM,2024,01,12,01,148.1,199,Unhealthy,147.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 02:00 AM,2024,01,12,02,148.6,199,Unhealthy,149.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 03:00 AM,2024,01,12,03,147.1,198,Unhealthy,145.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 04:00 AM,2024,01,12,04,140.4,195,Unhealthy,133.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 05:00 AM,2024,01,12,05,124.2,186,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 06:00 AM,2024,01,12,06,112.6,180,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 07:00 AM,2024,01,12,07,114.6,182,Unhealthy,116.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 08:00 AM,2024,01,12,08,121.5,185,Unhealthy,127.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 09:00 AM,2024,01,12,09,127.5,188,Unhealthy,137.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 10:00 AM,2024,01,12,10,129.6,189,Unhealthy,133.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 11:00 AM,2024,01,12,11,122.7,186,Unhealthy,111.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 12:00 PM,2024,01,12,12,106.1,177,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 01:00 PM,2024,01,12,13,92.6,170,Unhealthy,79.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 02:00 PM,2024,01,12,14,87.8,168,Unhealthy,81.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 03:00 PM,2024,01,12,15,86.8,167,Unhealthy,83.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 04:00 PM,2024,01,12,16,86.7,167,Unhealthy,86.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 05:00 PM,2024,01,12,17,89.0,168,Unhealthy,92.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 06:00 PM,2024,01,12,18,89.7,169,Unhealthy,90.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 07:00 PM,2024,01,12,19,91.2,169,Unhealthy,93.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 08:00 PM,2024,01,12,20,98.7,173,Unhealthy,108.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 09:00 PM,2024,01,12,21,116.3,182,Unhealthy,139.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 10:00 PM,2024,01,12,22,130.8,190,Unhealthy,146.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-12 11:00 PM,2024,01,12,23,121.1,185,Unhealthy,109.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 12:00 AM,2024,01,13,00,112.2,180,Unhealthy,101.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 01:00 AM,2024,01,13,01,102.9,175,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 02:00 AM,2024,01,13,02,101.7,175,Unhealthy,99.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 03:00 AM,2024,01,13,03,96.2,172,Unhealthy,87.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 04:00 AM,2024,01,13,04,90.4,169,Unhealthy,83.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 05:00 AM,2024,01,13,05,84.9,166,Unhealthy,79.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 06:00 AM,2024,01,13,06,84.4,166,Unhealthy,83.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 07:00 AM,2024,01,13,07,84.5,166,Unhealthy,84.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 08:00 AM,2024,01,13,08,93.1,170,Unhealthy,103.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 09:00 AM,2024,01,13,09,144.7,197,Unhealthy,195.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 10:00 AM,2024,01,13,10,153.9,204,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 11:00 AM,2024,01,13,11,137.4,193,Unhealthy,120.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 12:00 PM,2024,01,13,12,125.8,187,Unhealthy,114.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 01:00 PM,2024,01,13,13,120.8,185,Unhealthy,115.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 02:00 PM,2024,01,13,14,113.0,181,Unhealthy,105.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 03:00 PM,2024,01,13,15,104.1,176,Unhealthy,95.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-13 04:00 PM,2024,01,13,16,104.1,176,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Abuja,PM2.5 - Principal,2024-01-16 09:00 AM,2024,01,16,09,-999.0,-999,N/A,180.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 10:00 AM,2024,01,16,10,183.3,234,Very Unhealthy,185.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 11:00 AM,2024,01,16,11,178.7,229,Very Unhealthy,170.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 12:00 PM,2024,01,16,12,167.8,218,Very Unhealthy,147.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 01:00 PM,2024,01,16,13,160.7,211,Very Unhealthy,145.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 02:00 PM,2024,01,16,14,152.0,202,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 03:00 PM,2024,01,16,15,149.5,200,Unhealthy,143.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 04:00 PM,2024,01,16,16,148.4,199,Unhealthy,145.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 05:00 PM,2024,01,16,17,157.6,208,Very Unhealthy,180.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 06:00 PM,2024,01,16,18,172.6,223,Very Unhealthy,201.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 07:00 PM,2024,01,16,19,190.5,241,Very Unhealthy,216.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 08:00 PM,2024,01,16,20,237.4,287,Very Unhealthy,275.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 09:00 PM,2024,01,16,21,271.9,322,Hazardous,306.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 10:00 PM,2024,01,16,22,298.7,349,Hazardous,325.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-16 11:00 PM,2024,01,16,23,323.6,373,Hazardous,348.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 12:00 AM,2024,01,17,00,288.3,338,Hazardous,252.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 01:00 AM,2024,01,17,01,204.2,254,Very Unhealthy,120.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 02:00 AM,2024,01,17,02,140.2,195,Unhealthy,76.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 03:00 AM,2024,01,17,03,110.2,179,Unhealthy,80.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 04:00 AM,2024,01,17,04,96.1,172,Unhealthy,82.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 05:00 AM,2024,01,17,05,93.3,171,Unhealthy,90.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 06:00 AM,2024,01,17,06,92.7,170,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 07:00 AM,2024,01,17,07,94.0,171,Unhealthy,95.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 08:00 AM,2024,01,17,08,96.9,172,Unhealthy,99.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 09:00 AM,2024,01,17,09,111.0,180,Unhealthy,125.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 10:00 AM,2024,01,17,10,103.9,176,Unhealthy,96.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 11:00 AM,2024,01,17,11,113.8,181,Unhealthy,123.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 12:00 PM,2024,01,17,12,115.0,182,Unhealthy,121.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 01:00 PM,2024,01,17,13,124.8,187,Unhealthy,135.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 02:00 PM,2024,01,17,14,142.1,196,Unhealthy,158.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 03:00 PM,2024,01,17,15,146.5,198,Unhealthy,151.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 04:00 PM,2024,01,17,16,142.7,196,Unhealthy,140.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 05:00 PM,2024,01,17,17,145.4,197,Unhealthy,149.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 06:00 PM,2024,01,17,18,150.2,200,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 07:00 PM,2024,01,17,19,167.6,218,Very Unhealthy,184.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 08:00 PM,2024,01,17,20,193.5,244,Very Unhealthy,218.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 09:00 PM,2024,01,17,21,217.2,267,Very Unhealthy,240.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 10:00 PM,2024,01,17,22,229.2,279,Very Unhealthy,241.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-17 11:00 PM,2024,01,17,23,260.3,311,Hazardous,291.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 12:00 AM,2024,01,18,00,257.0,307,Hazardous,253.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 01:00 AM,2024,01,18,01,218.4,268,Very Unhealthy,179.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 02:00 AM,2024,01,18,02,179.2,229,Very Unhealthy,140.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 03:00 AM,2024,01,18,03,157.5,208,Very Unhealthy,135.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 04:00 AM,2024,01,18,04,166.7,217,Very Unhealthy,175.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 05:00 AM,2024,01,18,05,140.3,195,Unhealthy,113.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 06:00 AM,2024,01,18,06,101.4,175,Unhealthy,62.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 07:00 AM,2024,01,18,07,76.2,162,Unhealthy,51.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 08:00 AM,2024,01,18,08,63.7,155,Unhealthy,51.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 09:00 AM,2024,01,18,09,57.7,152,Unhealthy,51.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 10:00 AM,2024,01,18,10,52.5,143,Unhealthy for Sensitive Groups,47.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 11:00 AM,2024,01,18,11,55.1,149,Unhealthy for Sensitive Groups,57.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 12:00 PM,2024,01,18,12,60.2,153,Unhealthy,65.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 01:00 PM,2024,01,18,13,74.6,161,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 02:00 PM,2024,01,18,14,80.5,164,Unhealthy,86.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 03:00 PM,2024,01,18,15,80.9,164,Unhealthy,81.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 04:00 PM,2024,01,18,16,80.6,164,Unhealthy,80.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 05:00 PM,2024,01,18,17,84.5,166,Unhealthy,89.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 06:00 PM,2024,01,18,18,98.0,173,Unhealthy,111.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 07:00 PM,2024,01,18,19,124.2,186,Unhealthy,150.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 08:00 PM,2024,01,18,20,166.9,217,Very Unhealthy,209.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 09:00 PM,2024,01,18,21,231.9,282,Very Unhealthy,296.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 10:00 PM,2024,01,18,22,264.0,314,Hazardous,296.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-18 11:00 PM,2024,01,18,23,250.4,300,Very Unhealthy,236.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 12:00 AM,2024,01,19,00,263.4,314,Hazardous,276.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 01:00 AM,2024,01,19,01,262.3,313,Hazardous,261.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 02:00 AM,2024,01,19,02,224.6,274,Very Unhealthy,186.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 03:00 AM,2024,01,19,03,186.5,237,Very Unhealthy,148.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 04:00 AM,2024,01,19,04,168.2,219,Very Unhealthy,149.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 05:00 AM,2024,01,19,05,164.4,215,Very Unhealthy,160.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 06:00 AM,2024,01,19,06,156.8,207,Very Unhealthy,149.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 07:00 AM,2024,01,19,07,156.3,207,Very Unhealthy,155.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 08:00 AM,2024,01,19,08,154.9,205,Very Unhealthy,153.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 09:00 AM,2024,01,19,09,138.8,194,Unhealthy,122.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 10:00 AM,2024,01,19,10,123.3,186,Unhealthy,107.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 11:00 AM,2024,01,19,11,106.6,177,Unhealthy,89.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 12:00 PM,2024,01,19,12,89.8,169,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 01:00 PM,2024,01,19,13,91.4,170,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 02:00 PM,2024,01,19,14,110.6,179,Unhealthy,129.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 03:00 PM,2024,01,19,15,132.6,191,Unhealthy,154.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 04:00 PM,2024,01,19,16,137.4,193,Unhealthy,142.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 05:00 PM,2024,01,19,17,131.8,190,Unhealthy,126.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 06:00 PM,2024,01,19,18,133.6,191,Unhealthy,135.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 07:00 PM,2024,01,19,19,144.6,197,Unhealthy,155.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 08:00 PM,2024,01,19,20,179.9,230,Very Unhealthy,215.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 09:00 PM,2024,01,19,21,207.7,258,Very Unhealthy,235.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 10:00 PM,2024,01,19,22,222.7,273,Very Unhealthy,237.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-19 11:00 PM,2024,01,19,23,226.1,276,Very Unhealthy,229.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 12:00 AM,2024,01,20,00,226.2,276,Very Unhealthy,226.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 01:00 AM,2024,01,20,01,140.5,195,Unhealthy,54.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 02:00 AM,2024,01,20,02,92.0,170,Unhealthy,43.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 03:00 AM,2024,01,20,03,70.5,159,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 04:00 AM,2024,01,20,04,63.4,155,Unhealthy,56.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 05:00 AM,2024,01,20,05,56.7,152,Unhealthy,50.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 06:00 AM,2024,01,20,06,55.2,150,Unhealthy for Sensitive Groups,53.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 07:00 AM,2024,01,20,07,54.8,149,Unhealthy for Sensitive Groups,54.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 08:00 AM,2024,01,20,08,53.7,146,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 09:00 AM,2024,01,20,09,60.3,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 10:00 AM,2024,01,20,10,73.3,160,Unhealthy,86.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 11:00 AM,2024,01,20,11,81.3,164,Unhealthy,89.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 12:00 PM,2024,01,20,12,87.9,168,Unhealthy,94.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 01:00 PM,2024,01,20,13,91.2,169,Unhealthy,94.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 02:00 PM,2024,01,20,14,95.0,171,Unhealthy,98.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 03:00 PM,2024,01,20,15,101.5,175,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 04:00 PM,2024,01,20,16,109.3,179,Unhealthy,117.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 05:00 PM,2024,01,20,17,111.6,180,Unhealthy,113.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 06:00 PM,2024,01,20,18,113.8,181,Unhealthy,116.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 07:00 PM,2024,01,20,19,137.3,193,Unhealthy,160.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 08:00 PM,2024,01,20,20,147.9,199,Unhealthy,158.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 09:00 PM,2024,01,20,21,133.7,191,Unhealthy,119.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 10:00 PM,2024,01,20,22,128.3,189,Unhealthy,121.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-20 11:00 PM,2024,01,20,23,92.6,170,Unhealthy,57.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 12:00 AM,2024,01,21,00,66.3,157,Unhealthy,40.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 01:00 AM,2024,01,21,01,51.9,141,Unhealthy for Sensitive Groups,37.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 02:00 AM,2024,01,21,02,47.8,131,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 03:00 AM,2024,01,21,03,42.0,117,Unhealthy for Sensitive Groups,36.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 04:00 AM,2024,01,21,04,41.4,116,Unhealthy for Sensitive Groups,40.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 05:00 AM,2024,01,21,05,47.0,129,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 06:00 AM,2024,01,21,06,53.2,145,Unhealthy for Sensitive Groups,59.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 07:00 AM,2024,01,21,07,53.2,145,Unhealthy for Sensitive Groups,53.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 08:00 AM,2024,01,21,08,50.3,137,Unhealthy for Sensitive Groups,47.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 09:00 AM,2024,01,21,09,52.7,143,Unhealthy for Sensitive Groups,55.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 10:00 AM,2024,01,21,10,64.5,156,Unhealthy,76.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 11:00 AM,2024,01,21,11,68.6,158,Unhealthy,72.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 12:00 PM,2024,01,21,12,62.5,155,Unhealthy,56.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 01:00 PM,2024,01,21,13,61.8,154,Unhealthy,61.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 02:00 PM,2024,01,21,14,66.7,157,Unhealthy,71.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 03:00 PM,2024,01,21,15,75.2,161,Unhealthy,83.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 04:00 PM,2024,01,21,16,93.9,171,Unhealthy,112.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 05:00 PM,2024,01,21,17,103.6,176,Unhealthy,113.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 06:00 PM,2024,01,21,18,112.4,180,Unhealthy,121.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 07:00 PM,2024,01,21,19,128.7,189,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 08:00 PM,2024,01,21,20,151.1,202,Very Unhealthy,173.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 09:00 PM,2024,01,21,21,191.6,242,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 10:00 PM,2024,01,21,22,208.6,259,Very Unhealthy,225.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-21 11:00 PM,2024,01,21,23,216.8,267,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 12:00 AM,2024,01,22,00,150.1,200,Unhealthy,83.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 01:00 AM,2024,01,22,01,93.7,171,Unhealthy,37.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 02:00 AM,2024,01,22,02,66.6,157,Unhealthy,39.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 03:00 AM,2024,01,22,03,54.2,147,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 04:00 AM,2024,01,22,04,53.1,144,Unhealthy for Sensitive Groups,51.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 05:00 AM,2024,01,22,05,48.5,133,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 06:00 AM,2024,01,22,06,42.8,119,Unhealthy for Sensitive Groups,37.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 07:00 AM,2024,01,22,07,39.4,111,Unhealthy for Sensitive Groups,36.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 08:00 AM,2024,01,22,08,36.3,103,Unhealthy for Sensitive Groups,33.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 09:00 AM,2024,01,22,09,41.1,115,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 10:00 AM,2024,01,22,10,51.0,139,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 11:00 AM,2024,01,22,11,54.7,148,Unhealthy for Sensitive Groups,58.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 12:00 PM,2024,01,22,12,57.6,152,Unhealthy,61.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 01:00 PM,2024,01,22,13,56.1,151,Unhealthy,54.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 02:00 PM,2024,01,22,14,59.4,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 03:00 PM,2024,01,22,15,59.1,153,Unhealthy,58.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 04:00 PM,2024,01,22,16,66.2,157,Unhealthy,73.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 05:00 PM,2024,01,22,17,75.9,162,Unhealthy,85.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 06:00 PM,2024,01,22,18,85.1,166,Unhealthy,94.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 07:00 PM,2024,01,22,19,103.9,176,Unhealthy,122.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 08:00 PM,2024,01,22,20,148.2,199,Unhealthy,192.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 09:00 PM,2024,01,22,21,186.4,237,Very Unhealthy,224.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 10:00 PM,2024,01,22,22,199.3,249,Very Unhealthy,212.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-22 11:00 PM,2024,01,22,23,192.4,243,Very Unhealthy,185.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 12:00 AM,2024,01,23,00,199.7,250,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 01:00 AM,2024,01,23,01,203.5,254,Very Unhealthy,207.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 02:00 AM,2024,01,23,02,208.6,259,Very Unhealthy,213.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 03:00 AM,2024,01,23,03,202.4,252,Very Unhealthy,196.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 04:00 AM,2024,01,23,04,200.1,250,Very Unhealthy,197.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 05:00 AM,2024,01,23,05,189.1,239,Very Unhealthy,178.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 06:00 AM,2024,01,23,06,186.8,237,Very Unhealthy,182.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 07:00 AM,2024,01,23,07,148.2,199,Unhealthy,110.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 08:00 AM,2024,01,23,08,139.7,194,Unhealthy,131.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 09:00 AM,2024,01,23,09,210.0,260,Very Unhealthy,280.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 10:00 AM,2024,01,23,10,195.6,246,Very Unhealthy,181.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 11:00 AM,2024,01,23,11,175.7,226,Very Unhealthy,155.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 12:00 PM,2024,01,23,12,163.3,214,Very Unhealthy,150.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 01:00 PM,2024,01,23,13,149.3,199,Unhealthy,135.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 02:00 PM,2024,01,23,14,142.6,196,Unhealthy,135.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 03:00 PM,2024,01,23,15,137.4,193,Unhealthy,132.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 04:00 PM,2024,01,23,16,126.0,187,Unhealthy,114.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 05:00 PM,2024,01,23,17,118.2,183,Unhealthy,110.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 06:00 PM,2024,01,23,18,114.4,181,Unhealthy,110.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 07:00 PM,2024,01,23,19,122.2,185,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 08:00 PM,2024,01,23,20,134.6,192,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 09:00 PM,2024,01,23,21,151.3,202,Very Unhealthy,181.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 10:00 PM,2024,01,23,22,180.8,231,Very Unhealthy,208.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-23 11:00 PM,2024,01,23,23,191.1,241,Very Unhealthy,202.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 12:00 AM,2024,01,24,00,183.5,234,Very Unhealthy,174.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 01:00 AM,2024,01,24,01,178.5,229,Very Unhealthy,172.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 02:00 AM,2024,01,24,02,173.3,224,Very Unhealthy,167.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 03:00 AM,2024,01,24,03,172.9,223,Very Unhealthy,172.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 04:00 AM,2024,01,24,04,165.8,216,Very Unhealthy,157.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 05:00 AM,2024,01,24,05,160.3,211,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 06:00 AM,2024,01,24,06,158.4,209,Very Unhealthy,151.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 07:00 AM,2024,01,24,07,165.8,216,Very Unhealthy,176.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 08:00 AM,2024,01,24,08,160.4,211,Very Unhealthy,147.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 09:00 AM,2024,01,24,09,119.0,184,Unhealthy,81.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 10:00 AM,2024,01,24,10,90.1,169,Unhealthy,61.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 11:00 AM,2024,01,24,11,73.6,160,Unhealthy,57.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 12:00 PM,2024,01,24,12,63.4,155,Unhealthy,53.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 01:00 PM,2024,01,24,13,63.3,155,Unhealthy,63.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 02:00 PM,2024,01,24,14,68.9,158,Unhealthy,74.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 03:00 PM,2024,01,24,15,75.7,161,Unhealthy,82.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 04:00 PM,2024,01,24,16,83.0,165,Unhealthy,90.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 05:00 PM,2024,01,24,17,86.8,167,Unhealthy,90.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 06:00 PM,2024,01,24,18,88.8,168,Unhealthy,90.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 07:00 PM,2024,01,24,19,92.1,170,Unhealthy,95.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 08:00 PM,2024,01,24,20,97.9,173,Unhealthy,104.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 09:00 PM,2024,01,24,21,110.3,179,Unhealthy,122.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 10:00 PM,2024,01,24,22,131.1,190,Unhealthy,151.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-24 11:00 PM,2024,01,24,23,170.8,221,Very Unhealthy,210.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 12:00 AM,2024,01,25,00,234.4,284,Very Unhealthy,297.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 01:00 AM,2024,01,25,01,326.3,376,Hazardous,418.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 02:00 AM,2024,01,25,02,390.5,427,Hazardous,454.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 03:00 AM,2024,01,25,03,416.9,445,Hazardous,443.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 04:00 AM,2024,01,25,04,382.4,422,Hazardous,347.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 05:00 AM,2024,01,25,05,337.3,387,Hazardous,292.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 06:00 AM,2024,01,25,06,293.6,344,Hazardous,249.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 07:00 AM,2024,01,25,07,245.0,295,Very Unhealthy,196.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 08:00 AM,2024,01,25,08,199.7,250,Very Unhealthy,154.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 09:00 AM,2024,01,25,09,160.5,211,Very Unhealthy,121.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 10:00 AM,2024,01,25,10,130.6,190,Unhealthy,100.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 11:00 AM,2024,01,25,11,109.8,179,Unhealthy,89.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 12:00 PM,2024,01,25,12,92.8,170,Unhealthy,75.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 01:00 PM,2024,01,25,13,85.4,166,Unhealthy,78.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 02:00 PM,2024,01,25,14,69.6,158,Unhealthy,53.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 03:00 PM,2024,01,25,15,60.4,154,Unhealthy,51.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 04:00 PM,2024,01,25,16,56.3,151,Unhealthy,52.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 05:00 PM,2024,01,25,17,53.4,145,Unhealthy for Sensitive Groups,50.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 06:00 PM,2024,01,25,18,56.2,151,Unhealthy,58.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 07:00 PM,2024,01,25,19,60.5,154,Unhealthy,64.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 08:00 PM,2024,01,25,20,76.3,162,Unhealthy,92.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 09:00 PM,2024,01,25,21,88.8,168,Unhealthy,101.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 10:00 PM,2024,01,25,22,83.3,165,Unhealthy,77.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-25 11:00 PM,2024,01,25,23,71.2,159,Unhealthy,59.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 12:00 AM,2024,01,26,00,81.9,165,Unhealthy,92.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 01:00 AM,2024,01,26,01,105.4,177,Unhealthy,128.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 02:00 AM,2024,01,26,02,129.6,189,Unhealthy,153.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 03:00 AM,2024,01,26,03,150.7,201,Very Unhealthy,171.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 04:00 AM,2024,01,26,04,155.3,206,Very Unhealthy,159.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 05:00 AM,2024,01,26,05,159.3,210,Very Unhealthy,163.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 06:00 AM,2024,01,26,06,156.0,206,Very Unhealthy,152.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 07:00 AM,2024,01,26,07,148.2,199,Unhealthy,140.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 08:00 AM,2024,01,26,08,138.2,194,Unhealthy,128.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 09:00 AM,2024,01,26,09,128.8,189,Unhealthy,119.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 10:00 AM,2024,01,26,10,122.9,186,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 11:00 AM,2024,01,26,11,117.1,183,Unhealthy,108.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 12:00 PM,2024,01,26,12,108.0,178,Unhealthy,95.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 01:00 PM,2024,01,26,13,101.3,175,Unhealthy,93.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 02:00 PM,2024,01,26,14,100.0,174,Unhealthy,98.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 03:00 PM,2024,01,26,15,99.4,174,Unhealthy,97.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 04:00 PM,2024,01,26,16,98.3,173,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 05:00 PM,2024,01,26,17,96.3,172,Unhealthy,92.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 06:00 PM,2024,01,26,18,98.0,173,Unhealthy,99.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 07:00 PM,2024,01,26,19,103.7,176,Unhealthy,117.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 08:00 PM,2024,01,26,20,130.0,189,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 09:00 PM,2024,01,26,21,139.8,195,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 10:00 PM,2024,01,26,22,145.4,197,Unhealthy,152.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-26 11:00 PM,2024,01,26,23,162.2,213,Very Unhealthy,178.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 12:00 AM,2024,01,27,00,183.4,234,Very Unhealthy,203.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 01:00 AM,2024,01,27,01,206.8,257,Very Unhealthy,230.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 02:00 AM,2024,01,27,02,218.8,269,Very Unhealthy,230.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 03:00 AM,2024,01,27,03,219.5,269,Very Unhealthy,220.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 04:00 AM,2024,01,27,04,209.6,260,Very Unhealthy,199.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 05:00 AM,2024,01,27,05,194.8,245,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 06:00 AM,2024,01,27,06,174.1,224,Very Unhealthy,152.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 07:00 AM,2024,01,27,07,176.9,227,Very Unhealthy,165.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 08:00 AM,2024,01,27,08,149.0,199,Unhealthy,123.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 09:00 AM,2024,01,27,09,127.1,188,Unhealthy,107.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 10:00 AM,2024,01,27,10,115.6,182,Unhealthy,104.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 11:00 AM,2024,01,27,11,105.2,177,Unhealthy,94.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 12:00 PM,2024,01,27,12,98.1,173,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 01:00 PM,2024,01,27,13,94.8,171,Unhealthy,91.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 02:00 PM,2024,01,27,14,96.4,172,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 03:00 PM,2024,01,27,15,97.2,173,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 04:00 PM,2024,01,27,16,96.7,172,Unhealthy,96.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 05:00 PM,2024,01,27,17,99.2,174,Unhealthy,102.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 06:00 PM,2024,01,27,18,101.8,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 07:00 PM,2024,01,27,19,106.0,177,Unhealthy,121.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 08:00 PM,2024,01,27,20,118.4,183,Unhealthy,138.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 09:00 PM,2024,01,27,21,132.4,191,Unhealthy,150.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 10:00 PM,2024,01,27,22,144.2,197,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-27 11:00 PM,2024,01,27,23,159.7,210,Very Unhealthy,173.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 12:00 AM,2024,01,28,00,186.7,237,Very Unhealthy,212.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 01:00 AM,2024,01,28,01,204.3,254,Very Unhealthy,221.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 02:00 AM,2024,01,28,02,227.1,277,Very Unhealthy,249.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 03:00 AM,2024,01,28,03,237.1,287,Very Unhealthy,247.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 04:00 AM,2024,01,28,04,241.4,291,Very Unhealthy,245.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 05:00 AM,2024,01,28,05,238.4,288,Very Unhealthy,235.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 06:00 AM,2024,01,28,06,229.4,279,Very Unhealthy,220.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 07:00 AM,2024,01,28,07,217.2,267,Very Unhealthy,201.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 08:00 AM,2024,01,28,08,211.4,261,Very Unhealthy,200.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 09:00 AM,2024,01,28,09,205.3,255,Very Unhealthy,192.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 10:00 AM,2024,01,28,10,194.2,244,Very Unhealthy,167.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 11:00 AM,2024,01,28,11,165.3,216,Very Unhealthy,138.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 12:00 PM,2024,01,28,12,145.7,198,Unhealthy,128.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 01:00 PM,2024,01,28,13,134.2,192,Unhealthy,123.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 02:00 PM,2024,01,28,14,129.9,189,Unhealthy,125.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 03:00 PM,2024,01,28,15,129.0,189,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 04:00 PM,2024,01,28,16,125.6,187,Unhealthy,121.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 05:00 PM,2024,01,28,17,122.5,186,Unhealthy,118.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 06:00 PM,2024,01,28,18,124.1,186,Unhealthy,124.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 07:00 PM,2024,01,28,19,126.0,187,Unhealthy,128.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 08:00 PM,2024,01,28,20,135.6,192,Unhealthy,150.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 09:00 PM,2024,01,28,21,147.7,199,Unhealthy,175.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 10:00 PM,2024,01,28,22,156.8,207,Very Unhealthy,175.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-28 11:00 PM,2024,01,28,23,180.4,231,Very Unhealthy,204.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 12:00 AM,2024,01,29,00,191.1,241,Very Unhealthy,205.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 01:00 AM,2024,01,29,01,196.7,247,Very Unhealthy,204.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 02:00 AM,2024,01,29,02,198.2,248,Very Unhealthy,200.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 03:00 AM,2024,01,29,03,195.0,245,Very Unhealthy,190.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 04:00 AM,2024,01,29,04,185.9,236,Very Unhealthy,173.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 05:00 AM,2024,01,29,05,181.8,232,Very Unhealthy,174.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 06:00 AM,2024,01,29,06,183.8,234,Very Unhealthy,186.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 07:00 AM,2024,01,29,07,165.9,216,Very Unhealthy,132.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 08:00 AM,2024,01,29,08,149.2,199,Unhealthy,125.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 09:00 AM,2024,01,29,09,146.2,198,Unhealthy,141.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 10:00 AM,2024,01,29,10,139.0,194,Unhealthy,127.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 11:00 AM,2024,01,29,11,124.4,187,Unhealthy,110.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 12:00 PM,2024,01,29,12,119.0,184,Unhealthy,112.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 01:00 PM,2024,01,29,13,105.2,177,Unhealthy,92.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 02:00 PM,2024,01,29,14,96.8,172,Unhealthy,88.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 03:00 PM,2024,01,29,15,93.9,171,Unhealthy,91.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 04:00 PM,2024,01,29,16,93.9,171,Unhealthy,93.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 05:00 PM,2024,01,29,17,93.3,171,Unhealthy,92.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 06:00 PM,2024,01,29,18,96.6,172,Unhealthy,99.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 07:00 PM,2024,01,29,19,101.0,174,Unhealthy,108.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 08:00 PM,2024,01,29,20,117.4,183,Unhealthy,143.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 09:00 PM,2024,01,29,21,153.3,204,Very Unhealthy,183.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 10:00 PM,2024,01,29,22,214.9,265,Very Unhealthy,276.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-29 11:00 PM,2024,01,29,23,197.4,247,Very Unhealthy,179.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 12:00 AM,2024,01,30,00,185.7,236,Very Unhealthy,174.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 01:00 AM,2024,01,30,01,218.0,268,Very Unhealthy,250.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 02:00 AM,2024,01,30,02,186.3,236,Very Unhealthy,154.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 03:00 AM,2024,01,30,03,174.1,224,Very Unhealthy,161.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 04:00 AM,2024,01,30,04,164.3,215,Very Unhealthy,154.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 05:00 AM,2024,01,30,05,165.3,216,Very Unhealthy,166.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 06:00 AM,2024,01,30,06,166.7,217,Very Unhealthy,168.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 07:00 AM,2024,01,30,07,148.7,199,Unhealthy,130.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 08:00 AM,2024,01,30,08,128.0,188,Unhealthy,107.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 09:00 AM,2024,01,30,09,117.7,183,Unhealthy,107.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 10:00 AM,2024,01,30,10,112.4,180,Unhealthy,107.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 11:00 AM,2024,01,30,11,103.8,176,Unhealthy,95.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 12:00 PM,2024,01,30,12,92.9,170,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 01:00 PM,2024,01,30,13,87.4,167,Unhealthy,81.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 02:00 PM,2024,01,30,14,87.2,167,Unhealthy,87.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 03:00 PM,2024,01,30,15,91.8,170,Unhealthy,96.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 04:00 PM,2024,01,30,16,92.6,170,Unhealthy,93.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 05:00 PM,2024,01,30,17,93.0,170,Unhealthy,93.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 06:00 PM,2024,01,30,18,94.0,171,Unhealthy,96.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 07:00 PM,2024,01,30,19,101.1,175,Unhealthy,117.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 08:00 PM,2024,01,30,20,119.5,184,Unhealthy,140.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 09:00 PM,2024,01,30,21,138.1,194,Unhealthy,155.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 10:00 PM,2024,01,30,22,147.4,198,Unhealthy,157.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-30 11:00 PM,2024,01,30,23,126.9,188,Unhealthy,104.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 12:00 AM,2024,01,31,00,99.1,174,Unhealthy,71.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 01:00 AM,2024,01,31,01,89.1,168,Unhealthy,79.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 02:00 AM,2024,01,31,02,80.1,164,Unhealthy,71.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 03:00 AM,2024,01,31,03,74.9,161,Unhealthy,69.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 04:00 AM,2024,01,31,04,75.2,161,Unhealthy,75.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 05:00 AM,2024,01,31,05,73.8,160,Unhealthy,72.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 06:00 AM,2024,01,31,06,73.6,160,Unhealthy,73.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 07:00 AM,2024,01,31,07,75.6,161,Unhealthy,77.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 08:00 AM,2024,01,31,08,78.3,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 09:00 AM,2024,01,31,09,80.4,164,Unhealthy,82.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 10:00 AM,2024,01,31,10,77.3,162,Unhealthy,74.2,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 11:00 AM,2024,01,31,11,76.4,162,Unhealthy,76.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 12:00 PM,2024,01,31,12,83.1,165,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 01:00 PM,2024,01,31,13,94.0,171,Unhealthy,109.9,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 02:00 PM,2024,01,31,14,103.5,176,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 03:00 PM,2024,01,31,15,110.9,180,Unhealthy,121.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 04:00 PM,2024,01,31,16,111.9,180,Unhealthy,113.4,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 05:00 PM,2024,01,31,17,107.0,178,Unhealthy,99.8,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 06:00 PM,2024,01,31,18,102.8,175,Unhealthy,96.1,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 07:00 PM,2024,01,31,19,105.5,177,Unhealthy,109.6,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 08:00 PM,2024,01,31,20,115.1,182,Unhealthy,128.3,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 09:00 PM,2024,01,31,21,110.9,180,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 10:00 PM,2024,01,31,22,107.9,178,Unhealthy,103.5,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-01-31 11:00 PM,2024,01,31,23,118.8,184,Unhealthy,140.7,UG/M3,1 Hr,Valid
+Abuja,PM2.5 - Principal,2024-02-01 12:00 AM,2024,02,01,00,138.5,194,Unhealthy,163.0,UG/M3,1 Hr,Valid

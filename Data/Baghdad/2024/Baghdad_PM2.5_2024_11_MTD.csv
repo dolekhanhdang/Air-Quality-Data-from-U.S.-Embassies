@@ -1,0 +1,672 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Baghdad,PM2.5 - Principal,2024-11-01 01:00 AM,2024,11,01,01,128.9,204,Very Unhealthy,124.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 02:00 AM,2024,11,01,02,130.5,206,Very Unhealthy,132.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 03:00 AM,2024,11,01,03,118.2,195,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 04:00 AM,2024,11,01,04,96.8,180,Unhealthy,75.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 05:00 AM,2024,11,01,05,63.4,157,Unhealthy,30.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 06:00 AM,2024,11,01,06,63.9,157,Unhealthy,64.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 07:00 AM,2024,11,01,07,70.7,162,Unhealthy,77.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 08:00 AM,2024,11,01,08,51.7,141,Unhealthy for Sensitive Groups,32.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 09:00 AM,2024,11,01,09,39.4,111,Unhealthy for Sensitive Groups,27.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 10:00 AM,2024,11,01,10,34.8,99,Moderate,30.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 11:00 AM,2024,11,01,11,24.3,79,Moderate,13.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 12:00 PM,2024,11,01,12,18.1,68,Moderate,11.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 01:00 PM,2024,11,01,13,13.9,60,Moderate,9.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 02:00 PM,2024,11,01,14,10.4,53,Moderate,6.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 03:00 PM,2024,11,01,15,7.2,40,Good,4.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 04:00 PM,2024,11,01,16,7.4,41,Good,7.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 05:00 PM,2024,11,01,17,17.9,67,Moderate,28.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 06:00 PM,2024,11,01,18,14.8,62,Moderate,11.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 07:00 PM,2024,11,01,19,24.4,80,Moderate,34.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 08:00 PM,2024,11,01,20,33.2,96,Moderate,42.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 09:00 PM,2024,11,01,21,37.7,106,Unhealthy for Sensitive Groups,42.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 10:00 PM,2024,11,01,22,45.0,124,Unhealthy for Sensitive Groups,52.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-01 11:00 PM,2024,11,01,23,39.5,111,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 12:00 AM,2024,11,02,00,37.8,107,Unhealthy for Sensitive Groups,36.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 01:00 AM,2024,11,02,01,38.8,109,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 02:00 AM,2024,11,02,02,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 03:00 AM,2024,11,02,03,37.1,105,Unhealthy for Sensitive Groups,36.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 04:00 AM,2024,11,02,04,28.6,87,Moderate,20.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 05:00 AM,2024,11,02,05,26.9,84,Moderate,25.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 06:00 AM,2024,11,02,06,47.9,132,Unhealthy for Sensitive Groups,68.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 07:00 AM,2024,11,02,07,102.3,184,Unhealthy,156.7,UG/M3,1 Hr,Suspect
+Baghdad,PM2.5 - Principal,2024-11-02 08:00 AM,2024,11,02,08,139.0,214,Very Unhealthy,175.7,UG/M3,1 Hr,Suspect
+Baghdad,PM2.5 - Principal,2024-11-02 09:00 AM,2024,11,02,09,123.4,199,Unhealthy,107.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 10:00 AM,2024,11,02,10,128.3,204,Very Unhealthy,133.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 11:00 AM,2024,11,02,11,90.9,176,Unhealthy,53.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 12:00 PM,2024,11,02,12,64.5,157,Unhealthy,38.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 01:00 PM,2024,11,02,13,53.2,145,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 02:00 PM,2024,11,02,14,46.8,129,Unhealthy for Sensitive Groups,40.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 03:00 PM,2024,11,02,15,36.6,104,Unhealthy for Sensitive Groups,26.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 04:00 PM,2024,11,02,16,53.7,146,Unhealthy for Sensitive Groups,70.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 05:00 PM,2024,11,02,17,44.3,123,Unhealthy for Sensitive Groups,34.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 06:00 PM,2024,11,02,18,38.6,109,Unhealthy for Sensitive Groups,32.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 07:00 PM,2024,11,02,19,35.1,99,Moderate,31.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 08:00 PM,2024,11,02,20,31.4,93,Moderate,27.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 09:00 PM,2024,11,02,21,27.2,85,Moderate,23.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 10:00 PM,2024,11,02,22,28.1,86,Moderate,29.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-02 11:00 PM,2024,11,02,23,31.2,92,Moderate,34.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 12:00 AM,2024,11,03,00,52.0,142,Unhealthy for Sensitive Groups,72.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 01:00 AM,2024,11,03,01,44.7,124,Unhealthy for Sensitive Groups,37.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 02:00 AM,2024,11,03,02,33.7,97,Moderate,22.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 03:00 AM,2024,11,03,03,24.7,80,Moderate,15.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 04:00 AM,2024,11,03,04,17.2,66,Moderate,9.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 05:00 AM,2024,11,03,05,11.8,56,Moderate,6.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 06:00 AM,2024,11,03,06,15.6,63,Moderate,19.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 07:00 AM,2024,11,03,07,25.6,82,Moderate,35.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 08:00 AM,2024,11,03,08,27.0,84,Moderate,28.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 09:00 AM,2024,11,03,09,21.6,74,Moderate,16.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 10:00 AM,2024,11,03,10,22.2,75,Moderate,22.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 11:00 AM,2024,11,03,11,20.6,72,Moderate,19.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 12:00 PM,2024,11,03,12,21.7,74,Moderate,22.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 01:00 PM,2024,11,03,13,21.8,75,Moderate,21.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 02:00 PM,2024,11,03,14,20.9,73,Moderate,20.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 03:00 PM,2024,11,03,15,22.8,77,Moderate,24.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 04:00 PM,2024,11,03,16,21.8,75,Moderate,20.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 05:00 PM,2024,11,03,17,32.8,95,Moderate,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 06:00 PM,2024,11,03,18,35.6,101,Unhealthy for Sensitive Groups,38.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 07:00 PM,2024,11,03,19,31.3,92,Moderate,27.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 08:00 PM,2024,11,03,20,30.9,92,Moderate,30.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 09:00 PM,2024,11,03,21,25.8,82,Moderate,20.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 10:00 PM,2024,11,03,22,32.9,95,Moderate,40.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-03 11:00 PM,2024,11,03,23,37.5,106,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 12:00 AM,2024,11,04,00,42.7,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 01:00 AM,2024,11,04,01,45.0,124,Unhealthy for Sensitive Groups,47.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 02:00 AM,2024,11,04,02,37.3,105,Unhealthy for Sensitive Groups,29.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 03:00 AM,2024,11,04,03,27.5,85,Moderate,17.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 04:00 AM,2024,11,04,04,20.2,72,Moderate,13.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 05:00 AM,2024,11,04,05,16.6,65,Moderate,13.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 06:00 AM,2024,11,04,06,15.2,62,Moderate,13.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 07:00 AM,2024,11,04,07,26.8,84,Moderate,38.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 08:00 AM,2024,11,04,08,26.0,82,Moderate,25.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 09:00 AM,2024,11,04,09,30.3,90,Moderate,34.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 10:00 AM,2024,11,04,10,28.1,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-04 11:00 AM,2024,11,04,11,28.1,86,Moderate,-999.0,UG/M3,1 Hr,Missing
+Baghdad,PM2.5 - Principal,2024-11-06 01:00 PM,2024,11,06,13,-999.0,-999,N/A,66.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 02:00 PM,2024,11,06,14,49.4,135,Unhealthy for Sensitive Groups,39.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 03:00 PM,2024,11,06,15,52.1,142,Unhealthy for Sensitive Groups,54.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 04:00 PM,2024,11,06,16,49.5,135,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 05:00 PM,2024,11,06,17,42.0,117,Unhealthy for Sensitive Groups,34.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 06:00 PM,2024,11,06,18,34.7,99,Moderate,28.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 07:00 PM,2024,11,06,19,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 08:00 PM,2024,11,06,20,34.6,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 09:00 PM,2024,11,06,21,36.2,103,Unhealthy for Sensitive Groups,37.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 10:00 PM,2024,11,06,22,35.1,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-06 11:00 PM,2024,11,06,23,36.1,102,Unhealthy for Sensitive Groups,37.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 12:00 AM,2024,11,07,00,40.0,112,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 01:00 AM,2024,11,07,01,42.8,119,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 02:00 AM,2024,11,07,02,44.4,123,Unhealthy for Sensitive Groups,46.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 03:00 AM,2024,11,07,03,47.1,130,Unhealthy for Sensitive Groups,50.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 04:00 AM,2024,11,07,04,48.3,133,Unhealthy for Sensitive Groups,49.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 05:00 AM,2024,11,07,05,46.3,128,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 06:00 AM,2024,11,07,06,45.3,125,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 07:00 AM,2024,11,07,07,45.2,125,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 08:00 AM,2024,11,07,08,43.2,120,Unhealthy for Sensitive Groups,39.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 09:00 AM,2024,11,07,09,45.0,124,Unhealthy for Sensitive Groups,48.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 10:00 AM,2024,11,07,10,55.1,149,Unhealthy for Sensitive Groups,67.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 11:00 AM,2024,11,07,11,68.5,160,Unhealthy,80.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 12:00 PM,2024,11,07,12,70.8,162,Unhealthy,73.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 01:00 PM,2024,11,07,13,60.3,154,Unhealthy,49.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 02:00 PM,2024,11,07,14,53.1,144,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 03:00 PM,2024,11,07,15,50.5,138,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 04:00 PM,2024,11,07,16,47.6,131,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 05:00 PM,2024,11,07,17,43.2,120,Unhealthy for Sensitive Groups,38.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 06:00 PM,2024,11,07,18,53.7,146,Unhealthy for Sensitive Groups,64.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 07:00 PM,2024,11,07,19,50.0,137,Unhealthy for Sensitive Groups,46.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 08:00 PM,2024,11,07,20,54.9,149,Unhealthy for Sensitive Groups,59.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 09:00 PM,2024,11,07,21,54.3,147,Unhealthy for Sensitive Groups,53.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 10:00 PM,2024,11,07,22,50.0,137,Unhealthy for Sensitive Groups,45.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-07 11:00 PM,2024,11,07,23,46.8,129,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 12:00 AM,2024,11,08,00,46.4,128,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 01:00 AM,2024,11,08,01,43.7,121,Unhealthy for Sensitive Groups,39.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 02:00 AM,2024,11,08,02,34.2,98,Moderate,26.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 03:00 AM,2024,11,08,03,30.1,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 04:00 AM,2024,11,08,04,28.4,87,Moderate,26.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 05:00 AM,2024,11,08,05,25.2,81,Moderate,22.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 06:00 AM,2024,11,08,06,25.4,81,Moderate,25.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 07:00 AM,2024,11,08,07,21.9,75,Moderate,18.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 08:00 AM,2024,11,08,08,26.9,84,Moderate,31.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 09:00 AM,2024,11,08,09,28.0,86,Moderate,29.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 10:00 AM,2024,11,08,10,32.1,94,Moderate,36.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 11:00 AM,2024,11,08,11,39.0,110,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 12:00 PM,2024,11,08,12,43.9,122,Unhealthy for Sensitive Groups,48.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 01:00 PM,2024,11,08,13,43.3,120,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 02:00 PM,2024,11,08,14,39.2,110,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 03:00 PM,2024,11,08,15,39.4,111,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 04:00 PM,2024,11,08,16,35.6,101,Unhealthy for Sensitive Groups,31.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 05:00 PM,2024,11,08,17,31.2,92,Moderate,26.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 06:00 PM,2024,11,08,18,28.2,87,Moderate,25.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 07:00 PM,2024,11,08,19,30.6,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 08:00 PM,2024,11,08,20,33.2,96,Moderate,36.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 09:00 PM,2024,11,08,21,36.4,103,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 10:00 PM,2024,11,08,22,35.2,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-08 11:00 PM,2024,11,08,23,34.6,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 12:00 AM,2024,11,09,00,34.8,99,Moderate,35.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 01:00 AM,2024,11,09,01,38.0,107,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 02:00 AM,2024,11,09,02,35.3,100,Moderate,31.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 03:00 AM,2024,11,09,03,28.9,88,Moderate,22.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 04:00 AM,2024,11,09,04,29.5,89,Moderate,30.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 05:00 AM,2024,11,09,05,32.0,94,Moderate,34.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 06:00 AM,2024,11,09,06,32.0,94,Moderate,31.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 07:00 AM,2024,11,09,07,30.5,91,Moderate,28.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 08:00 AM,2024,11,09,08,29.0,88,Moderate,27.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 09:00 AM,2024,11,09,09,34.9,99,Moderate,41.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 10:00 AM,2024,11,09,10,45.2,125,Unhealthy for Sensitive Groups,55.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 11:00 AM,2024,11,09,11,56.6,152,Unhealthy,68.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 12:00 PM,2024,11,09,12,64.7,157,Unhealthy,72.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 01:00 PM,2024,11,09,13,67.0,159,Unhealthy,69.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 02:00 PM,2024,11,09,14,74.4,164,Unhealthy,81.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 03:00 PM,2024,11,09,15,62.7,156,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 04:00 PM,2024,11,09,16,56.7,152,Unhealthy,50.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 05:00 PM,2024,11,09,17,50.0,137,Unhealthy for Sensitive Groups,43.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 06:00 PM,2024,11,09,18,51.3,140,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 07:00 PM,2024,11,09,19,47.7,131,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 08:00 PM,2024,11,09,20,48.5,133,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 09:00 PM,2024,11,09,21,54.6,148,Unhealthy for Sensitive Groups,61.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 10:00 PM,2024,11,09,22,48.5,133,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-09 11:00 PM,2024,11,09,23,44.7,124,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 12:00 AM,2024,11,10,00,44.8,124,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 01:00 AM,2024,11,10,01,44.2,122,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 02:00 AM,2024,11,10,02,41.8,117,Unhealthy for Sensitive Groups,37.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 03:00 AM,2024,11,10,03,44.1,122,Unhealthy for Sensitive Groups,47.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 04:00 AM,2024,11,10,04,43.7,121,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 05:00 AM,2024,11,10,05,45.0,124,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 06:00 AM,2024,11,10,06,48.2,132,Unhealthy for Sensitive Groups,53.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 07:00 AM,2024,11,10,07,51.7,141,Unhealthy for Sensitive Groups,57.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 08:00 AM,2024,11,10,08,59.0,153,Unhealthy,67.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 09:00 AM,2024,11,10,09,65.4,158,Unhealthy,71.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 10:00 AM,2024,11,10,10,78.1,167,Unhealthy,90.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 11:00 AM,2024,11,10,11,89.7,175,Unhealthy,101.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 12:00 PM,2024,11,10,12,102.1,184,Unhealthy,114.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 01:00 PM,2024,11,10,13,118.2,195,Unhealthy,134.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 02:00 PM,2024,11,10,14,129.8,205,Very Unhealthy,141.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 03:00 PM,2024,11,10,15,144.1,219,Very Unhealthy,158.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 04:00 PM,2024,11,10,16,160.5,236,Very Unhealthy,176.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 05:00 PM,2024,11,10,17,181.0,256,Very Unhealthy,201.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 06:00 PM,2024,11,10,18,184.6,260,Very Unhealthy,188.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 07:00 PM,2024,11,10,19,162.2,237,Very Unhealthy,139.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 08:00 PM,2024,11,10,20,196.5,271,Very Unhealthy,230.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 09:00 PM,2024,11,10,21,237.6,325,Hazardous,278.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 10:00 PM,2024,11,10,22,193.0,268,Very Unhealthy,148.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-10 11:00 PM,2024,11,10,23,133.4,209,Very Unhealthy,73.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 12:00 AM,2024,11,11,00,102.7,184,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 01:00 AM,2024,11,11,01,88.1,174,Unhealthy,73.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 02:00 AM,2024,11,11,02,75.1,165,Unhealthy,62.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 03:00 AM,2024,11,11,03,71.1,162,Unhealthy,67.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 04:00 AM,2024,11,11,04,59.0,153,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 05:00 AM,2024,11,11,05,53.2,145,Unhealthy for Sensitive Groups,47.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 06:00 AM,2024,11,11,06,42.4,118,Unhealthy for Sensitive Groups,31.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 07:00 AM,2024,11,11,07,33.3,96,Moderate,24.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 08:00 AM,2024,11,11,08,33.1,96,Moderate,33.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 09:00 AM,2024,11,11,09,35.1,99,Moderate,37.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 10:00 AM,2024,11,11,10,38.9,109,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 11:00 AM,2024,11,11,11,39.7,111,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 12:00 PM,2024,11,11,12,48.0,132,Unhealthy for Sensitive Groups,56.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 01:00 PM,2024,11,11,13,44.0,122,Unhealthy for Sensitive Groups,40.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 02:00 PM,2024,11,11,14,44.0,122,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 03:00 PM,2024,11,11,15,46.2,127,Unhealthy for Sensitive Groups,48.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 04:00 PM,2024,11,11,16,39.6,111,Unhealthy for Sensitive Groups,33.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 05:00 PM,2024,11,11,17,53.5,145,Unhealthy for Sensitive Groups,67.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 06:00 PM,2024,11,11,18,67.3,159,Unhealthy,81.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 07:00 PM,2024,11,11,19,77.5,166,Unhealthy,87.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 08:00 PM,2024,11,11,20,80.7,169,Unhealthy,83.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 09:00 PM,2024,11,11,21,80.0,168,Unhealthy,79.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 10:00 PM,2024,11,11,22,70.6,162,Unhealthy,61.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-11 11:00 PM,2024,11,11,23,56.8,152,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 12:00 AM,2024,11,12,00,49.8,136,Unhealthy for Sensitive Groups,42.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 01:00 AM,2024,11,12,01,44.3,123,Unhealthy for Sensitive Groups,38.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 02:00 AM,2024,11,12,02,39.7,111,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 03:00 AM,2024,11,12,03,39.3,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 04:00 AM,2024,11,12,04,40.6,114,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 05:00 AM,2024,11,12,05,40.2,113,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 06:00 AM,2024,11,12,06,39.4,111,Unhealthy for Sensitive Groups,38.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 07:00 AM,2024,11,12,07,33.7,97,Moderate,28.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 08:00 AM,2024,11,12,08,30.8,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 09:00 AM,2024,11,12,09,29.3,89,Moderate,27.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 10:00 AM,2024,11,12,10,27.9,86,Moderate,24.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 11:00 AM,2024,11,12,11,26.1,83,Moderate,24.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 12:00 PM,2024,11,12,12,26.9,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 01:00 PM,2024,11,12,13,27.4,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 02:00 PM,2024,11,12,14,28.0,86,Moderate,28.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 03:00 PM,2024,11,12,15,27.6,85,Moderate,27.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 04:00 PM,2024,11,12,16,30.9,92,Moderate,35.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 05:00 PM,2024,11,12,17,32.2,94,Moderate,34.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 06:00 PM,2024,11,12,18,30.5,91,Moderate,28.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 07:00 PM,2024,11,12,19,32.9,95,Moderate,37.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 08:00 PM,2024,11,12,20,38.2,108,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 09:00 PM,2024,11,12,21,39.5,111,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 10:00 PM,2024,11,12,22,42.7,119,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-12 11:00 PM,2024,11,12,23,45.2,125,Unhealthy for Sensitive Groups,48.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 12:00 AM,2024,11,13,00,44.2,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 01:00 AM,2024,11,13,01,43.5,121,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 02:00 AM,2024,11,13,02,39.3,110,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 03:00 AM,2024,11,13,03,37.1,105,Unhealthy for Sensitive Groups,33.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 04:00 AM,2024,11,13,04,35.3,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 05:00 AM,2024,11,13,05,34.7,99,Moderate,33.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 06:00 AM,2024,11,13,06,34.3,98,Moderate,32.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 07:00 AM,2024,11,13,07,34.8,99,Moderate,35.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 08:00 AM,2024,11,13,08,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 09:00 AM,2024,11,13,09,35.2,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 10:00 AM,2024,11,13,10,35.4,100,Moderate,35.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 11:00 AM,2024,11,13,11,35.3,100,Moderate,35.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 12:00 PM,2024,11,13,12,38.0,107,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 01:00 PM,2024,11,13,13,39.3,110,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 02:00 PM,2024,11,13,14,37.6,106,Unhealthy for Sensitive Groups,33.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 03:00 PM,2024,11,13,15,40.2,113,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 04:00 PM,2024,11,13,16,41.0,115,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 05:00 PM,2024,11,13,17,40.6,114,Unhealthy for Sensitive Groups,39.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 06:00 PM,2024,11,13,18,35.2,100,Moderate,27.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 07:00 PM,2024,11,13,19,35.1,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 08:00 PM,2024,11,13,20,36.2,103,Unhealthy for Sensitive Groups,37.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 09:00 PM,2024,11,13,21,64.1,157,Unhealthy,92.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 10:00 PM,2024,11,13,22,51.0,139,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-13 11:00 PM,2024,11,13,23,45.9,127,Unhealthy for Sensitive Groups,40.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 12:00 AM,2024,11,14,00,40.8,114,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 01:00 AM,2024,11,14,01,36.3,103,Unhealthy for Sensitive Groups,31.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 02:00 AM,2024,11,14,02,32.6,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 03:00 AM,2024,11,14,03,31.1,92,Moderate,29.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 04:00 AM,2024,11,14,04,26.1,83,Moderate,21.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 05:00 AM,2024,11,14,05,25.5,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 06:00 AM,2024,11,14,06,26.7,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 07:00 AM,2024,11,14,07,28.3,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 08:00 AM,2024,11,14,08,29.3,89,Moderate,30.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 09:00 AM,2024,11,14,09,36.1,102,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 10:00 AM,2024,11,14,10,38.5,108,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 11:00 AM,2024,11,14,11,39.2,110,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 12:00 PM,2024,11,14,12,39.1,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 01:00 PM,2024,11,14,13,39.9,112,Unhealthy for Sensitive Groups,40.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 02:00 PM,2024,11,14,14,36.9,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 03:00 PM,2024,11,14,15,36.8,104,Unhealthy for Sensitive Groups,36.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 04:00 PM,2024,11,14,16,34.9,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 05:00 PM,2024,11,14,17,34.8,99,Moderate,33.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 06:00 PM,2024,11,14,18,34.5,98,Moderate,33.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 07:00 PM,2024,11,14,19,37.0,105,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 08:00 PM,2024,11,14,20,49.7,136,Unhealthy for Sensitive Groups,62.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 09:00 PM,2024,11,14,21,59.8,154,Unhealthy,69.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 10:00 PM,2024,11,14,22,60.2,154,Unhealthy,60.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-14 11:00 PM,2024,11,14,23,55.5,151,Unhealthy,50.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 12:00 AM,2024,11,15,00,50.3,137,Unhealthy for Sensitive Groups,45.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 01:00 AM,2024,11,15,01,50.7,138,Unhealthy for Sensitive Groups,51.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 02:00 AM,2024,11,15,02,52.7,143,Unhealthy for Sensitive Groups,54.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 03:00 AM,2024,11,15,03,49.7,136,Unhealthy for Sensitive Groups,46.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 04:00 AM,2024,11,15,04,45.3,125,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 05:00 AM,2024,11,15,05,41.7,116,Unhealthy for Sensitive Groups,38.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 06:00 AM,2024,11,15,06,41.7,116,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 07:00 AM,2024,11,15,07,40.2,113,Unhealthy for Sensitive Groups,38.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 08:00 AM,2024,11,15,08,46.2,127,Unhealthy for Sensitive Groups,53.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 09:00 AM,2024,11,15,09,43.2,120,Unhealthy for Sensitive Groups,39.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 10:00 AM,2024,11,15,10,44.5,123,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 11:00 AM,2024,11,15,11,47.1,130,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 12:00 PM,2024,11,15,12,49.1,134,Unhealthy for Sensitive Groups,53.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 01:00 PM,2024,11,15,13,49.1,134,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 02:00 PM,2024,11,15,14,49.7,136,Unhealthy for Sensitive Groups,51.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 03:00 PM,2024,11,15,15,47.7,131,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 04:00 PM,2024,11,15,16,46.6,128,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 05:00 PM,2024,11,15,17,44.7,124,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 06:00 PM,2024,11,15,18,41.6,116,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 07:00 PM,2024,11,15,19,42.3,118,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 08:00 PM,2024,11,15,20,52.7,143,Unhealthy for Sensitive Groups,66.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 09:00 PM,2024,11,15,21,63.2,156,Unhealthy,72.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 10:00 PM,2024,11,15,22,65.0,158,Unhealthy,66.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-15 11:00 PM,2024,11,15,23,78.2,167,Unhealthy,91.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 12:00 AM,2024,11,16,00,93.2,177,Unhealthy,108.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 01:00 AM,2024,11,16,01,104.1,185,Unhealthy,115.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 02:00 AM,2024,11,16,02,112.6,191,Unhealthy,121.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 03:00 AM,2024,11,16,03,148.8,224,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 04:00 AM,2024,11,16,04,182.0,257,Very Unhealthy,215.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 05:00 AM,2024,11,16,05,186.7,262,Very Unhealthy,191.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 06:00 AM,2024,11,16,06,166.2,241,Very Unhealthy,145.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 07:00 AM,2024,11,16,07,135.5,211,Very Unhealthy,104.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 08:00 AM,2024,11,16,08,119.1,196,Unhealthy,102.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 09:00 AM,2024,11,16,09,169.7,245,Very Unhealthy,220.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 10:00 AM,2024,11,16,10,229.7,309,Hazardous,289.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 11:00 AM,2024,11,16,11,180.1,255,Very Unhealthy,130.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 12:00 PM,2024,11,16,12,133.1,209,Very Unhealthy,86.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 01:00 PM,2024,11,16,13,98.4,181,Unhealthy,63.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 02:00 PM,2024,11,16,14,76.9,166,Unhealthy,55.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 03:00 PM,2024,11,16,15,57.9,153,Unhealthy,39.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 04:00 PM,2024,11,16,16,51.4,140,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 05:00 PM,2024,11,16,17,50.0,137,Unhealthy for Sensitive Groups,48.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 06:00 PM,2024,11,16,18,61.3,155,Unhealthy,72.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 07:00 PM,2024,11,16,19,77.2,166,Unhealthy,93.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 08:00 PM,2024,11,16,20,89.5,175,Unhealthy,101.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 09:00 PM,2024,11,16,21,109.0,189,Unhealthy,128.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 10:00 PM,2024,11,16,22,112.0,191,Unhealthy,115.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-16 11:00 PM,2024,11,16,23,101.2,183,Unhealthy,90.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 12:00 AM,2024,11,17,00,104.5,185,Unhealthy,107.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 01:00 AM,2024,11,17,01,103.0,184,Unhealthy,101.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 02:00 AM,2024,11,17,02,96.6,180,Unhealthy,90.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 03:00 AM,2024,11,17,03,82.5,170,Unhealthy,68.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 04:00 AM,2024,11,17,04,68.6,160,Unhealthy,54.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 05:00 AM,2024,11,17,05,58.2,153,Unhealthy,47.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 06:00 AM,2024,11,17,06,51.2,140,Unhealthy for Sensitive Groups,44.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 07:00 AM,2024,11,17,07,51.0,139,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 08:00 AM,2024,11,17,08,52.2,142,Unhealthy for Sensitive Groups,53.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 09:00 AM,2024,11,17,09,61.4,155,Unhealthy,70.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 10:00 AM,2024,11,17,10,76.1,165,Unhealthy,90.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 11:00 AM,2024,11,17,11,97.0,180,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 12:00 PM,2024,11,17,12,92.8,177,Unhealthy,88.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 01:00 PM,2024,11,17,13,70.7,162,Unhealthy,48.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 02:00 PM,2024,11,17,14,55.6,151,Unhealthy,40.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 03:00 PM,2024,11,17,15,40.6,114,Unhealthy for Sensitive Groups,25.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 04:00 PM,2024,11,17,16,29.9,90,Moderate,19.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 05:00 PM,2024,11,17,17,28.4,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 06:00 PM,2024,11,17,18,43.5,121,Unhealthy for Sensitive Groups,58.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 07:00 PM,2024,11,17,19,48.1,132,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 08:00 PM,2024,11,17,20,61.5,155,Unhealthy,74.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 09:00 PM,2024,11,17,21,83.0,170,Unhealthy,104.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 10:00 PM,2024,11,17,22,102.6,184,Unhealthy,122.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-17 11:00 PM,2024,11,17,23,118.7,195,Unhealthy,134.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 12:00 AM,2024,11,18,00,140.4,216,Very Unhealthy,162.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 01:00 AM,2024,11,18,01,152.9,228,Very Unhealthy,165.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 02:00 AM,2024,11,18,02,137.4,213,Very Unhealthy,121.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 03:00 AM,2024,11,18,03,128.8,204,Very Unhealthy,120.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 04:00 AM,2024,11,18,04,129.5,205,Very Unhealthy,130.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 05:00 AM,2024,11,18,05,143.6,219,Very Unhealthy,157.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 06:00 AM,2024,11,18,06,148.1,223,Very Unhealthy,152.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 07:00 AM,2024,11,18,07,132.4,208,Very Unhealthy,116.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 08:00 AM,2024,11,18,08,136.2,212,Very Unhealthy,138.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 09:00 AM,2024,11,18,09,134.6,210,Very Unhealthy,129.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 10:00 AM,2024,11,18,10,114.3,192,Unhealthy,91.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 11:00 AM,2024,11,18,11,109.4,189,Unhealthy,103.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 12:00 PM,2024,11,18,12,135.0,210,Very Unhealthy,166.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 01:00 PM,2024,11,18,13,127.0,202,Very Unhealthy,117.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 02:00 PM,2024,11,18,14,97.9,181,Unhealthy,68.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 03:00 PM,2024,11,18,15,79.5,168,Unhealthy,61.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 04:00 PM,2024,11,18,16,74.1,164,Unhealthy,68.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 05:00 PM,2024,11,18,17,82.0,170,Unhealthy,89.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 06:00 PM,2024,11,18,18,72.9,163,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 07:00 PM,2024,11,18,19,82.7,170,Unhealthy,92.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 08:00 PM,2024,11,18,20,96.4,180,Unhealthy,110.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 09:00 PM,2024,11,18,21,106.1,186,Unhealthy,115.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 10:00 PM,2024,11,18,22,108.9,188,Unhealthy,111.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-18 11:00 PM,2024,11,18,23,107.9,188,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 12:00 AM,2024,11,19,00,108.5,188,Unhealthy,109.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 01:00 AM,2024,11,19,01,101.1,183,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 02:00 AM,2024,11,19,02,98.8,181,Unhealthy,96.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 03:00 AM,2024,11,19,03,116.9,194,Unhealthy,135.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 04:00 AM,2024,11,19,04,117.4,194,Unhealthy,117.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 05:00 AM,2024,11,19,05,116.0,193,Unhealthy,114.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 06:00 AM,2024,11,19,06,110.9,190,Unhealthy,103.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 07:00 AM,2024,11,19,07,107.0,187,Unhealthy,98.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 08:00 AM,2024,11,19,08,93.2,177,Unhealthy,77.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 09:00 AM,2024,11,19,09,90.5,176,Unhealthy,87.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 10:00 AM,2024,11,19,10,74.8,165,Unhealthy,60.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 11:00 AM,2024,11,19,11,65.2,158,Unhealthy,55.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 12:00 PM,2024,11,19,12,56.0,151,Unhealthy,46.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 01:00 PM,2024,11,19,13,49.1,134,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 02:00 PM,2024,11,19,14,49.3,135,Unhealthy for Sensitive Groups,49.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 03:00 PM,2024,11,19,15,43.4,120,Unhealthy for Sensitive Groups,37.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 04:00 PM,2024,11,19,16,35.6,101,Unhealthy for Sensitive Groups,27.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 05:00 PM,2024,11,19,17,31.3,92,Moderate,27.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 06:00 PM,2024,11,19,18,30.7,91,Moderate,30.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 07:00 PM,2024,11,19,19,32.9,95,Moderate,35.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 08:00 PM,2024,11,19,20,37.5,106,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 09:00 PM,2024,11,19,21,42.7,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 10:00 PM,2024,11,19,22,45.6,126,Unhealthy for Sensitive Groups,48.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-19 11:00 PM,2024,11,19,23,56.3,152,Unhealthy,67.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 12:00 AM,2024,11,20,00,50.7,138,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 01:00 AM,2024,11,20,01,52.3,142,Unhealthy for Sensitive Groups,53.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 02:00 AM,2024,11,20,02,51.4,140,Unhealthy for Sensitive Groups,50.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 03:00 AM,2024,11,20,03,44.2,122,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 04:00 AM,2024,11,20,04,41.2,115,Unhealthy for Sensitive Groups,38.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 05:00 AM,2024,11,20,05,32.2,94,Moderate,23.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 06:00 AM,2024,11,20,06,31.4,93,Moderate,30.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 07:00 AM,2024,11,20,07,28.2,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 08:00 AM,2024,11,20,08,27.6,85,Moderate,27.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 09:00 AM,2024,11,20,09,29.8,90,Moderate,32.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 10:00 AM,2024,11,20,10,48.2,132,Unhealthy for Sensitive Groups,66.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 11:00 AM,2024,11,20,11,54.5,148,Unhealthy for Sensitive Groups,60.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 12:00 PM,2024,11,20,12,55.3,150,Unhealthy for Sensitive Groups,56.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 01:00 PM,2024,11,20,13,46.3,128,Unhealthy for Sensitive Groups,37.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 02:00 PM,2024,11,20,14,34.2,98,Moderate,22.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 03:00 PM,2024,11,20,15,29.4,89,Moderate,24.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 04:00 PM,2024,11,20,16,24.4,80,Moderate,19.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 05:00 PM,2024,11,20,17,27.2,85,Moderate,30.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 06:00 PM,2024,11,20,18,30.6,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 07:00 PM,2024,11,20,19,33.4,96,Moderate,36.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 08:00 PM,2024,11,20,20,37.9,107,Unhealthy for Sensitive Groups,42.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 09:00 PM,2024,11,20,21,45.5,126,Unhealthy for Sensitive Groups,53.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 10:00 PM,2024,11,20,22,50.6,138,Unhealthy for Sensitive Groups,55.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-20 11:00 PM,2024,11,20,23,52.1,142,Unhealthy for Sensitive Groups,53.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 12:00 AM,2024,11,21,00,61.4,155,Unhealthy,70.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 01:00 AM,2024,11,21,01,63.4,157,Unhealthy,65.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 02:00 AM,2024,11,21,02,57.3,152,Unhealthy,51.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 03:00 AM,2024,11,21,03,45.0,124,Unhealthy for Sensitive Groups,32.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 04:00 AM,2024,11,21,04,36.0,102,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 05:00 AM,2024,11,21,05,31.5,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 06:00 AM,2024,11,21,06,29.8,90,Moderate,28.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 07:00 AM,2024,11,21,07,31.3,92,Moderate,32.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 08:00 AM,2024,11,21,08,31.1,92,Moderate,30.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 09:00 AM,2024,11,21,09,30.0,90,Moderate,28.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 10:00 AM,2024,11,21,10,29.1,88,Moderate,28.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 11:00 AM,2024,11,21,11,32.7,95,Moderate,36.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 12:00 PM,2024,11,21,12,27.3,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 01:00 PM,2024,11,21,13,25.2,81,Moderate,23.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 02:00 PM,2024,11,21,14,26.3,83,Moderate,26.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 03:00 PM,2024,11,21,15,25.3,81,Moderate,23.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 04:00 PM,2024,11,21,16,24.5,80,Moderate,23.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 05:00 PM,2024,11,21,17,26.6,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 06:00 PM,2024,11,21,18,28.0,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 07:00 PM,2024,11,21,19,28.9,88,Moderate,30.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 08:00 PM,2024,11,21,20,35.3,100,Moderate,42.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 09:00 PM,2024,11,21,21,51.5,140,Unhealthy for Sensitive Groups,67.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 10:00 PM,2024,11,21,22,52.2,142,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-21 11:00 PM,2024,11,21,23,66.3,159,Unhealthy,80.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 12:00 AM,2024,11,22,00,80.3,168,Unhealthy,94.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 01:00 AM,2024,11,22,01,77.6,166,Unhealthy,74.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 02:00 AM,2024,11,22,02,75.7,165,Unhealthy,73.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 03:00 AM,2024,11,22,03,73.0,163,Unhealthy,70.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 04:00 AM,2024,11,22,04,63.2,156,Unhealthy,53.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 05:00 AM,2024,11,22,05,53.1,144,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 06:00 AM,2024,11,22,06,49.0,134,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 07:00 AM,2024,11,22,07,46.4,128,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 08:00 AM,2024,11,22,08,42.7,119,Unhealthy for Sensitive Groups,39.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 09:00 AM,2024,11,22,09,42.9,119,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 10:00 AM,2024,11,22,10,45.4,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 11:00 AM,2024,11,22,11,46.9,129,Unhealthy for Sensitive Groups,48.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 12:00 PM,2024,11,22,12,41.3,115,Unhealthy for Sensitive Groups,35.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 01:00 PM,2024,11,22,13,35.3,100,Moderate,29.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 02:00 PM,2024,11,22,14,36.6,104,Unhealthy for Sensitive Groups,37.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 03:00 PM,2024,11,22,15,36.8,104,Unhealthy for Sensitive Groups,36.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 04:00 PM,2024,11,22,16,36.6,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 05:00 PM,2024,11,22,17,36.5,103,Unhealthy for Sensitive Groups,36.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 06:00 PM,2024,11,22,18,41.6,116,Unhealthy for Sensitive Groups,49.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 07:00 PM,2024,11,22,19,60.5,155,Unhealthy,78.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 08:00 PM,2024,11,22,20,62.1,156,Unhealthy,63.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 09:00 PM,2024,11,22,21,60.8,155,Unhealthy,59.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 10:00 PM,2024,11,22,22,54.1,147,Unhealthy for Sensitive Groups,47.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-22 11:00 PM,2024,11,22,23,45.0,124,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 12:00 AM,2024,11,23,00,40.5,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 01:00 AM,2024,11,23,01,38.2,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 02:00 AM,2024,11,23,02,37.5,106,Unhealthy for Sensitive Groups,36.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 03:00 AM,2024,11,23,03,35.0,99,Moderate,32.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 04:00 AM,2024,11,23,04,41.5,116,Unhealthy for Sensitive Groups,48.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 05:00 AM,2024,11,23,05,47.1,130,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 06:00 AM,2024,11,23,06,46.2,127,Unhealthy for Sensitive Groups,45.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 07:00 AM,2024,11,23,07,37.3,105,Unhealthy for Sensitive Groups,28.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 08:00 AM,2024,11,23,08,38.6,109,Unhealthy for Sensitive Groups,40.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 09:00 AM,2024,11,23,09,41.0,115,Unhealthy for Sensitive Groups,43.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 10:00 AM,2024,11,23,10,38.2,108,Unhealthy for Sensitive Groups,34.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 11:00 AM,2024,11,23,11,36.1,102,Unhealthy for Sensitive Groups,33.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 12:00 PM,2024,11,23,12,33.3,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 01:00 PM,2024,11,23,13,32.1,94,Moderate,30.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 02:00 PM,2024,11,23,14,28.3,87,Moderate,24.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 03:00 PM,2024,11,23,15,25.1,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 04:00 PM,2024,11,23,16,24.0,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 05:00 PM,2024,11,23,17,23.9,79,Moderate,23.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 06:00 PM,2024,11,23,18,22.7,76,Moderate,21.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 07:00 PM,2024,11,23,19,30.9,92,Moderate,39.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 08:00 PM,2024,11,23,20,50.1,137,Unhealthy for Sensitive Groups,69.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 09:00 PM,2024,11,23,21,52.9,144,Unhealthy for Sensitive Groups,55.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 10:00 PM,2024,11,23,22,52.3,142,Unhealthy for Sensitive Groups,51.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-23 11:00 PM,2024,11,23,23,59.7,154,Unhealthy,67.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 12:00 AM,2024,11,24,00,66.4,159,Unhealthy,73.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 01:00 AM,2024,11,24,01,60.2,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 02:00 AM,2024,11,24,02,57.1,152,Unhealthy,54.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 03:00 AM,2024,11,24,03,57.6,152,Unhealthy,58.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 04:00 AM,2024,11,24,04,60.0,154,Unhealthy,62.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 05:00 AM,2024,11,24,05,53.7,146,Unhealthy for Sensitive Groups,47.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 06:00 AM,2024,11,24,06,44.6,123,Unhealthy for Sensitive Groups,35.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 07:00 AM,2024,11,24,07,33.8,97,Moderate,23.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 08:00 AM,2024,11,24,08,28.6,87,Moderate,23.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 09:00 AM,2024,11,24,09,33.1,96,Moderate,37.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 10:00 AM,2024,11,24,10,45.0,124,Unhealthy for Sensitive Groups,56.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 11:00 AM,2024,11,24,11,49.8,136,Unhealthy for Sensitive Groups,54.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 12:00 PM,2024,11,24,12,47.5,131,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 01:00 PM,2024,11,24,13,49.5,135,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 02:00 PM,2024,11,24,14,43.8,121,Unhealthy for Sensitive Groups,38.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 03:00 PM,2024,11,24,15,33.6,97,Moderate,23.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 04:00 PM,2024,11,24,16,34.9,99,Moderate,36.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 05:00 PM,2024,11,24,17,39.3,110,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 06:00 PM,2024,11,24,18,50.8,139,Unhealthy for Sensitive Groups,62.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 07:00 PM,2024,11,24,19,61.9,155,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 08:00 PM,2024,11,24,20,57.2,152,Unhealthy,52.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 09:00 PM,2024,11,24,21,49.4,135,Unhealthy for Sensitive Groups,41.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 10:00 PM,2024,11,24,22,42.6,118,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-24 11:00 PM,2024,11,24,23,38.8,109,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 12:00 AM,2024,11,25,00,37.7,106,Unhealthy for Sensitive Groups,36.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 01:00 AM,2024,11,25,01,33.8,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 02:00 AM,2024,11,25,02,32.3,94,Moderate,30.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 03:00 AM,2024,11,25,03,30.6,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 04:00 AM,2024,11,25,04,30.2,90,Moderate,29.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 05:00 AM,2024,11,25,05,29.5,89,Moderate,28.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 06:00 AM,2024,11,25,06,27.9,86,Moderate,26.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 07:00 AM,2024,11,25,07,30.9,92,Moderate,33.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 08:00 AM,2024,11,25,08,31.4,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 09:00 AM,2024,11,25,09,31.8,93,Moderate,33.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 10:00 AM,2024,11,25,10,37.6,106,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 11:00 AM,2024,11,25,11,40.3,113,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 12:00 PM,2024,11,25,12,32.2,94,Moderate,22.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 01:00 PM,2024,11,25,13,26.6,84,Moderate,21.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 02:00 PM,2024,11,25,14,26.2,83,Moderate,25.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 03:00 PM,2024,11,25,15,24.4,80,Moderate,22.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 04:00 PM,2024,11,25,16,20.6,72,Moderate,16.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 05:00 PM,2024,11,25,17,18.3,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 06:00 PM,2024,11,25,18,17.6,67,Moderate,16.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 07:00 PM,2024,11,25,19,16.5,65,Moderate,15.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 08:00 PM,2024,11,25,20,21.0,73,Moderate,25.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 09:00 PM,2024,11,25,21,17.9,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 10:00 PM,2024,11,25,22,16.4,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-25 11:00 PM,2024,11,25,23,16.9,66,Moderate,17.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 12:00 AM,2024,11,26,00,19.8,71,Moderate,23.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 01:00 AM,2024,11,26,01,20.3,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 02:00 AM,2024,11,26,02,20.9,73,Moderate,21.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 03:00 AM,2024,11,26,03,19.7,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 04:00 AM,2024,11,26,04,19.0,69,Moderate,18.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 05:00 AM,2024,11,26,05,19.8,71,Moderate,21.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 06:00 AM,2024,11,26,06,21.5,74,Moderate,23.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 07:00 AM,2024,11,26,07,22.2,75,Moderate,23.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 08:00 AM,2024,11,26,08,27.2,85,Moderate,31.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 09:00 AM,2024,11,26,09,28.8,88,Moderate,30.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 10:00 AM,2024,11,26,10,72.9,163,Unhealthy,117.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 11:00 AM,2024,11,26,11,83.4,171,Unhealthy,93.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 12:00 PM,2024,11,26,12,74.5,164,Unhealthy,65.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 01:00 PM,2024,11,26,13,54.1,147,Unhealthy for Sensitive Groups,33.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 02:00 PM,2024,11,26,14,40.9,114,Unhealthy for Sensitive Groups,27.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 03:00 PM,2024,11,26,15,33.2,96,Moderate,25.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 04:00 PM,2024,11,26,16,38.2,108,Unhealthy for Sensitive Groups,43.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 05:00 PM,2024,11,26,17,56.9,152,Unhealthy,75.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 06:00 PM,2024,11,26,18,49.5,135,Unhealthy for Sensitive Groups,42.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 07:00 PM,2024,11,26,19,46.9,129,Unhealthy for Sensitive Groups,44.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 08:00 PM,2024,11,26,20,38.9,109,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 09:00 PM,2024,11,26,21,35.3,100,Moderate,31.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 10:00 PM,2024,11,26,22,31.4,93,Moderate,27.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-26 11:00 PM,2024,11,26,23,36.7,104,Unhealthy for Sensitive Groups,42.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 12:00 AM,2024,11,27,00,41.3,115,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 01:00 AM,2024,11,27,01,42.2,117,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 02:00 AM,2024,11,27,02,32.9,95,Moderate,23.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 03:00 AM,2024,11,27,03,35.8,102,Unhealthy for Sensitive Groups,38.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 04:00 AM,2024,11,27,04,35.1,99,Moderate,34.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 05:00 AM,2024,11,27,05,28.5,87,Moderate,21.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 06:00 AM,2024,11,27,06,24.2,79,Moderate,19.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 07:00 AM,2024,11,27,07,20.9,73,Moderate,17.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 08:00 AM,2024,11,27,08,14.1,60,Moderate,7.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 09:00 AM,2024,11,27,09,17.0,66,Moderate,19.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 10:00 AM,2024,11,27,10,18.0,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 11:00 AM,2024,11,27,11,19.8,71,Moderate,21.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 12:00 PM,2024,11,27,12,18.4,68,Moderate,17.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 01:00 PM,2024,11,27,13,20.6,72,Moderate,22.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 02:00 PM,2024,11,27,14,18.8,69,Moderate,17.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 03:00 PM,2024,11,27,15,19.8,71,Moderate,20.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 04:00 PM,2024,11,27,16,18.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 05:00 PM,2024,11,27,17,17.6,67,Moderate,16.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 06:00 PM,2024,11,27,18,15.2,62,Moderate,12.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 07:00 PM,2024,11,27,19,13.1,58,Moderate,11.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 08:00 PM,2024,11,27,20,14.9,62,Moderate,16.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 09:00 PM,2024,11,27,21,13.9,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 10:00 PM,2024,11,27,22,14.5,61,Moderate,15.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-27 11:00 PM,2024,11,27,23,16.7,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 12:00 AM,2024,11,28,00,18.8,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 01:00 AM,2024,11,28,01,21.0,73,Moderate,23.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 02:00 AM,2024,11,28,02,26.9,84,Moderate,32.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 03:00 AM,2024,11,28,03,27.8,86,Moderate,28.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 04:00 AM,2024,11,28,04,24.9,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 05:00 AM,2024,11,28,05,23.5,78,Moderate,22.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 06:00 AM,2024,11,28,06,25.8,82,Moderate,28.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 07:00 AM,2024,11,28,07,30.4,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 08:00 AM,2024,11,28,08,32.7,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 09:00 AM,2024,11,28,09,34.3,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 10:00 AM,2024,11,28,10,35.0,99,Moderate,36.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 11:00 AM,2024,11,28,11,37.7,106,Unhealthy for Sensitive Groups,40.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 12:00 PM,2024,11,28,12,33.0,96,Moderate,27.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 01:00 PM,2024,11,28,13,27.8,86,Moderate,21.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 02:00 PM,2024,11,28,14,22.2,75,Moderate,17.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 03:00 PM,2024,11,28,15,21.5,74,Moderate,20.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 04:00 PM,2024,11,28,16,19.2,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 05:00 PM,2024,11,28,17,18.6,69,Moderate,18.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 06:00 PM,2024,11,28,18,20.6,72,Moderate,22.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 07:00 PM,2024,11,28,19,17.9,67,Moderate,15.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 08:00 PM,2024,11,28,20,20.6,72,Moderate,23.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 09:00 PM,2024,11,28,21,28.3,87,Moderate,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 10:00 PM,2024,11,28,22,32.5,95,Moderate,36.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-28 11:00 PM,2024,11,28,23,29.3,89,Moderate,26.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 12:00 AM,2024,11,29,00,29.6,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 01:00 AM,2024,11,29,01,30.4,91,Moderate,31.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 02:00 AM,2024,11,29,02,35.3,100,Moderate,40.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 03:00 AM,2024,11,29,03,41.5,116,Unhealthy for Sensitive Groups,47.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 04:00 AM,2024,11,29,04,40.7,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 05:00 AM,2024,11,29,05,41.7,116,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 06:00 AM,2024,11,29,06,37.3,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 07:00 AM,2024,11,29,07,35.6,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 08:00 AM,2024,11,29,08,36.7,104,Unhealthy for Sensitive Groups,37.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 09:00 AM,2024,11,29,09,48.1,132,Unhealthy for Sensitive Groups,59.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 10:00 AM,2024,11,29,10,47.4,130,Unhealthy for Sensitive Groups,46.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 11:00 AM,2024,11,29,11,45.5,126,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 12:00 PM,2024,11,29,12,40.6,114,Unhealthy for Sensitive Groups,35.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 01:00 PM,2024,11,29,13,42.4,118,Unhealthy for Sensitive Groups,44.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 02:00 PM,2024,11,29,14,33.1,96,Moderate,23.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 03:00 PM,2024,11,29,15,28.0,86,Moderate,22.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 04:00 PM,2024,11,29,16,24.9,80,Moderate,21.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 05:00 PM,2024,11,29,17,23.0,77,Moderate,21.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 06:00 PM,2024,11,29,18,24.9,80,Moderate,26.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 07:00 PM,2024,11,29,19,25.0,81,Moderate,25.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 08:00 PM,2024,11,29,20,28.5,87,Moderate,32.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 09:00 PM,2024,11,29,21,32.2,94,Moderate,36.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 10:00 PM,2024,11,29,22,34.2,98,Moderate,36.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-29 11:00 PM,2024,11,29,23,40.0,112,Unhealthy for Sensitive Groups,45.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 12:00 AM,2024,11,30,00,40.4,113,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 01:00 AM,2024,11,30,01,39.2,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 02:00 AM,2024,11,30,02,38.4,108,Unhealthy for Sensitive Groups,37.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 03:00 AM,2024,11,30,03,33.6,97,Moderate,28.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 04:00 AM,2024,11,30,04,28.3,87,Moderate,23.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 05:00 AM,2024,11,30,05,26.3,83,Moderate,24.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 06:00 AM,2024,11,30,06,30.5,91,Moderate,34.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 07:00 AM,2024,11,30,07,30.7,91,Moderate,30.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 08:00 AM,2024,11,30,08,29.9,90,Moderate,29.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 09:00 AM,2024,11,30,09,34.0,97,Moderate,38.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 10:00 AM,2024,11,30,10,39.8,112,Unhealthy for Sensitive Groups,45.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 11:00 AM,2024,11,30,11,37.9,107,Unhealthy for Sensitive Groups,36.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 12:00 PM,2024,11,30,12,38.7,109,Unhealthy for Sensitive Groups,39.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 01:00 PM,2024,11,30,13,34.3,98,Moderate,29.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 02:00 PM,2024,11,30,14,30.7,91,Moderate,27.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 03:00 PM,2024,11,30,15,31.3,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 04:00 PM,2024,11,30,16,32.1,94,Moderate,32.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 05:00 PM,2024,11,30,17,30.5,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 06:00 PM,2024,11,30,18,29.8,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 07:00 PM,2024,11,30,19,30.0,90,Moderate,30.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 08:00 PM,2024,11,30,20,33.5,96,Moderate,38.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 09:00 PM,2024,11,30,21,46.9,129,Unhealthy for Sensitive Groups,59.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 10:00 PM,2024,11,30,22,47.6,131,Unhealthy for Sensitive Groups,48.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-11-30 11:00 PM,2024,11,30,23,39.7,111,Unhealthy for Sensitive Groups,31.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2024-12-01 12:00 AM,2024,12,01,00,34.2,98,Moderate,28.8,UG/M3,1 Hr,Valid

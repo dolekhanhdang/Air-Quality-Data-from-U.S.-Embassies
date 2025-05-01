@@ -1,0 +1,719 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Lahore,PM2.5 - Principal,2024-11-01 01:00 AM,2024,11,01,01,196.8,272,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 02:00 AM,2024,11,01,02,192.4,267,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 03:00 AM,2024,11,01,03,168.2,243,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 04:00 AM,2024,11,01,04,143.1,218,Very Unhealthy,118.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 05:00 AM,2024,11,01,05,139.8,215,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 06:00 AM,2024,11,01,06,142.7,218,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 07:00 AM,2024,11,01,07,144.7,220,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 08:00 AM,2024,11,01,08,179.3,254,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 09:00 AM,2024,11,01,09,171.7,247,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 10:00 AM,2024,11,01,10,169.5,245,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 11:00 AM,2024,11,01,11,160.9,236,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 12:00 PM,2024,11,01,12,138.9,214,Very Unhealthy,115.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 01:00 PM,2024,11,01,13,103.3,185,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 02:00 PM,2024,11,01,14,81.1,169,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 03:00 PM,2024,11,01,15,73.0,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 04:00 PM,2024,11,01,16,71.0,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 05:00 PM,2024,11,01,17,76.0,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 06:00 PM,2024,11,01,18,111.5,190,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 07:00 PM,2024,11,01,19,120.7,197,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 08:00 PM,2024,11,01,20,131.8,207,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 09:00 PM,2024,11,01,21,152.9,228,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 10:00 PM,2024,11,01,22,209.9,285,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-01 11:00 PM,2024,11,01,23,254.0,358,Hazardous,298.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 12:00 AM,2024,11,02,00,274.5,399,Hazardous,295.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 01:00 AM,2024,11,02,01,289.7,429,Hazardous,305.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 02:00 AM,2024,11,02,02,288.9,427,Hazardous,288.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 03:00 AM,2024,11,02,03,315.4,480,Hazardous,342.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 04:00 AM,2024,11,02,04,386.2,621,Hazardous,457.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 05:00 AM,2024,11,02,05,450.2,749,Hazardous,514.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2024-11-02 06:00 AM,2024,11,02,06,498.1,844,Hazardous,546.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2024-11-02 07:00 AM,2024,11,02,07,539.1,926,Hazardous,580.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2024-11-02 08:00 AM,2024,11,02,08,559.6,967,Hazardous,580.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2024-11-02 09:00 AM,2024,11,02,09,559.7,967,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2024-11-02 11:00 AM,2024,11,02,11,-999.0,-999,N/A,221.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 12:00 PM,2024,11,02,12,237.7,325,Hazardous,206.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 01:00 PM,2024,11,02,13,206.4,281,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 02:00 PM,2024,11,02,14,163.6,239,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 03:00 PM,2024,11,02,15,135.1,211,Very Unhealthy,108.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 04:00 PM,2024,11,02,16,125.4,200,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 05:00 PM,2024,11,02,17,125.1,200,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 06:00 PM,2024,11,02,18,134.5,210,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 07:00 PM,2024,11,02,19,174.7,250,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 08:00 PM,2024,11,02,20,173.3,248,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 09:00 PM,2024,11,02,21,189.6,265,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 10:00 PM,2024,11,02,22,196.8,272,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-02 11:00 PM,2024,11,02,23,215.9,291,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 12:00 AM,2024,11,03,00,224.4,299,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 01:00 AM,2024,11,03,01,227.7,305,Hazardous,231.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 02:00 AM,2024,11,03,02,232.8,316,Hazardous,238.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 03:00 AM,2024,11,03,03,251.4,353,Hazardous,270.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 04:00 AM,2024,11,03,04,274.2,398,Hazardous,297.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 05:00 AM,2024,11,03,05,281.6,413,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 06:00 AM,2024,11,03,06,299.5,448,Hazardous,322.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 07:00 AM,2024,11,03,07,362.4,574,Hazardous,423.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 08:00 AM,2024,11,03,08,432.7,714,Hazardous,503.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 09:00 AM,2024,11,03,09,601.4,1050,Hazardous,770.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 10:00 AM,2024,11,03,10,671.2,1189,Hazardous,741.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 11:00 AM,2024,11,03,11,663.1,1173,Hazardous,655.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 12:00 PM,2024,11,03,12,668.6,1184,Hazardous,674.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 01:00 PM,2024,11,03,13,633.3,1113,Hazardous,598.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 02:00 PM,2024,11,03,14,534.7,917,Hazardous,436.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 03:00 PM,2024,11,03,15,417.8,684,Hazardous,301.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 04:00 PM,2024,11,03,16,317.9,485,Hazardous,218.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 05:00 PM,2024,11,03,17,266.9,383,Hazardous,216.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 06:00 PM,2024,11,03,18,264.9,379,Hazardous,263.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 07:00 PM,2024,11,03,19,255.4,361,Hazardous,246.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 08:00 PM,2024,11,03,20,271.2,392,Hazardous,287.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 09:00 PM,2024,11,03,21,298.0,445,Hazardous,325.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 10:00 PM,2024,11,03,22,330.4,510,Hazardous,363.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-03 11:00 PM,2024,11,03,23,346.2,541,Hazardous,362.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 12:00 AM,2024,11,04,00,366.0,581,Hazardous,386.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 01:00 AM,2024,11,04,01,376.0,601,Hazardous,386.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 02:00 AM,2024,11,04,02,370.5,590,Hazardous,369.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 03:00 AM,2024,11,04,03,387.7,624,Hazardous,406.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 04:00 AM,2024,11,04,04,423.6,696,Hazardous,458.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 05:00 AM,2024,11,04,05,401.1,651,Hazardous,379.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 06:00 AM,2024,11,04,06,375.6,600,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 07:00 AM,2024,11,04,07,349.7,548,Hazardous,300.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 08:00 AM,2024,11,04,08,326.3,502,Hazardous,287.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 09:00 AM,2024,11,04,09,271.2,392,Hazardous,230.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 10:00 AM,2024,11,04,10,237.4,325,Hazardous,204.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 11:00 AM,2024,11,04,11,208.7,283,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 12:00 PM,2024,11,04,12,173.3,248,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 01:00 PM,2024,11,04,13,156.6,232,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 02:00 PM,2024,11,04,14,144.7,220,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 03:00 PM,2024,11,04,15,127.3,203,Very Unhealthy,110.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 04:00 PM,2024,11,04,16,126.6,202,Very Unhealthy,126.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 05:00 PM,2024,11,04,17,129.7,205,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 06:00 PM,2024,11,04,18,153.3,229,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 07:00 PM,2024,11,04,19,167.1,242,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 08:00 PM,2024,11,04,20,186.0,261,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 09:00 PM,2024,11,04,21,209.0,284,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 10:00 PM,2024,11,04,22,228.5,307,Hazardous,248.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-04 11:00 PM,2024,11,04,23,248.2,346,Hazardous,268.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 12:00 AM,2024,11,05,00,266.1,382,Hazardous,284.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 01:00 AM,2024,11,05,01,277.5,405,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 02:00 AM,2024,11,05,02,310.3,470,Hazardous,343.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 03:00 AM,2024,11,05,03,424.7,698,Hazardous,539.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 04:00 AM,2024,11,05,04,487.9,824,Hazardous,551.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 05:00 AM,2024,11,05,05,456.9,762,Hazardous,426.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 06:00 AM,2024,11,05,06,412.0,673,Hazardous,367.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 07:00 AM,2024,11,05,07,399.0,647,Hazardous,386.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 08:00 AM,2024,11,05,08,391.5,632,Hazardous,384.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 09:00 AM,2024,11,05,09,391.7,632,Hazardous,392.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 10:00 AM,2024,11,05,10,384.9,619,Hazardous,378.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 11:00 AM,2024,11,05,11,334.1,517,Hazardous,281.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 12:00 PM,2024,11,05,12,275.4,400,Hazardous,218.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 01:00 PM,2024,11,05,13,259.7,369,Hazardous,244.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 02:00 PM,2024,11,05,14,266.3,382,Hazardous,273.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 03:00 PM,2024,11,05,15,261.1,372,Hazardous,256.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 04:00 PM,2024,11,05,16,255.8,361,Hazardous,250.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 05:00 PM,2024,11,05,17,253.6,357,Hazardous,249.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 06:00 PM,2024,11,05,18,259.5,369,Hazardous,267.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 07:00 PM,2024,11,05,19,295.6,441,Hazardous,341.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 08:00 PM,2024,11,05,20,344.9,539,Hazardous,402.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 09:00 PM,2024,11,05,21,394.5,638,Hazardous,438.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 10:00 PM,2024,11,05,22,423.8,696,Hazardous,453.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-05 11:00 PM,2024,11,05,23,472.4,793,Hazardous,521.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 12:00 AM,2024,11,06,00,492.7,833,Hazardous,513.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 01:00 AM,2024,11,06,01,571.4,990,Hazardous,650.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 02:00 AM,2024,11,06,02,586.2,1020,Hazardous,601.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 03:00 AM,2024,11,06,03,602.6,1052,Hazardous,619.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 04:00 AM,2024,11,06,04,606.3,1060,Hazardous,610.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 05:00 AM,2024,11,06,05,598.7,1044,Hazardous,591.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 06:00 AM,2024,11,06,06,586.8,1021,Hazardous,574.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 07:00 AM,2024,11,06,07,698.2,1243,Hazardous,810.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 08:00 AM,2024,11,06,08,798.6,1443,Hazardous,899.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 09:00 AM,2024,11,06,09,813.6,1472,Hazardous,830.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 10:00 AM,2024,11,06,10,778.7,1403,Hazardous,751.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 11:00 AM,2024,11,06,11,718.3,1283,Hazardous,638.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 12:00 PM,2024,11,06,12,637.9,1122,Hazardous,524.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 01:00 PM,2024,11,06,13,539.4,926,Hazardous,457.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 02:00 PM,2024,11,06,14,459.5,767,Hazardous,382.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 03:00 PM,2024,11,06,15,405.2,659,Hazardous,351.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 04:00 PM,2024,11,06,16,396.0,641,Hazardous,387.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 05:00 PM,2024,11,06,17,399.0,647,Hazardous,402.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 06:00 PM,2024,11,06,18,416.9,682,Hazardous,435.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 07:00 PM,2024,11,06,19,439.4,727,Hazardous,462.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 08:00 PM,2024,11,06,20,456.6,761,Hazardous,474.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 09:00 PM,2024,11,06,21,486.7,821,Hazardous,517.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 10:00 PM,2024,11,06,22,509.8,867,Hazardous,544.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-06 11:00 PM,2024,11,06,23,519.2,886,Hazardous,554.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 12:00 AM,2024,11,07,00,536.6,921,Hazardous,563.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 01:00 AM,2024,11,07,01,565.1,977,Hazardous,599.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 02:00 AM,2024,11,07,02,588.7,1024,Hazardous,617.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 03:00 AM,2024,11,07,03,597.5,1042,Hazardous,622.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 04:00 AM,2024,11,07,04,595.7,1038,Hazardous,597.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 05:00 AM,2024,11,07,05,574.1,995,Hazardous,534.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 06:00 AM,2024,11,07,06,558.3,964,Hazardous,514.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 07:00 AM,2024,11,07,07,548.7,945,Hazardous,514.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 08:00 AM,2024,11,07,08,546.4,940,Hazardous,513.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 09:00 AM,2024,11,07,09,540.1,928,Hazardous,512.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 10:00 AM,2024,11,07,10,519.3,886,Hazardous,475.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 11:00 AM,2024,11,07,11,490.8,829,Hazardous,440.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 12:00 PM,2024,11,07,12,430.6,710,Hazardous,366.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 01:00 PM,2024,11,07,13,416.2,681,Hazardous,396.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 02:00 PM,2024,11,07,14,403.2,655,Hazardous,385.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 03:00 PM,2024,11,07,15,380.8,610,Hazardous,350.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 04:00 PM,2024,11,07,16,400.1,649,Hazardous,421.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 05:00 PM,2024,11,07,17,422.3,693,Hazardous,467.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 06:00 PM,2024,11,07,18,440.9,730,Hazardous,481.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 07:00 PM,2024,11,07,19,454.1,756,Hazardous,483.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 08:00 PM,2024,11,07,20,493.9,836,Hazardous,554.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 09:00 PM,2024,11,07,21,543.5,934,Hazardous,602.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 10:00 PM,2024,11,07,22,582.7,1013,Hazardous,627.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-07 11:00 PM,2024,11,07,23,646.5,1140,Hazardous,701.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 12:00 AM,2024,11,08,00,674.3,1195,Hazardous,702.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 01:00 AM,2024,11,08,01,678.6,1204,Hazardous,683.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 02:00 AM,2024,11,08,02,666.3,1179,Hazardous,654.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 03:00 AM,2024,11,08,03,638.7,1124,Hazardous,603.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 04:00 AM,2024,11,08,04,608.9,1065,Hazardous,549.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 05:00 AM,2024,11,08,05,578.0,1003,Hazardous,507.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 06:00 AM,2024,11,08,06,541.3,930,Hazardous,471.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 07:00 AM,2024,11,08,07,503.8,855,Hazardous,449.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 08:00 AM,2024,11,08,08,481.3,811,Hazardous,445.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 09:00 AM,2024,11,08,09,487.6,823,Hazardous,499.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 10:00 AM,2024,11,08,10,480.5,809,Hazardous,469.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 11:00 AM,2024,11,08,11,469.0,786,Hazardous,450.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 12:00 PM,2024,11,08,12,453.9,756,Hazardous,430.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 01:00 PM,2024,11,08,13,454.9,758,Hazardous,454.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 02:00 PM,2024,11,08,14,471.3,791,Hazardous,506.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 03:00 PM,2024,11,08,15,465.4,779,Hazardous,451.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 04:00 PM,2024,11,08,16,454.7,758,Hazardous,416.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 05:00 PM,2024,11,08,17,449.1,746,Hazardous,431.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 06:00 PM,2024,11,08,18,453.6,755,Hazardous,474.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 07:00 PM,2024,11,08,19,452.6,753,Hazardous,448.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 08:00 PM,2024,11,08,20,470.8,790,Hazardous,533.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 09:00 PM,2024,11,08,21,507.4,863,Hazardous,585.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 10:00 PM,2024,11,08,22,540.9,929,Hazardous,605.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-08 11:00 PM,2024,11,08,23,556.1,960,Hazardous,588.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 12:00 AM,2024,11,09,00,568.8,985,Hazardous,595.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 01:00 AM,2024,11,09,01,572.1,991,Hazardous,578.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 02:00 AM,2024,11,09,02,546.4,940,Hazardous,490.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 03:00 AM,2024,11,09,03,522.9,893,Hazardous,471.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 04:00 AM,2024,11,09,04,507.8,863,Hazardous,465.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 05:00 AM,2024,11,09,05,500.9,850,Hazardous,471.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 06:00 AM,2024,11,09,06,502.4,853,Hazardous,506.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 07:00 AM,2024,11,09,07,505.1,858,Hazardous,503.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 08:00 AM,2024,11,09,08,491.9,832,Hazardous,457.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 09:00 AM,2024,11,09,09,502.2,852,Hazardous,536.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 10:00 AM,2024,11,09,10,484.6,817,Hazardous,440.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 11:00 AM,2024,11,09,11,442.5,733,Hazardous,379.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 12:00 PM,2024,11,09,12,407.4,663,Hazardous,356.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 01:00 PM,2024,11,09,13,381.5,612,Hazardous,336.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 02:00 PM,2024,11,09,14,363.0,575,Hazardous,334.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 03:00 PM,2024,11,09,15,357.2,563,Hazardous,348.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 04:00 PM,2024,11,09,16,352.4,554,Hazardous,345.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 05:00 PM,2024,11,09,17,347.9,545,Hazardous,341.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 06:00 PM,2024,11,09,18,348.9,547,Hazardous,351.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 07:00 PM,2024,11,09,19,361.9,573,Hazardous,384.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 08:00 PM,2024,11,09,20,461.8,772,Hazardous,590.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 09:00 PM,2024,11,09,21,500.5,849,Hazardous,551.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 10:00 PM,2024,11,09,22,505.9,860,Hazardous,513.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-09 11:00 PM,2024,11,09,23,491.2,830,Hazardous,472.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 12:00 AM,2024,11,10,00,475.1,798,Hazardous,454.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 01:00 AM,2024,11,10,01,470.8,790,Hazardous,465.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 02:00 AM,2024,11,10,02,471.9,792,Hazardous,473.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 03:00 AM,2024,11,10,03,490.2,828,Hazardous,515.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 04:00 AM,2024,11,10,04,640.5,1128,Hazardous,788.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 05:00 AM,2024,11,10,05,655.3,1157,Hazardous,670.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 06:00 AM,2024,11,10,06,607.6,1062,Hazardous,560.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 07:00 AM,2024,11,10,07,563.6,974,Hazardous,506.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 08:00 AM,2024,11,10,08,474.9,798,Hazardous,393.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 09:00 AM,2024,11,10,09,422.9,694,Hazardous,371.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 10:00 AM,2024,11,10,10,395.4,639,Hazardous,368.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 11:00 AM,2024,11,10,11,375.7,600,Hazardous,356.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 12:00 PM,2024,11,10,12,341.8,533,Hazardous,308.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 01:00 PM,2024,11,10,13,308.3,466,Hazardous,275.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 02:00 PM,2024,11,10,14,272.1,394,Hazardous,236.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 03:00 PM,2024,11,10,15,247.5,345,Hazardous,223.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 04:00 PM,2024,11,10,16,237.7,325,Hazardous,228.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 05:00 PM,2024,11,10,17,238.3,326,Hazardous,239.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 06:00 PM,2024,11,10,18,247.6,345,Hazardous,257.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 07:00 PM,2024,11,10,19,258.7,367,Hazardous,273.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 08:00 PM,2024,11,10,20,274.8,399,Hazardous,300.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 09:00 PM,2024,11,10,21,335.4,520,Hazardous,406.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 10:00 PM,2024,11,10,22,455.5,759,Hazardous,568.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-10 11:00 PM,2024,11,10,23,516.8,881,Hazardous,578.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 12:00 AM,2024,11,11,00,540.9,929,Hazardous,565.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 01:00 AM,2024,11,11,01,501.4,851,Hazardous,462.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 02:00 AM,2024,11,11,02,463.2,774,Hazardous,425.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 03:00 AM,2024,11,11,03,444.6,737,Hazardous,426.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 04:00 AM,2024,11,11,04,428.3,705,Hazardous,412.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 05:00 AM,2024,11,11,05,406.6,662,Hazardous,385.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 06:00 AM,2024,11,11,06,391.3,631,Hazardous,376.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 07:00 AM,2024,11,11,07,388.5,626,Hazardous,384.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 08:00 AM,2024,11,11,08,391.8,632,Hazardous,380.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 09:00 AM,2024,11,11,09,367.3,583,Hazardous,339.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 10:00 AM,2024,11,11,10,355.4,560,Hazardous,339.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 11:00 AM,2024,11,11,11,340.2,529,Hazardous,322.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 12:00 PM,2024,11,11,12,335.7,521,Hazardous,311.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 01:00 PM,2024,11,11,13,327.7,505,Hazardous,302.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 02:00 PM,2024,11,11,14,313.3,476,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 03:00 PM,2024,11,11,15,306.9,463,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 04:00 PM,2024,11,11,16,310.6,471,Hazardous,311.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 05:00 PM,2024,11,11,17,319.1,487,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 06:00 PM,2024,11,11,18,339.4,528,Hazardous,395.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 07:00 PM,2024,11,11,19,544.4,936,Hazardous,729.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 08:00 PM,2024,11,11,20,711.2,1269,Hazardous,878.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 09:00 PM,2024,11,11,21,795.7,1437,Hazardous,880.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 10:00 PM,2024,11,11,22,818.9,1483,Hazardous,842.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-11 11:00 PM,2024,11,11,23,814.5,1474,Hazardous,810.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 12:00 AM,2024,11,12,00,841.8,1529,Hazardous,869.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 01:00 AM,2024,11,12,01,832.9,1511,Hazardous,824.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 02:00 AM,2024,11,12,02,806.0,1457,Hazardous,779.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 03:00 AM,2024,11,12,03,794.0,1433,Hazardous,782.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 04:00 AM,2024,11,12,04,762.5,1371,Hazardous,731.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 05:00 AM,2024,11,12,05,670.3,1187,Hazardous,578.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 06:00 AM,2024,11,12,06,630.0,1107,Hazardous,531.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 07:00 AM,2024,11,12,07,571.4,990,Hazardous,505.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 08:00 AM,2024,11,12,08,556.5,960,Hazardous,537.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 09:00 AM,2024,11,12,09,560.3,968,Hazardous,564.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 10:00 AM,2024,11,12,10,498.0,844,Hazardous,440.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 11:00 AM,2024,11,12,11,385.5,620,Hazardous,274.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 12:00 PM,2024,11,12,12,295.1,440,Hazardous,205.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 01:00 PM,2024,11,12,13,251.0,352,Hazardous,207.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 02:00 PM,2024,11,12,14,241.4,333,Hazardous,232.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 03:00 PM,2024,11,12,15,237.1,324,Hazardous,233.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 04:00 PM,2024,11,12,16,246.0,342,Hazardous,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 05:00 PM,2024,11,12,17,237.9,326,Hazardous,230.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 06:00 PM,2024,11,12,18,224.9,300,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 07:00 PM,2024,11,12,19,213.9,289,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 08:00 PM,2024,11,12,20,272.4,394,Hazardous,331.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 09:00 PM,2024,11,12,21,365.2,579,Hazardous,458.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 10:00 PM,2024,11,12,22,382.0,613,Hazardous,399.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-12 11:00 PM,2024,11,12,23,367.5,584,Hazardous,353.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 12:00 AM,2024,11,13,00,350.2,549,Hazardous,333.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 01:00 AM,2024,11,13,01,358.6,566,Hazardous,367.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 02:00 AM,2024,11,13,02,355.3,560,Hazardous,352.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 03:00 AM,2024,11,13,03,350.6,550,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 04:00 AM,2024,11,13,04,334.8,519,Hazardous,319.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 05:00 AM,2024,11,13,05,316.9,483,Hazardous,299.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 06:00 AM,2024,11,13,06,296.9,443,Hazardous,277.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 07:00 AM,2024,11,13,07,290.4,430,Hazardous,271.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 08:00 AM,2024,11,13,08,277.3,404,Hazardous,262.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 09:00 AM,2024,11,13,09,282.5,415,Hazardous,280.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 10:00 AM,2024,11,13,10,284.7,419,Hazardous,282.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 11:00 AM,2024,11,13,11,278.3,406,Hazardous,264.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 12:00 PM,2024,11,13,12,273.9,397,Hazardous,264.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 01:00 PM,2024,11,13,13,274.5,399,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2024-11-13 02:00 PM,2024,11,13,14,275.8,401,Hazardous,280.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 03:00 PM,2024,11,13,15,279.5,409,Hazardous,293.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 04:00 PM,2024,11,13,16,277.9,405,Hazardous,279.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 05:00 PM,2024,11,13,17,278.6,407,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 06:00 PM,2024,11,13,18,279.2,408,Hazardous,282.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 07:00 PM,2024,11,13,19,281.2,412,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 08:00 PM,2024,11,13,20,285.3,420,Hazardous,300.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 09:00 PM,2024,11,13,21,286.8,423,Hazardous,294.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 10:00 PM,2024,11,13,22,288.8,427,Hazardous,298.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-13 11:00 PM,2024,11,13,23,294.0,437,Hazardous,310.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 12:00 AM,2024,11,14,00,300.6,451,Hazardous,327.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 01:00 AM,2024,11,14,01,309.5,468,Hazardous,340.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 02:00 AM,2024,11,14,02,377.4,604,Hazardous,461.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 03:00 AM,2024,11,14,03,490.1,828,Hazardous,586.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 04:00 AM,2024,11,14,04,497.1,842,Hazardous,504.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 05:00 AM,2024,11,14,05,434.5,717,Hazardous,372.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 06:00 AM,2024,11,14,06,469.3,787,Hazardous,504.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 07:00 AM,2024,11,14,07,471.1,790,Hazardous,473.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 08:00 AM,2024,11,14,08,408.2,665,Hazardous,345.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 09:00 AM,2024,11,14,09,393.8,636,Hazardous,378.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 10:00 AM,2024,11,14,10,526.5,901,Hazardous,660.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 11:00 AM,2024,11,14,11,699.3,1245,Hazardous,872.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 12:00 PM,2024,11,14,12,785.7,1417,Hazardous,872.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 01:00 PM,2024,11,14,13,831.4,1508,Hazardous,877.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 02:00 PM,2024,11,14,14,857.2,1559,Hazardous,883.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 03:00 PM,2024,11,14,15,898.1,1641,Hazardous,939.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 04:00 PM,2024,11,14,16,910.1,1665,Hazardous,922.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 05:00 PM,2024,11,14,17,868.6,1582,Hazardous,827.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 06:00 PM,2024,11,14,18,780.3,1406,Hazardous,692.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 07:00 PM,2024,11,14,19,730.6,1307,Hazardous,681.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 08:00 PM,2024,11,14,20,673.8,1194,Hazardous,617.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 09:00 PM,2024,11,14,21,670.7,1188,Hazardous,602.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 10:00 PM,2024,11,14,22,620.7,1088,Hazardous,563.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-14 11:00 PM,2024,11,14,23,616.2,1079,Hazardous,610.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 12:00 AM,2024,11,15,00,578.1,1003,Hazardous,534.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 01:00 AM,2024,11,15,01,545.5,938,Hazardous,511.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 02:00 AM,2024,11,15,02,552.0,951,Hazardous,560.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 03:00 AM,2024,11,15,03,535.7,919,Hazardous,515.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 04:00 AM,2024,11,15,04,526.0,900,Hazardous,505.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 05:00 AM,2024,11,15,05,516.6,881,Hazardous,480.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 06:00 AM,2024,11,15,06,511.2,870,Hazardous,498.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 07:00 AM,2024,11,15,07,511.8,871,Hazardous,494.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 08:00 AM,2024,11,15,08,504.4,857,Hazardous,482.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 09:00 AM,2024,11,15,09,489.7,827,Hazardous,459.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 10:00 AM,2024,11,15,10,480.4,809,Hazardous,457.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 11:00 AM,2024,11,15,11,481.1,810,Hazardous,469.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 12:00 PM,2024,11,15,12,481.9,812,Hazardous,490.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 01:00 PM,2024,11,15,13,467.6,783,Hazardous,430.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 02:00 PM,2024,11,15,14,460.9,770,Hazardous,425.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 03:00 PM,2024,11,15,15,457.7,764,Hazardous,444.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 04:00 PM,2024,11,15,16,453.1,754,Hazardous,434.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 05:00 PM,2024,11,15,17,442.8,734,Hazardous,411.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 06:00 PM,2024,11,15,18,437.8,724,Hazardous,420.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 07:00 PM,2024,11,15,19,439.6,727,Hazardous,452.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 08:00 PM,2024,11,15,20,448.3,745,Hazardous,492.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 09:00 PM,2024,11,15,21,475.3,799,Hazardous,547.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 10:00 PM,2024,11,15,22,483.8,816,Hazardous,508.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-15 11:00 PM,2024,11,15,23,477.8,804,Hazardous,460.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 12:00 AM,2024,11,16,00,467.0,782,Hazardous,436.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 01:00 AM,2024,11,16,01,476.5,801,Hazardous,503.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 02:00 AM,2024,11,16,02,479.9,808,Hazardous,488.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 03:00 AM,2024,11,16,03,474.5,797,Hazardous,458.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 04:00 AM,2024,11,16,04,472.9,794,Hazardous,467.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 05:00 AM,2024,11,16,05,457.9,764,Hazardous,412.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 06:00 AM,2024,11,16,06,456.2,761,Hazardous,450.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 07:00 AM,2024,11,16,07,431.2,711,Hazardous,382.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 08:00 AM,2024,11,16,08,406.2,661,Hazardous,364.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 09:00 AM,2024,11,16,09,389.5,628,Hazardous,349.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 10:00 AM,2024,11,16,10,386.1,621,Hazardous,378.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 11:00 AM,2024,11,16,11,385.1,619,Hazardous,384.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 12:00 PM,2024,11,16,12,390.8,630,Hazardous,404.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 01:00 PM,2024,11,16,13,399.2,647,Hazardous,420.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 02:00 PM,2024,11,16,14,397.6,644,Hazardous,396.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 03:00 PM,2024,11,16,15,403.2,655,Hazardous,421.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 04:00 PM,2024,11,16,16,400.4,649,Hazardous,397.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 05:00 PM,2024,11,16,17,415.1,679,Hazardous,459.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 06:00 PM,2024,11,16,18,427.4,703,Hazardous,463.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 07:00 PM,2024,11,16,19,428.9,706,Hazardous,432.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 08:00 PM,2024,11,16,20,426.9,702,Hazardous,419.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 09:00 PM,2024,11,16,21,423.2,695,Hazardous,414.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 10:00 PM,2024,11,16,22,413.8,676,Hazardous,374.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-16 11:00 PM,2024,11,16,23,385.6,620,Hazardous,328.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 12:00 AM,2024,11,17,00,368.8,586,Hazardous,329.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 01:00 AM,2024,11,17,01,360.9,571,Hazardous,343.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 02:00 AM,2024,11,17,02,353.3,556,Hazardous,336.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 03:00 AM,2024,11,17,03,344.0,537,Hazardous,325.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 04:00 AM,2024,11,17,04,340.7,530,Hazardous,334.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 05:00 AM,2024,11,17,05,345.4,540,Hazardous,358.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 06:00 AM,2024,11,17,06,296.1,442,Hazardous,237.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 07:00 AM,2024,11,17,07,239.1,328,Hazardous,187.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 08:00 AM,2024,11,17,08,211.0,286,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 09:00 AM,2024,11,17,09,201.9,277,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 10:00 AM,2024,11,17,10,205.8,281,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 11:00 AM,2024,11,17,11,206.8,282,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 12:00 PM,2024,11,17,12,191.3,266,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 01:00 PM,2024,11,17,13,161.6,237,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 02:00 PM,2024,11,17,14,142.7,218,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 03:00 PM,2024,11,17,15,150.8,226,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 04:00 PM,2024,11,17,16,136.4,212,Very Unhealthy,122.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 05:00 PM,2024,11,17,17,107.1,187,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 06:00 PM,2024,11,17,18,97.0,180,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 07:00 PM,2024,11,17,19,99.5,182,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 08:00 PM,2024,11,17,20,110.2,189,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 09:00 PM,2024,11,17,21,134.1,210,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 10:00 PM,2024,11,17,22,167.0,242,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-17 11:00 PM,2024,11,17,23,192.0,267,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 12:00 AM,2024,11,18,00,209.5,284,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 01:00 AM,2024,11,18,01,236.7,323,Hazardous,264.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 02:00 AM,2024,11,18,02,268.9,387,Hazardous,301.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 03:00 AM,2024,11,18,03,296.4,442,Hazardous,324.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 04:00 AM,2024,11,18,04,323.7,497,Hazardous,351.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 05:00 AM,2024,11,18,05,328.9,507,Hazardous,334.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 06:00 AM,2024,11,18,06,310.4,470,Hazardous,292.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 07:00 AM,2024,11,18,07,305.2,460,Hazardous,300.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 08:00 AM,2024,11,18,08,314.1,477,Hazardous,323.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 09:00 AM,2024,11,18,09,369.1,587,Hazardous,424.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 10:00 AM,2024,11,18,10,340.5,530,Hazardous,312.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 11:00 AM,2024,11,18,11,264.2,378,Hazardous,188.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 12:00 PM,2024,11,18,12,194.6,269,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 01:00 PM,2024,11,18,13,147.7,223,Very Unhealthy,101.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 02:00 PM,2024,11,18,14,111.8,190,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 03:00 PM,2024,11,18,15,99.4,182,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 04:00 PM,2024,11,18,16,78.6,167,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 05:00 PM,2024,11,18,17,68.2,160,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 06:00 PM,2024,11,18,18,69.1,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 07:00 PM,2024,11,18,19,84.5,171,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 08:00 PM,2024,11,18,20,101.7,183,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 09:00 PM,2024,11,18,21,135.8,211,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 10:00 PM,2024,11,18,22,167.4,243,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-18 11:00 PM,2024,11,18,23,189.7,265,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 12:00 AM,2024,11,19,00,203.3,278,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 01:00 AM,2024,11,19,01,223.1,298,Very Unhealthy,243.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 02:00 AM,2024,11,19,02,239.1,328,Hazardous,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 03:00 AM,2024,11,19,03,245.5,341,Hazardous,252.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 04:00 AM,2024,11,19,04,250.8,351,Hazardous,256.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 05:00 AM,2024,11,19,05,284.9,419,Hazardous,319.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 06:00 AM,2024,11,19,06,290.4,430,Hazardous,296.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 07:00 AM,2024,11,19,07,288.2,426,Hazardous,286.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 08:00 AM,2024,11,19,08,289.1,428,Hazardous,291.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 09:00 AM,2024,11,19,09,311.7,473,Hazardous,344.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 10:00 AM,2024,11,19,10,317.2,484,Hazardous,330.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 11:00 AM,2024,11,19,11,293.6,437,Hazardous,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 12:00 PM,2024,11,19,12,252.9,356,Hazardous,199.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 01:00 PM,2024,11,19,13,203.0,278,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 02:00 PM,2024,11,19,14,167.5,243,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 03:00 PM,2024,11,19,15,117.7,195,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 04:00 PM,2024,11,19,16,88.8,174,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 05:00 PM,2024,11,19,17,75.3,165,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 06:00 PM,2024,11,19,18,76.6,166,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 07:00 PM,2024,11,19,19,93.3,177,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 08:00 PM,2024,11,19,20,122.6,198,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 09:00 PM,2024,11,19,21,166.8,242,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 10:00 PM,2024,11,19,22,209.3,284,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-19 11:00 PM,2024,11,19,23,238.1,326,Hazardous,267.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 12:00 AM,2024,11,20,00,269.6,389,Hazardous,301.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 01:00 AM,2024,11,20,01,306.8,463,Hazardous,344.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 02:00 AM,2024,11,20,02,322.4,494,Hazardous,338.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 03:00 AM,2024,11,20,03,332.7,515,Hazardous,343.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 04:00 AM,2024,11,20,04,347.4,544,Hazardous,362.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 05:00 AM,2024,11,20,05,363.7,576,Hazardous,380.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 06:00 AM,2024,11,20,06,354.4,558,Hazardous,345.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 07:00 AM,2024,11,20,07,341.7,532,Hazardous,329.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 08:00 AM,2024,11,20,08,324.5,498,Hazardous,302.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 09:00 AM,2024,11,20,09,340.3,530,Hazardous,362.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 10:00 AM,2024,11,20,10,338.2,525,Hazardous,333.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 11:00 AM,2024,11,20,11,326.3,502,Hazardous,288.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 12:00 PM,2024,11,20,12,252.2,354,Hazardous,191.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 01:00 PM,2024,11,20,13,205.9,281,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 02:00 PM,2024,11,20,14,182.9,258,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 03:00 PM,2024,11,20,15,182.8,258,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2024-11-20 05:00 PM,2024,11,20,17,-999.0,-999,N/A,86.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 06:00 PM,2024,11,20,18,101.3,183,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 07:00 PM,2024,11,20,19,114.9,193,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 08:00 PM,2024,11,20,20,135.4,211,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 09:00 PM,2024,11,20,21,163.3,238,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 10:00 PM,2024,11,20,22,200.0,275,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-20 11:00 PM,2024,11,20,23,224.6,299,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 12:00 AM,2024,11,21,00,241.9,334,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 01:00 AM,2024,11,21,01,275.0,400,Hazardous,308.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 02:00 AM,2024,11,21,02,313.5,476,Hazardous,352.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 03:00 AM,2024,11,21,03,325.2,500,Hazardous,337.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 04:00 AM,2024,11,21,04,335.6,520,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 05:00 AM,2024,11,21,05,352.3,554,Hazardous,369.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 06:00 AM,2024,11,21,06,378.7,606,Hazardous,405.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 07:00 AM,2024,11,21,07,437.4,723,Hazardous,496.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 08:00 AM,2024,11,21,08,467.2,782,Hazardous,497.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 09:00 AM,2024,11,21,09,488.6,825,Hazardous,510.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 10:00 AM,2024,11,21,10,502.8,853,Hazardous,517.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 11:00 AM,2024,11,21,11,411.0,671,Hazardous,319.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 12:00 PM,2024,11,21,12,292.4,434,Hazardous,174.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 01:00 PM,2024,11,21,13,226.7,303,Hazardous,161.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 02:00 PM,2024,11,21,14,167.8,243,Very Unhealthy,109.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 03:00 PM,2024,11,21,15,134.8,210,Very Unhealthy,102.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 04:00 PM,2024,11,21,16,117.9,195,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 05:00 PM,2024,11,21,17,108.9,188,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 06:00 PM,2024,11,21,18,110.9,190,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 07:00 PM,2024,11,21,19,124.9,200,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 08:00 PM,2024,11,21,20,145.4,221,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 09:00 PM,2024,11,21,21,167.6,243,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 10:00 PM,2024,11,21,22,187.7,263,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-21 11:00 PM,2024,11,21,23,197.3,272,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 12:00 AM,2024,11,22,00,224.7,299,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 01:00 AM,2024,11,22,01,239.8,329,Hazardous,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 02:00 AM,2024,11,22,02,251.9,354,Hazardous,264.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 03:00 AM,2024,11,22,03,283.0,416,Hazardous,314.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 04:00 AM,2024,11,22,04,309.5,468,Hazardous,336.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 05:00 AM,2024,11,22,05,307.2,464,Hazardous,305.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 06:00 AM,2024,11,22,06,305.1,460,Hazardous,303.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 07:00 AM,2024,11,22,07,318.6,486,Hazardous,332.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 08:00 AM,2024,11,22,08,326.8,503,Hazardous,340.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 09:00 AM,2024,11,22,09,342.6,534,Hazardous,364.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 10:00 AM,2024,11,22,10,339.4,528,Hazardous,335.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 11:00 AM,2024,11,22,11,295.3,440,Hazardous,226.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 12:00 PM,2024,11,22,12,224.2,299,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 01:00 PM,2024,11,22,13,186.0,261,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 02:00 PM,2024,11,22,14,189.5,264,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 03:00 PM,2024,11,22,15,206.7,281,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 04:00 PM,2024,11,22,16,204.3,279,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 05:00 PM,2024,11,22,17,201.6,276,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 06:00 PM,2024,11,22,18,212.8,288,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 07:00 PM,2024,11,22,19,230.9,312,Hazardous,249.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 08:00 PM,2024,11,22,20,252.9,356,Hazardous,275.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 09:00 PM,2024,11,22,21,277.9,405,Hazardous,303.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 10:00 PM,2024,11,22,22,317.4,484,Hazardous,357.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-22 11:00 PM,2024,11,22,23,356.7,562,Hazardous,396.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 12:00 AM,2024,11,23,00,378.4,606,Hazardous,400.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 01:00 AM,2024,11,23,01,360.7,570,Hazardous,343.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 02:00 AM,2024,11,23,02,322.8,495,Hazardous,285.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 03:00 AM,2024,11,23,03,295.9,441,Hazardous,269.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 04:00 AM,2024,11,23,04,278.9,407,Hazardous,262.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 05:00 AM,2024,11,23,05,264.1,378,Hazardous,239.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 06:00 AM,2024,11,23,06,249.1,348,Hazardous,228.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 07:00 AM,2024,11,23,07,234.4,319,Hazardous,219.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 08:00 AM,2024,11,23,08,227.4,305,Hazardous,219.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 09:00 AM,2024,11,23,09,228.1,306,Hazardous,229.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 10:00 AM,2024,11,23,10,250.2,350,Hazardous,277.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 11:00 AM,2024,11,23,11,250.9,352,Hazardous,252.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 12:00 PM,2024,11,23,12,248.2,346,Hazardous,247.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 01:00 PM,2024,11,23,13,239.4,329,Hazardous,218.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 02:00 PM,2024,11,23,14,225.1,300,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 03:00 PM,2024,11,23,15,204.1,279,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 04:00 PM,2024,11,23,16,179.4,254,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 05:00 PM,2024,11,23,17,177.0,252,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 06:00 PM,2024,11,23,18,227.1,304,Hazardous,287.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 07:00 PM,2024,11,23,19,281.8,413,Hazardous,333.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 08:00 PM,2024,11,23,20,291.9,433,Hazardous,302.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 09:00 PM,2024,11,23,21,298.4,446,Hazardous,305.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 10:00 PM,2024,11,23,22,294.7,439,Hazardous,291.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-23 11:00 PM,2024,11,23,23,301.8,453,Hazardous,309.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 12:00 AM,2024,11,24,00,357.9,565,Hazardous,414.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 01:00 AM,2024,11,24,01,389.0,627,Hazardous,420.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 02:00 AM,2024,11,24,02,358.5,566,Hazardous,328.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 03:00 AM,2024,11,24,03,328.7,507,Hazardous,299.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 04:00 AM,2024,11,24,04,341.4,532,Hazardous,354.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 05:00 AM,2024,11,24,05,341.1,531,Hazardous,339.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 06:00 AM,2024,11,24,06,332.2,514,Hazardous,312.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 07:00 AM,2024,11,24,07,291.1,432,Hazardous,241.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 08:00 AM,2024,11,24,08,277.8,405,Hazardous,260.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 09:00 AM,2024,11,24,09,264.6,379,Hazardous,247.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 10:00 AM,2024,11,24,10,267.7,385,Hazardous,272.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 11:00 AM,2024,11,24,11,284.0,418,Hazardous,306.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 12:00 PM,2024,11,24,12,294.2,438,Hazardous,308.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 01:00 PM,2024,11,24,13,294.8,439,Hazardous,303.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 02:00 PM,2024,11,24,14,292.5,434,Hazardous,288.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 03:00 PM,2024,11,24,15,260.0,370,Hazardous,211.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 04:00 PM,2024,11,24,16,224.5,299,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 05:00 PM,2024,11,24,17,176.0,251,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 06:00 PM,2024,11,24,18,152.5,228,Very Unhealthy,129.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 07:00 PM,2024,11,24,19,147.7,223,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 08:00 PM,2024,11,24,20,165.8,241,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 09:00 PM,2024,11,24,21,184.4,259,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 10:00 PM,2024,11,24,22,192.7,268,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-24 11:00 PM,2024,11,24,23,185.8,261,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 12:00 AM,2024,11,25,00,179.4,254,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 01:00 AM,2024,11,25,01,166.6,242,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 02:00 AM,2024,11,25,02,149.7,225,Very Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 03:00 AM,2024,11,25,03,149.4,225,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 04:00 AM,2024,11,25,04,165.4,241,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 05:00 AM,2024,11,25,05,175.1,250,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 06:00 AM,2024,11,25,06,190.6,266,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 07:00 AM,2024,11,25,07,200.8,276,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 08:00 AM,2024,11,25,08,229.7,309,Hazardous,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 09:00 AM,2024,11,25,09,241.8,333,Hazardous,254.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 10:00 AM,2024,11,25,10,221.9,297,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 11:00 AM,2024,11,25,11,182.9,258,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 12:00 PM,2024,11,25,12,143.9,219,Very Unhealthy,105.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 01:00 PM,2024,11,25,13,118.4,195,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 02:00 PM,2024,11,25,14,113.2,191,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 03:00 PM,2024,11,25,15,88.1,174,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 04:00 PM,2024,11,25,16,73.5,164,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 05:00 PM,2024,11,25,17,69.2,161,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 06:00 PM,2024,11,25,18,78.6,167,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 07:00 PM,2024,11,25,19,101.2,183,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 08:00 PM,2024,11,25,20,125.6,201,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 09:00 PM,2024,11,25,21,139.3,215,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 10:00 PM,2024,11,25,22,136.1,212,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-25 11:00 PM,2024,11,25,23,130.0,205,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 12:00 AM,2024,11,26,00,131.0,206,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 01:00 AM,2024,11,26,01,142.0,217,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 02:00 AM,2024,11,26,02,149.0,224,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 03:00 AM,2024,11,26,03,168.0,243,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 04:00 AM,2024,11,26,04,183.0,258,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 05:00 AM,2024,11,26,05,201.5,276,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 06:00 AM,2024,11,26,06,229.2,308,Hazardous,257.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 07:00 AM,2024,11,26,07,252.1,354,Hazardous,275.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 08:00 AM,2024,11,26,08,270.0,390,Hazardous,288.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 09:00 AM,2024,11,26,09,293.5,436,Hazardous,317.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 10:00 AM,2024,11,26,10,306.8,463,Hazardous,320.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 11:00 AM,2024,11,26,11,282.9,415,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 12:00 PM,2024,11,26,12,280.9,411,Hazardous,279.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 01:00 PM,2024,11,26,13,250.4,351,Hazardous,220.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 02:00 PM,2024,11,26,14,179.7,255,Very Unhealthy,109.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 03:00 PM,2024,11,26,15,135.3,211,Very Unhealthy,91.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 04:00 PM,2024,11,26,16,111.6,190,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 05:00 PM,2024,11,26,17,99.3,182,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 06:00 PM,2024,11,26,18,104.1,185,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 07:00 PM,2024,11,26,19,119.5,196,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 08:00 PM,2024,11,26,20,156.2,231,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 09:00 PM,2024,11,26,21,184.1,259,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 10:00 PM,2024,11,26,22,237.5,325,Hazardous,291.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-26 11:00 PM,2024,11,26,23,283.7,417,Hazardous,330.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 12:00 AM,2024,11,27,00,321.9,493,Hazardous,360.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 01:00 AM,2024,11,27,01,336.4,522,Hazardous,351.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 02:00 AM,2024,11,27,02,319.7,489,Hazardous,303.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 03:00 AM,2024,11,27,03,302.4,454,Hazardous,285.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 04:00 AM,2024,11,27,04,290.2,430,Hazardous,278.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 05:00 AM,2024,11,27,05,268.6,387,Hazardous,247.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 06:00 AM,2024,11,27,06,247.8,345,Hazardous,227.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 07:00 AM,2024,11,27,07,233.6,317,Hazardous,214.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 08:00 AM,2024,11,27,08,230.2,310,Hazardous,219.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 09:00 AM,2024,11,27,09,232.4,315,Hazardous,235.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 10:00 AM,2024,11,27,10,234.6,319,Hazardous,238.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 11:00 AM,2024,11,27,11,208.8,284,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 12:00 PM,2024,11,27,12,177.7,253,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 01:00 PM,2024,11,27,13,154.3,230,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 02:00 PM,2024,11,27,14,126.6,202,Very Unhealthy,99.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 03:00 PM,2024,11,27,15,108.7,188,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 04:00 PM,2024,11,27,16,108.3,188,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 05:00 PM,2024,11,27,17,110.1,189,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 06:00 PM,2024,11,27,18,119.5,196,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 07:00 PM,2024,11,27,19,131.2,207,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 08:00 PM,2024,11,27,20,157.1,232,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 09:00 PM,2024,11,27,21,187.5,262,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 10:00 PM,2024,11,27,22,235.2,320,Hazardous,283.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-27 11:00 PM,2024,11,27,23,271.1,392,Hazardous,307.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 12:00 AM,2024,11,28,00,309.1,468,Hazardous,347.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 01:00 AM,2024,11,28,01,320.0,489,Hazardous,331.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 02:00 AM,2024,11,28,02,315.5,480,Hazardous,311.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 03:00 AM,2024,11,28,03,298.8,447,Hazardous,282.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 04:00 AM,2024,11,28,04,302.9,455,Hazardous,307.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 05:00 AM,2024,11,28,05,361.0,571,Hazardous,419.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 06:00 AM,2024,11,28,06,509.0,866,Hazardous,657.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 07:00 AM,2024,11,28,07,570.5,988,Hazardous,632.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 08:00 AM,2024,11,28,08,594.3,1036,Hazardous,618.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 09:00 AM,2024,11,28,09,608.7,1064,Hazardous,623.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 10:00 AM,2024,11,28,10,606.4,1060,Hazardous,604.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 11:00 AM,2024,11,28,11,632.7,1112,Hazardous,659.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 12:00 PM,2024,11,28,12,433.8,716,Hazardous,235.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 01:00 PM,2024,11,28,13,304.9,459,Hazardous,176.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 02:00 PM,2024,11,28,14,238.9,328,Hazardous,173.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 03:00 PM,2024,11,28,15,188.9,264,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 04:00 PM,2024,11,28,16,166.4,242,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 05:00 PM,2024,11,28,17,167.1,242,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 06:00 PM,2024,11,28,18,167.0,242,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 07:00 PM,2024,11,28,19,180.4,255,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 08:00 PM,2024,11,28,20,200.1,275,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 09:00 PM,2024,11,28,21,229.5,309,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 10:00 PM,2024,11,28,22,286.2,422,Hazardous,343.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-28 11:00 PM,2024,11,28,23,329.5,508,Hazardous,373.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 12:00 AM,2024,11,29,00,350.3,550,Hazardous,371.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 01:00 AM,2024,11,29,01,358.6,566,Hazardous,367.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 02:00 AM,2024,11,29,02,345.3,540,Hazardous,332.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 03:00 AM,2024,11,29,03,335.7,521,Hazardous,326.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 04:00 AM,2024,11,29,04,314.8,479,Hazardous,294.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 05:00 AM,2024,11,29,05,305.4,460,Hazardous,296.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 06:00 AM,2024,11,29,06,303.8,457,Hazardous,301.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 07:00 AM,2024,11,29,07,291.3,432,Hazardous,270.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 08:00 AM,2024,11,29,08,268.1,386,Hazardous,229.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 09:00 AM,2024,11,29,09,261.9,374,Hazardous,252.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 10:00 AM,2024,11,29,10,224.7,299,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 11:00 AM,2024,11,29,11,191.1,266,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 12:00 PM,2024,11,29,12,155.5,231,Very Unhealthy,120.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 01:00 PM,2024,11,29,13,148.2,223,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 02:00 PM,2024,11,29,14,148.6,224,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 03:00 PM,2024,11,29,15,170.7,246,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 04:00 PM,2024,11,29,16,182.8,258,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 05:00 PM,2024,11,29,17,167.9,243,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 06:00 PM,2024,11,29,18,177.9,253,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 07:00 PM,2024,11,29,19,224.9,300,Very Unhealthy,272.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 08:00 PM,2024,11,29,20,248.9,348,Hazardous,273.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 09:00 PM,2024,11,29,21,265.4,380,Hazardous,282.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 10:00 PM,2024,11,29,22,275.2,400,Hazardous,285.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-29 11:00 PM,2024,11,29,23,273.1,396,Hazardous,271.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 12:00 AM,2024,11,30,00,283.5,417,Hazardous,294.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 01:00 AM,2024,11,30,01,272.8,395,Hazardous,262.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 02:00 AM,2024,11,30,02,267.2,384,Hazardous,261.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 03:00 AM,2024,11,30,03,240.7,331,Hazardous,212.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 04:00 AM,2024,11,30,04,218.8,293,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 05:00 AM,2024,11,30,05,196.2,271,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 06:00 AM,2024,11,30,06,192.1,267,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 07:00 AM,2024,11,30,07,196.0,271,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 08:00 AM,2024,11,30,08,200.4,275,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 09:00 AM,2024,11,30,09,206.8,282,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 10:00 AM,2024,11,30,10,206.4,281,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 11:00 AM,2024,11,30,11,187.0,262,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 12:00 PM,2024,11,30,12,134.9,210,Very Unhealthy,85.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 01:00 PM,2024,11,30,13,99.4,182,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 02:00 PM,2024,11,30,14,76.6,166,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 03:00 PM,2024,11,30,15,72.8,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 04:00 PM,2024,11,30,16,61.8,155,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 05:00 PM,2024,11,30,17,55.9,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 06:00 PM,2024,11,30,18,60.9,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 07:00 PM,2024,11,30,19,77.9,167,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 08:00 PM,2024,11,30,20,100.9,183,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 09:00 PM,2024,11,30,21,118.4,195,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 10:00 PM,2024,11,30,22,152.7,228,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-11-30 11:00 PM,2024,11,30,23,186.3,261,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2024-12-01 12:00 AM,2024,12,01,00,184.6,260,Very Unhealthy,183.0,UG/M3,1 Hr,Valid

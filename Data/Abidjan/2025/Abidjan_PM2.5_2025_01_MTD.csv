@@ -1,0 +1,744 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Abidjan,PM2.5 - Principal,2025-01-01 01:00 AM,2025,01,01,01,16.7,65,Moderate,16.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 02:00 AM,2025,01,01,02,31.0,92,Moderate,45.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 03:00 AM,2025,01,01,03,24.8,80,Moderate,18.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 04:00 AM,2025,01,01,04,18.4,68,Moderate,12.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 05:00 AM,2025,01,01,05,18.7,69,Moderate,19.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 06:00 AM,2025,01,01,06,21.7,74,Moderate,24.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 07:00 AM,2025,01,01,07,18.4,68,Moderate,15.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 08:00 AM,2025,01,01,08,20.2,72,Moderate,22.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 09:00 AM,2025,01,01,09,23.1,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 10:00 AM,2025,01,01,10,25.1,81,Moderate,27.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 11:00 AM,2025,01,01,11,32.2,94,Moderate,39.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 12:00 PM,2025,01,01,12,77.7,167,Unhealthy,123.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 01:00 PM,2025,01,01,13,77.7,167,Unhealthy,-9.3,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-01 02:00 PM,2025,01,01,14,156.1,231,Very Unhealthy,195.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 03:00 PM,2025,01,01,15,-999.0,-999,N/A,-9.3,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-01 04:00 PM,2025,01,01,16,182.9,258,Very Unhealthy,192.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 05:00 PM,2025,01,01,17,83.8,171,Unhealthy,15.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 06:00 PM,2025,01,01,18,42.9,119,Unhealthy for Sensitive Groups,8.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 07:00 PM,2025,01,01,19,43.0,119,Unhealthy for Sensitive Groups,-5.9,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-01 08:00 PM,2025,01,01,20,35.2,100,Moderate,31.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 09:00 PM,2025,01,01,21,-999.0,-999,N/A,-14.1,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-01 10:00 PM,2025,01,01,22,23.3,77,Moderate,19.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-01 11:00 PM,2025,01,01,23,21.9,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 12:00 AM,2025,01,02,00,21.3,74,Moderate,20.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 01:00 AM,2025,01,02,01,20.1,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 02:00 AM,2025,01,02,02,19.4,70,Moderate,18.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 03:00 AM,2025,01,02,03,18.7,69,Moderate,18.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 04:00 AM,2025,01,02,04,21.2,74,Moderate,23.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 05:00 AM,2025,01,02,05,20.1,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 06:00 AM,2025,01,02,06,20.0,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 07:00 AM,2025,01,02,07,21.0,73,Moderate,22.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 08:00 AM,2025,01,02,08,28.6,87,Moderate,36.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 09:00 AM,2025,01,02,09,34.1,98,Moderate,39.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 10:00 AM,2025,01,02,10,32.1,94,Moderate,30.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 11:00 AM,2025,01,02,11,35.8,102,Unhealthy for Sensitive Groups,39.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 12:00 PM,2025,01,02,12,29.6,89,Moderate,23.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 01:00 PM,2025,01,02,13,35.9,102,Unhealthy for Sensitive Groups,42.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 02:00 PM,2025,01,02,14,47.0,129,Unhealthy for Sensitive Groups,58.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 03:00 PM,2025,01,02,15,110.0,189,Unhealthy,172.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 04:00 PM,2025,01,02,16,67.0,159,Unhealthy,24.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 05:00 PM,2025,01,02,17,64.7,157,Unhealthy,62.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 06:00 PM,2025,01,02,18,36.5,103,Unhealthy for Sensitive Groups,8.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 07:00 PM,2025,01,02,19,36.5,103,Unhealthy for Sensitive Groups,-14.5,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-02 08:00 PM,2025,01,02,20,12.6,58,Moderate,0.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 09:00 PM,2025,01,02,21,20.7,73,Moderate,26.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 10:00 PM,2025,01,02,22,23.5,78,Moderate,25.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-02 11:00 PM,2025,01,02,23,23.2,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 12:00 AM,2025,01,03,00,24.5,80,Moderate,25.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 01:00 AM,2025,01,03,01,23.7,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 02:00 AM,2025,01,03,02,24.3,79,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 03:00 AM,2025,01,03,03,24.1,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 04:00 AM,2025,01,03,04,24.9,80,Moderate,25.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 05:00 AM,2025,01,03,05,22.4,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 06:00 AM,2025,01,03,06,21.7,74,Moderate,21.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 07:00 AM,2025,01,03,07,24.9,80,Moderate,28.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 08:00 AM,2025,01,03,08,27.4,85,Moderate,32.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 09:00 AM,2025,01,03,09,38.2,108,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 10:00 AM,2025,01,03,10,41.1,115,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 11:00 AM,2025,01,03,11,44.8,124,Unhealthy for Sensitive Groups,48.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 12:00 PM,2025,01,03,12,40.4,113,Unhealthy for Sensitive Groups,36.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 01:00 PM,2025,01,03,13,40.7,114,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 02:00 PM,2025,01,03,14,42.9,119,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 03:00 PM,2025,01,03,15,137.6,213,Very Unhealthy,232.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 04:00 PM,2025,01,03,16,137.6,213,Very Unhealthy,-13.6,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-03 05:00 PM,2025,01,03,17,70.4,161,Unhealthy,36.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 06:00 PM,2025,01,03,18,50.0,137,Unhealthy for Sensitive Groups,34.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 07:00 PM,2025,01,03,19,39.7,111,Unhealthy for Sensitive Groups,30.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 08:00 PM,2025,01,03,20,29.7,89,Moderate,20.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 09:00 PM,2025,01,03,21,30.9,92,Moderate,32.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 10:00 PM,2025,01,03,22,34.3,98,Moderate,37.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-03 11:00 PM,2025,01,03,23,33.6,97,Moderate,32.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 12:00 AM,2025,01,04,00,31.7,93,Moderate,29.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 01:00 AM,2025,01,04,01,30.2,90,Moderate,28.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 02:00 AM,2025,01,04,02,27.1,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 03:00 AM,2025,01,04,03,27.1,85,Moderate,26.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 04:00 AM,2025,01,04,04,23.7,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 05:00 AM,2025,01,04,05,21.9,75,Moderate,19.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 06:00 AM,2025,01,04,06,19.9,71,Moderate,18.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 07:00 AM,2025,01,04,07,23.6,78,Moderate,27.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 08:00 AM,2025,01,04,08,32.9,95,Moderate,42.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 09:00 AM,2025,01,04,09,43.9,122,Unhealthy for Sensitive Groups,54.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 10:00 AM,2025,01,04,10,48.2,132,Unhealthy for Sensitive Groups,52.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 11:00 AM,2025,01,04,11,42.5,118,Unhealthy for Sensitive Groups,36.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 12:00 PM,2025,01,04,12,37.4,106,Unhealthy for Sensitive Groups,32.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 01:00 PM,2025,01,04,13,59.9,154,Unhealthy,82.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 02:00 PM,2025,01,04,14,42.6,118,Unhealthy for Sensitive Groups,25.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 03:00 PM,2025,01,04,15,41.2,115,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 04:00 PM,2025,01,04,16,105.7,186,Unhealthy,170.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 05:00 PM,2025,01,04,17,69.6,161,Unhealthy,33.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 06:00 PM,2025,01,04,18,44.3,123,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 07:00 PM,2025,01,04,19,44.3,123,Unhealthy for Sensitive Groups,-14.1,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-04 08:00 PM,2025,01,04,20,33.4,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 09:00 PM,2025,01,04,21,30.8,91,Moderate,28.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 10:00 PM,2025,01,04,22,29.2,88,Moderate,27.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-04 11:00 PM,2025,01,04,23,28.1,86,Moderate,27.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 12:00 AM,2025,01,05,00,30.5,91,Moderate,32.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 01:00 AM,2025,01,05,01,28.6,87,Moderate,26.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 02:00 AM,2025,01,05,02,25.7,82,Moderate,22.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 03:00 AM,2025,01,05,03,21.8,75,Moderate,18.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 04:00 AM,2025,01,05,04,23.4,78,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 05:00 AM,2025,01,05,05,23.8,78,Moderate,24.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 06:00 AM,2025,01,05,06,30.7,91,Moderate,37.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 07:00 AM,2025,01,05,07,47.3,130,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 08:00 AM,2025,01,05,08,57.4,152,Unhealthy,67.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 09:00 AM,2025,01,05,09,72.4,163,Unhealthy,87.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 10:00 AM,2025,01,05,10,69.3,161,Unhealthy,66.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 11:00 AM,2025,01,05,11,53.4,145,Unhealthy for Sensitive Groups,37.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 12:00 PM,2025,01,05,12,38.1,107,Unhealthy for Sensitive Groups,22.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 01:00 PM,2025,01,05,13,38.1,107,Unhealthy for Sensitive Groups,-12.7,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-05 02:00 PM,2025,01,05,14,61.7,155,Unhealthy,73.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 03:00 PM,2025,01,05,15,141.5,217,Very Unhealthy,201.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 04:00 PM,2025,01,05,16,84.4,171,Unhealthy,34.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 05:00 PM,2025,01,05,17,67.1,159,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 06:00 PM,2025,01,05,18,41.9,117,Unhealthy for Sensitive Groups,17.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 07:00 PM,2025,01,05,19,41.3,115,Unhealthy for Sensitive Groups,40.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 08:00 PM,2025,01,05,20,41.3,115,Unhealthy for Sensitive Groups,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-05 09:00 PM,2025,01,05,21,-999.0,-999,N/A,-14.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-05 10:00 PM,2025,01,05,22,-999.0,-999,N/A,30.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-05 11:00 PM,2025,01,05,23,31.4,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 12:00 AM,2025,01,06,00,32.2,94,Moderate,32.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 01:00 AM,2025,01,06,01,32.1,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 02:00 AM,2025,01,06,02,31.9,93,Moderate,31.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 03:00 AM,2025,01,06,03,27.3,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 04:00 AM,2025,01,06,04,26.6,84,Moderate,25.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 05:00 AM,2025,01,06,05,25.8,82,Moderate,25.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 06:00 AM,2025,01,06,06,27.8,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 07:00 AM,2025,01,06,07,28.8,88,Moderate,31.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 08:00 AM,2025,01,06,08,32.7,95,Moderate,38.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 09:00 AM,2025,01,06,09,40.8,114,Unhealthy for Sensitive Groups,47.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 10:00 AM,2025,01,06,10,41.1,115,Unhealthy for Sensitive Groups,41.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 11:00 AM,2025,01,06,11,52.6,143,Unhealthy for Sensitive Groups,64.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 12:00 PM,2025,01,06,12,150.0,225,Very Unhealthy,247.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 01:00 PM,2025,01,06,13,150.0,225,Very Unhealthy,-9.6,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-06 02:00 PM,2025,01,06,14,208.8,284,Very Unhealthy,238.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 03:00 PM,2025,01,06,15,125.3,200,Unhealthy,62.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 04:00 PM,2025,01,06,16,107.4,187,Unhealthy,91.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 05:00 PM,2025,01,06,17,93.6,178,Unhealthy,80.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 06:00 PM,2025,01,06,18,62.3,156,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 07:00 PM,2025,01,06,19,62.3,156,Unhealthy,-11.8,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-06 08:00 PM,2025,01,06,20,88.5,174,Unhealthy,101.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 09:00 PM,2025,01,06,21,-999.0,-999,N/A,-13.7,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-06 10:00 PM,2025,01,06,22,48.8,134,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-06 11:00 PM,2025,01,06,23,41.6,116,Unhealthy for Sensitive Groups,36.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 12:00 AM,2025,01,07,00,35.8,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 01:00 AM,2025,01,07,01,33.8,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 02:00 AM,2025,01,07,02,34.8,99,Moderate,35.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 03:00 AM,2025,01,07,03,32.8,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 04:00 AM,2025,01,07,04,32.9,95,Moderate,33.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 05:00 AM,2025,01,07,05,34.8,99,Moderate,36.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 06:00 AM,2025,01,07,06,33.3,96,Moderate,31.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 07:00 AM,2025,01,07,07,32.2,94,Moderate,31.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 08:00 AM,2025,01,07,08,36.1,102,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 09:00 AM,2025,01,07,09,37.2,105,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 10:00 AM,2025,01,07,10,36.7,104,Unhealthy for Sensitive Groups,35.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 11:00 AM,2025,01,07,11,28.3,87,Moderate,19.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 12:00 PM,2025,01,07,12,81.7,169,Unhealthy,135.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 01:00 PM,2025,01,07,13,127.4,203,Very Unhealthy,173.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 02:00 PM,2025,01,07,14,116.5,194,Unhealthy,105.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 03:00 PM,2025,01,07,15,126.2,202,Very Unhealthy,135.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 04:00 PM,2025,01,07,16,126.2,202,Very Unhealthy,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-07 05:00 PM,2025,01,07,17,-999.0,-999,N/A,-13.9,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-07 06:00 PM,2025,01,07,18,-999.0,-999,N/A,43.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 07:00 PM,2025,01,07,19,-999.0,-999,N/A,339.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-07 08:00 PM,2025,01,07,20,128.1,204,Very Unhealthy,149.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-07 09:00 PM,2025,01,07,21,-999.0,-999,N/A,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-07 10:00 PM,2025,01,07,22,-999.0,-999,N/A,-13.7,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-07 11:00 PM,2025,01,07,23,-999.0,-999,N/A,34.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 12:00 AM,2025,01,08,00,38.8,109,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 01:00 AM,2025,01,08,01,36.8,104,Unhealthy for Sensitive Groups,35.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 02:00 AM,2025,01,08,02,44.5,123,Unhealthy for Sensitive Groups,51.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 03:00 AM,2025,01,08,03,38.7,109,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 04:00 AM,2025,01,08,04,43.6,121,Unhealthy for Sensitive Groups,48.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 05:00 AM,2025,01,08,05,36.2,103,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 06:00 AM,2025,01,08,06,33.1,96,Moderate,30.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 07:00 AM,2025,01,08,07,33.9,97,Moderate,34.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 08:00 AM,2025,01,08,08,32.0,94,Moderate,29.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 09:00 AM,2025,01,08,09,33.5,96,Moderate,35.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 10:00 AM,2025,01,08,10,48.7,134,Unhealthy for Sensitive Groups,63.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 11:00 AM,2025,01,08,11,55.9,151,Unhealthy,63.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 12:00 PM,2025,01,08,12,62.2,156,Unhealthy,68.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 01:00 PM,2025,01,08,13,55.1,149,Unhealthy for Sensitive Groups,48.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 02:00 PM,2025,01,08,14,54.1,147,Unhealthy for Sensitive Groups,53.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 03:00 PM,2025,01,08,15,60.0,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 04:00 PM,2025,01,08,16,63.1,156,Unhealthy,66.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 05:00 PM,2025,01,08,17,47.5,131,Unhealthy for Sensitive Groups,31.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 06:00 PM,2025,01,08,18,38.2,108,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 07:00 PM,2025,01,08,19,33.4,96,Moderate,28.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 08:00 PM,2025,01,08,20,24.8,80,Moderate,16.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 09:00 PM,2025,01,08,21,26.0,82,Moderate,27.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 10:00 PM,2025,01,08,22,30.9,92,Moderate,35.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-08 11:00 PM,2025,01,08,23,31.4,93,Moderate,31.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 12:00 AM,2025,01,09,00,30.0,90,Moderate,28.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 01:00 AM,2025,01,09,01,24.9,80,Moderate,19.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 02:00 AM,2025,01,09,02,21.9,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 03:00 AM,2025,01,09,03,21.8,75,Moderate,21.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 04:00 AM,2025,01,09,04,18.9,69,Moderate,16.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 05:00 AM,2025,01,09,05,17.5,67,Moderate,16.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 06:00 AM,2025,01,09,06,22.3,76,Moderate,27.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 07:00 AM,2025,01,09,07,28.6,87,Moderate,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 08:00 AM,2025,01,09,08,29.8,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 09:00 AM,2025,01,09,09,31.8,93,Moderate,33.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 10:00 AM,2025,01,09,10,30.3,90,Moderate,28.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 11:00 AM,2025,01,09,11,27.7,86,Moderate,25.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 12:00 PM,2025,01,09,12,31.1,92,Moderate,34.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 01:00 PM,2025,01,09,13,44.1,122,Unhealthy for Sensitive Groups,57.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 02:00 PM,2025,01,09,14,55.1,149,Unhealthy for Sensitive Groups,66.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 03:00 PM,2025,01,09,15,39.6,111,Unhealthy for Sensitive Groups,24.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 04:00 PM,2025,01,09,16,35.8,102,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 05:00 PM,2025,01,09,17,34.8,99,Moderate,33.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 06:00 PM,2025,01,09,18,33.1,96,Moderate,31.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 07:00 PM,2025,01,09,19,22.1,75,Moderate,11.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 08:00 PM,2025,01,09,20,21.1,73,Moderate,20.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 09:00 PM,2025,01,09,21,23.6,78,Moderate,26.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 10:00 PM,2025,01,09,22,27.2,85,Moderate,30.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-09 11:00 PM,2025,01,09,23,27.1,85,Moderate,27.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 12:00 AM,2025,01,10,00,30.0,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 01:00 AM,2025,01,10,01,31.4,93,Moderate,32.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 02:00 AM,2025,01,10,02,30.1,90,Moderate,28.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 03:00 AM,2025,01,10,03,27.0,84,Moderate,23.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 04:00 AM,2025,01,10,04,25.0,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 05:00 AM,2025,01,10,05,25.9,82,Moderate,26.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 06:00 AM,2025,01,10,06,25.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 07:00 AM,2025,01,10,07,26.3,83,Moderate,27.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 08:00 AM,2025,01,10,08,33.5,96,Moderate,42.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 09:00 AM,2025,01,10,09,42.4,118,Unhealthy for Sensitive Groups,50.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 10:00 AM,2025,01,10,10,42.1,117,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 11:00 AM,2025,01,10,11,40.9,114,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 12:00 PM,2025,01,10,12,36.9,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 01:00 PM,2025,01,10,13,54.9,149,Unhealthy for Sensitive Groups,72.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 02:00 PM,2025,01,10,14,86.2,173,Unhealthy,117.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 03:00 PM,2025,01,10,15,94.7,178,Unhealthy,103.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 04:00 PM,2025,01,10,16,101.3,183,Unhealthy,107.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 05:00 PM,2025,01,10,17,79.2,168,Unhealthy,57.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 06:00 PM,2025,01,10,18,52.7,143,Unhealthy for Sensitive Groups,26.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 07:00 PM,2025,01,10,19,27.6,85,Moderate,2.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 08:00 PM,2025,01,10,20,27.6,85,Moderate,-14.9,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-10 09:00 PM,2025,01,10,21,-999.0,-999,N/A,-10.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-10 10:00 PM,2025,01,10,22,-999.0,-999,N/A,34.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-10 11:00 PM,2025,01,10,23,33.5,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 12:00 AM,2025,01,11,00,34.7,99,Moderate,35.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 01:00 AM,2025,01,11,01,28.0,86,Moderate,22.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 02:00 AM,2025,01,11,02,28.4,87,Moderate,28.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 03:00 AM,2025,01,11,03,27.7,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 04:00 AM,2025,01,11,04,27.8,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 05:00 AM,2025,01,11,05,28.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 06:00 AM,2025,01,11,06,29.7,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 07:00 AM,2025,01,11,07,30.0,90,Moderate,31.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 08:00 AM,2025,01,11,08,32.9,95,Moderate,37.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 09:00 AM,2025,01,11,09,38.1,107,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 10:00 AM,2025,01,11,10,38.5,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 11:00 AM,2025,01,11,11,38.7,109,Unhealthy for Sensitive Groups,38.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 12:00 PM,2025,01,11,12,38.6,109,Unhealthy for Sensitive Groups,38.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 01:00 PM,2025,01,11,13,50.0,137,Unhealthy for Sensitive Groups,61.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 02:00 PM,2025,01,11,14,67.0,159,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 03:00 PM,2025,01,11,15,120.0,196,Unhealthy,173.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 04:00 PM,2025,01,11,16,77.0,166,Unhealthy,34.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 05:00 PM,2025,01,11,17,80.4,168,Unhealthy,83.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 06:00 PM,2025,01,11,18,57.6,152,Unhealthy,34.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 07:00 PM,2025,01,11,19,41.8,117,Unhealthy for Sensitive Groups,26.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 08:00 PM,2025,01,11,20,41.8,117,Unhealthy for Sensitive Groups,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-11 09:00 PM,2025,01,11,21,-999.0,-999,N/A,-14.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-11 10:00 PM,2025,01,11,22,-999.0,-999,N/A,31.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-11 11:00 PM,2025,01,11,23,32.1,94,Moderate,31.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 12:00 AM,2025,01,12,00,34.2,98,Moderate,35.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 01:00 AM,2025,01,12,01,34.5,98,Moderate,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 02:00 AM,2025,01,12,02,57.7,153,Unhealthy,79.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 03:00 AM,2025,01,12,03,44.1,122,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 04:00 AM,2025,01,12,04,38.5,108,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 05:00 AM,2025,01,12,05,37.2,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 06:00 AM,2025,01,12,06,37.0,105,Unhealthy for Sensitive Groups,36.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 07:00 AM,2025,01,12,07,36.0,102,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 08:00 AM,2025,01,12,08,39.1,110,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 09:00 AM,2025,01,12,09,45.9,127,Unhealthy for Sensitive Groups,52.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 10:00 AM,2025,01,12,10,46.9,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 11:00 AM,2025,01,12,11,48.3,133,Unhealthy for Sensitive Groups,49.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 12:00 PM,2025,01,12,12,46.0,127,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 01:00 PM,2025,01,12,13,41.6,116,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 02:00 PM,2025,01,12,14,43.0,119,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 03:00 PM,2025,01,12,15,44.3,123,Unhealthy for Sensitive Groups,46.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 04:00 PM,2025,01,12,16,71.6,162,Unhealthy,98.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 05:00 PM,2025,01,12,17,54.8,149,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 06:00 PM,2025,01,12,18,48.1,132,Unhealthy for Sensitive Groups,41.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 07:00 PM,2025,01,12,19,34.6,99,Moderate,21.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 08:00 PM,2025,01,12,20,32.2,94,Moderate,29.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 09:00 PM,2025,01,12,21,30.6,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 10:00 PM,2025,01,12,22,30.8,91,Moderate,31.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-12 11:00 PM,2025,01,12,23,35.3,100,Moderate,39.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 12:00 AM,2025,01,13,00,34.1,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 01:00 AM,2025,01,13,01,34.5,98,Moderate,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 02:00 AM,2025,01,13,02,33.2,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 03:00 AM,2025,01,13,03,34.0,97,Moderate,34.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 04:00 AM,2025,01,13,04,31.0,92,Moderate,27.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 05:00 AM,2025,01,13,05,28.6,87,Moderate,26.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 06:00 AM,2025,01,13,06,32.7,95,Moderate,37.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 07:00 AM,2025,01,13,07,38.8,109,Unhealthy for Sensitive Groups,46.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 08:00 AM,2025,01,13,08,60.6,155,Unhealthy,81.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 09:00 AM,2025,01,13,09,59.4,154,Unhealthy,58.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 10:00 AM,2025,01,13,10,62.6,156,Unhealthy,65.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 11:00 AM,2025,01,13,11,60.8,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 12:00 PM,2025,01,13,12,59.9,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 01:00 PM,2025,01,13,13,59.5,154,Unhealthy,59.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 02:00 PM,2025,01,13,14,62.7,156,Unhealthy,65.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 03:00 PM,2025,01,13,15,84.9,172,Unhealthy,107.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 04:00 PM,2025,01,13,16,122.2,198,Unhealthy,159.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 05:00 PM,2025,01,13,17,107.0,187,Unhealthy,91.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 06:00 PM,2025,01,13,18,71.9,162,Unhealthy,36.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 07:00 PM,2025,01,13,19,53.3,145,Unhealthy for Sensitive Groups,34.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 08:00 PM,2025,01,13,20,58.4,153,Unhealthy,63.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 09:00 PM,2025,01,13,21,31.4,93,Moderate,4.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-13 10:00 PM,2025,01,13,22,31.4,93,Moderate,-14.1,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-13 11:00 PM,2025,01,13,23,26.6,84,Moderate,24.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 12:00 AM,2025,01,14,00,30.7,91,Moderate,33.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 01:00 AM,2025,01,14,01,30.9,92,Moderate,31.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 02:00 AM,2025,01,14,02,35.4,100,Moderate,39.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 03:00 AM,2025,01,14,03,32.6,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 04:00 AM,2025,01,14,04,32.8,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 05:00 AM,2025,01,14,05,33.3,96,Moderate,33.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 06:00 AM,2025,01,14,06,32.3,94,Moderate,31.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 07:00 AM,2025,01,14,07,39.7,111,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 08:00 AM,2025,01,14,08,68.8,160,Unhealthy,97.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 09:00 AM,2025,01,14,09,81.1,169,Unhealthy,93.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 10:00 AM,2025,01,14,10,76.6,166,Unhealthy,72.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 11:00 AM,2025,01,14,11,60.7,155,Unhealthy,44.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 12:00 PM,2025,01,14,12,51.3,140,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 01:00 PM,2025,01,14,13,48.7,134,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 02:00 PM,2025,01,14,14,103.0,184,Unhealthy,157.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 03:00 PM,2025,01,14,15,115.6,193,Unhealthy,128.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 04:00 PM,2025,01,14,16,129.0,204,Very Unhealthy,142.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 05:00 PM,2025,01,14,17,87.7,174,Unhealthy,46.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 06:00 PM,2025,01,14,18,59.3,154,Unhealthy,30.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 07:00 PM,2025,01,14,19,44.1,122,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 08:00 PM,2025,01,14,20,44.1,122,Unhealthy for Sensitive Groups,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-14 09:00 PM,2025,01,14,21,-999.0,-999,N/A,-14.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-14 10:00 PM,2025,01,14,22,-999.0,-999,N/A,28.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-14 11:00 PM,2025,01,14,23,34.0,97,Moderate,35.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 12:00 AM,2025,01,15,00,32.4,94,Moderate,31.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 01:00 AM,2025,01,15,01,33.6,97,Moderate,34.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 02:00 AM,2025,01,15,02,29.1,88,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 03:00 AM,2025,01,15,03,25.4,81,Moderate,21.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 04:00 AM,2025,01,15,04,22.2,75,Moderate,19.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 05:00 AM,2025,01,15,05,24.6,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 06:00 AM,2025,01,15,06,26.2,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 07:00 AM,2025,01,15,07,27.1,85,Moderate,28.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 08:00 AM,2025,01,15,08,29.8,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 09:00 AM,2025,01,15,09,31.3,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 10:00 AM,2025,01,15,10,32.9,95,Moderate,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 11:00 AM,2025,01,15,11,32.4,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 12:00 PM,2025,01,15,12,33.5,96,Moderate,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 01:00 PM,2025,01,15,13,33.7,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 02:00 PM,2025,01,15,14,34.3,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 03:00 PM,2025,01,15,15,37.4,106,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 04:00 PM,2025,01,15,16,121.8,197,Unhealthy,206.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 05:00 PM,2025,01,15,17,143.6,219,Very Unhealthy,165.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 06:00 PM,2025,01,15,18,87.9,174,Unhealthy,32.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 07:00 PM,2025,01,15,19,48.6,133,Unhealthy for Sensitive Groups,9.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 08:00 PM,2025,01,15,20,37.3,105,Unhealthy for Sensitive Groups,26.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-15 09:00 PM,2025,01,15,21,37.3,105,Unhealthy for Sensitive Groups,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-15 10:00 PM,2025,01,15,22,-999.0,-999,N/A,-14.1,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-15 11:00 PM,2025,01,15,23,-999.0,-999,N/A,27.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 12:00 AM,2025,01,16,00,38.4,108,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 01:00 AM,2025,01,16,01,44.4,123,Unhealthy for Sensitive Groups,49.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 02:00 AM,2025,01,16,02,35.0,99,Moderate,26.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 03:00 AM,2025,01,16,03,23.4,78,Moderate,12.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 04:00 AM,2025,01,16,04,25.2,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 05:00 AM,2025,01,16,05,27.0,84,Moderate,28.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 06:00 AM,2025,01,16,06,26.2,83,Moderate,25.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 07:00 AM,2025,01,16,07,34.4,98,Moderate,42.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 08:00 AM,2025,01,16,08,30.8,91,Moderate,27.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 09:00 AM,2025,01,16,09,37.2,105,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 10:00 AM,2025,01,16,10,36.6,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 11:00 AM,2025,01,16,11,36.3,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 12:00 PM,2025,01,16,12,37.1,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 01:00 PM,2025,01,16,13,58.6,153,Unhealthy,80.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 02:00 PM,2025,01,16,14,140.3,216,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 03:00 PM,2025,01,16,15,134.1,210,Very Unhealthy,128.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 04:00 PM,2025,01,16,16,84.5,171,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 05:00 PM,2025,01,16,17,60.5,155,Unhealthy,36.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 06:00 PM,2025,01,16,18,39.3,110,Unhealthy for Sensitive Groups,18.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 07:00 PM,2025,01,16,19,39.3,110,Unhealthy for Sensitive Groups,-10.8,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-16 08:00 PM,2025,01,16,20,126.4,202,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 09:00 PM,2025,01,16,21,99.1,182,Unhealthy,78.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 10:00 PM,2025,01,16,22,53.8,146,Unhealthy for Sensitive Groups,14.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-16 11:00 PM,2025,01,16,23,53.8,146,Unhealthy for Sensitive Groups,-14.4,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-17 12:00 AM,2025,01,17,00,24.6,80,Moderate,11.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 01:00 AM,2025,01,17,01,18.6,69,Moderate,14.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 02:00 AM,2025,01,17,02,23.1,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 03:00 AM,2025,01,17,03,25.4,81,Moderate,27.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 04:00 AM,2025,01,17,04,21.2,74,Moderate,17.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 05:00 AM,2025,01,17,05,24.2,79,Moderate,27.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 06:00 AM,2025,01,17,06,29.5,89,Moderate,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 07:00 AM,2025,01,17,07,30.1,90,Moderate,30.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 08:00 AM,2025,01,17,08,27.0,84,Moderate,23.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 09:00 AM,2025,01,17,09,25.1,81,Moderate,23.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 10:00 AM,2025,01,17,10,29.9,90,Moderate,34.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 11:00 AM,2025,01,17,11,28.5,87,Moderate,27.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 12:00 PM,2025,01,17,12,30.2,90,Moderate,31.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 01:00 PM,2025,01,17,13,30.7,91,Moderate,31.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 02:00 PM,2025,01,17,14,38.6,109,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 03:00 PM,2025,01,17,15,35.2,100,Moderate,31.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 04:00 PM,2025,01,17,16,54.8,149,Unhealthy for Sensitive Groups,74.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 05:00 PM,2025,01,17,17,76.7,166,Unhealthy,98.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 06:00 PM,2025,01,17,18,58.1,153,Unhealthy,39.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 07:00 PM,2025,01,17,19,39.1,110,Unhealthy for Sensitive Groups,20.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 08:00 PM,2025,01,17,20,39.2,110,Unhealthy for Sensitive Groups,-14.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-17 09:00 PM,2025,01,17,21,35.1,99,Moderate,33.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 10:00 PM,2025,01,17,22,37.0,105,Unhealthy for Sensitive Groups,38.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-17 11:00 PM,2025,01,17,23,50.0,137,Unhealthy for Sensitive Groups,61.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 12:00 AM,2025,01,18,00,45.2,125,Unhealthy for Sensitive Groups,40.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 01:00 AM,2025,01,18,01,38.1,107,Unhealthy for Sensitive Groups,31.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 02:00 AM,2025,01,18,02,41.4,116,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 03:00 AM,2025,01,18,03,38.7,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 04:00 AM,2025,01,18,04,38.6,109,Unhealthy for Sensitive Groups,38.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 05:00 AM,2025,01,18,05,29.7,89,Moderate,20.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 06:00 AM,2025,01,18,06,23.5,78,Moderate,17.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 07:00 AM,2025,01,18,07,28.2,87,Moderate,32.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 08:00 AM,2025,01,18,08,53.4,145,Unhealthy for Sensitive Groups,78.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 09:00 AM,2025,01,18,09,61.0,155,Unhealthy,68.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 10:00 AM,2025,01,18,10,56.6,152,Unhealthy,52.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 11:00 AM,2025,01,18,11,60.4,154,Unhealthy,64.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 12:00 PM,2025,01,18,12,46.1,127,Unhealthy for Sensitive Groups,31.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 01:00 PM,2025,01,18,13,38.6,109,Unhealthy for Sensitive Groups,31.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 02:00 PM,2025,01,18,14,41.7,116,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 03:00 PM,2025,01,18,15,65.1,158,Unhealthy,88.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 04:00 PM,2025,01,18,16,157.5,233,Very Unhealthy,249.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 05:00 PM,2025,01,18,17,107.4,187,Unhealthy,57.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 06:00 PM,2025,01,18,18,68.7,160,Unhealthy,30.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 07:00 PM,2025,01,18,19,52.2,142,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 08:00 PM,2025,01,18,20,52.2,142,Unhealthy for Sensitive Groups,-13.8,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-18 09:00 PM,2025,01,18,21,43.8,121,Unhealthy for Sensitive Groups,39.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 10:00 PM,2025,01,18,22,31.3,92,Moderate,22.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-18 11:00 PM,2025,01,18,23,52.6,143,Unhealthy for Sensitive Groups,71.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 12:00 AM,2025,01,19,00,46.6,128,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 01:00 AM,2025,01,19,01,44.1,122,Unhealthy for Sensitive Groups,41.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 02:00 AM,2025,01,19,02,38.0,107,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 03:00 AM,2025,01,19,03,35.4,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 04:00 AM,2025,01,19,04,34.2,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 05:00 AM,2025,01,19,05,33.7,97,Moderate,33.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 06:00 AM,2025,01,19,06,38.3,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 07:00 AM,2025,01,19,07,42.2,117,Unhealthy for Sensitive Groups,46.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 08:00 AM,2025,01,19,08,70.3,161,Unhealthy,98.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 09:00 AM,2025,01,19,09,93.5,178,Unhealthy,116.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 10:00 AM,2025,01,19,10,75.0,165,Unhealthy,56.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 11:00 AM,2025,01,19,11,58.0,153,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 12:00 PM,2025,01,19,12,51.4,140,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 01:00 PM,2025,01,19,13,45.9,127,Unhealthy for Sensitive Groups,40.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 02:00 PM,2025,01,19,14,54.4,148,Unhealthy for Sensitive Groups,62.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 03:00 PM,2025,01,19,15,126.8,202,Very Unhealthy,199.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 04:00 PM,2025,01,19,16,144.0,219,Very Unhealthy,161.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 05:00 PM,2025,01,19,17,88.9,174,Unhealthy,33.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 06:00 PM,2025,01,19,18,58.6,153,Unhealthy,28.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 07:00 PM,2025,01,19,19,29.6,89,Moderate,0.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 08:00 PM,2025,01,19,20,29.6,89,Moderate,-13.8,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-19 09:00 PM,2025,01,19,21,36.5,103,Unhealthy for Sensitive Groups,40.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 10:00 PM,2025,01,19,22,41.6,116,Unhealthy for Sensitive Groups,45.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-19 11:00 PM,2025,01,19,23,29.0,88,Moderate,18.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 12:00 AM,2025,01,20,00,23.3,77,Moderate,18.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 01:00 AM,2025,01,20,01,24.1,79,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 02:00 AM,2025,01,20,02,23.5,78,Moderate,22.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 03:00 AM,2025,01,20,03,22.6,76,Moderate,21.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 04:00 AM,2025,01,20,04,19.7,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 05:00 AM,2025,01,20,05,19.5,70,Moderate,19.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 06:00 AM,2025,01,20,06,28.4,87,Moderate,37.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 07:00 AM,2025,01,20,07,41.2,115,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 08:00 AM,2025,01,20,08,47.6,131,Unhealthy for Sensitive Groups,54.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 09:00 AM,2025,01,20,09,55.3,150,Unhealthy for Sensitive Groups,63.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 10:00 AM,2025,01,20,10,61.9,155,Unhealthy,68.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 11:00 AM,2025,01,20,11,56.8,152,Unhealthy,51.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 12:00 PM,2025,01,20,12,46.3,128,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 01:00 PM,2025,01,20,13,40.6,114,Unhealthy for Sensitive Groups,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 02:00 PM,2025,01,20,14,37.0,105,Unhealthy for Sensitive Groups,33.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 03:00 PM,2025,01,20,15,93.0,177,Unhealthy,149.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 04:00 PM,2025,01,20,16,122.5,198,Unhealthy,151.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 05:00 PM,2025,01,20,17,89.3,175,Unhealthy,56.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 06:00 PM,2025,01,20,18,55.5,151,Unhealthy,21.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 07:00 PM,2025,01,20,19,33.4,96,Moderate,11.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 08:00 PM,2025,01,20,20,33.4,96,Moderate,-14.3,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-20 09:00 PM,2025,01,20,21,22.4,76,Moderate,17.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 10:00 PM,2025,01,20,22,21.1,73,Moderate,20.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-20 11:00 PM,2025,01,20,23,24.5,80,Moderate,27.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 12:00 AM,2025,01,21,00,16.0,64,Moderate,8.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 01:00 AM,2025,01,21,01,18.0,68,Moderate,19.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 02:00 AM,2025,01,21,02,17.5,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 03:00 AM,2025,01,21,03,18.1,68,Moderate,18.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 04:00 AM,2025,01,21,04,16.5,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 05:00 AM,2025,01,21,05,17.2,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 06:00 AM,2025,01,21,06,17.5,67,Moderate,17.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 07:00 AM,2025,01,21,07,16.8,65,Moderate,16.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 08:00 AM,2025,01,21,08,22.0,75,Moderate,27.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 09:00 AM,2025,01,21,09,29.9,90,Moderate,37.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 10:00 AM,2025,01,21,10,29.9,90,Moderate,29.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 11:00 AM,2025,01,21,11,28.3,87,Moderate,26.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 12:00 PM,2025,01,21,12,24.2,79,Moderate,20.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 01:00 PM,2025,01,21,13,26.0,82,Moderate,27.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 02:00 PM,2025,01,21,14,49.6,136,Unhealthy for Sensitive Groups,73.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 03:00 PM,2025,01,21,15,136.6,212,Very Unhealthy,223.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 04:00 PM,2025,01,21,16,104.2,185,Unhealthy,71.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 05:00 PM,2025,01,21,17,64.0,157,Unhealthy,23.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 06:00 PM,2025,01,21,18,40.9,114,Unhealthy for Sensitive Groups,17.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 07:00 PM,2025,01,21,19,27.6,85,Moderate,14.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 08:00 PM,2025,01,21,20,74.8,165,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-21 09:00 PM,2025,01,21,21,74.8,165,Unhealthy,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-21 10:00 PM,2025,01,21,22,-999.0,-999,N/A,-14.1,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-21 11:00 PM,2025,01,21,23,-999.0,-999,N/A,23.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 12:00 AM,2025,01,22,00,24.5,80,Moderate,18.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 01:00 AM,2025,01,22,01,12.2,57,Moderate,2.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 02:00 AM,2025,01,22,02,16.2,64,Moderate,19.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 03:00 AM,2025,01,22,03,16.5,65,Moderate,16.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 04:00 AM,2025,01,22,04,14.7,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 05:00 AM,2025,01,22,05,14.3,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 06:00 AM,2025,01,22,06,14.1,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 07:00 AM,2025,01,22,07,15.6,63,Moderate,17.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 08:00 AM,2025,01,22,08,22.8,77,Moderate,30.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 09:00 AM,2025,01,22,09,50.1,137,Unhealthy for Sensitive Groups,77.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 10:00 AM,2025,01,22,10,53.2,145,Unhealthy for Sensitive Groups,56.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 11:00 AM,2025,01,22,11,42.4,118,Unhealthy for Sensitive Groups,31.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 12:00 PM,2025,01,22,12,30.6,91,Moderate,18.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 01:00 PM,2025,01,22,13,44.3,123,Unhealthy for Sensitive Groups,58.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 02:00 PM,2025,01,22,14,56.3,152,Unhealthy,68.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 03:00 PM,2025,01,22,15,165.7,241,Very Unhealthy,275.0,UG/M3,1 Hr,Suspect
+Abidjan,PM2.5 - Principal,2025-01-22 04:00 PM,2025,01,22,16,104.6,185,Unhealthy,43.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 05:00 PM,2025,01,22,17,66.2,159,Unhealthy,27.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 06:00 PM,2025,01,22,18,42.2,117,Unhealthy for Sensitive Groups,18.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 07:00 PM,2025,01,22,19,42.2,117,Unhealthy for Sensitive Groups,-10.5,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-22 08:00 PM,2025,01,22,20,113.5,192,Unhealthy,149.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-22 09:00 PM,2025,01,22,21,-999.0,-999,N/A,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-22 10:00 PM,2025,01,22,22,-999.0,-999,N/A,-14.9,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-22 11:00 PM,2025,01,22,23,-999.0,-999,N/A,-10.1,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-23 12:00 AM,2025,01,23,00,-999.0,-999,N/A,28.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 01:00 AM,2025,01,23,01,17.8,67,Moderate,8.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 02:00 AM,2025,01,23,02,12.9,58,Moderate,9.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 03:00 AM,2025,01,23,03,16.0,64,Moderate,18.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 04:00 AM,2025,01,23,04,16.0,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 05:00 AM,2025,01,23,05,17.9,67,Moderate,19.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 06:00 AM,2025,01,23,06,16.9,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 07:00 AM,2025,01,23,07,16.4,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 08:00 AM,2025,01,23,08,17.7,67,Moderate,19.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 09:00 AM,2025,01,23,09,22.8,77,Moderate,27.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 10:00 AM,2025,01,23,10,23.8,78,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 11:00 AM,2025,01,23,11,23.8,78,Moderate,23.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 12:00 PM,2025,01,23,12,22.9,77,Moderate,22.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 01:00 PM,2025,01,23,13,26.0,82,Moderate,29.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 02:00 PM,2025,01,23,14,52.8,144,Unhealthy for Sensitive Groups,79.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 03:00 PM,2025,01,23,15,106.2,187,Unhealthy,159.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 04:00 PM,2025,01,23,16,97.5,180,Unhealthy,88.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 05:00 PM,2025,01,23,17,65.5,158,Unhealthy,33.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 06:00 PM,2025,01,23,18,40.5,113,Unhealthy for Sensitive Groups,15.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 07:00 PM,2025,01,23,19,19.1,70,Moderate,-2.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 08:00 PM,2025,01,23,20,19.1,70,Moderate,-14.6,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-23 09:00 PM,2025,01,23,21,8.5,47,Good,3.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 10:00 PM,2025,01,23,22,15.2,62,Moderate,20.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-23 11:00 PM,2025,01,23,23,24.9,80,Moderate,33.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 12:00 AM,2025,01,24,00,18.7,69,Moderate,12.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 01:00 AM,2025,01,24,01,15.2,62,Moderate,11.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 02:00 AM,2025,01,24,02,10.7,54,Moderate,6.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 03:00 AM,2025,01,24,03,16.7,65,Moderate,22.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 04:00 AM,2025,01,24,04,17.4,66,Moderate,18.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 05:00 AM,2025,01,24,05,20.2,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 06:00 AM,2025,01,24,06,21.6,74,Moderate,23.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 07:00 AM,2025,01,24,07,24.9,80,Moderate,28.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 08:00 AM,2025,01,24,08,34.0,97,Moderate,43.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 09:00 AM,2025,01,24,09,43.0,119,Unhealthy for Sensitive Groups,52.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 10:00 AM,2025,01,24,10,74.7,164,Unhealthy,106.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 11:00 AM,2025,01,24,11,148.2,223,Very Unhealthy,221.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 12:00 PM,2025,01,24,12,82.4,170,Unhealthy,16.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 01:00 PM,2025,01,24,13,42.0,117,Unhealthy for Sensitive Groups,1.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 02:00 PM,2025,01,24,14,42.0,117,Unhealthy for Sensitive Groups,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-24 03:00 PM,2025,01,24,15,-999.0,-999,N/A,-14.1,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-24 04:00 PM,2025,01,24,16,-999.0,-999,N/A,27.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 05:00 PM,2025,01,24,17,46.0,127,Unhealthy for Sensitive Groups,55.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 06:00 PM,2025,01,24,18,23.2,77,Moderate,4.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 07:00 PM,2025,01,24,19,57.6,152,Unhealthy,88.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 08:00 PM,2025,01,24,20,46.5,128,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 09:00 PM,2025,01,24,21,46.5,128,Unhealthy for Sensitive Groups,-14.6,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-24 10:00 PM,2025,01,24,22,17.4,66,Moderate,3.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-24 11:00 PM,2025,01,24,23,19.9,71,Moderate,21.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 12:00 AM,2025,01,25,00,19.4,70,Moderate,18.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 01:00 AM,2025,01,25,01,17.2,66,Moderate,15.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 02:00 AM,2025,01,25,02,22.0,75,Moderate,26.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 03:00 AM,2025,01,25,03,21.3,74,Moderate,20.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 04:00 AM,2025,01,25,04,16.4,65,Moderate,11.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 05:00 AM,2025,01,25,05,30.0,90,Moderate,43.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 06:00 AM,2025,01,25,06,26.1,83,Moderate,22.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 07:00 AM,2025,01,25,07,31.1,92,Moderate,36.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 08:00 AM,2025,01,25,08,40.6,114,Unhealthy for Sensitive Groups,50.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 09:00 AM,2025,01,25,09,47.5,131,Unhealthy for Sensitive Groups,54.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 10:00 AM,2025,01,25,10,39.3,110,Unhealthy for Sensitive Groups,31.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 11:00 AM,2025,01,25,11,38.5,108,Unhealthy for Sensitive Groups,37.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 12:00 PM,2025,01,25,12,31.1,92,Moderate,23.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 01:00 PM,2025,01,25,13,23.1,77,Moderate,15.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 02:00 PM,2025,01,25,14,25.2,81,Moderate,27.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 03:00 PM,2025,01,25,15,60.9,155,Unhealthy,96.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 04:00 PM,2025,01,25,16,162.8,238,Very Unhealthy,264.7,UG/M3,1 Hr,Suspect
+Abidjan,PM2.5 - Principal,2025-01-25 05:00 PM,2025,01,25,17,89.8,175,Unhealthy,16.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 06:00 PM,2025,01,25,18,52.8,144,Unhealthy for Sensitive Groups,15.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 07:00 PM,2025,01,25,19,32.4,94,Moderate,12.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 08:00 PM,2025,01,25,20,21.9,75,Moderate,11.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-25 09:00 PM,2025,01,25,21,21.9,75,Moderate,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-25 10:00 PM,2025,01,25,22,-999.0,-999,N/A,-14.6,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-25 11:00 PM,2025,01,25,23,-999.0,-999,N/A,4.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 12:00 AM,2025,01,26,00,12.1,57,Moderate,14.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 01:00 AM,2025,01,26,01,13.1,58,Moderate,13.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 02:00 AM,2025,01,26,02,13.0,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 03:00 AM,2025,01,26,03,14.4,61,Moderate,15.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 04:00 AM,2025,01,26,04,14.1,60,Moderate,13.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 05:00 AM,2025,01,26,05,13.0,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 06:00 AM,2025,01,26,06,12.5,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 07:00 AM,2025,01,26,07,14.5,61,Moderate,16.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 08:00 AM,2025,01,26,08,29.1,88,Moderate,43.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 09:00 AM,2025,01,26,09,33.1,96,Moderate,37.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 10:00 AM,2025,01,26,10,38.9,109,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 11:00 AM,2025,01,26,11,37.3,105,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 12:00 PM,2025,01,26,12,32.5,95,Moderate,27.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 01:00 PM,2025,01,26,13,26.1,83,Moderate,19.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 02:00 PM,2025,01,26,14,87.9,174,Unhealthy,149.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 03:00 PM,2025,01,26,15,112.5,191,Unhealthy,137.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 04:00 PM,2025,01,26,16,82.8,170,Unhealthy,53.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 05:00 PM,2025,01,26,17,50.3,137,Unhealthy for Sensitive Groups,17.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 06:00 PM,2025,01,26,18,32.8,95,Moderate,15.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 07:00 PM,2025,01,26,19,32.8,95,Moderate,-12.7,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-26 08:00 PM,2025,01,26,20,70.7,162,Unhealthy,89.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-26 09:00 PM,2025,01,26,21,-999.0,-999,N/A,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-26 10:00 PM,2025,01,26,22,-999.0,-999,N/A,-14.3,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-26 11:00 PM,2025,01,26,23,-999.0,-999,N/A,17.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 12:00 AM,2025,01,27,00,20.4,72,Moderate,17.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 01:00 AM,2025,01,27,01,30.3,90,Moderate,38.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 02:00 AM,2025,01,27,02,16.5,65,Moderate,4.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 03:00 AM,2025,01,27,03,16.7,65,Moderate,16.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 04:00 AM,2025,01,27,04,15.8,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 05:00 AM,2025,01,27,05,15.4,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 06:00 AM,2025,01,27,06,16.1,64,Moderate,16.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 07:00 AM,2025,01,27,07,15.5,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 08:00 AM,2025,01,27,08,15.9,64,Moderate,16.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 09:00 AM,2025,01,27,09,27.9,86,Moderate,39.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 10:00 AM,2025,01,27,10,31.8,93,Moderate,35.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 11:00 AM,2025,01,27,11,28.4,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 12:00 PM,2025,01,27,12,26.7,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 01:00 PM,2025,01,27,13,28.0,86,Moderate,29.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 02:00 PM,2025,01,27,14,39.3,110,Unhealthy for Sensitive Groups,50.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 03:00 PM,2025,01,27,15,38.4,108,Unhealthy for Sensitive Groups,37.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 04:00 PM,2025,01,27,16,51.9,141,Unhealthy for Sensitive Groups,65.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 05:00 PM,2025,01,27,17,45.8,126,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 06:00 PM,2025,01,27,18,40.0,112,Unhealthy for Sensitive Groups,34.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 07:00 PM,2025,01,27,19,43.4,120,Unhealthy for Sensitive Groups,46.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 08:00 PM,2025,01,27,20,45.1,125,Unhealthy for Sensitive Groups,46.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 09:00 PM,2025,01,27,21,70.5,162,Unhealthy,95.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 10:00 PM,2025,01,27,22,148.9,224,Very Unhealthy,227.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-27 11:00 PM,2025,01,27,23,80.2,168,Unhealthy,11.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 12:00 AM,2025,01,28,00,60.8,155,Unhealthy,41.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 01:00 AM,2025,01,28,01,41.4,116,Unhealthy for Sensitive Groups,22.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 02:00 AM,2025,01,28,02,35.0,99,Moderate,28.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 03:00 AM,2025,01,28,03,26.9,84,Moderate,18.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 04:00 AM,2025,01,28,04,18.7,69,Moderate,10.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 05:00 AM,2025,01,28,05,28.3,87,Moderate,38.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 06:00 AM,2025,01,28,06,34.6,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 07:00 AM,2025,01,28,07,38.1,107,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 08:00 AM,2025,01,28,08,32.3,94,Moderate,26.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 09:00 AM,2025,01,28,09,41.4,116,Unhealthy for Sensitive Groups,50.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 10:00 AM,2025,01,28,10,36.6,104,Unhealthy for Sensitive Groups,31.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 11:00 AM,2025,01,28,11,55.4,150,Unhealthy for Sensitive Groups,74.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 12:00 PM,2025,01,28,12,49.5,135,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 01:00 PM,2025,01,28,13,39.7,111,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 02:00 PM,2025,01,28,14,39.7,111,Unhealthy for Sensitive Groups,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-28 03:00 PM,2025,01,28,15,-999.0,-999,N/A,-14.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-28 04:00 PM,2025,01,28,16,-999.0,-999,N/A,31.5,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 05:00 PM,2025,01,28,17,48.3,133,Unhealthy for Sensitive Groups,57.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 06:00 PM,2025,01,28,18,26.0,82,Moderate,7.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 07:00 PM,2025,01,28,19,16.6,65,Moderate,8.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 08:00 PM,2025,01,28,20,86.6,173,Unhealthy,153.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-28 09:00 PM,2025,01,28,21,86.6,173,Unhealthy,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-28 10:00 PM,2025,01,28,22,-999.0,-999,N/A,-14.6,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-28 11:00 PM,2025,01,28,23,-999.0,-999,N/A,4.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 12:00 AM,2025,01,29,00,21.4,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 01:00 AM,2025,01,29,01,21.7,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 02:00 AM,2025,01,29,02,21.8,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 03:00 AM,2025,01,29,03,22.8,77,Moderate,23.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 04:00 AM,2025,01,29,04,20.3,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 05:00 AM,2025,01,29,05,19.7,71,Moderate,19.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 06:00 AM,2025,01,29,06,21.9,75,Moderate,24.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 07:00 AM,2025,01,29,07,26.0,82,Moderate,30.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 08:00 AM,2025,01,29,08,31.1,92,Moderate,36.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 09:00 AM,2025,01,29,09,39.9,112,Unhealthy for Sensitive Groups,48.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 10:00 AM,2025,01,29,10,42.0,117,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 11:00 AM,2025,01,29,11,45.4,125,Unhealthy for Sensitive Groups,48.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 12:00 PM,2025,01,29,12,45.4,125,Unhealthy for Sensitive Groups,45.4,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 01:00 PM,2025,01,29,13,56.7,152,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 02:00 PM,2025,01,29,14,40.3,113,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 03:00 PM,2025,01,29,15,32.6,95,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 04:00 PM,2025,01,29,16,26.8,84,Moderate,21.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 05:00 PM,2025,01,29,17,26.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 06:00 PM,2025,01,29,18,26.8,84,Moderate,26.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 07:00 PM,2025,01,29,19,22.0,75,Moderate,17.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 08:00 PM,2025,01,29,20,28.4,87,Moderate,34.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 09:00 PM,2025,01,29,21,29.5,89,Moderate,30.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 10:00 PM,2025,01,29,22,24.3,79,Moderate,19.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-29 11:00 PM,2025,01,29,23,24.6,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 12:00 AM,2025,01,30,00,24.7,80,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 01:00 AM,2025,01,30,01,23.3,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 02:00 AM,2025,01,30,02,23.1,77,Moderate,22.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 03:00 AM,2025,01,30,03,22.5,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 04:00 AM,2025,01,30,04,22.1,75,Moderate,21.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 05:00 AM,2025,01,30,05,19.6,71,Moderate,17.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 06:00 AM,2025,01,30,06,20.8,73,Moderate,22.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 07:00 AM,2025,01,30,07,24.9,80,Moderate,29.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 08:00 AM,2025,01,30,08,30.5,91,Moderate,36.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 09:00 AM,2025,01,30,09,39.1,110,Unhealthy for Sensitive Groups,47.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 10:00 AM,2025,01,30,10,38.6,109,Unhealthy for Sensitive Groups,38.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 11:00 AM,2025,01,30,11,41.3,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 12:00 PM,2025,01,30,12,41.3,115,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Abidjan,PM2.5 - Principal,2025-01-30 02:00 PM,2025,01,30,14,-999.0,-999,N/A,42.7,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 03:00 PM,2025,01,30,15,36.0,102,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 04:00 PM,2025,01,30,16,35.2,100,Moderate,34.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 05:00 PM,2025,01,30,17,26.2,83,Moderate,18.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 06:00 PM,2025,01,30,18,25.5,82,Moderate,24.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 07:00 PM,2025,01,30,19,21.7,74,Moderate,18.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 08:00 PM,2025,01,30,20,23.7,78,Moderate,25.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 09:00 PM,2025,01,30,21,21.8,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 10:00 PM,2025,01,30,22,22.9,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-30 11:00 PM,2025,01,30,23,23.9,79,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 12:00 AM,2025,01,31,00,23.9,79,Moderate,23.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 01:00 AM,2025,01,31,01,22.9,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 02:00 AM,2025,01,31,02,22.9,77,Moderate,22.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 03:00 AM,2025,01,31,03,21.0,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 04:00 AM,2025,01,31,04,21.7,74,Moderate,21.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 05:00 AM,2025,01,31,05,21.2,74,Moderate,20.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 06:00 AM,2025,01,31,06,22.3,76,Moderate,24.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 07:00 AM,2025,01,31,07,22.5,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 08:00 AM,2025,01,31,08,24.0,79,Moderate,27.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 09:00 AM,2025,01,31,09,35.6,101,Unhealthy for Sensitive Groups,46.1,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 10:00 AM,2025,01,31,10,43.2,120,Unhealthy for Sensitive Groups,50.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 11:00 AM,2025,01,31,11,43.0,119,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 12:00 PM,2025,01,31,12,41.4,116,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 01:00 PM,2025,01,31,13,40.1,112,Unhealthy for Sensitive Groups,38.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 02:00 PM,2025,01,31,14,35.9,102,Unhealthy for Sensitive Groups,31.8,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 03:00 PM,2025,01,31,15,77.1,166,Unhealthy,118.3,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 04:00 PM,2025,01,31,16,126.8,202,Very Unhealthy,176.6,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 05:00 PM,2025,01,31,17,78.3,167,Unhealthy,29.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 06:00 PM,2025,01,31,18,52.6,143,Unhealthy for Sensitive Groups,26.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 07:00 PM,2025,01,31,19,39.2,110,Unhealthy for Sensitive Groups,25.9,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 08:00 PM,2025,01,31,20,30.7,91,Moderate,22.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-01-31 09:00 PM,2025,01,31,21,30.7,91,Moderate,-15.0,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-31 10:00 PM,2025,01,31,22,-999.0,-999,N/A,-14.3,UG/M3,1 Hr,Invalid
+Abidjan,PM2.5 - Principal,2025-01-31 11:00 PM,2025,01,31,23,-999.0,-999,N/A,17.2,UG/M3,1 Hr,Valid
+Abidjan,PM2.5 - Principal,2025-02-01 12:00 AM,2025,02,01,00,25.3,81,Moderate,28.8,UG/M3,1 Hr,Valid

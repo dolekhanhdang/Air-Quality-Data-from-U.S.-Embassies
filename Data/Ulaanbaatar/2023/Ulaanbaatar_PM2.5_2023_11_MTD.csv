@@ -1,0 +1,591 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 01:00 AM,2023,11,01,01,132.8,191,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 02:00 AM,2023,11,01,02,89.4,169,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 03:00 AM,2023,11,01,03,64.7,156,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 04:00 AM,2023,11,01,04,46.3,128,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 05:00 AM,2023,11,01,05,43.6,121,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 06:00 AM,2023,11,01,06,40.8,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 07:00 AM,2023,11,01,07,30.9,91,Moderate,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 08:00 AM,2023,11,01,08,24.4,77,Moderate,18.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 09:00 AM,2023,11,01,09,23.2,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 10:00 AM,2023,11,01,10,22.5,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 11:00 AM,2023,11,01,11,22.2,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 12:00 PM,2023,11,01,12,22.2,72,Moderate,-999.0,UG/M3,1 Hr,Missing
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 06:00 PM,2023,11,01,18,-999.0,-999,N/A,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 07:00 PM,2023,11,01,19,4.7,20,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 08:00 PM,2023,11,01,20,3.1,13,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 09:00 PM,2023,11,01,21,1.4,6,Good,0.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-01 10:00 PM,2023,11,01,22,1.4,6,Good,-999.0,UG/M3,1 Hr,Missing
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 11:00 AM,2023,11,06,11,-999.0,-999,N/A,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 12:00 PM,2023,11,06,12,3.0,13,Good,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 01:00 PM,2023,11,06,13,1.8,8,Good,1.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 02:00 PM,2023,11,06,14,1.4,6,Good,1.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 03:00 PM,2023,11,06,15,1.7,7,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 04:00 PM,2023,11,06,16,1.7,7,Good,985.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 05:00 PM,2023,11,06,17,7.2,30,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 06:00 PM,2023,11,06,18,8.2,34,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 07:00 PM,2023,11,06,19,26.2,81,Moderate,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 08:00 PM,2023,11,06,20,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 09:00 PM,2023,11,06,21,75.6,161,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 10:00 PM,2023,11,06,22,89.4,169,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-06 11:00 PM,2023,11,06,23,82.1,165,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-07 12:00 AM,2023,11,07,00,81.6,164,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-07 01:00 AM,2023,11,07,01,81.6,164,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Ulaanbaatar,PM2.5 - Principal,2023-11-07 07:00 PM,2023,11,07,19,-999.0,-999,N/A,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-07 08:00 PM,2023,11,07,20,20.1,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-07 09:00 PM,2023,11,07,21,15.1,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-07 10:00 PM,2023,11,07,22,16.1,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-07 11:00 PM,2023,11,07,23,17.0,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 12:00 AM,2023,11,08,00,36.3,103,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 01:00 AM,2023,11,08,01,75.9,162,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 02:00 AM,2023,11,08,02,57.4,152,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 03:00 AM,2023,11,08,03,34.6,98,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 04:00 AM,2023,11,08,04,23.3,75,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 05:00 AM,2023,11,08,05,14.1,55,Moderate,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 06:00 AM,2023,11,08,06,15.0,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 07:00 AM,2023,11,08,07,15.5,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 08:00 AM,2023,11,08,08,12.7,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 09:00 AM,2023,11,08,09,14.3,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 10:00 AM,2023,11,08,10,13.1,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 11:00 AM,2023,11,08,11,19.5,67,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 12:00 PM,2023,11,08,12,22.7,73,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 01:00 PM,2023,11,08,13,21.3,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 02:00 PM,2023,11,08,14,11.6,48,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 03:00 PM,2023,11,08,15,8.8,37,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 04:00 PM,2023,11,08,16,7.4,31,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 05:00 PM,2023,11,08,17,7.7,32,Good,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 06:00 PM,2023,11,08,18,8.8,37,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 07:00 PM,2023,11,08,19,15.4,58,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 08:00 PM,2023,11,08,20,20.7,69,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 09:00 PM,2023,11,08,21,16.8,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 10:00 PM,2023,11,08,22,16.9,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-08 11:00 PM,2023,11,08,23,20.4,68,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 12:00 AM,2023,11,09,00,21.2,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 01:00 AM,2023,11,09,01,19.1,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 02:00 AM,2023,11,09,02,16.0,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 03:00 AM,2023,11,09,03,14.5,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 04:00 AM,2023,11,09,04,12.2,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 05:00 AM,2023,11,09,05,13.1,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 06:00 AM,2023,11,09,06,11.5,48,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 07:00 AM,2023,11,09,07,12.7,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 08:00 AM,2023,11,09,08,58.4,152,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 09:00 AM,2023,11,09,09,103.2,176,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 10:00 AM,2023,11,09,10,157.1,208,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 11:00 AM,2023,11,09,11,92.5,170,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 12:00 PM,2023,11,09,12,62.7,155,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 01:00 PM,2023,11,09,13,44.8,124,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 02:00 PM,2023,11,09,14,29.4,87,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 03:00 PM,2023,11,09,15,21.2,70,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 04:00 PM,2023,11,09,16,16.1,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 05:00 PM,2023,11,09,17,13.5,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 06:00 PM,2023,11,09,18,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 07:00 PM,2023,11,09,19,18.3,64,Moderate,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 08:00 PM,2023,11,09,20,21.1,70,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 09:00 PM,2023,11,09,21,82.0,165,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 10:00 PM,2023,11,09,22,89.0,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-09 11:00 PM,2023,11,09,23,88.0,168,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 12:00 AM,2023,11,10,00,80.0,164,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 01:00 AM,2023,11,10,01,70.5,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 02:00 AM,2023,11,10,02,57.2,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 03:00 AM,2023,11,10,03,43.1,120,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 04:00 AM,2023,11,10,04,35.5,101,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 05:00 AM,2023,11,10,05,37.2,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 06:00 AM,2023,11,10,06,37.1,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 07:00 AM,2023,11,10,07,37.0,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 08:00 AM,2023,11,10,08,60.5,154,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 09:00 AM,2023,11,10,09,118.7,184,Unhealthy,177.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 10:00 AM,2023,11,10,10,204.9,255,Very Unhealthy,291.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 11:00 AM,2023,11,10,11,148.4,199,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 12:00 PM,2023,11,10,12,109.2,179,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 01:00 PM,2023,11,10,13,101.6,175,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 02:00 PM,2023,11,10,14,97.8,173,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 03:00 PM,2023,11,10,15,79.9,164,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 04:00 PM,2023,11,10,16,59.9,153,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 05:00 PM,2023,11,10,17,43.9,122,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 06:00 PM,2023,11,10,18,43.4,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 07:00 PM,2023,11,10,19,48.7,134,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 08:00 PM,2023,11,10,20,48.3,133,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 09:00 PM,2023,11,10,21,70.1,159,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 10:00 PM,2023,11,10,22,215.5,265,Very Unhealthy,361.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-10 11:00 PM,2023,11,10,23,230.3,280,Very Unhealthy,245.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 12:00 AM,2023,11,11,00,203.1,253,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 01:00 AM,2023,11,11,01,185.5,236,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 02:00 AM,2023,11,11,02,200.8,251,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 03:00 AM,2023,11,11,03,156.9,207,Very Unhealthy,113.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 04:00 AM,2023,11,11,04,119.4,184,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 05:00 AM,2023,11,11,05,81.7,165,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 06:00 AM,2023,11,11,06,60.3,153,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 07:00 AM,2023,11,11,07,52.6,143,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 08:00 AM,2023,11,11,08,66.8,157,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 09:00 AM,2023,11,11,09,106.9,178,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 10:00 AM,2023,11,11,10,116.9,183,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 11:00 AM,2023,11,11,11,80.4,164,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 12:00 PM,2023,11,11,12,58.2,152,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 01:00 PM,2023,11,11,13,42.0,117,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 02:00 PM,2023,11,11,14,32.0,93,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 03:00 PM,2023,11,11,15,23.9,76,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 04:00 PM,2023,11,11,16,19.4,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 05:00 PM,2023,11,11,17,17.2,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 06:00 PM,2023,11,11,18,18.6,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 07:00 PM,2023,11,11,19,21.8,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 08:00 PM,2023,11,11,20,22.8,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 09:00 PM,2023,11,11,21,24.4,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 10:00 PM,2023,11,11,22,22.2,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-11 11:00 PM,2023,11,11,23,23.5,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 12:00 AM,2023,11,12,00,30.2,89,Moderate,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 01:00 AM,2023,11,12,01,76.6,162,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 02:00 AM,2023,11,12,02,158.8,209,Very Unhealthy,241.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 03:00 AM,2023,11,12,03,209.4,259,Very Unhealthy,260.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 04:00 AM,2023,11,12,04,173.7,224,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 05:00 AM,2023,11,12,05,144.8,197,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 06:00 AM,2023,11,12,06,98.9,173,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 07:00 AM,2023,11,12,07,88.9,168,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 08:00 AM,2023,11,12,08,98.0,173,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 09:00 AM,2023,11,12,09,133.0,191,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 10:00 AM,2023,11,12,10,219.0,269,Very Unhealthy,305.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 11:00 AM,2023,11,12,11,171.0,221,Very Unhealthy,123.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 12:00 PM,2023,11,12,12,105.0,177,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 01:00 PM,2023,11,12,13,72.4,160,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 02:00 PM,2023,11,12,14,69.7,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 03:00 PM,2023,11,12,15,54.8,149,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 04:00 PM,2023,11,12,16,54.9,149,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 05:00 PM,2023,11,12,17,67.4,157,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 06:00 PM,2023,11,12,18,61.2,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 07:00 PM,2023,11,12,19,77.1,162,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 08:00 PM,2023,11,12,20,184.5,235,Very Unhealthy,292.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 09:00 PM,2023,11,12,21,214.2,264,Very Unhealthy,244.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 10:00 PM,2023,11,12,22,225.6,275,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-12 11:00 PM,2023,11,12,23,227.8,278,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 12:00 AM,2023,11,13,00,249.9,300,Very Unhealthy,272.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 01:00 AM,2023,11,13,01,239.9,290,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 02:00 AM,2023,11,13,02,227.5,277,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 03:00 AM,2023,11,13,03,203.2,253,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 04:00 AM,2023,11,13,04,166.1,216,Very Unhealthy,129.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 05:00 AM,2023,11,13,05,131.5,190,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 06:00 AM,2023,11,13,06,104.2,176,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 07:00 AM,2023,11,13,07,88.6,168,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 08:00 AM,2023,11,13,08,124.3,187,Unhealthy,160.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 09:00 AM,2023,11,13,09,189.1,239,Very Unhealthy,254.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 10:00 AM,2023,11,13,10,292.5,343,Hazardous,396.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 11:00 AM,2023,11,13,11,236.7,286,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 12:00 PM,2023,11,13,12,134.8,192,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 01:00 PM,2023,11,13,13,79.9,164,Unhealthy,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 02:00 PM,2023,11,13,14,55.9,151,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 03:00 PM,2023,11,13,15,46.4,128,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 04:00 PM,2023,11,13,16,40.7,114,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 05:00 PM,2023,11,13,17,46.3,128,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 06:00 PM,2023,11,13,18,40.1,112,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 07:00 PM,2023,11,13,19,45.0,124,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 08:00 PM,2023,11,13,20,126.5,188,Unhealthy,208.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 09:00 PM,2023,11,13,21,174.7,225,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 10:00 PM,2023,11,13,22,185.8,236,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-13 11:00 PM,2023,11,13,23,172.4,223,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 12:00 AM,2023,11,14,00,188.2,238,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 01:00 AM,2023,11,14,01,172.1,222,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 02:00 AM,2023,11,14,02,168.5,219,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 03:00 AM,2023,11,14,03,172.8,223,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 04:00 AM,2023,11,14,04,149.4,199,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 05:00 AM,2023,11,14,05,142.2,196,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 06:00 AM,2023,11,14,06,127.6,188,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 07:00 AM,2023,11,14,07,133.9,191,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 08:00 AM,2023,11,14,08,104.3,176,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 09:00 AM,2023,11,14,09,105.1,177,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 10:00 AM,2023,11,14,10,88.0,168,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 11:00 AM,2023,11,14,11,73.0,160,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 12:00 PM,2023,11,14,12,61.4,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 01:00 PM,2023,11,14,13,67.2,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 02:00 PM,2023,11,14,14,74.1,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 03:00 PM,2023,11,14,15,72.5,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 04:00 PM,2023,11,14,16,53.7,146,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 05:00 PM,2023,11,14,17,42.3,118,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 06:00 PM,2023,11,14,18,46.1,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 07:00 PM,2023,11,14,19,47.5,131,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 08:00 PM,2023,11,14,20,66.7,157,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 09:00 PM,2023,11,14,21,68.8,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 10:00 PM,2023,11,14,22,75.4,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-14 11:00 PM,2023,11,14,23,126.2,188,Unhealthy,177.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 12:00 AM,2023,11,15,00,171.1,221,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 01:00 AM,2023,11,15,01,134.0,192,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 02:00 AM,2023,11,15,02,99.0,173,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 03:00 AM,2023,11,15,03,63.5,155,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 04:00 AM,2023,11,15,04,46.2,127,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 05:00 AM,2023,11,15,05,39.1,110,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 06:00 AM,2023,11,15,06,34.5,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 07:00 AM,2023,11,15,07,29.2,87,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 08:00 AM,2023,11,15,08,23.1,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 09:00 AM,2023,11,15,09,21.0,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 10:00 AM,2023,11,15,10,20.0,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 11:00 AM,2023,11,15,11,17.4,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 12:00 PM,2023,11,15,12,17.7,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 01:00 PM,2023,11,15,13,11.3,47,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 02:00 PM,2023,11,15,14,7.6,32,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 03:00 PM,2023,11,15,15,8.3,35,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 04:00 PM,2023,11,15,16,8.1,34,Good,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 05:00 PM,2023,11,15,17,11.5,48,Good,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 06:00 PM,2023,11,15,18,14.2,55,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 07:00 PM,2023,11,15,19,21.6,71,Moderate,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 08:00 PM,2023,11,15,20,23.3,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 09:00 PM,2023,11,15,21,22.6,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 10:00 PM,2023,11,15,22,23.3,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-15 11:00 PM,2023,11,15,23,23.6,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 12:00 AM,2023,11,16,00,31.8,92,Moderate,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 01:00 AM,2023,11,16,01,53.4,145,Unhealthy for Sensitive Groups,75.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 02:00 AM,2023,11,16,02,33.2,95,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 03:00 AM,2023,11,16,03,23.6,75,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 04:00 AM,2023,11,16,04,16.8,61,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 05:00 AM,2023,11,16,05,22.4,73,Moderate,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 06:00 AM,2023,11,16,06,34.7,99,Moderate,47.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 07:00 AM,2023,11,16,07,54.3,147,Unhealthy for Sensitive Groups,74.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 08:00 AM,2023,11,16,08,79.1,163,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 09:00 AM,2023,11,16,09,144.1,197,Unhealthy,209.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 10:00 AM,2023,11,16,10,212.5,262,Very Unhealthy,281.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 11:00 AM,2023,11,16,11,120.2,184,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 12:00 PM,2023,11,16,12,73.6,160,Unhealthy,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 01:00 PM,2023,11,16,13,51.8,141,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 02:00 PM,2023,11,16,14,37.9,107,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 03:00 PM,2023,11,16,15,28.9,86,Moderate,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 04:00 PM,2023,11,16,16,22.9,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 05:00 PM,2023,11,16,17,16.9,61,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 06:00 PM,2023,11,16,18,13.4,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 07:00 PM,2023,11,16,19,12.2,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 08:00 PM,2023,11,16,20,36.1,102,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 09:00 PM,2023,11,16,21,59.5,153,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 10:00 PM,2023,11,16,22,69.2,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-16 11:00 PM,2023,11,16,23,93.1,170,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 12:00 AM,2023,11,17,00,106.5,177,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 01:00 AM,2023,11,17,01,92.7,170,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 02:00 AM,2023,11,17,02,95.4,172,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 03:00 AM,2023,11,17,03,79.7,163,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 04:00 AM,2023,11,17,04,62.3,155,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 05:00 AM,2023,11,17,05,49.1,134,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 06:00 AM,2023,11,17,06,47.5,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 07:00 AM,2023,11,17,07,44.8,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 08:00 AM,2023,11,17,08,76.9,162,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 09:00 AM,2023,11,17,09,145.9,198,Unhealthy,215.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 10:00 AM,2023,11,17,10,173.9,224,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 11:00 AM,2023,11,17,11,106.4,177,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 12:00 PM,2023,11,17,12,63.2,155,Unhealthy,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 01:00 PM,2023,11,17,13,41.6,116,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 02:00 PM,2023,11,17,14,31.2,91,Moderate,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 03:00 PM,2023,11,17,15,26.6,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 04:00 PM,2023,11,17,16,22.3,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 05:00 PM,2023,11,17,17,27.1,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 06:00 PM,2023,11,17,18,35.0,99,Moderate,43.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 07:00 PM,2023,11,17,19,53.5,145,Unhealthy for Sensitive Groups,72.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 08:00 PM,2023,11,17,20,192.2,242,Very Unhealthy,331.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 09:00 PM,2023,11,17,21,225.1,275,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 10:00 PM,2023,11,17,22,211.5,261,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-17 11:00 PM,2023,11,17,23,236.8,287,Very Unhealthy,262.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 12:00 AM,2023,11,18,00,241.4,291,Very Unhealthy,246.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 01:00 AM,2023,11,18,01,253.7,304,Hazardous,266.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 02:00 AM,2023,11,18,02,267.4,318,Hazardous,281.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 03:00 AM,2023,11,18,03,203.7,254,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 04:00 AM,2023,11,18,04,168.3,219,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 05:00 AM,2023,11,18,05,115.1,182,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 06:00 AM,2023,11,18,06,89.0,168,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 07:00 AM,2023,11,18,07,81.0,164,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 08:00 AM,2023,11,18,08,87.9,168,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 09:00 AM,2023,11,18,09,140.4,195,Unhealthy,193.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 10:00 AM,2023,11,18,10,139.2,194,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 11:00 AM,2023,11,18,11,142.6,196,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 12:00 PM,2023,11,18,12,127.7,188,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 01:00 PM,2023,11,18,13,123.3,186,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 02:00 PM,2023,11,18,14,104.1,176,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 03:00 PM,2023,11,18,15,75.0,161,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 04:00 PM,2023,11,18,16,54.5,148,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 05:00 PM,2023,11,18,17,45.2,125,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 06:00 PM,2023,11,18,18,44.1,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 07:00 PM,2023,11,18,19,91.0,169,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 08:00 PM,2023,11,18,20,183.0,233,Very Unhealthy,275.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 09:00 PM,2023,11,18,21,225.0,275,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 10:00 PM,2023,11,18,22,257.0,307,Hazardous,289.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-18 11:00 PM,2023,11,18,23,259.5,310,Hazardous,262.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 12:00 AM,2023,11,19,00,232.7,282,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 01:00 AM,2023,11,19,01,212.3,262,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 02:00 AM,2023,11,19,02,204.2,254,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 03:00 AM,2023,11,19,03,163.1,213,Very Unhealthy,122.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 04:00 AM,2023,11,19,04,131.5,190,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 05:00 AM,2023,11,19,05,127.2,188,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 06:00 AM,2023,11,19,06,96.6,172,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 07:00 AM,2023,11,19,07,75.8,161,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 08:00 AM,2023,11,19,08,90.3,169,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 09:00 AM,2023,11,19,09,110.6,179,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 10:00 AM,2023,11,19,10,170.3,221,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 11:00 AM,2023,11,19,11,103.6,176,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 12:00 PM,2023,11,19,12,66.2,157,Unhealthy,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 01:00 PM,2023,11,19,13,46.6,128,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 02:00 PM,2023,11,19,14,36.2,103,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 03:00 PM,2023,11,19,15,31.1,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 04:00 PM,2023,11,19,16,29.0,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 05:00 PM,2023,11,19,17,32.5,94,Moderate,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 06:00 PM,2023,11,19,18,34.2,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 07:00 PM,2023,11,19,19,34.1,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 08:00 PM,2023,11,19,20,111.5,180,Unhealthy,189.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 09:00 PM,2023,11,19,21,205.8,256,Very Unhealthy,300.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 10:00 PM,2023,11,19,22,396.4,431,Hazardous,587.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-19 11:00 PM,2023,11,19,23,478.2,485,Hazardous,560.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 12:00 AM,2023,11,20,00,421.1,448,Hazardous,364.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 01:00 AM,2023,11,20,01,427.6,452,Hazardous,434.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 02:00 AM,2023,11,20,02,369.3,413,Hazardous,311.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 03:00 AM,2023,11,20,03,274.1,324,Hazardous,179.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 04:00 AM,2023,11,20,04,221.1,271,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 05:00 AM,2023,11,20,05,181.0,231,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 06:00 AM,2023,11,20,06,163.5,214,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 07:00 AM,2023,11,20,07,138.7,194,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 08:00 AM,2023,11,20,08,147.3,198,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 09:00 AM,2023,11,20,09,195.1,245,Very Unhealthy,243.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 10:00 AM,2023,11,20,10,223.0,273,Very Unhealthy,251.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 11:00 AM,2023,11,20,11,148.9,199,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 12:00 PM,2023,11,20,12,132.9,191,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 01:00 PM,2023,11,20,13,117.9,183,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 02:00 PM,2023,11,20,14,81.9,165,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 03:00 PM,2023,11,20,15,75.9,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 04:00 PM,2023,11,20,16,92.4,170,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 05:00 PM,2023,11,20,17,77.2,162,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 06:00 PM,2023,11,20,18,70.1,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 07:00 PM,2023,11,20,19,69.0,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 08:00 PM,2023,11,20,20,67.5,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 09:00 PM,2023,11,20,21,62.2,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 10:00 PM,2023,11,20,22,50.5,138,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-20 11:00 PM,2023,11,20,23,36.2,103,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 12:00 AM,2023,11,21,00,26.6,81,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 01:00 AM,2023,11,21,01,28.3,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 02:00 AM,2023,11,21,02,28.1,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 03:00 AM,2023,11,21,03,18.0,63,Moderate,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 04:00 AM,2023,11,21,04,17.5,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 05:00 AM,2023,11,21,05,21.2,70,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 06:00 AM,2023,11,21,06,29.1,87,Moderate,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 07:00 AM,2023,11,21,07,29.5,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 08:00 AM,2023,11,21,08,42.7,119,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 09:00 AM,2023,11,21,09,31.3,91,Moderate,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 10:00 AM,2023,11,21,10,45.6,126,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 11:00 AM,2023,11,21,11,46.3,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 12:00 PM,2023,11,21,12,45.1,125,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 01:00 PM,2023,11,21,13,38.5,108,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 02:00 PM,2023,11,21,14,39.2,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 03:00 PM,2023,11,21,15,40.6,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 04:00 PM,2023,11,21,16,43.8,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 05:00 PM,2023,11,21,17,54.9,149,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 06:00 PM,2023,11,21,18,46.9,129,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 07:00 PM,2023,11,21,19,39.4,111,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 08:00 PM,2023,11,21,20,89.7,169,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 09:00 PM,2023,11,21,21,98.3,173,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 10:00 PM,2023,11,21,22,62.1,154,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-21 11:00 PM,2023,11,21,23,40.0,112,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 12:00 AM,2023,11,22,00,28.0,84,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 01:00 AM,2023,11,22,01,17.5,62,Moderate,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 02:00 AM,2023,11,22,02,11.2,47,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 03:00 AM,2023,11,22,03,7.1,30,Good,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 04:00 AM,2023,11,22,04,4.5,19,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 05:00 AM,2023,11,22,05,3.7,15,Good,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 06:00 AM,2023,11,22,06,3.3,14,Good,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 07:00 AM,2023,11,22,07,2.6,11,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 08:00 AM,2023,11,22,08,4.3,18,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 09:00 AM,2023,11,22,09,6.1,25,Good,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 10:00 AM,2023,11,22,10,8.0,33,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 11:00 AM,2023,11,22,11,8.5,35,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 12:00 PM,2023,11,22,12,7.7,32,Good,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 01:00 PM,2023,11,22,13,6.8,28,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 02:00 PM,2023,11,22,14,8.4,35,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 03:00 PM,2023,11,22,15,7.7,32,Good,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 04:00 PM,2023,11,22,16,6.8,28,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 05:00 PM,2023,11,22,17,7.9,33,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 06:00 PM,2023,11,22,18,8.4,35,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 07:00 PM,2023,11,22,19,11.7,49,Good,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 08:00 PM,2023,11,22,20,14.3,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 09:00 PM,2023,11,22,21,13.6,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 10:00 PM,2023,11,22,22,12.8,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-22 11:00 PM,2023,11,22,23,10.4,43,Good,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 12:00 AM,2023,11,23,00,69.7,158,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 01:00 AM,2023,11,23,01,108.3,178,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 02:00 AM,2023,11,23,02,92.6,170,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 03:00 AM,2023,11,23,03,69.8,158,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 04:00 AM,2023,11,23,04,52.9,144,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 05:00 AM,2023,11,23,05,40.9,114,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 06:00 AM,2023,11,23,06,36.9,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 07:00 AM,2023,11,23,07,34.9,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 08:00 AM,2023,11,23,08,58.0,152,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 09:00 AM,2023,11,23,09,93.5,171,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 10:00 AM,2023,11,23,10,137.7,193,Unhealthy,182.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 11:00 AM,2023,11,23,11,154.4,205,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 12:00 PM,2023,11,23,12,99.1,174,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 01:00 PM,2023,11,23,13,71.0,159,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 02:00 PM,2023,11,23,14,50.0,137,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 03:00 PM,2023,11,23,15,42.5,118,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 04:00 PM,2023,11,23,16,35.2,100,Moderate,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 05:00 PM,2023,11,23,17,35.6,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 06:00 PM,2023,11,23,18,38.3,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 07:00 PM,2023,11,23,19,68.6,158,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 08:00 PM,2023,11,23,20,89.8,169,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 09:00 PM,2023,11,23,21,100.4,174,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 10:00 PM,2023,11,23,22,103.6,176,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-23 11:00 PM,2023,11,23,23,102.3,175,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 12:00 AM,2023,11,24,00,102.6,175,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 01:00 AM,2023,11,24,01,106.3,177,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 02:00 AM,2023,11,24,02,96.6,172,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 03:00 AM,2023,11,24,03,85.3,166,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 04:00 AM,2023,11,24,04,73.6,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 05:00 AM,2023,11,24,05,57.8,152,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 06:00 AM,2023,11,24,06,51.4,140,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 07:00 AM,2023,11,24,07,65.7,156,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 08:00 AM,2023,11,24,08,110.3,179,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 09:00 AM,2023,11,24,09,147.6,199,Unhealthy,185.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 10:00 AM,2023,11,24,10,179.8,230,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 11:00 AM,2023,11,24,11,104.9,177,Unhealthy,30.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 12:00 PM,2023,11,24,12,65.9,156,Unhealthy,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 01:00 PM,2023,11,24,13,46.9,129,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 02:00 PM,2023,11,24,14,35.4,100,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 03:00 PM,2023,11,24,15,28.2,85,Moderate,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 04:00 PM,2023,11,24,16,25.1,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 05:00 PM,2023,11,24,17,24.0,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 06:00 PM,2023,11,24,18,24.5,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 07:00 PM,2023,11,24,19,25.7,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 08:00 PM,2023,11,24,20,24.8,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 09:00 PM,2023,11,24,21,28.9,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 10:00 PM,2023,11,24,22,33.3,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-24 11:00 PM,2023,11,24,23,26.4,81,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 12:00 AM,2023,11,25,00,19.7,67,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 01:00 AM,2023,11,25,01,14.8,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 02:00 AM,2023,11,25,02,11.9,50,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 03:00 AM,2023,11,25,03,8.9,37,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 04:00 AM,2023,11,25,04,6.9,29,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 05:00 AM,2023,11,25,05,6.4,27,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 06:00 AM,2023,11,25,06,6.2,26,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 07:00 AM,2023,11,25,07,5.1,21,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 08:00 AM,2023,11,25,08,7.0,29,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 09:00 AM,2023,11,25,09,8.5,35,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 10:00 AM,2023,11,25,10,26.2,81,Moderate,44.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 11:00 AM,2023,11,25,11,24.6,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 12:00 PM,2023,11,25,12,20.3,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 01:00 PM,2023,11,25,13,19.6,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 02:00 PM,2023,11,25,14,14.8,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 03:00 PM,2023,11,25,15,11.4,48,Good,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 04:00 PM,2023,11,25,16,10.2,43,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 05:00 PM,2023,11,25,17,12.6,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 06:00 PM,2023,11,25,18,23.8,76,Moderate,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 07:00 PM,2023,11,25,19,67.4,157,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 08:00 PM,2023,11,25,20,126.7,188,Unhealthy,186.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 09:00 PM,2023,11,25,21,153.3,204,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 10:00 PM,2023,11,25,22,163.7,214,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-25 11:00 PM,2023,11,25,23,155.8,206,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 12:00 AM,2023,11,26,00,160.4,211,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 01:00 AM,2023,11,26,01,96.7,172,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 02:00 AM,2023,11,26,02,63.3,155,Unhealthy,30.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 03:00 AM,2023,11,26,03,43.1,120,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 04:00 AM,2023,11,26,04,34.0,97,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 05:00 AM,2023,11,26,05,59.5,153,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 06:00 AM,2023,11,26,06,39.2,110,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 07:00 AM,2023,11,26,07,30.1,89,Moderate,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 08:00 AM,2023,11,26,08,29.5,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 09:00 AM,2023,11,26,09,31.2,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 10:00 AM,2023,11,26,10,172.6,223,Very Unhealthy,314.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 11:00 AM,2023,11,26,11,231.3,281,Very Unhealthy,290.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 12:00 PM,2023,11,26,12,178.1,228,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 01:00 PM,2023,11,26,13,131.0,190,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 02:00 PM,2023,11,26,14,88.0,168,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 03:00 PM,2023,11,26,15,62.5,155,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 04:00 PM,2023,11,26,16,41.2,115,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 05:00 PM,2023,11,26,17,29.6,88,Moderate,18.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 06:00 PM,2023,11,26,18,25.3,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 07:00 PM,2023,11,26,19,33.6,96,Moderate,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 08:00 PM,2023,11,26,20,28.8,86,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 09:00 PM,2023,11,26,21,33.9,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 10:00 PM,2023,11,26,22,31.4,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-26 11:00 PM,2023,11,26,23,23.6,75,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 12:00 AM,2023,11,27,00,14.8,57,Moderate,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 01:00 AM,2023,11,27,01,9.4,39,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 02:00 AM,2023,11,27,02,6.6,28,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 03:00 AM,2023,11,27,03,4.8,20,Good,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 04:00 AM,2023,11,27,04,4.9,20,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 05:00 AM,2023,11,27,05,4.4,18,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 06:00 AM,2023,11,27,06,3.2,13,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 07:00 AM,2023,11,27,07,4.1,17,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 08:00 AM,2023,11,27,08,16.5,60,Moderate,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 09:00 AM,2023,11,27,09,28.7,86,Moderate,41.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 10:00 AM,2023,11,27,10,35.3,100,Moderate,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 11:00 AM,2023,11,27,11,37.1,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 12:00 PM,2023,11,27,12,28.6,86,Moderate,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 01:00 PM,2023,11,27,13,18.8,65,Moderate,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 02:00 PM,2023,11,27,14,12.9,53,Moderate,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 03:00 PM,2023,11,27,15,9.9,41,Good,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 04:00 PM,2023,11,27,16,14.4,56,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 05:00 PM,2023,11,27,17,20.7,69,Moderate,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 06:00 PM,2023,11,27,18,25.8,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 07:00 PM,2023,11,27,19,35.9,102,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 08:00 PM,2023,11,27,20,51.4,140,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 09:00 PM,2023,11,27,21,95.2,171,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 10:00 PM,2023,11,27,22,123.6,186,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-27 11:00 PM,2023,11,27,23,92.8,170,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 12:00 AM,2023,11,28,00,83.9,166,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 01:00 AM,2023,11,28,01,72.9,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 02:00 AM,2023,11,28,02,67.4,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 03:00 AM,2023,11,28,03,76.7,162,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 04:00 AM,2023,11,28,04,92.8,170,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 05:00 AM,2023,11,28,05,60.4,154,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 06:00 AM,2023,11,28,06,36.2,103,Unhealthy for Sensitive Groups,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 07:00 AM,2023,11,28,07,34.6,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 08:00 AM,2023,11,28,08,42.8,119,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 09:00 AM,2023,11,28,09,28.8,86,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 10:00 AM,2023,11,28,10,29.9,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 11:00 AM,2023,11,28,11,22.4,73,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 12:00 PM,2023,11,28,12,17.2,62,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 01:00 PM,2023,11,28,13,13.1,53,Moderate,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 02:00 PM,2023,11,28,14,11.0,46,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 03:00 PM,2023,11,28,15,9.5,40,Good,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 04:00 PM,2023,11,28,16,7.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 05:00 PM,2023,11,28,17,7.8,33,Good,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 06:00 PM,2023,11,28,18,11.9,50,Good,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 07:00 PM,2023,11,28,19,13.9,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 08:00 PM,2023,11,28,20,14.4,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 09:00 PM,2023,11,28,21,12.7,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 10:00 PM,2023,11,28,22,13.8,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-28 11:00 PM,2023,11,28,23,20.9,70,Moderate,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 12:00 AM,2023,11,29,00,22.9,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 01:00 AM,2023,11,29,01,24.4,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 02:00 AM,2023,11,29,02,19.2,66,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 03:00 AM,2023,11,29,03,17.6,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 04:00 AM,2023,11,29,04,12.3,51,Moderate,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 05:00 AM,2023,11,29,05,9.6,40,Good,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 06:00 AM,2023,11,29,06,10.8,45,Good,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 07:00 AM,2023,11,29,07,14.9,57,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 08:00 AM,2023,11,29,08,14.4,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 09:00 AM,2023,11,29,09,17.7,63,Moderate,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 10:00 AM,2023,11,29,10,18.3,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 11:00 AM,2023,11,29,11,21.1,70,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 12:00 PM,2023,11,29,12,16.0,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 01:00 PM,2023,11,29,13,13.5,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 02:00 PM,2023,11,29,14,9.7,40,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 03:00 PM,2023,11,29,15,6.8,28,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 04:00 PM,2023,11,29,16,8.9,37,Good,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 05:00 PM,2023,11,29,17,12.4,52,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 06:00 PM,2023,11,29,18,24.2,76,Moderate,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 07:00 PM,2023,11,29,19,56.1,151,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 08:00 PM,2023,11,29,20,66.5,157,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 09:00 PM,2023,11,29,21,83.2,165,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 10:00 PM,2023,11,29,22,101.6,175,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-29 11:00 PM,2023,11,29,23,159.8,210,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 12:00 AM,2023,11,30,00,231.9,282,Very Unhealthy,304.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 01:00 AM,2023,11,30,01,324.0,374,Hazardous,416.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 02:00 AM,2023,11,30,02,348.5,398,Hazardous,373.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 03:00 AM,2023,11,30,03,292.8,343,Hazardous,237.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 04:00 AM,2023,11,30,04,237.4,287,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 05:00 AM,2023,11,30,05,177.2,227,Very Unhealthy,117.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 06:00 AM,2023,11,30,06,101.6,175,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 07:00 AM,2023,11,30,07,70.7,159,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 08:00 AM,2023,11,30,08,85.9,167,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 09:00 AM,2023,11,30,09,98.9,173,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 10:00 AM,2023,11,30,10,138.4,194,Unhealthy,178.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 11:00 AM,2023,11,30,11,154.2,205,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 12:00 PM,2023,11,30,12,98.0,173,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 01:00 PM,2023,11,30,13,63.4,155,Unhealthy,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 02:00 PM,2023,11,30,14,40.7,114,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 03:00 PM,2023,11,30,15,34.8,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 04:00 PM,2023,11,30,16,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 05:00 PM,2023,11,30,17,33.9,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 06:00 PM,2023,11,30,18,35.9,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 07:00 PM,2023,11,30,19,47.9,132,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 08:00 PM,2023,11,30,20,106.0,177,Unhealthy,164.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 09:00 PM,2023,11,30,21,116.0,182,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 10:00 PM,2023,11,30,22,204.5,255,Very Unhealthy,293.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-11-30 11:00 PM,2023,11,30,23,218.2,268,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2023-12-01 12:00 AM,2023,12,01,00,221.1,271,Very Unhealthy,224.0,UG/M3,1 Hr,Valid

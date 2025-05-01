@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kampala,PM2.5 - Principal,2017-12-01 01:00 AM,2017,12,01,01,37.3,105,Unhealthy for Sensitive Groups,21.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 02:00 AM,2017,12,01,02,35.6,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 03:00 AM,2017,12,01,03,30.3,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 04:00 AM,2017,12,01,04,32.1,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 05:00 AM,2017,12,01,05,31.0,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 06:00 AM,2017,12,01,06,33.5,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 07:00 AM,2017,12,01,07,40.7,114,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 08:00 AM,2017,12,01,08,57.8,152,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 09:00 AM,2017,12,01,09,64.9,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 10:00 AM,2017,12,01,10,52.9,144,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 11:00 AM,2017,12,01,11,36.9,104,Unhealthy for Sensitive Groups,21.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 12:00 PM,2017,12,01,12,27.9,84,Moderate,19.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 01:00 PM,2017,12,01,13,22.9,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 02:00 PM,2017,12,01,14,22.9,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 03:00 PM,2017,12,01,15,22.9,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 04:00 PM,2017,12,01,16,20.4,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 05:00 PM,2017,12,01,17,22.2,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 06:00 PM,2017,12,01,18,27.1,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 07:00 PM,2017,12,01,19,30.0,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 08:00 PM,2017,12,01,20,100.5,174,Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 09:00 PM,2017,12,01,21,106.2,177,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 10:00 PM,2017,12,01,22,91.1,169,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-01 11:00 PM,2017,12,01,23,81.0,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 12:00 AM,2017,12,02,00,76.5,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 01:00 AM,2017,12,02,01,60.2,153,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 02:00 AM,2017,12,02,02,55.6,151,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 03:00 AM,2017,12,02,03,57.3,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 04:00 AM,2017,12,02,04,58.6,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 05:00 AM,2017,12,02,05,60.3,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 06:00 AM,2017,12,02,06,62.6,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 07:00 AM,2017,12,02,07,68.3,158,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 08:00 AM,2017,12,02,08,91.1,169,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 09:00 AM,2017,12,02,09,85.0,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 10:00 AM,2017,12,02,10,80.0,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 11:00 AM,2017,12,02,11,62.0,154,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 12:00 PM,2017,12,02,12,54.5,148,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 01:00 PM,2017,12,02,13,46.7,129,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 02:00 PM,2017,12,02,14,36.3,103,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 03:00 PM,2017,12,02,15,33.6,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 04:00 PM,2017,12,02,16,33.8,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 05:00 PM,2017,12,02,17,31.9,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 06:00 PM,2017,12,02,18,39.9,112,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 07:00 PM,2017,12,02,19,45.4,125,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 08:00 PM,2017,12,02,20,77.7,162,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 09:00 PM,2017,12,02,21,106.3,177,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 10:00 PM,2017,12,02,22,112.1,180,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-02 11:00 PM,2017,12,02,23,133.6,191,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 12:00 AM,2017,12,03,00,124.3,187,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 01:00 AM,2017,12,03,01,116.6,183,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 02:00 AM,2017,12,03,02,97.3,173,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 03:00 AM,2017,12,03,03,93.6,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 04:00 AM,2017,12,03,04,77.8,163,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 05:00 AM,2017,12,03,05,93.4,171,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 06:00 AM,2017,12,03,06,123.2,186,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 07:00 AM,2017,12,03,07,114.1,181,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 08:00 AM,2017,12,03,08,110.0,179,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 09:00 AM,2017,12,03,09,98.5,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 10:00 AM,2017,12,03,10,84.7,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 11:00 AM,2017,12,03,11,63.3,155,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 12:00 PM,2017,12,03,12,45.1,125,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 01:00 PM,2017,12,03,13,40.0,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 02:00 PM,2017,12,03,14,37.5,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 03:00 PM,2017,12,03,15,36.7,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 04:00 PM,2017,12,03,16,36.3,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 05:00 PM,2017,12,03,17,37.1,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 06:00 PM,2017,12,03,18,33.5,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 07:00 PM,2017,12,03,19,36.2,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 08:00 PM,2017,12,03,20,42.1,117,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 09:00 PM,2017,12,03,21,49.0,134,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 10:00 PM,2017,12,03,22,49.5,135,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-03 11:00 PM,2017,12,03,23,46.7,129,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 12:00 AM,2017,12,04,00,44.0,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 01:00 AM,2017,12,04,01,35.9,102,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 02:00 AM,2017,12,04,02,36.4,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 03:00 AM,2017,12,04,03,36.2,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 04:00 AM,2017,12,04,04,42.1,117,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 05:00 AM,2017,12,04,05,56.0,151,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 06:00 AM,2017,12,04,06,57.5,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 07:00 AM,2017,12,04,07,68.2,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 08:00 AM,2017,12,04,08,82.6,165,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 09:00 AM,2017,12,04,09,85.8,167,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 10:00 AM,2017,12,04,10,92.4,170,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 11:00 AM,2017,12,04,11,74.7,161,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 12:00 PM,2017,12,04,12,71.8,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 01:00 PM,2017,12,04,13,67.9,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 02:00 PM,2017,12,04,14,60.4,154,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 03:00 PM,2017,12,04,15,50.7,138,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 04:00 PM,2017,12,04,16,42.8,119,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 05:00 PM,2017,12,04,17,36.4,103,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 06:00 PM,2017,12,04,18,33.7,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 07:00 PM,2017,12,04,19,41.8,117,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 08:00 PM,2017,12,04,20,65.9,156,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 09:00 PM,2017,12,04,21,75.4,161,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 10:00 PM,2017,12,04,22,78.7,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-04 11:00 PM,2017,12,04,23,68.3,158,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 12:00 AM,2017,12,05,00,65.1,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 01:00 AM,2017,12,05,01,72.5,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 02:00 AM,2017,12,05,02,65.2,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 03:00 AM,2017,12,05,03,56.6,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 04:00 AM,2017,12,05,04,52.8,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 05:00 AM,2017,12,05,05,52.4,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 06:00 AM,2017,12,05,06,56.6,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 07:00 AM,2017,12,05,07,61.9,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 08:00 AM,2017,12,05,08,90.1,169,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 09:00 AM,2017,12,05,09,83.0,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 10:00 AM,2017,12,05,10,79.5,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 11:00 AM,2017,12,05,11,63.7,155,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 12:00 PM,2017,12,05,12,50.3,137,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 01:00 PM,2017,12,05,13,41.6,116,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 02:00 PM,2017,12,05,14,34.8,99,Moderate,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 03:00 PM,2017,12,05,15,29.9,88,Moderate,25.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 04:00 PM,2017,12,05,16,29.9,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 05:00 PM,2017,12,05,17,28.9,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 06:00 PM,2017,12,05,18,31.4,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 07:00 PM,2017,12,05,19,41.7,116,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 08:00 PM,2017,12,05,20,51.8,141,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 09:00 PM,2017,12,05,21,64.9,156,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 10:00 PM,2017,12,05,22,63.9,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-05 11:00 PM,2017,12,05,23,70.4,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 12:00 AM,2017,12,06,00,58.2,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 01:00 AM,2017,12,06,01,47.1,130,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 02:00 AM,2017,12,06,02,48.0,132,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 03:00 AM,2017,12,06,03,62.0,154,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 04:00 AM,2017,12,06,04,59.5,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 05:00 AM,2017,12,06,05,67.7,157,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 06:00 AM,2017,12,06,06,75.8,161,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 07:00 AM,2017,12,06,07,70.9,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 08:00 AM,2017,12,06,08,77.4,162,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 09:00 AM,2017,12,06,09,90.7,169,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 10:00 AM,2017,12,06,10,92.8,170,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 11:00 AM,2017,12,06,11,74.4,161,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 12:00 PM,2017,12,06,12,54.2,147,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 01:00 PM,2017,12,06,13,41.1,115,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 02:00 PM,2017,12,06,14,35.5,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 03:00 PM,2017,12,06,15,31.7,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 04:00 PM,2017,12,06,16,32.3,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 05:00 PM,2017,12,06,17,35.6,101,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 06:00 PM,2017,12,06,18,34.8,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 07:00 PM,2017,12,06,19,55.9,151,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 08:00 PM,2017,12,06,20,71.9,159,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 09:00 PM,2017,12,06,21,70.4,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 10:00 PM,2017,12,06,22,65.7,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-06 11:00 PM,2017,12,06,23,50.8,139,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 12:00 AM,2017,12,07,00,41.4,116,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 01:00 AM,2017,12,07,01,36.2,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 02:00 AM,2017,12,07,02,32.6,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 03:00 AM,2017,12,07,03,29.8,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 04:00 AM,2017,12,07,04,25.4,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 05:00 AM,2017,12,07,05,31.2,91,Moderate,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 06:00 AM,2017,12,07,06,29.0,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 07:00 AM,2017,12,07,07,39.5,111,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 08:00 AM,2017,12,07,08,43.2,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 09:00 AM,2017,12,07,09,49.1,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 10:00 AM,2017,12,07,10,41.5,116,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 11:00 AM,2017,12,07,11,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 12:00 PM,2017,12,07,12,33.8,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 01:00 PM,2017,12,07,13,32.4,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 02:00 PM,2017,12,07,14,36.7,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 03:00 PM,2017,12,07,15,39.8,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 04:00 PM,2017,12,07,16,42.4,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 05:00 PM,2017,12,07,17,37.2,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 06:00 PM,2017,12,07,18,34.0,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 07:00 PM,2017,12,07,19,42.2,117,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 08:00 PM,2017,12,07,20,60.4,154,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 09:00 PM,2017,12,07,21,74.7,161,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 10:00 PM,2017,12,07,22,75.8,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-07 11:00 PM,2017,12,07,23,68.4,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 12:00 AM,2017,12,08,00,72.7,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 01:00 AM,2017,12,08,01,62.8,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 02:00 AM,2017,12,08,02,51.4,140,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 03:00 AM,2017,12,08,03,47.7,131,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 04:00 AM,2017,12,08,04,55.3,150,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 05:00 AM,2017,12,08,05,53.1,144,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 06:00 AM,2017,12,08,06,54.0,147,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 07:00 AM,2017,12,08,07,71.0,159,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 08:00 AM,2017,12,08,08,101.0,174,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 09:00 AM,2017,12,08,09,109.0,179,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 10:00 AM,2017,12,08,10,118.5,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 11:00 AM,2017,12,08,11,103.7,176,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 12:00 PM,2017,12,08,12,89.3,168,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 01:00 PM,2017,12,08,13,69.6,158,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 02:00 PM,2017,12,08,14,53.8,146,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 03:00 PM,2017,12,08,15,45.9,127,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 04:00 PM,2017,12,08,16,38.4,108,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 05:00 PM,2017,12,08,17,37.2,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 06:00 PM,2017,12,08,18,37.6,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 07:00 PM,2017,12,08,19,42.3,118,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 08:00 PM,2017,12,08,20,54.1,147,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 09:00 PM,2017,12,08,21,53.5,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 10:00 PM,2017,12,08,22,55.2,150,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-08 11:00 PM,2017,12,08,23,57.6,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 12:00 AM,2017,12,09,00,52.3,142,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 01:00 AM,2017,12,09,01,48.1,132,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 02:00 AM,2017,12,09,02,40.5,113,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 03:00 AM,2017,12,09,03,46.7,129,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 04:00 AM,2017,12,09,04,51.3,140,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 05:00 AM,2017,12,09,05,47.2,130,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 06:00 AM,2017,12,09,06,44.1,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 07:00 AM,2017,12,09,07,31.0,91,Moderate,18.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 08:00 AM,2017,12,09,08,33.0,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 09:00 AM,2017,12,09,09,38.5,108,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 10:00 AM,2017,12,09,10,31.2,91,Moderate,24.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 11:00 AM,2017,12,09,11,30.1,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 12:00 PM,2017,12,09,12,30.5,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 01:00 PM,2017,12,09,13,39.2,110,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 02:00 PM,2017,12,09,14,38.1,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 03:00 PM,2017,12,09,15,33.5,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 04:00 PM,2017,12,09,16,33.7,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 05:00 PM,2017,12,09,17,32.3,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 06:00 PM,2017,12,09,18,32.6,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 07:00 PM,2017,12,09,19,43.8,121,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 08:00 PM,2017,12,09,20,100.4,174,Unhealthy,157.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 09:00 PM,2017,12,09,21,110.7,180,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 10:00 PM,2017,12,09,22,133.3,191,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-09 11:00 PM,2017,12,09,23,123.2,186,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 12:00 AM,2017,12,10,00,100.1,174,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 01:00 AM,2017,12,10,01,85.5,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 02:00 AM,2017,12,10,02,98.7,173,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 03:00 AM,2017,12,10,03,113.9,181,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 04:00 AM,2017,12,10,04,121.9,185,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 05:00 AM,2017,12,10,05,115.4,182,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 06:00 AM,2017,12,10,06,101.7,175,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 07:00 AM,2017,12,10,07,91.8,170,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 08:00 AM,2017,12,10,08,88.4,168,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 09:00 AM,2017,12,10,09,91.2,169,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 10:00 AM,2017,12,10,10,84.9,166,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 11:00 AM,2017,12,10,11,80.8,164,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 12:00 PM,2017,12,10,12,78.2,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 01:00 PM,2017,12,10,13,73.7,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 02:00 PM,2017,12,10,14,71.5,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 03:00 PM,2017,12,10,15,65.0,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 04:00 PM,2017,12,10,16,56.0,151,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 05:00 PM,2017,12,10,17,51.0,139,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 06:00 PM,2017,12,10,18,47.9,132,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 07:00 PM,2017,12,10,19,59.4,153,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 08:00 PM,2017,12,10,20,74.7,161,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 09:00 PM,2017,12,10,21,138.8,194,Unhealthy,203.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 10:00 PM,2017,12,10,22,150.9,201,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-10 11:00 PM,2017,12,10,23,176.9,227,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 12:00 AM,2017,12,11,00,202.5,253,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 01:00 AM,2017,12,11,01,190.7,241,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 02:00 AM,2017,12,11,02,162.8,213,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 03:00 AM,2017,12,11,03,144.4,197,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 04:00 AM,2017,12,11,04,158.7,209,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 05:00 AM,2017,12,11,05,124.3,187,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 06:00 AM,2017,12,11,06,105.1,177,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 07:00 AM,2017,12,11,07,109.6,179,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 08:00 AM,2017,12,11,08,131.3,190,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 09:00 AM,2017,12,11,09,120.1,184,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 10:00 AM,2017,12,11,10,97.0,172,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 11:00 AM,2017,12,11,11,80.5,164,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 12:00 PM,2017,12,11,12,73.7,160,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 01:00 PM,2017,12,11,13,68.3,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 02:00 PM,2017,12,11,14,61.6,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 03:00 PM,2017,12,11,15,55.8,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 04:00 PM,2017,12,11,16,47.8,131,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 05:00 PM,2017,12,11,17,46.4,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 06:00 PM,2017,12,11,18,48.7,134,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 07:00 PM,2017,12,11,19,55.3,150,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 08:00 PM,2017,12,11,20,70.6,159,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 09:00 PM,2017,12,11,21,71.8,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 10:00 PM,2017,12,11,22,93.4,171,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-11 11:00 PM,2017,12,11,23,94.2,171,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 12:00 AM,2017,12,12,00,87.1,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 01:00 AM,2017,12,12,01,118.0,183,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 02:00 AM,2017,12,12,02,118.0,183,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 03:00 AM,2017,12,12,03,140.5,195,Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 04:00 AM,2017,12,12,04,134.7,192,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 05:00 AM,2017,12,12,05,128.3,189,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 06:00 AM,2017,12,12,06,117.7,183,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 07:00 AM,2017,12,12,07,128.8,189,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 08:00 AM,2017,12,12,08,129.4,189,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 09:00 AM,2017,12,12,09,179.7,230,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 10:00 AM,2017,12,12,10,141.3,195,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 11:00 AM,2017,12,12,11,93.1,170,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 12:00 PM,2017,12,12,12,65.5,156,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 01:00 PM,2017,12,12,13,47.2,130,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 02:00 PM,2017,12,12,14,42.1,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 03:00 PM,2017,12,12,15,41.5,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 04:00 PM,2017,12,12,16,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 05:00 PM,2017,12,12,17,33.8,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 06:00 PM,2017,12,12,18,33.9,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 07:00 PM,2017,12,12,19,39.9,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 08:00 PM,2017,12,12,20,51.9,141,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 09:00 PM,2017,12,12,21,68.4,158,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 10:00 PM,2017,12,12,22,89.7,169,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-12 11:00 PM,2017,12,12,23,78.3,163,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 12:00 AM,2017,12,13,00,76.1,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 01:00 AM,2017,12,13,01,84.1,166,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 02:00 AM,2017,12,13,02,100.0,174,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 03:00 AM,2017,12,13,03,97.5,173,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 04:00 AM,2017,12,13,04,94.2,171,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 05:00 AM,2017,12,13,05,90.1,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 06:00 AM,2017,12,13,06,88.0,168,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 07:00 AM,2017,12,13,07,94.5,171,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 08:00 AM,2017,12,13,08,122.0,185,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 09:00 AM,2017,12,13,09,118.5,184,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 10:00 AM,2017,12,13,10,97.7,173,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 11:00 AM,2017,12,13,11,82.8,165,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 12:00 PM,2017,12,13,12,60.4,154,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 01:00 PM,2017,12,13,13,47.2,130,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 02:00 PM,2017,12,13,14,41.0,115,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 03:00 PM,2017,12,13,15,38.0,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 04:00 PM,2017,12,13,16,37.5,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 05:00 PM,2017,12,13,17,41.2,115,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 06:00 PM,2017,12,13,18,47.1,130,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 07:00 PM,2017,12,13,19,53.0,144,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 08:00 PM,2017,12,13,20,70.0,158,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 09:00 PM,2017,12,13,21,79.5,163,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 10:00 PM,2017,12,13,22,75.7,161,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-13 11:00 PM,2017,12,13,23,99.3,174,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 12:00 AM,2017,12,14,00,127.2,188,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 01:00 AM,2017,12,14,01,122.6,186,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 02:00 AM,2017,12,14,02,111.3,180,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 03:00 AM,2017,12,14,03,119.6,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 04:00 AM,2017,12,14,04,115.3,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 05:00 AM,2017,12,14,05,106.1,177,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 06:00 AM,2017,12,14,06,107.5,178,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 07:00 AM,2017,12,14,07,125.3,187,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 08:00 AM,2017,12,14,08,190.1,240,Very Unhealthy,255.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 09:00 AM,2017,12,14,09,197.1,247,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 10:00 AM,2017,12,14,10,147.5,199,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 11:00 AM,2017,12,14,11,113.2,181,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 12:00 PM,2017,12,14,12,85.6,167,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 01:00 PM,2017,12,14,13,71.8,159,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 02:00 PM,2017,12,14,14,65.8,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 03:00 PM,2017,12,14,15,63.4,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 04:00 PM,2017,12,14,16,60.7,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 05:00 PM,2017,12,14,17,52.8,144,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 06:00 PM,2017,12,14,18,49.4,135,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 07:00 PM,2017,12,14,19,60.7,154,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 08:00 PM,2017,12,14,20,65.3,156,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 09:00 PM,2017,12,14,21,78.6,163,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 10:00 PM,2017,12,14,22,95.3,172,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-14 11:00 PM,2017,12,14,23,82.1,165,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 12:00 AM,2017,12,15,00,82.5,165,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 01:00 AM,2017,12,15,01,76.7,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 02:00 AM,2017,12,15,02,87.9,168,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 03:00 AM,2017,12,15,03,105.4,177,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 04:00 AM,2017,12,15,04,84.2,166,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 05:00 AM,2017,12,15,05,91.6,170,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 06:00 AM,2017,12,15,06,102.0,175,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 07:00 AM,2017,12,15,07,113.5,181,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 08:00 AM,2017,12,15,08,120.8,185,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 09:00 AM,2017,12,15,09,112.4,180,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 10:00 AM,2017,12,15,10,99.7,174,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 11:00 AM,2017,12,15,11,86.8,167,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 12:00 PM,2017,12,15,12,74.4,161,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 01:00 PM,2017,12,15,13,66.7,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 02:00 PM,2017,12,15,14,60.3,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 03:00 PM,2017,12,15,15,64.1,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 04:00 PM,2017,12,15,16,63.0,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 05:00 PM,2017,12,15,17,59.5,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 06:00 PM,2017,12,15,18,60.2,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 07:00 PM,2017,12,15,19,70.1,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 08:00 PM,2017,12,15,20,122.5,186,Unhealthy,175.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 09:00 PM,2017,12,15,21,169.7,220,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 10:00 PM,2017,12,15,22,168.9,219,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-15 11:00 PM,2017,12,15,23,165.4,216,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 12:00 AM,2017,12,16,00,170.7,221,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 01:00 AM,2017,12,16,01,153.3,204,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 02:00 AM,2017,12,16,02,140.2,195,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 03:00 AM,2017,12,16,03,158.1,209,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 04:00 AM,2017,12,16,04,157.0,207,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 05:00 AM,2017,12,16,05,143.0,196,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 06:00 AM,2017,12,16,06,140.0,195,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-16 07:00 AM,2017,12,16,07,141.9,196,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 08:00 AM,2017,12,16,08,141.9,196,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 09:00 AM,2017,12,16,09,141.9,196,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 10:00 AM,2017,12,16,10,141.9,196,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 11:00 AM,2017,12,16,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 12:00 PM,2017,12,16,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 01:00 PM,2017,12,16,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 02:00 PM,2017,12,16,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 03:00 PM,2017,12,16,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 04:00 PM,2017,12,16,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 05:00 PM,2017,12,16,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 06:00 PM,2017,12,16,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 07:00 PM,2017,12,16,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 08:00 PM,2017,12,16,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 09:00 PM,2017,12,16,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 10:00 PM,2017,12,16,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-16 11:00 PM,2017,12,16,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 12:00 AM,2017,12,17,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 01:00 AM,2017,12,17,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 02:00 AM,2017,12,17,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 03:00 AM,2017,12,17,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 04:00 AM,2017,12,17,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 05:00 AM,2017,12,17,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 06:00 AM,2017,12,17,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 07:00 AM,2017,12,17,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 08:00 AM,2017,12,17,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 09:00 AM,2017,12,17,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 10:00 AM,2017,12,17,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 11:00 AM,2017,12,17,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 12:00 PM,2017,12,17,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 01:00 PM,2017,12,17,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 02:00 PM,2017,12,17,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 03:00 PM,2017,12,17,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 04:00 PM,2017,12,17,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 05:00 PM,2017,12,17,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 06:00 PM,2017,12,17,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 07:00 PM,2017,12,17,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 08:00 PM,2017,12,17,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Kampala,PM2.5 - Principal,2017-12-17 09:00 PM,2017,12,17,21,-999.0,-999,N/A,79.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-17 10:00 PM,2017,12,17,22,67.5,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-17 11:00 PM,2017,12,17,23,60.4,154,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 12:00 AM,2017,12,18,00,60.6,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 01:00 AM,2017,12,18,01,57.2,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 02:00 AM,2017,12,18,02,52.5,143,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 03:00 AM,2017,12,18,03,44.6,123,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 04:00 AM,2017,12,18,04,48.8,134,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 05:00 AM,2017,12,18,05,56.4,151,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 06:00 AM,2017,12,18,06,50.7,138,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 07:00 AM,2017,12,18,07,63.8,155,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 08:00 AM,2017,12,18,08,77.4,162,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 09:00 AM,2017,12,18,09,84.2,166,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 10:00 AM,2017,12,18,10,83.6,166,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 11:00 AM,2017,12,18,11,83.8,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 12:00 PM,2017,12,18,12,72.9,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 01:00 PM,2017,12,18,13,58.9,153,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 02:00 PM,2017,12,18,14,53.9,146,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 03:00 PM,2017,12,18,15,46.9,129,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 04:00 PM,2017,12,18,16,42.9,119,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 05:00 PM,2017,12,18,17,36.9,104,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 06:00 PM,2017,12,18,18,45.4,125,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 07:00 PM,2017,12,18,19,57.2,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 08:00 PM,2017,12,18,20,86.6,167,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 09:00 PM,2017,12,18,21,111.8,180,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 10:00 PM,2017,12,18,22,101.4,175,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-18 11:00 PM,2017,12,18,23,88.7,168,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 12:00 AM,2017,12,19,00,90.3,169,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 01:00 AM,2017,12,19,01,92.1,170,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 02:00 AM,2017,12,19,02,86.0,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 03:00 AM,2017,12,19,03,84.0,166,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 04:00 AM,2017,12,19,04,69.5,158,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 05:00 AM,2017,12,19,05,71.7,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 06:00 AM,2017,12,19,06,62.3,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 07:00 AM,2017,12,19,07,65.1,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 08:00 AM,2017,12,19,08,83.5,165,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 09:00 AM,2017,12,19,09,97.2,173,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 10:00 AM,2017,12,19,10,80.6,164,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 11:00 AM,2017,12,19,11,64.8,156,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 12:00 PM,2017,12,19,12,51.4,140,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 01:00 PM,2017,12,19,13,39.1,110,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 02:00 PM,2017,12,19,14,30.0,89,Moderate,21.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 03:00 PM,2017,12,19,15,27.5,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 04:00 PM,2017,12,19,16,26.2,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 05:00 PM,2017,12,19,17,24.1,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 06:00 PM,2017,12,19,18,27.0,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 07:00 PM,2017,12,19,19,37.5,106,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 08:00 PM,2017,12,19,20,49.7,136,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 09:00 PM,2017,12,19,21,63.8,155,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 10:00 PM,2017,12,19,22,59.9,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-19 11:00 PM,2017,12,19,23,54.4,148,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 12:00 AM,2017,12,20,00,48.2,132,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 01:00 AM,2017,12,20,01,49.6,136,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 02:00 AM,2017,12,20,02,66.3,157,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 03:00 AM,2017,12,20,03,65.1,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 04:00 AM,2017,12,20,04,54.5,148,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 05:00 AM,2017,12,20,05,40.2,113,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 06:00 AM,2017,12,20,06,38.6,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 07:00 AM,2017,12,20,07,38.8,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 08:00 AM,2017,12,20,08,45.4,125,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 09:00 AM,2017,12,20,09,57.7,152,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 10:00 AM,2017,12,20,10,46.8,129,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 11:00 AM,2017,12,20,11,34.4,98,Moderate,22.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 12:00 PM,2017,12,20,12,30.7,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 01:00 PM,2017,12,20,13,28.3,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 02:00 PM,2017,12,20,14,26.1,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 03:00 PM,2017,12,20,15,24.5,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 04:00 PM,2017,12,20,16,28.7,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 05:00 PM,2017,12,20,17,25.8,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 06:00 PM,2017,12,20,18,34.9,99,Moderate,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 07:00 PM,2017,12,20,19,41.4,116,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 08:00 PM,2017,12,20,20,49.2,135,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 09:00 PM,2017,12,20,21,49.1,134,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 10:00 PM,2017,12,20,22,46.0,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-20 11:00 PM,2017,12,20,23,47.5,131,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 12:00 AM,2017,12,21,00,46.2,127,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 01:00 AM,2017,12,21,01,44.6,123,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 02:00 AM,2017,12,21,02,50.8,139,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 03:00 AM,2017,12,21,03,67.4,157,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 04:00 AM,2017,12,21,04,67.7,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 05:00 AM,2017,12,21,05,58.4,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 06:00 AM,2017,12,21,06,52.8,144,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 07:00 AM,2017,12,21,07,52.4,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 08:00 AM,2017,12,21,08,73.1,160,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 09:00 AM,2017,12,21,09,76.0,162,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 10:00 AM,2017,12,21,10,76.5,162,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 11:00 AM,2017,12,21,11,55.7,151,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 12:00 PM,2017,12,21,12,44.3,123,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 01:00 PM,2017,12,21,13,39.6,111,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 02:00 PM,2017,12,21,14,32.8,95,Moderate,26.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 03:00 PM,2017,12,21,15,27.9,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 04:00 PM,2017,12,21,16,26.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 05:00 PM,2017,12,21,17,30.2,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 06:00 PM,2017,12,21,18,33.1,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 07:00 PM,2017,12,21,19,36.5,103,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 08:00 PM,2017,12,21,20,42.7,119,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 09:00 PM,2017,12,21,21,52.3,142,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 10:00 PM,2017,12,21,22,60.6,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-21 11:00 PM,2017,12,21,23,72.3,160,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 12:00 AM,2017,12,22,00,68.1,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 01:00 AM,2017,12,22,01,71.0,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 02:00 AM,2017,12,22,02,87.5,168,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 03:00 AM,2017,12,22,03,82.7,165,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 04:00 AM,2017,12,22,04,93.9,171,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 05:00 AM,2017,12,22,05,84.4,166,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 06:00 AM,2017,12,22,06,74.2,161,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 07:00 AM,2017,12,22,07,82.6,165,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 08:00 AM,2017,12,22,08,108.3,178,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 09:00 AM,2017,12,22,09,122.1,185,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 10:00 AM,2017,12,22,10,84.0,166,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 11:00 AM,2017,12,22,11,67.0,157,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 12:00 PM,2017,12,22,12,53.0,144,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 01:00 PM,2017,12,22,13,40.5,113,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 02:00 PM,2017,12,22,14,34.7,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 03:00 PM,2017,12,22,15,32.8,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 04:00 PM,2017,12,22,16,30.4,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 05:00 PM,2017,12,22,17,31.2,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 06:00 PM,2017,12,22,18,38.6,109,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 07:00 PM,2017,12,22,19,40.2,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 08:00 PM,2017,12,22,20,51.6,141,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 09:00 PM,2017,12,22,21,66.3,157,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 10:00 PM,2017,12,22,22,67.6,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-22 11:00 PM,2017,12,22,23,97.3,173,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 12:00 AM,2017,12,23,00,126.1,187,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 01:00 AM,2017,12,23,01,149.6,200,Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 02:00 AM,2017,12,23,02,134.3,192,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 03:00 AM,2017,12,23,03,117.1,183,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 04:00 AM,2017,12,23,04,87.0,167,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 05:00 AM,2017,12,23,05,63.0,155,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 06:00 AM,2017,12,23,06,56.0,151,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 07:00 AM,2017,12,23,07,59.0,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 08:00 AM,2017,12,23,08,69.5,158,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 09:00 AM,2017,12,23,09,73.7,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 10:00 AM,2017,12,23,10,62.8,155,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 11:00 AM,2017,12,23,11,51.4,140,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 12:00 PM,2017,12,23,12,44.6,123,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 01:00 PM,2017,12,23,13,41.8,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 02:00 PM,2017,12,23,14,41.4,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 03:00 PM,2017,12,23,15,39.1,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 04:00 PM,2017,12,23,16,38.5,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 05:00 PM,2017,12,23,17,38.7,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 06:00 PM,2017,12,23,18,40.3,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 07:00 PM,2017,12,23,19,48.6,133,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 08:00 PM,2017,12,23,20,61.8,154,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 09:00 PM,2017,12,23,21,81.4,164,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 10:00 PM,2017,12,23,22,88.7,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-23 11:00 PM,2017,12,23,23,84.8,166,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 12:00 AM,2017,12,24,00,109.4,179,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 01:00 AM,2017,12,24,01,114.7,182,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 02:00 AM,2017,12,24,02,112.8,181,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 03:00 AM,2017,12,24,03,106.4,177,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 04:00 AM,2017,12,24,04,82.7,165,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 05:00 AM,2017,12,24,05,65.8,156,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 06:00 AM,2017,12,24,06,56.4,151,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 07:00 AM,2017,12,24,07,54.2,147,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 08:00 AM,2017,12,24,08,63.1,155,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 09:00 AM,2017,12,24,09,62.5,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 10:00 AM,2017,12,24,10,58.7,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 11:00 AM,2017,12,24,11,47.8,131,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 12:00 PM,2017,12,24,12,43.9,122,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 01:00 PM,2017,12,24,13,42.4,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 02:00 PM,2017,12,24,14,39.2,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 03:00 PM,2017,12,24,15,39.6,111,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 04:00 PM,2017,12,24,16,40.2,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 05:00 PM,2017,12,24,17,41.6,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 06:00 PM,2017,12,24,18,43.8,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 07:00 PM,2017,12,24,19,50.9,139,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 08:00 PM,2017,12,24,20,74.4,161,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 09:00 PM,2017,12,24,21,107.7,178,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 10:00 PM,2017,12,24,22,117.3,183,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-24 11:00 PM,2017,12,24,23,109.6,179,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 12:00 AM,2017,12,25,00,102.8,175,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 01:00 AM,2017,12,25,01,121.9,185,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 02:00 AM,2017,12,25,02,138.4,194,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 03:00 AM,2017,12,25,03,107.7,178,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 04:00 AM,2017,12,25,04,90.3,169,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 05:00 AM,2017,12,25,05,82.6,165,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 06:00 AM,2017,12,25,06,77.8,163,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 07:00 AM,2017,12,25,07,74.9,161,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 08:00 AM,2017,12,25,08,72.4,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 09:00 AM,2017,12,25,09,79.7,163,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 10:00 AM,2017,12,25,10,87.3,167,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 11:00 AM,2017,12,25,11,70.6,159,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 12:00 PM,2017,12,25,12,62.8,155,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 01:00 PM,2017,12,25,13,67.9,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 02:00 PM,2017,12,25,14,70.2,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 03:00 PM,2017,12,25,15,62.6,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 04:00 PM,2017,12,25,16,57.7,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 05:00 PM,2017,12,25,17,48.9,134,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 06:00 PM,2017,12,25,18,42.9,119,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 07:00 PM,2017,12,25,19,45.4,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 08:00 PM,2017,12,25,20,48.2,132,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 09:00 PM,2017,12,25,21,57.1,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 10:00 PM,2017,12,25,22,63.4,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-25 11:00 PM,2017,12,25,23,61.2,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 12:00 AM,2017,12,26,00,62.1,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 01:00 AM,2017,12,26,01,56.6,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 02:00 AM,2017,12,26,02,48.3,133,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 03:00 AM,2017,12,26,03,48.2,132,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 04:00 AM,2017,12,26,04,60.3,153,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 05:00 AM,2017,12,26,05,69.2,158,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 06:00 AM,2017,12,26,06,57.6,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 07:00 AM,2017,12,26,07,70.8,159,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 08:00 AM,2017,12,26,08,66.9,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 09:00 AM,2017,12,26,09,65.9,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 10:00 AM,2017,12,26,10,52.9,144,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 11:00 AM,2017,12,26,11,40.4,113,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 12:00 PM,2017,12,26,12,33.7,96,Moderate,27.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 01:00 PM,2017,12,26,13,31.8,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 02:00 PM,2017,12,26,14,30.4,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 03:00 PM,2017,12,26,15,32.7,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 04:00 PM,2017,12,26,16,28.8,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 05:00 PM,2017,12,26,17,30.4,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 06:00 PM,2017,12,26,18,29.2,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 07:00 PM,2017,12,26,19,38.0,107,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 08:00 PM,2017,12,26,20,49.0,134,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 09:00 PM,2017,12,26,21,55.5,151,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 10:00 PM,2017,12,26,22,59.7,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-26 11:00 PM,2017,12,26,23,54.8,149,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 12:00 AM,2017,12,27,00,56.4,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 01:00 AM,2017,12,27,01,55.7,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 02:00 AM,2017,12,27,02,59.8,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 03:00 AM,2017,12,27,03,60.4,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 04:00 AM,2017,12,27,04,66.2,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 05:00 AM,2017,12,27,05,66.6,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 06:00 AM,2017,12,27,06,59.8,153,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 07:00 AM,2017,12,27,07,58.8,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 08:00 AM,2017,12,27,08,75.2,161,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 09:00 AM,2017,12,27,09,88.0,168,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 10:00 AM,2017,12,27,10,89.0,168,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 11:00 AM,2017,12,27,11,71.0,159,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 12:00 PM,2017,12,27,12,58.0,152,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 01:00 PM,2017,12,27,13,45.4,125,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 02:00 PM,2017,12,27,14,40.7,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 03:00 PM,2017,12,27,15,40.8,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 04:00 PM,2017,12,27,16,36.4,103,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 05:00 PM,2017,12,27,17,33.7,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 06:00 PM,2017,12,27,18,34.3,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 07:00 PM,2017,12,27,19,39.1,110,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 08:00 PM,2017,12,27,20,47.0,129,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 09:00 PM,2017,12,27,21,52.5,143,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 10:00 PM,2017,12,27,22,59.7,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-27 11:00 PM,2017,12,27,23,77.3,162,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 12:00 AM,2017,12,28,00,90.7,169,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 01:00 AM,2017,12,28,01,94.8,171,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 02:00 AM,2017,12,28,02,72.4,160,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 03:00 AM,2017,12,28,03,68.7,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 04:00 AM,2017,12,28,04,76.8,162,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 05:00 AM,2017,12,28,05,79.4,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 06:00 AM,2017,12,28,06,79.7,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 07:00 AM,2017,12,28,07,76.3,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 08:00 AM,2017,12,28,08,84.6,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 09:00 AM,2017,12,28,09,78.8,163,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 10:00 AM,2017,12,28,10,65.9,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 11:00 AM,2017,12,28,11,56.9,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 12:00 PM,2017,12,28,12,50.9,139,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 01:00 PM,2017,12,28,13,41.4,116,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 02:00 PM,2017,12,28,14,38.2,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 03:00 PM,2017,12,28,15,39.6,111,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 04:00 PM,2017,12,28,16,43.8,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 05:00 PM,2017,12,28,17,44.8,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 06:00 PM,2017,12,28,18,46.9,129,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 07:00 PM,2017,12,28,19,50.9,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 08:00 PM,2017,12,28,20,66.9,157,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 09:00 PM,2017,12,28,21,75.9,162,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 10:00 PM,2017,12,28,22,95.0,171,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-28 11:00 PM,2017,12,28,23,95.0,171,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 12:00 AM,2017,12,29,00,98.5,173,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 01:00 AM,2017,12,29,01,93.2,170,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 02:00 AM,2017,12,29,02,89.6,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 03:00 AM,2017,12,29,03,96.8,172,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 04:00 AM,2017,12,29,04,103.9,176,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 05:00 AM,2017,12,29,05,108.9,179,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 06:00 AM,2017,12,29,06,111.4,180,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 07:00 AM,2017,12,29,07,109.2,179,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 08:00 AM,2017,12,29,08,150.6,201,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 09:00 AM,2017,12,29,09,178.8,229,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 10:00 AM,2017,12,29,10,128.9,189,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 11:00 AM,2017,12,29,11,88.4,168,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 12:00 PM,2017,12,29,12,71.2,159,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 01:00 PM,2017,12,29,13,63.6,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 02:00 PM,2017,12,29,14,58.2,152,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 03:00 PM,2017,12,29,15,55.1,149,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 04:00 PM,2017,12,29,16,55.5,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 05:00 PM,2017,12,29,17,56.2,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 06:00 PM,2017,12,29,18,56.1,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 07:00 PM,2017,12,29,19,53.5,145,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 08:00 PM,2017,12,29,20,57.2,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 09:00 PM,2017,12,29,21,85.6,167,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 10:00 PM,2017,12,29,22,118.8,184,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-29 11:00 PM,2017,12,29,23,132.4,191,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 12:00 AM,2017,12,30,00,114.7,182,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 01:00 AM,2017,12,30,01,83.3,165,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 02:00 AM,2017,12,30,02,76.1,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 03:00 AM,2017,12,30,03,93.0,170,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 04:00 AM,2017,12,30,04,109.0,179,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 05:00 AM,2017,12,30,05,122.5,186,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 06:00 AM,2017,12,30,06,129.2,189,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 07:00 AM,2017,12,30,07,116.1,182,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 08:00 AM,2017,12,30,08,106.5,177,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 09:00 AM,2017,12,30,09,118.2,183,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 10:00 AM,2017,12,30,10,97.6,173,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 11:00 AM,2017,12,30,11,69.8,158,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 12:00 PM,2017,12,30,12,61.8,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 01:00 PM,2017,12,30,13,60.9,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 02:00 PM,2017,12,30,14,52.9,144,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 03:00 PM,2017,12,30,15,51.4,140,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 04:00 PM,2017,12,30,16,49.7,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 05:00 PM,2017,12,30,17,46.8,129,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 06:00 PM,2017,12,30,18,39.4,111,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 07:00 PM,2017,12,30,19,44.7,124,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 08:00 PM,2017,12,30,20,71.8,159,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 09:00 PM,2017,12,30,21,87.9,168,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 10:00 PM,2017,12,30,22,68.4,158,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-30 11:00 PM,2017,12,30,23,62.2,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kampala,PM2.5 - Principal,2017-12-31 12:00 AM,2017,12,31,00,65.1,156,Unhealthy,68.0,UG/M3,1 Hr,Valid

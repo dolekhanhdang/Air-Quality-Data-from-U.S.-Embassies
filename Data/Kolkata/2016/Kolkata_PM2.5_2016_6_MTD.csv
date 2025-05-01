@@ -1,0 +1,673 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,AQI,AQI Category,24-hr. Midpoint Avg. Conc.,Raw Conc.,Conc. Unit,Duration,QC Name
+Kolkata,PM2.5 - Principal,2016-06-01 07:00 AM,2016,06,01,07,90,Moderate,30.8,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 08:00 AM,2016,06,01,08,90,Moderate,30.7,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 09:00 AM,2016,06,01,09,90,Moderate,30.8,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 10:00 AM,2016,06,01,10,90,Moderate,30.5,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 11:00 AM,2016,06,01,11,90,Moderate,30.5,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 12:00 PM,2016,06,01,12,90,Moderate,30.5,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 01:00 PM,2016,06,01,13,89,Moderate,30.2,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 02:00 PM,2016,06,01,14,88,Moderate,29.9,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 03:00 PM,2016,06,01,15,88,Moderate,29.9,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 04:00 PM,2016,06,01,16,89,Moderate,30.0,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 05:00 PM,2016,06,01,17,90,Moderate,30.5,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 06:00 PM,2016,06,01,18,91,Moderate,30.9,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 07:00 PM,2016,06,01,19,92,Moderate,31.4,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 08:00 PM,2016,06,01,20,92,Moderate,31.5,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 09:00 PM,2016,06,01,21,92,Moderate,31.4,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 10:00 PM,2016,06,01,22,92,Moderate,31.5,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-01 11:00 PM,2016,06,01,23,92,Moderate,31.6,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 12:00 AM,2016,06,02,00,92,Moderate,31.5,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 01:00 AM,2016,06,02,01,92,Moderate,31.7,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 02:00 AM,2016,06,02,02,93,Moderate,32.1,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 03:00 AM,2016,06,02,03,94,Moderate,32.7,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 04:00 AM,2016,06,02,04,95,Moderate,32.8,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 05:00 AM,2016,06,02,05,95,Moderate,33.1,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 06:00 AM,2016,06,02,06,96,Moderate,33.6,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 07:00 AM,2016,06,02,07,96,Moderate,33.6,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 08:00 AM,2016,06,02,08,97,Moderate,33.9,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 09:00 AM,2016,06,02,09,97,Moderate,33.8,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 10:00 AM,2016,06,02,10,98,Moderate,34.6,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 11:00 AM,2016,06,02,11,100,Moderate,35.2,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 12:00 PM,2016,06,02,12,101,Unhealthy for Sensitive Groups,35.6,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 01:00 PM,2016,06,02,13,101,Unhealthy for Sensitive Groups,35.6,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 02:00 PM,2016,06,02,14,100,Moderate,35.3,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 03:00 PM,2016,06,02,15,100,Moderate,35.2,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 04:00 PM,2016,06,02,16,99,Moderate,34.9,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 05:00 PM,2016,06,02,17,99,Moderate,34.8,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 06:00 PM,2016,06,02,18,98,Moderate,34.3,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 07:00 PM,2016,06,02,19,97,Moderate,33.9,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 08:00 PM,2016,06,02,20,97,Moderate,34.0,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 09:00 PM,2016,06,02,21,98,Moderate,34.5,50.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 10:00 PM,2016,06,02,22,99,Moderate,34.7,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-02 11:00 PM,2016,06,02,23,100,Moderate,35.2,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 12:00 AM,2016,06,03,00,100,Moderate,35.3,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 01:00 AM,2016,06,03,01,100,Moderate,35.4,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 02:00 AM,2016,06,03,02,101,Unhealthy for Sensitive Groups,35.6,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 03:00 AM,2016,06,03,03,99,Moderate,35.1,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 04:00 AM,2016,06,03,04,99,Moderate,35.0,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 05:00 AM,2016,06,03,05,98,Moderate,34.6,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 06:00 AM,2016,06,03,06,98,Moderate,34.5,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 07:00 AM,2016,06,03,07,98,Moderate,34.5,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 08:00 AM,2016,06,03,08,98,Moderate,34.4,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 09:00 AM,2016,06,03,09,97,Moderate,34.1,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 10:00 AM,2016,06,03,10,96,Moderate,33.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 11:00 AM,2016,06,03,11,95,Moderate,33.2,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 12:00 PM,2016,06,03,12,95,Moderate,33.1,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 01:00 PM,2016,06,03,13,96,Moderate,33.4,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 02:00 PM,2016,06,03,14,96,Moderate,33.7,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 03:00 PM,2016,06,03,15,97,Moderate,34.0,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 04:00 PM,2016,06,03,16,97,Moderate,34.1,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 05:00 PM,2016,06,03,17,97,Moderate,34.0,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 06:00 PM,2016,06,03,18,98,Moderate,34.3,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 07:00 PM,2016,06,03,19,98,Moderate,34.4,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 08:00 PM,2016,06,03,20,96,Moderate,33.6,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 09:00 PM,2016,06,03,21,95,Moderate,33.2,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 10:00 PM,2016,06,03,22,95,Moderate,32.9,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-03 11:00 PM,2016,06,03,23,94,Moderate,32.6,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 12:00 AM,2016,06,04,00,94,Moderate,32.4,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 01:00 AM,2016,06,04,01,93,Moderate,32.1,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 02:00 AM,2016,06,04,02,92,Moderate,31.7,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 03:00 AM,2016,06,04,03,93,Moderate,32.0,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 04:00 AM,2016,06,04,04,93,Moderate,32.0,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 05:00 AM,2016,06,04,05,93,Moderate,31.9,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 06:00 AM,2016,06,04,06,92,Moderate,31.5,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 07:00 AM,2016,06,04,07,91,Moderate,31.3,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 08:00 AM,2016,06,04,08,90,Moderate,30.8,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 09:00 AM,2016,06,04,09,91,Moderate,30.9,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 10:00 AM,2016,06,04,10,90,Moderate,30.8,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 11:00 AM,2016,06,04,11,90,Moderate,30.6,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 12:00 PM,2016,06,04,12,89,Moderate,30.3,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 01:00 PM,2016,06,04,13,90,Moderate,30.5,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 02:00 PM,2016,06,04,14,90,Moderate,30.7,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 03:00 PM,2016,06,04,15,89,Moderate,30.3,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 04:00 PM,2016,06,04,16,89,Moderate,30.3,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 05:00 PM,2016,06,04,17,89,Moderate,30.4,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 06:00 PM,2016,06,04,18,89,Moderate,30.4,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 07:00 PM,2016,06,04,19,90,Moderate,30.7,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 08:00 PM,2016,06,04,20,91,Moderate,31.0,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 09:00 PM,2016,06,04,21,91,Moderate,31.0,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 10:00 PM,2016,06,04,22,91,Moderate,31.0,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-04 11:00 PM,2016,06,04,23,90,Moderate,30.6,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 12:00 AM,2016,06,05,00,89,Moderate,30.2,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 01:00 AM,2016,06,05,01,88,Moderate,29.7,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 02:00 AM,2016,06,05,02,88,Moderate,29.5,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 03:00 AM,2016,06,05,03,87,Moderate,29.0,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 04:00 AM,2016,06,05,04,85,Moderate,28.5,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 05:00 AM,2016,06,05,05,84,Moderate,28.0,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 06:00 AM,2016,06,05,06,83,Moderate,27.5,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 07:00 AM,2016,06,05,07,82,Moderate,26.7,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 08:00 AM,2016,06,05,08,82,Moderate,26.7,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 09:00 AM,2016,06,05,09,81,Moderate,26.2,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 10:00 AM,2016,06,05,10,80,Moderate,26.1,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 11:00 AM,2016,06,05,11,80,Moderate,26.1,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 12:00 PM,2016,06,05,12,80,Moderate,25.9,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 01:00 PM,2016,06,05,13,79,Moderate,25.5,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 02:00 PM,2016,06,05,14,78,Moderate,25.1,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 03:00 PM,2016,06,05,15,78,Moderate,24.8,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 04:00 PM,2016,06,05,16,77,Moderate,24.5,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 05:00 PM,2016,06,05,17,76,Moderate,24.0,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 06:00 PM,2016,06,05,18,76,Moderate,24.0,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 07:00 PM,2016,06,05,19,75,Moderate,23.5,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 08:00 PM,2016,06,05,20,75,Moderate,23.5,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 09:00 PM,2016,06,05,21,74,Moderate,23.2,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 10:00 PM,2016,06,05,22,74,Moderate,23.0,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-05 11:00 PM,2016,06,05,23,74,Moderate,23.0,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 12:00 AM,2016,06,06,00,74,Moderate,23.1,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 01:00 AM,2016,06,06,01,75,Moderate,23.3,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 02:00 AM,2016,06,06,02,75,Moderate,23.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 03:00 AM,2016,06,06,03,75,Moderate,23.6,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 04:00 AM,2016,06,06,04,75,Moderate,23.7,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 05:00 AM,2016,06,06,05,75,Moderate,23.6,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 06:00 AM,2016,06,06,06,76,Moderate,24.0,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 07:00 AM,2016,06,06,07,77,Moderate,24.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 08:00 AM,2016,06,06,08,78,Moderate,25.1,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 09:00 AM,2016,06,06,09,79,Moderate,25.3,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 10:00 AM,2016,06,06,10,79,Moderate,25.4,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 11:00 AM,2016,06,06,11,79,Moderate,25.6,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 12:00 PM,2016,06,06,12,80,Moderate,25.7,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 01:00 PM,2016,06,06,13,79,Moderate,25.5,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 02:00 PM,2016,06,06,14,80,Moderate,25.7,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 03:00 PM,2016,06,06,15,80,Moderate,26.0,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 04:00 PM,2016,06,06,16,81,Moderate,26.4,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 05:00 PM,2016,06,06,17,82,Moderate,26.7,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 06:00 PM,2016,06,06,18,81,Moderate,26.6,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 07:00 PM,2016,06,06,19,81,Moderate,26.6,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 08:00 PM,2016,06,06,20,83,Moderate,27.1,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 09:00 PM,2016,06,06,21,84,Moderate,27.6,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 10:00 PM,2016,06,06,22,84,Moderate,28.0,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-06 11:00 PM,2016,06,06,23,86,Moderate,28.6,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 12:00 AM,2016,06,07,00,87,Moderate,29.0,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 01:00 AM,2016,06,07,01,87,Moderate,29.2,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 02:00 AM,2016,06,07,02,87,Moderate,29.2,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 03:00 AM,2016,06,07,03,87,Moderate,29.4,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 04:00 AM,2016,06,07,04,88,Moderate,29.6,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 05:00 AM,2016,06,07,05,89,Moderate,30.2,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 06:00 AM,2016,06,07,06,90,Moderate,30.5,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 07:00 AM,2016,06,07,07,90,Moderate,30.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 08:00 AM,2016,06,07,08,88,Moderate,29.9,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 09:00 AM,2016,06,07,09,89,Moderate,30.1,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 10:00 AM,2016,06,07,10,88,Moderate,29.8,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 11:00 AM,2016,06,07,11,88,Moderate,29.7,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 12:00 PM,2016,06,07,12,88,Moderate,29.7,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 01:00 PM,2016,06,07,13,88,Moderate,29.7,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 02:00 PM,2016,06,07,14,88,Moderate,29.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 03:00 PM,2016,06,07,15,87,Moderate,29.2,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 04:00 PM,2016,06,07,16,87,Moderate,29.0,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 05:00 PM,2016,06,07,17,86,Moderate,28.8,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 06:00 PM,2016,06,07,18,86,Moderate,28.8,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 07:00 PM,2016,06,07,19,86,Moderate,28.9,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 08:00 PM,2016,06,07,20,86,Moderate,28.9,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 09:00 PM,2016,06,07,21,85,Moderate,28.5,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 10:00 PM,2016,06,07,22,85,Moderate,28.5,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-07 11:00 PM,2016,06,07,23,86,Moderate,28.7,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 12:00 AM,2016,06,08,00,87,Moderate,29.0,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 01:00 AM,2016,06,08,01,88,Moderate,29.6,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 02:00 AM,2016,06,08,02,88,Moderate,29.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 03:00 AM,2016,06,08,03,86,Moderate,28.8,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 04:00 AM,2016,06,08,04,86,Moderate,28.6,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 05:00 AM,2016,06,08,05,85,Moderate,28.2,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 06:00 AM,2016,06,08,06,84,Moderate,27.6,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 07:00 AM,2016,06,08,07,83,Moderate,27.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 08:00 AM,2016,06,08,08,83,Moderate,27.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 09:00 AM,2016,06,08,09,83,Moderate,27.5,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 10:00 AM,2016,06,08,10,83,Moderate,27.5,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 11:00 AM,2016,06,08,11,83,Moderate,27.4,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 12:00 PM,2016,06,08,12,82,Moderate,26.9,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 01:00 PM,2016,06,08,13,81,Moderate,26.6,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 02:00 PM,2016,06,08,14,82,Moderate,26.7,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 03:00 PM,2016,06,08,15,82,Moderate,26.9,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 04:00 PM,2016,06,08,16,82,Moderate,26.9,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 05:00 PM,2016,06,08,17,82,Moderate,27.0,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 06:00 PM,2016,06,08,18,82,Moderate,27.0,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 07:00 PM,2016,06,08,19,82,Moderate,26.7,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 08:00 PM,2016,06,08,20,82,Moderate,26.8,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 09:00 PM,2016,06,08,21,82,Moderate,27.0,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 10:00 PM,2016,06,08,22,82,Moderate,26.9,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-08 11:00 PM,2016,06,08,23,81,Moderate,26.6,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 12:00 AM,2016,06,09,00,81,Moderate,26.6,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 01:00 AM,2016,06,09,01,81,Moderate,26.4,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 02:00 AM,2016,06,09,02,82,Moderate,26.9,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 03:00 AM,2016,06,09,03,84,Moderate,27.7,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 04:00 AM,2016,06,09,04,85,Moderate,28.5,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 05:00 AM,2016,06,09,05,87,Moderate,29.0,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 06:00 AM,2016,06,09,06,87,Moderate,29.4,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 07:00 AM,2016,06,09,07,87,Moderate,29.4,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 08:00 AM,2016,06,09,08,88,Moderate,29.8,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 09:00 AM,2016,06,09,09,88,Moderate,29.8,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 10:00 AM,2016,06,09,10,88,Moderate,29.9,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 11:00 AM,2016,06,09,11,88,Moderate,29.8,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 12:00 PM,2016,06,09,12,89,Moderate,30.2,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 01:00 PM,2016,06,09,13,90,Moderate,30.7,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 02:00 PM,2016,06,09,14,91,Moderate,30.9,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 03:00 PM,2016,06,09,15,91,Moderate,31.0,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 04:00 PM,2016,06,09,16,92,Moderate,31.7,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 05:00 PM,2016,06,09,17,94,Moderate,32.4,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 06:00 PM,2016,06,09,18,96,Moderate,33.4,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 07:00 PM,2016,06,09,19,97,Moderate,34.2,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 08:00 PM,2016,06,09,20,98,Moderate,34.5,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 09:00 PM,2016,06,09,21,102,Unhealthy for Sensitive Groups,35.9,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 10:00 PM,2016,06,09,22,106,Unhealthy for Sensitive Groups,37.6,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-09 11:00 PM,2016,06,09,23,109,Unhealthy for Sensitive Groups,38.8,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 12:00 AM,2016,06,10,00,112,Unhealthy for Sensitive Groups,39.9,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 01:00 AM,2016,06,10,01,113,Unhealthy for Sensitive Groups,40.4,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 02:00 AM,2016,06,10,02,114,Unhealthy for Sensitive Groups,40.7,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 03:00 AM,2016,06,10,03,116,Unhealthy for Sensitive Groups,41.5,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 04:00 AM,2016,06,10,04,117,Unhealthy for Sensitive Groups,42.1,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 05:00 AM,2016,06,10,05,119,Unhealthy for Sensitive Groups,43.0,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 06:00 AM,2016,06,10,06,122,Unhealthy for Sensitive Groups,44.2,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 07:00 AM,2016,06,10,07,125,Unhealthy for Sensitive Groups,45.3,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 08:00 AM,2016,06,10,08,127,Unhealthy for Sensitive Groups,46.2,59.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 09:00 AM,2016,06,10,09,129,Unhealthy for Sensitive Groups,46.9,66.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 10:00 AM,2016,06,10,10,133,Unhealthy for Sensitive Groups,48.5,62.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 11:00 AM,2016,06,10,11,137,Unhealthy for Sensitive Groups,50.0,63.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 12:00 PM,2016,06,10,12,141,Unhealthy for Sensitive Groups,51.6,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 01:00 PM,2016,06,10,13,144,Unhealthy for Sensitive Groups,52.8,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 02:00 PM,2016,06,10,14,145,Unhealthy for Sensitive Groups,53.5,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 03:00 PM,2016,06,10,15,147,Unhealthy for Sensitive Groups,54.2,59.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 04:00 PM,2016,06,10,16,147,Unhealthy for Sensitive Groups,54.2,58.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 05:00 PM,2016,06,10,17,147,Unhealthy for Sensitive Groups,54.1,57.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 06:00 PM,2016,06,10,18,147,Unhealthy for Sensitive Groups,54.0,59.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 07:00 PM,2016,06,10,19,146,Unhealthy for Sensitive Groups,53.9,57.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 08:00 PM,2016,06,10,20,146,Unhealthy for Sensitive Groups,53.7,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 09:00 PM,2016,06,10,21,144,Unhealthy for Sensitive Groups,52.9,69.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 10:00 PM,2016,06,10,22,141,Unhealthy for Sensitive Groups,51.8,64.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-10 11:00 PM,2016,06,10,23,139,Unhealthy for Sensitive Groups,50.9,66.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 12:00 AM,2016,06,11,00,137,Unhealthy for Sensitive Groups,50.1,61.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 01:00 AM,2016,06,11,01,137,Unhealthy for Sensitive Groups,50.3,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 02:00 AM,2016,06,11,02,137,Unhealthy for Sensitive Groups,50.2,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 03:00 AM,2016,06,11,03,138,Unhealthy for Sensitive Groups,50.6,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 04:00 AM,2016,06,11,04,138,Unhealthy for Sensitive Groups,50.4,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 05:00 AM,2016,06,11,05,137,Unhealthy for Sensitive Groups,50.2,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 06:00 AM,2016,06,11,06,136,Unhealthy for Sensitive Groups,49.7,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 07:00 AM,2016,06,11,07,135,Unhealthy for Sensitive Groups,49.2,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 08:00 AM,2016,06,11,08,134,Unhealthy for Sensitive Groups,49.0,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 09:00 AM,2016,06,11,09,135,Unhealthy for Sensitive Groups,49.5,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 10:00 AM,2016,06,11,10,135,Unhealthy for Sensitive Groups,49.2,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 11:00 AM,2016,06,11,11,134,Unhealthy for Sensitive Groups,48.7,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 12:00 PM,2016,06,11,12,130,Unhealthy for Sensitive Groups,47.3,54.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 01:00 PM,2016,06,11,13,129,Unhealthy for Sensitive Groups,46.7,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 02:00 PM,2016,06,11,14,126,Unhealthy for Sensitive Groups,45.6,61.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 03:00 PM,2016,06,11,15,125,Unhealthy for Sensitive Groups,45.1,54.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 04:00 PM,2016,06,11,16,124,Unhealthy for Sensitive Groups,44.8,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 05:00 PM,2016,06,11,17,123,Unhealthy for Sensitive Groups,44.6,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 06:00 PM,2016,06,11,18,122,Unhealthy for Sensitive Groups,44.1,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 07:00 PM,2016,06,11,19,122,Unhealthy for Sensitive Groups,43.9,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 08:00 PM,2016,06,11,20,121,Unhealthy for Sensitive Groups,43.8,57.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 09:00 PM,2016,06,11,21,121,Unhealthy for Sensitive Groups,43.6,62.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 10:00 PM,2016,06,11,22,121,Unhealthy for Sensitive Groups,43.6,52.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-11 11:00 PM,2016,06,11,23,121,Unhealthy for Sensitive Groups,43.8,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 12:00 AM,2016,06,12,00,121,Unhealthy for Sensitive Groups,43.8,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 01:00 AM,2016,06,12,01,120,Unhealthy for Sensitive Groups,43.4,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 02:00 AM,2016,06,12,02,120,Unhealthy for Sensitive Groups,43.1,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 03:00 AM,2016,06,12,03,118,Unhealthy for Sensitive Groups,42.4,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 04:00 AM,2016,06,12,04,116,Unhealthy for Sensitive Groups,41.5,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 05:00 AM,2016,06,12,05,113,Unhealthy for Sensitive Groups,40.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 06:00 AM,2016,06,12,06,111,Unhealthy for Sensitive Groups,39.6,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 07:00 AM,2016,06,12,07,110,Unhealthy for Sensitive Groups,39.1,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 08:00 AM,2016,06,12,08,107,Unhealthy for Sensitive Groups,38.0,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 09:00 AM,2016,06,12,09,104,Unhealthy for Sensitive Groups,36.9,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 10:00 AM,2016,06,12,10,101,Unhealthy for Sensitive Groups,35.6,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 11:00 AM,2016,06,12,11,98,Moderate,34.5,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 12:00 PM,2016,06,12,12,97,Moderate,34.0,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 01:00 PM,2016,06,12,13,96,Moderate,33.7,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 02:00 PM,2016,06,12,14,96,Moderate,33.5,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 03:00 PM,2016,06,12,15,95,Moderate,33.1,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 04:00 PM,2016,06,12,16,94,Moderate,32.7,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 05:00 PM,2016,06,12,17,93,Moderate,32.3,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 06:00 PM,2016,06,12,18,92,Moderate,31.7,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 07:00 PM,2016,06,12,19,91,Moderate,31.3,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 08:00 PM,2016,06,12,20,91,Moderate,31.2,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 09:00 PM,2016,06,12,21,90,Moderate,30.7,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 10:00 PM,2016,06,12,22,90,Moderate,30.5,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-12 11:00 PM,2016,06,12,23,88,Moderate,29.9,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 12:00 AM,2016,06,13,00,87,Moderate,29.3,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 01:00 AM,2016,06,13,01,87,Moderate,29.0,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 02:00 AM,2016,06,13,02,86,Moderate,28.9,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 03:00 AM,2016,06,13,03,86,Moderate,28.6,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 04:00 AM,2016,06,13,04,86,Moderate,28.7,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 05:00 AM,2016,06,13,05,86,Moderate,28.7,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 06:00 AM,2016,06,13,06,87,Moderate,29.0,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 07:00 AM,2016,06,13,07,86,Moderate,28.6,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 08:00 AM,2016,06,13,08,86,Moderate,28.7,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 09:00 AM,2016,06,13,09,86,Moderate,28.7,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 10:00 AM,2016,06,13,10,87,Moderate,29.0,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 11:00 AM,2016,06,13,11,88,Moderate,29.5,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 12:00 PM,2016,06,13,12,89,Moderate,30.0,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 01:00 PM,2016,06,13,13,89,Moderate,30.3,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 02:00 PM,2016,06,13,14,91,Moderate,30.9,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 03:00 PM,2016,06,13,15,91,Moderate,31.2,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 04:00 PM,2016,06,13,16,92,Moderate,31.6,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 05:00 PM,2016,06,13,17,92,Moderate,31.7,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 06:00 PM,2016,06,13,18,93,Moderate,32.0,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 07:00 PM,2016,06,13,19,92,Moderate,31.6,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 08:00 PM,2016,06,13,20,92,Moderate,31.4,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 09:00 PM,2016,06,13,21,95,Moderate,32.9,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 10:00 PM,2016,06,13,22,97,Moderate,34.1,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-13 11:00 PM,2016,06,13,23,103,Unhealthy for Sensitive Groups,36.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 12:00 AM,2016,06,14,00,104,Unhealthy for Sensitive Groups,36.8,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 01:00 AM,2016,06,14,01,106,Unhealthy for Sensitive Groups,37.4,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 02:00 AM,2016,06,14,02,108,Unhealthy for Sensitive Groups,38.2,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 03:00 AM,2016,06,14,03,107,Unhealthy for Sensitive Groups,38.1,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 04:00 AM,2016,06,14,04,110,Unhealthy for Sensitive Groups,39.0,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 05:00 AM,2016,06,14,05,113,Unhealthy for Sensitive Groups,40.2,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 06:00 AM,2016,06,14,06,115,Unhealthy for Sensitive Groups,41.1,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 07:00 AM,2016,06,14,07,118,Unhealthy for Sensitive Groups,42.3,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 08:00 AM,2016,06,14,08,119,Unhealthy for Sensitive Groups,42.7,56.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 09:00 AM,2016,06,14,09,120,Unhealthy for Sensitive Groups,43.2,65.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 10:00 AM,2016,06,14,10,120,Unhealthy for Sensitive Groups,43.4,85.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 11:00 AM,2016,06,14,11,121,Unhealthy for Sensitive Groups,43.7,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 12:00 PM,2016,06,14,12,122,Unhealthy for Sensitive Groups,44.0,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 01:00 PM,2016,06,14,13,123,Unhealthy for Sensitive Groups,44.6,54.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 02:00 PM,2016,06,14,14,124,Unhealthy for Sensitive Groups,44.8,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 03:00 PM,2016,06,14,15,124,Unhealthy for Sensitive Groups,45.0,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 04:00 PM,2016,06,14,16,124,Unhealthy for Sensitive Groups,45.0,54.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 05:00 PM,2016,06,14,17,126,Unhealthy for Sensitive Groups,45.5,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 06:00 PM,2016,06,14,18,126,Unhealthy for Sensitive Groups,45.7,52.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 07:00 PM,2016,06,14,19,128,Unhealthy for Sensitive Groups,46.6,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 08:00 PM,2016,06,14,20,129,Unhealthy for Sensitive Groups,46.7,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 09:00 PM,2016,06,14,21,127,Unhealthy for Sensitive Groups,45.9,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 10:00 PM,2016,06,14,22,124,Unhealthy for Sensitive Groups,44.7,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-14 11:00 PM,2016,06,14,23,119,Unhealthy for Sensitive Groups,42.8,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 12:00 AM,2016,06,15,00,120,Unhealthy for Sensitive Groups,43.4,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 01:00 AM,2016,06,15,01,121,Unhealthy for Sensitive Groups,43.6,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 02:00 AM,2016,06,15,02,121,Unhealthy for Sensitive Groups,43.7,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 03:00 AM,2016,06,15,03,123,Unhealthy for Sensitive Groups,44.5,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 04:00 AM,2016,06,15,04,123,Unhealthy for Sensitive Groups,44.6,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 05:00 AM,2016,06,15,05,122,Unhealthy for Sensitive Groups,44.2,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 06:00 AM,2016,06,15,06,123,Unhealthy for Sensitive Groups,44.4,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 07:00 AM,2016,06,15,07,122,Unhealthy for Sensitive Groups,44.2,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 08:00 AM,2016,06,15,08,123,Unhealthy for Sensitive Groups,44.4,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 09:00 AM,2016,06,15,09,124,Unhealthy for Sensitive Groups,44.7,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 10:00 AM,2016,06,15,10,124,Unhealthy for Sensitive Groups,44.8,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 11:00 AM,2016,06,15,11,124,Unhealthy for Sensitive Groups,44.8,56.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 12:00 PM,2016,06,15,12,124,Unhealthy for Sensitive Groups,44.8,54.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 01:00 PM,2016,06,15,13,123,Unhealthy for Sensitive Groups,44.6,56.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 02:00 PM,2016,06,15,14,124,Unhealthy for Sensitive Groups,44.8,63.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 03:00 PM,2016,06,15,15,124,Unhealthy for Sensitive Groups,44.9,56.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 04:00 PM,2016,06,15,16,124,Unhealthy for Sensitive Groups,44.7,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 05:00 PM,2016,06,15,17,125,Unhealthy for Sensitive Groups,45.1,57.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 06:00 PM,2016,06,15,18,126,Unhealthy for Sensitive Groups,45.6,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 07:00 PM,2016,06,15,19,126,Unhealthy for Sensitive Groups,45.6,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 08:00 PM,2016,06,15,20,126,Unhealthy for Sensitive Groups,45.8,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 09:00 PM,2016,06,15,21,126,Unhealthy for Sensitive Groups,45.7,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 10:00 PM,2016,06,15,22,127,Unhealthy for Sensitive Groups,46.0,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-15 11:00 PM,2016,06,15,23,127,Unhealthy for Sensitive Groups,45.9,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 12:00 AM,2016,06,16,00,126,Unhealthy for Sensitive Groups,45.6,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 01:00 AM,2016,06,16,01,125,Unhealthy for Sensitive Groups,45.2,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 02:00 AM,2016,06,16,02,126,Unhealthy for Sensitive Groups,45.6,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 03:00 AM,2016,06,16,03,126,Unhealthy for Sensitive Groups,45.7,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 04:00 AM,2016,06,16,04,128,Unhealthy for Sensitive Groups,46.4,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 05:00 AM,2016,06,16,05,131,Unhealthy for Sensitive Groups,47.7,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 06:00 AM,2016,06,16,06,130,Unhealthy for Sensitive Groups,47.2,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 07:00 AM,2016,06,16,07,130,Unhealthy for Sensitive Groups,47.4,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 08:00 AM,2016,06,16,08,132,Unhealthy for Sensitive Groups,48.2,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 09:00 AM,2016,06,16,09,134,Unhealthy for Sensitive Groups,48.7,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 10:00 AM,2016,06,16,10,137,Unhealthy for Sensitive Groups,50.1,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 11:00 AM,2016,06,16,11,138,Unhealthy for Sensitive Groups,50.6,50.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 12:00 PM,2016,06,16,12,140,Unhealthy for Sensitive Groups,51.2,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 01:00 PM,2016,06,16,13,141,Unhealthy for Sensitive Groups,51.6,65.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 02:00 PM,2016,06,16,14,140,Unhealthy for Sensitive Groups,51.3,66.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 03:00 PM,2016,06,16,15,140,Unhealthy for Sensitive Groups,51.2,71.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 04:00 PM,2016,06,16,16,138,Unhealthy for Sensitive Groups,50.7,77.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 05:00 PM,2016,06,16,17,137,Unhealthy for Sensitive Groups,50.2,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 06:00 PM,2016,06,16,18,136,Unhealthy for Sensitive Groups,49.9,51.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 07:00 PM,2016,06,16,19,136,Unhealthy for Sensitive Groups,49.7,63.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 08:00 PM,2016,06,16,20,136,Unhealthy for Sensitive Groups,49.6,61.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 09:00 PM,2016,06,16,21,136,Unhealthy for Sensitive Groups,49.7,80.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 10:00 PM,2016,06,16,22,137,Unhealthy for Sensitive Groups,50.0,55.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-16 11:00 PM,2016,06,16,23,135,Unhealthy for Sensitive Groups,49.5,55.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 12:00 AM,2016,06,17,00,134,Unhealthy for Sensitive Groups,48.9,50.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 01:00 AM,2016,06,17,01,134,Unhealthy for Sensitive Groups,49.1,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 02:00 AM,2016,06,17,02,130,Unhealthy for Sensitive Groups,47.4,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 03:00 AM,2016,06,17,03,126,Unhealthy for Sensitive Groups,45.7,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 04:00 AM,2016,06,17,04,121,Unhealthy for Sensitive Groups,43.7,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 05:00 AM,2016,06,17,05,116,Unhealthy for Sensitive Groups,41.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 06:00 AM,2016,06,17,06,113,Unhealthy for Sensitive Groups,40.4,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 07:00 AM,2016,06,17,07,111,Unhealthy for Sensitive Groups,39.5,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 08:00 AM,2016,06,17,08,108,Unhealthy for Sensitive Groups,38.3,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 09:00 AM,2016,06,17,09,105,Unhealthy for Sensitive Groups,37.3,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 10:00 AM,2016,06,17,10,101,Unhealthy for Sensitive Groups,35.6,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 11:00 AM,2016,06,17,11,99,Moderate,34.9,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 12:00 PM,2016,06,17,12,97,Moderate,33.9,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 01:00 PM,2016,06,17,13,95,Moderate,33.2,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 02:00 PM,2016,06,17,14,95,Moderate,33.0,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 03:00 PM,2016,06,17,15,94,Moderate,32.5,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 04:00 PM,2016,06,17,16,94,Moderate,32.6,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 05:00 PM,2016,06,17,17,93,Moderate,32.1,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 06:00 PM,2016,06,17,18,92,Moderate,31.5,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 07:00 PM,2016,06,17,19,92,Moderate,31.5,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 08:00 PM,2016,06,17,20,92,Moderate,31.4,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 09:00 PM,2016,06,17,21,90,Moderate,30.7,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 10:00 PM,2016,06,17,22,90,Moderate,30.5,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-17 11:00 PM,2016,06,17,23,89,Moderate,30.1,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 12:00 AM,2016,06,18,00,88,Moderate,29.5,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 01:00 AM,2016,06,18,01,87,Moderate,29.4,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 02:00 AM,2016,06,18,02,87,Moderate,29.2,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 03:00 AM,2016,06,18,03,87,Moderate,29.4,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 04:00 AM,2016,06,18,04,88,Moderate,29.7,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 05:00 AM,2016,06,18,05,88,Moderate,29.6,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 06:00 AM,2016,06,18,06,88,Moderate,29.7,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 07:00 AM,2016,06,18,07,88,Moderate,29.8,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 08:00 AM,2016,06,18,08,88,Moderate,29.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 09:00 AM,2016,06,18,09,87,Moderate,29.2,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 10:00 AM,2016,06,18,10,86,Moderate,28.7,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 11:00 AM,2016,06,18,11,85,Moderate,28.4,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 12:00 PM,2016,06,18,12,85,Moderate,28.2,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 01:00 PM,2016,06,18,13,85,Moderate,28.2,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 02:00 PM,2016,06,18,14,84,Moderate,27.8,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 03:00 PM,2016,06,18,15,84,Moderate,27.7,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 04:00 PM,2016,06,18,16,83,Moderate,27.2,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 05:00 PM,2016,06,18,17,83,Moderate,27.2,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 06:00 PM,2016,06,18,18,82,Moderate,27.0,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 07:00 PM,2016,06,18,19,81,Moderate,26.6,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 08:00 PM,2016,06,18,20,80,Moderate,26.1,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 09:00 PM,2016,06,18,21,81,Moderate,26.3,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 10:00 PM,2016,06,18,22,81,Moderate,26.3,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-18 11:00 PM,2016,06,18,23,81,Moderate,26.2,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 12:00 AM,2016,06,19,00,81,Moderate,26.5,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 01:00 AM,2016,06,19,01,81,Moderate,26.4,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 02:00 AM,2016,06,19,02,81,Moderate,26.4,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 03:00 AM,2016,06,19,03,80,Moderate,25.7,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 04:00 AM,2016,06,19,04,79,Moderate,25.5,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 05:00 AM,2016,06,19,05,79,Moderate,25.2,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 06:00 AM,2016,06,19,06,79,Moderate,25.2,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 07:00 AM,2016,06,19,07,78,Moderate,24.9,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 08:00 AM,2016,06,19,08,78,Moderate,24.8,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 09:00 AM,2016,06,19,09,77,Moderate,24.6,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 10:00 AM,2016,06,19,10,77,Moderate,24.3,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 11:00 AM,2016,06,19,11,76,Moderate,24.1,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 12:00 PM,2016,06,19,12,76,Moderate,23.9,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 01:00 PM,2016,06,19,13,75,Moderate,23.4,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 02:00 PM,2016,06,19,14,87,Moderate,29.4,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 03:00 PM,2016,06,19,15,88,Moderate,29.5,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 04:00 PM,2016,06,19,16,88,Moderate,29.8,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 05:00 PM,2016,06,19,17,88,Moderate,29.9,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 06:00 PM,2016,06,19,18,88,Moderate,29.8,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 07:00 PM,2016,06,19,19,89,Moderate,30.0,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 08:00 PM,2016,06,19,20,89,Moderate,30.2,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 09:00 PM,2016,06,19,21,88,Moderate,29.7,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 10:00 PM,2016,06,19,22,88,Moderate,29.6,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-19 11:00 PM,2016,06,19,23,88,Moderate,29.6,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 12:00 AM,2016,06,20,00,87,Moderate,29.1,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 01:00 AM,2016,06,20,01,87,Moderate,29.3,172.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 02:00 AM,2016,06,20,02,88,Moderate,29.6,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 03:00 AM,2016,06,20,03,89,Moderate,30.2,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 04:00 AM,2016,06,20,04,89,Moderate,30.4,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 05:00 AM,2016,06,20,05,90,Moderate,30.8,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 06:00 AM,2016,06,20,06,91,Moderate,31.2,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 07:00 AM,2016,06,20,07,74,Moderate,23.2,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 08:00 AM,2016,06,20,08,70,Moderate,21.1,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 09:00 AM,2016,06,20,09,70,Moderate,21.0,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 10:00 AM,2016,06,20,10,70,Moderate,21.0,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 11:00 AM,2016,06,20,11,69,Moderate,20.5,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 12:00 PM,2016,06,20,12,69,Moderate,20.5,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 01:00 PM,2016,06,20,13,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 02:00 PM,2016,06,20,14,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 03:00 PM,2016,06,20,15,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 04:00 PM,2016,06,20,16,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 05:00 PM,2016,06,20,17,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 06:00 PM,2016,06,20,18,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 07:00 PM,2016,06,20,19,-999,N/A,-999.0,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 08:00 PM,2016,06,20,20,62,Moderate,17.1,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 09:00 PM,2016,06,20,21,66,Moderate,19.0,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 10:00 PM,2016,06,20,22,72,Moderate,21.9,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-20 11:00 PM,2016,06,20,23,77,Moderate,24.5,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 12:00 AM,2016,06,21,00,77,Moderate,24.7,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 01:00 AM,2016,06,21,01,76,Moderate,23.9,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 02:00 AM,2016,06,21,02,76,Moderate,24.1,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 03:00 AM,2016,06,21,03,76,Moderate,24.1,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 04:00 AM,2016,06,21,04,77,Moderate,24.3,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 05:00 AM,2016,06,21,05,77,Moderate,24.7,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 06:00 AM,2016,06,21,06,77,Moderate,24.7,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 07:00 AM,2016,06,21,07,77,Moderate,24.7,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 08:00 AM,2016,06,21,08,78,Moderate,24.9,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 09:00 AM,2016,06,21,09,79,Moderate,25.6,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 10:00 AM,2016,06,21,10,79,Moderate,25.6,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 11:00 AM,2016,06,21,11,80,Moderate,25.7,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 12:00 PM,2016,06,21,12,79,Moderate,25.3,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 01:00 PM,2016,06,21,13,79,Moderate,25.2,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 02:00 PM,2016,06,21,14,79,Moderate,25.3,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 03:00 PM,2016,06,21,15,79,Moderate,25.3,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 04:00 PM,2016,06,21,16,78,Moderate,25.0,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 05:00 PM,2016,06,21,17,78,Moderate,25.0,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 06:00 PM,2016,06,21,18,78,Moderate,25.0,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 07:00 PM,2016,06,21,19,78,Moderate,24.8,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 08:00 PM,2016,06,21,20,78,Moderate,24.9,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 09:00 PM,2016,06,21,21,78,Moderate,24.8,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 10:00 PM,2016,06,21,22,77,Moderate,24.5,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-21 11:00 PM,2016,06,21,23,76,Moderate,24.1,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 12:00 AM,2016,06,22,00,76,Moderate,24.0,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 01:00 AM,2016,06,22,01,75,Moderate,23.5,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 02:00 AM,2016,06,22,02,75,Moderate,23.5,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 03:00 AM,2016,06,22,03,75,Moderate,23.7,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 04:00 AM,2016,06,22,04,75,Moderate,23.6,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 05:00 AM,2016,06,22,05,75,Moderate,23.6,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 06:00 AM,2016,06,22,06,75,Moderate,23.5,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 07:00 AM,2016,06,22,07,75,Moderate,23.3,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 08:00 AM,2016,06,22,08,75,Moderate,23.4,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 09:00 AM,2016,06,22,09,74,Moderate,23.1,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 10:00 AM,2016,06,22,10,74,Moderate,23.1,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 11:00 AM,2016,06,22,11,74,Moderate,23.1,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 12:00 PM,2016,06,22,12,74,Moderate,23.0,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 01:00 PM,2016,06,22,13,74,Moderate,23.0,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 02:00 PM,2016,06,22,14,74,Moderate,23.0,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 03:00 PM,2016,06,22,15,74,Moderate,22.9,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 04:00 PM,2016,06,22,16,74,Moderate,22.9,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 05:00 PM,2016,06,22,17,74,Moderate,22.9,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 06:00 PM,2016,06,22,18,74,Moderate,23.1,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 07:00 PM,2016,06,22,19,74,Moderate,23.2,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 08:00 PM,2016,06,22,20,74,Moderate,23.2,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 09:00 PM,2016,06,22,21,75,Moderate,23.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 10:00 PM,2016,06,22,22,76,Moderate,23.9,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-22 11:00 PM,2016,06,22,23,76,Moderate,23.9,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 12:00 AM,2016,06,23,00,76,Moderate,24.1,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 01:00 AM,2016,06,23,01,78,Moderate,24.8,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 02:00 AM,2016,06,23,02,79,Moderate,25.4,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 03:00 AM,2016,06,23,03,80,Moderate,25.7,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 04:00 AM,2016,06,23,04,80,Moderate,25.7,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 05:00 AM,2016,06,23,05,79,Moderate,25.5,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 06:00 AM,2016,06,23,06,79,Moderate,25.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 07:00 AM,2016,06,23,07,80,Moderate,26.0,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 08:00 AM,2016,06,23,08,80,Moderate,26.0,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 09:00 AM,2016,06,23,09,81,Moderate,26.2,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 10:00 AM,2016,06,23,10,81,Moderate,26.2,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 11:00 AM,2016,06,23,11,81,Moderate,26.2,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 12:00 PM,2016,06,23,12,81,Moderate,26.6,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 01:00 PM,2016,06,23,13,82,Moderate,26.7,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 02:00 PM,2016,06,23,14,81,Moderate,26.5,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 03:00 PM,2016,06,23,15,81,Moderate,26.5,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 04:00 PM,2016,06,23,16,81,Moderate,26.4,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 05:00 PM,2016,06,23,17,80,Moderate,26.1,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 06:00 PM,2016,06,23,18,80,Moderate,25.9,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 07:00 PM,2016,06,23,19,80,Moderate,25.7,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 08:00 PM,2016,06,23,20,80,Moderate,25.7,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 09:00 PM,2016,06,23,21,79,Moderate,25.3,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 10:00 PM,2016,06,23,22,79,Moderate,25.2,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-23 11:00 PM,2016,06,23,23,79,Moderate,25.2,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 12:00 AM,2016,06,24,00,79,Moderate,25.3,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 01:00 AM,2016,06,24,01,79,Moderate,25.3,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 02:00 AM,2016,06,24,02,78,Moderate,25.0,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 03:00 AM,2016,06,24,03,78,Moderate,24.8,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 04:00 AM,2016,06,24,04,78,Moderate,25.0,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 05:00 AM,2016,06,24,05,78,Moderate,24.9,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 06:00 AM,2016,06,24,06,78,Moderate,25.1,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 07:00 AM,2016,06,24,07,77,Moderate,24.7,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 08:00 AM,2016,06,24,08,77,Moderate,24.3,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 09:00 AM,2016,06,24,09,76,Moderate,24.0,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 10:00 AM,2016,06,24,10,77,Moderate,24.4,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 11:00 AM,2016,06,24,11,77,Moderate,24.3,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 12:00 PM,2016,06,24,12,76,Moderate,24.2,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 01:00 PM,2016,06,24,13,76,Moderate,24.0,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 02:00 PM,2016,06,24,14,76,Moderate,23.9,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 03:00 PM,2016,06,24,15,76,Moderate,23.9,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 04:00 PM,2016,06,24,16,76,Moderate,24.0,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 05:00 PM,2016,06,24,17,76,Moderate,24.0,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 06:00 PM,2016,06,24,18,76,Moderate,24.0,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 07:00 PM,2016,06,24,19,76,Moderate,23.8,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 08:00 PM,2016,06,24,20,76,Moderate,24.0,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 09:00 PM,2016,06,24,21,76,Moderate,24.2,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 10:00 PM,2016,06,24,22,76,Moderate,24.0,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-24 11:00 PM,2016,06,24,23,75,Moderate,23.6,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 12:00 AM,2016,06,25,00,73,Moderate,22.7,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 01:00 AM,2016,06,25,01,72,Moderate,22.2,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 02:00 AM,2016,06,25,02,71,Moderate,21.7,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 03:00 AM,2016,06,25,03,70,Moderate,21.1,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 04:00 AM,2016,06,25,04,70,Moderate,21.0,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 05:00 AM,2016,06,25,05,70,Moderate,20.9,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 06:00 AM,2016,06,25,06,69,Moderate,20.8,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 07:00 AM,2016,06,25,07,69,Moderate,20.8,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 08:00 AM,2016,06,25,08,70,Moderate,20.9,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 09:00 AM,2016,06,25,09,70,Moderate,21.0,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 10:00 AM,2016,06,25,10,69,Moderate,20.5,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 11:00 AM,2016,06,25,11,69,Moderate,20.6,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 12:00 PM,2016,06,25,12,69,Moderate,20.5,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 01:00 PM,2016,06,25,13,69,Moderate,20.5,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 02:00 PM,2016,06,25,14,68,Moderate,20.4,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 03:00 PM,2016,06,25,15,69,Moderate,20.6,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 04:00 PM,2016,06,25,16,69,Moderate,20.6,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 05:00 PM,2016,06,25,17,68,Moderate,20.4,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 06:00 PM,2016,06,25,18,68,Moderate,20.3,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 07:00 PM,2016,06,25,19,68,Moderate,20.3,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 08:00 PM,2016,06,25,20,68,Moderate,20.0,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 09:00 PM,2016,06,25,21,67,Moderate,19.7,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 10:00 PM,2016,06,25,22,67,Moderate,19.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-25 11:00 PM,2016,06,25,23,67,Moderate,19.5,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 12:00 AM,2016,06,26,00,67,Moderate,19.8,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 01:00 AM,2016,06,26,01,67,Moderate,19.7,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 02:00 AM,2016,06,26,02,66,Moderate,19.4,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 03:00 AM,2016,06,26,03,66,Moderate,19.1,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 04:00 AM,2016,06,26,04,65,Moderate,18.7,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 05:00 AM,2016,06,26,05,64,Moderate,18.5,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 06:00 AM,2016,06,26,06,63,Moderate,18.0,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 07:00 AM,2016,06,26,07,64,Moderate,18.2,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 08:00 AM,2016,06,26,08,63,Moderate,18.0,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 09:00 AM,2016,06,26,09,63,Moderate,18.0,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 10:00 AM,2016,06,26,10,63,Moderate,18.0,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 11:00 AM,2016,06,26,11,63,Moderate,18.0,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 12:00 PM,2016,06,26,12,63,Moderate,17.7,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 01:00 PM,2016,06,26,13,63,Moderate,17.7,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 02:00 PM,2016,06,26,14,63,Moderate,18.0,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 03:00 PM,2016,06,26,15,63,Moderate,17.7,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 04:00 PM,2016,06,26,16,62,Moderate,17.3,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 05:00 PM,2016,06,26,17,62,Moderate,17.5,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 06:00 PM,2016,06,26,18,63,Moderate,17.6,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 07:00 PM,2016,06,26,19,63,Moderate,17.7,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 08:00 PM,2016,06,26,20,63,Moderate,17.6,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 09:00 PM,2016,06,26,21,63,Moderate,17.8,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 10:00 PM,2016,06,26,22,63,Moderate,18.0,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-26 11:00 PM,2016,06,26,23,64,Moderate,18.2,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 12:00 AM,2016,06,27,00,63,Moderate,18.0,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 01:00 AM,2016,06,27,01,63,Moderate,17.8,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 02:00 AM,2016,06,27,02,64,Moderate,18.1,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 03:00 AM,2016,06,27,03,64,Moderate,18.2,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 04:00 AM,2016,06,27,04,65,Moderate,18.7,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 05:00 AM,2016,06,27,05,65,Moderate,18.8,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 06:00 AM,2016,06,27,06,66,Moderate,19.0,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 07:00 AM,2016,06,27,07,65,Moderate,18.8,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 08:00 AM,2016,06,27,08,66,Moderate,19.3,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 09:00 AM,2016,06,27,09,67,Moderate,19.7,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 10:00 AM,2016,06,27,10,68,Moderate,20.4,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 11:00 AM,2016,06,27,11,70,Moderate,21.0,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 12:00 PM,2016,06,27,12,71,Moderate,21.5,-999.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 01:00 PM,2016,06,27,13,70,Moderate,21.3,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 02:00 PM,2016,06,27,14,70,Moderate,21.0,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 03:00 PM,2016,06,27,15,70,Moderate,21.2,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 04:00 PM,2016,06,27,16,71,Moderate,21.5,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 05:00 PM,2016,06,27,17,71,Moderate,21.4,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 06:00 PM,2016,06,27,18,70,Moderate,21.3,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 07:00 PM,2016,06,27,19,71,Moderate,21.4,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 08:00 PM,2016,06,27,20,71,Moderate,21.5,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 09:00 PM,2016,06,27,21,71,Moderate,21.8,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 10:00 PM,2016,06,27,22,72,Moderate,22.1,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-27 11:00 PM,2016,06,27,23,72,Moderate,22.1,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 12:00 AM,2016,06,28,00,73,Moderate,22.5,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 01:00 AM,2016,06,28,01,73,Moderate,22.7,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 02:00 AM,2016,06,28,02,74,Moderate,22.8,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 03:00 AM,2016,06,28,03,75,Moderate,23.4,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 04:00 AM,2016,06,28,04,75,Moderate,23.4,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 05:00 AM,2016,06,28,05,76,Moderate,24.0,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 06:00 AM,2016,06,28,06,76,Moderate,24.1,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 07:00 AM,2016,06,28,07,77,Moderate,24.5,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 08:00 AM,2016,06,28,08,77,Moderate,24.3,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 09:00 AM,2016,06,28,09,76,Moderate,23.8,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 10:00 AM,2016,06,28,10,75,Moderate,23.5,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 11:00 AM,2016,06,28,11,73,Moderate,22.6,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 12:00 PM,2016,06,28,12,72,Moderate,22.3,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 01:00 PM,2016,06,28,13,72,Moderate,22.1,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 02:00 PM,2016,06,28,14,72,Moderate,22.2,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 03:00 PM,2016,06,28,15,72,Moderate,22.0,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 04:00 PM,2016,06,28,16,72,Moderate,22.2,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 05:00 PM,2016,06,28,17,72,Moderate,22.3,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 06:00 PM,2016,06,28,18,73,Moderate,22.5,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 07:00 PM,2016,06,28,19,74,Moderate,22.8,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 08:00 PM,2016,06,28,20,74,Moderate,22.9,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 09:00 PM,2016,06,28,21,74,Moderate,22.8,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 10:00 PM,2016,06,28,22,73,Moderate,22.5,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-28 11:00 PM,2016,06,28,23,72,Moderate,22.2,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-29 12:00 AM,2016,06,29,00,71,Moderate,21.7,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-29 01:00 AM,2016,06,29,01,72,Moderate,21.9,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-29 02:00 AM,2016,06,29,02,71,Moderate,21.7,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-29 03:00 AM,2016,06,29,03,71,Moderate,21.5,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-29 04:00 AM,2016,06,29,04,71,Moderate,21.5,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-29 05:00 AM,2016,06,29,05,71,Moderate,21.4,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2016-06-29 06:00 AM,2016,06,29,06,71,Moderate,21.6,27.0,UG/M3,1 Hr,Valid

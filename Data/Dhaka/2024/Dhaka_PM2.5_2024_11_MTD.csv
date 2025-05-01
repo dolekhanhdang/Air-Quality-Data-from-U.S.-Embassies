@@ -1,0 +1,719 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dhaka,PM2.5 - Principal,2024-11-01 01:00 AM,2024,11,01,01,-999.0,-999,N/A,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 02:00 AM,2024,11,01,02,110.2,189,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 03:00 AM,2024,11,01,03,110.6,190,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 04:00 AM,2024,11,01,04,109.2,189,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 05:00 AM,2024,11,01,05,152.6,228,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 06:00 AM,2024,11,01,06,154.8,230,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 07:00 AM,2024,11,01,07,132.3,208,Very Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 08:00 AM,2024,11,01,08,123.6,199,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 09:00 AM,2024,11,01,09,121.2,197,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 10:00 AM,2024,11,01,10,121.3,197,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 11:00 AM,2024,11,01,11,107.3,187,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 12:00 PM,2024,11,01,12,99.1,182,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 01:00 PM,2024,11,01,13,92.0,177,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 02:00 PM,2024,11,01,14,86.5,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 03:00 PM,2024,11,01,15,84.2,171,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 04:00 PM,2024,11,01,16,84.6,171,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 05:00 PM,2024,11,01,17,89.7,175,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 06:00 PM,2024,11,01,18,92.0,177,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 07:00 PM,2024,11,01,19,86.1,172,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 08:00 PM,2024,11,01,20,74.4,164,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 09:00 PM,2024,11,01,21,67.5,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 10:00 PM,2024,11,01,22,70.3,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-01 11:00 PM,2024,11,01,23,70.9,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 12:00 AM,2024,11,02,00,64.3,157,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 01:00 AM,2024,11,02,01,58.2,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 02:00 AM,2024,11,02,02,57.6,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 03:00 AM,2024,11,02,03,57.3,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 04:00 AM,2024,11,02,04,56.7,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 05:00 AM,2024,11,02,05,61.4,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 06:00 AM,2024,11,02,06,80.7,169,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 07:00 AM,2024,11,02,07,91.9,177,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 08:00 AM,2024,11,02,08,79.1,168,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 09:00 AM,2024,11,02,09,75.5,165,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 10:00 AM,2024,11,02,10,76.2,166,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 11:00 AM,2024,11,02,11,86.0,172,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 12:00 PM,2024,11,02,12,87.0,173,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 01:00 PM,2024,11,02,13,84.9,172,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 02:00 PM,2024,11,02,14,83.1,170,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 03:00 PM,2024,11,02,15,83.0,170,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 04:00 PM,2024,11,02,16,89.6,175,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 05:00 PM,2024,11,02,17,93.0,177,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 06:00 PM,2024,11,02,18,111.1,190,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 07:00 PM,2024,11,02,19,137.3,213,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 08:00 PM,2024,11,02,20,134.7,210,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 09:00 PM,2024,11,02,21,132.8,208,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 10:00 PM,2024,11,02,22,125.4,200,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-02 11:00 PM,2024,11,02,23,122.2,198,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 12:00 AM,2024,11,03,00,113.1,191,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 01:00 AM,2024,11,03,01,102.5,184,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 02:00 AM,2024,11,03,02,92.3,177,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 03:00 AM,2024,11,03,03,86.6,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 04:00 AM,2024,11,03,04,86.3,173,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 05:00 AM,2024,11,03,05,86.6,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 06:00 AM,2024,11,03,06,95.3,179,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 07:00 AM,2024,11,03,07,91.3,176,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 08:00 AM,2024,11,03,08,87.7,174,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 09:00 AM,2024,11,03,09,88.2,174,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 10:00 AM,2024,11,03,10,88.6,174,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 11:00 AM,2024,11,03,11,86.8,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 12:00 PM,2024,11,03,12,84.6,171,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 01:00 PM,2024,11,03,13,82.7,170,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 02:00 PM,2024,11,03,14,82.3,170,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 03:00 PM,2024,11,03,15,82.2,170,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 04:00 PM,2024,11,03,16,81.9,170,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 05:00 PM,2024,11,03,17,84.2,171,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 06:00 PM,2024,11,03,18,95.4,179,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 07:00 PM,2024,11,03,19,102.0,184,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 08:00 PM,2024,11,03,20,113.0,191,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 09:00 PM,2024,11,03,21,117.3,194,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 10:00 PM,2024,11,03,22,114.9,193,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-03 11:00 PM,2024,11,03,23,111.1,190,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 12:00 AM,2024,11,04,00,104.5,185,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 01:00 AM,2024,11,04,01,111.5,190,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 02:00 AM,2024,11,04,02,109.5,189,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 03:00 AM,2024,11,04,03,107.5,187,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 04:00 AM,2024,11,04,04,99.7,182,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 05:00 AM,2024,11,04,05,95.0,179,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 06:00 AM,2024,11,04,06,96.3,180,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 07:00 AM,2024,11,04,07,95.1,179,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 08:00 AM,2024,11,04,08,91.9,177,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 09:00 AM,2024,11,04,09,85.1,172,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 10:00 AM,2024,11,04,10,79.8,168,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 11:00 AM,2024,11,04,11,78.6,167,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 12:00 PM,2024,11,04,12,70.4,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 01:00 PM,2024,11,04,13,64.4,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 02:00 PM,2024,11,04,14,59.8,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 03:00 PM,2024,11,04,15,61.1,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 04:00 PM,2024,11,04,16,64.1,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 05:00 PM,2024,11,04,17,71.6,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 06:00 PM,2024,11,04,18,77.9,167,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 07:00 PM,2024,11,04,19,87.2,173,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 08:00 PM,2024,11,04,20,93.7,178,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 09:00 PM,2024,11,04,21,89.7,175,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 10:00 PM,2024,11,04,22,90.8,176,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-04 11:00 PM,2024,11,04,23,86.3,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 12:00 AM,2024,11,05,00,95.1,179,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 01:00 AM,2024,11,05,01,103.7,185,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 02:00 AM,2024,11,05,02,108.4,188,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 03:00 AM,2024,11,05,03,103.3,185,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 04:00 AM,2024,11,05,04,97.6,181,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 05:00 AM,2024,11,05,05,86.3,173,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 06:00 AM,2024,11,05,06,85.0,172,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 07:00 AM,2024,11,05,07,83.4,171,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 08:00 AM,2024,11,05,08,76.2,166,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 09:00 AM,2024,11,05,09,63.7,157,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 10:00 AM,2024,11,05,10,65.3,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 11:00 AM,2024,11,05,11,60.1,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 12:00 PM,2024,11,05,12,58.5,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 01:00 PM,2024,11,05,13,59.2,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 02:00 PM,2024,11,05,14,58.7,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 03:00 PM,2024,11,05,15,63.0,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 04:00 PM,2024,11,05,16,63.6,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 05:00 PM,2024,11,05,17,87.2,173,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 06:00 PM,2024,11,05,18,98.1,181,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 07:00 PM,2024,11,05,19,58.0,153,Unhealthy,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 08:00 PM,2024,11,05,20,45.5,126,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 09:00 PM,2024,11,05,21,37.2,105,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 10:00 PM,2024,11,05,22,45.6,126,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-05 11:00 PM,2024,11,05,23,60.8,155,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 12:00 AM,2024,11,06,00,58.9,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 01:00 AM,2024,11,06,01,50.4,138,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 02:00 AM,2024,11,06,02,28.7,88,Moderate,7.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 03:00 AM,2024,11,06,03,20.8,73,Moderate,13.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 04:00 AM,2024,11,06,04,29.4,89,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 05:00 AM,2024,11,06,05,51.7,141,Unhealthy for Sensitive Groups,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 06:00 AM,2024,11,06,06,46.3,128,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 07:00 AM,2024,11,06,07,60.6,155,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 08:00 AM,2024,11,06,08,65.3,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 09:00 AM,2024,11,06,09,51.1,139,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 10:00 AM,2024,11,06,10,43.5,121,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 11:00 AM,2024,11,06,11,36.7,104,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 12:00 PM,2024,11,06,12,41.8,117,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 01:00 PM,2024,11,06,13,50.4,138,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 02:00 PM,2024,11,06,14,51.2,140,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 03:00 PM,2024,11,06,15,46.6,128,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 04:00 PM,2024,11,06,16,42.8,119,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 05:00 PM,2024,11,06,17,40.4,113,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 06:00 PM,2024,11,06,18,39.6,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 07:00 PM,2024,11,06,19,49.3,135,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 08:00 PM,2024,11,06,20,55.6,151,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 09:00 PM,2024,11,06,21,54.3,147,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 10:00 PM,2024,11,06,22,54.6,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-06 11:00 PM,2024,11,06,23,53.1,144,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 12:00 AM,2024,11,07,00,74.6,164,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 01:00 AM,2024,11,07,01,124.8,200,Unhealthy,175.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 02:00 AM,2024,11,07,02,115.9,193,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 03:00 AM,2024,11,07,03,110.9,190,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 04:00 AM,2024,11,07,04,130.5,206,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 05:00 AM,2024,11,07,05,137.2,213,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 06:00 AM,2024,11,07,06,132.1,208,Very Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 07:00 AM,2024,11,07,07,113.0,191,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 08:00 AM,2024,11,07,08,97.5,180,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 09:00 AM,2024,11,07,09,68.2,160,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 10:00 AM,2024,11,07,10,49.1,134,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 11:00 AM,2024,11,07,11,39.5,111,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 12:00 PM,2024,11,07,12,40.2,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 01:00 PM,2024,11,07,13,33.1,96,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 02:00 PM,2024,11,07,14,33.0,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 03:00 PM,2024,11,07,15,30.0,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 04:00 PM,2024,11,07,16,29.4,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 05:00 PM,2024,11,07,17,43.2,120,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 06:00 PM,2024,11,07,18,56.1,151,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 07:00 PM,2024,11,07,19,61.5,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 08:00 PM,2024,11,07,20,60.7,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 09:00 PM,2024,11,07,21,58.3,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 10:00 PM,2024,11,07,22,63.1,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-07 11:00 PM,2024,11,07,23,63.6,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 12:00 AM,2024,11,08,00,103.3,185,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 01:00 AM,2024,11,08,01,126.1,202,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 02:00 AM,2024,11,08,02,129.5,205,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 03:00 AM,2024,11,08,03,120.8,197,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 04:00 AM,2024,11,08,04,104.9,186,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 05:00 AM,2024,11,08,05,90.9,176,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 06:00 AM,2024,11,08,06,87.9,174,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 07:00 AM,2024,11,08,07,84.9,172,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 08:00 AM,2024,11,08,08,61.4,155,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 09:00 AM,2024,11,08,09,49.7,136,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 10:00 AM,2024,11,08,10,49.7,136,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Dhaka,PM2.5 - Principal,2024-11-08 12:00 PM,2024,11,08,12,-999.0,-999,N/A,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 01:00 PM,2024,11,08,13,21.9,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 02:00 PM,2024,11,08,14,19.7,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 03:00 PM,2024,11,08,15,19.8,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 04:00 PM,2024,11,08,16,19.9,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 05:00 PM,2024,11,08,17,22.9,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 06:00 PM,2024,11,08,18,25.5,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 07:00 PM,2024,11,08,19,31.7,93,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 08:00 PM,2024,11,08,20,32.8,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 09:00 PM,2024,11,08,21,31.9,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 10:00 PM,2024,11,08,22,34.9,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-08 11:00 PM,2024,11,08,23,37.4,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 12:00 AM,2024,11,09,00,39.2,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 01:00 AM,2024,11,09,01,34.1,98,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 02:00 AM,2024,11,09,02,29.0,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 03:00 AM,2024,11,09,03,31.0,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 04:00 AM,2024,11,09,04,34.9,99,Moderate,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 05:00 AM,2024,11,09,05,34.1,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 06:00 AM,2024,11,09,06,40.4,113,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 07:00 AM,2024,11,09,07,42.2,117,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 08:00 AM,2024,11,09,08,40.1,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 09:00 AM,2024,11,09,09,30.0,90,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 10:00 AM,2024,11,09,10,24.5,80,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 11:00 AM,2024,11,09,11,24.7,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 12:00 PM,2024,11,09,12,19.8,71,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 01:00 PM,2024,11,09,13,15.9,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 02:00 PM,2024,11,09,14,13.9,60,Moderate,12.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 03:00 PM,2024,11,09,15,14.4,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 04:00 PM,2024,11,09,16,16.2,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 05:00 PM,2024,11,09,17,24.6,80,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 06:00 PM,2024,11,09,18,45.3,125,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 07:00 PM,2024,11,09,19,50.6,138,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 08:00 PM,2024,11,09,20,48.3,133,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 09:00 PM,2024,11,09,21,50.6,138,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 10:00 PM,2024,11,09,22,43.8,121,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-09 11:00 PM,2024,11,09,23,40.4,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 12:00 AM,2024,11,10,00,78.7,167,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 01:00 AM,2024,11,10,01,87.8,174,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 02:00 AM,2024,11,10,02,88.9,174,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 03:00 AM,2024,11,10,03,78.9,167,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 04:00 AM,2024,11,10,04,64.4,157,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 05:00 AM,2024,11,10,05,77.2,166,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 06:00 AM,2024,11,10,06,60.6,155,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 07:00 AM,2024,11,10,07,50.3,137,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 08:00 AM,2024,11,10,08,41.6,116,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 09:00 AM,2024,11,10,09,30.3,90,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 10:00 AM,2024,11,10,10,27.1,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 11:00 AM,2024,11,10,11,28.0,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 12:00 PM,2024,11,10,12,27.0,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 01:00 PM,2024,11,10,13,28.0,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 02:00 PM,2024,11,10,14,30.4,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 03:00 PM,2024,11,10,15,32.2,94,Moderate,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 04:00 PM,2024,11,10,16,36.6,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 05:00 PM,2024,11,10,17,51.8,141,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 06:00 PM,2024,11,10,18,66.4,159,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 07:00 PM,2024,11,10,19,70.7,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 08:00 PM,2024,11,10,20,82.3,170,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 09:00 PM,2024,11,10,21,76.6,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 10:00 PM,2024,11,10,22,92.8,177,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-10 11:00 PM,2024,11,10,23,95.4,179,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 12:00 AM,2024,11,11,00,77.7,167,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 01:00 AM,2024,11,11,01,78.3,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 02:00 AM,2024,11,11,02,78.1,167,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 03:00 AM,2024,11,11,03,93.6,178,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 04:00 AM,2024,11,11,04,67.3,159,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 05:00 AM,2024,11,11,05,56.6,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 06:00 AM,2024,11,11,06,52.3,142,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 07:00 AM,2024,11,11,07,65.6,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 08:00 AM,2024,11,11,08,45.8,126,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 09:00 AM,2024,11,11,09,32.9,95,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 10:00 AM,2024,11,11,10,22.4,76,Moderate,12.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 11:00 AM,2024,11,11,11,22.7,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 12:00 PM,2024,11,11,12,24.3,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 01:00 PM,2024,11,11,13,24.6,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 02:00 PM,2024,11,11,14,26.8,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 03:00 PM,2024,11,11,15,27.4,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 04:00 PM,2024,11,11,16,33.2,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 05:00 PM,2024,11,11,17,51.1,139,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 06:00 PM,2024,11,11,18,72.0,163,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 07:00 PM,2024,11,11,19,82.0,170,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 08:00 PM,2024,11,11,20,100.0,182,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 09:00 PM,2024,11,11,21,129.0,204,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 10:00 PM,2024,11,11,22,124.5,199,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-11 11:00 PM,2024,11,11,23,125.7,201,Very Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 12:00 AM,2024,11,12,00,122.3,198,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 01:00 AM,2024,11,12,01,97.2,180,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 02:00 AM,2024,11,12,02,80.6,169,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 03:00 AM,2024,11,12,03,72.8,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 04:00 AM,2024,11,12,04,70.4,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 05:00 AM,2024,11,12,05,61.2,155,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 06:00 AM,2024,11,12,06,59.5,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 07:00 AM,2024,11,12,07,56.7,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 08:00 AM,2024,11,12,08,53.3,145,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 09:00 AM,2024,11,12,09,46.1,127,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 10:00 AM,2024,11,12,10,39.5,111,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 11:00 AM,2024,11,12,11,41.2,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 12:00 PM,2024,11,12,12,43.6,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 01:00 PM,2024,11,12,13,45.8,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 02:00 PM,2024,11,12,14,45.9,127,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 03:00 PM,2024,11,12,15,48.4,133,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 04:00 PM,2024,11,12,16,52.3,142,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 05:00 PM,2024,11,12,17,66.1,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 06:00 PM,2024,11,12,18,79.5,168,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 07:00 PM,2024,11,12,19,88.2,174,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 08:00 PM,2024,11,12,20,105.6,186,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 09:00 PM,2024,11,12,21,129.3,205,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 10:00 PM,2024,11,12,22,130.6,206,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-12 11:00 PM,2024,11,12,23,128.3,204,Very Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 12:00 AM,2024,11,13,00,132.1,208,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 01:00 AM,2024,11,13,01,122.1,198,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 02:00 AM,2024,11,13,02,109.5,189,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 03:00 AM,2024,11,13,03,111.7,190,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 04:00 AM,2024,11,13,04,113.9,192,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 05:00 AM,2024,11,13,05,115.4,193,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 06:00 AM,2024,11,13,06,116.8,194,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 07:00 AM,2024,11,13,07,112.1,191,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 08:00 AM,2024,11,13,08,85.8,172,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 09:00 AM,2024,11,13,09,69.3,161,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 10:00 AM,2024,11,13,10,52.6,143,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 11:00 AM,2024,11,13,11,44.8,124,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 12:00 PM,2024,11,13,12,35.9,102,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 01:00 PM,2024,11,13,13,33.4,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 02:00 PM,2024,11,13,14,32.7,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 03:00 PM,2024,11,13,15,36.8,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 04:00 PM,2024,11,13,16,43.9,122,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 05:00 PM,2024,11,13,17,54.4,148,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 06:00 PM,2024,11,13,18,67.7,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 07:00 PM,2024,11,13,19,111.8,190,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 08:00 PM,2024,11,13,20,112.4,191,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 09:00 PM,2024,11,13,21,113.7,192,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 10:00 PM,2024,11,13,22,131.8,207,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-13 11:00 PM,2024,11,13,23,133.4,209,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 12:00 AM,2024,11,14,00,133.7,209,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 01:00 AM,2024,11,14,01,121.8,197,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 02:00 AM,2024,11,14,02,119.4,196,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 03:00 AM,2024,11,14,03,119.2,196,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 04:00 AM,2024,11,14,04,110.6,190,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 05:00 AM,2024,11,14,05,101.8,183,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 06:00 AM,2024,11,14,06,104.1,185,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 07:00 AM,2024,11,14,07,103.9,185,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 08:00 AM,2024,11,14,08,108.6,188,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 09:00 AM,2024,11,14,09,141.0,216,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 10:00 AM,2024,11,14,10,141.9,217,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 11:00 AM,2024,11,14,11,129.5,205,Very Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 12:00 PM,2024,11,14,12,107.7,188,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 01:00 PM,2024,11,14,13,94.8,179,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 02:00 PM,2024,11,14,14,84.9,172,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 03:00 PM,2024,11,14,15,89.4,175,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 04:00 PM,2024,11,14,16,96.7,180,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 05:00 PM,2024,11,14,17,103.3,185,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 06:00 PM,2024,11,14,18,113.1,191,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 07:00 PM,2024,11,14,19,133.0,208,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 08:00 PM,2024,11,14,20,142.5,218,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 09:00 PM,2024,11,14,21,135.7,211,Very Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 10:00 PM,2024,11,14,22,134.8,210,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-14 11:00 PM,2024,11,14,23,155.4,231,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 12:00 AM,2024,11,15,00,143.7,219,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 01:00 AM,2024,11,15,01,134.3,210,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 02:00 AM,2024,11,15,02,130.3,206,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 03:00 AM,2024,11,15,03,123.5,199,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 04:00 AM,2024,11,15,04,120.6,197,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 05:00 AM,2024,11,15,05,120.2,196,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 06:00 AM,2024,11,15,06,125.6,201,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 07:00 AM,2024,11,15,07,143.9,219,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 08:00 AM,2024,11,15,08,172.9,248,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 09:00 AM,2024,11,15,09,178.8,254,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 10:00 AM,2024,11,15,10,166.3,241,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 11:00 AM,2024,11,15,11,147.7,223,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 12:00 PM,2024,11,15,12,114.8,193,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 01:00 PM,2024,11,15,13,95.4,179,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 02:00 PM,2024,11,15,14,86.6,173,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 03:00 PM,2024,11,15,15,89.3,175,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 04:00 PM,2024,11,15,16,94.6,178,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 05:00 PM,2024,11,15,17,109.8,189,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 06:00 PM,2024,11,15,18,128.4,204,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 07:00 PM,2024,11,15,19,143.7,219,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 08:00 PM,2024,11,15,20,156.8,232,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 09:00 PM,2024,11,15,21,162.4,238,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 10:00 PM,2024,11,15,22,181.2,256,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-15 11:00 PM,2024,11,15,23,196.1,271,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 12:00 AM,2024,11,16,00,202.0,277,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 01:00 AM,2024,11,16,01,198.0,273,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 02:00 AM,2024,11,16,02,188.0,263,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 03:00 AM,2024,11,16,03,187.0,262,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 04:00 AM,2024,11,16,04,188.7,264,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 05:00 AM,2024,11,16,05,191.6,267,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 06:00 AM,2024,11,16,06,198.9,274,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 07:00 AM,2024,11,16,07,202.0,277,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 08:00 AM,2024,11,16,08,206.9,282,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 09:00 AM,2024,11,16,09,209.6,284,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 10:00 AM,2024,11,16,10,205.9,281,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 11:00 AM,2024,11,16,11,199.6,274,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 12:00 PM,2024,11,16,12,190.6,266,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 01:00 PM,2024,11,16,13,186.1,261,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 02:00 PM,2024,11,16,14,178.7,254,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 03:00 PM,2024,11,16,15,171.3,246,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 04:00 PM,2024,11,16,16,169.6,245,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 05:00 PM,2024,11,16,17,180.6,256,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 06:00 PM,2024,11,16,18,189.7,265,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 07:00 PM,2024,11,16,19,196.2,271,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 08:00 PM,2024,11,16,20,202.9,278,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 09:00 PM,2024,11,16,21,208.0,283,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 10:00 PM,2024,11,16,22,208.3,283,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-16 11:00 PM,2024,11,16,23,205.1,280,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 12:00 AM,2024,11,17,00,200.9,276,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 01:00 AM,2024,11,17,01,196.9,272,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 02:00 AM,2024,11,17,02,192.4,267,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 03:00 AM,2024,11,17,03,193.7,269,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 04:00 AM,2024,11,17,04,196.4,271,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 05:00 AM,2024,11,17,05,194.9,270,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 06:00 AM,2024,11,17,06,200.0,275,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 07:00 AM,2024,11,17,07,198.8,274,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 08:00 AM,2024,11,17,08,184.3,259,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 09:00 AM,2024,11,17,09,152.3,228,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 10:00 AM,2024,11,17,10,122.8,198,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 11:00 AM,2024,11,17,11,106.9,187,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 12:00 PM,2024,11,17,12,101.9,184,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 01:00 PM,2024,11,17,13,101.4,183,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 02:00 PM,2024,11,17,14,99.7,182,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 03:00 PM,2024,11,17,15,103.8,185,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 04:00 PM,2024,11,17,16,107.4,187,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 05:00 PM,2024,11,17,17,116.1,193,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 06:00 PM,2024,11,17,18,145.5,221,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 07:00 PM,2024,11,17,19,180.7,256,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 08:00 PM,2024,11,17,20,191.4,266,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 09:00 PM,2024,11,17,21,204.2,279,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 10:00 PM,2024,11,17,22,211.1,286,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-17 11:00 PM,2024,11,17,23,211.5,286,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 12:00 AM,2024,11,18,00,219.3,294,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 01:00 AM,2024,11,18,01,227.1,304,Hazardous,235.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 02:00 AM,2024,11,18,02,238.6,327,Hazardous,250.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 03:00 AM,2024,11,18,03,236.3,323,Hazardous,234.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 04:00 AM,2024,11,18,04,219.1,294,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 05:00 AM,2024,11,18,05,217.6,292,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 06:00 AM,2024,11,18,06,225.6,301,Hazardous,248.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 07:00 AM,2024,11,18,07,213.9,289,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 08:00 AM,2024,11,18,08,214.3,289,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 09:00 AM,2024,11,18,09,164.1,239,Very Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 10:00 AM,2024,11,18,10,135.0,210,Very Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 11:00 AM,2024,11,18,11,95.5,179,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 12:00 PM,2024,11,18,12,74.7,164,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 01:00 PM,2024,11,18,13,55.8,151,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 02:00 PM,2024,11,18,14,45.3,125,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 03:00 PM,2024,11,18,15,38.1,107,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 04:00 PM,2024,11,18,16,38.0,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 05:00 PM,2024,11,18,17,66.0,158,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 06:00 PM,2024,11,18,18,97.4,180,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 07:00 PM,2024,11,18,19,150.7,226,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 08:00 PM,2024,11,18,20,189.8,265,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 09:00 PM,2024,11,18,21,223.4,298,Very Unhealthy,257.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 10:00 PM,2024,11,18,22,229.2,308,Hazardous,235.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-18 11:00 PM,2024,11,18,23,233.1,316,Hazardous,237.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 12:00 AM,2024,11,19,00,249.5,349,Hazardous,266.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 01:00 AM,2024,11,19,01,252.8,355,Hazardous,256.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 02:00 AM,2024,11,19,02,240.9,332,Hazardous,229.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 03:00 AM,2024,11,19,03,233.4,317,Hazardous,226.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 04:00 AM,2024,11,19,04,242.7,335,Hazardous,252.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 05:00 AM,2024,11,19,05,234.9,320,Hazardous,227.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 06:00 AM,2024,11,19,06,228.2,306,Hazardous,200.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 07:00 AM,2024,11,19,07,173.7,249,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 08:00 AM,2024,11,19,08,131.8,207,Very Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 09:00 AM,2024,11,19,09,91.3,176,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 10:00 AM,2024,11,19,10,57.1,152,Unhealthy,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 11:00 AM,2024,11,19,11,42.0,117,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 12:00 PM,2024,11,19,12,36.0,102,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 01:00 PM,2024,11,19,13,36.4,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 02:00 PM,2024,11,19,14,34.7,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 03:00 PM,2024,11,19,15,31.3,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 04:00 PM,2024,11,19,16,34.1,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 05:00 PM,2024,11,19,17,47.5,131,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 06:00 PM,2024,11,19,18,88.7,174,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 07:00 PM,2024,11,19,19,89.3,175,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 08:00 PM,2024,11,19,20,81.6,169,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 09:00 PM,2024,11,19,21,83.8,171,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 10:00 PM,2024,11,19,22,174.4,249,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-19 11:00 PM,2024,11,19,23,198.2,273,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 12:00 AM,2024,11,20,00,203.6,278,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 01:00 AM,2024,11,20,01,193.8,269,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 02:00 AM,2024,11,20,02,194.9,270,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 03:00 AM,2024,11,20,03,210.9,286,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 04:00 AM,2024,11,20,04,215.5,290,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 05:00 AM,2024,11,20,05,246.2,342,Hazardous,277.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 06:00 AM,2024,11,20,06,308.1,466,Hazardous,370.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 07:00 AM,2024,11,20,07,208.0,283,Very Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 08:00 AM,2024,11,20,08,136.5,212,Very Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 09:00 AM,2024,11,20,09,99.2,182,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 10:00 AM,2024,11,20,10,66.6,159,Unhealthy,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 11:00 AM,2024,11,20,11,67.2,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 12:00 PM,2024,11,20,12,65.1,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 01:00 PM,2024,11,20,13,62.5,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 02:00 PM,2024,11,20,14,58.7,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 03:00 PM,2024,11,20,15,56.3,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 04:00 PM,2024,11,20,16,63.1,156,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 05:00 PM,2024,11,20,17,84.5,171,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 06:00 PM,2024,11,20,18,107.2,187,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 07:00 PM,2024,11,20,19,136.6,212,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 08:00 PM,2024,11,20,20,150.3,226,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 09:00 PM,2024,11,20,21,185.1,260,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 10:00 PM,2024,11,20,22,185.1,260,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-20 11:00 PM,2024,11,20,23,177.0,252,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 12:00 AM,2024,11,21,00,158.0,233,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 01:00 AM,2024,11,21,01,154.5,230,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 02:00 AM,2024,11,21,02,167.7,243,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 03:00 AM,2024,11,21,03,169.4,245,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 04:00 AM,2024,11,21,04,167.2,242,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 05:00 AM,2024,11,21,05,180.2,255,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 06:00 AM,2024,11,21,06,242.0,334,Hazardous,301.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 07:00 AM,2024,11,21,07,178.5,254,Very Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 08:00 AM,2024,11,21,08,137.2,213,Very Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 09:00 AM,2024,11,21,09,107.6,188,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 10:00 AM,2024,11,21,10,81.2,169,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 11:00 AM,2024,11,21,11,64.1,157,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 12:00 PM,2024,11,21,12,55.5,151,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 01:00 PM,2024,11,21,13,55.2,150,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 02:00 PM,2024,11,21,14,55.1,149,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 03:00 PM,2024,11,21,15,57.0,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 04:00 PM,2024,11,21,16,60.5,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 05:00 PM,2024,11,21,17,74.2,164,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 06:00 PM,2024,11,21,18,93.0,177,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 07:00 PM,2024,11,21,19,182.5,257,Very Unhealthy,272.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 08:00 PM,2024,11,21,20,204.8,280,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 09:00 PM,2024,11,21,21,237.9,326,Hazardous,271.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 10:00 PM,2024,11,21,22,242.9,336,Hazardous,248.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-21 11:00 PM,2024,11,21,23,265.0,380,Hazardous,287.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 12:00 AM,2024,11,22,00,304.5,458,Hazardous,344.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 01:00 AM,2024,11,22,01,288.8,427,Hazardous,273.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 02:00 AM,2024,11,22,02,290.4,430,Hazardous,292.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 03:00 AM,2024,11,22,03,284.7,419,Hazardous,279.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 04:00 AM,2024,11,22,04,278.8,407,Hazardous,273.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 05:00 AM,2024,11,22,05,247.4,345,Hazardous,216.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 06:00 AM,2024,11,22,06,229.5,309,Hazardous,198.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 07:00 AM,2024,11,22,07,181.3,256,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 08:00 AM,2024,11,22,08,138.1,213,Very Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 09:00 AM,2024,11,22,09,122.0,198,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 10:00 AM,2024,11,22,10,88.5,174,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 11:00 AM,2024,11,22,11,78.2,167,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 12:00 PM,2024,11,22,12,64.5,157,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 01:00 PM,2024,11,22,13,55.2,150,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 02:00 PM,2024,11,22,14,52.6,143,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 03:00 PM,2024,11,22,15,52.2,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 04:00 PM,2024,11,22,16,72.1,163,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 05:00 PM,2024,11,22,17,92.0,177,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 06:00 PM,2024,11,22,18,131.5,207,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 07:00 PM,2024,11,22,19,166.2,241,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 08:00 PM,2024,11,22,20,196.1,271,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 09:00 PM,2024,11,22,21,221.5,296,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 10:00 PM,2024,11,22,22,244.3,338,Hazardous,267.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-22 11:00 PM,2024,11,22,23,207.6,282,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 12:00 AM,2024,11,23,00,165.3,240,Very Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 01:00 AM,2024,11,23,01,137.6,213,Very Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 02:00 AM,2024,11,23,02,122.8,198,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 03:00 AM,2024,11,23,03,124.4,199,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 04:00 AM,2024,11,23,04,136.7,212,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 05:00 AM,2024,11,23,05,143.8,219,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 06:00 AM,2024,11,23,06,151.9,227,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 07:00 AM,2024,11,23,07,162.4,238,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 08:00 AM,2024,11,23,08,179.7,255,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 09:00 AM,2024,11,23,09,171.8,247,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 10:00 AM,2024,11,23,10,152.5,228,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 11:00 AM,2024,11,23,11,154.9,230,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 12:00 PM,2024,11,23,12,133.0,208,Very Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 01:00 PM,2024,11,23,13,99.3,182,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 02:00 PM,2024,11,23,14,87.1,173,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 03:00 PM,2024,11,23,15,82.0,170,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 04:00 PM,2024,11,23,16,94.5,178,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 05:00 PM,2024,11,23,17,104.2,185,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 06:00 PM,2024,11,23,18,128.1,204,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 07:00 PM,2024,11,23,19,145.0,220,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 08:00 PM,2024,11,23,20,176.0,251,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 09:00 PM,2024,11,23,21,165.0,240,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 10:00 PM,2024,11,23,22,178.0,253,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-23 11:00 PM,2024,11,23,23,186.0,261,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 12:00 AM,2024,11,24,00,189.0,264,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 01:00 AM,2024,11,24,01,196.5,271,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 02:00 AM,2024,11,24,02,208.7,283,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 03:00 AM,2024,11,24,03,219.4,294,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 04:00 AM,2024,11,24,04,221.2,296,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 05:00 AM,2024,11,24,05,219.2,294,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 06:00 AM,2024,11,24,06,226.4,303,Hazardous,238.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 07:00 AM,2024,11,24,07,233.8,318,Hazardous,245.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 08:00 AM,2024,11,24,08,249.5,349,Hazardous,268.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 09:00 AM,2024,11,24,09,247.1,344,Hazardous,260.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 10:00 AM,2024,11,24,10,231.6,313,Hazardous,193.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 11:00 AM,2024,11,24,11,154.8,230,Very Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 12:00 PM,2024,11,24,12,115.4,193,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 01:00 PM,2024,11,24,13,110.1,189,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 02:00 PM,2024,11,24,14,107.5,187,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 03:00 PM,2024,11,24,15,107.2,187,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 04:00 PM,2024,11,24,16,99.6,182,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 05:00 PM,2024,11,24,17,119.3,196,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 06:00 PM,2024,11,24,18,160.1,235,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 07:00 PM,2024,11,24,19,171.5,247,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 08:00 PM,2024,11,24,20,184.7,260,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 09:00 PM,2024,11,24,21,197.3,272,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 10:00 PM,2024,11,24,22,217.1,292,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-24 11:00 PM,2024,11,24,23,228.6,307,Hazardous,240.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 12:00 AM,2024,11,25,00,239.3,328,Hazardous,250.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 01:00 AM,2024,11,25,01,235.1,320,Hazardous,231.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 02:00 AM,2024,11,25,02,228.6,307,Hazardous,222.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 03:00 AM,2024,11,25,03,224.3,299,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 04:00 AM,2024,11,25,04,224.0,299,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 05:00 AM,2024,11,25,05,234.3,319,Hazardous,257.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 06:00 AM,2024,11,25,06,235.8,322,Hazardous,239.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 07:00 AM,2024,11,25,07,239.8,329,Hazardous,255.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 08:00 AM,2024,11,25,08,244.3,338,Hazardous,262.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 09:00 AM,2024,11,25,09,244.7,339,Hazardous,249.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 10:00 AM,2024,11,25,10,240.2,330,Hazardous,219.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 11:00 AM,2024,11,25,11,214.6,289,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 12:00 PM,2024,11,25,12,185.0,260,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 01:00 PM,2024,11,25,13,152.1,227,Very Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 02:00 PM,2024,11,25,14,135.5,211,Very Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 03:00 PM,2024,11,25,15,127.2,203,Very Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 04:00 PM,2024,11,25,16,128.6,204,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 05:00 PM,2024,11,25,17,147.8,223,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 06:00 PM,2024,11,25,18,177.3,252,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 07:00 PM,2024,11,25,19,204.1,279,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 08:00 PM,2024,11,25,20,216.0,291,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 09:00 PM,2024,11,25,21,217.4,292,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 10:00 PM,2024,11,25,22,226.8,304,Hazardous,236.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-25 11:00 PM,2024,11,25,23,226.9,304,Hazardous,227.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 12:00 AM,2024,11,26,00,229.4,309,Hazardous,232.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 01:00 AM,2024,11,26,01,229.2,308,Hazardous,229.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 02:00 AM,2024,11,26,02,227.6,305,Hazardous,226.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 03:00 AM,2024,11,26,03,230.9,312,Hazardous,235.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 04:00 AM,2024,11,26,04,223.7,298,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 05:00 AM,2024,11,26,05,219.1,294,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 06:00 AM,2024,11,26,06,217.1,292,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 07:00 AM,2024,11,26,07,204.7,279,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 08:00 AM,2024,11,26,08,159.5,235,Very Unhealthy,123.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 09:00 AM,2024,11,26,09,126.3,202,Very Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 10:00 AM,2024,11,26,10,104.1,185,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 11:00 AM,2024,11,26,11,93.5,178,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 12:00 PM,2024,11,26,12,84.7,171,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 01:00 PM,2024,11,26,13,76.3,166,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 02:00 PM,2024,11,26,14,71.6,162,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 03:00 PM,2024,11,26,15,69.8,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 04:00 PM,2024,11,26,16,76.8,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 05:00 PM,2024,11,26,17,96.4,180,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 06:00 PM,2024,11,26,18,141.2,217,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 07:00 PM,2024,11,26,19,163.1,238,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 08:00 PM,2024,11,26,20,189.0,264,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 09:00 PM,2024,11,26,21,172.0,247,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 10:00 PM,2024,11,26,22,174.0,249,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-26 11:00 PM,2024,11,26,23,199.0,274,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 12:00 AM,2024,11,27,00,286.5,423,Hazardous,374.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 01:00 AM,2024,11,27,01,298.8,447,Hazardous,311.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 02:00 AM,2024,11,27,02,289.9,429,Hazardous,281.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 03:00 AM,2024,11,27,03,266.9,383,Hazardous,244.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 04:00 AM,2024,11,27,04,249.5,349,Hazardous,232.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 05:00 AM,2024,11,27,05,253.2,356,Hazardous,257.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 06:00 AM,2024,11,27,06,199.1,274,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 07:00 AM,2024,11,27,07,171.5,247,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 08:00 AM,2024,11,27,08,142.2,218,Very Unhealthy,113.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 09:00 AM,2024,11,27,09,114.6,192,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 10:00 AM,2024,11,27,10,80.2,168,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 11:00 AM,2024,11,27,11,56.1,151,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 12:00 PM,2024,11,27,12,46.5,128,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 01:00 PM,2024,11,27,13,43.2,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 02:00 PM,2024,11,27,14,40.5,113,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 03:00 PM,2024,11,27,15,41.7,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 04:00 PM,2024,11,27,16,45.3,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 05:00 PM,2024,11,27,17,65.6,158,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 06:00 PM,2024,11,27,18,104.8,186,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 07:00 PM,2024,11,27,19,153.4,229,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 08:00 PM,2024,11,27,20,223.7,298,Very Unhealthy,294.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 09:00 PM,2024,11,27,21,215.3,290,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 10:00 PM,2024,11,27,22,210.2,285,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-27 11:00 PM,2024,11,27,23,239.6,329,Hazardous,269.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 12:00 AM,2024,11,28,00,207.8,283,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 01:00 AM,2024,11,28,01,189.9,265,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 02:00 AM,2024,11,28,02,163.9,239,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 03:00 AM,2024,11,28,03,125.9,201,Very Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 04:00 AM,2024,11,28,04,100.5,183,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 05:00 AM,2024,11,28,05,97.7,181,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 06:00 AM,2024,11,28,06,112.3,191,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 07:00 AM,2024,11,28,07,96.6,180,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 08:00 AM,2024,11,28,08,86.3,173,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 09:00 AM,2024,11,28,09,74.1,164,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 10:00 AM,2024,11,28,10,55.5,151,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 11:00 AM,2024,11,28,11,47.2,130,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 12:00 PM,2024,11,28,12,43.6,121,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 01:00 PM,2024,11,28,13,60.7,155,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 02:00 PM,2024,11,28,14,52.3,142,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 03:00 PM,2024,11,28,15,49.6,136,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 04:00 PM,2024,11,28,16,54.3,147,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 05:00 PM,2024,11,28,17,85.6,172,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 06:00 PM,2024,11,28,18,161.3,236,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 07:00 PM,2024,11,28,19,162.6,238,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 08:00 PM,2024,11,28,20,167.8,243,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 09:00 PM,2024,11,28,21,178.4,253,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 10:00 PM,2024,11,28,22,192.2,267,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-28 11:00 PM,2024,11,28,23,142.1,217,Very Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 12:00 AM,2024,11,29,00,110.0,189,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 01:00 AM,2024,11,29,01,87.5,173,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 02:00 AM,2024,11,29,02,79.7,168,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 03:00 AM,2024,11,29,03,78.3,167,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 04:00 AM,2024,11,29,04,77.1,166,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 05:00 AM,2024,11,29,05,69.0,160,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 06:00 AM,2024,11,29,06,68.5,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 07:00 AM,2024,11,29,07,65.7,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 08:00 AM,2024,11,29,08,60.3,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 09:00 AM,2024,11,29,09,58.6,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 10:00 AM,2024,11,29,10,51.8,141,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 11:00 AM,2024,11,29,11,50.6,138,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 12:00 PM,2024,11,29,12,50.4,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 01:00 PM,2024,11,29,13,41.8,117,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 02:00 PM,2024,11,29,14,40.4,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 03:00 PM,2024,11,29,15,36.2,103,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 04:00 PM,2024,11,29,16,41.5,116,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 05:00 PM,2024,11,29,17,113.3,192,Unhealthy,185.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 06:00 PM,2024,11,29,18,152.1,227,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 07:00 PM,2024,11,29,19,148.5,224,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 08:00 PM,2024,11,29,20,139.8,215,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 09:00 PM,2024,11,29,21,135.9,211,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 10:00 PM,2024,11,29,22,128.4,204,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-29 11:00 PM,2024,11,29,23,131.2,207,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 12:00 AM,2024,11,30,00,130.6,206,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 01:00 AM,2024,11,30,01,123.3,199,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 02:00 AM,2024,11,30,02,97.6,181,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 03:00 AM,2024,11,30,03,78.8,167,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 04:00 AM,2024,11,30,04,78.9,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 05:00 AM,2024,11,30,05,74.4,164,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 06:00 AM,2024,11,30,06,79.2,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 07:00 AM,2024,11,30,07,83.0,170,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 08:00 AM,2024,11,30,08,73.5,164,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 09:00 AM,2024,11,30,09,57.7,153,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 10:00 AM,2024,11,30,10,52.8,144,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 11:00 AM,2024,11,30,11,45.9,127,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 12:00 PM,2024,11,30,12,51.9,141,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 01:00 PM,2024,11,30,13,54.4,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 02:00 PM,2024,11,30,14,63.2,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 03:00 PM,2024,11,30,15,74.1,164,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 04:00 PM,2024,11,30,16,78.0,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 05:00 PM,2024,11,30,17,78.5,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 06:00 PM,2024,11,30,18,71.7,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 07:00 PM,2024,11,30,19,64.3,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 08:00 PM,2024,11,30,20,68.6,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 09:00 PM,2024,11,30,21,65.8,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 10:00 PM,2024,11,30,22,62.9,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2024-11-30 11:00 PM,2024,11,30,23,65.8,158,Unhealthy,68.0,UG/M3,1 Hr,Valid

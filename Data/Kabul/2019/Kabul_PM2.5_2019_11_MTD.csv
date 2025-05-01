@@ -1,0 +1,714 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kabul,PM2.5 - Principal,2019-11-01 01:00 AM,2019,11,01,01,29.5,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 02:00 AM,2019,11,01,02,28.4,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 03:00 AM,2019,11,01,03,25.0,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 04:00 AM,2019,11,01,04,24.1,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 05:00 AM,2019,11,01,05,20.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 06:00 AM,2019,11,01,06,44.2,122,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 07:00 AM,2019,11,01,07,43.6,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 08:00 AM,2019,11,01,08,43.6,121,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2019-11-01 09:00 AM,2019,11,01,09,43.6,121,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2019-11-01 10:00 AM,2019,11,01,10,43.6,121,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2019-11-01 11:00 AM,2019,11,01,11,43.6,121,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2019-11-01 07:00 PM,2019,11,01,19,-999.0,-999,N/A,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 08:00 PM,2019,11,01,20,23.7,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 09:00 PM,2019,11,01,21,26.1,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 10:00 PM,2019,11,01,22,26.1,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-01 11:00 PM,2019,11,01,23,27.5,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 12:00 AM,2019,11,02,00,30.3,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 01:00 AM,2019,11,02,01,29.8,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 02:00 AM,2019,11,02,02,27.9,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 03:00 AM,2019,11,02,03,38.7,109,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 04:00 AM,2019,11,02,04,33.3,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 05:00 AM,2019,11,02,05,26.6,81,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 06:00 AM,2019,11,02,06,21.3,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 07:00 AM,2019,11,02,07,37.6,106,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 08:00 AM,2019,11,02,08,37.8,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 09:00 AM,2019,11,02,09,52.4,143,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 10:00 AM,2019,11,02,10,56.7,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 11:00 AM,2019,11,02,11,58.3,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 12:00 PM,2019,11,02,12,52.1,142,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 01:00 PM,2019,11,02,13,50.0,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 02:00 PM,2019,11,02,14,46.0,127,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 03:00 PM,2019,11,02,15,40.5,113,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 04:00 PM,2019,11,02,16,30.2,89,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 05:00 PM,2019,11,02,17,29.6,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 06:00 PM,2019,11,02,18,34.8,99,Moderate,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 07:00 PM,2019,11,02,19,51.9,141,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 08:00 PM,2019,11,02,20,73.4,160,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 09:00 PM,2019,11,02,21,65.7,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 10:00 PM,2019,11,02,22,82.8,165,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-02 11:00 PM,2019,11,02,23,90.4,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 12:00 AM,2019,11,03,00,87.2,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 01:00 AM,2019,11,03,01,87.1,167,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 02:00 AM,2019,11,03,02,86.5,167,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 03:00 AM,2019,11,03,03,104.2,176,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 04:00 AM,2019,11,03,04,96.1,172,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 05:00 AM,2019,11,03,05,65.0,156,Unhealthy,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 06:00 AM,2019,11,03,06,39.5,111,Unhealthy for Sensitive Groups,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 07:00 AM,2019,11,03,07,30.7,90,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 08:00 AM,2019,11,03,08,33.3,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 09:00 AM,2019,11,03,09,33.1,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 10:00 AM,2019,11,03,10,28.0,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 11:00 AM,2019,11,03,11,21.5,71,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 12:00 PM,2019,11,03,12,19.2,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 01:00 PM,2019,11,03,13,23.6,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 02:00 PM,2019,11,03,14,27.8,84,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 03:00 PM,2019,11,03,15,30.8,90,Moderate,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 04:00 PM,2019,11,03,16,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 05:00 PM,2019,11,03,17,43.9,122,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 06:00 PM,2019,11,03,18,59.4,153,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 07:00 PM,2019,11,03,19,90.2,169,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 08:00 PM,2019,11,03,20,116.1,182,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 09:00 PM,2019,11,03,21,145.0,197,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 10:00 PM,2019,11,03,22,150.0,200,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-03 11:00 PM,2019,11,03,23,159.0,209,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 12:00 AM,2019,11,04,00,161.0,211,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 01:00 AM,2019,11,04,01,145.0,197,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 02:00 AM,2019,11,04,02,136.0,193,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 03:00 AM,2019,11,04,03,109.5,179,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 04:00 AM,2019,11,04,04,80.2,164,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 05:00 AM,2019,11,04,05,81.1,164,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 06:00 AM,2019,11,04,06,79.0,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 07:00 AM,2019,11,04,07,85.5,166,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 08:00 AM,2019,11,04,08,94.7,171,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 09:00 AM,2019,11,04,09,67.3,157,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 10:00 AM,2019,11,04,10,43.1,120,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 11:00 AM,2019,11,04,11,29.5,88,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 12:00 PM,2019,11,04,12,20.2,68,Moderate,11.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 01:00 PM,2019,11,04,13,16.1,59,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 02:00 PM,2019,11,04,14,14.5,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 03:00 PM,2019,11,04,15,14.7,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 04:00 PM,2019,11,04,16,16.8,61,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 05:00 PM,2019,11,04,17,19.4,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 06:00 PM,2019,11,04,18,23.2,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 07:00 PM,2019,11,04,19,31.5,92,Moderate,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 08:00 PM,2019,11,04,20,45.2,125,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 09:00 PM,2019,11,04,21,64.6,156,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 10:00 PM,2019,11,04,22,77.3,162,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-04 11:00 PM,2019,11,04,23,84.6,166,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 12:00 AM,2019,11,05,00,82.8,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 01:00 AM,2019,11,05,01,95.9,172,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 02:00 AM,2019,11,05,02,87.4,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 03:00 AM,2019,11,05,03,75.2,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 04:00 AM,2019,11,05,04,73.6,160,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 05:00 AM,2019,11,05,05,73.3,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 06:00 AM,2019,11,05,06,67.1,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 07:00 AM,2019,11,05,07,79.8,164,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 08:00 AM,2019,11,05,08,110.3,179,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 09:00 AM,2019,11,05,09,124.6,187,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 10:00 AM,2019,11,05,10,99.3,174,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 11:00 AM,2019,11,05,11,65.1,156,Unhealthy,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 12:00 PM,2019,11,05,12,42.0,117,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 01:00 PM,2019,11,05,13,30.0,89,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 02:00 PM,2019,11,05,14,25.5,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 03:00 PM,2019,11,05,15,26.2,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 04:00 PM,2019,11,05,16,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 05:00 PM,2019,11,05,17,24.8,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 06:00 PM,2019,11,05,18,26.3,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 07:00 PM,2019,11,05,19,29.1,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 08:00 PM,2019,11,05,20,28.0,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 09:00 PM,2019,11,05,21,20.5,69,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 10:00 PM,2019,11,05,22,21.7,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-05 11:00 PM,2019,11,05,23,17.3,62,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 12:00 AM,2019,11,06,00,17.6,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 01:00 AM,2019,11,06,01,19.3,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 02:00 AM,2019,11,06,02,16.6,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 03:00 AM,2019,11,06,03,14.8,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 04:00 AM,2019,11,06,04,13.9,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 05:00 AM,2019,11,06,05,10.4,43,Good,7.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 06:00 AM,2019,11,06,06,12.7,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 07:00 AM,2019,11,06,07,15.3,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 08:00 AM,2019,11,06,08,18.6,65,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 09:00 AM,2019,11,06,09,22.8,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 10:00 AM,2019,11,06,10,17.4,62,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 11:00 AM,2019,11,06,11,14.2,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 12:00 PM,2019,11,06,12,11.6,48,Good,9.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 01:00 PM,2019,11,06,13,13.8,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 02:00 PM,2019,11,06,14,13.9,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 03:00 PM,2019,11,06,15,11.9,50,Good,10.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 04:00 PM,2019,11,06,16,10.9,45,Good,10.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 05:00 PM,2019,11,06,17,16.9,61,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 06:00 PM,2019,11,06,18,18.9,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 07:00 PM,2019,11,06,19,11.4,48,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 08:00 PM,2019,11,06,20,8.2,34,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 09:00 PM,2019,11,06,21,7.1,30,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 10:00 PM,2019,11,06,22,9.0,38,Good,11.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-06 11:00 PM,2019,11,06,23,15.5,58,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 12:00 AM,2019,11,07,00,19.2,66,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 01:00 AM,2019,11,07,01,20.6,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 02:00 AM,2019,11,07,02,32.3,93,Moderate,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 03:00 AM,2019,11,07,03,38.6,109,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 04:00 AM,2019,11,07,04,42.8,119,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 05:00 AM,2019,11,07,05,44.9,124,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 06:00 AM,2019,11,07,06,43.4,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 07:00 AM,2019,11,07,07,46.7,129,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 08:00 AM,2019,11,07,08,37.8,107,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 09:00 AM,2019,11,07,09,36.4,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 10:00 AM,2019,11,07,10,28.7,86,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 11:00 AM,2019,11,07,11,20.3,68,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 12:00 PM,2019,11,07,12,25.6,79,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 01:00 PM,2019,11,07,13,25.8,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 02:00 PM,2019,11,07,14,20.9,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 03:00 PM,2019,11,07,15,19.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 04:00 PM,2019,11,07,16,20.4,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 05:00 PM,2019,11,07,17,20.7,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 06:00 PM,2019,11,07,18,38.3,108,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 07:00 PM,2019,11,07,19,51.1,139,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 08:00 PM,2019,11,07,20,68.6,158,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 09:00 PM,2019,11,07,21,95.3,172,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 10:00 PM,2019,11,07,22,113.1,181,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-07 11:00 PM,2019,11,07,23,138.1,194,Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 12:00 AM,2019,11,08,00,141.5,195,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 01:00 AM,2019,11,08,01,134.7,192,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 02:00 AM,2019,11,08,02,138.4,194,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 03:00 AM,2019,11,08,03,109.7,179,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 04:00 AM,2019,11,08,04,96.3,172,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 05:00 AM,2019,11,08,05,97.6,173,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 06:00 AM,2019,11,08,06,96.3,172,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 07:00 AM,2019,11,08,07,85.6,167,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 08:00 AM,2019,11,08,08,92.8,170,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 09:00 AM,2019,11,08,09,83.4,165,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 10:00 AM,2019,11,08,10,61.6,154,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 11:00 AM,2019,11,08,11,46.3,128,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 12:00 PM,2019,11,08,12,35.1,99,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 01:00 PM,2019,11,08,13,31.5,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 02:00 PM,2019,11,08,14,22.7,73,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 03:00 PM,2019,11,08,15,17.8,63,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 04:00 PM,2019,11,08,16,15.4,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 05:00 PM,2019,11,08,17,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 06:00 PM,2019,11,08,18,21.3,70,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 07:00 PM,2019,11,08,19,35.6,101,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 08:00 PM,2019,11,08,20,46.3,128,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 09:00 PM,2019,11,08,21,63.1,155,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 10:00 PM,2019,11,08,22,78.0,163,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-08 11:00 PM,2019,11,08,23,92.5,170,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 12:00 AM,2019,11,09,00,99.7,174,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 01:00 AM,2019,11,09,01,118.9,184,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 02:00 AM,2019,11,09,02,112.9,181,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 03:00 AM,2019,11,09,03,105.9,177,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 04:00 AM,2019,11,09,04,96.0,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 05:00 AM,2019,11,09,05,82.0,165,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 06:00 AM,2019,11,09,06,79.0,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 07:00 AM,2019,11,09,07,90.5,169,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 08:00 AM,2019,11,09,08,86.2,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 09:00 AM,2019,11,09,09,76.6,162,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 10:00 AM,2019,11,09,10,60.3,153,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 11:00 AM,2019,11,09,11,52.6,143,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 12:00 PM,2019,11,09,12,52.8,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 01:00 PM,2019,11,09,13,36.3,103,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 02:00 PM,2019,11,09,14,24.1,76,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 03:00 PM,2019,11,09,15,18.0,63,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 04:00 PM,2019,11,09,16,18.0,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 05:00 PM,2019,11,09,17,24.5,77,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 06:00 PM,2019,11,09,18,31.2,91,Moderate,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 07:00 PM,2019,11,09,19,40.6,114,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 08:00 PM,2019,11,09,20,59.8,153,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 09:00 PM,2019,11,09,21,88.4,168,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 10:00 PM,2019,11,09,22,105.7,177,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-09 11:00 PM,2019,11,09,23,120.8,185,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 12:00 AM,2019,11,10,00,129.9,189,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 01:00 AM,2019,11,10,01,127.4,188,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 02:00 AM,2019,11,10,02,125.2,187,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 03:00 AM,2019,11,10,03,105.1,177,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 04:00 AM,2019,11,10,04,95.5,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 05:00 AM,2019,11,10,05,85.7,167,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 06:00 AM,2019,11,10,06,84.4,166,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 07:00 AM,2019,11,10,07,90.3,169,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 08:00 AM,2019,11,10,08,73.6,160,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 09:00 AM,2019,11,10,09,63.7,155,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 10:00 AM,2019,11,10,10,63.3,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 11:00 AM,2019,11,10,11,65.6,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 12:00 PM,2019,11,10,12,66.3,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 01:00 PM,2019,11,10,13,56.1,151,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 02:00 PM,2019,11,10,14,38.0,107,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 03:00 PM,2019,11,10,15,24.5,77,Moderate,11.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 04:00 PM,2019,11,10,16,20.7,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 05:00 PM,2019,11,10,17,21.3,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 06:00 PM,2019,11,10,18,34.6,98,Moderate,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 07:00 PM,2019,11,10,19,47.3,130,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 08:00 PM,2019,11,10,20,92.6,170,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 09:00 PM,2019,11,10,21,130.8,190,Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 10:00 PM,2019,11,10,22,124.4,187,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-10 11:00 PM,2019,11,10,23,125.2,187,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 12:00 AM,2019,11,11,00,121.1,185,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 01:00 AM,2019,11,11,01,115.0,182,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 02:00 AM,2019,11,11,02,99.0,173,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 03:00 AM,2019,11,11,03,85.0,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 04:00 AM,2019,11,11,04,85.5,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 05:00 AM,2019,11,11,05,90.7,169,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 06:00 AM,2019,11,11,06,93.3,171,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 07:00 AM,2019,11,11,07,88.6,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 08:00 AM,2019,11,11,08,88.3,168,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 09:00 AM,2019,11,11,09,96.6,172,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 10:00 AM,2019,11,11,10,106.8,177,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 11:00 AM,2019,11,11,11,79.4,163,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 12:00 PM,2019,11,11,12,55.6,151,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 01:00 PM,2019,11,11,13,39.8,112,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 02:00 PM,2019,11,11,14,26.4,81,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 03:00 PM,2019,11,11,15,17.6,63,Moderate,9.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 04:00 PM,2019,11,11,16,16.8,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 05:00 PM,2019,11,11,17,22.4,73,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 06:00 PM,2019,11,11,18,39.7,111,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 07:00 PM,2019,11,11,19,46.3,128,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 08:00 PM,2019,11,11,20,78.1,163,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 09:00 PM,2019,11,11,21,128.5,189,Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 10:00 PM,2019,11,11,22,148.3,199,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-11 11:00 PM,2019,11,11,23,141.6,195,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 12:00 AM,2019,11,12,00,140.8,195,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 01:00 AM,2019,11,12,01,141.4,195,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 02:00 AM,2019,11,12,02,135.2,192,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 03:00 AM,2019,11,12,03,125.6,187,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 04:00 AM,2019,11,12,04,126.8,188,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 05:00 AM,2019,11,12,05,118.9,184,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 06:00 AM,2019,11,12,06,102.4,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 07:00 AM,2019,11,12,07,103.2,176,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 08:00 AM,2019,11,12,08,104.1,176,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 09:00 AM,2019,11,12,09,116.7,183,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 10:00 AM,2019,11,12,10,116.2,182,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 11:00 AM,2019,11,12,11,93.7,171,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 12:00 PM,2019,11,12,12,77.3,162,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 01:00 PM,2019,11,12,13,50.6,138,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 02:00 PM,2019,11,12,14,34.8,99,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 03:00 PM,2019,11,12,15,24.3,77,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 04:00 PM,2019,11,12,16,19.6,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 05:00 PM,2019,11,12,17,20.8,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 06:00 PM,2019,11,12,18,27.9,84,Moderate,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 07:00 PM,2019,11,12,19,34.9,99,Moderate,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 08:00 PM,2019,11,12,20,50.4,138,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 09:00 PM,2019,11,12,21,58.7,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 10:00 PM,2019,11,12,22,37.3,105,Unhealthy for Sensitive Groups,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-12 11:00 PM,2019,11,12,23,25.1,78,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 12:00 AM,2019,11,13,00,18.5,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 01:00 AM,2019,11,13,01,19.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 02:00 AM,2019,11,13,02,28.6,86,Moderate,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 03:00 AM,2019,11,13,03,30.3,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 04:00 AM,2019,11,13,04,18.6,65,Moderate,7.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 05:00 AM,2019,11,13,05,14.8,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 06:00 AM,2019,11,13,06,17.9,63,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 07:00 AM,2019,11,13,07,34.4,98,Moderate,51.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 08:00 AM,2019,11,13,08,32.7,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 09:00 AM,2019,11,13,09,27.3,83,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 10:00 AM,2019,11,13,10,22.1,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 11:00 AM,2019,11,13,11,22.5,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 12:00 PM,2019,11,13,12,20.2,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 01:00 PM,2019,11,13,13,21.1,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 02:00 PM,2019,11,13,14,19.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 03:00 PM,2019,11,13,15,18.0,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 04:00 PM,2019,11,13,16,15.5,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 05:00 PM,2019,11,13,17,23.7,75,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 06:00 PM,2019,11,13,18,39.8,112,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 07:00 PM,2019,11,13,19,40.9,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 08:00 PM,2019,11,13,20,49.9,136,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 09:00 PM,2019,11,13,21,57.9,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 10:00 PM,2019,11,13,22,51.4,140,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-13 11:00 PM,2019,11,13,23,41.2,115,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 12:00 AM,2019,11,14,00,36.6,104,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 01:00 AM,2019,11,14,01,37.8,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 02:00 AM,2019,11,14,02,34.4,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 03:00 AM,2019,11,14,03,33.2,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 04:00 AM,2019,11,14,04,35.6,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 05:00 AM,2019,11,14,05,41.3,115,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 06:00 AM,2019,11,14,06,41.6,116,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 07:00 AM,2019,11,14,07,45.8,126,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 08:00 AM,2019,11,14,08,59.4,153,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 09:00 AM,2019,11,14,09,55.7,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 10:00 AM,2019,11,14,10,42.8,119,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 11:00 AM,2019,11,14,11,33.4,96,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 12:00 PM,2019,11,14,12,23.2,74,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 01:00 PM,2019,11,14,13,20.6,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 02:00 PM,2019,11,14,14,21.3,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 03:00 PM,2019,11,14,15,17.6,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 04:00 PM,2019,11,14,16,16.8,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 05:00 PM,2019,11,14,17,15.4,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 06:00 PM,2019,11,14,18,18.7,65,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 07:00 PM,2019,11,14,19,17.8,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 08:00 PM,2019,11,14,20,15.4,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 09:00 PM,2019,11,14,21,15.2,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 10:00 PM,2019,11,14,22,17.9,63,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-14 11:00 PM,2019,11,14,23,25.0,78,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 12:00 AM,2019,11,15,00,34.0,97,Moderate,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 01:00 AM,2019,11,15,01,38.0,107,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 02:00 AM,2019,11,15,02,36.5,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 03:00 AM,2019,11,15,03,36.2,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 04:00 AM,2019,11,15,04,38.6,109,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 05:00 AM,2019,11,15,05,39.3,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 06:00 AM,2019,11,15,06,44.6,123,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 07:00 AM,2019,11,15,07,47.3,130,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 08:00 AM,2019,11,15,08,58.1,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 09:00 AM,2019,11,15,09,44.5,123,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 10:00 AM,2019,11,15,10,40.7,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 11:00 AM,2019,11,15,11,39.3,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 12:00 PM,2019,11,15,12,38.1,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 01:00 PM,2019,11,15,13,39.5,111,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 02:00 PM,2019,11,15,14,41.3,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 03:00 PM,2019,11,15,15,41.1,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 04:00 PM,2019,11,15,16,40.0,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 05:00 PM,2019,11,15,17,32.5,94,Moderate,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 06:00 PM,2019,11,15,18,29.7,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 07:00 PM,2019,11,15,19,28.3,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 08:00 PM,2019,11,15,20,26.0,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 09:00 PM,2019,11,15,21,22.3,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 10:00 PM,2019,11,15,22,21.6,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-15 11:00 PM,2019,11,15,23,21.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 12:00 AM,2019,11,16,00,21.1,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 01:00 AM,2019,11,16,01,25.0,78,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 02:00 AM,2019,11,16,02,29.0,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 03:00 AM,2019,11,16,03,23.0,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 04:00 AM,2019,11,16,04,15.0,57,Moderate,7.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 05:00 AM,2019,11,16,05,11.5,48,Good,8.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 06:00 AM,2019,11,16,06,10.2,43,Good,9.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 07:00 AM,2019,11,16,07,10.6,44,Good,11.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 08:00 AM,2019,11,16,08,20.8,69,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 09:00 AM,2019,11,16,09,42.4,118,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 10:00 AM,2019,11,16,10,57.2,152,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 11:00 AM,2019,11,16,11,53.1,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 12:00 PM,2019,11,16,12,51.0,139,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 01:00 PM,2019,11,16,13,52.0,142,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 02:00 PM,2019,11,16,14,39.5,111,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 03:00 PM,2019,11,16,15,33.2,95,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 04:00 PM,2019,11,16,16,28.6,86,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 05:00 PM,2019,11,16,17,33.8,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 06:00 PM,2019,11,16,18,41.9,117,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 07:00 PM,2019,11,16,19,41.4,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 08:00 PM,2019,11,16,20,36.7,104,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 09:00 PM,2019,11,16,21,28.3,85,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 10:00 PM,2019,11,16,22,24.1,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-16 11:00 PM,2019,11,16,23,20.5,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 12:00 AM,2019,11,17,00,17.2,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 01:00 AM,2019,11,17,01,24.1,76,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 02:00 AM,2019,11,17,02,23.0,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 03:00 AM,2019,11,17,03,25.0,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 04:00 AM,2019,11,17,04,28.0,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 05:00 AM,2019,11,17,05,33.0,95,Moderate,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 06:00 AM,2019,11,17,06,37.0,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 07:00 AM,2019,11,17,07,50.0,137,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 08:00 AM,2019,11,17,08,60.5,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 09:00 AM,2019,11,17,09,79.7,163,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 10:00 AM,2019,11,17,10,58.8,153,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 11:00 AM,2019,11,17,11,41.4,116,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 12:00 PM,2019,11,17,12,32.7,94,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 01:00 PM,2019,11,17,13,33.3,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 02:00 PM,2019,11,17,14,41.1,115,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 03:00 PM,2019,11,17,15,47.0,129,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 04:00 PM,2019,11,17,16,37.5,106,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 05:00 PM,2019,11,17,17,35.7,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 06:00 PM,2019,11,17,18,52.3,142,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 07:00 PM,2019,11,17,19,97.7,173,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 08:00 PM,2019,11,17,20,132.8,191,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 09:00 PM,2019,11,17,21,174.4,225,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 10:00 PM,2019,11,17,22,203.7,254,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-17 11:00 PM,2019,11,17,23,234.9,285,Very Unhealthy,266.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 12:00 AM,2019,11,18,00,231.9,282,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 01:00 AM,2019,11,18,01,252.0,302,Hazardous,272.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 02:00 AM,2019,11,18,02,225.0,275,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 03:00 AM,2019,11,18,03,193.5,244,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 04:00 AM,2019,11,18,04,171.7,222,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 05:00 AM,2019,11,18,05,136.3,193,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 06:00 AM,2019,11,18,06,94.1,171,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 07:00 AM,2019,11,18,07,61.0,154,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 08:00 AM,2019,11,18,08,49.5,135,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 09:00 AM,2019,11,18,09,104.2,176,Unhealthy,159.0,UG/M3,1 Hr,Suspect
+Kabul,PM2.5 - Principal,2019-11-18 10:00 AM,2019,11,18,10,76.1,162,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 11:00 AM,2019,11,18,11,46.5,128,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 12:00 PM,2019,11,18,12,28.7,86,Moderate,11.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 01:00 PM,2019,11,18,13,21.3,70,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 02:00 PM,2019,11,18,14,15.1,57,Moderate,9.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 03:00 PM,2019,11,18,15,15.0,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 04:00 PM,2019,11,18,16,15.5,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 05:00 PM,2019,11,18,17,18.2,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 06:00 PM,2019,11,18,18,24.6,77,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 07:00 PM,2019,11,18,19,27.8,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 08:00 PM,2019,11,18,20,29.4,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 09:00 PM,2019,11,18,21,47.6,131,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 10:00 PM,2019,11,18,22,52.3,142,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-18 11:00 PM,2019,11,18,23,69.6,158,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 12:00 AM,2019,11,19,00,74.8,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 01:00 AM,2019,11,19,01,74.4,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 02:00 AM,2019,11,19,02,69.2,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 03:00 AM,2019,11,19,03,52.1,142,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 04:00 AM,2019,11,19,04,49.5,135,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 05:00 AM,2019,11,19,05,43.7,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 06:00 AM,2019,11,19,06,55.8,151,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 07:00 AM,2019,11,19,07,65.9,156,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 08:00 AM,2019,11,19,08,71.9,159,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 09:00 AM,2019,11,19,09,54.9,149,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 10:00 AM,2019,11,19,10,55.9,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 11:00 AM,2019,11,19,11,41.9,117,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 12:00 PM,2019,11,19,12,45.9,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 01:00 PM,2019,11,19,13,61.9,154,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 02:00 PM,2019,11,19,14,65.9,156,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 03:00 PM,2019,11,19,15,65.0,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 04:00 PM,2019,11,19,16,77.5,162,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 05:00 PM,2019,11,19,17,108.7,178,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 06:00 PM,2019,11,19,18,119.3,184,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 07:00 PM,2019,11,19,19,98.6,173,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 08:00 PM,2019,11,19,20,115.8,182,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 09:00 PM,2019,11,19,21,144.4,197,Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 10:00 PM,2019,11,19,22,156.7,207,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-19 11:00 PM,2019,11,19,23,172.3,223,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 12:00 AM,2019,11,20,00,175.7,226,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 01:00 AM,2019,11,20,01,187.3,237,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 02:00 AM,2019,11,20,02,187.6,238,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 03:00 AM,2019,11,20,03,174.3,225,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 04:00 AM,2019,11,20,04,165.1,215,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 05:00 AM,2019,11,20,05,156.0,206,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 06:00 AM,2019,11,20,06,161.5,212,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 07:00 AM,2019,11,20,07,166.8,217,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 08:00 AM,2019,11,20,08,173.9,224,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 09:00 AM,2019,11,20,09,151.4,202,Very Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 10:00 AM,2019,11,20,10,129.7,189,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 11:00 AM,2019,11,20,11,118.4,183,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 12:00 PM,2019,11,20,12,94.8,171,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 01:00 PM,2019,11,20,13,78.3,163,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 02:00 PM,2019,11,20,14,59.6,153,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 03:00 PM,2019,11,20,15,52.3,142,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 04:00 PM,2019,11,20,16,59.1,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 05:00 PM,2019,11,20,17,74.0,161,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 06:00 PM,2019,11,20,18,56.0,151,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 07:00 PM,2019,11,20,19,48.4,133,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 08:00 PM,2019,11,20,20,37.7,106,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 09:00 PM,2019,11,20,21,32.8,95,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 10:00 PM,2019,11,20,22,34.9,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-20 11:00 PM,2019,11,20,23,24.9,78,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 12:00 AM,2019,11,21,00,20.4,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 01:00 AM,2019,11,21,01,20.2,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 02:00 AM,2019,11,21,02,16.6,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 03:00 AM,2019,11,21,03,17.3,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 04:00 AM,2019,11,21,04,18.1,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 05:00 AM,2019,11,21,05,20.5,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 06:00 AM,2019,11,21,06,20.7,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 07:00 AM,2019,11,21,07,19.8,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 08:00 AM,2019,11,21,08,26.9,82,Moderate,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 09:00 AM,2019,11,21,09,33.9,97,Moderate,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 10:00 AM,2019,11,21,10,41.9,117,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 11:00 AM,2019,11,21,11,52.0,142,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 12:00 PM,2019,11,21,12,42.0,117,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 01:00 PM,2019,11,21,13,37.5,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 02:00 PM,2019,11,21,14,31.7,92,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 03:00 PM,2019,11,21,15,27.8,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 04:00 PM,2019,11,21,16,27.9,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 05:00 PM,2019,11,21,17,36.9,104,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 06:00 PM,2019,11,21,18,48.9,134,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 07:00 PM,2019,11,21,19,78.5,163,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 08:00 PM,2019,11,21,20,77.7,162,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 09:00 PM,2019,11,21,21,68.3,158,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 10:00 PM,2019,11,21,22,58.1,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-21 11:00 PM,2019,11,21,23,51.5,140,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 12:00 AM,2019,11,22,00,44.7,124,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 01:00 AM,2019,11,22,01,32.8,95,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 02:00 AM,2019,11,22,02,23.4,75,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 03:00 AM,2019,11,22,03,16.2,60,Moderate,9.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 04:00 AM,2019,11,22,04,12.1,51,Moderate,8.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 05:00 AM,2019,11,22,05,17.5,62,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 06:00 AM,2019,11,22,06,18.2,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 07:00 AM,2019,11,22,07,21.6,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 08:00 AM,2019,11,22,08,24.8,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 09:00 AM,2019,11,22,09,47.4,130,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 10:00 AM,2019,11,22,10,78.2,163,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 11:00 AM,2019,11,22,11,90.6,169,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 12:00 PM,2019,11,22,12,85.3,166,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 01:00 PM,2019,11,22,13,100.1,174,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 02:00 PM,2019,11,22,14,109.5,179,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 03:00 PM,2019,11,22,15,107.3,178,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 04:00 PM,2019,11,22,16,105.6,177,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 05:00 PM,2019,11,22,17,102.8,175,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 06:00 PM,2019,11,22,18,100.4,174,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 07:00 PM,2019,11,22,19,98.2,173,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 08:00 PM,2019,11,22,20,69.6,158,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 09:00 PM,2019,11,22,21,63.8,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 10:00 PM,2019,11,22,22,55.3,150,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-22 11:00 PM,2019,11,22,23,57.1,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 12:00 AM,2019,11,23,00,64.5,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 01:00 AM,2019,11,23,01,64.2,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 02:00 AM,2019,11,23,02,60.6,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 03:00 AM,2019,11,23,03,52.8,144,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 04:00 AM,2019,11,23,04,51.3,140,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 05:00 AM,2019,11,23,05,50.6,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 06:00 AM,2019,11,23,06,44.3,123,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 07:00 AM,2019,11,23,07,43.4,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 08:00 AM,2019,11,23,08,55.5,151,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 09:00 AM,2019,11,23,09,44.0,122,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 10:00 AM,2019,11,23,10,35.0,99,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 11:00 AM,2019,11,23,11,28.0,84,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 12:00 PM,2019,11,23,12,22.9,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 01:00 PM,2019,11,23,13,20.9,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 02:00 PM,2019,11,23,14,23.9,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 03:00 PM,2019,11,23,15,22.9,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 04:00 PM,2019,11,23,16,22.9,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 05:00 PM,2019,11,23,17,24.4,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 06:00 PM,2019,11,23,18,47.2,130,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 07:00 PM,2019,11,23,19,84.6,166,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 08:00 PM,2019,11,23,20,114.8,182,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 09:00 PM,2019,11,23,21,128.4,189,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 10:00 PM,2019,11,23,22,109.7,179,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-23 11:00 PM,2019,11,23,23,82.8,165,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 12:00 AM,2019,11,24,00,92.4,170,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 01:00 AM,2019,11,24,01,123.7,186,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 02:00 AM,2019,11,24,02,100.3,174,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 03:00 AM,2019,11,24,03,83.1,165,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 04:00 AM,2019,11,24,04,65.0,156,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 05:00 AM,2019,11,24,05,49.0,134,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 06:00 AM,2019,11,24,06,44.5,123,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 07:00 AM,2019,11,24,07,34.7,99,Moderate,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 08:00 AM,2019,11,24,08,70.3,159,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 09:00 AM,2019,11,24,09,65.6,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 10:00 AM,2019,11,24,10,105.3,177,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 11:00 AM,2019,11,24,11,66.1,156,Unhealthy,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 12:00 PM,2019,11,24,12,44.0,122,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 01:00 PM,2019,11,24,13,32.0,93,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 02:00 PM,2019,11,24,14,27.5,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 03:00 PM,2019,11,24,15,24.2,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 04:00 PM,2019,11,24,16,26.6,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 05:00 PM,2019,11,24,17,23.3,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 06:00 PM,2019,11,24,18,43.6,121,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 07:00 PM,2019,11,24,19,106.3,177,Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 08:00 PM,2019,11,24,20,144.1,197,Unhealthy,182.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 09:00 PM,2019,11,24,21,110.5,179,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 10:00 PM,2019,11,24,22,157.3,208,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-24 11:00 PM,2019,11,24,23,186.1,236,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 12:00 AM,2019,11,25,00,177.6,228,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 01:00 AM,2019,11,25,01,126.8,188,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 02:00 AM,2019,11,25,02,92.4,170,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 03:00 AM,2019,11,25,03,106.7,177,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 04:00 AM,2019,11,25,04,104.3,176,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 05:00 AM,2019,11,25,05,82.1,165,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 06:00 AM,2019,11,25,06,58.0,152,Unhealthy,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 07:00 AM,2019,11,25,07,49.5,135,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 08:00 AM,2019,11,25,08,45.7,126,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 09:00 AM,2019,11,25,09,48.8,134,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 10:00 AM,2019,11,25,10,80.4,164,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 11:00 AM,2019,11,25,11,65.1,156,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 12:00 PM,2019,11,25,12,46.5,128,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 01:00 PM,2019,11,25,13,37.7,106,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 02:00 PM,2019,11,25,14,37.8,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 03:00 PM,2019,11,25,15,42.9,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 04:00 PM,2019,11,25,16,47.4,130,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 05:00 PM,2019,11,25,17,53.2,145,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 06:00 PM,2019,11,25,18,70.1,159,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 07:00 PM,2019,11,25,19,119.0,184,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 08:00 PM,2019,11,25,20,159.0,209,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 09:00 PM,2019,11,25,21,186.5,237,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 10:00 PM,2019,11,25,22,211.2,261,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-25 11:00 PM,2019,11,25,23,214.1,264,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 12:00 AM,2019,11,26,00,216.1,266,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 01:00 AM,2019,11,26,01,192.5,243,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 02:00 AM,2019,11,26,02,195.3,245,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 03:00 AM,2019,11,26,03,162.1,212,Very Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 04:00 AM,2019,11,26,04,113.5,181,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 05:00 AM,2019,11,26,05,82.2,165,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 06:00 AM,2019,11,26,06,56.6,152,Unhealthy,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 07:00 AM,2019,11,26,07,78.3,163,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 08:00 AM,2019,11,26,08,93.6,171,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 09:00 AM,2019,11,26,09,86.3,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 10:00 AM,2019,11,26,10,93.1,170,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 11:00 AM,2019,11,26,11,68.5,158,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 12:00 PM,2019,11,26,12,62.7,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 01:00 PM,2019,11,26,13,61.8,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 02:00 PM,2019,11,26,14,61.4,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 03:00 PM,2019,11,26,15,68.2,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 04:00 PM,2019,11,26,16,75.1,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 05:00 PM,2019,11,26,17,81.0,164,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 06:00 PM,2019,11,26,18,82.5,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 07:00 PM,2019,11,26,19,89.7,169,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 08:00 PM,2019,11,26,20,97.8,173,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 09:00 PM,2019,11,26,21,180.9,231,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 10:00 PM,2019,11,26,22,202.4,252,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-26 11:00 PM,2019,11,26,23,212.7,263,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 12:00 AM,2019,11,27,00,240.9,291,Very Unhealthy,269.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 01:00 AM,2019,11,27,01,243.9,294,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 02:00 AM,2019,11,27,02,271.0,321,Hazardous,298.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 03:00 AM,2019,11,27,03,274.0,324,Hazardous,277.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 04:00 AM,2019,11,27,04,227.5,277,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 05:00 AM,2019,11,27,05,186.7,237,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 06:00 AM,2019,11,27,06,148.8,199,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 07:00 AM,2019,11,27,07,122.4,186,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 08:00 AM,2019,11,27,08,124.2,186,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 09:00 AM,2019,11,27,09,126.5,188,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 10:00 AM,2019,11,27,10,104.2,176,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 11:00 AM,2019,11,27,11,81.6,164,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 12:00 PM,2019,11,27,12,63.7,155,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 01:00 PM,2019,11,27,13,47.8,131,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 02:00 PM,2019,11,27,14,38.8,109,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 03:00 PM,2019,11,27,15,41.4,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 04:00 PM,2019,11,27,16,46.6,128,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 05:00 PM,2019,11,27,17,51.8,141,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 06:00 PM,2019,11,27,18,83.4,165,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 07:00 PM,2019,11,27,19,152.7,203,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 08:00 PM,2019,11,27,20,208.8,259,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 09:00 PM,2019,11,27,21,223.4,273,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 10:00 PM,2019,11,27,22,183.2,233,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-27 11:00 PM,2019,11,27,23,150.1,200,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 12:00 AM,2019,11,28,00,116.0,182,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 01:00 AM,2019,11,28,01,131.5,190,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 02:00 AM,2019,11,28,02,146.2,198,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 03:00 AM,2019,11,28,03,126.1,187,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 04:00 AM,2019,11,28,04,104.5,176,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 05:00 AM,2019,11,28,05,72.7,160,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 06:00 AM,2019,11,28,06,72.8,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 07:00 AM,2019,11,28,07,83.4,165,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 08:00 AM,2019,11,28,08,92.1,170,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 09:00 AM,2019,11,28,09,89.5,169,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 10:00 AM,2019,11,28,10,67.7,157,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 11:00 AM,2019,11,28,11,42.8,119,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 12:00 PM,2019,11,28,12,29.4,87,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 01:00 PM,2019,11,28,13,21.1,70,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 02:00 PM,2019,11,28,14,19.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 03:00 PM,2019,11,28,15,16.0,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 04:00 PM,2019,11,28,16,16.5,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 05:00 PM,2019,11,28,17,28.7,86,Moderate,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 06:00 PM,2019,11,28,18,56.8,152,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 07:00 PM,2019,11,28,19,117.4,183,Unhealthy,178.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 08:00 PM,2019,11,28,20,152.2,203,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 09:00 PM,2019,11,28,21,191.6,242,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 10:00 PM,2019,11,28,22,201.8,252,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-28 11:00 PM,2019,11,28,23,223.9,274,Very Unhealthy,246.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 12:00 AM,2019,11,29,00,196.4,246,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 01:00 AM,2019,11,29,01,165.2,216,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 02:00 AM,2019,11,29,02,155.6,206,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 03:00 AM,2019,11,29,03,135.3,192,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 04:00 AM,2019,11,29,04,100.1,174,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 05:00 AM,2019,11,29,05,89.5,169,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 06:00 AM,2019,11,29,06,104.2,176,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 07:00 AM,2019,11,29,07,85.6,167,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 08:00 AM,2019,11,29,08,68.8,158,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 09:00 AM,2019,11,29,09,71.3,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 10:00 AM,2019,11,29,10,44.1,122,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 11:00 AM,2019,11,29,11,30.0,89,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 12:00 PM,2019,11,29,12,24.0,76,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 01:00 PM,2019,11,29,13,20.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 02:00 PM,2019,11,29,14,20.2,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 03:00 PM,2019,11,29,15,22.6,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 04:00 PM,2019,11,29,16,27.2,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 05:00 PM,2019,11,29,17,41.1,115,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 06:00 PM,2019,11,29,18,74.5,161,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 07:00 PM,2019,11,29,19,117.2,183,Unhealthy,160.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 08:00 PM,2019,11,29,20,142.6,196,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 09:00 PM,2019,11,29,21,192.3,242,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 10:00 PM,2019,11,29,22,264.7,315,Hazardous,337.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-29 11:00 PM,2019,11,29,23,303.8,354,Hazardous,343.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 12:00 AM,2019,11,30,00,369.4,413,Hazardous,435.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 01:00 AM,2019,11,30,01,440.8,461,Hazardous,512.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 02:00 AM,2019,11,30,02,460.9,474,Hazardous,481.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 03:00 AM,2019,11,30,03,394.0,430,Hazardous,327.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 04:00 AM,2019,11,30,04,349.0,399,Hazardous,304.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 05:00 AM,2019,11,30,05,296.0,346,Hazardous,243.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 06:00 AM,2019,11,30,06,251.5,302,Hazardous,207.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 07:00 AM,2019,11,30,07,254.7,305,Hazardous,258.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 08:00 AM,2019,11,30,08,224.8,275,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 09:00 AM,2019,11,30,09,184.9,235,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 10:00 AM,2019,11,30,10,137.4,193,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 11:00 AM,2019,11,30,11,173.7,224,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 12:00 PM,2019,11,30,12,126.8,188,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 01:00 PM,2019,11,30,13,97.8,173,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 02:00 PM,2019,11,30,14,88.8,168,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 03:00 PM,2019,11,30,15,82.9,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 04:00 PM,2019,11,30,16,75.4,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 05:00 PM,2019,11,30,17,85.6,167,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 06:00 PM,2019,11,30,18,98.8,173,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 07:00 PM,2019,11,30,19,169.4,220,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 08:00 PM,2019,11,30,20,216.7,267,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 09:00 PM,2019,11,30,21,298.8,349,Hazardous,381.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 10:00 PM,2019,11,30,22,343.9,394,Hazardous,389.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-11-30 11:00 PM,2019,11,30,23,361.0,408,Hazardous,378.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2019-12-01 12:00 AM,2019,12,01,00,396.5,431,Hazardous,432.0,UG/M3,1 Hr,Valid

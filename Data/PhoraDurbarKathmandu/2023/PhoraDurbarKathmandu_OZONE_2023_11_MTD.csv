@@ -1,0 +1,8 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Phora Durbar Kathmandu,O3,2023-11-07 09:00 AM,2023,11,07,09,6.0,6,Good,2.0,PPB,1 Hr,Valid
+Phora Durbar Kathmandu,O3,2023-11-07 10:00 AM,2023,11,07,10,6.0,6,Good,2.0,PPB,1 Hr,Valid
+Phora Durbar Kathmandu,O3,2023-11-07 11:00 AM,2023,11,07,11,6.0,6,Good,-999.0,PPB,1 Hr,Missing
+Phora Durbar Kathmandu,O3,2023-11-07 12:00 PM,2023,11,07,12,6.0,6,Good,-999.0,PPB,1 Hr,Missing
+Phora Durbar Kathmandu,O3,2023-11-09 03:00 PM,2023,11,09,15,6.0,6,Good,2.0,PPB,1 Hr,Valid
+Phora Durbar Kathmandu,O3,2023-11-09 04:00 PM,2023,11,09,16,6.0,6,Good,-999.0,PPB,1 Hr,Missing
+Phora Durbar Kathmandu,O3,2023-11-09 05:00 PM,2023,11,09,17,6.0,6,Good,-999.0,PPB,1 Hr,Missing

@@ -1,0 +1,10 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dubai,O3,2019-06-01 01:00 AM,2019,06,01,01,78.0,126,Unhealthy for Sensitive Groups,67.0,PPB,1 Hr,Valid
+Dubai,O3,2019-06-01 02:00 AM,2019,06,01,02,52.0,48,Good,38.0,PPB,1 Hr,Valid
+Dubai,O3,2019-06-01 03:00 AM,2019,06,01,03,39.0,36,Good,34.0,PPB,1 Hr,Valid
+Dubai,O3,2019-06-01 04:00 AM,2019,06,01,04,24.0,22,Good,21.0,PPB,1 Hr,Valid
+Dubai,O3,2019-06-01 05:00 AM,2019,06,01,05,34.0,31,Good,37.0,PPB,1 Hr,Valid
+Dubai,O3,2019-06-01 06:00 AM,2019,06,01,06,34.0,31,Good,-999.0,PPB,1 Hr,Missing
+Dubai,O3,2019-06-01 07:00 AM,2019,06,01,07,34.0,31,Good,-999.0,PPB,1 Hr,Missing
+Dubai,O3,2019-06-01 08:00 AM,2019,06,01,08,34.0,31,Good,-999.0,PPB,1 Hr,Missing
+Dubai,O3,2019-06-01 09:00 AM,2019,06,01,09,34.0,31,Good,-999.0,PPB,1 Hr,Missing

@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kolkata,PM2.5 - Principal,2024-05-01 02:00 AM,2024,05,01,02,38.1,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 03:00 AM,2024,05,01,03,38.0,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 04:00 AM,2024,05,01,04,41.0,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 05:00 AM,2024,05,01,05,41.0,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 06:00 AM,2024,05,01,06,44.5,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 07:00 AM,2024,05,01,07,48.7,134,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 08:00 AM,2024,05,01,08,60.3,154,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 09:00 AM,2024,05,01,09,68.6,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 10:00 AM,2024,05,01,10,71.8,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 11:00 AM,2024,05,01,11,63.4,157,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 12:00 PM,2024,05,01,12,52.2,142,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 01:00 PM,2024,05,01,13,52.1,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 02:00 PM,2024,05,01,14,49.0,134,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 03:00 PM,2024,05,01,15,49.7,136,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 04:00 PM,2024,05,01,16,50.3,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 05:00 PM,2024,05,01,17,51.1,139,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 06:00 PM,2024,05,01,18,51.9,141,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 07:00 PM,2024,05,01,19,59.0,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 08:00 PM,2024,05,01,20,53.3,145,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 09:00 PM,2024,05,01,21,47.7,131,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 10:00 PM,2024,05,01,22,46.0,127,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-01 11:00 PM,2024,05,01,23,47.5,131,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 12:00 AM,2024,05,02,00,48.1,132,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 01:00 AM,2024,05,02,01,45.7,126,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 02:00 AM,2024,05,02,02,36.5,103,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 03:00 AM,2024,05,02,03,34.2,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 04:00 AM,2024,05,02,04,32.1,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 05:00 AM,2024,05,02,05,27.5,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 06:00 AM,2024,05,02,06,23.7,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 07:00 AM,2024,05,02,07,20.8,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 08:00 AM,2024,05,02,08,23.9,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 09:00 AM,2024,05,02,09,25.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 10:00 AM,2024,05,02,10,27.2,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 11:00 AM,2024,05,02,11,36.6,104,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 12:00 PM,2024,05,02,12,48.8,134,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 01:00 PM,2024,05,02,13,59.4,154,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 02:00 PM,2024,05,02,14,68.2,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 03:00 PM,2024,05,02,15,74.1,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 04:00 PM,2024,05,02,16,78.0,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 05:00 PM,2024,05,02,17,75.0,165,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 06:00 PM,2024,05,02,18,75.5,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 07:00 PM,2024,05,02,19,69.2,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 08:00 PM,2024,05,02,20,65.1,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 09:00 PM,2024,05,02,21,54.5,148,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 10:00 PM,2024,05,02,22,42.7,119,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-02 11:00 PM,2024,05,02,23,29.8,90,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 12:00 AM,2024,05,03,00,24.4,80,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 01:00 AM,2024,05,03,01,24.2,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 02:00 AM,2024,05,03,02,21.0,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 03:00 AM,2024,05,03,03,20.5,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 04:00 AM,2024,05,03,04,20.2,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 05:00 AM,2024,05,03,05,22.6,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 06:00 AM,2024,05,03,06,29.8,90,Moderate,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 07:00 AM,2024,05,03,07,36.4,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 08:00 AM,2024,05,03,08,45.7,126,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 09:00 AM,2024,05,03,09,45.8,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 10:00 AM,2024,05,03,10,43.9,122,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 11:00 AM,2024,05,03,11,43.9,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 12:00 PM,2024,05,03,12,41.9,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 01:00 PM,2024,05,03,13,39.9,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 02:00 PM,2024,05,03,14,42.5,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 03:00 PM,2024,05,03,15,45.7,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 04:00 PM,2024,05,03,16,51.8,141,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 05:00 PM,2024,05,03,17,51.6,141,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 06:00 PM,2024,05,03,18,50.2,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 07:00 PM,2024,05,03,19,50.8,139,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 08:00 PM,2024,05,03,20,49.8,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 09:00 PM,2024,05,03,21,48.5,133,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 10:00 PM,2024,05,03,22,46.6,128,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-03 11:00 PM,2024,05,03,23,46.7,129,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 12:00 AM,2024,05,04,00,46.5,128,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 01:00 AM,2024,05,04,01,41.8,117,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 02:00 AM,2024,05,04,02,34.2,98,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 03:00 AM,2024,05,04,03,32.6,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 04:00 AM,2024,05,04,04,30.4,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 05:00 AM,2024,05,04,05,27.1,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 06:00 AM,2024,05,04,06,27.0,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 07:00 AM,2024,05,04,07,29.0,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 08:00 AM,2024,05,04,08,29.9,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 09:00 AM,2024,05,04,09,31.4,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 10:00 AM,2024,05,04,10,34.6,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 11:00 AM,2024,05,04,11,41.8,117,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 12:00 PM,2024,05,04,12,43.4,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 01:00 PM,2024,05,04,13,43.2,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 02:00 PM,2024,05,04,14,42.1,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 03:00 PM,2024,05,04,15,42.5,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 04:00 PM,2024,05,04,16,43.7,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 05:00 PM,2024,05,04,17,39.2,110,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 06:00 PM,2024,05,04,18,38.0,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 07:00 PM,2024,05,04,19,34.8,99,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 08:00 PM,2024,05,04,20,33.7,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 09:00 PM,2024,05,04,21,26.3,83,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 10:00 PM,2024,05,04,22,23.6,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-04 11:00 PM,2024,05,04,23,19.3,70,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 12:00 AM,2024,05,05,00,16.1,64,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 01:00 AM,2024,05,05,01,14.0,60,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 02:00 AM,2024,05,05,02,14.0,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 03:00 AM,2024,05,05,03,14.5,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 04:00 AM,2024,05,05,04,18.7,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 05:00 AM,2024,05,05,05,20.3,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 06:00 AM,2024,05,05,06,22.1,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 07:00 AM,2024,05,05,07,25.5,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 08:00 AM,2024,05,05,08,25.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 09:00 AM,2024,05,05,09,28.3,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 10:00 AM,2024,05,05,10,32.7,95,Moderate,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 11:00 AM,2024,05,05,11,36.3,103,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 12:00 PM,2024,05,05,12,39.6,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 01:00 PM,2024,05,05,13,43.3,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 02:00 PM,2024,05,05,14,45.1,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 03:00 PM,2024,05,05,15,48.0,132,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 04:00 PM,2024,05,05,16,55.0,149,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 05:00 PM,2024,05,05,17,49.5,135,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 06:00 PM,2024,05,05,18,41.7,116,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 07:00 PM,2024,05,05,19,39.8,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 08:00 PM,2024,05,05,20,38.4,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 09:00 PM,2024,05,05,21,33.2,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 10:00 PM,2024,05,05,22,29.1,88,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-05 11:00 PM,2024,05,05,23,26.5,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 12:00 AM,2024,05,06,00,24.7,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 01:00 AM,2024,05,06,01,22.8,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 02:00 AM,2024,05,06,02,21.9,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 03:00 AM,2024,05,06,03,19.4,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 04:00 AM,2024,05,06,04,21.2,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 05:00 AM,2024,05,06,05,21.6,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 06:00 AM,2024,05,06,06,22.3,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 07:00 AM,2024,05,06,07,21.6,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 08:00 AM,2024,05,06,08,21.4,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 09:00 AM,2024,05,06,09,21.9,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 10:00 AM,2024,05,06,10,25.5,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 11:00 AM,2024,05,06,11,27.4,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 12:00 PM,2024,05,06,12,26.8,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 01:00 PM,2024,05,06,13,28.7,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 02:00 PM,2024,05,06,14,28.8,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 03:00 PM,2024,05,06,15,28.1,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 04:00 PM,2024,05,06,16,27.4,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 05:00 PM,2024,05,06,17,26.0,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 06:00 PM,2024,05,06,18,23.7,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 07:00 PM,2024,05,06,19,21.0,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 08:00 PM,2024,05,06,20,21.4,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 09:00 PM,2024,05,06,21,25.0,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 10:00 PM,2024,05,06,22,23.3,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-06 11:00 PM,2024,05,06,23,17.6,67,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 12:00 AM,2024,05,07,00,21.8,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 01:00 AM,2024,05,07,01,26.9,84,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 02:00 AM,2024,05,07,02,16.9,66,Moderate,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 03:00 AM,2024,05,07,03,11.9,56,Moderate,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 04:00 AM,2024,05,07,04,11.4,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 05:00 AM,2024,05,07,05,10.7,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 06:00 AM,2024,05,07,06,11.8,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 07:00 AM,2024,05,07,07,12.4,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 08:00 AM,2024,05,07,08,11.7,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 09:00 AM,2024,05,07,09,14.8,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 10:00 AM,2024,05,07,10,15.4,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 11:00 AM,2024,05,07,11,19.7,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 12:00 PM,2024,05,07,12,20.3,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 01:00 PM,2024,05,07,13,20.1,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 02:00 PM,2024,05,07,14,20.5,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 03:00 PM,2024,05,07,15,20.2,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 04:00 PM,2024,05,07,16,24.6,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 05:00 PM,2024,05,07,17,21.3,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 06:00 PM,2024,05,07,18,19.6,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 07:00 PM,2024,05,07,19,19.8,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 08:00 PM,2024,05,07,20,20.4,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 09:00 PM,2024,05,07,21,21.5,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 10:00 PM,2024,05,07,22,20.1,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-07 11:00 PM,2024,05,07,23,17.5,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 12:00 AM,2024,05,08,00,14.2,61,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 01:00 AM,2024,05,08,01,15.6,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 02:00 AM,2024,05,08,02,15.3,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 03:00 AM,2024,05,08,03,13.1,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 04:00 AM,2024,05,08,04,14.5,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 05:00 AM,2024,05,08,05,15.2,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 06:00 AM,2024,05,08,06,13.1,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 07:00 AM,2024,05,08,07,13.5,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 08:00 AM,2024,05,08,08,12.2,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 09:00 AM,2024,05,08,09,14.3,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 10:00 AM,2024,05,08,10,15.2,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 11:00 AM,2024,05,08,11,18.9,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 12:00 PM,2024,05,08,12,16.4,65,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 01:00 PM,2024,05,08,13,16.7,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 02:00 PM,2024,05,08,14,14.8,62,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 03:00 PM,2024,05,08,15,16.4,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 04:00 PM,2024,05,08,16,14.7,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 05:00 PM,2024,05,08,17,13.8,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 06:00 PM,2024,05,08,18,10.9,54,Moderate,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 07:00 PM,2024,05,08,19,9.9,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 08:00 PM,2024,05,08,20,10.9,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 09:00 PM,2024,05,08,21,12.4,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 10:00 PM,2024,05,08,22,13.7,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-08 11:00 PM,2024,05,08,23,12.8,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 12:00 AM,2024,05,09,00,11.9,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 01:00 AM,2024,05,09,01,12.4,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 02:00 AM,2024,05,09,02,13.2,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 03:00 AM,2024,05,09,03,12.6,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 04:00 AM,2024,05,09,04,12.8,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 05:00 AM,2024,05,09,05,11.0,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 06:00 AM,2024,05,09,06,11.1,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 07:00 AM,2024,05,09,07,17.9,67,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 08:00 AM,2024,05,09,08,21.9,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 09:00 AM,2024,05,09,09,21.9,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 10:00 AM,2024,05,09,10,18.4,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 11:00 AM,2024,05,09,11,16.7,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 12:00 PM,2024,05,09,12,17.8,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 01:00 PM,2024,05,09,13,18.4,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 02:00 PM,2024,05,09,14,18.7,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 03:00 PM,2024,05,09,15,24.8,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 04:00 PM,2024,05,09,16,28.4,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 05:00 PM,2024,05,09,17,29.7,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 06:00 PM,2024,05,09,18,31.8,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 07:00 PM,2024,05,09,19,34.9,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 08:00 PM,2024,05,09,20,35.9,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 09:00 PM,2024,05,09,21,29.4,89,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 10:00 PM,2024,05,09,22,30.2,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-09 11:00 PM,2024,05,09,23,28.1,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 12:00 AM,2024,05,10,00,26.5,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 01:00 AM,2024,05,10,01,23.7,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 02:00 AM,2024,05,10,02,21.3,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 03:00 AM,2024,05,10,03,20.6,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 04:00 AM,2024,05,10,04,24.8,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 05:00 AM,2024,05,10,05,22.9,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 06:00 AM,2024,05,10,06,21.4,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 07:00 AM,2024,05,10,07,28.5,87,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 08:00 AM,2024,05,10,08,29.1,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 09:00 AM,2024,05,10,09,29.5,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 10:00 AM,2024,05,10,10,26.9,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 11:00 AM,2024,05,10,11,26.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 12:00 PM,2024,05,10,12,27.9,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 01:00 PM,2024,05,10,13,25.5,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 02:00 PM,2024,05,10,14,25.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 03:00 PM,2024,05,10,15,24.7,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 04:00 PM,2024,05,10,16,22.6,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 05:00 PM,2024,05,10,17,21.4,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 06:00 PM,2024,05,10,18,19.5,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 07:00 PM,2024,05,10,19,18.0,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 08:00 PM,2024,05,10,20,18.0,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 09:00 PM,2024,05,10,21,20.2,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 10:00 PM,2024,05,10,22,20.6,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-10 11:00 PM,2024,05,10,23,20.3,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 12:00 AM,2024,05,11,00,20.1,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 01:00 AM,2024,05,11,01,19.7,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 02:00 AM,2024,05,11,02,18.4,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 03:00 AM,2024,05,11,03,17.7,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 04:00 AM,2024,05,11,04,15.3,63,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 05:00 AM,2024,05,11,05,13.6,59,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 06:00 AM,2024,05,11,06,13.3,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 07:00 AM,2024,05,11,07,13.6,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 08:00 AM,2024,05,11,08,13.3,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 09:00 AM,2024,05,11,09,13.2,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 10:00 AM,2024,05,11,10,15.1,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 11:00 AM,2024,05,11,11,20.2,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 12:00 PM,2024,05,11,12,22.6,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 01:00 PM,2024,05,11,13,26.8,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 02:00 PM,2024,05,11,14,31.4,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 03:00 PM,2024,05,11,15,27.2,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 04:00 PM,2024,05,11,16,25.1,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 05:00 PM,2024,05,11,17,24.0,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 06:00 PM,2024,05,11,18,19.5,70,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 07:00 PM,2024,05,11,19,19.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 08:00 PM,2024,05,11,20,20.1,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 09:00 PM,2024,05,11,21,18.5,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 10:00 PM,2024,05,11,22,22.2,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-11 11:00 PM,2024,05,11,23,24.6,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 12:00 AM,2024,05,12,00,24.8,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 01:00 AM,2024,05,12,01,24.4,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 02:00 AM,2024,05,12,02,22.8,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 03:00 AM,2024,05,12,03,24.2,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 04:00 AM,2024,05,12,04,24.1,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 05:00 AM,2024,05,12,05,30.0,90,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 06:00 AM,2024,05,12,06,38.0,107,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 07:00 AM,2024,05,12,07,35.5,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 08:00 AM,2024,05,12,08,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 09:00 AM,2024,05,12,09,29.8,90,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 10:00 AM,2024,05,12,10,24.9,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 11:00 AM,2024,05,12,11,24.4,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 12:00 PM,2024,05,12,12,24.2,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 01:00 PM,2024,05,12,13,23.6,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 02:00 PM,2024,05,12,14,24.3,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 03:00 PM,2024,05,12,15,28.6,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 04:00 PM,2024,05,12,16,28.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 05:00 PM,2024,05,12,17,30.6,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 06:00 PM,2024,05,12,18,31.6,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 07:00 PM,2024,05,12,19,31.8,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 08:00 PM,2024,05,12,20,34.8,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 09:00 PM,2024,05,12,21,38.5,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 10:00 PM,2024,05,12,22,34.8,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-12 11:00 PM,2024,05,12,23,31.7,93,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 12:00 AM,2024,05,13,00,26.1,83,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 01:00 AM,2024,05,13,01,26.5,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 02:00 AM,2024,05,13,02,25.7,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 03:00 AM,2024,05,13,03,23.8,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 04:00 AM,2024,05,13,04,25.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 05:00 AM,2024,05,13,05,23.2,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 06:00 AM,2024,05,13,06,24.6,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 07:00 AM,2024,05,13,07,24.3,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 08:00 AM,2024,05,13,08,24.1,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 09:00 AM,2024,05,13,09,22.7,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 10:00 AM,2024,05,13,10,22.4,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 11:00 AM,2024,05,13,11,22.8,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 12:00 PM,2024,05,13,12,24.7,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 01:00 PM,2024,05,13,13,29.5,89,Moderate,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 02:00 PM,2024,05,13,14,34.5,98,Moderate,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 03:00 PM,2024,05,13,15,34.7,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 04:00 PM,2024,05,13,16,39.9,112,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 05:00 PM,2024,05,13,17,39.4,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 06:00 PM,2024,05,13,18,36.7,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 07:00 PM,2024,05,13,19,35.8,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 08:00 PM,2024,05,13,20,38.4,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 09:00 PM,2024,05,13,21,43.7,121,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 10:00 PM,2024,05,13,22,42.3,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-13 11:00 PM,2024,05,13,23,37.8,107,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 12:00 AM,2024,05,14,00,30.5,91,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 01:00 AM,2024,05,14,01,24.2,79,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 02:00 AM,2024,05,14,02,20.6,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 03:00 AM,2024,05,14,03,18.8,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 04:00 AM,2024,05,14,04,18.9,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 05:00 AM,2024,05,14,05,18.4,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 06:00 AM,2024,05,14,06,17.2,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 07:00 AM,2024,05,14,07,17.1,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 08:00 AM,2024,05,14,08,20.0,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 09:00 AM,2024,05,14,09,22.0,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 10:00 AM,2024,05,14,10,24.0,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 11:00 AM,2024,05,14,11,31.0,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 12:00 PM,2024,05,14,12,33.5,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 01:00 PM,2024,05,14,13,39.2,110,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 02:00 PM,2024,05,14,14,42.6,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 03:00 PM,2024,05,14,15,37.3,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 04:00 PM,2024,05,14,16,36.6,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 05:00 PM,2024,05,14,17,37.3,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 06:00 PM,2024,05,14,18,40.6,114,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 07:00 PM,2024,05,14,19,32.3,94,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 08:00 PM,2024,05,14,20,27.6,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 09:00 PM,2024,05,14,21,22.3,76,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 10:00 PM,2024,05,14,22,18.1,68,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-14 11:00 PM,2024,05,14,23,19.0,69,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 12:00 AM,2024,05,15,00,21.0,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 01:00 AM,2024,05,15,01,22.5,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 02:00 AM,2024,05,15,02,18.2,68,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 03:00 AM,2024,05,15,03,15.6,63,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 04:00 AM,2024,05,15,04,16.3,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 05:00 AM,2024,05,15,05,16.1,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 06:00 AM,2024,05,15,06,14.0,60,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 07:00 AM,2024,05,15,07,15.5,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 08:00 AM,2024,05,15,08,16.7,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 09:00 AM,2024,05,15,09,16.3,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 10:00 AM,2024,05,15,10,19.1,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 11:00 AM,2024,05,15,11,21.5,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 12:00 PM,2024,05,15,12,27.2,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 01:00 PM,2024,05,15,13,37.6,106,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 02:00 PM,2024,05,15,14,39.8,112,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 03:00 PM,2024,05,15,15,34.4,98,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 04:00 PM,2024,05,15,16,33.7,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 05:00 PM,2024,05,15,17,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 06:00 PM,2024,05,15,18,30.9,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 07:00 PM,2024,05,15,19,30.4,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 08:00 PM,2024,05,15,20,33.2,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 09:00 PM,2024,05,15,21,36.6,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 10:00 PM,2024,05,15,22,34.3,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-15 11:00 PM,2024,05,15,23,27.1,85,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 12:00 AM,2024,05,16,00,21.5,74,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 01:00 AM,2024,05,16,01,19.7,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 02:00 AM,2024,05,16,02,19.8,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 03:00 AM,2024,05,16,03,18.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 04:00 AM,2024,05,16,04,14.7,61,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 05:00 AM,2024,05,16,05,12.3,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 06:00 AM,2024,05,16,06,13.1,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 07:00 AM,2024,05,16,07,13.0,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 08:00 AM,2024,05,16,08,11.5,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 09:00 AM,2024,05,16,09,10.2,53,Moderate,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 10:00 AM,2024,05,16,10,9.1,51,Moderate,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 11:00 AM,2024,05,16,11,12.5,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 12:00 PM,2024,05,16,12,16.2,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 01:00 PM,2024,05,16,13,19.6,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 02:00 PM,2024,05,16,14,20.8,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 03:00 PM,2024,05,16,15,20.9,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 04:00 PM,2024,05,16,16,24.4,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 05:00 PM,2024,05,16,17,25.2,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 06:00 PM,2024,05,16,18,29.6,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 07:00 PM,2024,05,16,19,30.3,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 08:00 PM,2024,05,16,20,22.6,76,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 09:00 PM,2024,05,16,21,21.8,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 10:00 PM,2024,05,16,22,18.9,69,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-16 11:00 PM,2024,05,16,23,22.4,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 12:00 AM,2024,05,17,00,23.2,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 01:00 AM,2024,05,17,01,17.6,67,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 02:00 AM,2024,05,17,02,13.8,60,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 03:00 AM,2024,05,17,03,9.9,52,Moderate,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 04:00 AM,2024,05,17,04,7.9,44,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 05:00 AM,2024,05,17,05,6.4,36,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 06:00 AM,2024,05,17,06,4.2,23,Good,2.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 07:00 AM,2024,05,17,07,5.6,31,Good,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 08:00 AM,2024,05,17,08,8.3,46,Good,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 09:00 AM,2024,05,17,09,8.1,45,Good,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 10:00 AM,2024,05,17,10,9.5,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 11:00 AM,2024,05,17,11,12.7,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 12:00 PM,2024,05,17,12,16.8,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 01:00 PM,2024,05,17,13,21.4,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 02:00 PM,2024,05,17,14,27.7,86,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 03:00 PM,2024,05,17,15,34.8,99,Moderate,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 04:00 PM,2024,05,17,16,38.4,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 05:00 PM,2024,05,17,17,40.2,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 06:00 PM,2024,05,17,18,33.6,97,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 07:00 PM,2024,05,17,19,21.3,74,Moderate,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 08:00 PM,2024,05,17,20,16.1,64,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 09:00 PM,2024,05,17,21,16.5,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 10:00 PM,2024,05,17,22,16.2,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-17 11:00 PM,2024,05,17,23,14.6,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 12:00 AM,2024,05,18,00,13.8,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 01:00 AM,2024,05,18,01,12.9,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 02:00 AM,2024,05,18,02,9.4,52,Moderate,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 03:00 AM,2024,05,18,03,8.7,48,Good,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 04:00 AM,2024,05,18,04,8.8,49,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 05:00 AM,2024,05,18,05,10.9,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 06:00 AM,2024,05,18,06,14.4,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 07:00 AM,2024,05,18,07,14.2,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 08:00 AM,2024,05,18,08,14.1,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 09:00 AM,2024,05,18,09,17.0,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 10:00 AM,2024,05,18,10,16.0,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 11:00 AM,2024,05,18,11,18.5,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 12:00 PM,2024,05,18,12,25.7,82,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 01:00 PM,2024,05,18,13,34.8,99,Moderate,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 02:00 PM,2024,05,18,14,45.9,127,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 03:00 PM,2024,05,18,15,54.9,149,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 04:00 PM,2024,05,18,16,60.9,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 05:00 PM,2024,05,18,17,68.0,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 06:00 PM,2024,05,18,18,58.0,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 07:00 PM,2024,05,18,19,49.0,134,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 08:00 PM,2024,05,18,20,41.5,116,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 09:00 PM,2024,05,18,21,35.7,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 10:00 PM,2024,05,18,22,28.3,87,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-18 11:00 PM,2024,05,18,23,25.6,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 12:00 AM,2024,05,19,00,30.3,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 01:00 AM,2024,05,19,01,26.6,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 02:00 AM,2024,05,19,02,19.3,70,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 03:00 AM,2024,05,19,03,15.6,63,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 04:00 AM,2024,05,19,04,11.3,55,Moderate,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 05:00 AM,2024,05,19,05,8.1,45,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 06:00 AM,2024,05,19,06,7.0,39,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 07:00 AM,2024,05,19,07,8.0,44,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 08:00 AM,2024,05,19,08,9.5,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 09:00 AM,2024,05,19,09,12.2,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 10:00 AM,2024,05,19,10,17.1,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 11:00 AM,2024,05,19,11,24.5,80,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 12:00 PM,2024,05,19,12,31.2,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 01:00 PM,2024,05,19,13,40.6,114,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 02:00 PM,2024,05,19,14,43.8,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 03:00 PM,2024,05,19,15,43.4,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 04:00 PM,2024,05,19,16,43.7,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 05:00 PM,2024,05,19,17,44.8,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 06:00 PM,2024,05,19,18,40.9,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 07:00 PM,2024,05,19,19,30.4,91,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 08:00 PM,2024,05,19,20,26.7,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 09:00 PM,2024,05,19,21,33.8,97,Moderate,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 10:00 PM,2024,05,19,22,24.4,80,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-19 11:00 PM,2024,05,19,23,17.2,66,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 12:00 AM,2024,05,20,00,12.1,57,Moderate,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 01:00 AM,2024,05,20,01,8.5,47,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 02:00 AM,2024,05,20,02,6.7,37,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 03:00 AM,2024,05,20,03,5.3,29,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 04:00 AM,2024,05,20,04,5.1,28,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 05:00 AM,2024,05,20,05,7.5,42,Good,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 06:00 AM,2024,05,20,06,6.7,37,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 07:00 AM,2024,05,20,07,8.3,46,Good,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 08:00 AM,2024,05,20,08,8.6,48,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 09:00 AM,2024,05,20,09,9.8,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 10:00 AM,2024,05,20,10,11.9,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 11:00 AM,2024,05,20,11,15.9,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 12:00 PM,2024,05,20,12,18.9,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 01:00 PM,2024,05,20,13,18.9,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 02:00 PM,2024,05,20,14,23.9,79,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 03:00 PM,2024,05,20,15,18.0,68,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 04:00 PM,2024,05,20,16,15.0,62,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 05:00 PM,2024,05,20,17,17.5,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 06:00 PM,2024,05,20,18,17.7,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 07:00 PM,2024,05,20,19,17.3,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 08:00 PM,2024,05,20,20,16.6,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 09:00 PM,2024,05,20,21,12.8,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 10:00 PM,2024,05,20,22,10.9,54,Moderate,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-20 11:00 PM,2024,05,20,23,10.9,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 12:00 AM,2024,05,21,00,11.9,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 01:00 AM,2024,05,21,01,13.9,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 02:00 AM,2024,05,21,02,14.4,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 03:00 AM,2024,05,21,03,20.7,73,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 04:00 AM,2024,05,21,04,24.8,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 05:00 AM,2024,05,21,05,25.9,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 06:00 AM,2024,05,21,06,25.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 07:00 AM,2024,05,21,07,23.7,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 08:00 AM,2024,05,21,08,20.8,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 09:00 AM,2024,05,21,09,21.4,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 10:00 AM,2024,05,21,10,23.2,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 11:00 AM,2024,05,21,11,20.1,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 12:00 PM,2024,05,21,12,21.0,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 01:00 PM,2024,05,21,13,22.9,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 02:00 PM,2024,05,21,14,24.5,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 03:00 PM,2024,05,21,15,26.3,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 04:00 PM,2024,05,21,16,27.0,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 05:00 PM,2024,05,21,17,32.2,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 06:00 PM,2024,05,21,18,29.1,88,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 07:00 PM,2024,05,21,19,22.5,76,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 08:00 PM,2024,05,21,20,18.2,68,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 09:00 PM,2024,05,21,21,17.1,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 10:00 PM,2024,05,21,22,14.0,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-21 11:00 PM,2024,05,21,23,13.0,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 12:00 AM,2024,05,22,00,12.5,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 01:00 AM,2024,05,22,01,12.7,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 02:00 AM,2024,05,22,02,9.8,52,Moderate,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 03:00 AM,2024,05,22,03,7.9,44,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 04:00 AM,2024,05,22,04,7.4,41,Good,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 05:00 AM,2024,05,22,05,6.7,37,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 06:00 AM,2024,05,22,06,5.3,29,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 07:00 AM,2024,05,22,07,4.1,23,Good,3.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 08:00 AM,2024,05,22,08,3.5,19,Good,3.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 09:00 AM,2024,05,22,09,3.7,21,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 10:00 AM,2024,05,22,10,3.8,21,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 11:00 AM,2024,05,22,11,3.9,22,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 12:00 PM,2024,05,22,12,7.9,44,Good,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 01:00 PM,2024,05,22,13,8.9,49,Good,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 02:00 PM,2024,05,22,14,8.4,47,Good,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 03:00 PM,2024,05,22,15,10.7,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 04:00 PM,2024,05,22,16,13.8,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 05:00 PM,2024,05,22,17,16.4,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 06:00 PM,2024,05,22,18,23.7,78,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 07:00 PM,2024,05,22,19,29.8,90,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 08:00 PM,2024,05,22,20,33.4,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 09:00 PM,2024,05,22,21,34.7,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 10:00 PM,2024,05,22,22,46.8,129,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-22 11:00 PM,2024,05,22,23,43.4,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 12:00 AM,2024,05,23,00,35.2,100,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 01:00 AM,2024,05,23,01,28.1,86,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 02:00 AM,2024,05,23,02,22.0,75,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 03:00 AM,2024,05,23,03,17.0,66,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 04:00 AM,2024,05,23,04,17.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 05:00 AM,2024,05,23,05,14.0,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 06:00 AM,2024,05,23,06,12.0,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 07:00 AM,2024,05,23,07,12.4,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 08:00 AM,2024,05,23,08,12.2,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 09:00 AM,2024,05,23,09,11.1,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 10:00 AM,2024,05,23,10,8.5,47,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 11:00 AM,2024,05,23,11,8.7,48,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 12:00 PM,2024,05,23,12,8.8,49,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 01:00 PM,2024,05,23,13,10.9,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 02:00 PM,2024,05,23,14,11.4,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 03:00 PM,2024,05,23,15,15.2,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 04:00 PM,2024,05,23,16,17.1,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 05:00 PM,2024,05,23,17,13.0,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 06:00 PM,2024,05,23,18,13.0,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 07:00 PM,2024,05,23,19,11.5,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 08:00 PM,2024,05,23,20,10.7,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 09:00 PM,2024,05,23,21,11.3,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 10:00 PM,2024,05,23,22,11.6,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-23 11:00 PM,2024,05,23,23,12.3,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 12:00 AM,2024,05,24,00,11.6,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 01:00 AM,2024,05,24,01,13.3,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 02:00 AM,2024,05,24,02,12.6,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 03:00 AM,2024,05,24,03,16.8,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 04:00 AM,2024,05,24,04,17.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 05:00 AM,2024,05,24,05,17.4,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 06:00 AM,2024,05,24,06,17.2,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 07:00 AM,2024,05,24,07,19.1,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 08:00 AM,2024,05,24,08,19.9,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 09:00 AM,2024,05,24,09,19.9,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 10:00 AM,2024,05,24,10,18.5,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 11:00 AM,2024,05,24,11,17.8,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 12:00 PM,2024,05,24,12,21.8,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 01:00 PM,2024,05,24,13,20.9,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 02:00 PM,2024,05,24,14,16.9,66,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 03:00 PM,2024,05,24,15,17.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 04:00 PM,2024,05,24,16,17.9,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 05:00 PM,2024,05,24,17,20.9,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 06:00 PM,2024,05,24,18,23.9,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 07:00 PM,2024,05,24,19,19.9,71,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 08:00 PM,2024,05,24,20,16.9,66,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 09:00 PM,2024,05,24,21,15.9,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 10:00 PM,2024,05,24,22,15.9,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-24 11:00 PM,2024,05,24,23,17.4,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 12:00 AM,2024,05,25,00,17.7,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 01:00 AM,2024,05,25,01,14.3,61,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 02:00 AM,2024,05,25,02,12.6,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 03:00 AM,2024,05,25,03,12.8,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 04:00 AM,2024,05,25,04,16.4,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 05:00 AM,2024,05,25,05,29.7,89,Moderate,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 06:00 AM,2024,05,25,06,39.3,110,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 07:00 AM,2024,05,25,07,36.6,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 08:00 AM,2024,05,25,08,33.8,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 09:00 AM,2024,05,25,09,26.9,84,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 10:00 AM,2024,05,25,10,20.9,73,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 11:00 AM,2024,05,25,11,18.4,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 12:00 PM,2024,05,25,12,19.2,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 01:00 PM,2024,05,25,13,21.6,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 02:00 PM,2024,05,25,14,26.8,84,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 03:00 PM,2024,05,25,15,30.9,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 04:00 PM,2024,05,25,16,27.4,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 05:00 PM,2024,05,25,17,20.7,73,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 06:00 PM,2024,05,25,18,22.3,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 07:00 PM,2024,05,25,19,19.6,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 08:00 PM,2024,05,25,20,20.8,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 09:00 PM,2024,05,25,21,21.9,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 10:00 PM,2024,05,25,22,19.9,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-25 11:00 PM,2024,05,25,23,12.9,58,Moderate,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 12:00 AM,2024,05,26,00,8.9,49,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 01:00 AM,2024,05,26,01,6.4,36,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 02:00 AM,2024,05,26,02,4.7,26,Good,3.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 03:00 AM,2024,05,26,03,3.8,21,Good,3.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 04:00 AM,2024,05,26,04,1.9,11,Good,0.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 05:00 AM,2024,05,26,05,2.4,13,Good,3.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 06:00 AM,2024,05,26,06,4.2,23,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 07:00 AM,2024,05,26,07,4.6,26,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 08:00 AM,2024,05,26,08,5.3,29,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 09:00 AM,2024,05,26,09,7.1,39,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 10:00 AM,2024,05,26,10,7.5,42,Good,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 11:00 AM,2024,05,26,11,7.7,43,Good,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 12:00 PM,2024,05,26,12,7.8,43,Good,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 01:00 PM,2024,05,26,13,8.4,47,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 02:00 PM,2024,05,26,14,9.2,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 03:00 PM,2024,05,26,15,10.1,53,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 04:00 PM,2024,05,26,16,10.0,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 05:00 PM,2024,05,26,17,10.0,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 06:00 PM,2024,05,26,18,7.5,42,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 07:00 PM,2024,05,26,19,7.7,43,Good,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 08:00 PM,2024,05,26,20,7.3,41,Good,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 09:00 PM,2024,05,26,21,6.1,34,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 10:00 PM,2024,05,26,22,7.5,42,Good,9.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-26 11:00 PM,2024,05,26,23,6.7,37,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 12:00 AM,2024,05,27,00,6.8,38,Good,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 01:00 AM,2024,05,27,01,6.9,38,Good,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 02:00 AM,2024,05,27,02,6.4,36,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 03:00 AM,2024,05,27,03,6.2,34,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 04:00 AM,2024,05,27,04,5.6,31,Good,5.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 05:00 AM,2024,05,27,05,4.3,24,Good,3.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 06:00 AM,2024,05,27,06,3.1,17,Good,2.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 07:00 AM,2024,05,27,07,2.0,11,Good,1.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 08:00 AM,2024,05,27,08,3.0,17,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 09:00 AM,2024,05,27,09,3.0,17,Good,3.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 10:00 AM,2024,05,27,10,2.5,14,Good,2.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 11:00 AM,2024,05,27,11,3.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 12:00 PM,2024,05,27,12,2.6,14,Good,2.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 01:00 PM,2024,05,27,13,3.3,18,Good,4.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 02:00 PM,2024,05,27,14,5.1,28,Good,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 03:00 PM,2024,05,27,15,6.0,33,Good,7.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 04:00 PM,2024,05,27,16,10.5,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 05:00 PM,2024,05,27,17,10.2,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 06:00 PM,2024,05,27,18,9.1,51,Moderate,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 07:00 PM,2024,05,27,19,7.5,42,Good,6.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 08:00 PM,2024,05,27,20,9.2,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 09:00 PM,2024,05,27,21,10.1,53,Moderate,11.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 10:00 PM,2024,05,27,22,12.0,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-27 11:00 PM,2024,05,27,23,14.0,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 12:00 AM,2024,05,28,00,14.0,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 01:00 AM,2024,05,28,01,15.0,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 02:00 AM,2024,05,28,02,12.5,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 03:00 AM,2024,05,28,03,14.2,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 04:00 AM,2024,05,28,04,16.1,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 05:00 AM,2024,05,28,05,15.5,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 06:00 AM,2024,05,28,06,19.7,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 07:00 AM,2024,05,28,07,22.3,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 08:00 AM,2024,05,28,08,31.2,92,Moderate,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 09:00 AM,2024,05,28,09,28.1,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 10:00 AM,2024,05,28,10,25.5,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 11:00 AM,2024,05,28,11,24.2,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 12:00 PM,2024,05,28,12,27.6,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 01:00 PM,2024,05,28,13,38.3,108,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 02:00 PM,2024,05,28,14,48.6,133,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 03:00 PM,2024,05,28,15,52.3,142,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 04:00 PM,2024,05,28,16,54.6,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 05:00 PM,2024,05,28,17,53.3,145,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 06:00 PM,2024,05,28,18,47.6,131,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 07:00 PM,2024,05,28,19,44.3,123,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 08:00 PM,2024,05,28,20,40.6,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 09:00 PM,2024,05,28,21,40.3,113,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 10:00 PM,2024,05,28,22,38.6,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-28 11:00 PM,2024,05,28,23,37.5,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 12:00 AM,2024,05,29,00,35.6,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 01:00 AM,2024,05,29,01,33.8,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 02:00 AM,2024,05,29,02,31.3,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 03:00 AM,2024,05,29,03,31.6,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 04:00 AM,2024,05,29,04,31.9,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 05:00 AM,2024,05,29,05,32.3,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 06:00 AM,2024,05,29,06,31.3,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 07:00 AM,2024,05,29,07,31.2,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 08:00 AM,2024,05,29,08,33.1,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 09:00 AM,2024,05,29,09,35.0,99,Moderate,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 10:00 AM,2024,05,29,10,36.1,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 11:00 AM,2024,05,29,11,37.2,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 12:00 PM,2024,05,29,12,39.4,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 01:00 PM,2024,05,29,13,40.6,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 02:00 PM,2024,05,29,14,42.4,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 03:00 PM,2024,05,29,15,41.5,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 04:00 PM,2024,05,29,16,41.0,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 05:00 PM,2024,05,29,17,41.7,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 06:00 PM,2024,05,29,18,39.9,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 07:00 PM,2024,05,29,19,40.3,113,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 08:00 PM,2024,05,29,20,39.6,111,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 09:00 PM,2024,05,29,21,39.9,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 10:00 PM,2024,05,29,22,39.3,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-29 11:00 PM,2024,05,29,23,37.3,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 12:00 AM,2024,05,30,00,36.1,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 01:00 AM,2024,05,30,01,34.2,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 02:00 AM,2024,05,30,02,31.1,92,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 03:00 AM,2024,05,30,03,29.5,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 04:00 AM,2024,05,30,04,29.7,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 05:00 AM,2024,05,30,05,27.1,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 06:00 AM,2024,05,30,06,25.8,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 07:00 AM,2024,05,30,07,25.0,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 08:00 AM,2024,05,30,08,24.0,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 09:00 AM,2024,05,30,09,25.3,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 10:00 AM,2024,05,30,10,26.5,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 11:00 AM,2024,05,30,11,27.9,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 12:00 PM,2024,05,30,12,28.5,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 01:00 PM,2024,05,30,13,30.6,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 02:00 PM,2024,05,30,14,31.4,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 03:00 PM,2024,05,30,15,33.2,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 04:00 PM,2024,05,30,16,31.7,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 05:00 PM,2024,05,30,17,31.1,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 06:00 PM,2024,05,30,18,32.1,94,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 07:00 PM,2024,05,30,19,30.6,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 08:00 PM,2024,05,30,20,31.2,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 09:00 PM,2024,05,30,21,31.7,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 10:00 PM,2024,05,30,22,31.1,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-30 11:00 PM,2024,05,30,23,30.4,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 12:00 AM,2024,05,31,00,30.3,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 01:00 AM,2024,05,31,01,29.7,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 02:00 AM,2024,05,31,02,18.4,68,Moderate,8.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 03:00 AM,2024,05,31,03,14.1,60,Moderate,10.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 04:00 AM,2024,05,31,04,16.0,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 05:00 AM,2024,05,31,05,18.5,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 06:00 AM,2024,05,31,06,20.2,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 07:00 AM,2024,05,31,07,21.1,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 08:00 AM,2024,05,31,08,23.5,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 09:00 AM,2024,05,31,09,27.7,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 10:00 AM,2024,05,31,10,26.8,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 11:00 AM,2024,05,31,11,26.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 12:00 PM,2024,05,31,12,33.9,97,Moderate,41.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 01:00 PM,2024,05,31,13,33.9,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 02:00 PM,2024,05,31,14,36.4,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 03:00 PM,2024,05,31,15,35.7,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 04:00 PM,2024,05,31,16,34.8,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 05:00 PM,2024,05,31,17,35.4,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 06:00 PM,2024,05,31,18,35.2,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 07:00 PM,2024,05,31,19,36.9,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 08:00 PM,2024,05,31,20,37.3,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 09:00 PM,2024,05,31,21,36.8,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 10:00 PM,2024,05,31,22,38.7,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-05-31 11:00 PM,2024,05,31,23,40.3,113,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-06-01 12:00 AM,2024,06,01,00,40.7,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2024-06-01 01:00 AM,2024,06,01,01,39.8,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid

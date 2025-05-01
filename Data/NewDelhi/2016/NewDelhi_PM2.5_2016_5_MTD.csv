@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,AQI,AQI Category,24-hr. Midpoint Avg. Conc.,Raw Conc.,Conc. Unit,Duration,QC Name
+New Delhi,PM2.5 - Principal,2016-05-01 07:00 AM,2016,05,01,07,210,Very Unhealthy,159.1,350.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 08:00 AM,2016,05,01,08,203,Very Unhealthy,152.5,311.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 09:00 AM,2016,05,01,09,200,Unhealthy,149.5,227.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 10:00 AM,2016,05,01,10,199,Unhealthy,148.3,177.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 11:00 AM,2016,05,01,11,199,Unhealthy,148.0,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 12:00 PM,2016,05,01,12,199,Unhealthy,147.7,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 01:00 PM,2016,05,01,13,199,Unhealthy,147.7,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 02:00 PM,2016,05,01,14,204,Very Unhealthy,153.2,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 03:00 PM,2016,05,01,15,205,Very Unhealthy,154.9,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 04:00 PM,2016,05,01,16,203,Very Unhealthy,152.5,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 05:00 PM,2016,05,01,17,198,Unhealthy,146.7,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 06:00 PM,2016,05,01,18,194,Unhealthy,139.3,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 07:00 PM,2016,05,01,19,191,Unhealthy,132.6,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 08:00 PM,2016,05,01,20,186,Unhealthy,122.9,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 09:00 PM,2016,05,01,21,181,Unhealthy,113.1,90.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 10:00 PM,2016,05,01,22,177,Unhealthy,106.3,114.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-01 11:00 PM,2016,05,01,23,175,Unhealthy,101.2,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 12:00 AM,2016,05,02,00,173,Unhealthy,99.0,157.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 01:00 AM,2016,05,02,01,173,Unhealthy,97.5,271.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 02:00 AM,2016,05,02,02,172,Unhealthy,96.5,218.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 03:00 AM,2016,05,02,03,172,Unhealthy,96.0,179.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 04:00 AM,2016,05,02,04,172,Unhealthy,95.3,162.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 05:00 AM,2016,05,02,05,171,Unhealthy,94.5,150.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 06:00 AM,2016,05,02,06,171,Unhealthy,94.0,124.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 07:00 AM,2016,05,02,07,171,Unhealthy,93.9,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 08:00 AM,2016,05,02,08,171,Unhealthy,95.1,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 09:00 AM,2016,05,02,09,171,Unhealthy,95.2,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 10:00 AM,2016,05,02,10,171,Unhealthy,93.7,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 11:00 AM,2016,05,02,11,171,Unhealthy,94.5,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 12:00 PM,2016,05,02,12,172,Unhealthy,95.4,23.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 01:00 PM,2016,05,02,13,171,Unhealthy,93.7,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 02:00 PM,2016,05,02,14,167,Unhealthy,86.3,31.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 03:00 PM,2016,05,02,15,164,Unhealthy,81.2,22.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 04:00 PM,2016,05,02,16,162,Unhealthy,77.5,22.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 05:00 PM,2016,05,02,17,161,Unhealthy,74.6,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 06:00 PM,2016,05,02,18,160,Unhealthy,72.8,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 07:00 PM,2016,05,02,19,160,Unhealthy,72.0,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 08:00 PM,2016,05,02,20,158,Unhealthy,68.9,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 09:00 PM,2016,05,02,21,158,Unhealthy,69.7,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 10:00 PM,2016,05,02,22,158,Unhealthy,70.0,133.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-02 11:00 PM,2016,05,02,23,158,Unhealthy,69.8,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 12:00 AM,2016,05,03,00,158,Unhealthy,69.4,118.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 01:00 AM,2016,05,03,01,158,Unhealthy,69.8,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 02:00 AM,2016,05,03,02,159,Unhealthy,70.2,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 03:00 AM,2016,05,03,03,159,Unhealthy,70.2,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 04:00 AM,2016,05,03,04,159,Unhealthy,70.7,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 05:00 AM,2016,05,03,05,159,Unhealthy,71.4,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 06:00 AM,2016,05,03,06,161,Unhealthy,74.7,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 07:00 AM,2016,05,03,07,163,Unhealthy,78.0,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 08:00 AM,2016,05,03,08,164,Unhealthy,79.8,97.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 09:00 AM,2016,05,03,09,165,Unhealthy,81.7,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 10:00 AM,2016,05,03,10,166,Unhealthy,84.6,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 11:00 AM,2016,05,03,11,166,Unhealthy,83.6,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 12:00 PM,2016,05,03,12,165,Unhealthy,81.9,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 01:00 PM,2016,05,03,13,164,Unhealthy,80.9,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 02:00 PM,2016,05,03,14,164,Unhealthy,81.0,33.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 03:00 PM,2016,05,03,15,164,Unhealthy,80.8,33.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 04:00 PM,2016,05,03,16,164,Unhealthy,81.0,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 05:00 PM,2016,05,03,17,164,Unhealthy,81.0,106.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 06:00 PM,2016,05,03,18,163,Unhealthy,79.5,114.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 07:00 PM,2016,05,03,19,163,Unhealthy,78.2,120.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 08:00 PM,2016,05,03,20,164,Unhealthy,79.9,118.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 09:00 PM,2016,05,03,21,164,Unhealthy,80.1,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 10:00 PM,2016,05,03,22,164,Unhealthy,81.4,109.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-03 11:00 PM,2016,05,03,23,165,Unhealthy,82.8,104.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 12:00 AM,2016,05,04,00,166,Unhealthy,84.4,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 01:00 AM,2016,05,04,01,166,Unhealthy,85.4,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 02:00 AM,2016,05,04,02,167,Unhealthy,86.5,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 03:00 AM,2016,05,04,03,168,Unhealthy,87.7,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 04:00 AM,2016,05,04,04,168,Unhealthy,88.7,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 05:00 AM,2016,05,04,05,168,Unhealthy,88.0,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 06:00 AM,2016,05,04,06,171,Unhealthy,94.5,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 07:00 AM,2016,05,04,07,172,Unhealthy,96.3,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 08:00 AM,2016,05,04,08,171,Unhealthy,95.2,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 09:00 AM,2016,05,04,09,171,Unhealthy,94.2,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 10:00 AM,2016,05,04,10,173,Unhealthy,97.4,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 11:00 AM,2016,05,04,11,177,Unhealthy,105.0,78.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 12:00 PM,2016,05,04,12,180,Unhealthy,110.8,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 01:00 PM,2016,05,04,13,180,Unhealthy,111.8,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 02:00 PM,2016,05,04,14,179,Unhealthy,110.4,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 03:00 PM,2016,05,04,15,178,Unhealthy,108.5,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 04:00 PM,2016,05,04,16,177,Unhealthy,105.9,23.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 05:00 PM,2016,05,04,17,176,Unhealthy,103.6,260.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 06:00 PM,2016,05,04,18,175,Unhealthy,101.4,159.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 07:00 PM,2016,05,04,19,173,Unhealthy,98.9,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 08:00 PM,2016,05,04,20,172,Unhealthy,96.1,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 09:00 PM,2016,05,04,21,170,Unhealthy,93.0,201.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 10:00 PM,2016,05,04,22,169,Unhealthy,90.5,290.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-04 11:00 PM,2016,05,04,23,168,Unhealthy,88.8,245.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 12:00 AM,2016,05,05,00,168,Unhealthy,87.9,119.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 01:00 AM,2016,05,05,01,168,Unhealthy,87.8,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 02:00 AM,2016,05,05,02,167,Unhealthy,87.0,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 03:00 AM,2016,05,05,03,167,Unhealthy,86.2,29.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 04:00 AM,2016,05,05,04,166,Unhealthy,85.3,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 05:00 AM,2016,05,05,05,166,Unhealthy,85.5,19.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 06:00 AM,2016,05,05,06,163,Unhealthy,77.9,12.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 07:00 AM,2016,05,05,07,160,Unhealthy,72.8,17.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 08:00 AM,2016,05,05,08,159,Unhealthy,70.5,29.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 09:00 AM,2016,05,05,09,158,Unhealthy,68.3,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 10:00 AM,2016,05,05,10,157,Unhealthy,67.2,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 11:00 AM,2016,05,05,11,152,Unhealthy,57.8,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 12:00 PM,2016,05,05,12,134,Unhealthy for Sensitive Groups,48.8,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 01:00 PM,2016,05,05,13,124,Unhealthy for Sensitive Groups,45.0,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 02:00 PM,2016,05,05,14,118,Unhealthy for Sensitive Groups,42.6,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 03:00 PM,2016,05,05,15,115,Unhealthy for Sensitive Groups,41.3,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 04:00 PM,2016,05,05,16,116,Unhealthy for Sensitive Groups,41.7,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 05:00 PM,2016,05,05,17,115,Unhealthy for Sensitive Groups,41.3,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-05 06:00 PM,2016,05,05,18,117,Unhealthy for Sensitive Groups,42.2,43.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 07:00 PM,2016,05,05,19,120,Unhealthy for Sensitive Groups,43.1,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 08:00 PM,2016,05,05,20,121,Unhealthy for Sensitive Groups,43.7,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 09:00 PM,2016,05,05,21,122,Unhealthy for Sensitive Groups,44.0,176.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 10:00 PM,2016,05,05,22,121,Unhealthy for Sensitive Groups,43.6,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-05 11:00 PM,2016,05,05,23,119,Unhealthy for Sensitive Groups,42.7,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 12:00 AM,2016,05,06,00,116,Unhealthy for Sensitive Groups,41.5,30.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 01:00 AM,2016,05,06,01,113,Unhealthy for Sensitive Groups,40.5,6.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 02:00 AM,2016,05,06,02,114,Unhealthy for Sensitive Groups,40.8,18.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 03:00 AM,2016,05,06,03,118,Unhealthy for Sensitive Groups,42.6,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 04:00 AM,2016,05,06,04,120,Unhealthy for Sensitive Groups,43.4,28.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 05:00 AM,2016,05,06,05,123,Unhealthy for Sensitive Groups,44.3,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 06:00 AM,2016,05,06,06,122,Unhealthy for Sensitive Groups,43.9,33.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 07:00 AM,2016,05,06,07,120,Unhealthy for Sensitive Groups,43.3,31.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 08:00 AM,2016,05,06,08,117,Unhealthy for Sensitive Groups,42.2,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 09:00 AM,2016,05,06,09,116,Unhealthy for Sensitive Groups,41.4,31.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 10:00 AM,2016,05,06,10,102,Unhealthy for Sensitive Groups,35.9,23.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 11:00 AM,2016,05,06,11,100,Moderate,35.3,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 12:00 PM,2016,05,06,12,102,Unhealthy for Sensitive Groups,36.1,33.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 01:00 PM,2016,05,06,13,107,Unhealthy for Sensitive Groups,37.9,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 02:00 PM,2016,05,06,14,114,Unhealthy for Sensitive Groups,40.9,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 03:00 PM,2016,05,06,15,118,Unhealthy for Sensitive Groups,42.6,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 04:00 PM,2016,05,06,16,122,Unhealthy for Sensitive Groups,44.2,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 05:00 PM,2016,05,06,17,126,Unhealthy for Sensitive Groups,45.5,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 06:00 PM,2016,05,06,18,127,Unhealthy for Sensitive Groups,46.1,28.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 07:00 PM,2016,05,06,19,130,Unhealthy for Sensitive Groups,47.1,14.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 08:00 PM,2016,05,06,20,132,Unhealthy for Sensitive Groups,48.0,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 09:00 PM,2016,05,06,21,134,Unhealthy for Sensitive Groups,48.7,43.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 10:00 PM,2016,05,06,22,134,Unhealthy for Sensitive Groups,49.1,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-06 11:00 PM,2016,05,06,23,137,Unhealthy for Sensitive Groups,50.0,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 12:00 AM,2016,05,07,00,138,Unhealthy for Sensitive Groups,50.6,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 01:00 AM,2016,05,07,01,138,Unhealthy for Sensitive Groups,50.7,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 02:00 AM,2016,05,07,02,138,Unhealthy for Sensitive Groups,50.7,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 03:00 AM,2016,05,07,03,135,Unhealthy for Sensitive Groups,49.2,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 04:00 AM,2016,05,07,04,134,Unhealthy for Sensitive Groups,48.7,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 05:00 AM,2016,05,07,05,133,Unhealthy for Sensitive Groups,48.3,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 06:00 AM,2016,05,07,06,134,Unhealthy for Sensitive Groups,49.0,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 07:00 AM,2016,05,07,07,138,Unhealthy for Sensitive Groups,50.6,51.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 08:00 AM,2016,05,07,08,145,Unhealthy for Sensitive Groups,53.3,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 09:00 AM,2016,05,07,09,150,Unhealthy for Sensitive Groups,55.3,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 10:00 AM,2016,05,07,10,152,Unhealthy,56.7,45.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 11:00 AM,2016,05,07,11,152,Unhealthy,57.0,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 12:00 PM,2016,05,07,12,152,Unhealthy,57.5,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 01:00 PM,2016,05,07,13,152,Unhealthy,57.2,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 02:00 PM,2016,05,07,14,152,Unhealthy,57.6,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 03:00 PM,2016,05,07,15,153,Unhealthy,58.6,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 04:00 PM,2016,05,07,16,153,Unhealthy,59.2,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 05:00 PM,2016,05,07,17,154,Unhealthy,60.9,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 06:00 PM,2016,05,07,18,155,Unhealthy,62.5,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 07:00 PM,2016,05,07,19,155,Unhealthy,64.2,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 08:00 PM,2016,05,07,20,156,Unhealthy,66.0,74.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 09:00 PM,2016,05,07,21,158,Unhealthy,68.2,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 10:00 PM,2016,05,07,22,159,Unhealthy,70.9,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-07 11:00 PM,2016,05,07,23,160,Unhealthy,73.3,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 12:00 AM,2016,05,08,00,162,Unhealthy,76.1,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 01:00 AM,2016,05,08,01,163,Unhealthy,78.3,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 02:00 AM,2016,05,08,02,163,Unhealthy,79.6,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 03:00 AM,2016,05,08,03,164,Unhealthy,80.4,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 04:00 AM,2016,05,08,04,164,Unhealthy,80.9,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 05:00 AM,2016,05,08,05,164,Unhealthy,81.4,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 06:00 AM,2016,05,08,06,164,Unhealthy,81.4,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 07:00 AM,2016,05,08,07,164,Unhealthy,81.2,94.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 08:00 AM,2016,05,08,08,164,Unhealthy,79.9,106.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 09:00 AM,2016,05,08,09,163,Unhealthy,78.9,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 10:00 AM,2016,05,08,10,163,Unhealthy,77.8,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 11:00 AM,2016,05,08,11,162,Unhealthy,77.2,108.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 12:00 PM,2016,05,08,12,162,Unhealthy,76.9,90.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 01:00 PM,2016,05,08,13,162,Unhealthy,77.2,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 02:00 PM,2016,05,08,14,162,Unhealthy,76.7,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 03:00 PM,2016,05,08,15,162,Unhealthy,76.1,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 04:00 PM,2016,05,08,16,161,Unhealthy,75.2,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 05:00 PM,2016,05,08,17,160,Unhealthy,73.8,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 06:00 PM,2016,05,08,18,160,Unhealthy,73.1,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 07:00 PM,2016,05,08,19,160,Unhealthy,72.5,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 08:00 PM,2016,05,08,20,160,Unhealthy,72.5,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 09:00 PM,2016,05,08,21,160,Unhealthy,72.1,51.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 10:00 PM,2016,05,08,22,159,Unhealthy,71.6,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-08 11:00 PM,2016,05,08,23,160,Unhealthy,73.2,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 12:00 AM,2016,05,09,00,160,Unhealthy,72.9,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 01:00 AM,2016,05,09,01,160,Unhealthy,72.9,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 02:00 AM,2016,05,09,02,160,Unhealthy,72.3,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 03:00 AM,2016,05,09,03,160,Unhealthy,72.7,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 04:00 AM,2016,05,09,04,160,Unhealthy,73.2,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 05:00 AM,2016,05,09,05,161,Unhealthy,74.0,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 06:00 AM,2016,05,09,06,161,Unhealthy,74.6,82.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 07:00 AM,2016,05,09,07,161,Unhealthy,75.1,94.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 08:00 AM,2016,05,09,08,162,Unhealthy,76.0,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 09:00 AM,2016,05,09,09,162,Unhealthy,76.7,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 10:00 AM,2016,05,09,10,163,Unhealthy,78.2,141.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 11:00 AM,2016,05,09,11,163,Unhealthy,78.6,100.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 12:00 PM,2016,05,09,12,163,Unhealthy,78.2,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 01:00 PM,2016,05,09,13,162,Unhealthy,77.5,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 02:00 PM,2016,05,09,14,162,Unhealthy,77.2,75.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 03:00 PM,2016,05,09,15,162,Unhealthy,76.7,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 04:00 PM,2016,05,09,16,162,Unhealthy,76.7,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 05:00 PM,2016,05,09,17,162,Unhealthy,77.5,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 06:00 PM,2016,05,09,18,163,Unhealthy,77.8,74.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 07:00 PM,2016,05,09,19,162,Unhealthy,77.5,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 08:00 PM,2016,05,09,20,162,Unhealthy,77.2,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 09:00 PM,2016,05,09,21,162,Unhealthy,77.7,87.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 10:00 PM,2016,05,09,22,162,Unhealthy,77.4,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-09 11:00 PM,2016,05,09,23,161,Unhealthy,74.5,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 12:00 AM,2016,05,10,00,160,Unhealthy,73.7,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 01:00 AM,2016,05,10,01,160,Unhealthy,73.5,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 02:00 AM,2016,05,10,02,161,Unhealthy,75.1,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 03:00 AM,2016,05,10,03,161,Unhealthy,75.3,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 04:00 AM,2016,05,10,04,161,Unhealthy,74.9,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 05:00 AM,2016,05,10,05,161,Unhealthy,74.6,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 06:00 AM,2016,05,10,06,161,Unhealthy,74.3,75.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 07:00 AM,2016,05,10,07,160,Unhealthy,72.9,87.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 08:00 AM,2016,05,10,08,159,Unhealthy,71.6,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 09:00 AM,2016,05,10,09,159,Unhealthy,70.4,90.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 10:00 AM,2016,05,10,10,158,Unhealthy,68.3,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 11:00 AM,2016,05,10,11,157,Unhealthy,67.5,82.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 12:00 PM,2016,05,10,12,157,Unhealthy,67.7,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 01:00 PM,2016,05,10,13,157,Unhealthy,67.9,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 02:00 PM,2016,05,10,14,157,Unhealthy,67.0,80.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 03:00 PM,2016,05,10,15,157,Unhealthy,66.5,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 04:00 PM,2016,05,10,16,156,Unhealthy,65.5,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 05:00 PM,2016,05,10,17,155,Unhealthy,63.7,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 06:00 PM,2016,05,10,18,154,Unhealthy,61.8,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 07:00 PM,2016,05,10,19,154,Unhealthy,60.9,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 08:00 PM,2016,05,10,20,153,Unhealthy,58.7,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 09:00 PM,2016,05,10,21,151,Unhealthy,55.8,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 10:00 PM,2016,05,10,22,145,Unhealthy for Sensitive Groups,53.5,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-10 11:00 PM,2016,05,10,23,145,Unhealthy for Sensitive Groups,53.4,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 12:00 AM,2016,05,11,00,141,Unhealthy for Sensitive Groups,51.9,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 01:00 AM,2016,05,11,01,139,Unhealthy for Sensitive Groups,50.9,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 02:00 AM,2016,05,11,02,150,Unhealthy for Sensitive Groups,55.2,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 03:00 AM,2016,05,11,03,147,Unhealthy for Sensitive Groups,54.2,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 04:00 AM,2016,05,11,04,151,Unhealthy,55.5,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 05:00 AM,2016,05,11,05,151,Unhealthy,55.5,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 06:00 AM,2016,05,11,06,150,Unhealthy for Sensitive Groups,55.2,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 07:00 AM,2016,05,11,07,151,Unhealthy,55.5,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 08:00 AM,2016,05,11,08,151,Unhealthy,55.5,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 09:00 AM,2016,05,11,09,151,Unhealthy,56.4,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 10:00 AM,2016,05,11,10,152,Unhealthy,57.5,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 11:00 AM,2016,05,11,11,152,Unhealthy,57.8,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 12:00 PM,2016,05,11,12,152,Unhealthy,57.9,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 01:00 PM,2016,05,11,13,152,Unhealthy,57.7,203.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 02:00 PM,2016,05,11,14,153,Unhealthy,59.1,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 03:00 PM,2016,05,11,15,153,Unhealthy,60.3,90.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 04:00 PM,2016,05,11,16,154,Unhealthy,61.5,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 05:00 PM,2016,05,11,17,155,Unhealthy,62.9,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 06:00 PM,2016,05,11,18,156,Unhealthy,64.5,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 07:00 PM,2016,05,11,19,156,Unhealthy,65.0,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 08:00 PM,2016,05,11,20,157,Unhealthy,67.5,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 09:00 PM,2016,05,11,21,159,Unhealthy,71.4,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 10:00 PM,2016,05,11,22,161,Unhealthy,73.9,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-11 11:00 PM,2016,05,11,23,161,Unhealthy,74.1,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 12:00 AM,2016,05,12,00,161,Unhealthy,75.4,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 01:00 AM,2016,05,12,01,162,Unhealthy,76.1,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 02:00 AM,2016,05,12,02,158,Unhealthy,69.8,78.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 03:00 AM,2016,05,12,03,162,Unhealthy,76.3,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 04:00 AM,2016,05,12,04,163,Unhealthy,79.7,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 05:00 AM,2016,05,12,05,165,Unhealthy,81.9,78.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 06:00 AM,2016,05,12,06,167,Unhealthy,87.2,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 07:00 AM,2016,05,12,07,169,Unhealthy,90.1,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 08:00 AM,2016,05,12,08,170,Unhealthy,92.2,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 09:00 AM,2016,05,12,09,171,Unhealthy,95.2,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 10:00 AM,2016,05,12,10,173,Unhealthy,97.6,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 11:00 AM,2016,05,12,11,175,Unhealthy,102.1,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 12:00 PM,2016,05,12,12,177,Unhealthy,105.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 01:00 PM,2016,05,12,13,178,Unhealthy,108.5,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 02:00 PM,2016,05,12,14,179,Unhealthy,109.0,188.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 03:00 PM,2016,05,12,15,178,Unhealthy,107.6,158.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 04:00 PM,2016,05,12,16,177,Unhealthy,106.3,104.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 05:00 PM,2016,05,12,17,176,Unhealthy,104.8,154.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 06:00 PM,2016,05,12,18,176,Unhealthy,103.0,106.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 07:00 PM,2016,05,12,19,175,Unhealthy,102.5,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 08:00 PM,2016,05,12,20,175,Unhealthy,101.3,119.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 09:00 PM,2016,05,12,21,174,Unhealthy,99.3,112.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 10:00 PM,2016,05,12,22,174,Unhealthy,99.6,137.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-12 11:00 PM,2016,05,12,23,173,Unhealthy,98.0,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 12:00 AM,2016,05,13,00,172,Unhealthy,96.8,129.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 01:00 AM,2016,05,13,01,171,Unhealthy,94.7,88.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 02:00 AM,2016,05,13,02,171,Unhealthy,94.5,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 03:00 AM,2016,05,13,03,168,Unhealthy,88.4,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 04:00 AM,2016,05,13,04,165,Unhealthy,83.0,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 05:00 AM,2016,05,13,05,163,Unhealthy,79.7,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 06:00 AM,2016,05,13,06,161,Unhealthy,74.7,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 07:00 AM,2016,05,13,07,160,Unhealthy,72.0,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 08:00 AM,2016,05,13,08,159,Unhealthy,71.2,90.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 09:00 AM,2016,05,13,09,158,Unhealthy,68.2,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 10:00 AM,2016,05,13,10,156,Unhealthy,65.9,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 11:00 AM,2016,05,13,11,154,Unhealthy,62.2,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 12:00 PM,2016,05,13,12,154,Unhealthy,60.7,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 01:00 PM,2016,05,13,13,152,Unhealthy,58.3,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 02:00 PM,2016,05,13,14,152,Unhealthy,56.7,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 03:00 PM,2016,05,13,15,152,Unhealthy,56.5,30.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 04:00 PM,2016,05,13,16,152,Unhealthy,56.8,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 05:00 PM,2016,05,13,17,152,Unhealthy,56.6,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 06:00 PM,2016,05,13,18,152,Unhealthy,56.8,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 07:00 PM,2016,05,13,19,151,Unhealthy,56.4,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 08:00 PM,2016,05,13,20,151,Unhealthy,55.5,47.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 09:00 PM,2016,05,13,21,147,Unhealthy for Sensitive Groups,54.1,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 10:00 PM,2016,05,13,22,143,Unhealthy for Sensitive Groups,52.6,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-13 11:00 PM,2016,05,13,23,143,Unhealthy for Sensitive Groups,52.5,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 12:00 AM,2016,05,14,00,141,Unhealthy for Sensitive Groups,51.7,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 01:00 AM,2016,05,14,01,142,Unhealthy for Sensitive Groups,52.2,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 02:00 AM,2016,05,14,02,141,Unhealthy for Sensitive Groups,51.9,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 03:00 AM,2016,05,14,03,144,Unhealthy for Sensitive Groups,53.1,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 04:00 AM,2016,05,14,04,148,Unhealthy for Sensitive Groups,54.4,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 05:00 AM,2016,05,14,05,151,Unhealthy,55.9,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 06:00 AM,2016,05,14,06,152,Unhealthy,57.8,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 07:00 AM,2016,05,14,07,153,Unhealthy,58.9,51.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 08:00 AM,2016,05,14,08,153,Unhealthy,58.6,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 09:00 AM,2016,05,14,09,154,Unhealthy,60.5,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 10:00 AM,2016,05,14,10,155,Unhealthy,62.3,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 11:00 AM,2016,05,14,11,156,Unhealthy,64.3,54.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 12:00 PM,2016,05,14,12,156,Unhealthy,65.0,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 01:00 PM,2016,05,14,13,157,Unhealthy,66.2,82.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 02:00 PM,2016,05,14,14,158,Unhealthy,69.0,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 03:00 PM,2016,05,14,15,160,Unhealthy,72.9,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 04:00 PM,2016,05,14,16,162,Unhealthy,76.7,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 05:00 PM,2016,05,14,17,164,Unhealthy,80.2,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 06:00 PM,2016,05,14,18,165,Unhealthy,83.2,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 07:00 PM,2016,05,14,19,167,Unhealthy,86.0,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 08:00 PM,2016,05,14,20,168,Unhealthy,87.8,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 09:00 PM,2016,05,14,21,170,Unhealthy,92.5,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 10:00 PM,2016,05,14,22,172,Unhealthy,95.8,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-14 11:00 PM,2016,05,14,23,172,Unhealthy,97.1,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 12:00 AM,2016,05,15,00,173,Unhealthy,98.7,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 01:00 AM,2016,05,15,01,175,Unhealthy,101.3,116.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 02:00 AM,2016,05,15,02,175,Unhealthy,102.6,135.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 03:00 AM,2016,05,15,03,175,Unhealthy,102.2,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 04:00 AM,2016,05,15,04,175,Unhealthy,102.7,123.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 05:00 AM,2016,05,15,05,175,Unhealthy,102.5,118.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 06:00 AM,2016,05,15,06,175,Unhealthy,101.3,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 07:00 AM,2016,05,15,07,174,Unhealthy,100.6,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 08:00 AM,2016,05,15,08,174,Unhealthy,100.2,167.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 09:00 AM,2016,05,15,09,173,Unhealthy,98.9,144.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 10:00 AM,2016,05,15,10,173,Unhealthy,98.0,94.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 11:00 AM,2016,05,15,11,173,Unhealthy,97.4,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 12:00 PM,2016,05,15,12,172,Unhealthy,96.8,122.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 01:00 PM,2016,05,15,13,172,Unhealthy,96.2,113.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 02:00 PM,2016,05,15,14,171,Unhealthy,95.0,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 03:00 PM,2016,05,15,15,170,Unhealthy,92.3,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 04:00 PM,2016,05,15,16,168,Unhealthy,88.8,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 05:00 PM,2016,05,15,17,167,Unhealthy,86.4,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 06:00 PM,2016,05,15,18,166,Unhealthy,84.2,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 07:00 PM,2016,05,15,19,165,Unhealthy,82.8,47.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 08:00 PM,2016,05,15,20,165,Unhealthy,83.5,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 09:00 PM,2016,05,15,21,166,Unhealthy,84.2,80.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 10:00 PM,2016,05,15,22,164,Unhealthy,81.1,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-15 11:00 PM,2016,05,15,23,163,Unhealthy,78.7,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 12:00 AM,2016,05,16,00,162,Unhealthy,76.8,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 01:00 AM,2016,05,16,01,160,Unhealthy,73.2,86.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 02:00 AM,2016,05,16,02,158,Unhealthy,70.0,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 03:00 AM,2016,05,16,03,158,Unhealthy,68.6,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 04:00 AM,2016,05,16,04,157,Unhealthy,66.7,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 05:00 AM,2016,05,16,05,156,Unhealthy,65.9,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 06:00 AM,2016,05,16,06,156,Unhealthy,64.8,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 07:00 AM,2016,05,16,07,155,Unhealthy,63.9,110.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 08:00 AM,2016,05,16,08,155,Unhealthy,63.5,185.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 09:00 AM,2016,05,16,09,155,Unhealthy,62.7,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 10:00 AM,2016,05,16,10,153,Unhealthy,60.2,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 11:00 AM,2016,05,16,11,153,Unhealthy,58.6,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 12:00 PM,2016,05,16,12,152,Unhealthy,56.6,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 01:00 PM,2016,05,16,13,149,Unhealthy for Sensitive Groups,55.1,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 02:00 PM,2016,05,16,14,147,Unhealthy for Sensitive Groups,54.2,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 03:00 PM,2016,05,16,15,146,Unhealthy for Sensitive Groups,53.7,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 04:00 PM,2016,05,16,16,149,Unhealthy for Sensitive Groups,55.0,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 05:00 PM,2016,05,16,17,152,Unhealthy,56.9,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 06:00 PM,2016,05,16,18,153,Unhealthy,59.3,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 07:00 PM,2016,05,16,19,154,Unhealthy,61.7,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 08:00 PM,2016,05,16,20,155,Unhealthy,63.2,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 09:00 PM,2016,05,16,21,154,Unhealthy,61.1,20.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 10:00 PM,2016,05,16,22,155,Unhealthy,62.3,43.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-16 11:00 PM,2016,05,16,23,155,Unhealthy,64.1,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 12:00 AM,2016,05,17,00,156,Unhealthy,65.0,54.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 01:00 AM,2016,05,17,01,156,Unhealthy,65.5,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 02:00 AM,2016,05,17,02,158,Unhealthy,69.2,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 03:00 AM,2016,05,17,03,158,Unhealthy,69.8,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 04:00 AM,2016,05,17,04,158,Unhealthy,70.0,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 05:00 AM,2016,05,17,05,158,Unhealthy,69.8,121.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 06:00 AM,2016,05,17,06,158,Unhealthy,69.8,141.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 07:00 AM,2016,05,17,07,159,Unhealthy,71.7,147.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 08:00 AM,2016,05,17,08,160,Unhealthy,73.2,134.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 09:00 AM,2016,05,17,09,160,Unhealthy,73.0,97.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 10:00 AM,2016,05,17,10,161,Unhealthy,75.5,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 11:00 AM,2016,05,17,11,162,Unhealthy,76.0,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 12:00 PM,2016,05,17,12,163,Unhealthy,77.8,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 01:00 PM,2016,05,17,13,163,Unhealthy,79.0,124.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 02:00 PM,2016,05,17,14,164,Unhealthy,80.2,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 03:00 PM,2016,05,17,15,165,Unhealthy,82.3,29.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 04:00 PM,2016,05,17,16,165,Unhealthy,83.0,33.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 05:00 PM,2016,05,17,17,165,Unhealthy,83.0,28.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 06:00 PM,2016,05,17,18,167,Unhealthy,86.1,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-17 07:00 PM,2016,05,17,19,167,Unhealthy,86.2,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-17 08:00 PM,2016,05,17,20,165,Unhealthy,83.1,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 09:00 PM,2016,05,17,21,164,Unhealthy,80.8,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-17 10:00 PM,2016,05,17,22,164,Unhealthy,80.5,54.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-17 11:00 PM,2016,05,17,23,164,Unhealthy,81.3,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 12:00 AM,2016,05,18,00,165,Unhealthy,82.0,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 01:00 AM,2016,05,18,01,164,Unhealthy,81.5,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 02:00 AM,2016,05,18,02,162,Unhealthy,76.8,103.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 03:00 AM,2016,05,18,03,162,Unhealthy,76.0,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 04:00 AM,2016,05,18,04,162,Unhealthy,75.9,110.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 05:00 AM,2016,05,18,05,161,Unhealthy,75.5,187.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 06:00 AM,2016,05,18,06,161,Unhealthy,75.3,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 07:00 AM,2016,05,18,07,161,Unhealthy,75.3,82.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 08:00 AM,2016,05,18,08,161,Unhealthy,75.3,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 09:00 AM,2016,05,18,09,162,Unhealthy,77.4,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 10:00 AM,2016,05,18,10,163,Unhealthy,78.3,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 11:00 AM,2016,05,18,11,165,Unhealthy,83.2,82.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 12:00 PM,2016,05,18,12,166,Unhealthy,85.0,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 01:00 PM,2016,05,18,13,167,Unhealthy,86.6,24.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 02:00 PM,2016,05,18,14,167,Unhealthy,87.3,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 03:00 PM,2016,05,18,15,167,Unhealthy,87.2,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 04:00 PM,2016,05,18,16,167,Unhealthy,86.5,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 05:00 PM,2016,05,18,17,167,Unhealthy,86.0,24.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 06:00 PM,2016,05,18,18,165,Unhealthy,82.7,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-18 07:00 PM,2016,05,18,19,164,Unhealthy,81.0,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-18 08:00 PM,2016,05,18,20,164,Unhealthy,81.6,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-18 09:00 PM,2016,05,18,21,164,Unhealthy,81.3,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 10:00 PM,2016,05,18,22,164,Unhealthy,80.2,157.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-18 11:00 PM,2016,05,18,23,163,Unhealthy,78.8,110.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 12:00 AM,2016,05,19,00,163,Unhealthy,78.0,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 01:00 AM,2016,05,19,01,163,Unhealthy,78.9,106.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 02:00 AM,2016,05,19,02,164,Unhealthy,80.7,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 03:00 AM,2016,05,19,03,165,Unhealthy,82.1,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 04:00 AM,2016,05,19,04,165,Unhealthy,83.5,99.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 05:00 AM,2016,05,19,05,166,Unhealthy,85.0,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 06:00 AM,2016,05,19,06,167,Unhealthy,86.5,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 07:00 AM,2016,05,19,07,166,Unhealthy,85.0,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 08:00 AM,2016,05,19,08,166,Unhealthy,83.7,78.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 09:00 AM,2016,05,19,09,165,Unhealthy,82.4,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 10:00 AM,2016,05,19,10,164,Unhealthy,80.7,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 11:00 AM,2016,05,19,11,162,Unhealthy,77.3,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 12:00 PM,2016,05,19,12,162,Unhealthy,76.3,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 01:00 PM,2016,05,19,13,161,Unhealthy,74.6,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 02:00 PM,2016,05,19,14,160,Unhealthy,72.5,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 03:00 PM,2016,05,19,15,159,Unhealthy,70.4,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 04:00 PM,2016,05,19,16,158,Unhealthy,69.0,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 05:00 PM,2016,05,19,17,157,Unhealthy,67.6,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 06:00 PM,2016,05,19,18,156,Unhealthy,65.0,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 07:00 PM,2016,05,19,19,155,Unhealthy,62.7,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 08:00 PM,2016,05,19,20,154,Unhealthy,60.9,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 09:00 PM,2016,05,19,21,153,Unhealthy,59.3,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 10:00 PM,2016,05,19,22,152,Unhealthy,58.0,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-19 11:00 PM,2016,05,19,23,152,Unhealthy,56.9,86.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 12:00 AM,2016,05,20,00,151,Unhealthy,56.0,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 01:00 AM,2016,05,20,01,152,Unhealthy,56.6,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 02:00 AM,2016,05,20,02,151,Unhealthy,56.2,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 03:00 AM,2016,05,20,03,151,Unhealthy,55.7,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 04:00 AM,2016,05,20,04,150,Unhealthy for Sensitive Groups,55.3,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 05:00 AM,2016,05,20,05,149,Unhealthy for Sensitive Groups,54.9,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 06:00 AM,2016,05,20,06,149,Unhealthy for Sensitive Groups,54.8,51.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 07:00 AM,2016,05,20,07,149,Unhealthy for Sensitive Groups,54.8,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 08:00 AM,2016,05,20,08,148,Unhealthy for Sensitive Groups,54.5,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 09:00 AM,2016,05,20,09,148,Unhealthy for Sensitive Groups,54.6,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 10:00 AM,2016,05,20,10,150,Unhealthy for Sensitive Groups,55.2,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 11:00 AM,2016,05,20,11,151,Unhealthy,55.6,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 12:00 PM,2016,05,20,12,150,Unhealthy for Sensitive Groups,55.2,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 01:00 PM,2016,05,20,13,150,Unhealthy for Sensitive Groups,55.3,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 02:00 PM,2016,05,20,14,150,Unhealthy for Sensitive Groups,55.2,45.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 03:00 PM,2016,05,20,15,150,Unhealthy for Sensitive Groups,55.4,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 04:00 PM,2016,05,20,16,148,Unhealthy for Sensitive Groups,54.7,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 05:00 PM,2016,05,20,17,146,Unhealthy for Sensitive Groups,53.6,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 06:00 PM,2016,05,20,18,145,Unhealthy for Sensitive Groups,53.4,51.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 07:00 PM,2016,05,20,19,145,Unhealthy for Sensitive Groups,53.3,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 08:00 PM,2016,05,20,20,145,Unhealthy for Sensitive Groups,53.5,54.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 09:00 PM,2016,05,20,21,147,Unhealthy for Sensitive Groups,54.3,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 10:00 PM,2016,05,20,22,150,Unhealthy for Sensitive Groups,55.2,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-20 11:00 PM,2016,05,20,23,151,Unhealthy,56.1,78.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 12:00 AM,2016,05,21,00,152,Unhealthy,57.0,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 01:00 AM,2016,05,21,01,152,Unhealthy,57.0,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 02:00 AM,2016,05,21,02,152,Unhealthy,57.6,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 03:00 AM,2016,05,21,03,153,Unhealthy,58.5,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 04:00 AM,2016,05,21,04,153,Unhealthy,58.8,39.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 05:00 AM,2016,05,21,05,153,Unhealthy,59.2,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 06:00 AM,2016,05,21,06,153,Unhealthy,59.5,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 07:00 AM,2016,05,21,07,153,Unhealthy,59.5,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 08:00 AM,2016,05,21,08,153,Unhealthy,59.7,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 09:00 AM,2016,05,21,09,153,Unhealthy,59.4,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 10:00 AM,2016,05,21,10,153,Unhealthy,58.6,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 11:00 AM,2016,05,21,11,152,Unhealthy,57.2,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 12:00 PM,2016,05,21,12,151,Unhealthy,56.1,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 01:00 PM,2016,05,21,13,149,Unhealthy for Sensitive Groups,55.0,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 02:00 PM,2016,05,21,14,149,Unhealthy for Sensitive Groups,55.1,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 03:00 PM,2016,05,21,15,149,Unhealthy for Sensitive Groups,55.1,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 04:00 PM,2016,05,21,16,151,Unhealthy,55.6,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 05:00 PM,2016,05,21,17,152,Unhealthy,56.5,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 06:00 PM,2016,05,21,18,152,Unhealthy,56.8,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 07:00 PM,2016,05,21,19,152,Unhealthy,57.3,54.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 08:00 PM,2016,05,21,20,146,Unhealthy for Sensitive Groups,53.8,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 09:00 PM,2016,05,21,21,145,Unhealthy for Sensitive Groups,53.2,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 10:00 PM,2016,05,21,22,144,Unhealthy for Sensitive Groups,52.8,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-21 11:00 PM,2016,05,21,23,143,Unhealthy for Sensitive Groups,52.5,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 12:00 AM,2016,05,22,00,134,Unhealthy for Sensitive Groups,49.1,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 01:00 AM,2016,05,22,01,135,Unhealthy for Sensitive Groups,49.5,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 02:00 AM,2016,05,22,02,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 03:00 AM,2016,05,22,03,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 04:00 AM,2016,05,22,04,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 05:00 AM,2016,05,22,05,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 06:00 AM,2016,05,22,06,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 07:00 AM,2016,05,22,07,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 08:00 AM,2016,05,22,08,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 09:00 AM,2016,05,22,09,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 10:00 AM,2016,05,22,10,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 11:00 AM,2016,05,22,11,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 12:00 PM,2016,05,22,12,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 01:00 PM,2016,05,22,13,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 02:00 PM,2016,05,22,14,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 03:00 PM,2016,05,22,15,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 04:00 PM,2016,05,22,16,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 05:00 PM,2016,05,22,17,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 06:00 PM,2016,05,22,18,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 07:00 PM,2016,05,22,19,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 08:00 PM,2016,05,22,20,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 09:00 PM,2016,05,22,21,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 10:00 PM,2016,05,22,22,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-22 11:00 PM,2016,05,22,23,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 12:00 AM,2016,05,23,00,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 01:00 AM,2016,05,23,01,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 02:00 AM,2016,05,23,02,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 03:00 AM,2016,05,23,03,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 04:00 AM,2016,05,23,04,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 05:00 AM,2016,05,23,05,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 06:00 AM,2016,05,23,06,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 07:00 AM,2016,05,23,07,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 08:00 AM,2016,05,23,08,-999,N/A,-999.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 09:00 AM,2016,05,23,09,-999,N/A,-999.0,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-23 10:00 AM,2016,05,23,10,-999,N/A,-999.0,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 11:00 AM,2016,05,23,11,130,Unhealthy for Sensitive Groups,47.3,54.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 12:00 PM,2016,05,23,12,117,Unhealthy for Sensitive Groups,42.1,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 01:00 PM,2016,05,23,13,127,Unhealthy for Sensitive Groups,46.2,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 02:00 PM,2016,05,23,14,129,Unhealthy for Sensitive Groups,46.9,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 03:00 PM,2016,05,23,15,136,Unhealthy for Sensitive Groups,49.9,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 04:00 PM,2016,05,23,16,109,Unhealthy for Sensitive Groups,38.6,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 05:00 PM,2016,05,23,17,108,Unhealthy for Sensitive Groups,38.5,28.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 06:00 PM,2016,05,23,18,110,Unhealthy for Sensitive Groups,39.1,31.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 07:00 PM,2016,05,23,19,110,Unhealthy for Sensitive Groups,39.1,24.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 08:00 PM,2016,05,23,20,110,Unhealthy for Sensitive Groups,39.0,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 09:00 PM,2016,05,23,21,110,Unhealthy for Sensitive Groups,39.1,28.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 10:00 PM,2016,05,23,22,113,Unhealthy for Sensitive Groups,40.3,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-23 11:00 PM,2016,05,23,23,114,Unhealthy for Sensitive Groups,40.6,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 12:00 AM,2016,05,24,00,111,Unhealthy for Sensitive Groups,39.6,21.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 01:00 AM,2016,05,24,01,112,Unhealthy for Sensitive Groups,39.9,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 02:00 AM,2016,05,24,02,110,Unhealthy for Sensitive Groups,39.3,22.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 03:00 AM,2016,05,24,03,109,Unhealthy for Sensitive Groups,38.7,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 04:00 AM,2016,05,24,04,108,Unhealthy for Sensitive Groups,38.3,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 05:00 AM,2016,05,24,05,100,Moderate,35.4,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 06:00 AM,2016,05,24,06,102,Unhealthy for Sensitive Groups,36.0,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 07:00 AM,2016,05,24,07,104,Unhealthy for Sensitive Groups,36.6,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 08:00 AM,2016,05,24,08,106,Unhealthy for Sensitive Groups,37.5,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 09:00 AM,2016,05,24,09,107,Unhealthy for Sensitive Groups,38.0,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 10:00 AM,2016,05,24,10,111,Unhealthy for Sensitive Groups,39.4,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 11:00 AM,2016,05,24,11,115,Unhealthy for Sensitive Groups,41.2,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 12:00 PM,2016,05,24,12,120,Unhealthy for Sensitive Groups,43.1,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 01:00 PM,2016,05,24,13,127,Unhealthy for Sensitive Groups,45.9,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 02:00 PM,2016,05,24,14,140,Unhealthy for Sensitive Groups,51.4,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 03:00 PM,2016,05,24,15,152,Unhealthy,57.0,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 04:00 PM,2016,05,24,16,154,Unhealthy,61.1,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 05:00 PM,2016,05,24,17,156,Unhealthy,65.5,43.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 06:00 PM,2016,05,24,18,158,Unhealthy,69.5,43.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 07:00 PM,2016,05,24,19,158,Unhealthy,69.7,45.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 08:00 PM,2016,05,24,20,159,Unhealthy,70.9,45.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 09:00 PM,2016,05,24,21,159,Unhealthy,71.6,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 10:00 PM,2016,05,24,22,159,Unhealthy,71.5,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-24 11:00 PM,2016,05,24,23,160,Unhealthy,72.5,80.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 12:00 AM,2016,05,25,00,161,Unhealthy,74.1,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 01:00 AM,2016,05,25,01,161,Unhealthy,75.0,153.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 02:00 AM,2016,05,25,02,162,Unhealthy,76.0,151.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 03:00 AM,2016,05,25,03,162,Unhealthy,77.7,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 04:00 AM,2016,05,25,04,163,Unhealthy,79.2,140.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 05:00 AM,2016,05,25,05,164,Unhealthy,81.2,140.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 06:00 AM,2016,05,25,06,165,Unhealthy,82.8,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 07:00 AM,2016,05,25,07,165,Unhealthy,82.7,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 08:00 AM,2016,05,25,08,165,Unhealthy,82.4,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 09:00 AM,2016,05,25,09,165,Unhealthy,83.1,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 10:00 AM,2016,05,25,10,166,Unhealthy,85.2,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 11:00 AM,2016,05,25,11,167,Unhealthy,87.0,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 12:00 PM,2016,05,25,12,167,Unhealthy,86.5,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 01:00 PM,2016,05,25,13,167,Unhealthy,85.7,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 02:00 PM,2016,05,25,14,165,Unhealthy,81.7,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 03:00 PM,2016,05,25,15,163,Unhealthy,78.0,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 04:00 PM,2016,05,25,16,161,Unhealthy,75.0,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 05:00 PM,2016,05,25,17,160,Unhealthy,72.0,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 06:00 PM,2016,05,25,18,158,Unhealthy,69.1,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 07:00 PM,2016,05,25,19,158,Unhealthy,68.8,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 08:00 PM,2016,05,25,20,158,Unhealthy,69.2,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 09:00 PM,2016,05,25,21,158,Unhealthy,69.4,110.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 10:00 PM,2016,05,25,22,158,Unhealthy,69.6,110.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-25 11:00 PM,2016,05,25,23,158,Unhealthy,69.9,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 12:00 AM,2016,05,26,00,158,Unhealthy,69.4,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 01:00 AM,2016,05,26,01,158,Unhealthy,69.5,58.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 02:00 AM,2016,05,26,02,159,Unhealthy,71.1,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 03:00 AM,2016,05,26,03,160,Unhealthy,72.7,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 04:00 AM,2016,05,26,04,161,Unhealthy,74.2,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 05:00 AM,2016,05,26,05,161,Unhealthy,75.5,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 06:00 AM,2016,05,26,06,162,Unhealthy,76.9,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 07:00 AM,2016,05,26,07,164,Unhealthy,79.9,75.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 08:00 AM,2016,05,26,08,165,Unhealthy,82.3,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 09:00 AM,2016,05,26,09,166,Unhealthy,83.8,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 10:00 AM,2016,05,26,10,165,Unhealthy,83.5,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 11:00 AM,2016,05,26,11,165,Unhealthy,83.4,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 12:00 PM,2016,05,26,12,166,Unhealthy,85.3,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 01:00 PM,2016,05,26,13,167,Unhealthy,87.4,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 02:00 PM,2016,05,26,14,169,Unhealthy,89.5,114.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 03:00 PM,2016,05,26,15,170,Unhealthy,91.9,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 04:00 PM,2016,05,26,16,171,Unhealthy,95.0,114.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 05:00 PM,2016,05,26,17,172,Unhealthy,97.1,115.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 06:00 PM,2016,05,26,18,175,Unhealthy,101.8,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 07:00 PM,2016,05,26,19,178,Unhealthy,107.7,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 08:00 PM,2016,05,26,20,182,Unhealthy,114.9,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 09:00 PM,2016,05,26,21,186,Unhealthy,123.7,104.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 10:00 PM,2016,05,26,22,190,Unhealthy,131.7,106.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-26 11:00 PM,2016,05,26,23,190,Unhealthy,132.0,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 12:00 AM,2016,05,27,00,191,Unhealthy,133.2,115.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 01:00 AM,2016,05,27,01,193,Unhealthy,136.0,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 02:00 AM,2016,05,27,02,192,Unhealthy,134.4,119.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 03:00 AM,2016,05,27,03,193,Unhealthy,136.8,132.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 04:00 AM,2016,05,27,04,194,Unhealthy,138.6,120.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 05:00 AM,2016,05,27,05,194,Unhealthy,138.4,183.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 06:00 AM,2016,05,27,06,193,Unhealthy,137.0,209.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 07:00 AM,2016,05,27,07,192,Unhealthy,135.7,249.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 08:00 AM,2016,05,27,08,192,Unhealthy,135.1,274.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 09:00 AM,2016,05,27,09,192,Unhealthy,134.9,260.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 10:00 AM,2016,05,27,10,192,Unhealthy,134.2,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 11:00 AM,2016,05,27,11,191,Unhealthy,133.6,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 12:00 PM,2016,05,27,12,191,Unhealthy,132.4,1985.0,UG/M3,1 Hr,Invalid
+New Delhi,PM2.5 - Principal,2016-05-27 01:00 PM,2016,05,27,13,190,Unhealthy,130.4,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 02:00 PM,2016,05,27,14,190,Unhealthy,130.1,169.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 03:00 PM,2016,05,27,15,188,Unhealthy,127.9,157.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 04:00 PM,2016,05,27,16,187,Unhealthy,125.4,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 05:00 PM,2016,05,27,17,186,Unhealthy,123.8,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 06:00 PM,2016,05,27,18,184,Unhealthy,119.9,80.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 07:00 PM,2016,05,27,19,182,Unhealthy,115.0,82.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 08:00 PM,2016,05,27,20,178,Unhealthy,108.3,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 09:00 PM,2016,05,27,21,175,Unhealthy,102.2,88.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 10:00 PM,2016,05,27,22,172,Unhealthy,96.0,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-27 11:00 PM,2016,05,27,23,172,Unhealthy,96.0,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 12:00 AM,2016,05,28,00,171,Unhealthy,95.0,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 01:00 AM,2016,05,28,01,170,Unhealthy,93.1,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 02:00 AM,2016,05,28,02,170,Unhealthy,92.6,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 03:00 AM,2016,05,28,03,168,Unhealthy,88.1,74.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 04:00 AM,2016,05,28,04,166,Unhealthy,84.5,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 05:00 AM,2016,05,28,05,165,Unhealthy,83.5,94.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 06:00 AM,2016,05,28,06,165,Unhealthy,83.0,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 07:00 AM,2016,05,28,07,165,Unhealthy,82.3,97.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 08:00 AM,2016,05,28,08,164,Unhealthy,81.2,132.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 09:00 AM,2016,05,28,09,164,Unhealthy,79.9,119.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 10:00 AM,2016,05,28,10,163,Unhealthy,78.9,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 11:00 AM,2016,05,28,11,163,Unhealthy,78.3,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 12:00 PM,2016,05,28,12,161,Unhealthy,75.6,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 01:00 PM,2016,05,28,13,160,Unhealthy,73.2,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 02:00 PM,2016,05,28,14,158,Unhealthy,69.5,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 03:00 PM,2016,05,28,15,157,Unhealthy,67.3,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 04:00 PM,2016,05,28,16,156,Unhealthy,64.9,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 05:00 PM,2016,05,28,17,154,Unhealthy,62.0,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 06:00 PM,2016,05,28,18,153,Unhealthy,58.8,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 07:00 PM,2016,05,28,19,151,Unhealthy,55.6,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 08:00 PM,2016,05,28,20,142,Unhealthy for Sensitive Groups,52.2,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 09:00 PM,2016,05,28,21,130,Unhealthy for Sensitive Groups,47.3,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 10:00 PM,2016,05,28,22,120,Unhealthy for Sensitive Groups,43.3,-999.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-28 11:00 PM,2016,05,28,23,114,Unhealthy for Sensitive Groups,40.8,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 12:00 AM,2016,05,29,00,111,Unhealthy for Sensitive Groups,39.5,15.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 01:00 AM,2016,05,29,01,109,Unhealthy for Sensitive Groups,38.7,16.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 02:00 AM,2016,05,29,02,106,Unhealthy for Sensitive Groups,37.7,16.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 03:00 AM,2016,05,29,03,103,Unhealthy for Sensitive Groups,36.4,19.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 04:00 AM,2016,05,29,04,98,Moderate,34.5,18.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 05:00 AM,2016,05,29,05,93,Moderate,31.9,20.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 06:00 AM,2016,05,29,06,89,Moderate,30.1,22.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 07:00 AM,2016,05,29,07,85,Moderate,28.5,17.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 08:00 AM,2016,05,29,08,83,Moderate,27.4,21.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 09:00 AM,2016,05,29,09,81,Moderate,26.4,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 10:00 AM,2016,05,29,10,79,Moderate,25.2,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 11:00 AM,2016,05,29,11,77,Moderate,24.3,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 12:00 PM,2016,05,29,12,79,Moderate,25.5,31.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 01:00 PM,2016,05,29,13,80,Moderate,25.9,29.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 02:00 PM,2016,05,29,14,81,Moderate,26.3,30.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 03:00 PM,2016,05,29,15,83,Moderate,27.4,29.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 04:00 PM,2016,05,29,16,85,Moderate,28.5,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 05:00 PM,2016,05,29,17,86,Moderate,28.7,30.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 06:00 PM,2016,05,29,18,87,Moderate,29.0,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 07:00 PM,2016,05,29,19,87,Moderate,29.3,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 08:00 PM,2016,05,29,20,89,Moderate,30.0,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 09:00 PM,2016,05,29,21,90,Moderate,30.6,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 10:00 PM,2016,05,29,22,92,Moderate,31.4,5.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-29 11:00 PM,2016,05,29,23,94,Moderate,32.7,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 12:00 AM,2016,05,30,00,97,Moderate,33.9,23.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 01:00 AM,2016,05,30,01,99,Moderate,35.0,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 02:00 AM,2016,05,30,02,100,Moderate,35.4,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 03:00 AM,2016,05,30,03,102,Unhealthy for Sensitive Groups,36.1,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 04:00 AM,2016,05,30,04,105,Unhealthy for Sensitive Groups,37.2,22.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 05:00 AM,2016,05,30,05,109,Unhealthy for Sensitive Groups,38.8,28.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 06:00 AM,2016,05,30,06,108,Unhealthy for Sensitive Groups,38.2,30.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 07:00 AM,2016,05,30,07,107,Unhealthy for Sensitive Groups,37.9,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 08:00 AM,2016,05,30,08,106,Unhealthy for Sensitive Groups,37.5,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 09:00 AM,2016,05,30,09,106,Unhealthy for Sensitive Groups,37.4,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 10:00 AM,2016,05,30,10,107,Unhealthy for Sensitive Groups,37.9,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 11:00 AM,2016,05,30,11,113,Unhealthy for Sensitive Groups,40.2,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 12:00 PM,2016,05,30,12,114,Unhealthy for Sensitive Groups,40.7,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 01:00 PM,2016,05,30,13,119,Unhealthy for Sensitive Groups,42.8,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 02:00 PM,2016,05,30,14,124,Unhealthy for Sensitive Groups,44.9,47.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 03:00 PM,2016,05,30,15,128,Unhealthy for Sensitive Groups,46.3,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 04:00 PM,2016,05,30,16,131,Unhealthy for Sensitive Groups,47.5,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 05:00 PM,2016,05,30,17,136,Unhealthy for Sensitive Groups,49.7,17.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 06:00 PM,2016,05,30,18,140,Unhealthy for Sensitive Groups,51.3,17.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 07:00 PM,2016,05,30,19,143,Unhealthy for Sensitive Groups,52.5,23.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 08:00 PM,2016,05,30,20,145,Unhealthy for Sensitive Groups,53.5,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 09:00 PM,2016,05,30,21,149,Unhealthy for Sensitive Groups,55.1,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 10:00 PM,2016,05,30,22,151,Unhealthy,55.7,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-30 11:00 PM,2016,05,30,23,150,Unhealthy for Sensitive Groups,55.2,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-31 12:00 AM,2016,05,31,00,146,Unhealthy for Sensitive Groups,53.7,75.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-31 01:00 AM,2016,05,31,01,143,Unhealthy for Sensitive Groups,52.7,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-31 02:00 AM,2016,05,31,02,143,Unhealthy for Sensitive Groups,52.7,75.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-31 03:00 AM,2016,05,31,03,143,Unhealthy for Sensitive Groups,52.6,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-31 04:00 AM,2016,05,31,04,143,Unhealthy for Sensitive Groups,52.5,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-31 05:00 AM,2016,05,31,05,142,Unhealthy for Sensitive Groups,52.0,67.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2016-05-31 06:00 AM,2016,05,31,06,147,Unhealthy for Sensitive Groups,54.1,59.0,UG/M3,1 Hr,Valid

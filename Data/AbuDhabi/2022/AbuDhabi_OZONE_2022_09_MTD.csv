@@ -1,0 +1,11 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Abu Dhabi,O3,2022-09-20 09:00 PM,2022,09,20,21,28.0,26,Good,27.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-20 10:00 PM,2022,09,20,22,24.0,22,Good,24.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-20 11:00 PM,2022,09,20,23,18.0,17,Good,16.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-21 12:00 AM,2022,09,21,00,16.0,15,Good,14.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-21 01:00 AM,2022,09,21,01,22.0,20,Good,21.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-21 02:00 AM,2022,09,21,02,23.0,21,Good,21.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-21 03:00 AM,2022,09,21,03,20.0,19,Good,18.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-21 04:00 AM,2022,09,21,04,19.0,18,Good,17.0,PPB,1 Hr,Valid
+Abu Dhabi,O3,2022-09-21 05:00 AM,2022,09,21,05,19.0,18,Good,-999.0,PPB,1 Hr,Missing
+Abu Dhabi,O3,2022-09-21 06:00 AM,2022,09,21,06,19.0,18,Good,-999.0,PPB,1 Hr,Missing

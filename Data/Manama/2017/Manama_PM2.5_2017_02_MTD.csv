@@ -1,0 +1,673 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Manama,PM2.5 - Principal,2017-02-01 01:00 AM,2017,02,01,01,35.0,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 02:00 AM,2017,02,01,02,35.0,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 03:00 AM,2017,02,01,03,38.5,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 04:00 AM,2017,02,01,04,40.7,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 05:00 AM,2017,02,01,05,45.7,126,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 06:00 AM,2017,02,01,06,47.7,131,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 07:00 AM,2017,02,01,07,44.6,123,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 08:00 AM,2017,02,01,08,44.8,124,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 09:00 AM,2017,02,01,09,46.6,128,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 10:00 AM,2017,02,01,10,43.0,119,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 11:00 AM,2017,02,01,11,44.7,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 12:00 PM,2017,02,01,12,107.0,178,Unhealthy,169.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 01:00 PM,2017,02,01,13,155.0,205,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 02:00 PM,2017,02,01,14,156.5,207,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 03:00 PM,2017,02,01,15,141.7,196,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 04:00 PM,2017,02,01,16,129.8,189,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 05:00 PM,2017,02,01,17,107.4,178,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 06:00 PM,2017,02,01,18,89.7,169,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 07:00 PM,2017,02,01,19,74.3,161,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 08:00 PM,2017,02,01,20,66.1,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 09:00 PM,2017,02,01,21,58.0,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 10:00 PM,2017,02,01,22,52.5,143,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-01 11:00 PM,2017,02,01,23,48.7,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 12:00 AM,2017,02,02,00,50.8,139,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 01:00 AM,2017,02,02,01,49.9,136,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 02:00 AM,2017,02,02,02,47.9,132,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 03:00 AM,2017,02,02,03,42.4,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 04:00 AM,2017,02,02,04,33.7,96,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 05:00 AM,2017,02,02,05,28.8,86,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 06:00 AM,2017,02,02,06,24.9,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 07:00 AM,2017,02,02,07,24.4,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 08:00 AM,2017,02,02,08,29.2,87,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 09:00 AM,2017,02,02,09,29.6,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 10:00 AM,2017,02,02,10,42.3,118,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 11:00 AM,2017,02,02,11,43.6,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 12:00 PM,2017,02,02,12,40.8,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 01:00 PM,2017,02,02,13,35.4,100,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 02:00 PM,2017,02,02,14,31.7,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 03:00 PM,2017,02,02,15,38.3,108,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 04:00 PM,2017,02,02,16,51.1,139,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 05:00 PM,2017,02,02,17,54.0,147,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 06:00 PM,2017,02,02,18,52.5,143,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 07:00 PM,2017,02,02,19,56.7,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 08:00 PM,2017,02,02,20,73.3,160,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 09:00 PM,2017,02,02,21,89.2,168,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 10:00 PM,2017,02,02,22,85.6,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-02 11:00 PM,2017,02,02,23,82.3,165,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 12:00 AM,2017,02,03,00,78.6,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 01:00 AM,2017,02,03,01,69.3,158,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 02:00 AM,2017,02,03,02,68.1,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 03:00 AM,2017,02,03,03,67.5,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 04:00 AM,2017,02,03,04,67.7,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 05:00 AM,2017,02,03,05,68.3,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 06:00 AM,2017,02,03,06,54.6,148,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 07:00 AM,2017,02,03,07,47.3,130,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 08:00 AM,2017,02,03,08,55.6,151,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 09:00 AM,2017,02,03,09,80.8,164,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 10:00 AM,2017,02,03,10,89.4,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 11:00 AM,2017,02,03,11,100.2,174,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 12:00 PM,2017,02,03,12,124.1,186,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 01:00 PM,2017,02,03,13,132.0,190,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 02:00 PM,2017,02,03,14,107.0,178,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 03:00 PM,2017,02,03,15,96.0,172,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 04:00 PM,2017,02,03,16,88.0,168,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 05:00 PM,2017,02,03,17,83.0,165,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 06:00 PM,2017,02,03,18,76.0,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 07:00 PM,2017,02,03,19,58.0,152,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 08:00 PM,2017,02,03,20,46.9,129,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 09:00 PM,2017,02,03,21,37.9,107,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 10:00 PM,2017,02,03,22,28.9,86,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-03 11:00 PM,2017,02,03,23,27.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 12:00 AM,2017,02,04,00,30.9,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 01:00 AM,2017,02,04,01,29.4,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 02:00 AM,2017,02,04,02,26.7,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 03:00 AM,2017,02,04,03,27.8,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 04:00 AM,2017,02,04,04,27.4,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 05:00 AM,2017,02,04,05,28.2,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 06:00 AM,2017,02,04,06,27.5,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 07:00 AM,2017,02,04,07,26.0,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 08:00 AM,2017,02,04,08,24.8,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 09:00 AM,2017,02,04,09,26.9,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 10:00 AM,2017,02,04,10,25.6,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 11:00 AM,2017,02,04,11,26.0,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 12:00 PM,2017,02,04,12,26.7,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 01:00 PM,2017,02,04,13,29.2,87,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 02:00 PM,2017,02,04,14,28.8,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 03:00 PM,2017,02,04,15,28.9,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 04:00 PM,2017,02,04,16,27.6,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 05:00 PM,2017,02,04,17,27.4,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 06:00 PM,2017,02,04,18,27.9,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 07:00 PM,2017,02,04,19,26.9,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 08:00 PM,2017,02,04,20,22.5,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 09:00 PM,2017,02,04,21,21.8,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 10:00 PM,2017,02,04,22,16.8,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-04 11:00 PM,2017,02,04,23,16.9,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 12:00 AM,2017,02,05,00,19.4,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 01:00 AM,2017,02,05,01,20.2,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 02:00 AM,2017,02,05,02,21.6,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 03:00 AM,2017,02,05,03,21.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 04:00 AM,2017,02,05,04,22.1,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 05:00 AM,2017,02,05,05,23.0,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 06:00 AM,2017,02,05,06,27.0,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 07:00 AM,2017,02,05,07,31.5,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 08:00 AM,2017,02,05,08,43.7,121,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 09:00 AM,2017,02,05,09,40.3,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 10:00 AM,2017,02,05,10,36.1,102,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 11:00 AM,2017,02,05,11,33.0,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 12:00 PM,2017,02,05,12,33.5,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 01:00 PM,2017,02,05,13,32.7,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 02:00 PM,2017,02,05,14,34.3,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 03:00 PM,2017,02,05,15,35.1,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 04:00 PM,2017,02,05,16,38.6,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 05:00 PM,2017,02,05,17,34.9,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 06:00 PM,2017,02,05,18,33.5,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 07:00 PM,2017,02,05,19,33.3,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 08:00 PM,2017,02,05,20,34.4,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 09:00 PM,2017,02,05,21,36.0,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 10:00 PM,2017,02,05,22,47.2,130,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-05 11:00 PM,2017,02,05,23,49.7,136,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 12:00 AM,2017,02,06,00,54.8,149,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 01:00 AM,2017,02,06,01,54.4,148,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 02:00 AM,2017,02,06,02,54.7,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 03:00 AM,2017,02,06,03,54.8,149,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 04:00 AM,2017,02,06,04,58.9,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 05:00 AM,2017,02,06,05,58.4,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 06:00 AM,2017,02,06,06,56.3,151,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 07:00 AM,2017,02,06,07,56.6,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 08:00 AM,2017,02,06,08,56.0,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 09:00 AM,2017,02,06,09,56.9,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 10:00 AM,2017,02,06,10,58.2,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 11:00 AM,2017,02,06,11,57.7,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 12:00 PM,2017,02,06,12,59.3,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 01:00 PM,2017,02,06,13,60.7,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 02:00 PM,2017,02,06,14,57.2,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 03:00 PM,2017,02,06,15,53.7,146,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 04:00 PM,2017,02,06,16,52.2,142,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 05:00 PM,2017,02,06,17,53.0,144,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 06:00 PM,2017,02,06,18,52.4,143,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 07:00 PM,2017,02,06,19,40.3,113,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 08:00 PM,2017,02,06,20,40.6,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 09:00 PM,2017,02,06,21,46.3,128,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 10:00 PM,2017,02,06,22,47.6,131,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-06 11:00 PM,2017,02,06,23,40.3,113,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 12:00 AM,2017,02,07,00,33.1,95,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 01:00 AM,2017,02,07,01,32.0,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 02:00 AM,2017,02,07,02,34.5,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 03:00 AM,2017,02,07,03,29.7,88,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 04:00 AM,2017,02,07,04,25.8,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 05:00 AM,2017,02,07,05,27.4,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 06:00 AM,2017,02,07,06,26.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 07:00 AM,2017,02,07,07,25.3,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 08:00 AM,2017,02,07,08,26.1,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 09:00 AM,2017,02,07,09,34.5,98,Moderate,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 10:00 AM,2017,02,07,10,40.7,114,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 11:00 AM,2017,02,07,11,44.3,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 12:00 PM,2017,02,07,12,47.2,130,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 01:00 PM,2017,02,07,13,50.1,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 02:00 PM,2017,02,07,14,54.0,147,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 03:00 PM,2017,02,07,15,55.0,149,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 04:00 PM,2017,02,07,16,54.5,148,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 05:00 PM,2017,02,07,17,52.2,142,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 06:00 PM,2017,02,07,18,49.6,136,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 07:00 PM,2017,02,07,19,44.3,123,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 08:00 PM,2017,02,07,20,40.7,114,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 09:00 PM,2017,02,07,21,40.0,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 10:00 PM,2017,02,07,22,37.9,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-07 11:00 PM,2017,02,07,23,39.2,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 12:00 AM,2017,02,08,00,41.5,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 01:00 AM,2017,02,08,01,42.5,118,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 02:00 AM,2017,02,08,02,42.2,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 03:00 AM,2017,02,08,03,43.9,122,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 04:00 AM,2017,02,08,04,45.3,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 05:00 AM,2017,02,08,05,49.9,136,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 06:00 AM,2017,02,08,06,55.2,150,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 07:00 AM,2017,02,08,07,56.4,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 08:00 AM,2017,02,08,08,54.4,148,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 09:00 AM,2017,02,08,09,48.2,132,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 10:00 AM,2017,02,08,10,46.0,127,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 11:00 AM,2017,02,08,11,44.9,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 12:00 PM,2017,02,08,12,40.8,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 01:00 PM,2017,02,08,13,38.8,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 02:00 PM,2017,02,08,14,36.4,103,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 03:00 PM,2017,02,08,15,32.9,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 04:00 PM,2017,02,08,16,28.9,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 05:00 PM,2017,02,08,17,31.4,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 06:00 PM,2017,02,08,18,33.7,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 07:00 PM,2017,02,08,19,36.3,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 08:00 PM,2017,02,08,20,35.8,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 09:00 PM,2017,02,08,21,33.4,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 10:00 PM,2017,02,08,22,34.4,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-08 11:00 PM,2017,02,08,23,35.7,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 12:00 AM,2017,02,09,00,35.0,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 01:00 AM,2017,02,09,01,34.6,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 02:00 AM,2017,02,09,02,35.1,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 03:00 AM,2017,02,09,03,35.8,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 04:00 AM,2017,02,09,04,35.7,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 05:00 AM,2017,02,09,05,36.5,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 06:00 AM,2017,02,09,06,40.6,114,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 07:00 AM,2017,02,09,07,42.9,119,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 08:00 AM,2017,02,09,08,54.3,147,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 09:00 AM,2017,02,09,09,57.5,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 10:00 AM,2017,02,09,10,65.0,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 11:00 AM,2017,02,09,11,55.0,149,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 12:00 PM,2017,02,09,12,42.0,117,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 01:00 PM,2017,02,09,13,36.5,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 02:00 PM,2017,02,09,14,36.7,104,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 03:00 PM,2017,02,09,15,46.8,129,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 04:00 PM,2017,02,09,16,51.4,140,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 05:00 PM,2017,02,09,17,51.7,141,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 06:00 PM,2017,02,09,18,48.3,133,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 07:00 PM,2017,02,09,19,56.6,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 08:00 PM,2017,02,09,20,57.8,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 09:00 PM,2017,02,09,21,55.9,151,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 10:00 PM,2017,02,09,22,55.9,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-09 11:00 PM,2017,02,09,23,61.4,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 12:00 AM,2017,02,10,00,59.2,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 01:00 AM,2017,02,10,01,55.5,151,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 02:00 AM,2017,02,10,02,47.9,132,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 03:00 AM,2017,02,10,03,43.6,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 04:00 AM,2017,02,10,04,47.6,131,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 05:00 AM,2017,02,10,05,50.4,138,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 06:00 AM,2017,02,10,06,46.3,128,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 07:00 AM,2017,02,10,07,44.8,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 08:00 AM,2017,02,10,08,48.8,134,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 09:00 AM,2017,02,10,09,49.7,136,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 10:00 AM,2017,02,10,10,50.2,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 11:00 AM,2017,02,10,11,50.8,139,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 12:00 PM,2017,02,10,12,53.3,145,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 01:00 PM,2017,02,10,13,55.9,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 02:00 PM,2017,02,10,14,54.1,147,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 03:00 PM,2017,02,10,15,64.2,155,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 04:00 PM,2017,02,10,16,72.2,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 05:00 PM,2017,02,10,17,69.6,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 06:00 PM,2017,02,10,18,78.8,163,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 07:00 PM,2017,02,10,19,75.3,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 08:00 PM,2017,02,10,20,66.7,157,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 09:00 PM,2017,02,10,21,55.5,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 10:00 PM,2017,02,10,22,50.8,139,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-10 11:00 PM,2017,02,10,23,68.0,157,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 12:00 AM,2017,02,11,00,71.9,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 01:00 AM,2017,02,11,01,69.0,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 02:00 AM,2017,02,11,02,69.9,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 03:00 AM,2017,02,11,03,69.9,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 04:00 AM,2017,02,11,04,65.5,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 05:00 AM,2017,02,11,05,63.3,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 06:00 AM,2017,02,11,06,66.5,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 07:00 AM,2017,02,11,07,64.8,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 08:00 AM,2017,02,11,08,75.5,161,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 09:00 AM,2017,02,11,09,83.3,165,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 10:00 AM,2017,02,11,10,82.2,165,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 11:00 AM,2017,02,11,11,84.1,166,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 12:00 PM,2017,02,11,12,84.1,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 01:00 PM,2017,02,11,13,80.1,164,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 02:00 PM,2017,02,11,14,61.8,154,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 03:00 PM,2017,02,11,15,52.9,144,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 04:00 PM,2017,02,11,16,45.4,125,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 05:00 PM,2017,02,11,17,51.2,140,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 06:00 PM,2017,02,11,18,54.6,148,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 07:00 PM,2017,02,11,19,51.8,141,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 08:00 PM,2017,02,11,20,47.8,131,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 09:00 PM,2017,02,11,21,45.4,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 10:00 PM,2017,02,11,22,46.2,127,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-11 11:00 PM,2017,02,11,23,40.6,114,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 12:00 AM,2017,02,12,00,38.7,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 01:00 AM,2017,02,12,01,36.7,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 02:00 AM,2017,02,12,02,33.8,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 03:00 AM,2017,02,12,03,32.9,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 04:00 AM,2017,02,12,04,33.4,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 05:00 AM,2017,02,12,05,33.2,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 06:00 AM,2017,02,12,06,32.9,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 07:00 AM,2017,02,12,07,34.0,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 08:00 AM,2017,02,12,08,31.6,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 09:00 AM,2017,02,12,09,28.9,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 10:00 AM,2017,02,12,10,25.5,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 11:00 AM,2017,02,12,11,23.5,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 12:00 PM,2017,02,12,12,23.0,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 01:00 PM,2017,02,12,13,26.3,81,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 02:00 PM,2017,02,12,14,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 03:00 PM,2017,02,12,15,29.6,88,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 04:00 PM,2017,02,12,16,30.2,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 05:00 PM,2017,02,12,17,35.7,101,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 06:00 PM,2017,02,12,18,32.4,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 07:00 PM,2017,02,12,19,31.7,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 08:00 PM,2017,02,12,20,31.8,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 09:00 PM,2017,02,12,21,33.3,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 10:00 PM,2017,02,12,22,33.2,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-12 11:00 PM,2017,02,12,23,32.1,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 12:00 AM,2017,02,13,00,30.5,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 01:00 AM,2017,02,13,01,28.1,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 02:00 AM,2017,02,13,02,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 03:00 AM,2017,02,13,03,27.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 04:00 AM,2017,02,13,04,31.3,91,Moderate,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 05:00 AM,2017,02,13,05,33.3,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 06:00 AM,2017,02,13,06,31.1,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 07:00 AM,2017,02,13,07,30.0,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 08:00 AM,2017,02,13,08,29.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 09:00 AM,2017,02,13,09,29.2,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 10:00 AM,2017,02,13,10,28.4,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 11:00 AM,2017,02,13,11,31.3,91,Moderate,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 12:00 PM,2017,02,13,12,56.2,151,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 01:00 PM,2017,02,13,13,99.6,174,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 02:00 PM,2017,02,13,14,178.3,229,Very Unhealthy,257.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 03:00 PM,2017,02,13,15,212.1,262,Very Unhealthy,246.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 04:00 PM,2017,02,13,16,189.6,240,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 05:00 PM,2017,02,13,17,161.3,212,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 06:00 PM,2017,02,13,18,141.6,195,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 07:00 PM,2017,02,13,19,128.3,189,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 08:00 PM,2017,02,13,20,118.6,184,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 09:00 PM,2017,02,13,21,115.3,182,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 10:00 PM,2017,02,13,22,114.1,181,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-13 11:00 PM,2017,02,13,23,110.6,179,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 12:00 AM,2017,02,14,00,104.3,176,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 01:00 AM,2017,02,14,01,100.6,174,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 02:00 AM,2017,02,14,02,98.3,173,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 03:00 AM,2017,02,14,03,102.6,175,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 04:00 AM,2017,02,14,04,114.4,181,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 05:00 AM,2017,02,14,05,110.4,179,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 06:00 AM,2017,02,14,06,103.3,176,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 07:00 AM,2017,02,14,07,87.0,167,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 08:00 AM,2017,02,14,08,74.1,161,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 09:00 AM,2017,02,14,09,67.0,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 10:00 AM,2017,02,14,10,60.5,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 11:00 AM,2017,02,14,11,58.2,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 12:00 PM,2017,02,14,12,48.6,133,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 01:00 PM,2017,02,14,13,44.8,124,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 02:00 PM,2017,02,14,14,40.3,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 03:00 PM,2017,02,14,15,37.1,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 04:00 PM,2017,02,14,16,34.0,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 05:00 PM,2017,02,14,17,33.5,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 06:00 PM,2017,02,14,18,31.7,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 07:00 PM,2017,02,14,19,31.8,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 08:00 PM,2017,02,14,20,30.9,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 09:00 PM,2017,02,14,21,29.4,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 10:00 PM,2017,02,14,22,31.7,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-14 11:00 PM,2017,02,14,23,30.4,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 12:00 AM,2017,02,15,00,28.6,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 01:00 AM,2017,02,15,01,27.2,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 02:00 AM,2017,02,15,02,23.8,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 03:00 AM,2017,02,15,03,24.3,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 04:00 AM,2017,02,15,04,25.0,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 05:00 AM,2017,02,15,05,23.7,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 06:00 AM,2017,02,15,06,22.2,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 07:00 AM,2017,02,15,07,21.2,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 08:00 AM,2017,02,15,08,19.5,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 09:00 AM,2017,02,15,09,18.2,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 10:00 AM,2017,02,15,10,20.8,69,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 11:00 AM,2017,02,15,11,24.2,76,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 12:00 PM,2017,02,15,12,25.3,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 01:00 PM,2017,02,15,13,26.4,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 02:00 PM,2017,02,15,14,29.8,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 03:00 PM,2017,02,15,15,30.4,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 04:00 PM,2017,02,15,16,31.6,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 05:00 PM,2017,02,15,17,36.8,104,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 06:00 PM,2017,02,15,18,36.4,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 07:00 PM,2017,02,15,19,34.2,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 08:00 PM,2017,02,15,20,38.6,109,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 09:00 PM,2017,02,15,21,43.8,121,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 10:00 PM,2017,02,15,22,44.3,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-15 11:00 PM,2017,02,15,23,40.1,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 12:00 AM,2017,02,16,00,36.2,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 01:00 AM,2017,02,16,01,30.4,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 02:00 AM,2017,02,16,02,27.1,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 03:00 AM,2017,02,16,03,25.5,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 04:00 AM,2017,02,16,04,22.7,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 05:00 AM,2017,02,16,05,27.3,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 06:00 AM,2017,02,16,06,30.1,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 07:00 AM,2017,02,16,07,33.5,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 08:00 AM,2017,02,16,08,30.7,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 09:00 AM,2017,02,16,09,30.3,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 10:00 AM,2017,02,16,10,29.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 11:00 AM,2017,02,16,11,33.9,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 12:00 PM,2017,02,16,12,39.0,110,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 01:00 PM,2017,02,16,13,38.5,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 02:00 PM,2017,02,16,14,34.7,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 03:00 PM,2017,02,16,15,31.3,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 04:00 PM,2017,02,16,16,30.2,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 05:00 PM,2017,02,16,17,30.5,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 06:00 PM,2017,02,16,18,29.9,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 07:00 PM,2017,02,16,19,29.1,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 08:00 PM,2017,02,16,20,26.6,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 09:00 PM,2017,02,16,21,26.3,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 10:00 PM,2017,02,16,22,26.2,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-16 11:00 PM,2017,02,16,23,28.8,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 12:00 AM,2017,02,17,00,29.7,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 01:00 AM,2017,02,17,01,35.8,102,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 02:00 AM,2017,02,17,02,44.8,124,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 03:00 AM,2017,02,17,03,41.9,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 04:00 AM,2017,02,17,04,39.4,111,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 05:00 AM,2017,02,17,05,36.7,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 06:00 AM,2017,02,17,06,35.8,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 07:00 AM,2017,02,17,07,35.4,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 08:00 AM,2017,02,17,08,33.7,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 09:00 AM,2017,02,17,09,31.8,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 10:00 AM,2017,02,17,10,34.3,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 11:00 AM,2017,02,17,11,35.0,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 12:00 PM,2017,02,17,12,35.9,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 01:00 PM,2017,02,17,13,36.8,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 02:00 PM,2017,02,17,14,33.8,97,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 03:00 PM,2017,02,17,15,39.3,110,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 04:00 PM,2017,02,17,16,44.1,122,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 05:00 PM,2017,02,17,17,39.2,110,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 06:00 PM,2017,02,17,18,35.6,101,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 07:00 PM,2017,02,17,19,32.2,93,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 08:00 PM,2017,02,17,20,29.7,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 09:00 PM,2017,02,17,21,27.8,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 10:00 PM,2017,02,17,22,27.4,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-17 11:00 PM,2017,02,17,23,24.1,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 12:00 AM,2017,02,18,00,22.5,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 01:00 AM,2017,02,18,01,22.2,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 02:00 AM,2017,02,18,02,23.6,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 03:00 AM,2017,02,18,03,22.3,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 04:00 AM,2017,02,18,04,22.0,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 05:00 AM,2017,02,18,05,22.8,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 06:00 AM,2017,02,18,06,27.0,82,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 07:00 AM,2017,02,18,07,35.2,100,Moderate,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 08:00 AM,2017,02,18,08,35.6,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 09:00 AM,2017,02,18,09,33.8,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 10:00 AM,2017,02,18,10,28.4,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 11:00 AM,2017,02,18,11,23.7,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 12:00 PM,2017,02,18,12,19.8,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 01:00 PM,2017,02,18,13,19.4,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 02:00 PM,2017,02,18,14,19.2,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 03:00 PM,2017,02,18,15,21.1,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 04:00 PM,2017,02,18,16,33.0,95,Moderate,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 05:00 PM,2017,02,18,17,60.0,153,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 06:00 PM,2017,02,18,18,84.0,166,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 07:00 PM,2017,02,18,19,166.5,217,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 08:00 PM,2017,02,18,20,206.2,256,Very Unhealthy,246.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 09:00 PM,2017,02,18,21,227.6,277,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 10:00 PM,2017,02,18,22,227.8,278,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-18 11:00 PM,2017,02,18,23,193.4,244,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 12:00 AM,2017,02,19,00,155.7,206,Very Unhealthy,118.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 01:00 AM,2017,02,19,01,120.3,184,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 02:00 AM,2017,02,19,02,96.1,172,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 03:00 AM,2017,02,19,03,78.1,163,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 04:00 AM,2017,02,19,04,69.5,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 05:00 AM,2017,02,19,05,70.7,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 06:00 AM,2017,02,19,06,65.8,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 07:00 AM,2017,02,19,07,62.9,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 08:00 AM,2017,02,19,08,62.9,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 09:00 AM,2017,02,19,09,62.9,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 10:00 AM,2017,02,19,10,66.9,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 11:00 AM,2017,02,19,11,70.3,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 12:00 PM,2017,02,19,12,69.3,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 01:00 PM,2017,02,19,13,73.4,160,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 02:00 PM,2017,02,19,14,76.5,162,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 03:00 PM,2017,02,19,15,79.2,163,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 04:00 PM,2017,02,19,16,76.8,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 05:00 PM,2017,02,19,17,71.4,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 06:00 PM,2017,02,19,18,79.7,163,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 07:00 PM,2017,02,19,19,112.7,181,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 08:00 PM,2017,02,19,20,140.3,195,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 09:00 PM,2017,02,19,21,152.7,203,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 10:00 PM,2017,02,19,22,134.8,192,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-19 11:00 PM,2017,02,19,23,102.4,175,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 12:00 AM,2017,02,20,00,75.2,161,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 01:00 AM,2017,02,20,01,57.6,152,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 02:00 AM,2017,02,20,02,47.2,130,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 03:00 AM,2017,02,20,03,41.6,116,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 04:00 AM,2017,02,20,04,41.8,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 05:00 AM,2017,02,20,05,41.4,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 06:00 AM,2017,02,20,06,40.6,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 07:00 AM,2017,02,20,07,39.8,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 08:00 AM,2017,02,20,08,37.9,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 09:00 AM,2017,02,20,09,36.9,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 10:00 AM,2017,02,20,10,32.9,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 11:00 AM,2017,02,20,11,31.3,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 12:00 PM,2017,02,20,12,27.3,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 01:00 PM,2017,02,20,13,25.3,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 02:00 PM,2017,02,20,14,28.3,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 03:00 PM,2017,02,20,15,30.0,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 04:00 PM,2017,02,20,16,30.8,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 05:00 PM,2017,02,20,17,30.0,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 06:00 PM,2017,02,20,18,30.4,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 07:00 PM,2017,02,20,19,31.6,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 08:00 PM,2017,02,20,20,31.4,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 09:00 PM,2017,02,20,21,30.2,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 10:00 PM,2017,02,20,22,30.1,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-20 11:00 PM,2017,02,20,23,29.1,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 12:00 AM,2017,02,21,00,30.0,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 01:00 AM,2017,02,21,01,32.8,95,Moderate,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 02:00 AM,2017,02,21,02,36.4,103,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 03:00 AM,2017,02,21,03,39.0,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 04:00 AM,2017,02,21,04,39.0,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 05:00 AM,2017,02,21,05,41.0,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 06:00 AM,2017,02,21,06,41.0,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 07:00 AM,2017,02,21,07,42.6,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 08:00 AM,2017,02,21,08,43.6,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 09:00 AM,2017,02,21,09,44.1,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 10:00 AM,2017,02,21,10,45.9,127,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 11:00 AM,2017,02,21,11,44.5,123,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 12:00 PM,2017,02,21,12,43.6,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 01:00 PM,2017,02,21,13,42.5,118,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 02:00 PM,2017,02,21,14,41.1,115,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 03:00 PM,2017,02,21,15,40.3,113,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 04:00 PM,2017,02,21,16,41.2,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 05:00 PM,2017,02,21,17,41.3,115,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 06:00 PM,2017,02,21,18,41.7,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 07:00 PM,2017,02,21,19,42.2,117,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 08:00 PM,2017,02,21,20,45.2,125,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 09:00 PM,2017,02,21,21,46.0,127,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 10:00 PM,2017,02,21,22,45.4,125,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-21 11:00 PM,2017,02,21,23,44.7,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 12:00 AM,2017,02,22,00,45.9,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 01:00 AM,2017,02,22,01,46.6,128,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 02:00 AM,2017,02,22,02,45.6,126,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 03:00 AM,2017,02,22,03,46.8,129,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 04:00 AM,2017,02,22,04,50.6,138,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 05:00 AM,2017,02,22,05,52.3,142,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 06:00 AM,2017,02,22,06,57.8,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 07:00 AM,2017,02,22,07,63.6,155,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 08:00 AM,2017,02,22,08,70.1,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 09:00 AM,2017,02,22,09,72.7,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 10:00 AM,2017,02,22,10,60.4,154,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 11:00 AM,2017,02,22,11,51.1,139,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 12:00 PM,2017,02,22,12,43.5,121,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 01:00 PM,2017,02,22,13,40.7,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 02:00 PM,2017,02,22,14,38.3,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 03:00 PM,2017,02,22,15,36.6,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 04:00 PM,2017,02,22,16,35.8,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 05:00 PM,2017,02,22,17,35.4,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 06:00 PM,2017,02,22,18,33.7,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 07:00 PM,2017,02,22,19,36.8,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 08:00 PM,2017,02,22,20,36.4,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 09:00 PM,2017,02,22,21,38.2,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 10:00 PM,2017,02,22,22,39.7,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-22 11:00 PM,2017,02,22,23,44.0,122,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 12:00 AM,2017,02,23,00,49.7,136,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 01:00 AM,2017,02,23,01,47.2,130,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 02:00 AM,2017,02,23,02,53.2,145,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 03:00 AM,2017,02,23,03,57.0,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 04:00 AM,2017,02,23,04,60.0,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 05:00 AM,2017,02,23,05,63.0,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 06:00 AM,2017,02,23,06,68.5,158,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 07:00 AM,2017,02,23,07,69.2,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 08:00 AM,2017,02,23,08,71.2,159,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 09:00 AM,2017,02,23,09,66.4,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 10:00 AM,2017,02,23,10,58.4,152,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 11:00 AM,2017,02,23,11,45.2,125,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 12:00 PM,2017,02,23,12,45.6,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 01:00 PM,2017,02,23,13,45.8,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 02:00 PM,2017,02,23,14,42.9,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 03:00 PM,2017,02,23,15,36.9,104,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 04:00 PM,2017,02,23,16,35.4,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 05:00 PM,2017,02,23,17,34.2,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 06:00 PM,2017,02,23,18,32.1,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 07:00 PM,2017,02,23,19,35.0,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 08:00 PM,2017,02,23,20,37.0,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 09:00 PM,2017,02,23,21,40.2,113,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 10:00 PM,2017,02,23,22,47.6,131,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-23 11:00 PM,2017,02,23,23,50.5,138,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 12:00 AM,2017,02,24,00,60.6,154,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 01:00 AM,2017,02,24,01,63.3,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 02:00 AM,2017,02,24,02,63.6,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 03:00 AM,2017,02,24,03,72.3,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 04:00 AM,2017,02,24,04,66.6,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 05:00 AM,2017,02,24,05,59.3,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 06:00 AM,2017,02,24,06,52.6,143,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 07:00 AM,2017,02,24,07,50.3,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 08:00 AM,2017,02,24,08,44.6,123,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 09:00 AM,2017,02,24,09,42.8,119,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 10:00 AM,2017,02,24,10,41.9,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 11:00 AM,2017,02,24,11,43.4,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 12:00 PM,2017,02,24,12,41.2,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 01:00 PM,2017,02,24,13,36.1,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 02:00 PM,2017,02,24,14,35.5,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 03:00 PM,2017,02,24,15,35.7,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 04:00 PM,2017,02,24,16,38.9,109,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 05:00 PM,2017,02,24,17,39.2,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 06:00 PM,2017,02,24,18,40.1,112,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 07:00 PM,2017,02,24,19,40.6,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 08:00 PM,2017,02,24,20,78.2,163,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 09:00 PM,2017,02,24,21,59.6,153,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 10:00 PM,2017,02,24,22,51.8,141,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-24 11:00 PM,2017,02,24,23,47.4,130,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 12:00 AM,2017,02,25,00,42.7,119,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 01:00 AM,2017,02,25,01,39.8,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 02:00 AM,2017,02,25,02,40.9,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 03:00 AM,2017,02,25,03,40.9,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 04:00 AM,2017,02,25,04,44.9,124,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 05:00 AM,2017,02,25,05,45.9,127,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 06:00 AM,2017,02,25,06,45.9,127,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 07:00 AM,2017,02,25,07,53.0,144,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 08:00 AM,2017,02,25,08,53.3,145,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 09:00 AM,2017,02,25,09,55.9,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 10:00 AM,2017,02,25,10,54.0,147,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 11:00 AM,2017,02,25,11,52.1,142,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 12:00 PM,2017,02,25,12,50.5,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 01:00 PM,2017,02,25,13,43.9,122,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 02:00 PM,2017,02,25,14,39.4,111,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 03:00 PM,2017,02,25,15,34.8,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 04:00 PM,2017,02,25,16,32.9,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 05:00 PM,2017,02,25,17,33.9,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 06:00 PM,2017,02,25,18,33.0,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 07:00 PM,2017,02,25,19,32.0,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 08:00 PM,2017,02,25,20,33.4,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 09:00 PM,2017,02,25,21,35.2,100,Moderate,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 10:00 PM,2017,02,25,22,36.5,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-25 11:00 PM,2017,02,25,23,41.1,115,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 12:00 AM,2017,02,26,00,47.1,130,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 01:00 AM,2017,02,26,01,48.3,133,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 02:00 AM,2017,02,26,02,51.3,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 03:00 AM,2017,02,26,03,51.6,141,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 04:00 AM,2017,02,26,04,51.8,141,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 05:00 AM,2017,02,26,05,53.2,145,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 06:00 AM,2017,02,26,06,54.0,147,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 07:00 AM,2017,02,26,07,58.0,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 08:00 AM,2017,02,26,08,62.4,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 09:00 AM,2017,02,26,09,60.8,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 10:00 AM,2017,02,26,10,57.9,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 11:00 AM,2017,02,26,11,70.3,159,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 12:00 PM,2017,02,26,12,69.7,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 01:00 PM,2017,02,26,13,64.8,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 02:00 PM,2017,02,26,14,59.0,153,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 03:00 PM,2017,02,26,15,56.5,152,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 04:00 PM,2017,02,26,16,55.0,149,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 05:00 PM,2017,02,26,17,52.2,142,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 06:00 PM,2017,02,26,18,51.2,140,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 07:00 PM,2017,02,26,19,51.1,139,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 08:00 PM,2017,02,26,20,50.6,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 09:00 PM,2017,02,26,21,47.8,131,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 10:00 PM,2017,02,26,22,45.8,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-26 11:00 PM,2017,02,26,23,49.5,135,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 12:00 AM,2017,02,27,00,50.6,138,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 01:00 AM,2017,02,27,01,50.5,138,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 02:00 AM,2017,02,27,02,51.0,139,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 03:00 AM,2017,02,27,03,51.1,139,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 04:00 AM,2017,02,27,04,50.4,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 05:00 AM,2017,02,27,05,49.4,135,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 06:00 AM,2017,02,27,06,48.9,134,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 07:00 AM,2017,02,27,07,50.6,138,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 08:00 AM,2017,02,27,08,51.2,140,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 09:00 AM,2017,02,27,09,46.0,127,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 10:00 AM,2017,02,27,10,44.1,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 11:00 AM,2017,02,27,11,43.7,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 12:00 PM,2017,02,27,12,44.1,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 01:00 PM,2017,02,27,13,39.9,112,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 02:00 PM,2017,02,27,14,35.5,101,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 03:00 PM,2017,02,27,15,42.1,117,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 04:00 PM,2017,02,27,16,37.5,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 05:00 PM,2017,02,27,17,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 06:00 PM,2017,02,27,18,41.0,115,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 07:00 PM,2017,02,27,19,40.0,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 08:00 PM,2017,02,27,20,42.2,117,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 09:00 PM,2017,02,27,21,39.8,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 10:00 PM,2017,02,27,22,38.7,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-27 11:00 PM,2017,02,27,23,39.2,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 12:00 AM,2017,02,28,00,42.5,118,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 01:00 AM,2017,02,28,01,48.2,132,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 02:00 AM,2017,02,28,02,50.0,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 03:00 AM,2017,02,28,03,48.7,134,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 04:00 AM,2017,02,28,04,48.5,133,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 05:00 AM,2017,02,28,05,49.7,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 06:00 AM,2017,02,28,06,52.5,143,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 07:00 AM,2017,02,28,07,53.8,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 08:00 AM,2017,02,28,08,55.9,151,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 09:00 AM,2017,02,28,09,56.6,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 10:00 AM,2017,02,28,10,52.2,142,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 11:00 AM,2017,02,28,11,49.9,136,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 12:00 PM,2017,02,28,12,46.2,127,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 01:00 PM,2017,02,28,13,36.8,104,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 02:00 PM,2017,02,28,14,32.3,93,Moderate,28.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 03:00 PM,2017,02,28,15,31.6,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 04:00 PM,2017,02,28,16,34.8,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 05:00 PM,2017,02,28,17,38.4,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 06:00 PM,2017,02,28,18,42.2,117,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 07:00 PM,2017,02,28,19,45.6,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 08:00 PM,2017,02,28,20,49.8,136,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 09:00 PM,2017,02,28,21,58.4,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 10:00 PM,2017,02,28,22,76.2,162,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-02-28 11:00 PM,2017,02,28,23,91.1,169,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Manama,PM2.5 - Principal,2017-03-01 12:00 AM,2017,03,01,00,104.5,176,Unhealthy,118.0,UG/M3,1 Hr,Valid

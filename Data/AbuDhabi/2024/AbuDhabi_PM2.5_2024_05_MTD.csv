@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Abu Dhabi,PM2.5 - Principal,2024-05-01 01:00 AM,2024,05,01,01,46.8,129,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 02:00 AM,2024,05,01,02,40.5,113,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 03:00 AM,2024,05,01,03,37.5,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 04:00 AM,2024,05,01,04,31.4,93,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 05:00 AM,2024,05,01,05,31.0,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 06:00 AM,2024,05,01,06,28.6,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 07:00 AM,2024,05,01,07,27.8,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 08:00 AM,2024,05,01,08,28.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 09:00 AM,2024,05,01,09,31.9,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 10:00 AM,2024,05,01,10,39.9,112,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 11:00 AM,2024,05,01,11,50.2,137,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 12:00 PM,2024,05,01,12,56.6,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 01:00 PM,2024,05,01,13,51.3,140,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 02:00 PM,2024,05,01,14,44.6,123,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 03:00 PM,2024,05,01,15,38.3,108,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 04:00 PM,2024,05,01,16,41.6,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 05:00 PM,2024,05,01,17,39.8,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 06:00 PM,2024,05,01,18,39.4,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 07:00 PM,2024,05,01,19,34.7,99,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 08:00 PM,2024,05,01,20,33.3,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 09:00 PM,2024,05,01,21,34.1,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 10:00 PM,2024,05,01,22,34.0,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-01 11:00 PM,2024,05,01,23,33.0,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 12:00 AM,2024,05,02,00,35.1,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 01:00 AM,2024,05,02,01,31.3,92,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 02:00 AM,2024,05,02,02,20.3,72,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 03:00 AM,2024,05,02,03,13.6,59,Moderate,7.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 04:00 AM,2024,05,02,04,11.3,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 05:00 AM,2024,05,02,05,11.6,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 06:00 AM,2024,05,02,06,13.8,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 07:00 AM,2024,05,02,07,10.9,54,Moderate,8.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 08:00 AM,2024,05,02,08,8.4,47,Good,6.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 09:00 AM,2024,05,02,09,6.2,34,Good,4.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 10:00 AM,2024,05,02,10,5.1,28,Good,4.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 11:00 AM,2024,05,02,11,6.0,33,Good,7.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 12:00 PM,2024,05,02,12,5.5,31,Good,5.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 01:00 PM,2024,05,02,13,3.2,18,Good,1.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 02:00 PM,2024,05,02,14,2.6,14,Good,2.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 03:00 PM,2024,05,02,15,3.3,18,Good,4.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 04:00 PM,2024,05,02,16,3.1,17,Good,3.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 05:00 PM,2024,05,02,17,2.5,14,Good,2.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 06:00 PM,2024,05,02,18,2.2,12,Good,2.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 07:00 PM,2024,05,02,19,3.1,17,Good,4.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 08:00 PM,2024,05,02,20,4.5,25,Good,6.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 09:00 PM,2024,05,02,21,9.2,51,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 10:00 PM,2024,05,02,22,12.6,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-02 11:00 PM,2024,05,02,23,8.8,49,Good,5.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 12:00 AM,2024,05,03,00,7.4,41,Good,6.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 01:00 AM,2024,05,03,01,7.2,40,Good,7.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 02:00 AM,2024,05,03,02,8.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 03:00 AM,2024,05,03,03,8.3,46,Good,8.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 04:00 AM,2024,05,03,04,7.1,39,Good,6.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 05:00 AM,2024,05,03,05,12.0,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 06:00 AM,2024,05,03,06,15.0,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 07:00 AM,2024,05,03,07,17.0,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 08:00 AM,2024,05,03,08,20.0,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 09:00 AM,2024,05,03,09,16.5,65,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 10:00 AM,2024,05,03,10,13.7,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 11:00 AM,2024,05,03,11,10.8,54,Moderate,8.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 12:00 PM,2024,05,03,12,8.9,49,Good,7.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 01:00 PM,2024,05,03,13,9.9,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 02:00 PM,2024,05,03,14,11.4,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 03:00 PM,2024,05,03,15,13.7,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 04:00 PM,2024,05,03,16,12.8,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 05:00 PM,2024,05,03,17,13.4,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 06:00 PM,2024,05,03,18,16.2,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 07:00 PM,2024,05,03,19,14.6,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 08:00 PM,2024,05,03,20,13.8,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 09:00 PM,2024,05,03,21,11.9,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 10:00 PM,2024,05,03,22,10.9,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-03 11:00 PM,2024,05,03,23,11.9,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 12:00 AM,2024,05,04,00,11.9,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 01:00 AM,2024,05,04,01,11.5,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 02:00 AM,2024,05,04,02,14.5,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 03:00 AM,2024,05,04,03,15.2,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 04:00 AM,2024,05,04,04,16.5,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 05:00 AM,2024,05,04,05,18.3,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 06:00 AM,2024,05,04,06,18.6,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 07:00 AM,2024,05,04,07,19.3,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 08:00 AM,2024,05,04,08,22.6,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 09:00 AM,2024,05,04,09,24.3,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 10:00 AM,2024,05,04,10,25.1,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 11:00 AM,2024,05,04,11,24.5,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 12:00 PM,2024,05,04,12,32.7,95,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 01:00 PM,2024,05,04,13,41.4,116,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 02:00 PM,2024,05,04,14,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 03:00 PM,2024,05,04,15,29.3,89,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 04:00 PM,2024,05,04,16,25.6,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 05:00 PM,2024,05,04,17,24.8,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 06:00 PM,2024,05,04,18,28.4,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 07:00 PM,2024,05,04,19,27.2,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 08:00 PM,2024,05,04,20,26.1,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 09:00 PM,2024,05,04,21,23.5,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 10:00 PM,2024,05,04,22,23.7,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-04 11:00 PM,2024,05,04,23,22.8,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 12:00 AM,2024,05,05,00,21.4,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 01:00 AM,2024,05,05,01,19.2,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 02:00 AM,2024,05,05,02,20.6,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 03:00 AM,2024,05,05,03,20.3,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 04:00 AM,2024,05,05,04,20.1,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 05:00 AM,2024,05,05,05,18.6,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 06:00 AM,2024,05,05,06,19.4,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 07:00 AM,2024,05,05,07,21.2,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 08:00 AM,2024,05,05,08,22.9,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 09:00 AM,2024,05,05,09,22.2,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 10:00 AM,2024,05,05,10,22.8,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 11:00 AM,2024,05,05,11,22.9,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 12:00 PM,2024,05,05,12,22.6,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 01:00 PM,2024,05,05,13,22.4,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 02:00 PM,2024,05,05,14,22.2,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 03:00 PM,2024,05,05,15,23.5,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 04:00 PM,2024,05,05,16,24.8,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 05:00 PM,2024,05,05,17,24.8,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 06:00 PM,2024,05,05,18,25.6,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 07:00 PM,2024,05,05,19,25.9,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 08:00 PM,2024,05,05,20,26.9,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 09:00 PM,2024,05,05,21,26.8,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 10:00 PM,2024,05,05,22,25.9,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-05 11:00 PM,2024,05,05,23,25.4,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 12:00 AM,2024,05,06,00,25.6,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 01:00 AM,2024,05,06,01,24.9,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 02:00 AM,2024,05,06,02,25.5,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 03:00 AM,2024,05,06,03,25.8,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 04:00 AM,2024,05,06,04,25.8,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 05:00 AM,2024,05,06,05,26.3,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 06:00 AM,2024,05,06,06,26.6,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 07:00 AM,2024,05,06,07,25.2,81,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 08:00 AM,2024,05,06,08,25.4,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 09:00 AM,2024,05,06,09,24.8,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 10:00 AM,2024,05,06,10,24.3,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 11:00 AM,2024,05,06,11,24.0,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 12:00 PM,2024,05,06,12,24.7,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 01:00 PM,2024,05,06,13,25.9,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 02:00 PM,2024,05,06,14,26.8,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 03:00 PM,2024,05,06,15,27.1,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 04:00 PM,2024,05,06,16,27.3,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 05:00 PM,2024,05,06,17,33.6,97,Moderate,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 06:00 PM,2024,05,06,18,42.0,117,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 07:00 PM,2024,05,06,19,58.0,153,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 08:00 PM,2024,05,06,20,56.0,151,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 09:00 PM,2024,05,06,21,58.5,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 10:00 PM,2024,05,06,22,58.7,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-06 11:00 PM,2024,05,06,23,65.8,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 12:00 AM,2024,05,07,00,64.9,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 01:00 AM,2024,05,07,01,61.4,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 02:00 AM,2024,05,07,02,58.2,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 03:00 AM,2024,05,07,03,52.6,143,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 04:00 AM,2024,05,07,04,56.3,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 05:00 AM,2024,05,07,05,54.2,147,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 06:00 AM,2024,05,07,06,43.0,119,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 07:00 AM,2024,05,07,07,40.0,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 08:00 AM,2024,05,07,08,37.5,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 09:00 AM,2024,05,07,09,38.2,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 10:00 AM,2024,05,07,10,48.6,133,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 11:00 AM,2024,05,07,11,53.0,144,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 12:00 PM,2024,05,07,12,47.6,131,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 01:00 PM,2024,05,07,13,40.3,113,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 02:00 PM,2024,05,07,14,28.9,88,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 03:00 PM,2024,05,07,15,34.9,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 04:00 PM,2024,05,07,16,41.4,116,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 05:00 PM,2024,05,07,17,47.2,130,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 06:00 PM,2024,05,07,18,47.6,131,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 07:00 PM,2024,05,07,19,50.3,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 08:00 PM,2024,05,07,20,52.1,142,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 09:00 PM,2024,05,07,21,49.5,135,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 10:00 PM,2024,05,07,22,48.2,132,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-07 11:00 PM,2024,05,07,23,44.1,122,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 12:00 AM,2024,05,08,00,42.0,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 01:00 AM,2024,05,08,01,40.0,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 02:00 AM,2024,05,08,02,39.9,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 03:00 AM,2024,05,08,03,38.6,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 04:00 AM,2024,05,08,04,36.5,103,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 05:00 AM,2024,05,08,05,35.9,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 06:00 AM,2024,05,08,06,33.6,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 07:00 AM,2024,05,08,07,36.3,103,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 08:00 AM,2024,05,08,08,37.5,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 09:00 AM,2024,05,08,09,36.9,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 10:00 AM,2024,05,08,10,37.5,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 11:00 AM,2024,05,08,11,36.4,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 12:00 PM,2024,05,08,12,36.2,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 01:00 PM,2024,05,08,13,36.4,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 02:00 PM,2024,05,08,14,36.3,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 03:00 PM,2024,05,08,15,36.5,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 04:00 PM,2024,05,08,16,35.4,100,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 05:00 PM,2024,05,08,17,35.3,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 06:00 PM,2024,05,08,18,33.4,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 07:00 PM,2024,05,08,19,31.0,92,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 08:00 PM,2024,05,08,20,30.6,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 09:00 PM,2024,05,08,21,31.1,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 10:00 PM,2024,05,08,22,32.3,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-08 11:00 PM,2024,05,08,23,33.6,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 12:00 AM,2024,05,09,00,33.9,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 01:00 AM,2024,05,09,01,34.5,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 02:00 AM,2024,05,09,02,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 03:00 AM,2024,05,09,03,36.3,103,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 04:00 AM,2024,05,09,04,36.8,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 05:00 AM,2024,05,09,05,36.9,104,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 06:00 AM,2024,05,09,06,36.6,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 07:00 AM,2024,05,09,07,37.1,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 08:00 AM,2024,05,09,08,35.0,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 09:00 AM,2024,05,09,09,26.7,84,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 10:00 AM,2024,05,09,10,23.3,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 11:00 AM,2024,05,09,11,21.6,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 12:00 PM,2024,05,09,12,19.8,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 01:00 PM,2024,05,09,13,21.9,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 02:00 PM,2024,05,09,14,21.9,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 03:00 PM,2024,05,09,15,23.4,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 04:00 PM,2024,05,09,16,24.2,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 05:00 PM,2024,05,09,17,20.6,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 06:00 PM,2024,05,09,18,16.3,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 07:00 PM,2024,05,09,19,13.1,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 08:00 PM,2024,05,09,20,11.5,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 09:00 PM,2024,05,09,21,12.2,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 10:00 PM,2024,05,09,22,11.6,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-09 11:00 PM,2024,05,09,23,11.3,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 12:00 AM,2024,05,10,00,12.6,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 01:00 AM,2024,05,10,01,12.8,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 02:00 AM,2024,05,10,02,11.4,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 03:00 AM,2024,05,10,03,11.7,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 04:00 AM,2024,05,10,04,11.8,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 05:00 AM,2024,05,10,05,11.8,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 06:00 AM,2024,05,10,06,11.9,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 07:00 AM,2024,05,10,07,11.6,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 08:00 AM,2024,05,10,08,12.3,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 09:00 AM,2024,05,10,09,14.3,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 10:00 AM,2024,05,10,10,15.0,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 11:00 AM,2024,05,10,11,14.2,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 12:00 PM,2024,05,10,12,15.3,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 01:00 PM,2024,05,10,13,16.5,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 02:00 PM,2024,05,10,14,19.9,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 03:00 PM,2024,05,10,15,19.9,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 04:00 PM,2024,05,10,16,23.4,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 05:00 PM,2024,05,10,17,23.2,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 06:00 PM,2024,05,10,18,21.1,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 07:00 PM,2024,05,10,19,20.5,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 08:00 PM,2024,05,10,20,23.2,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 09:00 PM,2024,05,10,21,23.6,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 10:00 PM,2024,05,10,22,22.8,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-10 11:00 PM,2024,05,10,23,22.1,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 12:00 AM,2024,05,11,00,22.4,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 01:00 AM,2024,05,11,01,24.2,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 02:00 AM,2024,05,11,02,24.8,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 03:00 AM,2024,05,11,03,23.6,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 04:00 AM,2024,05,11,04,23.7,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 05:00 AM,2024,05,11,05,23.1,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 06:00 AM,2024,05,11,06,21.8,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 07:00 AM,2024,05,11,07,22.2,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 08:00 AM,2024,05,11,08,20.6,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 09:00 AM,2024,05,11,09,19.6,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 10:00 AM,2024,05,11,10,18.5,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 11:00 AM,2024,05,11,11,19.4,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 12:00 PM,2024,05,11,12,20.4,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 01:00 PM,2024,05,11,13,22.8,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 02:00 PM,2024,05,11,14,24.3,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 03:00 PM,2024,05,11,15,23.5,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 04:00 PM,2024,05,11,16,22.9,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 05:00 PM,2024,05,11,17,24.9,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 06:00 PM,2024,05,11,18,23.7,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 07:00 PM,2024,05,11,19,24.6,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 08:00 PM,2024,05,11,20,23.6,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 09:00 PM,2024,05,11,21,21.4,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 10:00 PM,2024,05,11,22,21.4,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-11 11:00 PM,2024,05,11,23,23.0,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 12:00 AM,2024,05,12,00,24.1,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 01:00 AM,2024,05,12,01,22.9,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 02:00 AM,2024,05,12,02,24.0,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 03:00 AM,2024,05,12,03,25.1,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 04:00 AM,2024,05,12,04,30.1,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 05:00 AM,2024,05,12,05,32.5,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 06:00 AM,2024,05,12,06,34.3,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 07:00 AM,2024,05,12,07,34.6,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 08:00 AM,2024,05,12,08,35.3,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 09:00 AM,2024,05,12,09,33.7,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 10:00 AM,2024,05,12,10,37.2,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 11:00 AM,2024,05,12,11,40.1,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 12:00 PM,2024,05,12,12,40.0,112,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 01:00 PM,2024,05,12,13,40.9,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 02:00 PM,2024,05,12,14,40.4,113,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 03:00 PM,2024,05,12,15,40.4,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 04:00 PM,2024,05,12,16,40.9,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 05:00 PM,2024,05,12,17,42.6,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 06:00 PM,2024,05,12,18,41.8,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 07:00 PM,2024,05,12,19,40.0,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 08:00 PM,2024,05,12,20,38.8,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 09:00 PM,2024,05,12,21,37.8,107,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 10:00 PM,2024,05,12,22,35.7,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-12 11:00 PM,2024,05,12,23,35.1,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 12:00 AM,2024,05,13,00,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 01:00 AM,2024,05,13,01,34.5,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 02:00 AM,2024,05,13,02,34.6,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 03:00 AM,2024,05,13,03,33.7,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 04:00 AM,2024,05,13,04,32.7,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 05:00 AM,2024,05,13,05,33.3,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 06:00 AM,2024,05,13,06,33.5,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 07:00 AM,2024,05,13,07,34.6,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 08:00 AM,2024,05,13,08,39.8,112,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 09:00 AM,2024,05,13,09,45.2,125,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 10:00 AM,2024,05,13,10,61.5,155,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 11:00 AM,2024,05,13,11,70.7,162,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 12:00 PM,2024,05,13,12,64.3,157,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 01:00 PM,2024,05,13,13,54.1,147,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 02:00 PM,2024,05,13,14,43.5,121,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 03:00 PM,2024,05,13,15,33.7,97,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 04:00 PM,2024,05,13,16,26.8,84,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 05:00 PM,2024,05,13,17,23.4,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 06:00 PM,2024,05,13,18,21.7,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 07:00 PM,2024,05,13,19,29.8,90,Moderate,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 08:00 PM,2024,05,13,20,35.4,100,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 09:00 PM,2024,05,13,21,44.7,124,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 10:00 PM,2024,05,13,22,46.8,129,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-13 11:00 PM,2024,05,13,23,50.9,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 12:00 AM,2024,05,14,00,50.4,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 01:00 AM,2024,05,14,01,48.2,132,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 02:00 AM,2024,05,14,02,45.6,126,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 03:00 AM,2024,05,14,03,42.8,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 04:00 AM,2024,05,14,04,39.4,111,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 05:00 AM,2024,05,14,05,37.7,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 06:00 AM,2024,05,14,06,34.4,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 07:00 AM,2024,05,14,07,32.8,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 08:00 AM,2024,05,14,08,35.6,101,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 09:00 AM,2024,05,14,09,35.8,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 10:00 AM,2024,05,14,10,39.5,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 11:00 AM,2024,05,14,11,41.0,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 12:00 PM,2024,05,14,12,41.3,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 01:00 PM,2024,05,14,13,54.7,148,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 02:00 PM,2024,05,14,14,59.8,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 03:00 PM,2024,05,14,15,57.4,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 04:00 PM,2024,05,14,16,52.7,143,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 05:00 PM,2024,05,14,17,51.8,141,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 06:00 PM,2024,05,14,18,49.9,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 07:00 PM,2024,05,14,19,52.4,143,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 08:00 PM,2024,05,14,20,54.0,147,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 09:00 PM,2024,05,14,21,58.4,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 10:00 PM,2024,05,14,22,48.2,132,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-14 11:00 PM,2024,05,14,23,42.3,118,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 12:00 AM,2024,05,15,00,38.8,109,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 01:00 AM,2024,05,15,01,36.3,103,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 02:00 AM,2024,05,15,02,34.6,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 03:00 AM,2024,05,15,03,31.8,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 04:00 AM,2024,05,15,04,29.3,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 05:00 AM,2024,05,15,05,28.1,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 06:00 AM,2024,05,15,06,27.5,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 07:00 AM,2024,05,15,07,27.2,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 08:00 AM,2024,05,15,08,27.6,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 09:00 AM,2024,05,15,09,27.6,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 10:00 AM,2024,05,15,10,29.3,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 11:00 AM,2024,05,15,11,30.5,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 12:00 PM,2024,05,15,12,32.1,94,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 01:00 PM,2024,05,15,13,30.6,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 02:00 PM,2024,05,15,14,29.3,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 03:00 PM,2024,05,15,15,28.9,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 04:00 PM,2024,05,15,16,28.1,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 05:00 PM,2024,05,15,17,27.0,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 06:00 PM,2024,05,15,18,24.7,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 07:00 PM,2024,05,15,19,30.2,90,Moderate,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 08:00 PM,2024,05,15,20,35.4,100,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 09:00 PM,2024,05,15,21,36.6,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 10:00 PM,2024,05,15,22,37.2,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-15 11:00 PM,2024,05,15,23,36.6,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 12:00 AM,2024,05,16,00,33.5,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 01:00 AM,2024,05,16,01,30.0,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 02:00 AM,2024,05,16,02,27.2,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 03:00 AM,2024,05,16,03,25.7,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 04:00 AM,2024,05,16,04,26.7,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 05:00 AM,2024,05,16,05,22.8,77,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 06:00 AM,2024,05,16,06,22.4,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 07:00 AM,2024,05,16,07,21.7,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 08:00 AM,2024,05,16,08,25.8,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 09:00 AM,2024,05,16,09,30.9,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 10:00 AM,2024,05,16,10,29.3,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 11:00 AM,2024,05,16,11,26.3,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 12:00 PM,2024,05,16,12,23.3,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 01:00 PM,2024,05,16,13,21.2,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 02:00 PM,2024,05,16,14,21.6,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 03:00 PM,2024,05,16,15,19.2,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 04:00 PM,2024,05,16,16,19.6,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 05:00 PM,2024,05,16,17,18.8,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 06:00 PM,2024,05,16,18,19.9,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 07:00 PM,2024,05,16,19,18.9,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 08:00 PM,2024,05,16,20,19.4,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 09:00 PM,2024,05,16,21,18.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 10:00 PM,2024,05,16,22,19.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-16 11:00 PM,2024,05,16,23,18.7,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 12:00 AM,2024,05,17,00,17.4,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 01:00 AM,2024,05,17,01,19.7,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 02:00 AM,2024,05,17,02,20.9,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 03:00 AM,2024,05,17,03,21.3,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 04:00 AM,2024,05,17,04,21.9,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 05:00 AM,2024,05,17,05,23.2,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 06:00 AM,2024,05,17,06,23.1,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 07:00 AM,2024,05,17,07,23.8,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 08:00 AM,2024,05,17,08,36.5,103,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 09:00 AM,2024,05,17,09,40.2,113,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 10:00 AM,2024,05,17,10,36.1,102,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 11:00 AM,2024,05,17,11,25.0,81,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 12:00 PM,2024,05,17,12,18.0,68,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 01:00 PM,2024,05,17,13,16.5,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 02:00 PM,2024,05,17,14,13.2,59,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 03:00 PM,2024,05,17,15,12.1,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 04:00 PM,2024,05,17,16,13.5,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 05:00 PM,2024,05,17,17,18.2,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 06:00 PM,2024,05,17,18,17.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 07:00 PM,2024,05,17,19,15.8,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 08:00 PM,2024,05,17,20,13.4,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 09:00 PM,2024,05,17,21,13.6,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 10:00 PM,2024,05,17,22,14.8,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-17 11:00 PM,2024,05,17,23,15.9,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 12:00 AM,2024,05,18,00,17.4,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 01:00 AM,2024,05,18,01,21.2,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 02:00 AM,2024,05,18,02,22.1,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 03:00 AM,2024,05,18,03,22.5,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 04:00 AM,2024,05,18,04,21.7,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 05:00 AM,2024,05,18,05,22.8,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 06:00 AM,2024,05,18,06,23.4,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 07:00 AM,2024,05,18,07,26.7,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 08:00 AM,2024,05,18,08,27.8,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 09:00 AM,2024,05,18,09,26.8,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 10:00 AM,2024,05,18,10,26.4,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 11:00 AM,2024,05,18,11,29.7,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 12:00 PM,2024,05,18,12,26.5,83,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 01:00 PM,2024,05,18,13,23.7,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 02:00 PM,2024,05,18,14,25.1,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 03:00 PM,2024,05,18,15,24.6,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 04:00 PM,2024,05,18,16,24.8,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 05:00 PM,2024,05,18,17,25.2,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 06:00 PM,2024,05,18,18,28.8,88,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 07:00 PM,2024,05,18,19,28.5,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 08:00 PM,2024,05,18,20,26.6,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 09:00 PM,2024,05,18,21,28.0,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 10:00 PM,2024,05,18,22,33.4,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-18 11:00 PM,2024,05,18,23,29.8,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 12:00 AM,2024,05,19,00,27.4,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 01:00 AM,2024,05,19,01,31.0,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 02:00 AM,2024,05,19,02,31.0,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 03:00 AM,2024,05,19,03,32.1,94,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 04:00 AM,2024,05,19,04,34.8,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 05:00 AM,2024,05,19,05,36.4,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 06:00 AM,2024,05,19,06,42.7,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 07:00 AM,2024,05,19,07,41.3,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 08:00 AM,2024,05,19,08,38.7,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 09:00 AM,2024,05,19,09,39.3,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 10:00 AM,2024,05,19,10,42.5,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 11:00 AM,2024,05,19,11,45.7,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 12:00 PM,2024,05,19,12,53.2,145,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 01:00 PM,2024,05,19,13,56.5,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 02:00 PM,2024,05,19,14,58.0,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 03:00 PM,2024,05,19,15,50.7,138,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 04:00 PM,2024,05,19,16,45.9,127,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 05:00 PM,2024,05,19,17,42.6,118,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 06:00 PM,2024,05,19,18,41.1,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 07:00 PM,2024,05,19,19,39.0,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 08:00 PM,2024,05,19,20,38.2,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 09:00 PM,2024,05,19,21,36.1,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 10:00 PM,2024,05,19,22,32.3,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-19 11:00 PM,2024,05,19,23,30.6,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 12:00 AM,2024,05,20,00,30.8,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 01:00 AM,2024,05,20,01,30.9,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 02:00 AM,2024,05,20,02,29.9,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 03:00 AM,2024,05,20,03,29.7,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 04:00 AM,2024,05,20,04,28.8,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 05:00 AM,2024,05,20,05,28.2,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 06:00 AM,2024,05,20,06,27.0,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 07:00 AM,2024,05,20,07,25.3,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 08:00 AM,2024,05,20,08,25.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 09:00 AM,2024,05,20,09,26.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 10:00 AM,2024,05,20,10,26.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 11:00 AM,2024,05,20,11,26.7,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 12:00 PM,2024,05,20,12,29.7,89,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 01:00 PM,2024,05,20,13,35.1,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 02:00 PM,2024,05,20,14,36.8,104,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 03:00 PM,2024,05,20,15,39.2,110,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 04:00 PM,2024,05,20,16,42.2,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 05:00 PM,2024,05,20,17,46.6,128,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 06:00 PM,2024,05,20,18,43.8,121,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 07:00 PM,2024,05,20,19,44.9,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 08:00 PM,2024,05,20,20,40.5,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 09:00 PM,2024,05,20,21,40.2,113,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 10:00 PM,2024,05,20,22,36.8,104,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-20 11:00 PM,2024,05,20,23,36.5,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 12:00 AM,2024,05,21,00,34.8,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 01:00 AM,2024,05,21,01,36.0,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 02:00 AM,2024,05,21,02,36.3,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 03:00 AM,2024,05,21,03,36.9,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 04:00 AM,2024,05,21,04,37.3,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 05:00 AM,2024,05,21,05,37.7,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 06:00 AM,2024,05,21,06,37.5,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 07:00 AM,2024,05,21,07,37.7,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 08:00 AM,2024,05,21,08,38.2,108,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 09:00 AM,2024,05,21,09,38.4,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 10:00 AM,2024,05,21,10,38.2,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 11:00 AM,2024,05,21,11,35.7,101,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 12:00 PM,2024,05,21,12,34.9,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 01:00 PM,2024,05,21,13,36.0,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 02:00 PM,2024,05,21,14,36.3,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 03:00 PM,2024,05,21,15,36.5,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 04:00 PM,2024,05,21,16,37.8,107,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 05:00 PM,2024,05,21,17,39.6,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 06:00 PM,2024,05,21,18,38.4,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 07:00 PM,2024,05,21,19,39.2,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 08:00 PM,2024,05,21,20,41.3,115,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 09:00 PM,2024,05,21,21,42.6,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 10:00 PM,2024,05,21,22,42.4,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-21 11:00 PM,2024,05,21,23,41.4,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 12:00 AM,2024,05,22,00,41.3,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 01:00 AM,2024,05,22,01,42.1,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 02:00 AM,2024,05,22,02,42.8,119,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 03:00 AM,2024,05,22,03,44.7,124,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 04:00 AM,2024,05,22,04,45.4,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 05:00 AM,2024,05,22,05,43.4,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 06:00 AM,2024,05,22,06,41.8,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 07:00 AM,2024,05,22,07,47.1,130,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 08:00 AM,2024,05,22,08,53.4,145,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 09:00 AM,2024,05,22,09,61.3,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 10:00 AM,2024,05,22,10,68.6,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 11:00 AM,2024,05,22,11,76.3,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 12:00 PM,2024,05,22,12,63.1,156,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 01:00 PM,2024,05,22,13,54.5,148,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 02:00 PM,2024,05,22,14,42.2,117,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 03:00 PM,2024,05,22,15,35.1,99,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 04:00 PM,2024,05,22,16,32.0,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 05:00 PM,2024,05,22,17,30.0,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 06:00 PM,2024,05,22,18,31.0,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 07:00 PM,2024,05,22,19,34.5,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 08:00 PM,2024,05,22,20,38.2,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 09:00 PM,2024,05,22,21,42.6,118,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 10:00 PM,2024,05,22,22,43.3,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-22 11:00 PM,2024,05,22,23,42.4,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 12:00 AM,2024,05,23,00,43.3,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 01:00 AM,2024,05,23,01,42.7,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 02:00 AM,2024,05,23,02,44.9,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 03:00 AM,2024,05,23,03,52.7,143,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 04:00 AM,2024,05,23,04,55.8,151,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 05:00 AM,2024,05,23,05,54.2,147,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 06:00 AM,2024,05,23,06,51.4,140,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 07:00 AM,2024,05,23,07,60.6,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 08:00 AM,2024,05,23,08,70.3,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 09:00 AM,2024,05,23,09,70.1,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 10:00 AM,2024,05,23,10,68.6,160,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 11:00 AM,2024,05,23,11,56.9,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 12:00 PM,2024,05,23,12,48.1,132,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 01:00 PM,2024,05,23,13,42.5,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 02:00 PM,2024,05,23,14,37.7,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 03:00 PM,2024,05,23,15,37.8,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 04:00 PM,2024,05,23,16,38.9,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 05:00 PM,2024,05,23,17,48.4,133,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 06:00 PM,2024,05,23,18,44.2,122,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 07:00 PM,2024,05,23,19,43.1,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 08:00 PM,2024,05,23,20,43.5,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 09:00 PM,2024,05,23,21,40.7,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 10:00 PM,2024,05,23,22,40.2,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-23 11:00 PM,2024,05,23,23,40.5,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 12:00 AM,2024,05,24,00,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 01:00 AM,2024,05,24,01,29.1,88,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 02:00 AM,2024,05,24,02,26.5,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 03:00 AM,2024,05,24,03,23.7,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 04:00 AM,2024,05,24,04,25.3,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 05:00 AM,2024,05,24,05,22.6,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 06:00 AM,2024,05,24,06,23.3,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 07:00 AM,2024,05,24,07,26.1,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 08:00 AM,2024,05,24,08,28.0,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 09:00 AM,2024,05,24,09,25.5,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 10:00 AM,2024,05,24,10,23.7,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 11:00 AM,2024,05,24,11,24.0,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 12:00 PM,2024,05,24,12,23.4,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 01:00 PM,2024,05,24,13,24.6,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 02:00 PM,2024,05,24,14,23.0,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 03:00 PM,2024,05,24,15,23.4,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 04:00 PM,2024,05,24,16,22.9,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 05:00 PM,2024,05,24,17,23.2,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 06:00 PM,2024,05,24,18,22.8,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 07:00 PM,2024,05,24,19,24.5,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 08:00 PM,2024,05,24,20,26.9,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 09:00 PM,2024,05,24,21,26.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 10:00 PM,2024,05,24,22,26.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-24 11:00 PM,2024,05,24,23,25.9,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 12:00 AM,2024,05,25,00,24.5,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 01:00 AM,2024,05,25,01,24.6,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 02:00 AM,2024,05,25,02,23.5,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 03:00 AM,2024,05,25,03,24.6,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 04:00 AM,2024,05,25,04,25.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 05:00 AM,2024,05,25,05,26.2,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 06:00 AM,2024,05,25,06,25.5,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 07:00 AM,2024,05,25,07,25.6,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 08:00 AM,2024,05,25,08,25.6,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 09:00 AM,2024,05,25,09,25.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 10:00 AM,2024,05,25,10,27.0,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 11:00 AM,2024,05,25,11,28.4,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 12:00 PM,2024,05,25,12,31.9,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 01:00 PM,2024,05,25,13,33.2,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 02:00 PM,2024,05,25,14,32.6,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 03:00 PM,2024,05,25,15,32.0,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 04:00 PM,2024,05,25,16,32.0,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 05:00 PM,2024,05,25,17,32.7,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 06:00 PM,2024,05,25,18,32.1,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 07:00 PM,2024,05,25,19,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 08:00 PM,2024,05,25,20,32.1,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 09:00 PM,2024,05,25,21,31.3,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 10:00 PM,2024,05,25,22,31.7,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-25 11:00 PM,2024,05,25,23,31.5,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 12:00 AM,2024,05,26,00,31.8,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 01:00 AM,2024,05,26,01,30.6,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 02:00 AM,2024,05,26,02,29.3,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 03:00 AM,2024,05,26,03,28.9,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 04:00 AM,2024,05,26,04,29.2,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 05:00 AM,2024,05,26,05,29.9,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 06:00 AM,2024,05,26,06,30.9,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 07:00 AM,2024,05,26,07,32.0,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 08:00 AM,2024,05,26,08,30.9,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 09:00 AM,2024,05,26,09,32.0,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 10:00 AM,2024,05,26,10,33.2,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 11:00 AM,2024,05,26,11,33.1,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 12:00 PM,2024,05,26,12,33.9,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 01:00 PM,2024,05,26,13,34.9,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 02:00 PM,2024,05,26,14,35.0,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 03:00 PM,2024,05,26,15,35.1,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 04:00 PM,2024,05,26,16,34.3,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 05:00 PM,2024,05,26,17,35.6,101,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 06:00 PM,2024,05,26,18,36.0,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 07:00 PM,2024,05,26,19,40.1,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 08:00 PM,2024,05,26,20,47.8,131,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 09:00 PM,2024,05,26,21,47.4,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 10:00 PM,2024,05,26,22,44.2,122,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-26 11:00 PM,2024,05,26,23,42.3,118,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 12:00 AM,2024,05,27,00,42.2,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 01:00 AM,2024,05,27,01,39.4,111,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 02:00 AM,2024,05,27,02,40.5,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 03:00 AM,2024,05,27,03,39.0,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 04:00 AM,2024,05,27,04,41.1,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 05:00 AM,2024,05,27,05,44.0,122,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 06:00 AM,2024,05,27,06,50.5,138,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 07:00 AM,2024,05,27,07,49.5,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 08:00 AM,2024,05,27,08,47.7,131,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 09:00 AM,2024,05,27,09,47.4,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 10:00 AM,2024,05,27,10,49.2,135,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 11:00 AM,2024,05,27,11,49.5,135,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 12:00 PM,2024,05,27,12,46.9,129,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 01:00 PM,2024,05,27,13,41.2,115,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 02:00 PM,2024,05,27,14,40.2,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 03:00 PM,2024,05,27,15,43.1,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 04:00 PM,2024,05,27,16,44.4,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 05:00 PM,2024,05,27,17,42.4,118,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 06:00 PM,2024,05,27,18,40.7,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 07:00 PM,2024,05,27,19,41.4,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 08:00 PM,2024,05,27,20,42.3,118,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 09:00 PM,2024,05,27,21,40.1,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 10:00 PM,2024,05,27,22,35.2,100,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-27 11:00 PM,2024,05,27,23,33.5,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 12:00 AM,2024,05,28,00,29.6,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 01:00 AM,2024,05,28,01,27.3,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 02:00 AM,2024,05,28,02,24.0,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 03:00 AM,2024,05,28,03,23.5,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 04:00 AM,2024,05,28,04,23.7,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 05:00 AM,2024,05,28,05,20.8,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 06:00 AM,2024,05,28,06,21.4,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 07:00 AM,2024,05,28,07,19.7,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 08:00 AM,2024,05,28,08,22.8,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 09:00 AM,2024,05,28,09,23.5,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 10:00 AM,2024,05,28,10,24.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 11:00 AM,2024,05,28,11,23.9,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 12:00 PM,2024,05,28,12,23.3,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 01:00 PM,2024,05,28,13,23.2,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 02:00 PM,2024,05,28,14,24.9,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 03:00 PM,2024,05,28,15,27.0,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 04:00 PM,2024,05,28,16,27.0,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 05:00 PM,2024,05,28,17,28.7,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 06:00 PM,2024,05,28,18,28.4,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 07:00 PM,2024,05,28,19,29.3,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 08:00 PM,2024,05,28,20,28.2,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 09:00 PM,2024,05,28,21,25.7,82,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 10:00 PM,2024,05,28,22,24.8,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-28 11:00 PM,2024,05,28,23,25.5,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 12:00 AM,2024,05,29,00,25.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 01:00 AM,2024,05,29,01,26.8,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 02:00 AM,2024,05,29,02,25.5,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 03:00 AM,2024,05,29,03,25.6,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 04:00 AM,2024,05,29,04,22.9,77,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 05:00 AM,2024,05,29,05,19.9,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 06:00 AM,2024,05,29,06,19.4,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 07:00 AM,2024,05,29,07,20.7,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 08:00 AM,2024,05,29,08,21.2,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 09:00 AM,2024,05,29,09,21.9,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 10:00 AM,2024,05,29,10,24.4,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 11:00 AM,2024,05,29,11,28.2,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 12:00 PM,2024,05,29,12,29.0,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 01:00 PM,2024,05,29,13,29.4,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 02:00 PM,2024,05,29,14,31.2,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 03:00 PM,2024,05,29,15,32.0,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 04:00 PM,2024,05,29,16,36.0,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 05:00 PM,2024,05,29,17,40.0,112,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 06:00 PM,2024,05,29,18,43.0,119,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 07:00 PM,2024,05,29,19,38.5,108,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 08:00 PM,2024,05,29,20,33.2,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 09:00 PM,2024,05,29,21,29.7,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 10:00 PM,2024,05,29,22,25.0,81,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-29 11:00 PM,2024,05,29,23,23.5,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 12:00 AM,2024,05,30,00,22.2,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 01:00 AM,2024,05,30,01,21.6,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 02:00 AM,2024,05,30,02,19.8,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 03:00 AM,2024,05,30,03,20.9,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 04:00 AM,2024,05,30,04,21.4,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 05:00 AM,2024,05,30,05,23.7,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 06:00 AM,2024,05,30,06,26.5,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 07:00 AM,2024,05,30,07,29.4,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 08:00 AM,2024,05,30,08,35.4,100,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 09:00 AM,2024,05,30,09,38.7,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 10:00 AM,2024,05,30,10,42.8,119,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 11:00 AM,2024,05,30,11,42.9,119,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 12:00 PM,2024,05,30,12,46.4,128,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 01:00 PM,2024,05,30,13,58.2,153,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 02:00 PM,2024,05,30,14,54.6,148,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 03:00 PM,2024,05,30,15,52.8,144,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 04:00 PM,2024,05,30,16,47.4,130,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 05:00 PM,2024,05,30,17,45.2,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 06:00 PM,2024,05,30,18,45.6,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 07:00 PM,2024,05,30,19,43.4,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 08:00 PM,2024,05,30,20,45.8,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 09:00 PM,2024,05,30,21,46.3,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 10:00 PM,2024,05,30,22,47.4,130,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-30 11:00 PM,2024,05,30,23,46.8,129,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 12:00 AM,2024,05,31,00,47.3,130,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 01:00 AM,2024,05,31,01,49.6,136,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 02:00 AM,2024,05,31,02,53.4,145,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 03:00 AM,2024,05,31,03,53.6,146,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 04:00 AM,2024,05,31,04,53.7,146,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 05:00 AM,2024,05,31,05,52.5,143,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 06:00 AM,2024,05,31,06,54.0,147,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 07:00 AM,2024,05,31,07,55.1,149,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 08:00 AM,2024,05,31,08,55.4,150,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 09:00 AM,2024,05,31,09,53.9,146,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 10:00 AM,2024,05,31,10,53.5,145,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 11:00 AM,2024,05,31,11,54.8,149,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 12:00 PM,2024,05,31,12,55.6,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 01:00 PM,2024,05,31,13,57.4,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 02:00 PM,2024,05,31,14,64.2,157,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 03:00 PM,2024,05,31,15,70.9,162,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 04:00 PM,2024,05,31,16,77.4,166,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 05:00 PM,2024,05,31,17,75.5,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 06:00 PM,2024,05,31,18,78.3,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 07:00 PM,2024,05,31,19,79.0,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 08:00 PM,2024,05,31,20,71.8,162,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 09:00 PM,2024,05,31,21,65.1,158,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 10:00 PM,2024,05,31,22,55.4,150,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-05-31 11:00 PM,2024,05,31,23,52.0,142,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2024-06-01 12:00 AM,2024,06,01,00,57.5,152,Unhealthy,64.0,UG/M3,1 Hr,Valid

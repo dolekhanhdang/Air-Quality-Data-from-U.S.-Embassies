@@ -1,0 +1,741 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kuwait City,PM2.5 - Principal,2019-07-01 01:00 AM,2019,07,01,01,53.6,146,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 02:00 AM,2019,07,01,02,51.3,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 03:00 AM,2019,07,01,03,51.1,139,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 04:00 AM,2019,07,01,04,52.0,142,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 05:00 AM,2019,07,01,05,52.5,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 06:00 AM,2019,07,01,06,44.7,124,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 07:00 AM,2019,07,01,07,42.0,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 08:00 AM,2019,07,01,08,37.4,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 09:00 AM,2019,07,01,09,36.7,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 10:00 AM,2019,07,01,10,39.8,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 11:00 AM,2019,07,01,11,33.5,96,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 12:00 PM,2019,07,01,12,31.7,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 01:00 PM,2019,07,01,13,30.9,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 02:00 PM,2019,07,01,14,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 03:00 PM,2019,07,01,15,32.9,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 04:00 PM,2019,07,01,16,35.9,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 05:00 PM,2019,07,01,17,36.6,104,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 06:00 PM,2019,07,01,18,35.2,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 07:00 PM,2019,07,01,19,35.1,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 08:00 PM,2019,07,01,20,32.4,94,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 09:00 PM,2019,07,01,21,31.9,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 10:00 PM,2019,07,01,22,32.4,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-01 11:00 PM,2019,07,01,23,33.8,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 12:00 AM,2019,07,02,00,33.3,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 01:00 AM,2019,07,02,01,33.5,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 02:00 AM,2019,07,02,02,34.8,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 03:00 AM,2019,07,02,03,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 04:00 AM,2019,07,02,04,33.7,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 05:00 AM,2019,07,02,05,31.7,92,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 06:00 AM,2019,07,02,06,27.0,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 07:00 AM,2019,07,02,07,27.8,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 08:00 AM,2019,07,02,08,26.6,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 09:00 AM,2019,07,02,09,37.1,105,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 10:00 AM,2019,07,02,10,34.5,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 11:00 AM,2019,07,02,11,41.2,115,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 12:00 PM,2019,07,02,12,87.1,167,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 01:00 PM,2019,07,02,13,150.5,201,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 02:00 PM,2019,07,02,14,150.3,200,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 03:00 PM,2019,07,02,15,118.6,184,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 04:00 PM,2019,07,02,16,84.3,166,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 05:00 PM,2019,07,02,17,63.6,155,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 06:00 PM,2019,07,02,18,56.3,151,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 07:00 PM,2019,07,02,19,49.6,136,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 08:00 PM,2019,07,02,20,47.3,130,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 09:00 PM,2019,07,02,21,42.6,118,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 10:00 PM,2019,07,02,22,39.8,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-02 11:00 PM,2019,07,02,23,36.9,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 12:00 AM,2019,07,03,00,50.4,138,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 01:00 AM,2019,07,03,01,48.7,134,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 02:00 AM,2019,07,03,02,37.8,107,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 03:00 AM,2019,07,03,03,30.4,89,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 04:00 AM,2019,07,03,04,27.2,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 05:00 AM,2019,07,03,05,19.0,66,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 06:00 AM,2019,07,03,06,23.0,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 07:00 AM,2019,07,03,07,28.0,84,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 08:00 AM,2019,07,03,08,30.0,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 09:00 AM,2019,07,03,09,31.5,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 10:00 AM,2019,07,03,10,34.7,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 11:00 AM,2019,07,03,11,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 12:00 PM,2019,07,03,12,32.9,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 01:00 PM,2019,07,03,13,34.4,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 02:00 PM,2019,07,03,14,32.7,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 03:00 PM,2019,07,03,15,33.8,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 04:00 PM,2019,07,03,16,30.9,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 05:00 PM,2019,07,03,17,32.0,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 06:00 PM,2019,07,03,18,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 07:00 PM,2019,07,03,19,32.6,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 08:00 PM,2019,07,03,20,29.9,88,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 09:00 PM,2019,07,03,21,29.6,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 10:00 PM,2019,07,03,22,31.1,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-03 11:00 PM,2019,07,03,23,32.3,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 12:00 AM,2019,07,04,00,32.2,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 01:00 AM,2019,07,04,01,34.7,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 02:00 AM,2019,07,04,02,31.2,91,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 03:00 AM,2019,07,04,03,33.6,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 04:00 AM,2019,07,04,04,36.6,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 05:00 AM,2019,07,04,05,37.9,107,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 06:00 AM,2019,07,04,06,36.0,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 07:00 AM,2019,07,04,07,36.7,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 08:00 AM,2019,07,04,08,36.8,104,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 09:00 AM,2019,07,04,09,40.5,113,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 10:00 AM,2019,07,04,10,49.4,135,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 11:00 AM,2019,07,04,11,51.7,141,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 12:00 PM,2019,07,04,12,45.8,126,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 01:00 PM,2019,07,04,13,41.9,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 02:00 PM,2019,07,04,14,41.0,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 03:00 PM,2019,07,04,15,36.9,104,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 04:00 PM,2019,07,04,16,33.3,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 05:00 PM,2019,07,04,17,31.0,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 06:00 PM,2019,07,04,18,31.0,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 07:00 PM,2019,07,04,19,27.5,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 08:00 PM,2019,07,04,20,28.7,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 09:00 PM,2019,07,04,21,34.3,98,Moderate,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 10:00 PM,2019,07,04,22,39.6,111,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-04 11:00 PM,2019,07,04,23,40.9,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 12:00 AM,2019,07,05,00,38.6,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 01:00 AM,2019,07,05,01,38.3,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 02:00 AM,2019,07,05,02,35.8,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 03:00 AM,2019,07,05,03,31.7,92,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 04:00 AM,2019,07,05,04,28.1,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 05:00 AM,2019,07,05,05,27.1,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 06:00 AM,2019,07,05,06,26.5,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 07:00 AM,2019,07,05,07,28.6,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 08:00 AM,2019,07,05,08,27.8,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 09:00 AM,2019,07,05,09,28.4,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 10:00 AM,2019,07,05,10,30.8,90,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 11:00 AM,2019,07,05,11,36.8,104,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 12:00 PM,2019,07,05,12,36.0,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 01:00 PM,2019,07,05,13,52.1,142,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 02:00 PM,2019,07,05,14,59.5,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 03:00 PM,2019,07,05,15,59.2,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 04:00 PM,2019,07,05,16,56.6,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 05:00 PM,2019,07,05,17,57.8,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 06:00 PM,2019,07,05,18,50.4,138,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 07:00 PM,2019,07,05,19,42.2,117,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 08:00 PM,2019,07,05,20,46.1,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 09:00 PM,2019,07,05,21,47.0,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 10:00 PM,2019,07,05,22,45.0,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-05 11:00 PM,2019,07,05,23,45.5,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 12:00 AM,2019,07,06,00,40.7,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 01:00 AM,2019,07,06,01,37.9,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 02:00 AM,2019,07,06,02,28.9,86,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 03:00 AM,2019,07,06,03,34.4,98,Moderate,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 04:00 AM,2019,07,06,04,34.4,98,Moderate,-999.0,UG/M3,1 Hr,Missing
+Kuwait City,PM2.5 - Principal,2019-07-06 07:00 AM,2019,07,06,07,-999.0,-999,N/A,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 08:00 AM,2019,07,06,08,47.7,131,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 09:00 AM,2019,07,06,09,42.8,119,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 10:00 AM,2019,07,06,10,45.5,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 11:00 AM,2019,07,06,11,45.5,126,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Kuwait City,PM2.5 - Principal,2019-07-06 12:00 PM,2019,07,06,12,45.5,126,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Kuwait City,PM2.5 - Principal,2019-07-06 01:00 PM,2019,07,06,13,45.5,126,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Kuwait City,PM2.5 - Principal,2019-07-06 02:00 PM,2019,07,06,14,45.5,126,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 03:00 PM,2019,07,06,15,80.6,164,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 04:00 PM,2019,07,06,16,85.3,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 05:00 PM,2019,07,06,17,83.0,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 06:00 PM,2019,07,06,18,83.0,165,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kuwait City,PM2.5 - Principal,2019-07-06 08:00 PM,2019,07,06,20,-999.0,-999,N/A,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 10:00 PM,2019,07,06,22,32.1,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-06 11:00 PM,2019,07,06,23,32.6,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 12:00 AM,2019,07,07,00,33.9,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 01:00 AM,2019,07,07,01,39.7,111,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 02:00 AM,2019,07,07,02,35.7,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 03:00 AM,2019,07,07,03,32.8,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 04:00 AM,2019,07,07,04,31.4,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 05:00 AM,2019,07,07,05,32.8,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 06:00 AM,2019,07,07,06,34.7,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 07:00 AM,2019,07,07,07,37.6,106,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 08:00 AM,2019,07,07,08,39.3,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 09:00 AM,2019,07,07,09,39.9,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 10:00 AM,2019,07,07,10,41.3,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 11:00 AM,2019,07,07,11,101.7,175,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 12:00 PM,2019,07,07,12,119.9,184,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 01:00 PM,2019,07,07,13,75.9,162,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 02:00 PM,2019,07,07,14,53.9,146,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 03:00 PM,2019,07,07,15,40.4,113,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 04:00 PM,2019,07,07,16,37.7,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 05:00 PM,2019,07,07,17,36.8,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 06:00 PM,2019,07,07,18,33.9,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 07:00 PM,2019,07,07,19,47.9,132,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 08:00 PM,2019,07,07,20,68.4,158,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 09:00 PM,2019,07,07,21,72.7,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 10:00 PM,2019,07,07,22,95.8,172,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-07 11:00 PM,2019,07,07,23,103.9,176,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 12:00 AM,2019,07,08,00,79.4,163,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 01:00 AM,2019,07,08,01,79.2,163,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 02:00 AM,2019,07,08,02,59.1,153,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 03:00 AM,2019,07,08,03,47.0,129,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 04:00 AM,2019,07,08,04,71.0,159,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 05:00 AM,2019,07,08,05,60.5,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 06:00 AM,2019,07,08,06,54.2,147,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 07:00 AM,2019,07,08,07,48.1,132,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 08:00 AM,2019,07,08,08,48.0,132,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 09:00 AM,2019,07,08,09,66.0,156,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 10:00 AM,2019,07,08,10,73.5,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 11:00 AM,2019,07,08,11,58.7,153,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 12:00 PM,2019,07,08,12,49.3,135,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 01:00 PM,2019,07,08,13,37.6,106,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 02:00 PM,2019,07,08,14,33.3,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 03:00 PM,2019,07,08,15,29.1,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 04:00 PM,2019,07,08,16,28.5,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 05:00 PM,2019,07,08,17,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 06:00 PM,2019,07,08,18,26.8,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 07:00 PM,2019,07,08,19,24.9,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 08:00 PM,2019,07,08,20,26.4,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 09:00 PM,2019,07,08,21,23.2,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 10:00 PM,2019,07,08,22,22.6,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-08 11:00 PM,2019,07,08,23,22.8,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 12:00 AM,2019,07,09,00,23.5,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 01:00 AM,2019,07,09,01,22.7,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 02:00 AM,2019,07,09,02,23.4,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 03:00 AM,2019,07,09,03,23.3,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 04:00 AM,2019,07,09,04,21.8,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 05:00 AM,2019,07,09,05,24.2,76,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 06:00 AM,2019,07,09,06,25.5,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 07:00 AM,2019,07,09,07,28.4,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 08:00 AM,2019,07,09,08,31.6,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 09:00 AM,2019,07,09,09,31.8,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 10:00 AM,2019,07,09,10,30.0,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 11:00 AM,2019,07,09,11,29.5,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 12:00 PM,2019,07,09,12,27.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 01:00 PM,2019,07,09,13,26.6,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 02:00 PM,2019,07,09,14,27.2,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 03:00 PM,2019,07,09,15,27.1,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 04:00 PM,2019,07,09,16,26.8,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 05:00 PM,2019,07,09,17,26.8,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 06:00 PM,2019,07,09,18,25.8,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 07:00 PM,2019,07,09,19,27.4,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 08:00 PM,2019,07,09,20,31.4,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 09:00 PM,2019,07,09,21,35.1,99,Moderate,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 10:00 PM,2019,07,09,22,33.4,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-09 11:00 PM,2019,07,09,23,35.6,101,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 12:00 AM,2019,07,10,00,34.6,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 01:00 AM,2019,07,10,01,38.3,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 02:00 AM,2019,07,10,02,36.4,103,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 03:00 AM,2019,07,10,03,34.9,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 04:00 AM,2019,07,10,04,35.8,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 05:00 AM,2019,07,10,05,27.9,84,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 06:00 AM,2019,07,10,06,29.4,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 07:00 AM,2019,07,10,07,30.7,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 08:00 AM,2019,07,10,08,29.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 09:00 AM,2019,07,10,09,30.1,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 10:00 AM,2019,07,10,10,32.5,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 11:00 AM,2019,07,10,11,42.2,117,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 12:00 PM,2019,07,10,12,43.6,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 01:00 PM,2019,07,10,13,43.8,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 02:00 PM,2019,07,10,14,42.9,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 03:00 PM,2019,07,10,15,38.4,108,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 04:00 PM,2019,07,10,16,38.2,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 05:00 PM,2019,07,10,17,37.7,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 06:00 PM,2019,07,10,18,32.5,94,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 07:00 PM,2019,07,10,19,32.7,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 08:00 PM,2019,07,10,20,30.9,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 09:00 PM,2019,07,10,21,26.9,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 10:00 PM,2019,07,10,22,26.9,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-10 11:00 PM,2019,07,10,23,27.0,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 12:00 AM,2019,07,11,00,26.0,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 01:00 AM,2019,07,11,01,32.4,94,Moderate,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 02:00 AM,2019,07,11,02,32.0,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 03:00 AM,2019,07,11,03,30.7,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 04:00 AM,2019,07,11,04,32.9,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 05:00 AM,2019,07,11,05,37.1,105,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 06:00 AM,2019,07,11,06,37.5,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 07:00 AM,2019,07,11,07,36.3,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 08:00 AM,2019,07,11,08,37.1,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 09:00 AM,2019,07,11,09,36.5,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 10:00 AM,2019,07,11,10,33.9,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 11:00 AM,2019,07,11,11,33.1,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 12:00 PM,2019,07,11,12,31.7,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 01:00 PM,2019,07,11,13,31.1,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 02:00 PM,2019,07,11,14,30.0,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 03:00 PM,2019,07,11,15,28.2,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 04:00 PM,2019,07,11,16,27.4,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 05:00 PM,2019,07,11,17,26.7,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 06:00 PM,2019,07,11,18,25.5,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 07:00 PM,2019,07,11,19,27.5,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 08:00 PM,2019,07,11,20,29.0,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 09:00 PM,2019,07,11,21,29.8,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 10:00 PM,2019,07,11,22,30.7,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-11 11:00 PM,2019,07,11,23,31.3,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 12:00 AM,2019,07,12,00,32.7,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 01:00 AM,2019,07,12,01,35.4,100,Moderate,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 02:00 AM,2019,07,12,02,32.2,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 03:00 AM,2019,07,12,03,32.9,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 04:00 AM,2019,07,12,04,34.1,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 05:00 AM,2019,07,12,05,33.6,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 06:00 AM,2019,07,12,06,33.7,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 07:00 AM,2019,07,12,07,32.3,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 08:00 AM,2019,07,12,08,31.5,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 09:00 AM,2019,07,12,09,29.6,88,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 10:00 AM,2019,07,12,10,28.3,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 11:00 AM,2019,07,12,11,27.5,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 12:00 PM,2019,07,12,12,28.0,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 01:00 PM,2019,07,12,13,26.6,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 02:00 PM,2019,07,12,14,28.4,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 03:00 PM,2019,07,12,15,28.9,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 04:00 PM,2019,07,12,16,30.3,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 05:00 PM,2019,07,12,17,31.9,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 06:00 PM,2019,07,12,18,29.7,88,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 07:00 PM,2019,07,12,19,28.5,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 08:00 PM,2019,07,12,20,27.0,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 09:00 PM,2019,07,12,21,27.3,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 10:00 PM,2019,07,12,22,29.8,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-12 11:00 PM,2019,07,12,23,47.4,130,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 12:00 AM,2019,07,13,00,42.7,119,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 01:00 AM,2019,07,13,01,41.3,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 02:00 AM,2019,07,13,02,36.6,104,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 03:00 AM,2019,07,13,03,31.8,92,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 04:00 AM,2019,07,13,04,30.4,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 05:00 AM,2019,07,13,05,25.2,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 06:00 AM,2019,07,13,06,28.6,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 07:00 AM,2019,07,13,07,29.8,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 08:00 AM,2019,07,13,08,31.9,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 09:00 AM,2019,07,13,09,35.4,100,Moderate,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 10:00 AM,2019,07,13,10,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 11:00 AM,2019,07,13,11,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 12:00 PM,2019,07,13,12,43.9,122,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 01:00 PM,2019,07,13,13,77.4,162,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 02:00 PM,2019,07,13,14,120.7,185,Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 03:00 PM,2019,07,13,15,126.8,188,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 04:00 PM,2019,07,13,16,95.4,172,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 05:00 PM,2019,07,13,17,74.2,161,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 06:00 PM,2019,07,13,18,59.1,153,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 07:00 PM,2019,07,13,19,53.5,145,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 08:00 PM,2019,07,13,20,51.2,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 09:00 PM,2019,07,13,21,48.6,133,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 10:00 PM,2019,07,13,22,46.8,129,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-13 11:00 PM,2019,07,13,23,50.4,138,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 12:00 AM,2019,07,14,00,56.7,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 01:00 AM,2019,07,14,01,67.3,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 02:00 AM,2019,07,14,02,54.6,148,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 03:00 AM,2019,07,14,03,71.8,159,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 04:00 AM,2019,07,14,04,72.4,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 05:00 AM,2019,07,14,05,56.2,151,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 06:00 AM,2019,07,14,06,47.1,130,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 07:00 AM,2019,07,14,07,38.5,108,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 08:00 AM,2019,07,14,08,36.7,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 09:00 AM,2019,07,14,09,33.8,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 10:00 AM,2019,07,14,10,34.4,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 11:00 AM,2019,07,14,11,32.2,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 12:00 PM,2019,07,14,12,30.1,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 01:00 PM,2019,07,14,13,25.5,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 02:00 PM,2019,07,14,14,25.7,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 03:00 PM,2019,07,14,15,25.8,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 04:00 PM,2019,07,14,16,39.4,111,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 05:00 PM,2019,07,14,17,32.7,94,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 06:00 PM,2019,07,14,18,28.3,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 07:00 PM,2019,07,14,19,32.6,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 08:00 PM,2019,07,14,20,36.8,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 09:00 PM,2019,07,14,21,51.9,141,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 10:00 PM,2019,07,14,22,47.9,132,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-14 11:00 PM,2019,07,14,23,47.4,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 12:00 AM,2019,07,15,00,56.2,151,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 01:00 AM,2019,07,15,01,55.6,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 02:00 AM,2019,07,15,02,58.3,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 03:00 AM,2019,07,15,03,63.6,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 04:00 AM,2019,07,15,04,47.3,130,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 05:00 AM,2019,07,15,05,37.6,106,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 06:00 AM,2019,07,15,06,31.8,92,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 07:00 AM,2019,07,15,07,28.9,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 08:00 AM,2019,07,15,08,29.4,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 09:00 AM,2019,07,15,09,39.2,110,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 10:00 AM,2019,07,15,10,31.6,92,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 11:00 AM,2019,07,15,11,33.3,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 12:00 PM,2019,07,15,12,32.1,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 01:00 PM,2019,07,15,13,33.5,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 02:00 PM,2019,07,15,14,39.7,111,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 03:00 PM,2019,07,15,15,33.8,97,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 04:00 PM,2019,07,15,16,31.9,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 05:00 PM,2019,07,15,17,29.4,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 06:00 PM,2019,07,15,18,31.2,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 07:00 PM,2019,07,15,19,33.1,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 08:00 PM,2019,07,15,20,33.0,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 09:00 PM,2019,07,15,21,29.1,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 10:00 PM,2019,07,15,22,32.8,95,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-15 11:00 PM,2019,07,15,23,50.5,138,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 12:00 AM,2019,07,16,00,41.2,115,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 01:00 AM,2019,07,16,01,45.1,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 02:00 AM,2019,07,16,02,35.5,101,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 03:00 AM,2019,07,16,03,42.7,119,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 04:00 AM,2019,07,16,04,33.8,97,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 05:00 AM,2019,07,16,05,35.9,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 06:00 AM,2019,07,16,06,35.9,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 07:00 AM,2019,07,16,07,29.9,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 08:00 AM,2019,07,16,08,29.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 09:00 AM,2019,07,16,09,28.2,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 10:00 AM,2019,07,16,10,26.6,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 11:00 AM,2019,07,16,11,57.3,152,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 12:00 PM,2019,07,16,12,64.6,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 01:00 PM,2019,07,16,13,98.3,173,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 02:00 PM,2019,07,16,14,116.1,182,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 03:00 PM,2019,07,16,15,115.0,182,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 04:00 PM,2019,07,16,16,97.0,172,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 05:00 PM,2019,07,16,17,72.0,160,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 06:00 PM,2019,07,16,18,57.0,152,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 07:00 PM,2019,07,16,19,57.5,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 08:00 PM,2019,07,16,20,54.7,148,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 09:00 PM,2019,07,16,21,54.8,149,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 10:00 PM,2019,07,16,22,72.4,160,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-16 11:00 PM,2019,07,16,23,106.2,177,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 12:00 AM,2019,07,17,00,93.1,170,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 01:00 AM,2019,07,17,01,99.0,173,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 02:00 AM,2019,07,17,02,82.5,165,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 03:00 AM,2019,07,17,03,57.2,152,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 04:00 AM,2019,07,17,04,34.1,97,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 05:00 AM,2019,07,17,05,28.5,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 06:00 AM,2019,07,17,06,26.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 07:00 AM,2019,07,17,07,24.1,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 08:00 AM,2019,07,17,08,25.0,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 09:00 AM,2019,07,17,09,26.0,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 10:00 AM,2019,07,17,10,26.0,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 11:00 AM,2019,07,17,11,27.4,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 12:00 PM,2019,07,17,12,27.2,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 01:00 PM,2019,07,17,13,30.1,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 02:00 PM,2019,07,17,14,47.5,131,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 03:00 PM,2019,07,17,15,62.7,155,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 04:00 PM,2019,07,17,16,82.4,165,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 05:00 PM,2019,07,17,17,77.2,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 06:00 PM,2019,07,17,18,54.6,148,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 07:00 PM,2019,07,17,19,40.8,114,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 08:00 PM,2019,07,17,20,54.9,149,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 09:00 PM,2019,07,17,21,61.9,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 10:00 PM,2019,07,17,22,73.9,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-17 11:00 PM,2019,07,17,23,67.4,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 12:00 AM,2019,07,18,00,48.2,132,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 01:00 AM,2019,07,18,01,46.6,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 02:00 AM,2019,07,18,02,39.3,110,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 03:00 AM,2019,07,18,03,35.6,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 04:00 AM,2019,07,18,04,32.8,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 05:00 AM,2019,07,18,05,30.9,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 06:00 AM,2019,07,18,06,31.4,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 07:00 AM,2019,07,18,07,32.7,94,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 08:00 AM,2019,07,18,08,32.3,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 09:00 AM,2019,07,18,09,30.6,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 10:00 AM,2019,07,18,10,34.3,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 11:00 AM,2019,07,18,11,33.7,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 12:00 PM,2019,07,18,12,39.4,111,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 01:00 PM,2019,07,18,13,133.5,191,Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 02:00 PM,2019,07,18,14,152.2,203,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 03:00 PM,2019,07,18,15,137.1,193,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 04:00 PM,2019,07,18,16,213.1,263,Very Unhealthy,289.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 05:00 PM,2019,07,18,17,191.0,241,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 06:00 PM,2019,07,18,18,133.5,191,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 07:00 PM,2019,07,18,19,117.7,183,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 08:00 PM,2019,07,18,20,107.8,178,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 09:00 PM,2019,07,18,21,96.4,172,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 10:00 PM,2019,07,18,22,72.2,160,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-18 11:00 PM,2019,07,18,23,61.6,154,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 12:00 AM,2019,07,19,00,82.8,165,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 01:00 AM,2019,07,19,01,102.8,175,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 02:00 AM,2019,07,19,02,90.4,169,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 03:00 AM,2019,07,19,03,83.7,166,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 04:00 AM,2019,07,19,04,85.8,167,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 05:00 AM,2019,07,19,05,63.4,155,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 06:00 AM,2019,07,19,06,53.1,144,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 07:00 AM,2019,07,19,07,48.0,132,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 08:00 AM,2019,07,19,08,83.0,165,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 09:00 AM,2019,07,19,09,87.0,167,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 10:00 AM,2019,07,19,10,70.0,158,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 11:00 AM,2019,07,19,11,88.0,168,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 12:00 PM,2019,07,19,12,135.5,192,Unhealthy,183.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 01:00 PM,2019,07,19,13,274.2,324,Hazardous,413.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 02:00 PM,2019,07,19,14,377.6,419,Hazardous,481.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 03:00 PM,2019,07,19,15,379.8,420,Hazardous,382.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 04:00 PM,2019,07,19,16,345.9,396,Hazardous,312.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 05:00 PM,2019,07,19,17,302.5,353,Hazardous,259.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 06:00 PM,2019,07,19,18,226.7,277,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 07:00 PM,2019,07,19,19,185.3,235,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 08:00 PM,2019,07,19,20,158.2,209,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 09:00 PM,2019,07,19,21,150.6,201,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 10:00 PM,2019,07,19,22,136.8,193,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-19 11:00 PM,2019,07,19,23,99.9,174,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 12:00 AM,2019,07,20,00,74.4,161,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 01:00 AM,2019,07,20,01,57.1,152,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 02:00 AM,2019,07,20,02,45.5,126,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 03:00 AM,2019,07,20,03,33.7,96,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 04:00 AM,2019,07,20,04,29.8,88,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 05:00 AM,2019,07,20,05,26.3,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 06:00 AM,2019,07,20,06,25.6,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 07:00 AM,2019,07,20,07,26.3,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 08:00 AM,2019,07,20,08,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 09:00 AM,2019,07,20,09,28.3,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 10:00 AM,2019,07,20,10,31.1,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 11:00 AM,2019,07,20,11,32.0,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 12:00 PM,2019,07,20,12,33.6,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 01:00 PM,2019,07,20,13,31.1,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 02:00 PM,2019,07,20,14,30.2,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 03:00 PM,2019,07,20,15,29.8,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 04:00 PM,2019,07,20,16,33.0,95,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 05:00 PM,2019,07,20,17,29.0,87,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 06:00 PM,2019,07,20,18,27.0,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 07:00 PM,2019,07,20,19,27.0,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 08:00 PM,2019,07,20,20,27.4,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 09:00 PM,2019,07,20,21,30.0,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 10:00 PM,2019,07,20,22,31.5,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-20 11:00 PM,2019,07,20,23,35.9,102,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 12:00 AM,2019,07,21,00,31.9,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 01:00 AM,2019,07,21,01,33.3,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 02:00 AM,2019,07,21,02,31.8,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 03:00 AM,2019,07,21,03,30.6,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 04:00 AM,2019,07,21,04,28.1,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 05:00 AM,2019,07,21,05,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 06:00 AM,2019,07,21,06,28.3,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 07:00 AM,2019,07,21,07,29.3,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 08:00 AM,2019,07,21,08,28.0,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 09:00 AM,2019,07,21,09,27.2,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 10:00 AM,2019,07,21,10,24.0,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 11:00 AM,2019,07,21,11,24.0,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 12:00 PM,2019,07,21,12,24.4,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 01:00 PM,2019,07,21,13,25.4,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 02:00 PM,2019,07,21,14,24.2,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 03:00 PM,2019,07,21,15,23.8,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 04:00 PM,2019,07,21,16,23.2,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 05:00 PM,2019,07,21,17,24.1,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 06:00 PM,2019,07,21,18,25.7,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 07:00 PM,2019,07,21,19,27.9,84,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 08:00 PM,2019,07,21,20,29.3,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 09:00 PM,2019,07,21,21,29.5,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 10:00 PM,2019,07,21,22,31.2,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-21 11:00 PM,2019,07,21,23,33.8,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 12:00 AM,2019,07,22,00,34.2,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 01:00 AM,2019,07,22,01,32.5,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 02:00 AM,2019,07,22,02,31.5,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 03:00 AM,2019,07,22,03,30.5,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 04:00 AM,2019,07,22,04,31.2,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 05:00 AM,2019,07,22,05,29.7,88,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 06:00 AM,2019,07,22,06,30.1,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 07:00 AM,2019,07,22,07,30.3,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 08:00 AM,2019,07,22,08,30.2,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 09:00 AM,2019,07,22,09,30.1,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 10:00 AM,2019,07,22,10,30.4,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 11:00 AM,2019,07,22,11,29.9,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 12:00 PM,2019,07,22,12,29.3,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 01:00 PM,2019,07,22,13,29.4,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 02:00 PM,2019,07,22,14,29.3,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 03:00 PM,2019,07,22,15,30.4,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 04:00 PM,2019,07,22,16,29.8,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 05:00 PM,2019,07,22,17,29.2,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 06:00 PM,2019,07,22,18,28.7,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 07:00 PM,2019,07,22,19,27.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 08:00 PM,2019,07,22,20,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 09:00 PM,2019,07,22,21,28.9,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 10:00 PM,2019,07,22,22,29.9,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-22 11:00 PM,2019,07,22,23,30.4,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 12:00 AM,2019,07,23,00,30.1,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 01:00 AM,2019,07,23,01,30.3,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 02:00 AM,2019,07,23,02,30.0,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 03:00 AM,2019,07,23,03,26.7,82,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 04:00 AM,2019,07,23,04,26.4,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 05:00 AM,2019,07,23,05,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 06:00 AM,2019,07,23,06,28.6,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 07:00 AM,2019,07,23,07,28.3,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 08:00 AM,2019,07,23,08,30.5,90,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 09:00 AM,2019,07,23,09,35.9,102,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 10:00 AM,2019,07,23,10,35.5,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 11:00 AM,2019,07,23,11,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 12:00 PM,2019,07,23,12,41.8,117,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 01:00 PM,2019,07,23,13,43.9,122,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 02:00 PM,2019,07,23,14,43.4,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 03:00 PM,2019,07,23,15,42.7,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 04:00 PM,2019,07,23,16,40.1,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 05:00 PM,2019,07,23,17,37.5,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 06:00 PM,2019,07,23,18,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 07:00 PM,2019,07,23,19,33.5,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 08:00 PM,2019,07,23,20,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 09:00 PM,2019,07,23,21,32.9,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 10:00 PM,2019,07,23,22,32.5,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-23 11:00 PM,2019,07,23,23,34.0,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 12:00 AM,2019,07,24,00,37.1,105,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 01:00 AM,2019,07,24,01,44.3,123,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 02:00 AM,2019,07,24,02,37.2,105,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 03:00 AM,2019,07,24,03,37.1,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 04:00 AM,2019,07,24,04,34.2,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 05:00 AM,2019,07,24,05,34.6,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 06:00 AM,2019,07,24,06,38.9,109,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 07:00 AM,2019,07,24,07,42.4,118,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 08:00 AM,2019,07,24,08,44.0,122,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 09:00 AM,2019,07,24,09,44.4,123,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 10:00 AM,2019,07,24,10,41.1,115,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 11:00 AM,2019,07,24,11,41.9,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 12:00 PM,2019,07,24,12,51.9,141,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 01:00 PM,2019,07,24,13,41.9,117,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 02:00 PM,2019,07,24,14,37.9,107,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 03:00 PM,2019,07,24,15,38.4,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 04:00 PM,2019,07,24,16,41.2,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 05:00 PM,2019,07,24,17,40.6,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 06:00 PM,2019,07,24,18,38.8,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 07:00 PM,2019,07,24,19,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 08:00 PM,2019,07,24,20,36.5,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 09:00 PM,2019,07,24,21,37.7,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 10:00 PM,2019,07,24,22,34.3,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-24 11:00 PM,2019,07,24,23,32.1,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 12:00 AM,2019,07,25,00,33.4,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 01:00 AM,2019,07,25,01,37.7,106,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 02:00 AM,2019,07,25,02,37.1,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 03:00 AM,2019,07,25,03,40.2,113,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 04:00 AM,2019,07,25,04,41.5,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 05:00 AM,2019,07,25,05,43.6,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 06:00 AM,2019,07,25,06,43.7,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 07:00 AM,2019,07,25,07,45.9,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 08:00 AM,2019,07,25,08,47.1,130,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 09:00 AM,2019,07,25,09,45.9,127,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 10:00 AM,2019,07,25,10,46.3,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 11:00 AM,2019,07,25,11,46.8,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 12:00 PM,2019,07,25,12,46.2,127,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 01:00 PM,2019,07,25,13,44.5,123,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 02:00 PM,2019,07,25,14,43.2,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 03:00 PM,2019,07,25,15,43.1,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 04:00 PM,2019,07,25,16,44.2,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 05:00 PM,2019,07,25,17,43.2,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 06:00 PM,2019,07,25,18,41.5,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 07:00 PM,2019,07,25,19,38.2,108,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 08:00 PM,2019,07,25,20,31.8,92,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 09:00 PM,2019,07,25,21,29.1,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 10:00 PM,2019,07,25,22,29.5,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-25 11:00 PM,2019,07,25,23,32.4,94,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 12:00 AM,2019,07,26,00,34.0,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 01:00 AM,2019,07,26,01,36.3,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 02:00 AM,2019,07,26,02,33.8,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 03:00 AM,2019,07,26,03,33.0,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 04:00 AM,2019,07,26,04,30.6,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 05:00 AM,2019,07,26,05,29.4,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 06:00 AM,2019,07,26,06,26.4,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 07:00 AM,2019,07,26,07,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 08:00 AM,2019,07,26,08,23.9,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 09:00 AM,2019,07,26,09,23.9,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 10:00 AM,2019,07,26,10,23.9,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 11:00 AM,2019,07,26,11,29.0,87,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 12:00 PM,2019,07,26,12,49.2,135,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 01:00 PM,2019,07,26,13,78.6,163,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 02:00 PM,2019,07,26,14,122.8,186,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 03:00 PM,2019,07,26,15,144.4,197,Unhealthy,166.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 04:00 PM,2019,07,26,16,156.2,207,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 05:00 PM,2019,07,26,17,139.6,194,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 06:00 PM,2019,07,26,18,125.8,187,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 07:00 PM,2019,07,26,19,116.4,182,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 08:00 PM,2019,07,26,20,103.7,176,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 09:00 PM,2019,07,26,21,104.8,176,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 10:00 PM,2019,07,26,22,115.9,182,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-26 11:00 PM,2019,07,26,23,106.9,178,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 12:00 AM,2019,07,27,00,104.5,176,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 01:00 AM,2019,07,27,01,89.9,169,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 02:00 AM,2019,07,27,02,62.4,155,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 03:00 AM,2019,07,27,03,57.2,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 04:00 AM,2019,07,27,04,45.0,124,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 05:00 AM,2019,07,27,05,37.5,106,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 06:00 AM,2019,07,27,06,35.7,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 07:00 AM,2019,07,27,07,35.3,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 08:00 AM,2019,07,27,08,34.1,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 09:00 AM,2019,07,27,09,34.0,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 10:00 AM,2019,07,27,10,33.5,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 11:00 AM,2019,07,27,11,31.7,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 12:00 PM,2019,07,27,12,28.8,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 01:00 PM,2019,07,27,13,30.4,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 02:00 PM,2019,07,27,14,29.2,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 03:00 PM,2019,07,27,15,29.6,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 04:00 PM,2019,07,27,16,31.0,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 05:00 PM,2019,07,27,17,34.8,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 06:00 PM,2019,07,27,18,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 07:00 PM,2019,07,27,19,36.3,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 08:00 PM,2019,07,27,20,39.7,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 09:00 PM,2019,07,27,21,41.4,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 10:00 PM,2019,07,27,22,42.5,118,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-27 11:00 PM,2019,07,27,23,41.9,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 12:00 AM,2019,07,28,00,42.5,118,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 01:00 AM,2019,07,28,01,48.3,133,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 02:00 AM,2019,07,28,02,47.1,130,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 03:00 AM,2019,07,28,03,45.9,127,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 04:00 AM,2019,07,28,04,43.8,121,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 05:00 AM,2019,07,28,05,40.1,112,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 06:00 AM,2019,07,28,06,50.0,137,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 07:00 AM,2019,07,28,07,66.8,157,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 08:00 AM,2019,07,28,08,52.4,143,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 09:00 AM,2019,07,28,09,62.2,154,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 10:00 AM,2019,07,28,10,62.1,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 11:00 AM,2019,07,28,11,59.0,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 12:00 PM,2019,07,28,12,53.5,145,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 01:00 PM,2019,07,28,13,47.2,130,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 02:00 PM,2019,07,28,14,40.6,114,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 03:00 PM,2019,07,28,15,39.8,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 04:00 PM,2019,07,28,16,38.4,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 05:00 PM,2019,07,28,17,37.7,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 06:00 PM,2019,07,28,18,34.8,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 07:00 PM,2019,07,28,19,37.4,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 08:00 PM,2019,07,28,20,36.2,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 09:00 PM,2019,07,28,21,37.5,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 10:00 PM,2019,07,28,22,35.5,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-28 11:00 PM,2019,07,28,23,33.5,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 12:00 AM,2019,07,29,00,33.9,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 01:00 AM,2019,07,29,01,36.5,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 02:00 AM,2019,07,29,02,50.9,139,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 03:00 AM,2019,07,29,03,55.4,150,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 04:00 AM,2019,07,29,04,60.7,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 05:00 AM,2019,07,29,05,61.3,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 06:00 AM,2019,07,29,06,55.1,149,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 07:00 AM,2019,07,29,07,59.5,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 08:00 AM,2019,07,29,08,55.8,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 09:00 AM,2019,07,29,09,54.4,148,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 10:00 AM,2019,07,29,10,57.2,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 11:00 AM,2019,07,29,11,51.1,139,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 12:00 PM,2019,07,29,12,46.0,127,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 01:00 PM,2019,07,29,13,50.6,138,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 02:00 PM,2019,07,29,14,49.5,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 03:00 PM,2019,07,29,15,56.5,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 04:00 PM,2019,07,29,16,55.8,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 05:00 PM,2019,07,29,17,52.5,143,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 06:00 PM,2019,07,29,18,53.1,144,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 07:00 PM,2019,07,29,19,52.2,142,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 08:00 PM,2019,07,29,20,49.1,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 09:00 PM,2019,07,29,21,49.9,136,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 10:00 PM,2019,07,29,22,45.7,126,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-29 11:00 PM,2019,07,29,23,48.3,133,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 12:00 AM,2019,07,30,00,50.2,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 01:00 AM,2019,07,30,01,55.6,151,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 02:00 AM,2019,07,30,02,56.1,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 03:00 AM,2019,07,30,03,57.4,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 04:00 AM,2019,07,30,04,60.4,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 05:00 AM,2019,07,30,05,61.8,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 06:00 AM,2019,07,30,06,69.6,158,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 07:00 AM,2019,07,30,07,71.2,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 08:00 AM,2019,07,30,08,60.0,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 09:00 AM,2019,07,30,09,59.5,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 10:00 AM,2019,07,30,10,60.7,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 11:00 AM,2019,07,30,11,57.8,152,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 12:00 PM,2019,07,30,12,50.8,139,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 01:00 PM,2019,07,30,13,48.7,134,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 02:00 PM,2019,07,30,14,56.3,151,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 03:00 PM,2019,07,30,15,51.7,141,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 04:00 PM,2019,07,30,16,50.1,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 05:00 PM,2019,07,30,17,55.7,151,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 06:00 PM,2019,07,30,18,54.8,149,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 07:00 PM,2019,07,30,19,56.8,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 08:00 PM,2019,07,30,20,58.6,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 09:00 PM,2019,07,30,21,59.8,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 10:00 PM,2019,07,30,22,59.5,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-30 11:00 PM,2019,07,30,23,57.9,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 12:00 AM,2019,07,31,00,87.7,168,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 01:00 AM,2019,07,31,01,106.3,177,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 02:00 AM,2019,07,31,02,112.2,180,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 03:00 AM,2019,07,31,03,104.6,176,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 04:00 AM,2019,07,31,04,98.3,173,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 05:00 AM,2019,07,31,05,95.6,172,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 06:00 AM,2019,07,31,06,86.8,167,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 07:00 AM,2019,07,31,07,75.4,161,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 08:00 AM,2019,07,31,08,64.7,156,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 09:00 AM,2019,07,31,09,54.3,147,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 10:00 AM,2019,07,31,10,46.6,128,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 11:00 AM,2019,07,31,11,43.8,121,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 12:00 PM,2019,07,31,12,36.9,104,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 01:00 PM,2019,07,31,13,34.4,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 02:00 PM,2019,07,31,14,33.2,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 03:00 PM,2019,07,31,15,32.0,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 04:00 PM,2019,07,31,16,31.5,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 05:00 PM,2019,07,31,17,29.7,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 06:00 PM,2019,07,31,18,29.3,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 07:00 PM,2019,07,31,19,30.1,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 08:00 PM,2019,07,31,20,29.4,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 09:00 PM,2019,07,31,21,31.6,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 10:00 PM,2019,07,31,22,40.7,114,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-07-31 11:00 PM,2019,07,31,23,44.0,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2019-08-01 12:00 AM,2019,08,01,00,41.7,116,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dhaka,PM2.5 - Principal,2023-06-01 01:00 AM,2023,06,01,01,95.7,172,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 02:00 AM,2023,06,01,02,88.0,168,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 03:00 AM,2023,06,01,03,84.1,166,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 04:00 AM,2023,06,01,04,82.1,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 05:00 AM,2023,06,01,05,75.4,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 06:00 AM,2023,06,01,06,69.2,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 07:00 AM,2023,06,01,07,77.6,162,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 08:00 AM,2023,06,01,08,70.3,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 09:00 AM,2023,06,01,09,70.1,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 10:00 AM,2023,06,01,10,70.0,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 11:00 AM,2023,06,01,11,70.6,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 12:00 PM,2023,06,01,12,69.7,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 01:00 PM,2023,06,01,13,68.9,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 02:00 PM,2023,06,01,14,68.3,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 03:00 PM,2023,06,01,15,68.7,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 04:00 PM,2023,06,01,16,72.0,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 05:00 PM,2023,06,01,17,73.3,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 06:00 PM,2023,06,01,18,74.4,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 07:00 PM,2023,06,01,19,75.2,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 08:00 PM,2023,06,01,20,74.2,161,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 09:00 PM,2023,06,01,21,75.1,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 10:00 PM,2023,06,01,22,75.7,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-01 11:00 PM,2023,06,01,23,74.9,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 12:00 AM,2023,06,02,00,70.5,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 01:00 AM,2023,06,02,01,69.0,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 02:00 AM,2023,06,02,02,67.6,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 03:00 AM,2023,06,02,03,67.4,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 04:00 AM,2023,06,02,04,64.1,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 05:00 AM,2023,06,02,05,81.6,164,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 06:00 AM,2023,06,02,06,100.6,174,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 07:00 AM,2023,06,02,07,90.3,169,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 08:00 AM,2023,06,02,08,77.6,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 09:00 AM,2023,06,02,09,69.8,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 10:00 AM,2023,06,02,10,69.9,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 11:00 AM,2023,06,02,11,69.4,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 12:00 PM,2023,06,02,12,67.2,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 01:00 PM,2023,06,02,13,68.6,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 02:00 PM,2023,06,02,14,69.3,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 03:00 PM,2023,06,02,15,69.6,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 04:00 PM,2023,06,02,16,70.2,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 05:00 PM,2023,06,02,17,72.0,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 06:00 PM,2023,06,02,18,71.3,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 07:00 PM,2023,06,02,19,71.1,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 08:00 PM,2023,06,02,20,71.0,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 09:00 PM,2023,06,02,21,72.0,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 10:00 PM,2023,06,02,22,68.2,158,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-02 11:00 PM,2023,06,02,23,66.0,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 12:00 AM,2023,06,03,00,63.8,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 01:00 AM,2023,06,03,01,61.6,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 02:00 AM,2023,06,03,02,61.4,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 03:00 AM,2023,06,03,03,57.9,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 04:00 AM,2023,06,03,04,57.9,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 05:00 AM,2023,06,03,05,56.9,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 06:00 AM,2023,06,03,06,54.3,147,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 07:00 AM,2023,06,03,07,53.5,145,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 08:00 AM,2023,06,03,08,56.0,151,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 09:00 AM,2023,06,03,09,56.6,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 10:00 AM,2023,06,03,10,60.8,154,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 11:00 AM,2023,06,03,11,62.6,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 12:00 PM,2023,06,03,12,65.2,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 01:00 PM,2023,06,03,13,68.0,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 02:00 PM,2023,06,03,14,68.9,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 03:00 PM,2023,06,03,15,70.0,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 04:00 PM,2023,06,03,16,72.3,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 05:00 PM,2023,06,03,17,75.4,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 06:00 PM,2023,06,03,18,76.5,162,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 07:00 PM,2023,06,03,19,78.1,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 08:00 PM,2023,06,03,20,96.4,172,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 09:00 PM,2023,06,03,21,85.8,167,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 10:00 PM,2023,06,03,22,79.7,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-03 11:00 PM,2023,06,03,23,73.8,160,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 12:00 AM,2023,06,04,00,70.5,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 01:00 AM,2023,06,04,01,61.5,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 02:00 AM,2023,06,04,02,78.2,163,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 03:00 AM,2023,06,04,03,64.6,156,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 04:00 AM,2023,06,04,04,60.3,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 05:00 AM,2023,06,04,05,58.6,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 06:00 AM,2023,06,04,06,57.8,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 07:00 AM,2023,06,04,07,59.9,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 08:00 AM,2023,06,04,08,59.0,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 09:00 AM,2023,06,04,09,65.0,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 10:00 AM,2023,06,04,10,63.1,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 11:00 AM,2023,06,04,11,60.3,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 12:00 PM,2023,06,04,12,57.8,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 01:00 PM,2023,06,04,13,61.6,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 02:00 PM,2023,06,04,14,59.5,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 03:00 PM,2023,06,04,15,59.2,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 04:00 PM,2023,06,04,16,59.0,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 05:00 PM,2023,06,04,17,59.5,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 06:00 PM,2023,06,04,18,60.8,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 07:00 PM,2023,06,04,19,69.7,158,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 08:00 PM,2023,06,04,20,100.8,174,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 09:00 PM,2023,06,04,21,129.4,189,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 10:00 PM,2023,06,04,22,117.2,183,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-04 11:00 PM,2023,06,04,23,96.1,172,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 12:00 AM,2023,06,05,00,103.0,176,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 01:00 AM,2023,06,05,01,86.0,167,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 02:00 AM,2023,06,05,02,78.5,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 03:00 AM,2023,06,05,03,79.7,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 04:00 AM,2023,06,05,04,70.3,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 05:00 AM,2023,06,05,05,64.1,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 06:00 AM,2023,06,05,06,60.5,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 07:00 AM,2023,06,05,07,61.7,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 08:00 AM,2023,06,05,08,64.8,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 09:00 AM,2023,06,05,09,66.8,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 10:00 AM,2023,06,05,10,69.3,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 11:00 AM,2023,06,05,11,68.1,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 12:00 PM,2023,06,05,12,69.1,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 01:00 PM,2023,06,05,13,70.9,159,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 02:00 PM,2023,06,05,14,73.9,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 03:00 PM,2023,06,05,15,79.5,163,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 04:00 PM,2023,06,05,16,79.7,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 05:00 PM,2023,06,05,17,78.7,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 06:00 PM,2023,06,05,18,76.8,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 07:00 PM,2023,06,05,19,74.0,161,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 08:00 PM,2023,06,05,20,74.6,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 09:00 PM,2023,06,05,21,77.0,162,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 10:00 PM,2023,06,05,22,81.5,164,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-05 11:00 PM,2023,06,05,23,86.4,167,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 12:00 AM,2023,06,06,00,115.8,182,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 01:00 AM,2023,06,06,01,120.9,185,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 02:00 AM,2023,06,06,02,108.9,179,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 03:00 AM,2023,06,06,03,89.4,169,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 04:00 AM,2023,06,06,04,77.7,162,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 05:00 AM,2023,06,06,05,69.3,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 06:00 AM,2023,06,06,06,61.6,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 07:00 AM,2023,06,06,07,59.3,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 08:00 AM,2023,06,06,08,57.1,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 09:00 AM,2023,06,06,09,63.5,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 10:00 AM,2023,06,06,10,70.7,159,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 11:00 AM,2023,06,06,11,71.3,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 12:00 PM,2023,06,06,12,70.1,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 01:00 PM,2023,06,06,13,69.5,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 02:00 PM,2023,06,06,14,68.8,158,Unhealthy,-15.0,UG/M3,1 Hr,Invalid
+Dhaka,PM2.5 - Principal,2023-06-06 03:00 PM,2023,06,06,15,69.2,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 04:00 PM,2023,06,06,16,72.1,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 05:00 PM,2023,06,06,17,73.1,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 06:00 PM,2023,06,06,18,74.0,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 07:00 PM,2023,06,06,19,78.9,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 08:00 PM,2023,06,06,20,82.8,165,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 09:00 PM,2023,06,06,21,89.5,169,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 10:00 PM,2023,06,06,22,98.9,173,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-06 11:00 PM,2023,06,06,23,136.9,193,Unhealthy,171.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 12:00 AM,2023,06,07,00,153.4,204,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 01:00 AM,2023,06,07,01,144.2,197,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 02:00 AM,2023,06,07,02,133.1,191,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 03:00 AM,2023,06,07,03,102.0,175,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 04:00 AM,2023,06,07,04,85.0,166,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 05:00 AM,2023,06,07,05,77.5,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 06:00 AM,2023,06,07,06,85.2,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 07:00 AM,2023,06,07,07,76.1,162,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 08:00 AM,2023,06,07,08,76.5,162,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 09:00 AM,2023,06,07,09,68.7,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 10:00 AM,2023,06,07,10,70.8,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 11:00 AM,2023,06,07,11,70.9,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 12:00 PM,2023,06,07,12,71.4,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 01:00 PM,2023,06,07,13,77.2,162,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 02:00 PM,2023,06,07,14,78.4,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 03:00 PM,2023,06,07,15,76.9,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 04:00 PM,2023,06,07,16,77.9,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 05:00 PM,2023,06,07,17,85.1,166,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 06:00 PM,2023,06,07,18,88.8,168,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 07:00 PM,2023,06,07,19,91.9,170,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 08:00 PM,2023,06,07,20,94.8,171,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 09:00 PM,2023,06,07,21,100.9,174,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 10:00 PM,2023,06,07,22,97.3,173,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-07 11:00 PM,2023,06,07,23,131.3,190,Unhealthy,165.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 12:00 AM,2023,06,08,00,97.1,172,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 01:00 AM,2023,06,08,01,104.5,176,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 02:00 AM,2023,06,08,02,83.2,165,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 03:00 AM,2023,06,08,03,88.1,168,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 04:00 AM,2023,06,08,04,81.5,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 05:00 AM,2023,06,08,05,70.2,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 06:00 AM,2023,06,08,06,70.6,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 07:00 AM,2023,06,08,07,82.3,165,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 08:00 AM,2023,06,08,08,80.1,164,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 09:00 AM,2023,06,08,09,80.0,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 10:00 AM,2023,06,08,10,81.0,164,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 11:00 AM,2023,06,08,11,86.6,167,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 12:00 PM,2023,06,08,12,94.8,171,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 01:00 PM,2023,06,08,13,100.5,174,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 02:00 PM,2023,06,08,14,116.3,182,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 03:00 PM,2023,06,08,15,104.6,176,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 04:00 PM,2023,06,08,16,95.3,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 05:00 PM,2023,06,08,17,58.1,152,Unhealthy,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 06:00 PM,2023,06,08,18,42.0,117,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 07:00 PM,2023,06,08,19,46.0,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 08:00 PM,2023,06,08,20,61.5,154,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 09:00 PM,2023,06,08,21,73.2,160,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 10:00 PM,2023,06,08,22,76.6,162,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-08 11:00 PM,2023,06,08,23,127.3,188,Unhealthy,178.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 12:00 AM,2023,06,09,00,135.1,192,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 01:00 AM,2023,06,09,01,118.0,183,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 02:00 AM,2023,06,09,02,98.0,173,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 03:00 AM,2023,06,09,03,72.5,160,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 04:00 AM,2023,06,09,04,78.7,163,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 05:00 AM,2023,06,09,05,86.8,167,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 06:00 AM,2023,06,09,06,79.4,163,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 07:00 AM,2023,06,09,07,69.7,158,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 08:00 AM,2023,06,09,08,58.3,152,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 09:00 AM,2023,06,09,09,56.6,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 10:00 AM,2023,06,09,10,66.3,157,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 11:00 AM,2023,06,09,11,74.1,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 12:00 PM,2023,06,09,12,65.0,156,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 01:00 PM,2023,06,09,13,62.0,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 02:00 PM,2023,06,09,14,66.5,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 03:00 PM,2023,06,09,15,48.7,134,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 04:00 PM,2023,06,09,16,43.3,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 05:00 PM,2023,06,09,17,43.6,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 06:00 PM,2023,06,09,18,45.3,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 07:00 PM,2023,06,09,19,62.6,155,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 08:00 PM,2023,06,09,20,66.3,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 09:00 PM,2023,06,09,21,59.1,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 10:00 PM,2023,06,09,22,57.0,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-09 11:00 PM,2023,06,09,23,53.0,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 12:00 AM,2023,06,10,00,99.0,173,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 01:00 AM,2023,06,10,01,119.5,184,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 02:00 AM,2023,06,10,02,106.7,177,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 03:00 AM,2023,06,10,03,90.3,169,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 04:00 AM,2023,06,10,04,86.1,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 05:00 AM,2023,06,10,05,102.6,175,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 06:00 AM,2023,06,10,06,88.8,168,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 07:00 AM,2023,06,10,07,83.9,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 08:00 AM,2023,06,10,08,73.9,161,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 09:00 AM,2023,06,10,09,65.4,156,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 10:00 AM,2023,06,10,10,58.7,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 11:00 AM,2023,06,10,11,57.3,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 12:00 PM,2023,06,10,12,50.6,138,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 01:00 PM,2023,06,10,13,48.3,133,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 02:00 PM,2023,06,10,14,37.6,106,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 03:00 PM,2023,06,10,15,53.8,146,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 04:00 PM,2023,06,10,16,83.9,166,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 05:00 PM,2023,06,10,17,71.4,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 06:00 PM,2023,06,10,18,69.2,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 07:00 PM,2023,06,10,19,54.1,147,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 08:00 PM,2023,06,10,20,44.0,122,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 09:00 PM,2023,06,10,21,35.5,101,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 10:00 PM,2023,06,10,22,31.2,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-10 11:00 PM,2023,06,10,23,24.6,77,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 12:00 AM,2023,06,11,00,21.8,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 01:00 AM,2023,06,11,01,19.9,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 02:00 AM,2023,06,11,02,38.9,109,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 03:00 AM,2023,06,11,03,53.9,146,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 04:00 AM,2023,06,11,04,54.9,149,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 05:00 AM,2023,06,11,05,64.4,156,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 06:00 AM,2023,06,11,06,58.7,153,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 07:00 AM,2023,06,11,07,52.8,144,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 08:00 AM,2023,06,11,08,111.4,180,Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 09:00 AM,2023,06,11,09,106.7,177,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 10:00 AM,2023,06,11,10,84.3,166,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 11:00 AM,2023,06,11,11,60.6,154,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 12:00 PM,2023,06,11,12,48.3,133,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 01:00 PM,2023,06,11,13,41.1,115,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 02:00 PM,2023,06,11,14,42.5,118,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 03:00 PM,2023,06,11,15,48.7,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 04:00 PM,2023,06,11,16,49.3,135,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 05:00 PM,2023,06,11,17,50.1,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 06:00 PM,2023,06,11,18,50.0,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 07:00 PM,2023,06,11,19,58.0,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 08:00 PM,2023,06,11,20,65.5,156,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 09:00 PM,2023,06,11,21,59.7,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 10:00 PM,2023,06,11,22,62.8,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-11 11:00 PM,2023,06,11,23,77.9,163,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 12:00 AM,2023,06,12,00,92.9,170,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 01:00 AM,2023,06,12,01,86.9,167,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 02:00 AM,2023,06,12,02,71.4,159,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 03:00 AM,2023,06,12,03,66.2,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 04:00 AM,2023,06,12,04,71.6,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 05:00 AM,2023,06,12,05,71.8,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 06:00 AM,2023,06,12,06,78.4,163,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 07:00 AM,2023,06,12,07,64.2,155,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 08:00 AM,2023,06,12,08,85.6,167,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 09:00 AM,2023,06,12,09,79.8,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 10:00 AM,2023,06,12,10,66.4,157,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 11:00 AM,2023,06,12,11,65.6,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 12:00 PM,2023,06,12,12,48.3,133,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 01:00 PM,2023,06,12,13,35.6,101,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 02:00 PM,2023,06,12,14,48.3,133,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 03:00 PM,2023,06,12,15,69.1,158,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 04:00 PM,2023,06,12,16,58.0,152,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 05:00 PM,2023,06,12,17,57.0,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 06:00 PM,2023,06,12,18,63.0,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 07:00 PM,2023,06,12,19,75.0,161,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 08:00 PM,2023,06,12,20,85.5,166,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 09:00 PM,2023,06,12,21,95.2,171,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 10:00 PM,2023,06,12,22,88.1,168,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-12 11:00 PM,2023,06,12,23,111.0,180,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 12:00 AM,2023,06,13,00,133.5,191,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 01:00 AM,2023,06,13,01,101.7,175,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 02:00 AM,2023,06,13,02,79.3,163,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 03:00 AM,2023,06,13,03,68.6,158,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 04:00 AM,2023,06,13,04,67.8,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 05:00 AM,2023,06,13,05,89.4,169,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 06:00 AM,2023,06,13,06,92.2,170,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 07:00 AM,2023,06,13,07,125.6,187,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 08:00 AM,2023,06,13,08,121.8,185,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 09:00 AM,2023,06,13,09,148.4,199,Unhealthy,175.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 10:00 AM,2023,06,13,10,133.2,191,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 11:00 AM,2023,06,13,11,99.0,173,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 12:00 PM,2023,06,13,12,76.0,162,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 01:00 PM,2023,06,13,13,67.5,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 02:00 PM,2023,06,13,14,60.2,153,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 03:00 PM,2023,06,13,15,60.1,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 04:00 PM,2023,06,13,16,53.5,145,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 05:00 PM,2023,06,13,17,51.2,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 06:00 PM,2023,06,13,18,68.1,158,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 07:00 PM,2023,06,13,19,65.5,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 08:00 PM,2023,06,13,20,57.2,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 09:00 PM,2023,06,13,21,64.1,155,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 10:00 PM,2023,06,13,22,53.6,146,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-13 11:00 PM,2023,06,13,23,52.3,142,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 12:00 AM,2023,06,14,00,52.6,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 01:00 AM,2023,06,14,01,57.2,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 02:00 AM,2023,06,14,02,48.6,133,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 03:00 AM,2023,06,14,03,50.3,137,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 04:00 AM,2023,06,14,04,53.1,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 05:00 AM,2023,06,14,05,57.5,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 06:00 AM,2023,06,14,06,59.5,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 07:00 AM,2023,06,14,07,64.1,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 08:00 AM,2023,06,14,08,72.5,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 09:00 AM,2023,06,14,09,69.7,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 10:00 AM,2023,06,14,10,61.3,154,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 11:00 AM,2023,06,14,11,57.6,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 12:00 PM,2023,06,14,12,56.3,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 01:00 PM,2023,06,14,13,56.6,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 02:00 PM,2023,06,14,14,58.5,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 03:00 PM,2023,06,14,15,58.7,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 04:00 PM,2023,06,14,16,58.8,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 05:00 PM,2023,06,14,17,60.2,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 06:00 PM,2023,06,14,18,61.5,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 07:00 PM,2023,06,14,19,57.7,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 08:00 PM,2023,06,14,20,56.6,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 09:00 PM,2023,06,14,21,54.2,147,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 10:00 PM,2023,06,14,22,54.4,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-14 11:00 PM,2023,06,14,23,56.6,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 12:00 AM,2023,06,15,00,64.6,156,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 01:00 AM,2023,06,15,01,54.0,147,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 02:00 AM,2023,06,15,02,46.5,128,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 03:00 AM,2023,06,15,03,66.6,157,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 04:00 AM,2023,06,15,04,53.8,146,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 05:00 AM,2023,06,15,05,62.4,155,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 06:00 AM,2023,06,15,06,55.7,151,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 07:00 AM,2023,06,15,07,79.8,164,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 08:00 AM,2023,06,15,08,92.4,170,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 09:00 AM,2023,06,15,09,78.7,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 10:00 AM,2023,06,15,10,56.8,152,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 11:00 AM,2023,06,15,11,43.9,122,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 12:00 PM,2023,06,15,12,37.4,106,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 01:00 PM,2023,06,15,13,38.2,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 02:00 PM,2023,06,15,14,38.6,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 03:00 PM,2023,06,15,15,39.3,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 04:00 PM,2023,06,15,16,41.1,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 05:00 PM,2023,06,15,17,41.0,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 06:00 PM,2023,06,15,18,51.5,140,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 07:00 PM,2023,06,15,19,48.2,132,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 08:00 PM,2023,06,15,20,43.6,121,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 09:00 PM,2023,06,15,21,47.3,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 10:00 PM,2023,06,15,22,48.1,132,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-15 11:00 PM,2023,06,15,23,42.5,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 12:00 AM,2023,06,16,00,40.8,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 01:00 AM,2023,06,16,01,42.5,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 02:00 AM,2023,06,16,02,40.6,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 03:00 AM,2023,06,16,03,51.0,139,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 04:00 AM,2023,06,16,04,62.5,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 05:00 AM,2023,06,16,05,65.2,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 06:00 AM,2023,06,16,06,56.7,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 07:00 AM,2023,06,16,07,59.3,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 08:00 AM,2023,06,16,08,79.1,163,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 09:00 AM,2023,06,16,09,58.0,152,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 10:00 AM,2023,06,16,10,49.0,134,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 11:00 AM,2023,06,16,11,46.0,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 12:00 PM,2023,06,16,12,45.5,126,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 01:00 PM,2023,06,16,13,46.7,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 02:00 PM,2023,06,16,14,47.8,131,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 03:00 PM,2023,06,16,15,46.4,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 04:00 PM,2023,06,16,16,45.7,126,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 05:00 PM,2023,06,16,17,42.8,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 06:00 PM,2023,06,16,18,38.9,109,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 07:00 PM,2023,06,16,19,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 08:00 PM,2023,06,16,20,24.4,77,Moderate,11.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 09:00 PM,2023,06,16,21,24.2,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 10:00 PM,2023,06,16,22,44.6,123,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-16 11:00 PM,2023,06,16,23,48.3,133,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 12:00 AM,2023,06,17,00,67.1,157,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 01:00 AM,2023,06,17,01,51.5,140,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 02:00 AM,2023,06,17,02,45.2,125,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 03:00 AM,2023,06,17,03,39.1,110,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 04:00 AM,2023,06,17,04,37.0,105,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 05:00 AM,2023,06,17,05,34.5,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 06:00 AM,2023,06,17,06,32.7,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 07:00 AM,2023,06,17,07,31.8,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 08:00 AM,2023,06,17,08,34.9,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 09:00 AM,2023,06,17,09,35.4,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 10:00 AM,2023,06,17,10,39.2,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 11:00 AM,2023,06,17,11,38.6,109,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 12:00 PM,2023,06,17,12,37.8,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 01:00 PM,2023,06,17,13,39.3,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 02:00 PM,2023,06,17,14,38.9,109,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 03:00 PM,2023,06,17,15,39.2,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 04:00 PM,2023,06,17,16,41.6,116,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 05:00 PM,2023,06,17,17,42.7,119,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 06:00 PM,2023,06,17,18,44.7,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 07:00 PM,2023,06,17,19,45.8,126,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 08:00 PM,2023,06,17,20,30.9,91,Moderate,14.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 09:00 PM,2023,06,17,21,25.4,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 10:00 PM,2023,06,17,22,42.7,119,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-17 11:00 PM,2023,06,17,23,44.3,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 12:00 AM,2023,06,18,00,40.6,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 01:00 AM,2023,06,18,01,33.8,97,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 02:00 AM,2023,06,18,02,32.9,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 03:00 AM,2023,06,18,03,46.9,129,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 04:00 AM,2023,06,18,04,39.4,111,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 05:00 AM,2023,06,18,05,64.7,156,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 06:00 AM,2023,06,18,06,68.8,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 07:00 AM,2023,06,18,07,70.4,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 08:00 AM,2023,06,18,08,58.2,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 09:00 AM,2023,06,18,09,67.1,157,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 10:00 AM,2023,06,18,10,56.0,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 11:00 AM,2023,06,18,11,52.5,143,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 12:00 PM,2023,06,18,12,49.7,136,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 01:00 PM,2023,06,18,13,44.3,123,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 02:00 PM,2023,06,18,14,41.1,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 03:00 PM,2023,06,18,15,42.0,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 04:00 PM,2023,06,18,16,63.0,155,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 05:00 PM,2023,06,18,17,54.5,148,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 06:00 PM,2023,06,18,18,50.7,138,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 07:00 PM,2023,06,18,19,44.3,123,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 08:00 PM,2023,06,18,20,50.1,137,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 09:00 PM,2023,06,18,21,47.0,129,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 10:00 PM,2023,06,18,22,46.5,128,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-18 11:00 PM,2023,06,18,23,55.2,150,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 12:00 AM,2023,06,19,00,49.6,136,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 01:00 AM,2023,06,19,01,43.8,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 02:00 AM,2023,06,19,02,48.9,134,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 03:00 AM,2023,06,19,03,59.4,153,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 04:00 AM,2023,06,19,04,55.5,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 05:00 AM,2023,06,19,05,56.1,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 06:00 AM,2023,06,19,06,68.1,158,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 07:00 AM,2023,06,19,07,53.0,144,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 08:00 AM,2023,06,19,08,48.0,132,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 09:00 AM,2023,06,19,09,44.0,122,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 10:00 AM,2023,06,19,10,44.0,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 11:00 AM,2023,06,19,11,42.0,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 12:00 PM,2023,06,19,12,40.0,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 01:00 PM,2023,06,19,13,41.5,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 02:00 PM,2023,06,19,14,38.2,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 03:00 PM,2023,06,19,15,34.1,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 04:00 PM,2023,06,19,16,38.5,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 05:00 PM,2023,06,19,17,48.2,132,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 06:00 PM,2023,06,19,18,51.3,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 07:00 PM,2023,06,19,19,52.6,143,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 08:00 PM,2023,06,19,20,48.9,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 09:00 PM,2023,06,19,21,51.8,141,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 10:00 PM,2023,06,19,22,52.4,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-19 11:00 PM,2023,06,19,23,52.7,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 12:00 AM,2023,06,20,00,51.8,141,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 01:00 AM,2023,06,20,01,55.3,150,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 02:00 AM,2023,06,20,02,53.2,145,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 03:00 AM,2023,06,20,03,46.5,128,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 04:00 AM,2023,06,20,04,61.3,154,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 05:00 AM,2023,06,20,05,67.1,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 06:00 AM,2023,06,20,06,68.5,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 07:00 AM,2023,06,20,07,62.2,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 08:00 AM,2023,06,20,08,65.6,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 09:00 AM,2023,06,20,09,60.8,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 10:00 AM,2023,06,20,10,50.9,139,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 11:00 AM,2023,06,20,11,42.9,119,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 12:00 PM,2023,06,20,12,37.4,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 01:00 PM,2023,06,20,13,40.2,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 02:00 PM,2023,06,20,14,42.6,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 03:00 PM,2023,06,20,15,33.3,96,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 04:00 PM,2023,06,20,16,32.1,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 05:00 PM,2023,06,20,17,35.0,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 06:00 PM,2023,06,20,18,41.5,116,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 07:00 PM,2023,06,20,19,68.7,158,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 08:00 PM,2023,06,20,20,80.8,164,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 09:00 PM,2023,06,20,21,78.4,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 10:00 PM,2023,06,20,22,94.7,171,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-20 11:00 PM,2023,06,20,23,80.8,164,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 12:00 AM,2023,06,21,00,80.4,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 01:00 AM,2023,06,21,01,90.7,169,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 02:00 AM,2023,06,21,02,90.8,169,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 03:00 AM,2023,06,21,03,77.4,162,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 04:00 AM,2023,06,21,04,65.2,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 05:00 AM,2023,06,21,05,74.1,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 06:00 AM,2023,06,21,06,69.5,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 07:00 AM,2023,06,21,07,53.2,145,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 08:00 AM,2023,06,21,08,63.1,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 09:00 AM,2023,06,21,09,62.0,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 10:00 AM,2023,06,21,10,51.0,139,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 11:00 AM,2023,06,21,11,40.0,112,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 12:00 PM,2023,06,21,12,37.4,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 01:00 PM,2023,06,21,13,33.2,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 02:00 PM,2023,06,21,14,30.6,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 03:00 PM,2023,06,21,15,34.3,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 04:00 PM,2023,06,21,16,35.6,101,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 05:00 PM,2023,06,21,17,35.8,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 06:00 PM,2023,06,21,18,31.9,93,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 07:00 PM,2023,06,21,19,37.9,107,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 08:00 PM,2023,06,21,20,41.4,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 09:00 PM,2023,06,21,21,47.3,130,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 10:00 PM,2023,06,21,22,50.0,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-21 11:00 PM,2023,06,21,23,57.1,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 12:00 AM,2023,06,22,00,59.5,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 01:00 AM,2023,06,22,01,62.3,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 02:00 AM,2023,06,22,02,60.1,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 03:00 AM,2023,06,22,03,53.5,145,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 04:00 AM,2023,06,22,04,64.7,156,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 05:00 AM,2023,06,22,05,49.8,136,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 06:00 AM,2023,06,22,06,46.9,129,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 07:00 AM,2023,06,22,07,59.9,153,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 08:00 AM,2023,06,22,08,47.4,130,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 09:00 AM,2023,06,22,09,40.2,113,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 10:00 AM,2023,06,22,10,33.6,96,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 11:00 AM,2023,06,22,11,30.8,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 12:00 PM,2023,06,22,12,35.3,100,Moderate,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 01:00 PM,2023,06,22,13,35.1,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 02:00 PM,2023,06,22,14,33.0,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 03:00 PM,2023,06,22,15,35.5,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 04:00 PM,2023,06,22,16,33.7,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 05:00 PM,2023,06,22,17,30.8,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 06:00 PM,2023,06,22,18,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 07:00 PM,2023,06,22,19,34.9,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 08:00 PM,2023,06,22,20,44.2,122,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 09:00 PM,2023,06,22,21,55.7,151,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 10:00 PM,2023,06,22,22,49.8,136,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-22 11:00 PM,2023,06,22,23,45.4,125,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 12:00 AM,2023,06,23,00,47.7,131,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 01:00 AM,2023,06,23,01,53.8,146,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 02:00 AM,2023,06,23,02,65.4,156,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 03:00 AM,2023,06,23,03,58.2,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 04:00 AM,2023,06,23,04,47.1,130,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 05:00 AM,2023,06,23,05,54.5,148,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 06:00 AM,2023,06,23,06,43.7,121,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 07:00 AM,2023,06,23,07,45.3,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 08:00 AM,2023,06,23,08,58.6,153,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 09:00 AM,2023,06,23,09,50.3,137,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 10:00 AM,2023,06,23,10,46.1,127,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 11:00 AM,2023,06,23,11,41.5,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 12:00 PM,2023,06,23,12,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 01:00 PM,2023,06,23,13,31.3,91,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 02:00 PM,2023,06,23,14,29.1,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 03:00 PM,2023,06,23,15,27.5,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 04:00 PM,2023,06,23,16,22.2,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 05:00 PM,2023,06,23,17,25.6,79,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 06:00 PM,2023,06,23,18,28.3,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 07:00 PM,2023,06,23,19,31.6,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 08:00 PM,2023,06,23,20,34.8,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 09:00 PM,2023,06,23,21,37.9,107,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 10:00 PM,2023,06,23,22,31.9,93,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-23 11:00 PM,2023,06,23,23,35.9,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 12:00 AM,2023,06,24,00,40.4,113,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 01:00 AM,2023,06,24,01,40.2,113,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 02:00 AM,2023,06,24,02,34.6,98,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 03:00 AM,2023,06,24,03,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 04:00 AM,2023,06,24,04,31.0,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 05:00 AM,2023,06,24,05,28.2,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 06:00 AM,2023,06,24,06,34.7,99,Moderate,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 07:00 AM,2023,06,24,07,37.1,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 08:00 AM,2023,06,24,08,35.2,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 09:00 AM,2023,06,24,09,36.0,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 10:00 AM,2023,06,24,10,32.0,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 11:00 AM,2023,06,24,11,33.3,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 12:00 PM,2023,06,24,12,29.8,88,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 01:00 PM,2023,06,24,13,30.3,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 02:00 PM,2023,06,24,14,28.0,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 03:00 PM,2023,06,24,15,21.2,70,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 04:00 PM,2023,06,24,16,21.6,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 05:00 PM,2023,06,24,17,20.3,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 06:00 PM,2023,06,24,18,22.1,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 07:00 PM,2023,06,24,19,18.5,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 08:00 PM,2023,06,24,20,24.7,77,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 09:00 PM,2023,06,24,21,27.8,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 10:00 PM,2023,06,24,22,31.9,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-24 11:00 PM,2023,06,24,23,31.9,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 12:00 AM,2023,06,25,00,38.9,109,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 01:00 AM,2023,06,25,01,34.9,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 02:00 AM,2023,06,25,02,38.4,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 03:00 AM,2023,06,25,03,36.2,103,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 04:00 AM,2023,06,25,04,37.1,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 05:00 AM,2023,06,25,05,34.0,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 06:00 AM,2023,06,25,06,36.0,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 07:00 AM,2023,06,25,07,36.6,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 08:00 AM,2023,06,25,08,37.1,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 09:00 AM,2023,06,25,09,35.1,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 10:00 AM,2023,06,25,10,35.4,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 11:00 AM,2023,06,25,11,34.9,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 12:00 PM,2023,06,25,12,34.2,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 01:00 PM,2023,06,25,13,31.3,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 02:00 PM,2023,06,25,14,24.0,76,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 03:00 PM,2023,06,25,15,27.0,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 04:00 PM,2023,06,25,16,23.5,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 05:00 PM,2023,06,25,17,20.2,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 06:00 PM,2023,06,25,18,19.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 07:00 PM,2023,06,25,19,17.0,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 08:00 PM,2023,06,25,20,20.0,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 09:00 PM,2023,06,25,21,20.5,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 10:00 PM,2023,06,25,22,30.2,89,Moderate,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-25 11:00 PM,2023,06,25,23,36.6,104,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 12:00 AM,2023,06,26,00,36.8,104,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 01:00 AM,2023,06,26,01,41.9,117,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 02:00 AM,2023,06,26,02,33.4,96,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 03:00 AM,2023,06,26,03,34.2,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 04:00 AM,2023,06,26,04,27.1,83,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 05:00 AM,2023,06,26,05,29.0,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 06:00 AM,2023,06,26,06,24.0,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 07:00 AM,2023,06,26,07,30.0,89,Moderate,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 08:00 AM,2023,06,26,08,28.5,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 09:00 AM,2023,06,26,09,26.7,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 10:00 AM,2023,06,26,10,25.3,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 11:00 AM,2023,06,26,11,30.6,90,Moderate,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 12:00 PM,2023,06,26,12,29.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 01:00 PM,2023,06,26,13,23.1,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 02:00 PM,2023,06,26,14,23.0,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 03:00 PM,2023,06,26,15,22.0,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 04:00 PM,2023,06,26,16,23.0,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 05:00 PM,2023,06,26,17,23.5,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 06:00 PM,2023,06,26,18,26.2,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 07:00 PM,2023,06,26,19,24.6,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 08:00 PM,2023,06,26,20,20.3,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 09:00 PM,2023,06,26,21,22.1,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 10:00 PM,2023,06,26,22,24.5,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-26 11:00 PM,2023,06,26,23,25.0,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 12:00 AM,2023,06,27,00,24.1,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 01:00 AM,2023,06,27,01,32.0,93,Moderate,40.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 02:00 AM,2023,06,27,02,30.0,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 03:00 AM,2023,06,27,03,29.5,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 04:00 AM,2023,06,27,04,26.2,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 05:00 AM,2023,06,27,05,30.6,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 06:00 AM,2023,06,27,06,33.8,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 07:00 AM,2023,06,27,07,35.4,100,Moderate,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 08:00 AM,2023,06,27,08,38.1,107,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 09:00 AM,2023,06,27,09,29.3,87,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 10:00 AM,2023,06,27,10,23.1,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 11:00 AM,2023,06,27,11,19.5,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 12:00 PM,2023,06,27,12,17.7,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 01:00 PM,2023,06,27,13,18.8,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 02:00 PM,2023,06,27,14,20.9,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 03:00 PM,2023,06,27,15,21.9,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 04:00 PM,2023,06,27,16,20.9,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 05:00 PM,2023,06,27,17,20.4,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 06:00 PM,2023,06,27,18,19.2,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 07:00 PM,2023,06,27,19,18.6,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 08:00 PM,2023,06,27,20,27.8,84,Moderate,37.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 09:00 PM,2023,06,27,21,26.9,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 10:00 PM,2023,06,27,22,25.4,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-27 11:00 PM,2023,06,27,23,25.2,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 12:00 AM,2023,06,28,00,20.1,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 01:00 AM,2023,06,28,01,27.0,82,Moderate,34.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 02:00 AM,2023,06,28,02,31.5,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 03:00 AM,2023,06,28,03,25.7,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 04:00 AM,2023,06,28,04,17.8,63,Moderate,10.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 05:00 AM,2023,06,28,05,15.9,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 06:00 AM,2023,06,28,06,30.9,91,Moderate,46.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 07:00 AM,2023,06,28,07,21.4,71,Moderate,12.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 08:00 AM,2023,06,28,08,19.2,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 09:00 AM,2023,06,28,09,16.6,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 10:00 AM,2023,06,28,10,15.3,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 11:00 AM,2023,06,28,11,31.1,91,Moderate,47.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 12:00 PM,2023,06,28,12,36.5,103,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 01:00 PM,2023,06,28,13,22.2,72,Moderate,8.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 02:00 PM,2023,06,28,14,15.6,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 03:00 PM,2023,06,28,15,17.3,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 04:00 PM,2023,06,28,16,19.6,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 05:00 PM,2023,06,28,17,26.3,81,Moderate,33.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 06:00 PM,2023,06,28,18,25.1,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 07:00 PM,2023,06,28,19,25.5,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 08:00 PM,2023,06,28,20,31.7,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 09:00 PM,2023,06,28,21,29.3,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 10:00 PM,2023,06,28,22,23.6,75,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-28 11:00 PM,2023,06,28,23,25.8,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 12:00 AM,2023,06,29,00,22.9,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 01:00 AM,2023,06,29,01,22.9,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 02:00 AM,2023,06,29,02,23.4,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 03:00 AM,2023,06,29,03,24.7,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 04:00 AM,2023,06,29,04,21.3,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 05:00 AM,2023,06,29,05,20.1,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 06:00 AM,2023,06,29,06,18.0,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 07:00 AM,2023,06,29,07,102.0,175,Unhealthy,186.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 08:00 AM,2023,06,29,08,60.0,153,Unhealthy,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 09:00 AM,2023,06,29,09,36.0,102,Unhealthy for Sensitive Groups,12.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 10:00 AM,2023,06,29,10,26.0,80,Moderate,16.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 11:00 AM,2023,06,29,11,18.0,63,Moderate,10.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 12:00 PM,2023,06,29,12,15.9,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 01:00 PM,2023,06,29,13,15.4,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 02:00 PM,2023,06,29,14,14.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 03:00 PM,2023,06,29,15,18.1,64,Moderate,22.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 04:00 PM,2023,06,29,16,21.5,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 05:00 PM,2023,06,29,17,17.7,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 06:00 PM,2023,06,29,18,20.3,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 07:00 PM,2023,06,29,19,18.6,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 08:00 PM,2023,06,29,20,18.3,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 09:00 PM,2023,06,29,21,21.6,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 10:00 PM,2023,06,29,22,24.3,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-29 11:00 PM,2023,06,29,23,22.6,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 12:00 AM,2023,06,30,00,25.3,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 01:00 AM,2023,06,30,01,25.6,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 02:00 AM,2023,06,30,02,23.8,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 03:00 AM,2023,06,30,03,21.4,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 04:00 AM,2023,06,30,04,18.2,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 05:00 AM,2023,06,30,05,14.6,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 06:00 AM,2023,06,30,06,14.3,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 07:00 AM,2023,06,30,07,17.1,62,Moderate,20.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 08:00 AM,2023,06,30,08,20.0,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 09:00 AM,2023,06,30,09,22.5,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 10:00 AM,2023,06,30,10,24.7,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 11:00 AM,2023,06,30,11,24.8,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 12:00 PM,2023,06,30,12,25.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 01:00 PM,2023,06,30,13,24.4,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 02:00 PM,2023,06,30,14,22.7,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 03:00 PM,2023,06,30,15,16.8,61,Moderate,11.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 04:00 PM,2023,06,30,16,16.4,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 05:00 PM,2023,06,30,17,13.2,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 06:00 PM,2023,06,30,18,9.6,40,Good,6.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 07:00 PM,2023,06,30,19,7.8,33,Good,6.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 08:00 PM,2023,06,30,20,8.8,37,Good,10.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 09:00 PM,2023,06,30,21,15.9,59,Moderate,23.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 10:00 PM,2023,06,30,22,19.9,67,Moderate,24.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-06-30 11:00 PM,2023,06,30,23,15.9,59,Moderate,12.0,UG/M3,1 Hr,Valid
+Dhaka,PM2.5 - Principal,2023-07-01 12:00 AM,2023,07,01,00,15.4,58,Moderate,15.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,670 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kabul,PM2.5 - Principal,2020-12-01 05:00 AM,2020,12,01,05,-999.0,-999,N/A,455.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 06:00 AM,2020,12,01,06,355.5,404,Hazardous,290.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 07:00 AM,2020,12,01,07,385.7,424,Hazardous,418.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 08:00 AM,2020,12,01,08,365.8,411,Hazardous,340.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 09:00 AM,2020,12,01,09,322.3,372,Hazardous,269.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 10:00 AM,2020,12,01,10,198.6,249,Very Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 11:00 AM,2020,12,01,11,164.5,215,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 12:00 PM,2020,12,01,12,99.0,173,Unhealthy,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 01:00 PM,2020,12,01,13,71.4,159,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 02:00 PM,2020,12,01,14,55.7,151,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 03:00 PM,2020,12,01,15,59.8,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 04:00 PM,2020,12,01,16,83.9,166,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 05:00 PM,2020,12,01,17,102.9,175,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 06:00 PM,2020,12,01,18,126.4,188,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 07:00 PM,2020,12,01,19,226.7,277,Very Unhealthy,327.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 08:00 PM,2020,12,01,20,304.3,354,Hazardous,382.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 09:00 PM,2020,12,01,21,368.2,413,Hazardous,432.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 10:00 PM,2020,12,01,22,411.6,441,Hazardous,455.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-01 11:00 PM,2020,12,01,23,419.8,447,Hazardous,428.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 12:00 AM,2020,12,02,00,430.9,454,Hazardous,442.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 01:00 AM,2020,12,02,01,446.0,464,Hazardous,461.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 02:00 AM,2020,12,02,02,471.5,481,Hazardous,497.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 03:00 AM,2020,12,02,03,432.3,455,Hazardous,393.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 04:00 AM,2020,12,02,04,384.6,424,Hazardous,337.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 05:00 AM,2020,12,02,05,341.3,391,Hazardous,298.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 06:00 AM,2020,12,02,06,321.4,371,Hazardous,282.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 07:00 AM,2020,12,02,07,276.3,327,Hazardous,241.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 08:00 AM,2020,12,02,08,238.6,288,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 09:00 AM,2020,12,02,09,212.2,262,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 10:00 AM,2020,12,02,10,279.6,330,Hazardous,347.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 11:00 AM,2020,12,02,11,167.7,218,Very Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 12:00 PM,2020,12,02,12,94.8,171,Unhealthy,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 01:00 PM,2020,12,02,13,55.3,150,Unhealthy for Sensitive Groups,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 02:00 PM,2020,12,02,14,34.1,97,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 03:00 PM,2020,12,02,15,24.0,76,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 04:00 PM,2020,12,02,16,43.4,120,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 05:00 PM,2020,12,02,17,63.2,155,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 06:00 PM,2020,12,02,18,97.0,172,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 07:00 PM,2020,12,02,19,169.5,220,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 08:00 PM,2020,12,02,20,241.7,291,Very Unhealthy,314.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 09:00 PM,2020,12,02,21,335.4,385,Hazardous,429.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 10:00 PM,2020,12,02,22,382.2,422,Hazardous,429.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-02 11:00 PM,2020,12,02,23,382.3,422,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-03 04:00 AM,2020,12,03,04,-999.0,-999,N/A,364.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 05:00 AM,2020,12,03,05,347.7,397,Hazardous,339.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 06:00 AM,2020,12,03,06,356.4,405,Hazardous,363.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 07:00 AM,2020,12,03,07,331.7,381,Hazardous,292.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 08:00 AM,2020,12,03,08,328.5,378,Hazardous,323.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 09:00 AM,2020,12,03,09,314.3,364,Hazardous,290.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 10:00 AM,2020,12,03,10,334.9,385,Hazardous,379.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 11:00 AM,2020,12,03,11,210.8,261,Very Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 12:00 PM,2020,12,03,12,130.7,190,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 01:00 PM,2020,12,03,13,87.8,168,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 02:00 PM,2020,12,03,14,66.4,157,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 03:00 PM,2020,12,03,15,57.2,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 04:00 PM,2020,12,03,16,51.5,140,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 05:00 PM,2020,12,03,17,75.2,161,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 06:00 PM,2020,12,03,18,121.1,185,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 07:00 PM,2020,12,03,19,216.0,266,Very Unhealthy,311.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 08:00 PM,2020,12,03,20,305.0,355,Hazardous,394.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 09:00 PM,2020,12,03,21,349.5,399,Hazardous,394.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-03 10:00 PM,2020,12,03,22,349.5,399,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-04 02:00 AM,2020,12,04,02,-999.0,-999,N/A,323.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 03:00 AM,2020,12,04,03,232.1,282,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 04:00 AM,2020,12,04,04,204.3,254,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 05:00 AM,2020,12,04,05,179.7,230,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 06:00 AM,2020,12,04,06,166.4,217,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 07:00 AM,2020,12,04,07,143.8,197,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 08:00 AM,2020,12,04,08,162.5,213,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 09:00 AM,2020,12,04,09,199.8,250,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 10:00 AM,2020,12,04,10,197.4,247,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 11:00 AM,2020,12,04,11,138.1,194,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 12:00 PM,2020,12,04,12,97.5,173,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 01:00 PM,2020,12,04,13,55.7,151,Unhealthy,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 02:00 PM,2020,12,04,14,35.3,100,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 03:00 PM,2020,12,04,15,24.1,76,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 04:00 PM,2020,12,04,16,25.0,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 05:00 PM,2020,12,04,17,29.5,88,Moderate,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 06:00 PM,2020,12,04,18,38.7,109,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 07:00 PM,2020,12,04,19,40.3,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 08:00 PM,2020,12,04,20,44.6,123,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 09:00 PM,2020,12,04,21,69.3,158,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 10:00 PM,2020,12,04,22,111.1,180,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-04 11:00 PM,2020,12,04,23,172.5,223,Very Unhealthy,234.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 12:00 AM,2020,12,05,00,187.3,237,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 01:00 AM,2020,12,05,01,188.1,238,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 02:00 AM,2020,12,05,02,175.6,226,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 03:00 AM,2020,12,05,03,161.8,212,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 04:00 AM,2020,12,05,04,136.9,193,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 05:00 AM,2020,12,05,05,115.4,182,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 06:00 AM,2020,12,05,06,113.7,181,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 07:00 AM,2020,12,05,07,137.8,193,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 08:00 AM,2020,12,05,08,169.9,220,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 09:00 AM,2020,12,05,09,173.4,224,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 10:00 AM,2020,12,05,10,199.7,250,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 11:00 AM,2020,12,05,11,135.3,192,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 12:00 PM,2020,12,05,12,102.6,175,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 01:00 PM,2020,12,05,13,71.3,159,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 02:00 PM,2020,12,05,14,54.1,147,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 03:00 PM,2020,12,05,15,44.0,122,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 04:00 PM,2020,12,05,16,38.0,107,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 05:00 PM,2020,12,05,17,42.5,118,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 06:00 PM,2020,12,05,18,65.7,156,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 07:00 PM,2020,12,05,19,95.3,172,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 08:00 PM,2020,12,05,20,164.6,215,Very Unhealthy,234.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 09:00 PM,2020,12,05,21,202.3,252,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 10:00 PM,2020,12,05,22,146.1,198,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-05 11:00 PM,2020,12,05,23,181.5,232,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 12:00 AM,2020,12,06,00,270.8,321,Hazardous,360.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 01:00 AM,2020,12,06,01,271.4,322,Hazardous,272.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 02:00 AM,2020,12,06,02,262.7,313,Hazardous,254.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 03:00 AM,2020,12,06,03,233.8,284,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 04:00 AM,2020,12,06,04,221.4,271,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 05:00 AM,2020,12,06,05,211.2,261,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 06:00 AM,2020,12,06,06,187.6,238,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 07:00 AM,2020,12,06,07,166.8,217,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 08:00 AM,2020,12,06,08,200.9,251,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 09:00 AM,2020,12,06,09,180.4,231,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 10:00 AM,2020,12,06,10,123.2,186,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 11:00 AM,2020,12,06,11,102.0,175,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 12:00 PM,2020,12,06,12,96.0,172,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 01:00 PM,2020,12,06,13,108.9,179,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 02:00 PM,2020,12,06,14,108.4,178,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 03:00 PM,2020,12,06,15,108.7,178,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 04:00 PM,2020,12,06,16,101.8,175,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 05:00 PM,2020,12,06,17,113.4,181,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 06:00 PM,2020,12,06,18,141.7,196,Unhealthy,170.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 07:00 PM,2020,12,06,19,203.3,253,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 08:00 PM,2020,12,06,20,247.6,297,Very Unhealthy,292.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 09:00 PM,2020,12,06,21,308.8,359,Hazardous,370.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 10:00 PM,2020,12,06,22,333.4,383,Hazardous,358.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-06 11:00 PM,2020,12,06,23,337.2,387,Hazardous,341.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 12:00 AM,2020,12,07,00,339.1,389,Hazardous,341.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 01:00 AM,2020,12,07,01,402.6,435,Hazardous,466.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 02:00 AM,2020,12,07,02,427.3,452,Hazardous,452.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 03:00 AM,2020,12,07,03,439.7,460,Hazardous,452.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 04:00 AM,2020,12,07,04,398.8,433,Hazardous,358.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 05:00 AM,2020,12,07,05,376.4,418,Hazardous,354.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 06:00 AM,2020,12,07,06,300.2,350,Hazardous,224.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 07:00 AM,2020,12,07,07,169.0,219,Very Unhealthy,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 08:00 AM,2020,12,07,08,108.5,178,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 09:00 AM,2020,12,07,09,84.7,166,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 10:00 AM,2020,12,07,10,65.8,156,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 11:00 AM,2020,12,07,11,53.3,145,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 12:00 PM,2020,12,07,12,46.6,128,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 01:00 PM,2020,12,07,13,44.7,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 02:00 PM,2020,12,07,14,84.8,166,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 03:00 PM,2020,12,07,15,90.3,169,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 04:00 PM,2020,12,07,16,72.1,160,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 05:00 PM,2020,12,07,17,76.5,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 06:00 PM,2020,12,07,18,99.2,174,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 07:00 PM,2020,12,07,19,133.6,191,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 08:00 PM,2020,12,07,20,129.3,189,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 09:00 PM,2020,12,07,21,99.6,174,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 10:00 PM,2020,12,07,22,93.3,171,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-07 11:00 PM,2020,12,07,23,81.1,164,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 12:00 AM,2020,12,08,00,71.5,159,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 01:00 AM,2020,12,08,01,58.7,153,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 02:00 AM,2020,12,08,02,40.8,114,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 03:00 AM,2020,12,08,03,28.4,85,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 04:00 AM,2020,12,08,04,25.2,79,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 05:00 AM,2020,12,08,05,27.6,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 06:00 AM,2020,12,08,06,27.2,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 07:00 AM,2020,12,08,07,32.1,93,Moderate,37.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 08:00 AM,2020,12,08,08,43.5,121,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 09:00 AM,2020,12,08,09,94.7,171,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 10:00 AM,2020,12,08,10,155.4,206,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 11:00 AM,2020,12,08,11,192.2,242,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 12:00 PM,2020,12,08,12,164.1,214,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 01:00 PM,2020,12,08,13,153.0,203,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 02:00 PM,2020,12,08,14,149.5,200,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 03:00 PM,2020,12,08,15,118.2,183,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 04:00 PM,2020,12,08,16,86.1,167,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 05:00 PM,2020,12,08,17,73.5,160,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 06:00 PM,2020,12,08,18,75.2,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 07:00 PM,2020,12,08,19,87.1,167,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 08:00 PM,2020,12,08,20,89.0,168,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 09:00 PM,2020,12,08,21,101.5,175,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 10:00 PM,2020,12,08,22,117.7,183,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-08 11:00 PM,2020,12,08,23,82.3,165,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 12:00 AM,2020,12,09,00,72.1,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 01:00 AM,2020,12,09,01,63.0,155,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 02:00 AM,2020,12,09,02,59.5,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 03:00 AM,2020,12,09,03,56.7,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 04:00 AM,2020,12,09,04,54.8,149,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 05:00 AM,2020,12,09,05,59.4,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 06:00 AM,2020,12,09,06,69.7,158,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 07:00 AM,2020,12,09,07,82.8,165,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 08:00 AM,2020,12,09,08,111.9,180,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 09:00 AM,2020,12,09,09,118.9,184,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 10:00 AM,2020,12,09,10,139.4,194,Unhealthy,160.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 11:00 AM,2020,12,09,11,120.2,184,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 12:00 PM,2020,12,09,12,98.6,173,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 01:00 PM,2020,12,09,13,67.3,157,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 02:00 PM,2020,12,09,14,67.1,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 03:00 PM,2020,12,09,15,73.5,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 04:00 PM,2020,12,09,16,82.7,165,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 05:00 PM,2020,12,09,17,117.9,183,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 06:00 PM,2020,12,09,18,203.4,253,Very Unhealthy,289.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 07:00 PM,2020,12,09,19,266.7,317,Hazardous,330.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 08:00 PM,2020,12,09,20,313.9,364,Hazardous,361.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 09:00 PM,2020,12,09,21,406.0,438,Hazardous,498.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 10:00 PM,2020,12,09,22,501.5,501,Hazardous,597.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-09 11:00 PM,2020,12,09,23,549.3,532,Hazardous,597.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 12:00 AM,2020,12,10,00,549.4,532,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-10 02:00 AM,2020,12,10,02,-999.0,-999,N/A,292.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 03:00 AM,2020,12,10,03,262.6,313,Hazardous,212.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 04:00 AM,2020,12,10,04,272.2,323,Hazardous,280.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 05:00 AM,2020,12,10,05,296.2,346,Hazardous,318.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 06:00 AM,2020,12,10,06,288.4,339,Hazardous,281.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 07:00 AM,2020,12,10,07,281.6,332,Hazardous,275.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 08:00 AM,2020,12,10,08,237.0,287,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 09:00 AM,2020,12,10,09,178.3,229,Very Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 10:00 AM,2020,12,10,10,139.0,194,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 11:00 AM,2020,12,10,11,108.9,179,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 12:00 PM,2020,12,10,12,86.9,167,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 01:00 PM,2020,12,10,13,83.9,166,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 02:00 PM,2020,12,10,14,65.9,156,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 03:00 PM,2020,12,10,15,59.9,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 04:00 PM,2020,12,10,16,76.9,162,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 05:00 PM,2020,12,10,17,76.4,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 06:00 PM,2020,12,10,18,109.7,179,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 07:00 PM,2020,12,10,19,125.8,187,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 08:00 PM,2020,12,10,20,259.4,310,Hazardous,393.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 09:00 PM,2020,12,10,21,307.7,358,Hazardous,356.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 10:00 PM,2020,12,10,22,349.9,400,Hazardous,392.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-10 11:00 PM,2020,12,10,23,428.0,452,Hazardous,506.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 12:00 AM,2020,12,11,00,460.0,473,Hazardous,492.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 01:00 AM,2020,12,11,01,469.0,479,Hazardous,478.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 02:00 AM,2020,12,11,02,473.5,482,Hazardous,478.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 03:00 AM,2020,12,11,03,506.3,504,Hazardous,539.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 04:00 AM,2020,12,11,04,473.2,482,Hazardous,440.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 05:00 AM,2020,12,11,05,416.1,444,Hazardous,359.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 06:00 AM,2020,12,11,06,367.5,412,Hazardous,319.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 07:00 AM,2020,12,11,07,310.8,361,Hazardous,254.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 08:00 AM,2020,12,11,08,287.8,338,Hazardous,265.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 09:00 AM,2020,12,11,09,256.4,307,Hazardous,225.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 10:00 AM,2020,12,11,10,194.1,244,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 11:00 AM,2020,12,11,11,163.5,214,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 12:00 PM,2020,12,11,12,152.2,203,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 01:00 PM,2020,12,11,13,145.5,197,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 02:00 PM,2020,12,11,14,105.2,177,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 03:00 PM,2020,12,11,15,82.5,165,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 04:00 PM,2020,12,11,16,66.2,157,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 05:00 PM,2020,12,11,17,61.5,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 06:00 PM,2020,12,11,18,70.2,159,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 07:00 PM,2020,12,11,19,65.6,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 08:00 PM,2020,12,11,20,95.2,171,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 09:00 PM,2020,12,11,21,60.6,154,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 10:00 PM,2020,12,11,22,57.8,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-11 11:00 PM,2020,12,11,23,50.3,137,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 12:00 AM,2020,12,12,00,56.1,151,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 01:00 AM,2020,12,12,01,70.5,159,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 02:00 AM,2020,12,12,02,80.2,164,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 03:00 AM,2020,12,12,03,61.6,154,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 04:00 AM,2020,12,12,04,54.8,149,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 05:00 AM,2020,12,12,05,46.9,129,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 06:00 AM,2020,12,12,06,34.4,98,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 07:00 AM,2020,12,12,07,27.7,84,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 08:00 AM,2020,12,12,08,23.3,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 09:00 AM,2020,12,12,09,22.6,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 10:00 AM,2020,12,12,10,19.3,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 11:00 AM,2020,12,12,11,17.1,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 12:00 PM,2020,12,12,12,17.0,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 01:00 PM,2020,12,12,13,16.5,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 02:00 PM,2020,12,12,14,14.2,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 03:00 PM,2020,12,12,15,14.1,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 04:00 PM,2020,12,12,16,16.0,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 05:00 PM,2020,12,12,17,23.5,75,Moderate,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 06:00 PM,2020,12,12,18,72.7,160,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 07:00 PM,2020,12,12,19,94.8,171,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 08:00 PM,2020,12,12,20,90.9,169,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 09:00 PM,2020,12,12,21,77.9,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 10:00 PM,2020,12,12,22,91.0,169,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-12 11:00 PM,2020,12,12,23,111.5,180,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 12:00 AM,2020,12,13,00,121.7,185,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 01:00 AM,2020,12,13,01,103.3,176,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 02:00 AM,2020,12,13,02,61.6,154,Unhealthy,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 03:00 AM,2020,12,13,03,38.8,109,Unhealthy for Sensitive Groups,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 04:00 AM,2020,12,13,04,29.9,88,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 05:00 AM,2020,12,13,05,22.9,74,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 06:00 AM,2020,12,13,06,20.9,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 07:00 AM,2020,12,13,07,21.4,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 08:00 AM,2020,12,13,08,25.2,79,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 09:00 AM,2020,12,13,09,33.6,96,Moderate,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 10:00 AM,2020,12,13,10,31.2,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 11:00 AM,2020,12,13,11,27.1,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 12:00 PM,2020,12,13,12,23.5,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 01:00 PM,2020,12,13,13,20.7,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 02:00 PM,2020,12,13,14,17.3,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 03:00 PM,2020,12,13,15,15.6,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 04:00 PM,2020,12,13,16,13.8,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 05:00 PM,2020,12,13,17,17.9,63,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 06:00 PM,2020,12,13,18,30.4,89,Moderate,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 07:00 PM,2020,12,13,19,68.2,158,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 08:00 PM,2020,12,13,20,105.1,177,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 09:00 PM,2020,12,13,21,129.0,189,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 10:00 PM,2020,12,13,22,135.5,192,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-13 11:00 PM,2020,12,13,23,121.7,185,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 12:00 AM,2020,12,14,00,77.3,162,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 01:00 AM,2020,12,14,01,50.1,137,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 02:00 AM,2020,12,14,02,38.6,109,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 03:00 AM,2020,12,14,03,30.8,90,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 04:00 AM,2020,12,14,04,26.4,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 05:00 AM,2020,12,14,05,27.2,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 06:00 AM,2020,12,14,06,26.0,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 07:00 AM,2020,12,14,07,33.5,96,Moderate,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 08:00 AM,2020,12,14,08,80.7,164,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 09:00 AM,2020,12,14,09,104.3,176,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 10:00 AM,2020,12,14,10,65.1,156,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 11:00 AM,2020,12,14,11,43.5,121,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 12:00 PM,2020,12,14,12,34.2,97,Moderate,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 01:00 PM,2020,12,14,13,28.6,86,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 02:00 PM,2020,12,14,14,24.8,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 03:00 PM,2020,12,14,15,29.9,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 04:00 PM,2020,12,14,16,33.9,97,Moderate,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 05:00 PM,2020,12,14,17,42.9,119,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 06:00 PM,2020,12,14,18,72.0,160,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 07:00 PM,2020,12,14,19,89.5,169,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 08:00 PM,2020,12,14,20,54.2,147,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 09:00 PM,2020,12,14,21,34.6,98,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 10:00 PM,2020,12,14,22,23.8,76,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-14 11:00 PM,2020,12,14,23,20.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 12:00 AM,2020,12,15,00,19.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 01:00 AM,2020,12,15,01,20.5,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 02:00 AM,2020,12,15,02,22.3,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 03:00 AM,2020,12,15,03,24.6,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 04:00 AM,2020,12,15,04,32.3,93,Moderate,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 05:00 AM,2020,12,15,05,25.1,78,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 06:00 AM,2020,12,15,06,32.0,93,Moderate,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 07:00 AM,2020,12,15,07,29.0,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 08:00 AM,2020,12,15,08,43.0,119,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 09:00 AM,2020,12,15,09,44.0,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 10:00 AM,2020,12,15,10,32.0,93,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 11:00 AM,2020,12,15,11,26.5,81,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 12:00 PM,2020,12,15,12,21.7,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 01:00 PM,2020,12,15,13,21.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 02:00 PM,2020,12,15,14,22.1,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 03:00 PM,2020,12,15,15,24.5,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 04:00 PM,2020,12,15,16,38.2,108,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 05:00 PM,2020,12,15,17,48.6,133,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 06:00 PM,2020,12,15,18,85.3,166,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 07:00 PM,2020,12,15,19,129.6,189,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 08:00 PM,2020,12,15,20,149.8,200,Unhealthy,170.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 09:00 PM,2020,12,15,21,146.4,198,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 10:00 PM,2020,12,15,22,138.2,194,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-15 11:00 PM,2020,12,15,23,128.6,189,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 12:00 AM,2020,12,16,00,159.8,210,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 01:00 AM,2020,12,16,01,197.4,247,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 02:00 AM,2020,12,16,02,210.2,260,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 03:00 AM,2020,12,16,03,182.1,232,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 04:00 AM,2020,12,16,04,154.0,204,Very Unhealthy,126.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 05:00 AM,2020,12,16,05,83.5,165,Unhealthy,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 06:00 AM,2020,12,16,06,47.7,131,Unhealthy for Sensitive Groups,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 07:00 AM,2020,12,16,07,33.3,96,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 08:00 AM,2020,12,16,08,35.6,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 09:00 AM,2020,12,16,09,27.3,83,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 10:00 AM,2020,12,16,10,23.6,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 11:00 AM,2020,12,16,11,20.3,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 12:00 PM,2020,12,16,12,18.6,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 01:00 PM,2020,12,16,13,17.2,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 02:00 PM,2020,12,16,14,16.1,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 03:00 PM,2020,12,16,15,16.5,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 04:00 PM,2020,12,16,16,28.2,85,Moderate,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 05:00 PM,2020,12,16,17,74.1,161,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 06:00 PM,2020,12,16,18,111.5,180,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 07:00 PM,2020,12,16,19,189.8,240,Very Unhealthy,268.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 08:00 PM,2020,12,16,20,207.9,258,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 09:00 PM,2020,12,16,21,216.9,267,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-16 10:00 PM,2020,12,16,22,217.0,267,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-16 11:00 PM,2020,12,16,23,322.4,372,Hazardous,375.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 12:00 AM,2020,12,17,00,342.2,392,Hazardous,357.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 01:00 AM,2020,12,17,01,386.9,425,Hazardous,426.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 02:00 AM,2020,12,17,02,332.3,382,Hazardous,281.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 03:00 AM,2020,12,17,03,318.4,368,Hazardous,305.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 04:00 AM,2020,12,17,04,300.1,350,Hazardous,282.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 05:00 AM,2020,12,17,05,301.0,351,Hazardous,302.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 06:00 AM,2020,12,17,06,254.9,305,Hazardous,209.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 07:00 AM,2020,12,17,07,167.8,218,Very Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 08:00 AM,2020,12,17,08,215.9,266,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 09:00 AM,2020,12,17,09,224.4,274,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 10:00 AM,2020,12,17,10,174.2,224,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 11:00 AM,2020,12,17,11,118.0,183,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 12:00 PM,2020,12,17,12,121.5,185,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 01:00 PM,2020,12,17,13,78.7,163,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 02:00 PM,2020,12,17,14,57.3,152,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 03:00 PM,2020,12,17,15,61.6,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 04:00 PM,2020,12,17,16,109.8,179,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 05:00 PM,2020,12,17,17,121.8,185,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 06:00 PM,2020,12,17,18,204.4,254,Very Unhealthy,287.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 07:00 PM,2020,12,17,19,245.7,295,Very Unhealthy,287.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-17 08:00 PM,2020,12,17,20,245.7,295,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-17 09:00 PM,2020,12,17,21,245.7,295,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-17 10:00 PM,2020,12,17,22,245.7,295,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-17 11:00 PM,2020,12,17,23,245.7,295,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-18 06:00 AM,2020,12,18,06,-999.0,-999,N/A,454.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 07:00 AM,2020,12,18,07,441.1,461,Hazardous,429.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 08:00 AM,2020,12,18,08,432.2,455,Hazardous,417.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 09:00 AM,2020,12,18,09,301.0,351,Hazardous,192.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 10:00 AM,2020,12,18,10,207.0,257,Very Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 11:00 AM,2020,12,18,11,174.5,225,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 12:00 PM,2020,12,18,12,173.2,223,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 01:00 PM,2020,12,18,13,121.9,185,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 02:00 PM,2020,12,18,14,89.9,169,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 03:00 PM,2020,12,18,15,84.4,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 04:00 PM,2020,12,18,16,96.2,172,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 05:00 PM,2020,12,18,17,106.6,177,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 06:00 PM,2020,12,18,18,162.2,213,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 07:00 PM,2020,12,18,19,257.1,308,Hazardous,352.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 08:00 PM,2020,12,18,20,305.0,355,Hazardous,353.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 09:00 PM,2020,12,18,21,350.5,401,Hazardous,396.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 10:00 PM,2020,12,18,22,373.3,416,Hazardous,396.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-18 11:00 PM,2020,12,18,23,373.3,416,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 12:00 AM,2020,12,19,00,373.3,416,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 01:00 AM,2020,12,19,01,373.3,416,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 02:00 AM,2020,12,19,02,373.3,416,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 07:00 AM,2020,12,19,07,-999.0,-999,N/A,480.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 08:00 AM,2020,12,19,08,469.2,479,Hazardous,480.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 09:00 AM,2020,12,19,09,473.7,482,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 10:00 AM,2020,12,19,10,473.7,482,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 11:00 AM,2020,12,19,11,473.7,482,Hazardous,353.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 12:00 PM,2020,12,19,12,287.0,337,Hazardous,236.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 01:00 PM,2020,12,19,13,159.5,210,Very Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 02:00 PM,2020,12,19,14,92.9,170,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 03:00 PM,2020,12,19,15,81.1,164,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 04:00 PM,2020,12,19,16,112.9,181,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 05:00 PM,2020,12,19,17,139.1,194,Unhealthy,165.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 06:00 PM,2020,12,19,18,174.6,225,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 07:00 PM,2020,12,19,19,251.9,302,Hazardous,329.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 08:00 PM,2020,12,19,20,290.4,341,Hazardous,329.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-19 09:00 PM,2020,12,19,21,290.4,341,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 10:00 PM,2020,12,19,22,290.4,341,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-19 11:00 PM,2020,12,19,23,290.4,341,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-20 12:00 AM,2020,12,20,00,290.4,341,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-20 11:00 AM,2020,12,20,11,-999.0,-999,N/A,228.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 12:00 PM,2020,12,20,12,301.1,351,Hazardous,349.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 01:00 PM,2020,12,20,13,275.1,325,Hazardous,247.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 02:00 PM,2020,12,20,14,182.0,232,Very Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 03:00 PM,2020,12,20,15,121.6,185,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 04:00 PM,2020,12,20,16,104.0,176,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 05:00 PM,2020,12,20,17,104.0,176,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 06:00 PM,2020,12,20,18,161.7,212,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 07:00 PM,2020,12,20,19,215.9,266,Very Unhealthy,270.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 08:00 PM,2020,12,20,20,243.0,293,Very Unhealthy,270.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 09:00 PM,2020,12,20,21,321.0,371,Hazardous,399.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 10:00 PM,2020,12,20,22,360.0,407,Hazardous,399.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-20 11:00 PM,2020,12,20,23,360.0,407,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-21 04:00 AM,2020,12,21,04,-999.0,-999,N/A,558.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 05:00 AM,2020,12,21,05,375.9,418,Hazardous,285.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 06:00 AM,2020,12,21,06,359.4,407,Hazardous,347.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 07:00 AM,2020,12,21,07,332.0,382,Hazardous,308.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 08:00 AM,2020,12,21,08,344.6,394,Hazardous,356.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 09:00 AM,2020,12,21,09,398.5,433,Hazardous,453.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 10:00 AM,2020,12,21,10,303.5,354,Hazardous,209.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 11:00 AM,2020,12,21,11,231.9,282,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 12:00 PM,2020,12,21,12,233.9,284,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 01:00 PM,2020,12,21,13,237.5,287,Very Unhealthy,241.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 02:00 PM,2020,12,21,14,210.2,260,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 03:00 PM,2020,12,21,15,174.1,224,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 04:00 PM,2020,12,21,16,138.9,194,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 05:00 PM,2020,12,21,17,122.9,186,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 06:00 PM,2020,12,21,18,154.4,205,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 07:00 PM,2020,12,21,19,217.7,268,Very Unhealthy,281.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 08:00 PM,2020,12,21,20,320.3,370,Hazardous,423.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 09:00 PM,2020,12,21,21,371.6,415,Hazardous,423.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-21 10:00 PM,2020,12,21,22,371.7,415,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-22 12:00 AM,2020,12,22,00,-999.0,-999,N/A,299.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 01:00 AM,2020,12,22,01,178.4,229,Very Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 02:00 AM,2020,12,22,02,235.5,285,Very Unhealthy,282.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 03:00 AM,2020,12,22,03,422.6,449,Hazardous,592.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 04:00 AM,2020,12,22,04,431.0,454,Hazardous,439.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 05:00 AM,2020,12,22,05,287.3,337,Hazardous,147.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 06:00 AM,2020,12,22,06,201.6,252,Very Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 07:00 AM,2020,12,22,07,169.2,220,Very Unhealthy,137.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 08:00 AM,2020,12,22,08,102.9,175,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 09:00 AM,2020,12,22,09,77.4,162,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 10:00 AM,2020,12,22,10,79.7,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 11:00 AM,2020,12,22,11,109.8,179,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 12:00 PM,2020,12,22,12,83.4,165,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 01:00 PM,2020,12,22,13,67.6,157,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 02:00 PM,2020,12,22,14,74.3,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 03:00 PM,2020,12,22,15,78.0,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 04:00 PM,2020,12,22,16,81.0,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 05:00 PM,2020,12,22,17,87.4,167,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 06:00 PM,2020,12,22,18,118.2,183,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 07:00 PM,2020,12,22,19,191.1,241,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 08:00 PM,2020,12,22,20,308.6,359,Hazardous,426.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 09:00 PM,2020,12,22,21,367.3,412,Hazardous,426.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-22 10:00 PM,2020,12,22,22,367.4,412,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-22 11:00 PM,2020,12,22,23,407.1,438,Hazardous,427.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 12:00 AM,2020,12,23,00,418.5,446,Hazardous,427.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 01:00 AM,2020,12,23,01,418.6,446,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-23 03:00 AM,2020,12,23,03,-999.0,-999,N/A,558.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 04:00 AM,2020,12,23,04,361.5,408,Hazardous,257.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 05:00 AM,2020,12,23,05,338.0,388,Hazardous,319.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 06:00 AM,2020,12,23,06,276.5,327,Hazardous,221.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 07:00 AM,2020,12,23,07,224.4,274,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 08:00 AM,2020,12,23,08,193.3,243,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 09:00 AM,2020,12,23,09,186.0,236,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 10:00 AM,2020,12,23,10,239.2,289,Very Unhealthy,292.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 11:00 AM,2020,12,23,11,180.9,231,Very Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 12:00 PM,2020,12,23,12,112.3,180,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 01:00 PM,2020,12,23,13,75.1,161,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 02:00 PM,2020,12,23,14,59.0,153,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 03:00 PM,2020,12,23,15,55.4,150,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 04:00 PM,2020,12,23,16,63.2,155,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 05:00 PM,2020,12,23,17,73.5,160,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 06:00 PM,2020,12,23,18,117.2,183,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 07:00 PM,2020,12,23,19,159.6,210,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 08:00 PM,2020,12,23,20,203.3,253,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 09:00 PM,2020,12,23,21,225.1,275,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-23 10:00 PM,2020,12,23,22,225.1,275,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-24 03:00 AM,2020,12,24,03,-999.0,-999,N/A,322.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 04:00 AM,2020,12,24,04,247.8,297,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 05:00 AM,2020,12,24,05,247.8,297,Very Unhealthy,515.0,UG/M3,1 Hr,Invalid
+Kabul,PM2.5 - Principal,2020-12-24 06:00 AM,2020,12,24,06,275.7,326,Hazardous,291.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 07:00 AM,2020,12,24,07,292.9,343,Hazardous,313.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 08:00 AM,2020,12,24,08,293.0,343,Hazardous,293.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 09:00 AM,2020,12,24,09,338.1,388,Hazardous,385.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 10:00 AM,2020,12,24,10,250.8,301,Hazardous,163.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 11:00 AM,2020,12,24,11,180.2,230,Very Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 12:00 PM,2020,12,24,12,107.7,178,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 01:00 PM,2020,12,24,13,71.7,159,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 02:00 PM,2020,12,24,14,67.8,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 03:00 PM,2020,12,24,15,55.4,150,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 04:00 PM,2020,12,24,16,54.1,147,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 05:00 PM,2020,12,24,17,75.0,161,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 06:00 PM,2020,12,24,18,144.5,197,Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 07:00 PM,2020,12,24,19,250.7,301,Hazardous,357.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 08:00 PM,2020,12,24,20,303.8,354,Hazardous,357.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-24 09:00 PM,2020,12,24,21,303.8,354,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-25 03:00 AM,2020,12,25,03,-999.0,-999,N/A,364.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 04:00 AM,2020,12,25,04,349.1,399,Hazardous,342.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 05:00 AM,2020,12,25,05,321.7,372,Hazardous,295.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 06:00 AM,2020,12,25,06,323.3,373,Hazardous,305.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 07:00 AM,2020,12,25,07,326.4,376,Hazardous,337.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 08:00 AM,2020,12,25,08,260.4,311,Hazardous,192.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 09:00 AM,2020,12,25,09,195.6,246,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 10:00 AM,2020,12,25,10,228.9,279,Very Unhealthy,262.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 11:00 AM,2020,12,25,11,240.9,291,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 12:00 PM,2020,12,25,12,235.4,285,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 01:00 PM,2020,12,25,13,302.7,353,Hazardous,370.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 02:00 PM,2020,12,25,14,276.3,327,Hazardous,250.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 03:00 PM,2020,12,25,15,196.1,246,Very Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 04:00 PM,2020,12,25,16,144.0,197,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 05:00 PM,2020,12,25,17,124.0,186,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 06:00 PM,2020,12,25,18,98.4,173,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 07:00 PM,2020,12,25,19,106.2,177,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 08:00 PM,2020,12,25,20,136.6,193,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 09:00 PM,2020,12,25,21,120.7,185,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 10:00 PM,2020,12,25,22,253.4,304,Hazardous,386.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-25 11:00 PM,2020,12,25,23,252.2,303,Hazardous,251.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 12:00 AM,2020,12,26,00,275.1,325,Hazardous,298.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 01:00 AM,2020,12,26,01,310.0,360,Hazardous,345.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 02:00 AM,2020,12,26,02,285.5,336,Hazardous,261.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 03:00 AM,2020,12,26,03,281.2,331,Hazardous,277.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 04:00 AM,2020,12,26,04,294.6,345,Hazardous,308.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 05:00 AM,2020,12,26,05,291.8,342,Hazardous,289.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 06:00 AM,2020,12,26,06,275.9,326,Hazardous,260.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 07:00 AM,2020,12,26,07,265.9,316,Hazardous,256.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 08:00 AM,2020,12,26,08,277.0,327,Hazardous,288.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 09:00 AM,2020,12,26,09,268.4,319,Hazardous,251.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 10:00 AM,2020,12,26,10,209.9,260,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 11:00 AM,2020,12,26,11,171.4,222,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 12:00 PM,2020,12,26,12,129.2,189,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 01:00 PM,2020,12,26,13,114.5,181,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 02:00 PM,2020,12,26,14,81.2,164,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 03:00 PM,2020,12,26,15,58.6,153,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 04:00 PM,2020,12,26,16,70.7,159,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 05:00 PM,2020,12,26,17,119.8,184,Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 06:00 PM,2020,12,26,18,120.4,185,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 07:00 PM,2020,12,26,19,101.1,175,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 08:00 PM,2020,12,26,20,76.5,162,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 09:00 PM,2020,12,26,21,64.2,155,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 10:00 PM,2020,12,26,22,45.6,126,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-26 11:00 PM,2020,12,26,23,41.7,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 12:00 AM,2020,12,27,00,45.3,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 01:00 AM,2020,12,27,01,51.1,139,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 02:00 AM,2020,12,27,02,54.5,148,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 03:00 AM,2020,12,27,03,56.3,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 04:00 AM,2020,12,27,04,35.6,101,Unhealthy for Sensitive Groups,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 05:00 AM,2020,12,27,05,24.3,77,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 06:00 AM,2020,12,27,06,23.6,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 07:00 AM,2020,12,27,07,26.8,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 08:00 AM,2020,12,27,08,30.9,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 09:00 AM,2020,12,27,09,46.9,129,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 10:00 AM,2020,12,27,10,45.9,127,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 11:00 AM,2020,12,27,11,49.4,135,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 12:00 PM,2020,12,27,12,50.2,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 01:00 PM,2020,12,27,13,50.1,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 02:00 PM,2020,12,27,14,47.5,131,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 03:00 PM,2020,12,27,15,44.7,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 04:00 PM,2020,12,27,16,48.8,134,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 05:00 PM,2020,12,27,17,59.9,153,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 06:00 PM,2020,12,27,18,74.9,161,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 07:00 PM,2020,12,27,19,77.4,162,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 08:00 PM,2020,12,27,20,115.7,182,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 09:00 PM,2020,12,27,21,233.4,283,Very Unhealthy,351.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 10:00 PM,2020,12,27,22,292.7,343,Hazardous,352.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-27 11:00 PM,2020,12,27,23,219.8,270,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 12:00 AM,2020,12,28,00,276.9,327,Hazardous,334.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 01:00 AM,2020,12,28,01,260.0,310,Hazardous,243.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 02:00 AM,2020,12,28,02,222.5,272,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 03:00 AM,2020,12,28,03,145.7,198,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 04:00 AM,2020,12,28,04,86.8,167,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 05:00 AM,2020,12,28,05,64.4,156,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 06:00 AM,2020,12,28,06,41.7,116,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 07:00 AM,2020,12,28,07,34.8,99,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 08:00 AM,2020,12,28,08,36.9,104,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 09:00 AM,2020,12,28,09,38.9,109,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 10:00 AM,2020,12,28,10,31.4,92,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 11:00 AM,2020,12,28,11,23.1,74,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 12:00 PM,2020,12,28,12,19.0,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 01:00 PM,2020,12,28,13,19.0,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 02:00 PM,2020,12,28,14,20.4,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 03:00 PM,2020,12,28,15,28.2,85,Moderate,36.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 04:00 PM,2020,12,28,16,28.1,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 05:00 PM,2020,12,28,17,27.5,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 06:00 PM,2020,12,28,18,33.7,96,Moderate,40.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 07:00 PM,2020,12,28,19,39.8,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 08:00 PM,2020,12,28,20,76.9,162,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 09:00 PM,2020,12,28,21,142.9,196,Unhealthy,209.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 10:00 PM,2020,12,28,22,201.0,251,Very Unhealthy,259.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-28 11:00 PM,2020,12,28,23,116.5,182,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 12:00 AM,2020,12,29,00,67.7,157,Unhealthy,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 01:00 AM,2020,12,29,01,49.8,136,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 02:00 AM,2020,12,29,02,29.4,87,Moderate,9.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 03:00 AM,2020,12,29,03,20.7,69,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 04:00 AM,2020,12,29,04,15.3,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 05:00 AM,2020,12,29,05,12.1,51,Moderate,9.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 06:00 AM,2020,12,29,06,12.5,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 07:00 AM,2020,12,29,07,22.7,73,Moderate,33.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 08:00 AM,2020,12,29,08,32.8,95,Moderate,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 09:00 AM,2020,12,29,09,42.4,118,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 10:00 AM,2020,12,29,10,35.6,101,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 11:00 AM,2020,12,29,11,30.8,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 12:00 PM,2020,12,29,12,23.9,76,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 01:00 PM,2020,12,29,13,20.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 02:00 PM,2020,12,29,14,18.2,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 03:00 PM,2020,12,29,15,16.1,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 04:00 PM,2020,12,29,16,16.0,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 05:00 PM,2020,12,29,17,23.0,74,Moderate,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 06:00 PM,2020,12,29,18,92.5,170,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 07:00 PM,2020,12,29,19,142.2,196,Unhealthy,192.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 08:00 PM,2020,12,29,20,167.1,217,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-29 09:00 PM,2020,12,29,21,167.1,217,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-29 10:00 PM,2020,12,29,22,167.1,217,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-29 11:00 PM,2020,12,29,23,167.1,217,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-30 12:00 AM,2020,12,30,00,167.1,217,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-30 04:00 AM,2020,12,30,04,-999.0,-999,N/A,162.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 05:00 AM,2020,12,30,05,199.0,249,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 06:00 AM,2020,12,30,06,105.2,177,Unhealthy,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 07:00 AM,2020,12,30,07,69.8,158,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 08:00 AM,2020,12,30,08,158.7,209,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 09:00 AM,2020,12,30,09,201.0,251,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 10:00 AM,2020,12,30,10,176.8,227,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 11:00 AM,2020,12,30,11,143.7,197,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 12:00 PM,2020,12,30,12,90.7,169,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 01:00 PM,2020,12,30,13,58.3,152,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 02:00 PM,2020,12,30,14,42.1,117,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 03:00 PM,2020,12,30,15,35.0,99,Moderate,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 04:00 PM,2020,12,30,16,36.0,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 05:00 PM,2020,12,30,17,92.5,170,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 06:00 PM,2020,12,30,18,199.7,250,Very Unhealthy,307.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 07:00 PM,2020,12,30,19,253.4,304,Hazardous,307.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2020-12-30 08:00 PM,2020,12,30,20,253.4,304,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-30 09:00 PM,2020,12,30,21,253.4,304,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-30 10:00 PM,2020,12,30,22,253.4,304,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2020-12-30 11:00 PM,2020,12,30,23,253.4,304,Hazardous,-999.0,UG/M3,1 Hr,Missing

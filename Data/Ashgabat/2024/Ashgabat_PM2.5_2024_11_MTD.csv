@@ -1,0 +1,525 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Ashgabat,PM2.5 - Principal,2024-11-01 01:00 AM,2024,11,01,01,44.5,123,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 02:00 AM,2024,11,01,02,43.8,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 03:00 AM,2024,11,01,03,43.3,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 04:00 AM,2024,11,01,04,44.4,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 05:00 AM,2024,11,01,05,44.9,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 06:00 AM,2024,11,01,06,45.7,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 07:00 AM,2024,11,01,07,46.7,129,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 08:00 AM,2024,11,01,08,45.4,125,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 09:00 AM,2024,11,01,09,45.6,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 10:00 AM,2024,11,01,10,50.0,137,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 11:00 AM,2024,11,01,11,52.4,143,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 12:00 PM,2024,11,01,12,54.4,148,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 01:00 PM,2024,11,01,13,51.0,139,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 02:00 PM,2024,11,01,14,47.3,130,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 03:00 PM,2024,11,01,15,40.8,114,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 04:00 PM,2024,11,01,16,37.1,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 05:00 PM,2024,11,01,17,35.2,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 06:00 PM,2024,11,01,18,36.0,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 07:00 PM,2024,11,01,19,38.2,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 08:00 PM,2024,11,01,20,36.7,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 09:00 PM,2024,11,01,21,37.7,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 10:00 PM,2024,11,01,22,31.4,93,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-01 11:00 PM,2024,11,01,23,25.7,82,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 12:00 AM,2024,11,02,00,21.3,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 01:00 AM,2024,11,02,01,21.6,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 02:00 AM,2024,11,02,02,19.3,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 03:00 AM,2024,11,02,03,18.6,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 04:00 AM,2024,11,02,04,16.3,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 05:00 AM,2024,11,02,05,17.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 06:00 AM,2024,11,02,06,15.5,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 07:00 AM,2024,11,02,07,14.7,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 08:00 AM,2024,11,02,08,16.8,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 09:00 AM,2024,11,02,09,26.9,84,Moderate,37.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 10:00 AM,2024,11,02,10,27.9,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 11:00 AM,2024,11,02,11,29.9,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 12:00 PM,2024,11,02,12,34.9,99,Moderate,40.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 01:00 PM,2024,11,02,13,35.5,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 02:00 PM,2024,11,02,14,31.2,92,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 03:00 PM,2024,11,02,15,32.6,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 04:00 PM,2024,11,02,16,44.3,123,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 05:00 PM,2024,11,02,17,44.1,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 06:00 PM,2024,11,02,18,43.5,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 07:00 PM,2024,11,02,19,49.7,136,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 08:00 PM,2024,11,02,20,57.9,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 09:00 PM,2024,11,02,21,55.9,151,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 10:00 PM,2024,11,02,22,51.9,141,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-02 11:00 PM,2024,11,02,23,46.9,129,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 12:00 AM,2024,11,03,00,42.9,119,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 01:00 AM,2024,11,03,01,39.4,111,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 02:00 AM,2024,11,03,02,35.7,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 03:00 AM,2024,11,03,03,32.8,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 04:00 AM,2024,11,03,04,29.4,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 05:00 AM,2024,11,03,05,24.7,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 06:00 AM,2024,11,03,06,20.8,73,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 07:00 AM,2024,11,03,07,17.4,66,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 08:00 AM,2024,11,03,08,16.7,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 09:00 AM,2024,11,03,09,19.3,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 10:00 AM,2024,11,03,10,23.6,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 11:00 AM,2024,11,03,11,27.3,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 12:00 PM,2024,11,03,12,29.1,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 01:00 PM,2024,11,03,13,33.5,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 02:00 PM,2024,11,03,14,33.2,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 03:00 PM,2024,11,03,15,30.1,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 04:00 PM,2024,11,03,16,27.0,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 05:00 PM,2024,11,03,17,29.0,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 06:00 PM,2024,11,03,18,30.0,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 07:00 PM,2024,11,03,19,34.0,97,Moderate,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 08:00 PM,2024,11,03,20,41.5,116,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 09:00 PM,2024,11,03,21,40.2,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 10:00 PM,2024,11,03,22,39.1,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-03 11:00 PM,2024,11,03,23,42.5,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 12:00 AM,2024,11,04,00,44.7,124,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 01:00 AM,2024,11,04,01,42.8,119,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 02:00 AM,2024,11,04,02,40.9,114,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 03:00 AM,2024,11,04,03,37.9,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 04:00 AM,2024,11,04,04,36.0,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 05:00 AM,2024,11,04,05,28.7,88,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 06:00 AM,2024,11,04,06,27.8,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 07:00 AM,2024,11,04,07,23.9,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 08:00 AM,2024,11,04,08,20.9,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 09:00 AM,2024,11,04,09,24.4,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 10:00 AM,2024,11,04,10,27.2,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 11:00 AM,2024,11,04,11,24.1,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 12:00 PM,2024,11,04,12,25.5,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 01:00 PM,2024,11,04,13,25.2,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 02:00 PM,2024,11,04,14,23.1,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 03:00 PM,2024,11,04,15,23.2,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 04:00 PM,2024,11,04,16,28.2,87,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 05:00 PM,2024,11,04,17,25.7,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 06:00 PM,2024,11,04,18,24.4,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 07:00 PM,2024,11,04,19,28.0,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 08:00 PM,2024,11,04,20,27.3,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 09:00 PM,2024,11,04,21,23.7,78,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 10:00 PM,2024,11,04,22,22.5,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-04 11:00 PM,2024,11,04,23,25.3,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 12:00 AM,2024,11,05,00,24.7,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 01:00 AM,2024,11,05,01,24.4,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 02:00 AM,2024,11,05,02,23.8,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 03:00 AM,2024,11,05,03,22.5,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 04:00 AM,2024,11,05,04,19.1,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 05:00 AM,2024,11,05,05,18.5,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 06:00 AM,2024,11,05,06,17.2,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 07:00 AM,2024,11,05,07,15.6,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 08:00 AM,2024,11,05,08,14.3,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 09:00 AM,2024,11,05,09,18.1,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 10:00 AM,2024,11,05,10,21.5,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 11:00 AM,2024,11,05,11,29.2,88,Moderate,37.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 12:00 PM,2024,11,05,12,37.1,105,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 01:00 PM,2024,11,05,13,40.0,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 02:00 PM,2024,11,05,14,37.0,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 03:00 PM,2024,11,05,15,33.5,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 04:00 PM,2024,11,05,16,28.7,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 05:00 PM,2024,11,05,17,26.8,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 06:00 PM,2024,11,05,18,26.4,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 07:00 PM,2024,11,05,19,29.2,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 08:00 PM,2024,11,05,20,36.1,102,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 09:00 PM,2024,11,05,21,32.5,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 10:00 PM,2024,11,05,22,30.4,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-05 11:00 PM,2024,11,05,23,28.3,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 12:00 AM,2024,11,06,00,26.5,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 01:00 AM,2024,11,06,01,46.0,127,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 02:00 AM,2024,11,06,02,38.5,108,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 03:00 AM,2024,11,06,03,28.7,88,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 04:00 AM,2024,11,06,04,23.3,77,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 05:00 AM,2024,11,06,05,17.6,67,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 06:00 AM,2024,11,06,06,13.3,59,Moderate,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 07:00 AM,2024,11,06,07,11.1,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 08:00 AM,2024,11,06,08,14.0,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 09:00 AM,2024,11,06,09,14.0,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 10:00 AM,2024,11,06,10,14.0,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 11:00 AM,2024,11,06,11,13.0,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 12:00 PM,2024,11,06,12,12.5,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 01:00 PM,2024,11,06,13,13.2,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 02:00 PM,2024,11,06,14,12.6,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 03:00 PM,2024,11,06,15,13.3,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 04:00 PM,2024,11,06,16,15.0,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 05:00 PM,2024,11,06,17,15.9,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 06:00 PM,2024,11,06,18,18.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 07:00 PM,2024,11,06,19,17.6,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 08:00 PM,2024,11,06,20,19.7,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 09:00 PM,2024,11,06,21,19.8,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 10:00 PM,2024,11,06,22,19.4,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-06 11:00 PM,2024,11,06,23,21.1,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 12:00 AM,2024,11,07,00,22.0,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 01:00 AM,2024,11,07,01,23.0,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 02:00 AM,2024,11,07,02,20.3,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 03:00 AM,2024,11,07,03,21.9,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 04:00 AM,2024,11,07,04,21.0,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 05:00 AM,2024,11,07,05,17.0,66,Moderate,13.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 06:00 AM,2024,11,07,06,18.4,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 07:00 AM,2024,11,07,07,20.6,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 08:00 AM,2024,11,07,08,21.2,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 09:00 AM,2024,11,07,09,24.6,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 10:00 AM,2024,11,07,10,24.8,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 11:00 AM,2024,11,07,11,27.9,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 12:00 PM,2024,11,07,12,33.4,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 01:00 PM,2024,11,07,13,33.7,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 02:00 PM,2024,11,07,14,36.8,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 03:00 PM,2024,11,07,15,35.4,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 04:00 PM,2024,11,07,16,27.7,86,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 05:00 PM,2024,11,07,17,24.3,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 06:00 PM,2024,11,07,18,21.1,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 07:00 PM,2024,11,07,19,19.0,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 08:00 PM,2024,11,07,20,20.5,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 09:00 PM,2024,11,07,21,20.2,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 10:00 PM,2024,11,07,22,17.1,66,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-07 11:00 PM,2024,11,07,23,16.0,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 12:00 AM,2024,11,08,00,13.5,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 01:00 AM,2024,11,08,01,14.2,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 02:00 AM,2024,11,08,02,14.6,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 03:00 AM,2024,11,08,03,12.3,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 04:00 AM,2024,11,08,04,12.1,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 05:00 AM,2024,11,08,05,11.5,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 06:00 AM,2024,11,08,06,11.2,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 07:00 AM,2024,11,08,07,9.1,51,Moderate,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 08:00 AM,2024,11,08,08,11.0,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 09:00 AM,2024,11,08,09,11.5,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 10:00 AM,2024,11,08,10,9.2,51,Moderate,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 11:00 AM,2024,11,08,11,9.6,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 12:00 PM,2024,11,08,12,10.3,53,Moderate,11.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 01:00 PM,2024,11,08,13,9.6,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 02:00 PM,2024,11,08,14,8.9,49,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 03:00 PM,2024,11,08,15,8.9,49,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 04:00 PM,2024,11,08,16,8.9,49,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 05:00 PM,2024,11,08,17,8.0,44,Good,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 06:00 PM,2024,11,08,18,8.9,49,Good,10.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 07:00 PM,2024,11,08,19,12.9,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 08:00 PM,2024,11,08,20,17.4,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 09:00 PM,2024,11,08,21,16.7,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 10:00 PM,2024,11,08,22,18.3,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-08 11:00 PM,2024,11,08,23,20.6,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 12:00 AM,2024,11,09,00,25.8,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 01:00 AM,2024,11,09,01,26.9,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 02:00 AM,2024,11,09,02,23.9,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 03:00 AM,2024,11,09,03,22.4,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 04:00 AM,2024,11,09,04,18.7,69,Moderate,15.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 05:00 AM,2024,11,09,05,15.3,63,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 06:00 AM,2024,11,09,06,12.6,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 07:00 AM,2024,11,09,07,13.3,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 08:00 AM,2024,11,09,08,14.6,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 09:00 AM,2024,11,09,09,15.3,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 10:00 AM,2024,11,09,10,15.6,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 11:00 AM,2024,11,09,11,17.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 12:00 PM,2024,11,09,12,23.4,78,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 01:00 PM,2024,11,09,13,23.7,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 02:00 PM,2024,11,09,14,24.3,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 03:00 PM,2024,11,09,15,25.1,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 04:00 PM,2024,11,09,16,32.5,95,Moderate,40.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 05:00 PM,2024,11,09,17,39.8,112,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 06:00 PM,2024,11,09,18,38.9,109,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 07:00 PM,2024,11,09,19,36.9,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 08:00 PM,2024,11,09,20,37.4,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 09:00 PM,2024,11,09,21,35.2,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 10:00 PM,2024,11,09,22,39.6,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-09 11:00 PM,2024,11,09,23,39.7,111,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 12:00 AM,2024,11,10,00,38.9,109,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 01:00 AM,2024,11,10,01,39.8,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 02:00 AM,2024,11,10,02,39.0,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 03:00 AM,2024,11,10,03,38.7,109,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 04:00 AM,2024,11,10,04,38.8,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 05:00 AM,2024,11,10,05,37.2,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 06:00 AM,2024,11,10,06,36.6,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 07:00 AM,2024,11,10,07,36.2,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 08:00 AM,2024,11,10,08,35.6,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 09:00 AM,2024,11,10,09,35.5,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 10:00 AM,2024,11,10,10,35.7,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 11:00 AM,2024,11,10,11,36.1,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 12:00 PM,2024,11,10,12,37.4,106,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 01:00 PM,2024,11,10,13,35.8,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 02:00 PM,2024,11,10,14,34.8,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 03:00 PM,2024,11,10,15,33.3,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 04:00 PM,2024,11,10,16,32.3,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 05:00 PM,2024,11,10,17,31.1,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 06:00 PM,2024,11,10,18,26.9,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 07:00 PM,2024,11,10,19,29.6,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 08:00 PM,2024,11,10,20,35.8,102,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 09:00 PM,2024,11,10,21,39.8,112,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 10:00 PM,2024,11,10,22,37.5,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-10 11:00 PM,2024,11,10,23,36.3,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 12:00 AM,2024,11,11,00,33.3,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 01:00 AM,2024,11,11,01,32.6,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 02:00 AM,2024,11,11,02,31.4,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 03:00 AM,2024,11,11,03,30.7,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 04:00 AM,2024,11,11,04,27.9,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 05:00 AM,2024,11,11,05,25.6,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 06:00 AM,2024,11,11,06,26.2,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 07:00 AM,2024,11,11,07,26.6,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 08:00 AM,2024,11,11,08,26.3,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 09:00 AM,2024,11,11,09,28.7,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 10:00 AM,2024,11,11,10,31.4,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 11:00 AM,2024,11,11,11,33.0,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 12:00 PM,2024,11,11,12,29.4,89,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 01:00 PM,2024,11,11,13,25.0,81,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 02:00 PM,2024,11,11,14,21.1,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 03:00 PM,2024,11,11,15,19.0,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 04:00 PM,2024,11,11,16,23.0,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 05:00 PM,2024,11,11,17,24.0,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 06:00 PM,2024,11,11,18,26.5,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 07:00 PM,2024,11,11,19,32.7,95,Moderate,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 08:00 PM,2024,11,11,20,37.8,107,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 09:00 PM,2024,11,11,21,43.9,122,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 10:00 PM,2024,11,11,22,44.9,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-11 11:00 PM,2024,11,11,23,41.9,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 12:00 AM,2024,11,12,00,37.4,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 01:00 AM,2024,11,12,01,33.7,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 02:00 AM,2024,11,12,02,29.8,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 03:00 AM,2024,11,12,03,27.4,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 04:00 AM,2024,11,12,04,28.2,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 05:00 AM,2024,11,12,05,27.1,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 06:00 AM,2024,11,12,06,29.0,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 07:00 AM,2024,11,12,07,28.0,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 08:00 AM,2024,11,12,08,29.0,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 09:00 AM,2024,11,12,09,26.0,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 10:00 AM,2024,11,12,10,21.9,75,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 11:00 AM,2024,11,12,11,21.3,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 12:00 PM,2024,11,12,12,22.6,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 01:00 PM,2024,11,12,13,24.8,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 02:00 PM,2024,11,12,14,22.4,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 03:00 PM,2024,11,12,15,19.9,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 04:00 PM,2024,11,12,16,21.2,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 05:00 PM,2024,11,12,17,22.0,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 06:00 PM,2024,11,12,18,23.7,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 07:00 PM,2024,11,12,19,25.5,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 08:00 PM,2024,11,12,20,26.9,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 09:00 PM,2024,11,12,21,24.0,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 10:00 PM,2024,11,12,22,23.2,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-12 11:00 PM,2024,11,12,23,21.4,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 12:00 AM,2024,11,13,00,22.5,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 01:00 AM,2024,11,13,01,25.1,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 02:00 AM,2024,11,13,02,22.6,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 03:00 AM,2024,11,13,03,19.6,71,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 04:00 AM,2024,11,13,04,19.7,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 05:00 AM,2024,11,13,05,16.7,65,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 06:00 AM,2024,11,13,06,14.3,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 07:00 AM,2024,11,13,07,14.6,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 08:00 AM,2024,11,13,08,11.3,55,Moderate,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 09:00 AM,2024,11,13,09,9.6,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 10:00 AM,2024,11,13,10,8.8,49,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-13 11:00 AM,2024,11,13,11,8.8,49,Good,-999.0,UG/M3,1 Hr,Missing
+Ashgabat,PM2.5 - Principal,2024-11-18 07:00 PM,2024,11,18,19,-999.0,-999,N/A,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-18 08:00 PM,2024,11,18,20,28.0,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-18 09:00 PM,2024,11,18,21,23.7,78,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-18 10:00 PM,2024,11,18,22,22.1,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-18 11:00 PM,2024,11,18,23,21.3,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 12:00 AM,2024,11,19,00,21.5,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 01:00 AM,2024,11,19,01,27.0,84,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 02:00 AM,2024,11,19,02,23.9,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 03:00 AM,2024,11,19,03,22.1,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 04:00 AM,2024,11,19,04,19.4,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 05:00 AM,2024,11,19,05,18.2,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 06:00 AM,2024,11,19,06,19.1,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 07:00 AM,2024,11,19,07,19.5,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 08:00 AM,2024,11,19,08,21.2,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 09:00 AM,2024,11,19,09,23.6,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 10:00 AM,2024,11,19,10,22.8,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 11:00 AM,2024,11,19,11,20.9,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 12:00 PM,2024,11,19,12,24.4,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 01:00 PM,2024,11,19,13,26.0,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 02:00 PM,2024,11,19,14,25.6,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 03:00 PM,2024,11,19,15,25.3,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-19 04:00 PM,2024,11,19,16,25.3,81,Moderate,-999.0,UG/M3,1 Hr,Missing
+Ashgabat,PM2.5 - Principal,2024-11-22 02:00 PM,2024,11,22,14,-999.0,-999,N/A,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 03:00 PM,2024,11,22,15,48.9,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 04:00 PM,2024,11,22,16,48.9,134,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 05:00 PM,2024,11,22,17,49.2,135,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 06:00 PM,2024,11,22,18,49.6,136,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 07:00 PM,2024,11,22,19,51.5,140,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 08:00 PM,2024,11,22,20,54.6,148,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 09:00 PM,2024,11,22,21,62.0,156,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 10:00 PM,2024,11,22,22,61.3,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-22 11:00 PM,2024,11,22,23,52.2,142,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 12:00 AM,2024,11,23,00,42.6,118,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 01:00 AM,2024,11,23,01,39.3,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 02:00 AM,2024,11,23,02,33.1,96,Moderate,27.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 03:00 AM,2024,11,23,03,28.0,86,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 04:00 AM,2024,11,23,04,26.0,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 05:00 AM,2024,11,23,05,27.5,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 06:00 AM,2024,11,23,06,24.7,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 07:00 AM,2024,11,23,07,23.3,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 08:00 AM,2024,11,23,08,26.6,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 09:00 AM,2024,11,23,09,31.3,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 10:00 AM,2024,11,23,10,39.6,111,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 11:00 AM,2024,11,23,11,45.3,125,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 12:00 PM,2024,11,23,12,44.1,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 01:00 PM,2024,11,23,13,40.0,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 02:00 PM,2024,11,23,14,35.5,101,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 03:00 PM,2024,11,23,15,30.7,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 04:00 PM,2024,11,23,16,31.3,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 05:00 PM,2024,11,23,17,31.6,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 06:00 PM,2024,11,23,18,31.3,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 07:00 PM,2024,11,23,19,32.6,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 08:00 PM,2024,11,23,20,31.8,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 09:00 PM,2024,11,23,21,31.4,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 10:00 PM,2024,11,23,22,31.7,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-23 11:00 PM,2024,11,23,23,35.3,100,Moderate,41.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 12:00 AM,2024,11,24,00,44.6,123,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 01:00 AM,2024,11,24,01,51.3,140,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 02:00 AM,2024,11,24,02,53.6,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 03:00 AM,2024,11,24,03,53.0,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 04:00 AM,2024,11,24,04,49.2,135,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 05:00 AM,2024,11,24,05,44.0,122,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 06:00 AM,2024,11,24,06,44.9,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 07:00 AM,2024,11,24,07,47.7,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 08:00 AM,2024,11,24,08,48.8,134,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 09:00 AM,2024,11,24,09,50.6,138,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 10:00 AM,2024,11,24,10,56.5,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 11:00 AM,2024,11,24,11,64.3,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 12:00 PM,2024,11,24,12,68.5,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 01:00 PM,2024,11,24,13,58.7,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 02:00 PM,2024,11,24,14,57.4,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 03:00 PM,2024,11,24,15,49.5,135,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 04:00 PM,2024,11,24,16,46.8,129,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 05:00 PM,2024,11,24,17,46.0,127,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 06:00 PM,2024,11,24,18,42.5,118,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 07:00 PM,2024,11,24,19,46.9,129,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 08:00 PM,2024,11,24,20,46.5,128,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 09:00 PM,2024,11,24,21,49.0,134,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 10:00 PM,2024,11,24,22,49.4,135,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-24 11:00 PM,2024,11,24,23,44.5,123,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 12:00 AM,2024,11,25,00,41.9,117,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 01:00 AM,2024,11,25,01,37.8,107,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 02:00 AM,2024,11,25,02,39.0,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 03:00 AM,2024,11,25,03,32.1,94,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 04:00 AM,2024,11,25,04,27.0,84,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 05:00 AM,2024,11,25,05,26.5,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 06:00 AM,2024,11,25,06,23.2,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 07:00 AM,2024,11,25,07,22.6,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 08:00 AM,2024,11,25,08,17.3,66,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 09:00 AM,2024,11,25,09,19.1,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 10:00 AM,2024,11,25,10,19.0,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 11:00 AM,2024,11,25,11,20.0,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 12:00 PM,2024,11,25,12,31.0,92,Moderate,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 01:00 PM,2024,11,25,13,33.0,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 02:00 PM,2024,11,25,14,35.0,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 03:00 PM,2024,11,25,15,30.5,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 04:00 PM,2024,11,25,16,27.2,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 05:00 PM,2024,11,25,17,25.1,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 06:00 PM,2024,11,25,18,29.0,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 07:00 PM,2024,11,25,19,37.5,106,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 08:00 PM,2024,11,25,20,49.2,135,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 09:00 PM,2024,11,25,21,50.1,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 10:00 PM,2024,11,25,22,50.0,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-25 11:00 PM,2024,11,25,23,46.5,128,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 12:00 AM,2024,11,26,00,40.7,114,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 01:00 AM,2024,11,26,01,35.3,100,Moderate,30.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 02:00 AM,2024,11,26,02,28.1,86,Moderate,21.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 03:00 AM,2024,11,26,03,25.0,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 04:00 AM,2024,11,26,04,21.5,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 05:00 AM,2024,11,26,05,19.2,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 06:00 AM,2024,11,26,06,19.1,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 07:00 AM,2024,11,26,07,18.5,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 08:00 AM,2024,11,26,08,17.7,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 09:00 AM,2024,11,26,09,16.8,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 10:00 AM,2024,11,26,10,15.9,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 11:00 AM,2024,11,26,11,21.9,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 12:00 PM,2024,11,26,12,30.4,91,Moderate,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 01:00 PM,2024,11,26,13,28.2,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 02:00 PM,2024,11,26,14,23.6,78,Moderate,19.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 03:00 PM,2024,11,26,15,21.8,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 04:00 PM,2024,11,26,16,26.9,84,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 05:00 PM,2024,11,26,17,36.4,103,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 06:00 PM,2024,11,26,18,52.7,143,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 07:00 PM,2024,11,26,19,65.8,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 08:00 PM,2024,11,26,20,68.4,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 09:00 PM,2024,11,26,21,61.2,155,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 10:00 PM,2024,11,26,22,55.6,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-26 11:00 PM,2024,11,26,23,53.8,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 12:00 AM,2024,11,27,00,48.4,133,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 01:00 AM,2024,11,27,01,45.2,125,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 02:00 AM,2024,11,27,02,52.1,142,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 03:00 AM,2024,11,27,03,58.0,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 04:00 AM,2024,11,27,04,56.8,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 05:00 AM,2024,11,27,05,55.0,149,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 06:00 AM,2024,11,27,06,48.9,134,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 07:00 AM,2024,11,27,07,48.9,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 08:00 AM,2024,11,27,08,53.8,146,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 09:00 AM,2024,11,27,09,56.3,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 10:00 AM,2024,11,27,10,61.0,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 11:00 AM,2024,11,27,11,69.6,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 12:00 PM,2024,11,27,12,67.9,160,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 01:00 PM,2024,11,27,13,64.2,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 02:00 PM,2024,11,27,14,58.6,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 03:00 PM,2024,11,27,15,56.4,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 04:00 PM,2024,11,27,16,54.4,148,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 05:00 PM,2024,11,27,17,53.7,146,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 06:00 PM,2024,11,27,18,55.4,150,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 07:00 PM,2024,11,27,19,60.1,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 08:00 PM,2024,11,27,20,56.6,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 09:00 PM,2024,11,27,21,53.2,145,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 10:00 PM,2024,11,27,22,49.5,135,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-27 11:00 PM,2024,11,27,23,47.4,130,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 12:00 AM,2024,11,28,00,44.5,123,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 01:00 AM,2024,11,28,01,43.0,119,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 02:00 AM,2024,11,28,02,38.0,107,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 03:00 AM,2024,11,28,03,36.0,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 04:00 AM,2024,11,28,04,35.5,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 05:00 AM,2024,11,28,05,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 06:00 AM,2024,11,28,06,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 07:00 AM,2024,11,28,07,34.1,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 08:00 AM,2024,11,28,08,33.8,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 09:00 AM,2024,11,28,09,34.0,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 10:00 AM,2024,11,28,10,33.8,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 11:00 AM,2024,11,28,11,33.8,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 12:00 PM,2024,11,28,12,34.5,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 01:00 PM,2024,11,28,13,32.8,95,Moderate,28.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 02:00 PM,2024,11,28,14,33.8,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 03:00 PM,2024,11,28,15,35.3,100,Moderate,39.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 04:00 PM,2024,11,28,16,35.5,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 05:00 PM,2024,11,28,17,31.9,93,Moderate,25.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 06:00 PM,2024,11,28,18,21.3,74,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 07:00 PM,2024,11,28,19,16.1,64,Moderate,11.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 08:00 PM,2024,11,28,20,14.0,60,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 09:00 PM,2024,11,28,21,10.5,54,Moderate,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 10:00 PM,2024,11,28,22,8.2,46,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-28 11:00 PM,2024,11,28,23,6.6,37,Good,5.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 12:00 AM,2024,11,29,00,7.3,41,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 01:00 AM,2024,11,29,01,9.1,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 02:00 AM,2024,11,29,02,9.0,50,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 03:00 AM,2024,11,29,03,7.5,42,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 04:00 AM,2024,11,29,04,6.7,37,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 05:00 AM,2024,11,29,05,7.8,43,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 06:00 AM,2024,11,29,06,7.9,44,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 07:00 AM,2024,11,29,07,8.4,47,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 08:00 AM,2024,11,29,08,6.7,37,Good,5.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 09:00 AM,2024,11,29,09,4.8,27,Good,3.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 10:00 AM,2024,11,29,10,5.9,33,Good,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 11:00 AM,2024,11,29,11,7.4,41,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 12:00 PM,2024,11,29,12,7.7,43,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 01:00 PM,2024,11,29,13,8.8,49,Good,10.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 02:00 PM,2024,11,29,14,7.9,44,Good,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 03:00 PM,2024,11,29,15,7.9,44,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 04:00 PM,2024,11,29,16,7.4,41,Good,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 05:00 PM,2024,11,29,17,6.7,37,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 06:00 PM,2024,11,29,18,6.3,35,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 07:00 PM,2024,11,29,19,7.6,42,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 08:00 PM,2024,11,29,20,9.8,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 09:00 PM,2024,11,29,21,8.9,49,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 10:00 PM,2024,11,29,22,10.4,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-29 11:00 PM,2024,11,29,23,10.7,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 12:00 AM,2024,11,30,00,10.3,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 01:00 AM,2024,11,30,01,8.6,48,Good,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 02:00 AM,2024,11,30,02,10.3,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 03:00 AM,2024,11,30,03,9.6,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 04:00 AM,2024,11,30,04,11.8,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 05:00 AM,2024,11,30,05,11.9,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 06:00 AM,2024,11,30,06,11.9,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 07:00 AM,2024,11,30,07,10.4,53,Moderate,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 08:00 AM,2024,11,30,08,7.7,43,Good,5.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 09:00 AM,2024,11,30,09,10.8,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 10:00 AM,2024,11,30,10,11.9,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 11:00 AM,2024,11,30,11,9.9,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 12:00 PM,2024,11,30,12,6.9,38,Good,4.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 01:00 PM,2024,11,30,13,5.4,30,Good,4.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 02:00 PM,2024,11,30,14,5.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 03:00 PM,2024,11,30,15,5.3,29,Good,5.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 04:00 PM,2024,11,30,16,5.6,31,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 05:00 PM,2024,11,30,17,5.8,32,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 06:00 PM,2024,11,30,18,5.4,30,Good,5.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 07:00 PM,2024,11,30,19,6.7,37,Good,8.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 08:00 PM,2024,11,30,20,8.3,46,Good,10.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 09:00 PM,2024,11,30,21,8.6,48,Good,9.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 10:00 PM,2024,11,30,22,7.8,43,Good,7.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-11-30 11:00 PM,2024,11,30,23,6.9,38,Good,6.0,UG/M3,1 Hr,Valid
+Ashgabat,PM2.5 - Principal,2024-12-01 12:00 AM,2024,12,01,00,7.4,41,Good,8.0,UG/M3,1 Hr,Valid

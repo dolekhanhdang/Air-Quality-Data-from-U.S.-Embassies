@@ -1,0 +1,536 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dubai,PM2.5 - Principal,2024-07-09 06:00 PM,2024,07,09,18,-999.0,-999,N/A,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-09 07:00 PM,2024,07,09,19,44.0,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-09 08:00 PM,2024,07,09,20,47.2,130,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-09 09:00 PM,2024,07,09,21,50.0,137,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-09 10:00 PM,2024,07,09,22,52.0,142,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-09 11:00 PM,2024,07,09,23,55.3,150,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 12:00 AM,2024,07,10,00,53.3,145,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 01:00 AM,2024,07,10,01,48.0,132,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 02:00 AM,2024,07,10,02,46.9,129,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 03:00 AM,2024,07,10,03,44.0,122,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 04:00 AM,2024,07,10,04,42.2,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 05:00 AM,2024,07,10,05,39.2,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 06:00 AM,2024,07,10,06,39.1,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 07:00 AM,2024,07,10,07,39.9,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 08:00 AM,2024,07,10,08,40.7,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 09:00 AM,2024,07,10,09,47.4,130,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 10:00 AM,2024,07,10,10,60.9,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 11:00 AM,2024,07,10,11,72.4,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 12:00 PM,2024,07,10,12,78.7,167,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 01:00 PM,2024,07,10,13,79.3,168,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 02:00 PM,2024,07,10,14,80.6,169,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 03:00 PM,2024,07,10,15,79.8,168,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 04:00 PM,2024,07,10,16,71.9,162,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 05:00 PM,2024,07,10,17,71.9,162,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Dubai,PM2.5 - Principal,2024-07-10 06:00 PM,2024,07,10,18,63.3,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 07:00 PM,2024,07,10,19,62.5,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 08:00 PM,2024,07,10,20,66.0,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 09:00 PM,2024,07,10,21,67.6,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 10:00 PM,2024,07,10,22,70.9,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-10 11:00 PM,2024,07,10,23,72.8,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 12:00 AM,2024,07,11,00,76.6,166,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 01:00 AM,2024,07,11,01,76.4,166,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 02:00 AM,2024,07,11,02,75.3,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 03:00 AM,2024,07,11,03,76.4,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 04:00 AM,2024,07,11,04,76.9,166,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 05:00 AM,2024,07,11,05,69.3,161,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 06:00 AM,2024,07,11,06,82.0,170,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 07:00 AM,2024,07,11,07,87.4,173,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 08:00 AM,2024,07,11,08,85.0,172,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 09:00 AM,2024,07,11,09,77.8,167,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 10:00 AM,2024,07,11,10,67.9,160,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 11:00 AM,2024,07,11,11,65.2,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 12:00 PM,2024,07,11,12,61.0,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 01:00 PM,2024,07,11,13,61.0,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 02:00 PM,2024,07,11,14,57.7,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 03:00 PM,2024,07,11,15,56.9,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 04:00 PM,2024,07,11,16,54.4,148,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 05:00 PM,2024,07,11,17,56.1,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 06:00 PM,2024,07,11,18,57.4,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 07:00 PM,2024,07,11,19,55.3,150,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 08:00 PM,2024,07,11,20,57.6,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 09:00 PM,2024,07,11,21,63.1,156,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 10:00 PM,2024,07,11,22,66.2,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-11 11:00 PM,2024,07,11,23,67.4,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 12:00 AM,2024,07,12,00,67.9,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 01:00 AM,2024,07,12,01,65.8,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 02:00 AM,2024,07,12,02,68.7,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 03:00 AM,2024,07,12,03,71.1,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 04:00 AM,2024,07,12,04,72.7,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 05:00 AM,2024,07,12,05,73.2,163,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 06:00 AM,2024,07,12,06,72.8,163,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 07:00 AM,2024,07,12,07,72.5,163,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 08:00 AM,2024,07,12,08,73.2,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 09:00 AM,2024,07,12,09,74.6,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 10:00 AM,2024,07,12,10,71.4,162,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 11:00 AM,2024,07,12,11,64.1,157,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 12:00 PM,2024,07,12,12,62.3,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 01:00 PM,2024,07,12,13,57.4,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 02:00 PM,2024,07,12,14,53.3,145,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 03:00 PM,2024,07,12,15,49.3,135,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 04:00 PM,2024,07,12,16,46.1,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 05:00 PM,2024,07,12,17,46.5,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 06:00 PM,2024,07,12,18,52.2,142,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 07:00 PM,2024,07,12,19,58.0,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 08:00 PM,2024,07,12,20,60.7,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 09:00 PM,2024,07,12,21,64.7,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 10:00 PM,2024,07,12,22,69.4,161,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-12 11:00 PM,2024,07,12,23,70.9,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 12:00 AM,2024,07,13,00,72.2,163,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 01:00 AM,2024,07,13,01,68.7,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 02:00 AM,2024,07,13,02,70.1,161,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 03:00 AM,2024,07,13,03,71.8,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 04:00 AM,2024,07,13,04,71.3,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 05:00 AM,2024,07,13,05,70.7,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 06:00 AM,2024,07,13,06,69.4,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 07:00 AM,2024,07,13,07,69.2,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 08:00 AM,2024,07,13,08,69.6,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 09:00 AM,2024,07,13,09,69.3,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 10:00 AM,2024,07,13,10,69.1,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 11:00 AM,2024,07,13,11,68.1,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 12:00 PM,2024,07,13,12,66.2,159,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 01:00 PM,2024,07,13,13,65.5,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 02:00 PM,2024,07,13,14,65.7,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 03:00 PM,2024,07,13,15,65.6,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 04:00 PM,2024,07,13,16,69.7,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 05:00 PM,2024,07,13,17,72.0,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 06:00 PM,2024,07,13,18,73.4,164,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 07:00 PM,2024,07,13,19,75.2,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 08:00 PM,2024,07,13,20,77.1,166,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 09:00 PM,2024,07,13,21,81.2,169,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 10:00 PM,2024,07,13,22,82.1,170,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-13 11:00 PM,2024,07,13,23,87.3,173,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 12:00 AM,2024,07,14,00,86.9,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 01:00 AM,2024,07,14,01,82.6,170,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 02:00 AM,2024,07,14,02,79.6,168,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 03:00 AM,2024,07,14,03,79.0,167,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 04:00 AM,2024,07,14,04,80.2,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 05:00 AM,2024,07,14,05,89.5,175,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 06:00 AM,2024,07,14,06,97.7,181,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 07:00 AM,2024,07,14,07,105.0,186,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 08:00 AM,2024,07,14,08,104.3,185,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 09:00 AM,2024,07,14,09,104.9,186,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 10:00 AM,2024,07,14,10,104.2,185,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 11:00 AM,2024,07,14,11,100.4,182,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 12:00 PM,2024,07,14,12,98.8,181,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 01:00 PM,2024,07,14,13,98.5,181,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 02:00 PM,2024,07,14,14,102.0,184,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 03:00 PM,2024,07,14,15,104.5,185,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 04:00 PM,2024,07,14,16,103.4,185,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 05:00 PM,2024,07,14,17,102.0,184,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 06:00 PM,2024,07,14,18,98.5,181,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 07:00 PM,2024,07,14,19,98.1,181,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 08:00 PM,2024,07,14,20,96.9,180,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 09:00 PM,2024,07,14,21,95.5,179,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 10:00 PM,2024,07,14,22,92.5,177,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-14 11:00 PM,2024,07,14,23,89.3,175,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 12:00 AM,2024,07,15,00,86.3,173,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 01:00 AM,2024,07,15,01,84.7,171,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 02:00 AM,2024,07,15,02,83.5,171,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 03:00 AM,2024,07,15,03,84.9,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 04:00 AM,2024,07,15,04,85.5,172,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 05:00 AM,2024,07,15,05,84.2,171,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 06:00 AM,2024,07,15,06,83.3,170,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 07:00 AM,2024,07,15,07,83.1,170,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 08:00 AM,2024,07,15,08,85.0,172,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 09:00 AM,2024,07,15,09,86.1,172,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 10:00 AM,2024,07,15,10,86.1,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 11:00 AM,2024,07,15,11,87.2,173,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 12:00 PM,2024,07,15,12,87.7,174,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 01:00 PM,2024,07,15,13,86.7,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 02:00 PM,2024,07,15,14,86.1,172,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 03:00 PM,2024,07,15,15,86.3,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 04:00 PM,2024,07,15,16,85.6,172,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 05:00 PM,2024,07,15,17,85.5,172,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 06:00 PM,2024,07,15,18,86.4,173,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 07:00 PM,2024,07,15,19,87.3,173,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 08:00 PM,2024,07,15,20,88.0,174,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 09:00 PM,2024,07,15,21,88.2,174,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 10:00 PM,2024,07,15,22,89.2,175,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-15 11:00 PM,2024,07,15,23,89.0,174,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 12:00 AM,2024,07,16,00,89.1,175,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 01:00 AM,2024,07,16,01,88.6,174,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 02:00 AM,2024,07,16,02,87.3,173,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 03:00 AM,2024,07,16,03,86.5,173,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 04:00 AM,2024,07,16,04,84.8,172,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 05:00 AM,2024,07,16,05,81.9,170,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 06:00 AM,2024,07,16,06,81.6,169,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 07:00 AM,2024,07,16,07,74.3,164,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 08:00 AM,2024,07,16,08,59.0,153,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 09:00 AM,2024,07,16,09,52.5,143,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 10:00 AM,2024,07,16,10,52.4,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 11:00 AM,2024,07,16,11,53.6,146,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 12:00 PM,2024,07,16,12,50.7,138,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 01:00 PM,2024,07,16,13,52.2,142,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 02:00 PM,2024,07,16,14,56.5,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 03:00 PM,2024,07,16,15,52.7,143,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 04:00 PM,2024,07,16,16,49.8,136,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 05:00 PM,2024,07,16,17,49.4,135,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 06:00 PM,2024,07,16,18,51.0,139,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 07:00 PM,2024,07,16,19,52.3,142,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 08:00 PM,2024,07,16,20,52.2,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 09:00 PM,2024,07,16,21,52.2,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 10:00 PM,2024,07,16,22,53.7,146,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-16 11:00 PM,2024,07,16,23,54.0,147,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 12:00 AM,2024,07,17,00,53.0,144,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 01:00 AM,2024,07,17,01,50.7,138,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 02:00 AM,2024,07,17,02,48.2,132,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 03:00 AM,2024,07,17,03,46.7,129,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 04:00 AM,2024,07,17,04,46.8,129,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 05:00 AM,2024,07,17,05,46.0,127,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 06:00 AM,2024,07,17,06,45.6,126,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 07:00 AM,2024,07,17,07,45.7,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 08:00 AM,2024,07,17,08,46.3,128,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 09:00 AM,2024,07,17,09,47.8,131,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 10:00 AM,2024,07,17,10,45.9,127,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 11:00 AM,2024,07,17,11,46.9,129,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 12:00 PM,2024,07,17,12,49.6,136,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 01:00 PM,2024,07,17,13,52.3,142,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 02:00 PM,2024,07,17,14,57.7,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 03:00 PM,2024,07,17,15,59.3,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 04:00 PM,2024,07,17,16,59.2,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 05:00 PM,2024,07,17,17,55.8,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 06:00 PM,2024,07,17,18,57.0,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 07:00 PM,2024,07,17,19,54.4,148,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 08:00 PM,2024,07,17,20,54.6,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 09:00 PM,2024,07,17,21,55.8,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 10:00 PM,2024,07,17,22,56.0,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-17 11:00 PM,2024,07,17,23,57.5,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 12:00 AM,2024,07,18,00,57.4,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 01:00 AM,2024,07,18,01,56.5,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 02:00 AM,2024,07,18,02,56.5,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 03:00 AM,2024,07,18,03,57.0,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 04:00 AM,2024,07,18,04,56.9,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 05:00 AM,2024,07,18,05,56.8,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 06:00 AM,2024,07,18,06,56.0,151,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 07:00 AM,2024,07,18,07,56.7,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 08:00 AM,2024,07,18,08,52.9,144,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 09:00 AM,2024,07,18,09,51.1,139,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 10:00 AM,2024,07,18,10,58.5,153,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 11:00 AM,2024,07,18,11,61.8,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 12:00 PM,2024,07,18,12,62.2,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 01:00 PM,2024,07,18,13,65.6,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 02:00 PM,2024,07,18,14,78.5,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 03:00 PM,2024,07,18,15,85.7,172,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 04:00 PM,2024,07,18,16,82.9,170,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 05:00 PM,2024,07,18,17,80.9,169,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 06:00 PM,2024,07,18,18,75.9,165,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 07:00 PM,2024,07,18,19,72.9,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 08:00 PM,2024,07,18,20,74.0,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 09:00 PM,2024,07,18,21,73.0,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 10:00 PM,2024,07,18,22,69.2,161,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-18 11:00 PM,2024,07,18,23,65.7,158,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 12:00 AM,2024,07,19,00,61.3,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 01:00 AM,2024,07,19,01,52.8,144,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 02:00 AM,2024,07,19,02,49.4,135,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 03:00 AM,2024,07,19,03,46.1,127,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 04:00 AM,2024,07,19,04,41.8,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 05:00 AM,2024,07,19,05,38.9,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 06:00 AM,2024,07,19,06,41.9,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 07:00 AM,2024,07,19,07,44.4,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 08:00 AM,2024,07,19,08,46.5,128,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 09:00 AM,2024,07,19,09,49.0,134,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 10:00 AM,2024,07,19,10,52.0,142,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 11:00 AM,2024,07,19,11,51.7,141,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 12:00 PM,2024,07,19,12,51.4,140,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 01:00 PM,2024,07,19,13,50.9,139,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 02:00 PM,2024,07,19,14,53.1,144,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 03:00 PM,2024,07,19,15,59.8,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 04:00 PM,2024,07,19,16,68.2,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 05:00 PM,2024,07,19,17,71.3,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 06:00 PM,2024,07,19,18,70.7,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 07:00 PM,2024,07,19,19,69.1,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 08:00 PM,2024,07,19,20,65.4,158,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 09:00 PM,2024,07,19,21,59.8,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 10:00 PM,2024,07,19,22,59.2,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-19 11:00 PM,2024,07,19,23,59.5,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 12:00 AM,2024,07,20,00,60.4,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 01:00 AM,2024,07,20,01,61.0,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 02:00 AM,2024,07,20,02,62.8,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 03:00 AM,2024,07,20,03,61.7,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 04:00 AM,2024,07,20,04,61.1,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 05:00 AM,2024,07,20,05,62.5,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 06:00 AM,2024,07,20,06,66.3,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 07:00 AM,2024,07,20,07,66.5,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 08:00 AM,2024,07,20,08,70.9,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 09:00 AM,2024,07,20,09,68.1,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 10:00 AM,2024,07,20,10,58.8,153,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 11:00 AM,2024,07,20,11,66.9,159,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 12:00 PM,2024,07,20,12,67.3,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 01:00 PM,2024,07,20,13,70.6,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 02:00 PM,2024,07,20,14,69.5,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 03:00 PM,2024,07,20,15,70.1,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 04:00 PM,2024,07,20,16,67.1,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 05:00 PM,2024,07,20,17,64.9,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 06:00 PM,2024,07,20,18,66.2,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 07:00 PM,2024,07,20,19,62.7,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 08:00 PM,2024,07,20,20,63.2,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 09:00 PM,2024,07,20,21,63.5,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 10:00 PM,2024,07,20,22,66.3,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-20 11:00 PM,2024,07,20,23,65.1,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 12:00 AM,2024,07,21,00,64.6,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 01:00 AM,2024,07,21,01,65.4,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 02:00 AM,2024,07,21,02,67.1,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 03:00 AM,2024,07,21,03,69.8,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 04:00 AM,2024,07,21,04,71.4,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 05:00 AM,2024,07,21,05,72.7,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 06:00 AM,2024,07,21,06,71.5,162,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 07:00 AM,2024,07,21,07,71.7,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 08:00 AM,2024,07,21,08,71.6,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 09:00 AM,2024,07,21,09,72.5,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 10:00 AM,2024,07,21,10,70.9,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 11:00 AM,2024,07,21,11,70.5,162,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 12:00 PM,2024,07,21,12,70.0,161,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 01:00 PM,2024,07,21,13,68.0,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 02:00 PM,2024,07,21,14,66.9,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 03:00 PM,2024,07,21,15,66.8,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 04:00 PM,2024,07,21,16,65.7,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 05:00 PM,2024,07,21,17,65.1,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 06:00 PM,2024,07,21,18,63.7,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 07:00 PM,2024,07,21,19,62.8,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 08:00 PM,2024,07,21,20,61.7,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 09:00 PM,2024,07,21,21,60.6,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 10:00 PM,2024,07,21,22,59.3,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-21 11:00 PM,2024,07,21,23,60.5,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 12:00 AM,2024,07,22,00,63.5,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 01:00 AM,2024,07,22,01,65.2,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 02:00 AM,2024,07,22,02,66.4,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 03:00 AM,2024,07,22,03,67.3,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 04:00 AM,2024,07,22,04,65.5,158,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 05:00 AM,2024,07,22,05,66.4,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 06:00 AM,2024,07,22,06,68.1,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 07:00 AM,2024,07,22,07,69.4,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 08:00 AM,2024,07,22,08,70.2,161,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 09:00 AM,2024,07,22,09,70.2,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 10:00 AM,2024,07,22,10,70.5,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 11:00 AM,2024,07,22,11,73.2,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 12:00 PM,2024,07,22,12,75.8,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 01:00 PM,2024,07,22,13,76.9,166,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 02:00 PM,2024,07,22,14,78.8,167,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 03:00 PM,2024,07,22,15,80.0,168,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 04:00 PM,2024,07,22,16,79.1,168,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 05:00 PM,2024,07,22,17,78.1,167,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 06:00 PM,2024,07,22,18,76.5,166,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 07:00 PM,2024,07,22,19,74.1,164,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 08:00 PM,2024,07,22,20,72.3,163,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 09:00 PM,2024,07,22,21,69.0,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 10:00 PM,2024,07,22,22,67.4,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-22 11:00 PM,2024,07,22,23,66.4,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 12:00 AM,2024,07,23,00,64.2,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 01:00 AM,2024,07,23,01,63.2,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 02:00 AM,2024,07,23,02,62.7,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 03:00 AM,2024,07,23,03,62.5,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 04:00 AM,2024,07,23,04,63.6,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 05:00 AM,2024,07,23,05,64.5,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 06:00 AM,2024,07,23,06,67.7,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 07:00 AM,2024,07,23,07,66.8,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 08:00 AM,2024,07,23,08,67.8,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 09:00 AM,2024,07,23,09,68.6,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 10:00 AM,2024,07,23,10,70.1,161,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 11:00 AM,2024,07,23,11,69.0,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 12:00 PM,2024,07,23,12,67.3,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 01:00 PM,2024,07,23,13,61.8,155,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 02:00 PM,2024,07,23,14,58.6,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 03:00 PM,2024,07,23,15,56.4,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 04:00 PM,2024,07,23,16,47.1,130,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 05:00 PM,2024,07,23,17,43.0,119,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 06:00 PM,2024,07,23,18,44.0,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 07:00 PM,2024,07,23,19,38.4,108,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 08:00 PM,2024,07,23,20,33.2,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 09:00 PM,2024,07,23,21,31.6,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 10:00 PM,2024,07,23,22,30.2,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-23 11:00 PM,2024,07,23,23,28.1,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 12:00 AM,2024,07,24,00,26.0,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 01:00 AM,2024,07,24,01,29.5,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 02:00 AM,2024,07,24,02,33.7,97,Moderate,38.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 03:00 AM,2024,07,24,03,30.4,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 04:00 AM,2024,07,24,04,31.1,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 05:00 AM,2024,07,24,05,32.4,94,Moderate,34.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 06:00 AM,2024,07,24,06,31.3,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 07:00 AM,2024,07,24,07,33.0,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 08:00 AM,2024,07,24,08,34.5,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 09:00 AM,2024,07,24,09,35.4,100,Moderate,37.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 10:00 AM,2024,07,24,10,39.0,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 11:00 AM,2024,07,24,11,41.9,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 12:00 PM,2024,07,24,12,38.7,109,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 01:00 PM,2024,07,24,13,37.6,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 02:00 PM,2024,07,24,14,34.5,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 03:00 PM,2024,07,24,15,33.4,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 04:00 PM,2024,07,24,16,34.2,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 05:00 PM,2024,07,24,17,35.8,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 06:00 PM,2024,07,24,18,36.2,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 07:00 PM,2024,07,24,19,38.5,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 08:00 PM,2024,07,24,20,40.0,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 09:00 PM,2024,07,24,21,42.7,119,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 10:00 PM,2024,07,24,22,43.9,122,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-24 11:00 PM,2024,07,24,23,45.5,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 12:00 AM,2024,07,25,00,43.4,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 01:00 AM,2024,07,25,01,41.7,116,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 02:00 AM,2024,07,25,02,48.7,134,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 03:00 AM,2024,07,25,03,48.7,134,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 04:00 AM,2024,07,25,04,49.8,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 05:00 AM,2024,07,25,05,50.6,138,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 06:00 AM,2024,07,25,06,50.2,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 07:00 AM,2024,07,25,07,50.8,139,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 08:00 AM,2024,07,25,08,51.2,140,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 09:00 AM,2024,07,25,09,48.6,133,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 10:00 AM,2024,07,25,10,47.7,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 11:00 AM,2024,07,25,11,46.2,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 12:00 PM,2024,07,25,12,44.2,122,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 01:00 PM,2024,07,25,13,43.1,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 02:00 PM,2024,07,25,14,39.5,111,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 03:00 PM,2024,07,25,15,37.5,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 04:00 PM,2024,07,25,16,39.0,110,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 05:00 PM,2024,07,25,17,39.0,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 06:00 PM,2024,07,25,18,35.7,101,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 07:00 PM,2024,07,25,19,39.8,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 08:00 PM,2024,07,25,20,42.0,117,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 09:00 PM,2024,07,25,21,44.2,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 10:00 PM,2024,07,25,22,43.4,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-25 11:00 PM,2024,07,25,23,40.8,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 12:00 AM,2024,07,26,00,42.6,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 01:00 AM,2024,07,26,01,45.9,127,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 02:00 AM,2024,07,26,02,45.2,125,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 03:00 AM,2024,07,26,03,41.6,116,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 04:00 AM,2024,07,26,04,47.2,130,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 05:00 AM,2024,07,26,05,50.6,138,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 06:00 AM,2024,07,26,06,50.3,137,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 07:00 AM,2024,07,26,07,50.6,138,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 08:00 AM,2024,07,26,08,52.1,142,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 09:00 AM,2024,07,26,09,55.5,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 10:00 AM,2024,07,26,10,50.9,139,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 11:00 AM,2024,07,26,11,46.1,127,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 12:00 PM,2024,07,26,12,44.4,123,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 01:00 PM,2024,07,26,13,41.4,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 02:00 PM,2024,07,26,14,42.8,119,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 03:00 PM,2024,07,26,15,43.3,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 04:00 PM,2024,07,26,16,40.3,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 05:00 PM,2024,07,26,17,38.0,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 06:00 PM,2024,07,26,18,40.1,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 07:00 PM,2024,07,26,19,38.8,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 08:00 PM,2024,07,26,20,39.7,111,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 09:00 PM,2024,07,26,21,39.7,111,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 10:00 PM,2024,07,26,22,40.2,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-26 11:00 PM,2024,07,26,23,40.6,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 12:00 AM,2024,07,27,00,43.6,121,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 01:00 AM,2024,07,27,01,49.9,136,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 02:00 AM,2024,07,27,02,63.4,157,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 03:00 AM,2024,07,27,03,67.2,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 04:00 AM,2024,07,27,04,70.1,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 05:00 AM,2024,07,27,05,71.0,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 06:00 AM,2024,07,27,06,71.0,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 07:00 AM,2024,07,27,07,71.8,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 08:00 AM,2024,07,27,08,69.5,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 09:00 AM,2024,07,27,09,68.0,160,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 10:00 AM,2024,07,27,10,58.3,153,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 11:00 AM,2024,07,27,11,58.6,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 12:00 PM,2024,07,27,12,62.2,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 01:00 PM,2024,07,27,13,57.9,153,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 02:00 PM,2024,07,27,14,52.9,144,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 03:00 PM,2024,07,27,15,52.5,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 04:00 PM,2024,07,27,16,53.0,144,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 05:00 PM,2024,07,27,17,53.0,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 06:00 PM,2024,07,27,18,51.8,141,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 07:00 PM,2024,07,27,19,52.6,143,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 08:00 PM,2024,07,27,20,53.1,144,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 09:00 PM,2024,07,27,21,53.7,146,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 10:00 PM,2024,07,27,22,55.1,149,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-27 11:00 PM,2024,07,27,23,59.5,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 12:00 AM,2024,07,28,00,57.9,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 01:00 AM,2024,07,28,01,46.2,127,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 02:00 AM,2024,07,28,02,40.6,114,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 03:00 AM,2024,07,28,03,34.8,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 04:00 AM,2024,07,28,04,30.4,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 05:00 AM,2024,07,28,05,29.1,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 06:00 AM,2024,07,28,06,26.5,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 07:00 AM,2024,07,28,07,25.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 08:00 AM,2024,07,28,08,34.6,99,Moderate,44.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 09:00 AM,2024,07,28,09,29.3,89,Moderate,24.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 10:00 AM,2024,07,28,10,27.1,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 11:00 AM,2024,07,28,11,26.5,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 12:00 PM,2024,07,28,12,25.9,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 01:00 PM,2024,07,28,13,23.3,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 02:00 PM,2024,07,28,14,25.1,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 03:00 PM,2024,07,28,15,24.5,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 04:00 PM,2024,07,28,16,28.2,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 05:00 PM,2024,07,28,17,28.1,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 06:00 PM,2024,07,28,18,27.5,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 07:00 PM,2024,07,28,19,28.7,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 08:00 PM,2024,07,28,20,28.1,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 09:00 PM,2024,07,28,21,26.7,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 10:00 PM,2024,07,28,22,27.5,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-28 11:00 PM,2024,07,28,23,25.6,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 12:00 AM,2024,07,29,00,22.7,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 01:00 AM,2024,07,29,01,22.8,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 02:00 AM,2024,07,29,02,23.7,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 03:00 AM,2024,07,29,03,25.0,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 04:00 AM,2024,07,29,04,23.8,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 05:00 AM,2024,07,29,05,24.2,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 06:00 AM,2024,07,29,06,22.6,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 07:00 AM,2024,07,29,07,21.8,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 08:00 AM,2024,07,29,08,23.2,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 09:00 AM,2024,07,29,09,26.2,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 10:00 AM,2024,07,29,10,28.7,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 11:00 AM,2024,07,29,11,35.3,100,Moderate,41.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 12:00 PM,2024,07,29,12,38.6,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 01:00 PM,2024,07,29,13,43.8,121,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 02:00 PM,2024,07,29,14,46.4,128,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 03:00 PM,2024,07,29,15,41.7,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 04:00 PM,2024,07,29,16,43.8,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 05:00 PM,2024,07,29,17,50.9,139,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 06:00 PM,2024,07,29,18,54.9,149,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 07:00 PM,2024,07,29,19,66.9,159,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 08:00 PM,2024,07,29,20,78.5,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 09:00 PM,2024,07,29,21,84.2,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 10:00 PM,2024,07,29,22,91.1,176,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-29 11:00 PM,2024,07,29,23,94.0,178,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 12:00 AM,2024,07,30,00,101.5,183,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 01:00 AM,2024,07,30,01,106.7,187,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 02:00 AM,2024,07,30,02,100.3,182,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 03:00 AM,2024,07,30,03,97.7,181,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 04:00 AM,2024,07,30,04,90.1,175,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 05:00 AM,2024,07,30,05,94.4,178,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 06:00 AM,2024,07,30,06,96.6,180,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 07:00 AM,2024,07,30,07,99.5,182,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 08:00 AM,2024,07,30,08,79.8,168,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 09:00 AM,2024,07,30,09,66.2,159,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 10:00 AM,2024,07,30,10,58.6,153,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 11:00 AM,2024,07,30,11,63.8,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 12:00 PM,2024,07,30,12,80.9,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 01:00 PM,2024,07,30,13,84.9,172,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 02:00 PM,2024,07,30,14,74.9,165,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 03:00 PM,2024,07,30,15,66.9,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 04:00 PM,2024,07,30,16,66.4,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 05:00 PM,2024,07,30,17,60.7,155,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 06:00 PM,2024,07,30,18,58.3,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 07:00 PM,2024,07,30,19,56.4,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 08:00 PM,2024,07,30,20,56.2,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 09:00 PM,2024,07,30,21,59.4,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 10:00 PM,2024,07,30,22,53.7,146,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-30 11:00 PM,2024,07,30,23,50.3,137,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 12:00 AM,2024,07,31,00,49.4,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 01:00 AM,2024,07,31,01,48.5,133,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 02:00 AM,2024,07,31,02,44.6,123,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 03:00 AM,2024,07,31,03,43.9,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 04:00 AM,2024,07,31,04,43.7,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 05:00 AM,2024,07,31,05,43.1,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 06:00 AM,2024,07,31,06,42.6,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 07:00 AM,2024,07,31,07,43.8,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 08:00 AM,2024,07,31,08,43.5,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 09:00 AM,2024,07,31,09,47.1,130,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 10:00 AM,2024,07,31,10,68.3,160,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 11:00 AM,2024,07,31,11,96.2,180,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 12:00 PM,2024,07,31,12,112.1,191,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 01:00 PM,2024,07,31,13,124.5,199,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 02:00 PM,2024,07,31,14,119.2,196,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 03:00 PM,2024,07,31,15,108.6,188,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 04:00 PM,2024,07,31,16,95.3,179,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 05:00 PM,2024,07,31,17,79.1,168,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 06:00 PM,2024,07,31,18,69.5,161,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 07:00 PM,2024,07,31,19,59.7,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 08:00 PM,2024,07,31,20,65.4,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 09:00 PM,2024,07,31,21,72.7,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 10:00 PM,2024,07,31,22,72.3,163,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-07-31 11:00 PM,2024,07,31,23,78.1,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dubai,PM2.5 - Principal,2024-08-01 12:00 AM,2024,08,01,00,81.5,169,Unhealthy,85.0,UG/M3,1 Hr,Valid

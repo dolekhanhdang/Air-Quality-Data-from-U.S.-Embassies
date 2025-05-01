@@ -1,0 +1,625 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Ulaanbaatar,PM2.5 - Principal,2021-01-01 01:00 AM,2021,01,01,01,95.0,171,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-01 02:00 AM,2021,01,01,02,87.0,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-01 03:00 AM,2021,01,01,03,63.5,155,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-01 04:00 AM,2021,01,01,04,54.7,148,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-01 05:00 AM,2021,01,01,05,54.7,148,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Ulaanbaatar,PM2.5 - Principal,2021-01-04 04:00 PM,2021,01,04,16,-999.0,-999,N/A,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-04 05:00 PM,2021,01,04,17,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-04 06:00 PM,2021,01,04,18,-999.0,-999,N/A,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-04 07:00 PM,2021,01,04,19,-999.0,-999,N/A,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 12:00 PM,2021,01,05,12,-999.0,-999,N/A,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 01:00 PM,2021,01,05,13,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 02:00 PM,2021,01,05,14,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 03:00 PM,2021,01,05,15,-999.0,-999,N/A,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 04:00 PM,2021,01,05,16,-999.0,-999,N/A,-3.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 05:00 PM,2021,01,05,17,-999.0,-999,N/A,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 06:00 PM,2021,01,05,18,-999.0,-999,N/A,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-05 07:00 PM,2021,01,05,19,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-06 06:00 PM,2021,01,06,18,-999.0,-999,N/A,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-06 07:00 PM,2021,01,06,19,8.0,33,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-06 08:00 PM,2021,01,06,20,6.8,28,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-06 09:00 PM,2021,01,06,21,8.5,35,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-06 10:00 PM,2021,01,06,22,18.0,63,Moderate,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-06 11:00 PM,2021,01,06,23,60.1,153,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 12:00 AM,2021,01,07,00,95.3,172,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 01:00 AM,2021,01,07,01,79.6,163,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 02:00 AM,2021,01,07,02,84.3,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 03:00 AM,2021,01,07,03,80.6,164,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 04:00 AM,2021,01,07,04,54.8,149,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 05:00 AM,2021,01,07,05,46.9,129,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 06:00 AM,2021,01,07,06,40.4,113,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 07:00 AM,2021,01,07,07,28.2,85,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 08:00 AM,2021,01,07,08,18.1,64,Moderate,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 09:00 AM,2021,01,07,09,15.0,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 10:00 AM,2021,01,07,10,16.0,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 11:00 AM,2021,01,07,11,26.0,80,Moderate,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 12:00 PM,2021,01,07,12,30.9,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 01:00 PM,2021,01,07,13,46.4,128,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 02:00 PM,2021,01,07,14,25.7,80,Moderate,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 03:00 PM,2021,01,07,15,25.7,80,Moderate,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 04:00 PM,2021,01,07,16,-999.0,-999,N/A,-3.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 05:00 PM,2021,01,07,17,-999.0,-999,N/A,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 06:00 PM,2021,01,07,18,-999.0,-999,N/A,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 07:00 PM,2021,01,07,19,15.7,59,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 08:00 PM,2021,01,07,20,41.1,115,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 09:00 PM,2021,01,07,21,29.9,88,Moderate,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 10:00 PM,2021,01,07,22,17.1,62,Moderate,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-07 11:00 PM,2021,01,07,23,28.2,85,Moderate,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 12:00 AM,2021,01,08,00,47.7,131,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 01:00 AM,2021,01,08,01,49.8,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 02:00 AM,2021,01,08,02,53.4,145,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 03:00 AM,2021,01,08,03,53.2,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 04:00 AM,2021,01,08,04,42.1,117,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 05:00 AM,2021,01,08,05,24.0,76,Moderate,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 06:00 AM,2021,01,08,06,15.5,58,Moderate,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 07:00 AM,2021,01,08,07,9.7,40,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 08:00 AM,2021,01,08,08,9.7,40,Good,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 09:00 AM,2021,01,08,09,-999.0,-999,N/A,-6.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 10:00 AM,2021,01,08,10,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 11:00 AM,2021,01,08,11,-999.0,-999,N/A,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 12:00 PM,2021,01,08,12,13.8,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 01:00 PM,2021,01,08,13,14.4,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 02:00 PM,2021,01,08,14,14.4,56,Moderate,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 03:00 PM,2021,01,08,15,-999.0,-999,N/A,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 04:00 PM,2021,01,08,16,-999.0,-999,N/A,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 05:00 PM,2021,01,08,17,-999.0,-999,N/A,-6.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 06:00 PM,2021,01,08,18,-999.0,-999,N/A,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 07:00 PM,2021,01,08,19,-999.0,-999,N/A,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 08:00 PM,2021,01,08,20,8.0,33,Good,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 09:00 PM,2021,01,08,21,15.4,58,Moderate,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 10:00 PM,2021,01,08,22,21.0,70,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-08 11:00 PM,2021,01,08,23,18.4,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 12:00 AM,2021,01,09,00,21.7,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 01:00 AM,2021,01,09,01,134.2,192,Unhealthy,245.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 02:00 AM,2021,01,09,02,180.8,231,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 03:00 AM,2021,01,09,03,207.9,258,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 04:00 AM,2021,01,09,04,359.6,407,Hazardous,511.0,UG/M3,1 Hr,Suspect
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 05:00 AM,2021,01,09,05,395.8,431,Hazardous,432.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 06:00 AM,2021,01,09,06,250.3,300,Very Unhealthy,105.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 07:00 AM,2021,01,09,07,139.6,194,Unhealthy,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 08:00 AM,2021,01,09,08,87.3,167,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 09:00 AM,2021,01,09,09,68.1,158,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 10:00 AM,2021,01,09,10,68.5,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 11:00 AM,2021,01,09,11,58.3,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 12:00 PM,2021,01,09,12,35.1,99,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 01:00 PM,2021,01,09,13,28.5,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 02:00 PM,2021,01,09,14,27.2,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 03:00 PM,2021,01,09,15,20.5,69,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 04:00 PM,2021,01,09,16,16.2,60,Moderate,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 05:00 PM,2021,01,09,17,10.5,44,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 06:00 PM,2021,01,09,18,5.7,24,Good,1.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 07:00 PM,2021,01,09,19,5.7,24,Good,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 08:00 PM,2021,01,09,20,12.5,52,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 09:00 PM,2021,01,09,21,41.9,117,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 10:00 PM,2021,01,09,22,177.4,228,Very Unhealthy,296.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-09 11:00 PM,2021,01,09,23,191.7,242,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 12:00 AM,2021,01,10,00,189.3,239,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 01:00 AM,2021,01,10,01,158.9,209,Very Unhealthy,129.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 02:00 AM,2021,01,10,02,148.9,199,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 03:00 AM,2021,01,10,03,166.5,217,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 04:00 AM,2021,01,10,04,201.3,251,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 05:00 AM,2021,01,10,05,185.6,236,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 06:00 AM,2021,01,10,06,169.3,220,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 07:00 AM,2021,01,10,07,148.1,199,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 08:00 AM,2021,01,10,08,131.0,190,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 09:00 AM,2021,01,10,09,124.5,187,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 10:00 AM,2021,01,10,10,139.7,194,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 11:00 AM,2021,01,10,11,193.8,244,Very Unhealthy,248.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 12:00 PM,2021,01,10,12,279.4,330,Hazardous,365.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 01:00 PM,2021,01,10,13,164.7,215,Very Unhealthy,50.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 02:00 PM,2021,01,10,14,97.8,173,Unhealthy,31.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 03:00 PM,2021,01,10,15,66.9,157,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 04:00 PM,2021,01,10,16,58.4,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 05:00 PM,2021,01,10,17,49.1,134,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 06:00 PM,2021,01,10,18,43.5,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 07:00 PM,2021,01,10,19,43.7,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 08:00 PM,2021,01,10,20,61.3,154,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 09:00 PM,2021,01,10,21,63.6,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 10:00 PM,2021,01,10,22,173.3,224,Very Unhealthy,283.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-10 11:00 PM,2021,01,10,23,239.1,289,Very Unhealthy,305.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 12:00 AM,2021,01,11,00,242.0,292,Very Unhealthy,245.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 01:00 AM,2021,01,11,01,250.0,300,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 02:00 AM,2021,01,11,02,215.5,265,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 03:00 AM,2021,01,11,03,257.3,308,Hazardous,299.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 04:00 AM,2021,01,11,04,240.6,290,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 05:00 AM,2021,01,11,05,185.3,235,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 06:00 AM,2021,01,11,06,140.6,195,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 07:00 AM,2021,01,11,07,115.3,182,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 08:00 AM,2021,01,11,08,111.6,180,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 09:00 AM,2021,01,11,09,160.8,211,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 10:00 AM,2021,01,11,10,258.4,309,Hazardous,356.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 11:00 AM,2021,01,11,11,239.7,289,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 12:00 PM,2021,01,11,12,235.3,285,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 01:00 PM,2021,01,11,13,171.6,222,Very Unhealthy,108.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 02:00 PM,2021,01,11,14,132.3,191,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 03:00 PM,2021,01,11,15,117.1,183,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 04:00 PM,2021,01,11,16,102.5,175,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 05:00 PM,2021,01,11,17,82.2,165,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 06:00 PM,2021,01,11,18,61.1,154,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 07:00 PM,2021,01,11,19,50.0,137,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 08:00 PM,2021,01,11,20,64.0,155,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 09:00 PM,2021,01,11,21,140.0,195,Unhealthy,216.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 10:00 PM,2021,01,11,22,188.9,239,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-11 11:00 PM,2021,01,11,23,173.9,224,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 12:00 AM,2021,01,12,00,205.4,255,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 01:00 AM,2021,01,12,01,208.2,258,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 02:00 AM,2021,01,12,02,246.1,296,Very Unhealthy,284.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 03:00 AM,2021,01,12,03,281.1,331,Hazardous,316.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 04:00 AM,2021,01,12,04,316.5,366,Hazardous,352.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 05:00 AM,2021,01,12,05,297.8,348,Hazardous,279.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 06:00 AM,2021,01,12,06,331.4,381,Hazardous,365.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 07:00 AM,2021,01,12,07,242.2,292,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 08:00 AM,2021,01,12,08,205.6,256,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 09:00 AM,2021,01,12,09,192.3,242,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 10:00 AM,2021,01,12,10,185.1,235,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 11:00 AM,2021,01,12,11,243.0,293,Very Unhealthy,301.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 12:00 PM,2021,01,12,12,327.0,377,Hazardous,411.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 01:00 PM,2021,01,12,13,236.0,286,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 02:00 PM,2021,01,12,14,186.9,237,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 03:00 PM,2021,01,12,15,106.4,177,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 04:00 PM,2021,01,12,16,106.4,177,Unhealthy,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 05:00 PM,2021,01,12,17,-999.0,-999,N/A,-3.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 06:00 PM,2021,01,12,18,-999.0,-999,N/A,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 07:00 PM,2021,01,12,19,24.4,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 08:00 PM,2021,01,12,20,23.6,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 09:00 PM,2021,01,12,21,25.3,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 10:00 PM,2021,01,12,22,19.5,67,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-12 11:00 PM,2021,01,12,23,16.1,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 12:00 AM,2021,01,13,00,30.6,90,Moderate,45.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 01:00 AM,2021,01,13,01,72.9,160,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 02:00 AM,2021,01,13,02,105.0,177,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 03:00 AM,2021,01,13,03,101.0,174,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 04:00 AM,2021,01,13,04,81.4,164,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 05:00 AM,2021,01,13,05,72.7,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 06:00 AM,2021,01,13,06,52.8,144,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 07:00 AM,2021,01,13,07,55.4,150,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 08:00 AM,2021,01,13,08,61.7,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 09:00 AM,2021,01,13,09,90.3,169,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 10:00 AM,2021,01,13,10,134.2,192,Unhealthy,178.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 11:00 AM,2021,01,13,11,217.1,267,Very Unhealthy,300.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 12:00 PM,2021,01,13,12,208.5,258,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 01:00 PM,2021,01,13,13,134.2,192,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 02:00 PM,2021,01,13,14,77.1,162,Unhealthy,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 03:00 PM,2021,01,13,15,46.5,128,Unhealthy for Sensitive Groups,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 04:00 PM,2021,01,13,16,35.2,100,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 05:00 PM,2021,01,13,17,24.6,77,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 06:00 PM,2021,01,13,18,26.3,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 07:00 PM,2021,01,13,19,31.1,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 08:00 PM,2021,01,13,20,34.5,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 09:00 PM,2021,01,13,21,38.7,109,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 10:00 PM,2021,01,13,22,84.8,166,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-13 11:00 PM,2021,01,13,23,259.4,310,Hazardous,434.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 12:00 AM,2021,01,14,00,279.2,329,Hazardous,299.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 01:00 AM,2021,01,14,01,158.1,209,Very Unhealthy,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 02:00 AM,2021,01,14,02,97.5,173,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 03:00 AM,2021,01,14,03,150.3,200,Unhealthy,203.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 04:00 AM,2021,01,14,04,289.2,339,Hazardous,428.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 05:00 AM,2021,01,14,05,265.6,316,Hazardous,242.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 06:00 AM,2021,01,14,06,192.8,243,Very Unhealthy,120.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 07:00 AM,2021,01,14,07,115.4,182,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 08:00 AM,2021,01,14,08,159.2,210,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 09:00 AM,2021,01,14,09,107.1,178,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 10:00 AM,2021,01,14,10,207.5,257,Very Unhealthy,308.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 11:00 AM,2021,01,14,11,336.7,386,Hazardous,466.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 12:00 PM,2021,01,14,12,209.8,260,Very Unhealthy,83.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 01:00 PM,2021,01,14,13,134.9,192,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 02:00 PM,2021,01,14,14,77.9,163,Unhealthy,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 03:00 PM,2021,01,14,15,56.4,151,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 04:00 PM,2021,01,14,16,47.1,130,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 05:00 PM,2021,01,14,17,55.5,151,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 06:00 PM,2021,01,14,18,46.7,129,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 07:00 PM,2021,01,14,19,36.3,103,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 08:00 PM,2021,01,14,20,30.1,89,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 09:00 PM,2021,01,14,21,23.5,75,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 10:00 PM,2021,01,14,22,28.2,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-14 11:00 PM,2021,01,14,23,56.5,152,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 12:00 AM,2021,01,15,00,78.7,163,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 01:00 AM,2021,01,15,01,96.4,172,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 02:00 AM,2021,01,15,02,117.7,183,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 03:00 AM,2021,01,15,03,99.3,174,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 04:00 AM,2021,01,15,04,86.1,167,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 05:00 AM,2021,01,15,05,81.0,164,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 06:00 AM,2021,01,15,06,66.0,156,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 07:00 AM,2021,01,15,07,62.5,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 08:00 AM,2021,01,15,08,79.2,163,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 09:00 AM,2021,01,15,09,102.1,175,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 10:00 AM,2021,01,15,10,199.1,249,Very Unhealthy,296.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 11:00 AM,2021,01,15,11,280.0,330,Hazardous,361.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 12:00 PM,2021,01,15,12,225.5,275,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 01:00 PM,2021,01,15,13,174.2,224,Very Unhealthy,123.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 02:00 PM,2021,01,15,14,147.1,198,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 03:00 PM,2021,01,15,15,99.0,173,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 04:00 PM,2021,01,15,16,56.0,151,Unhealthy,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 05:00 PM,2021,01,15,17,32.0,93,Moderate,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 06:00 PM,2021,01,15,18,22.4,73,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 07:00 PM,2021,01,15,19,22.7,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 08:00 PM,2021,01,15,20,36.8,104,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 09:00 PM,2021,01,15,21,70.9,159,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 10:00 PM,2021,01,15,22,225.9,276,Very Unhealthy,381.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-15 11:00 PM,2021,01,15,23,228.9,279,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 12:00 AM,2021,01,16,00,199.9,250,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 01:00 AM,2021,01,16,01,200.0,250,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 02:00 AM,2021,01,16,02,194.0,244,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 03:00 AM,2021,01,16,03,196.0,246,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 04:00 AM,2021,01,16,04,193.5,244,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 05:00 AM,2021,01,16,05,194.7,245,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 06:00 AM,2021,01,16,06,151.9,202,Very Unhealthy,109.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 07:00 AM,2021,01,16,07,143.9,197,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 08:00 AM,2021,01,16,08,128.9,189,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 09:00 AM,2021,01,16,09,159.5,210,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 10:00 AM,2021,01,16,10,184.7,235,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 11:00 AM,2021,01,16,11,194.3,244,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 12:00 PM,2021,01,16,12,221.1,271,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 01:00 PM,2021,01,16,13,247.6,297,Very Unhealthy,274.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 02:00 PM,2021,01,16,14,167.7,218,Very Unhealthy,88.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 03:00 PM,2021,01,16,15,93.8,171,Unhealthy,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 04:00 PM,2021,01,16,16,51.4,140,Unhealthy for Sensitive Groups,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 05:00 PM,2021,01,16,17,28.6,86,Moderate,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 06:00 PM,2021,01,16,18,15.8,59,Moderate,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 07:00 PM,2021,01,16,19,16.4,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 08:00 PM,2021,01,16,20,27.6,84,Moderate,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 09:00 PM,2021,01,16,21,63.8,155,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 10:00 PM,2021,01,16,22,104.4,176,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-16 11:00 PM,2021,01,16,23,131.1,190,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 12:00 AM,2021,01,17,00,169.5,220,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 01:00 AM,2021,01,17,01,186.7,237,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 02:00 AM,2021,01,17,02,185.9,236,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 03:00 AM,2021,01,17,03,150.9,201,Very Unhealthy,116.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 04:00 AM,2021,01,17,04,111.9,180,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 05:00 AM,2021,01,17,05,98.0,173,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 06:00 AM,2021,01,17,06,115.0,182,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 07:00 AM,2021,01,17,07,111.5,180,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 08:00 AM,2021,01,17,08,110.7,180,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 09:00 AM,2021,01,17,09,119.3,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 10:00 AM,2021,01,17,10,179.7,230,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 11:00 AM,2021,01,17,11,277.3,328,Hazardous,375.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 12:00 PM,2021,01,17,12,363.7,410,Hazardous,450.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 01:00 PM,2021,01,17,13,274.8,325,Hazardous,186.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 02:00 PM,2021,01,17,14,154.9,205,Very Unhealthy,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 03:00 PM,2021,01,17,15,78.9,163,Unhealthy,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 04:00 PM,2021,01,17,16,40.4,113,Unhealthy for Sensitive Groups,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 05:00 PM,2021,01,17,17,40.4,113,Unhealthy for Sensitive Groups,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 06:00 PM,2021,01,17,18,14.7,56,Moderate,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 07:00 PM,2021,01,17,19,8.0,33,Good,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 08:00 PM,2021,01,17,20,42.1,117,Unhealthy for Sensitive Groups,72.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 09:00 PM,2021,01,17,21,117.4,183,Unhealthy,188.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 10:00 PM,2021,01,17,22,137.0,193,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-17 11:00 PM,2021,01,17,23,124.3,187,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 12:00 AM,2021,01,18,00,128.6,189,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 01:00 AM,2021,01,18,01,115.2,182,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 02:00 AM,2021,01,18,02,103.6,176,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 03:00 AM,2021,01,18,03,87.8,168,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 04:00 AM,2021,01,18,04,70.9,159,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 05:00 AM,2021,01,18,05,59.4,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 06:00 AM,2021,01,18,06,60.7,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 07:00 AM,2021,01,18,07,122.3,185,Unhealthy,184.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 08:00 AM,2021,01,18,08,146.2,198,Unhealthy,170.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 09:00 AM,2021,01,18,09,172.1,222,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 10:00 AM,2021,01,18,10,240.0,290,Very Unhealthy,308.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 11:00 AM,2021,01,18,11,195.5,246,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 12:00 PM,2021,01,18,12,254.7,305,Hazardous,314.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 01:00 PM,2021,01,18,13,213.9,264,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 02:00 PM,2021,01,18,14,133.4,191,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 03:00 PM,2021,01,18,15,85.2,166,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 04:00 PM,2021,01,18,16,59.1,153,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 05:00 PM,2021,01,18,17,49.0,134,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 06:00 PM,2021,01,18,18,40.5,113,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 07:00 PM,2021,01,18,19,52.2,142,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 08:00 PM,2021,01,18,20,67.6,157,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 09:00 PM,2021,01,18,21,230.3,280,Very Unhealthy,393.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 10:00 PM,2021,01,18,22,280.1,330,Hazardous,330.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-18 11:00 PM,2021,01,18,23,346.6,396,Hazardous,413.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 12:00 AM,2021,01,19,00,468.8,479,Hazardous,591.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 01:00 AM,2021,01,19,01,445.9,464,Hazardous,423.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 02:00 AM,2021,01,19,02,438.0,459,Hazardous,430.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 03:00 AM,2021,01,19,03,364.0,410,Hazardous,290.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 04:00 AM,2021,01,19,04,367.5,412,Hazardous,371.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 05:00 AM,2021,01,19,05,321.8,372,Hazardous,276.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 06:00 AM,2021,01,19,06,263.9,314,Hazardous,206.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 07:00 AM,2021,01,19,07,217.4,267,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 08:00 AM,2021,01,19,08,183.2,233,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 09:00 AM,2021,01,19,09,209.1,259,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 10:00 AM,2021,01,19,10,253.5,304,Hazardous,298.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 11:00 AM,2021,01,19,11,341.2,391,Hazardous,429.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 12:00 PM,2021,01,19,12,249.5,299,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 01:00 PM,2021,01,19,13,147.7,199,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 02:00 PM,2021,01,19,14,86.8,167,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 03:00 PM,2021,01,19,15,58.8,153,Unhealthy,31.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 04:00 PM,2021,01,19,16,42.8,119,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 05:00 PM,2021,01,19,17,44.4,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 06:00 PM,2021,01,19,18,43.1,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 07:00 PM,2021,01,19,19,60.0,153,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 08:00 PM,2021,01,19,20,72.0,160,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 09:00 PM,2021,01,19,21,94.5,171,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 10:00 PM,2021,01,19,22,108.7,178,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-19 11:00 PM,2021,01,19,23,144.3,197,Unhealthy,180.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 12:00 AM,2021,01,20,00,243.1,293,Very Unhealthy,342.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 01:00 AM,2021,01,20,01,243.2,293,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 02:00 AM,2021,01,20,02,161.7,212,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 03:00 AM,2021,01,20,03,311.6,362,Hazardous,424.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 04:00 AM,2021,01,20,04,334.8,385,Hazardous,355.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 05:00 AM,2021,01,20,05,288.4,339,Hazardous,245.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 06:00 AM,2021,01,20,06,289.7,340,Hazardous,291.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 07:00 AM,2021,01,20,07,272.7,323,Hazardous,256.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 08:00 AM,2021,01,20,08,222.7,273,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 09:00 AM,2021,01,20,09,188.2,238,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 10:00 AM,2021,01,20,10,184.6,235,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 11:00 AM,2021,01,20,11,199.8,250,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 12:00 PM,2021,01,20,12,201.9,252,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 01:00 PM,2021,01,20,13,218.4,268,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 02:00 PM,2021,01,20,14,224.2,274,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 03:00 PM,2021,01,20,15,189.0,239,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 04:00 PM,2021,01,20,16,149.5,200,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 05:00 PM,2021,01,20,17,125.7,187,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 06:00 PM,2021,01,20,18,102.8,175,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 07:00 PM,2021,01,20,19,91.9,170,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 08:00 PM,2021,01,20,20,115.9,182,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 09:00 PM,2021,01,20,21,295.5,346,Hazardous,475.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 10:00 PM,2021,01,20,22,389.2,427,Hazardous,483.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-20 11:00 PM,2021,01,20,23,332.1,382,Hazardous,275.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 12:00 AM,2021,01,21,00,270.5,321,Hazardous,209.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 01:00 AM,2021,01,21,01,300.3,350,Hazardous,330.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 02:00 AM,2021,01,21,02,293.6,344,Hazardous,287.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 03:00 AM,2021,01,21,03,346.3,396,Hazardous,399.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 04:00 AM,2021,01,21,04,420.2,447,Hazardous,494.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 05:00 AM,2021,01,21,05,416.1,444,Hazardous,412.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 06:00 AM,2021,01,21,06,385.1,424,Hazardous,354.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 07:00 AM,2021,01,21,07,342.0,392,Hazardous,299.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 08:00 AM,2021,01,21,08,342.0,392,Hazardous,342.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 09:00 AM,2021,01,21,09,303.5,354,Hazardous,265.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 10:00 AM,2021,01,21,10,332.2,382,Hazardous,361.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 11:00 AM,2021,01,21,11,421.1,448,Hazardous,510.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 12:00 PM,2021,01,21,12,430.3,454,Hazardous,444.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 01:00 PM,2021,01,21,13,293.2,343,Hazardous,154.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 02:00 PM,2021,01,21,14,185.6,236,Very Unhealthy,78.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 03:00 PM,2021,01,21,15,125.7,187,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 04:00 PM,2021,01,21,16,83.3,165,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 05:00 PM,2021,01,21,17,73.6,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 06:00 PM,2021,01,21,18,66.2,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 07:00 PM,2021,01,21,19,86.6,167,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 08:00 PM,2021,01,21,20,95.2,171,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 09:00 PM,2021,01,21,21,146.1,198,Unhealthy,197.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 10:00 PM,2021,01,21,22,250.5,301,Hazardous,355.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-21 11:00 PM,2021,01,21,23,277.2,327,Hazardous,304.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 12:00 AM,2021,01,22,00,324.1,374,Hazardous,371.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 01:00 AM,2021,01,22,01,294.0,344,Hazardous,264.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 02:00 AM,2021,01,22,02,342.5,392,Hazardous,391.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 03:00 AM,2021,01,22,03,330.3,380,Hazardous,318.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 04:00 AM,2021,01,22,04,312.1,362,Hazardous,294.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 05:00 AM,2021,01,22,05,282.6,333,Hazardous,253.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 06:00 AM,2021,01,22,06,240.3,290,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 07:00 AM,2021,01,22,07,181.1,231,Very Unhealthy,122.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 08:00 AM,2021,01,22,08,152.5,203,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 09:00 AM,2021,01,22,09,169.7,220,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 10:00 AM,2021,01,22,10,240.3,290,Very Unhealthy,311.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 11:00 AM,2021,01,22,11,384.2,423,Hazardous,528.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 12:00 PM,2021,01,22,12,374.1,417,Hazardous,364.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 01:00 PM,2021,01,22,13,200.5,251,Very Unhealthy,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 02:00 PM,2021,01,22,14,106.7,177,Unhealthy,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 03:00 PM,2021,01,22,15,61.3,154,Unhealthy,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 04:00 PM,2021,01,22,16,36.6,104,Unhealthy for Sensitive Groups,12.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 05:00 PM,2021,01,22,17,25.7,80,Moderate,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 06:00 PM,2021,01,22,18,20.8,69,Moderate,16.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 07:00 PM,2021,01,22,19,23.4,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 08:00 PM,2021,01,22,20,33.2,95,Moderate,43.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 09:00 PM,2021,01,22,21,115.6,182,Unhealthy,198.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 10:00 PM,2021,01,22,22,250.3,300,Very Unhealthy,385.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-22 11:00 PM,2021,01,22,23,296.6,347,Hazardous,343.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 12:00 AM,2021,01,23,00,308.8,359,Hazardous,321.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 01:00 AM,2021,01,23,01,326.4,376,Hazardous,344.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 02:00 AM,2021,01,23,02,354.2,403,Hazardous,382.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 03:00 AM,2021,01,23,03,356.6,405,Hazardous,359.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 04:00 AM,2021,01,23,04,296.3,346,Hazardous,236.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 05:00 AM,2021,01,23,05,264.7,315,Hazardous,233.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 06:00 AM,2021,01,23,06,239.8,289,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 07:00 AM,2021,01,23,07,203.9,254,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 08:00 AM,2021,01,23,08,189.9,240,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 09:00 AM,2021,01,23,09,186.9,237,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 10:00 AM,2021,01,23,10,209.4,259,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 11:00 AM,2021,01,23,11,326.7,377,Hazardous,444.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 12:00 PM,2021,01,23,12,490.4,493,Hazardous,654.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 01:00 PM,2021,01,23,13,260.1,311,Hazardous,30.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 02:00 PM,2021,01,23,14,137.5,193,Unhealthy,15.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 03:00 PM,2021,01,23,15,74.2,161,Unhealthy,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 04:00 PM,2021,01,23,16,41.5,116,Unhealthy for Sensitive Groups,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 05:00 PM,2021,01,23,17,27.2,83,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 06:00 PM,2021,01,23,18,23.1,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 07:00 PM,2021,01,23,19,23.0,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 08:00 PM,2021,01,23,20,46.5,128,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 09:00 PM,2021,01,23,21,102.2,175,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 10:00 PM,2021,01,23,22,299.1,349,Hazardous,496.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-23 11:00 PM,2021,01,23,23,393.0,429,Hazardous,487.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 12:00 AM,2021,01,24,00,432.0,455,Hazardous,471.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 01:00 AM,2021,01,24,01,395.0,430,Hazardous,358.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 02:00 AM,2021,01,24,02,389.0,426,Hazardous,383.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 03:00 AM,2021,01,24,03,303.0,353,Hazardous,217.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 04:00 AM,2021,01,24,04,281.0,331,Hazardous,259.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 05:00 AM,2021,01,24,05,255.0,305,Hazardous,229.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 06:00 AM,2021,01,24,06,265.5,316,Hazardous,276.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 07:00 AM,2021,01,24,07,220.2,270,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 08:00 AM,2021,01,24,08,179.1,229,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 09:00 AM,2021,01,24,09,165.5,216,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 10:00 AM,2021,01,24,10,195.2,245,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 11:00 AM,2021,01,24,11,142.5,196,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 12:00 PM,2021,01,24,12,314.7,365,Hazardous,487.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 01:00 PM,2021,01,24,13,187.8,238,Very Unhealthy,61.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 02:00 PM,2021,01,24,14,135.3,192,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 03:00 PM,2021,01,24,15,101.1,175,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 04:00 PM,2021,01,24,16,75.0,161,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 05:00 PM,2021,01,24,17,67.5,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 06:00 PM,2021,01,24,18,57.7,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 07:00 PM,2021,01,24,19,50.3,137,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 08:00 PM,2021,01,24,20,74.1,161,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 09:00 PM,2021,01,24,21,73.0,160,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 10:00 PM,2021,01,24,22,50.0,137,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-24 11:00 PM,2021,01,24,23,31.4,92,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 12:00 AM,2021,01,25,00,19.6,67,Moderate,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 01:00 AM,2021,01,25,01,16.8,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 02:00 AM,2021,01,25,02,16.8,61,Moderate,-999.0,UG/M3,1 Hr,Missing
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 03:00 AM,2021,01,25,03,16.9,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 04:00 AM,2021,01,25,04,9.5,40,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 05:00 AM,2021,01,25,05,6.5,27,Good,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 06:00 AM,2021,01,25,06,6.5,27,Good,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 07:00 AM,2021,01,25,07,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 08:00 AM,2021,01,25,08,-999.0,-999,N/A,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 09:00 AM,2021,01,25,09,-999.0,-999,N/A,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 10:00 AM,2021,01,25,10,37.4,106,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 11:00 AM,2021,01,25,11,36.0,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 12:00 PM,2021,01,25,12,33.9,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 01:00 PM,2021,01,25,13,18.0,63,Moderate,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 02:00 PM,2021,01,25,14,10.4,43,Good,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 03:00 PM,2021,01,25,15,6.1,25,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 04:00 PM,2021,01,25,16,6.1,25,Good,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 05:00 PM,2021,01,25,17,-999.0,-999,N/A,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 06:00 PM,2021,01,25,18,-999.0,-999,N/A,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 07:00 PM,2021,01,25,19,-999.0,-999,N/A,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 08:00 PM,2021,01,25,20,5.0,21,Good,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 09:00 PM,2021,01,25,21,15.6,58,Moderate,24.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 10:00 PM,2021,01,25,22,14.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-25 11:00 PM,2021,01,25,23,18.2,64,Moderate,22.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 12:00 AM,2021,01,26,00,14.0,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 01:00 AM,2021,01,26,01,48.7,134,Unhealthy for Sensitive Groups,83.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 02:00 AM,2021,01,26,02,168.8,219,Very Unhealthy,288.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 03:00 AM,2021,01,26,03,155.4,206,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 04:00 AM,2021,01,26,04,122.6,186,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 05:00 AM,2021,01,26,05,98.3,173,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 06:00 AM,2021,01,26,06,76.1,162,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 07:00 AM,2021,01,26,07,55.0,149,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 08:00 AM,2021,01,26,08,52.0,142,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 09:00 AM,2021,01,26,09,74.0,161,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 10:00 AM,2021,01,26,10,85.0,166,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 11:00 AM,2021,01,26,11,140.5,195,Unhealthy,196.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 12:00 PM,2021,01,26,12,198.2,248,Very Unhealthy,256.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 01:00 PM,2021,01,26,13,190.1,240,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 02:00 PM,2021,01,26,14,142.0,196,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 03:00 PM,2021,01,26,15,85.5,166,Unhealthy,29.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 04:00 PM,2021,01,26,16,44.7,124,Unhealthy for Sensitive Groups,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 05:00 PM,2021,01,26,17,23.8,76,Moderate,3.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 06:00 PM,2021,01,26,18,23.8,76,Moderate,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 07:00 PM,2021,01,26,19,9.2,38,Good,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 08:00 PM,2021,01,26,20,22.8,74,Moderate,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 09:00 PM,2021,01,26,21,38.3,108,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 10:00 PM,2021,01,26,22,53.6,146,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-26 11:00 PM,2021,01,26,23,54.3,147,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 12:00 AM,2021,01,27,00,119.6,184,Unhealthy,184.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 01:00 AM,2021,01,27,01,127.8,188,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 02:00 AM,2021,01,27,02,122.9,186,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 03:00 AM,2021,01,27,03,108.9,179,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 04:00 AM,2021,01,27,04,93.4,171,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 05:00 AM,2021,01,27,05,79.2,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 06:00 AM,2021,01,27,06,66.1,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 07:00 AM,2021,01,27,07,70.5,159,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 08:00 AM,2021,01,27,08,58.2,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 09:00 AM,2021,01,27,09,73.1,160,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 10:00 AM,2021,01,27,10,134.5,192,Unhealthy,196.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 11:00 AM,2021,01,27,11,175.8,226,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 12:00 PM,2021,01,27,12,146.3,198,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 01:00 PM,2021,01,27,13,89.6,169,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 02:00 PM,2021,01,27,14,58.3,152,Unhealthy,27.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 03:00 PM,2021,01,27,15,29.6,88,Moderate,1.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 04:00 PM,2021,01,27,16,29.6,88,Moderate,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 05:00 PM,2021,01,27,17,-999.0,-999,N/A,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 06:00 PM,2021,01,27,18,-999.0,-999,N/A,-5.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 07:00 PM,2021,01,27,19,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 08:00 PM,2021,01,27,20,-999.0,-999,N/A,20.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 09:00 PM,2021,01,27,21,43.0,119,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 10:00 PM,2021,01,27,22,80.9,164,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-27 11:00 PM,2021,01,27,23,133.0,191,Unhealthy,179.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 12:00 AM,2021,01,28,00,114.4,181,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 01:00 AM,2021,01,28,01,105.6,177,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 02:00 AM,2021,01,28,02,95.2,171,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 03:00 AM,2021,01,28,03,91.6,170,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 04:00 AM,2021,01,28,04,71.2,159,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 05:00 AM,2021,01,28,05,79.1,163,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 06:00 AM,2021,01,28,06,70.5,159,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 07:00 AM,2021,01,28,07,65.7,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 08:00 AM,2021,01,28,08,75.8,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 09:00 AM,2021,01,28,09,91.9,170,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 10:00 AM,2021,01,28,10,140.4,195,Unhealthy,189.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 11:00 AM,2021,01,28,11,175.7,226,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 12:00 PM,2021,01,28,12,257.4,308,Hazardous,339.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 01:00 PM,2021,01,28,13,225.7,276,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 02:00 PM,2021,01,28,14,208.3,258,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 03:00 PM,2021,01,28,15,206.1,256,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 04:00 PM,2021,01,28,16,187.6,238,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 05:00 PM,2021,01,28,17,165.3,216,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 06:00 PM,2021,01,28,18,148.6,199,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 07:00 PM,2021,01,28,19,128.3,189,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 08:00 PM,2021,01,28,20,116.1,182,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 09:00 PM,2021,01,28,21,284.6,335,Hazardous,453.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 10:00 PM,2021,01,28,22,400.8,434,Hazardous,517.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-28 11:00 PM,2021,01,28,23,418.9,446,Hazardous,437.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 12:00 AM,2021,01,29,00,434.4,456,Hazardous,450.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 01:00 AM,2021,01,29,01,449.7,467,Hazardous,465.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 02:00 AM,2021,01,29,02,497.9,498,Hazardous,546.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 03:00 AM,2021,01,29,03,462.4,475,Hazardous,427.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 04:00 AM,2021,01,29,04,607.3,571,Hazardous,752.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 05:00 AM,2021,01,29,05,470.6,480,Hazardous,334.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 06:00 AM,2021,01,29,06,362.3,409,Hazardous,254.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 07:00 AM,2021,01,29,07,184.1,234,Very Unhealthy,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 08:00 AM,2021,01,29,08,94.0,171,Unhealthy,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 09:00 AM,2021,01,29,09,52.4,143,Unhealthy for Sensitive Groups,11.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 10:00 AM,2021,01,29,10,52.3,142,Unhealthy for Sensitive Groups,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 11:00 AM,2021,01,29,11,20.7,69,Moderate,5.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 12:00 PM,2021,01,29,12,-999.0,-999,N/A,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 01:00 PM,2021,01,29,13,-999.0,-999,N/A,-6.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 02:00 PM,2021,01,29,14,-999.0,-999,N/A,-8.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 03:00 PM,2021,01,29,15,-999.0,-999,N/A,-6.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 04:00 PM,2021,01,29,16,-999.0,-999,N/A,-7.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 05:00 PM,2021,01,29,17,-999.0,-999,N/A,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 06:00 PM,2021,01,29,18,-999.0,-999,N/A,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 07:00 PM,2021,01,29,19,7.5,31,Good,9.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 08:00 PM,2021,01,29,20,52.0,142,Unhealthy for Sensitive Groups,80.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 09:00 PM,2021,01,29,21,56.4,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 10:00 PM,2021,01,29,22,47.8,131,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-29 11:00 PM,2021,01,29,23,50.9,139,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 12:00 AM,2021,01,30,00,56.5,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 01:00 AM,2021,01,30,01,83.9,166,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 02:00 AM,2021,01,30,02,123.5,186,Unhealthy,163.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 03:00 AM,2021,01,30,03,182.3,233,Very Unhealthy,241.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 04:00 AM,2021,01,30,04,171.1,221,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 05:00 AM,2021,01,30,05,132.5,191,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 06:00 AM,2021,01,30,06,98.2,173,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 07:00 AM,2021,01,30,07,105.1,177,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 08:00 AM,2021,01,30,08,93.5,171,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 09:00 AM,2021,01,30,09,116.2,182,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 10:00 AM,2021,01,30,10,216.1,266,Very Unhealthy,316.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 11:00 AM,2021,01,30,11,339.6,389,Hazardous,463.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 12:00 PM,2021,01,30,12,272.8,323,Hazardous,206.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 01:00 PM,2021,01,30,13,178.9,229,Very Unhealthy,85.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 02:00 PM,2021,01,30,14,122.9,186,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 03:00 PM,2021,01,30,15,94.4,171,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 04:00 PM,2021,01,30,16,50.2,137,Unhealthy for Sensitive Groups,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 05:00 PM,2021,01,30,17,26.0,80,Moderate,2.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 06:00 PM,2021,01,30,18,17.0,61,Moderate,8.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 07:00 PM,2021,01,30,19,42.0,117,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 08:00 PM,2021,01,30,20,66.0,156,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 09:00 PM,2021,01,30,21,124.5,187,Unhealthy,183.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 10:00 PM,2021,01,30,22,150.7,201,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-30 11:00 PM,2021,01,30,23,159.3,210,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 12:00 AM,2021,01,31,00,197.1,247,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 01:00 AM,2021,01,31,01,156.5,207,Very Unhealthy,116.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 02:00 AM,2021,01,31,02,115.7,182,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 03:00 AM,2021,01,31,03,112.4,180,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 04:00 AM,2021,01,31,04,102.2,175,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 05:00 AM,2021,01,31,05,98.6,173,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 06:00 AM,2021,01,31,06,59.8,153,Unhealthy,21.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 07:00 AM,2021,01,31,07,34.8,99,Moderate,10.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 08:00 AM,2021,01,31,08,34.8,99,Moderate,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 09:00 AM,2021,01,31,09,-999.0,-999,N/A,-3.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 10:00 AM,2021,01,31,10,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 11:00 AM,2021,01,31,11,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 12:00 PM,2021,01,31,12,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 01:00 PM,2021,01,31,13,-999.0,-999,N/A,-1.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 02:00 PM,2021,01,31,14,-999.0,-999,N/A,-4.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 03:00 PM,2021,01,31,15,-999.0,-999,N/A,-5.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 04:00 PM,2021,01,31,16,-999.0,-999,N/A,-7.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 05:00 PM,2021,01,31,17,-999.0,-999,N/A,-2.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 06:00 PM,2021,01,31,18,-999.0,-999,N/A,-3.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 07:00 PM,2021,01,31,19,-999.0,-999,N/A,-3.0,UG/M3,1 Hr,Invalid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 08:00 PM,2021,01,31,20,-999.0,-999,N/A,4.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 09:00 PM,2021,01,31,21,5.9,25,Good,7.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 10:00 PM,2021,01,31,22,5.9,25,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-01-31 11:00 PM,2021,01,31,23,5.9,25,Good,6.0,UG/M3,1 Hr,Valid
+Ulaanbaatar,PM2.5 - Principal,2021-02-01 12:00 AM,2021,02,01,00,8.0,33,Good,10.0,UG/M3,1 Hr,Valid

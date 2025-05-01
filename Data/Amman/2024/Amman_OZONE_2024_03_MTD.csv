@@ -1,0 +1,5 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Amman,O3,2024-03-06 05:00 PM,2024,03,06,17,26.0,24,Good,25.0,PPB,1 Hr,Valid
+Amman,O3,2024-03-06 06:00 PM,2024,03,06,18,24.0,22,Good,23.0,PPB,1 Hr,Valid
+Amman,O3,2024-03-06 07:00 PM,2024,03,06,19,24.0,22,Good,-999.0,PPB,1 Hr,Missing
+Amman,O3,2024-03-06 08:00 PM,2024,03,06,20,24.0,22,Good,-999.0,PPB,1 Hr,Missing

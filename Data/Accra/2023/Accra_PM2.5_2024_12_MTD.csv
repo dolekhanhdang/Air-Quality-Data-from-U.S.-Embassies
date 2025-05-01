@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Accra,PM2.5 - Principal,2023-12-01 01:00 AM,2023,12,01,01,14.1,55,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 02:00 AM,2023,12,01,02,17.0,61,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 03:00 AM,2023,12,01,03,17.0,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 04:00 AM,2023,12,01,04,12.5,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 05:00 AM,2023,12,01,05,12.2,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 06:00 AM,2023,12,01,06,14.1,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 07:00 AM,2023,12,01,07,23.0,74,Moderate,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 08:00 AM,2023,12,01,08,22.0,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 09:00 AM,2023,12,01,09,19.0,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 10:00 AM,2023,12,01,10,17.5,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 11:00 AM,2023,12,01,11,16.7,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 12:00 PM,2023,12,01,12,12.3,51,Moderate,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 01:00 PM,2023,12,01,13,10.1,42,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 02:00 PM,2023,12,01,14,11.0,46,Good,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 03:00 PM,2023,12,01,15,10.5,44,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 04:00 PM,2023,12,01,16,10.7,45,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 05:00 PM,2023,12,01,17,9.3,39,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 06:00 PM,2023,12,01,18,11.1,46,Good,13.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 07:00 PM,2023,12,01,19,10.0,42,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 08:00 PM,2023,12,01,20,9.0,38,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 09:00 PM,2023,12,01,21,8.5,35,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 10:00 PM,2023,12,01,22,6.7,28,Good,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-01 11:00 PM,2023,12,01,23,5.8,24,Good,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 12:00 AM,2023,12,02,00,7.4,31,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 01:00 AM,2023,12,02,01,10.7,45,Good,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 02:00 AM,2023,12,02,02,14.3,56,Moderate,18.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 03:00 AM,2023,12,02,03,27.1,83,Moderate,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 04:00 AM,2023,12,02,04,20.5,69,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 05:00 AM,2023,12,02,05,22.7,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 06:00 AM,2023,12,02,06,22.4,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 07:00 AM,2023,12,02,07,30.7,90,Moderate,39.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 08:00 AM,2023,12,02,08,33.8,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 09:00 AM,2023,12,02,09,27.9,84,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 10:00 AM,2023,12,02,10,24.4,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 11:00 AM,2023,12,02,11,25.2,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 12:00 PM,2023,12,02,12,20.1,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 01:00 PM,2023,12,02,13,20.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 02:00 PM,2023,12,02,14,19.0,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 03:00 PM,2023,12,02,15,16.0,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 04:00 PM,2023,12,02,16,14.0,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 05:00 PM,2023,12,02,17,15.5,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 06:00 PM,2023,12,02,18,16.2,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 07:00 PM,2023,12,02,19,18.6,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 08:00 PM,2023,12,02,20,19.8,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 09:00 PM,2023,12,02,21,20.4,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 10:00 PM,2023,12,02,22,17.2,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-02 11:00 PM,2023,12,02,23,13.5,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 12:00 AM,2023,12,03,00,18.3,64,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 01:00 AM,2023,12,03,01,13.6,54,Moderate,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 02:00 AM,2023,12,03,02,23.3,75,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 03:00 AM,2023,12,03,03,30.6,90,Moderate,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 04:00 AM,2023,12,03,04,30.3,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 05:00 AM,2023,12,03,05,26.6,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 06:00 AM,2023,12,03,06,31.8,92,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 07:00 AM,2023,12,03,07,32.9,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 08:00 AM,2023,12,03,08,33.9,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 09:00 AM,2023,12,03,09,29.4,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 10:00 AM,2023,12,03,10,24.2,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 11:00 AM,2023,12,03,11,20.6,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 12:00 PM,2023,12,03,12,15.3,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 01:00 PM,2023,12,03,13,12.6,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 02:00 PM,2023,12,03,14,11.8,49,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 03:00 PM,2023,12,03,15,11.4,48,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 04:00 PM,2023,12,03,16,9.7,40,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 05:00 PM,2023,12,03,17,10.3,43,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 06:00 PM,2023,12,03,18,10.1,42,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 07:00 PM,2023,12,03,19,9.5,40,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 08:00 PM,2023,12,03,20,7.2,30,Good,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 09:00 PM,2023,12,03,21,6.1,25,Good,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 10:00 PM,2023,12,03,22,5.0,21,Good,4.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-03 11:00 PM,2023,12,03,23,5.5,23,Good,6.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 12:00 AM,2023,12,04,00,5.7,24,Good,6.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 01:00 AM,2023,12,04,01,4.8,20,Good,4.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 02:00 AM,2023,12,04,02,5.9,25,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 03:00 AM,2023,12,04,03,7.9,33,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 04:00 AM,2023,12,04,04,13.4,54,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 05:00 AM,2023,12,04,05,17.7,63,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 06:00 AM,2023,12,04,06,20.3,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 07:00 AM,2023,12,04,07,24.6,77,Moderate,29.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 08:00 AM,2023,12,04,08,29.8,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 09:00 AM,2023,12,04,09,24.4,77,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 10:00 AM,2023,12,04,10,20.2,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 11:00 AM,2023,12,04,11,20.6,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 12:00 PM,2023,12,04,12,14.8,57,Moderate,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 01:00 PM,2023,12,04,13,12.9,53,Moderate,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 02:00 PM,2023,12,04,14,10.4,43,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 03:00 PM,2023,12,04,15,8.2,34,Good,6.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 04:00 PM,2023,12,04,16,9.1,38,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 05:00 PM,2023,12,04,17,8.0,33,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 06:00 PM,2023,12,04,18,10.0,42,Good,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 07:00 PM,2023,12,04,19,10.0,42,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 08:00 PM,2023,12,04,20,9.5,40,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 09:00 PM,2023,12,04,21,7.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 10:00 PM,2023,12,04,22,7.3,30,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-04 11:00 PM,2023,12,04,23,7.1,30,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 12:00 AM,2023,12,05,00,8.0,33,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 01:00 AM,2023,12,05,01,9.5,40,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 02:00 AM,2023,12,05,02,16.2,60,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 03:00 AM,2023,12,05,03,19.1,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 04:00 AM,2023,12,05,04,20.5,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 05:00 AM,2023,12,05,05,21.2,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 06:00 AM,2023,12,05,06,23.1,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 07:00 AM,2023,12,05,07,30.5,90,Moderate,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 08:00 AM,2023,12,05,08,32.2,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 09:00 AM,2023,12,05,09,26.6,81,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 10:00 AM,2023,12,05,10,22.8,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 11:00 AM,2023,12,05,11,16.4,60,Moderate,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 12:00 PM,2023,12,05,12,13.7,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 01:00 PM,2023,12,05,13,10.8,45,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 02:00 PM,2023,12,05,14,12.9,53,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 03:00 PM,2023,12,05,15,12.4,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 04:00 PM,2023,12,05,16,11.7,49,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 05:00 PM,2023,12,05,17,10.8,45,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 06:00 PM,2023,12,05,18,10.9,45,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 07:00 PM,2023,12,05,19,12.4,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 08:00 PM,2023,12,05,20,12.2,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 09:00 PM,2023,12,05,21,11.6,48,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 10:00 PM,2023,12,05,22,9.3,39,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-05 11:00 PM,2023,12,05,23,7.6,32,Good,6.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 12:00 AM,2023,12,06,00,8.8,37,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 01:00 AM,2023,12,06,01,7.9,33,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 02:00 AM,2023,12,06,02,7.9,33,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 03:00 AM,2023,12,06,03,11.4,48,Good,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 04:00 AM,2023,12,06,04,15.7,59,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 05:00 AM,2023,12,06,05,14.8,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 06:00 AM,2023,12,06,06,23.9,76,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 07:00 AM,2023,12,06,07,31.4,92,Moderate,39.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 08:00 AM,2023,12,06,08,26.7,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 09:00 AM,2023,12,06,09,23.3,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 10:00 AM,2023,12,06,10,19.6,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 11:00 AM,2023,12,06,11,20.3,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 12:00 PM,2023,12,06,12,14.1,55,Moderate,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 01:00 PM,2023,12,06,13,11.5,48,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 02:00 PM,2023,12,06,14,11.7,49,Good,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 03:00 PM,2023,12,06,15,11.3,47,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 04:00 PM,2023,12,06,16,11.1,46,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 05:00 PM,2023,12,06,17,11.5,48,Good,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 06:00 PM,2023,12,06,18,17.7,63,Moderate,24.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 07:00 PM,2023,12,06,19,22.3,72,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 08:00 PM,2023,12,06,20,34.2,97,Moderate,46.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 09:00 PM,2023,12,06,21,26.6,81,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 10:00 PM,2023,12,06,22,19.2,66,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-06 11:00 PM,2023,12,06,23,14.1,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 12:00 AM,2023,12,07,00,12.0,50,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 01:00 AM,2023,12,07,01,9.5,40,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 02:00 AM,2023,12,07,02,14.7,56,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 03:00 AM,2023,12,07,03,24.3,77,Moderate,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 04:00 AM,2023,12,07,04,26.1,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 05:00 AM,2023,12,07,05,22.5,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 06:00 AM,2023,12,07,06,23.7,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 07:00 AM,2023,12,07,07,27.4,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 08:00 AM,2023,12,07,08,26.6,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 09:00 AM,2023,12,07,09,25.3,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 10:00 AM,2023,12,07,10,21.6,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 11:00 AM,2023,12,07,11,24.8,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 12:00 PM,2023,12,07,12,26.4,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 01:00 PM,2023,12,07,13,21.7,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 02:00 PM,2023,12,07,14,14.3,56,Moderate,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 03:00 PM,2023,12,07,15,11.6,48,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 04:00 PM,2023,12,07,16,12.8,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 05:00 PM,2023,12,07,17,12.9,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 06:00 PM,2023,12,07,18,16.4,60,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 07:00 PM,2023,12,07,19,14.7,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 08:00 PM,2023,12,07,20,11.8,49,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 09:00 PM,2023,12,07,21,13.4,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 10:00 PM,2023,12,07,22,17.2,62,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-07 11:00 PM,2023,12,07,23,12.6,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 12:00 AM,2023,12,08,00,16.8,61,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 01:00 AM,2023,12,08,01,22.4,73,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 02:00 AM,2023,12,08,02,19.2,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 03:00 AM,2023,12,08,03,23.1,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 04:00 AM,2023,12,08,04,23.0,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 05:00 AM,2023,12,08,05,22.5,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 06:00 AM,2023,12,08,06,21.2,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 07:00 AM,2023,12,08,07,25.6,79,Moderate,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 08:00 AM,2023,12,08,08,31.3,91,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 09:00 AM,2023,12,08,09,26.6,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 10:00 AM,2023,12,08,10,22.8,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 11:00 AM,2023,12,08,11,21.9,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 12:00 PM,2023,12,08,12,16.9,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 01:00 PM,2023,12,08,13,13.4,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 02:00 PM,2023,12,08,14,11.2,47,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 03:00 PM,2023,12,08,15,11.1,46,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 04:00 PM,2023,12,08,16,11.0,46,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 05:00 PM,2023,12,08,17,12.5,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 06:00 PM,2023,12,08,18,18.2,64,Moderate,24.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 07:00 PM,2023,12,08,19,24.1,76,Moderate,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 08:00 PM,2023,12,08,20,26.0,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 09:00 PM,2023,12,08,21,23.0,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 10:00 PM,2023,12,08,22,22.0,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-08 11:00 PM,2023,12,08,23,13.5,54,Moderate,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 12:00 AM,2023,12,09,00,12.2,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 01:00 AM,2023,12,09,01,30.1,89,Moderate,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 02:00 AM,2023,12,09,02,36.0,102,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 03:00 AM,2023,12,09,03,35.5,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 04:00 AM,2023,12,09,04,32.7,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 05:00 AM,2023,12,09,05,34.3,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 06:00 AM,2023,12,09,06,39.6,111,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 07:00 AM,2023,12,09,07,42.3,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 08:00 AM,2023,12,09,08,37.1,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 09:00 AM,2023,12,09,09,30.0,89,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 10:00 AM,2023,12,09,10,28.5,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 11:00 AM,2023,12,09,11,23.2,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 12:00 PM,2023,12,09,12,16.6,60,Moderate,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 01:00 PM,2023,12,09,13,13.3,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 02:00 PM,2023,12,09,14,11.1,46,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 03:00 PM,2023,12,09,15,9.5,40,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 04:00 PM,2023,12,09,16,8.7,36,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 05:00 PM,2023,12,09,17,9.8,41,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 06:00 PM,2023,12,09,18,9.4,39,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 07:00 PM,2023,12,09,19,10.7,45,Good,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 08:00 PM,2023,12,09,20,9.3,39,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 09:00 PM,2023,12,09,21,9.6,40,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 10:00 PM,2023,12,09,22,8.8,37,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-09 11:00 PM,2023,12,09,23,6.9,29,Good,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 12:00 AM,2023,12,10,00,5.9,25,Good,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 01:00 AM,2023,12,10,01,9.4,39,Good,13.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 02:00 AM,2023,12,10,02,12.2,51,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 03:00 AM,2023,12,10,03,18.6,65,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 04:00 AM,2023,12,10,04,26.3,81,Moderate,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 05:00 AM,2023,12,10,05,28.6,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 06:00 AM,2023,12,10,06,34.8,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 07:00 AM,2023,12,10,07,35.4,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 08:00 AM,2023,12,10,08,37.7,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 09:00 AM,2023,12,10,09,31.8,92,Moderate,26.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 10:00 AM,2023,12,10,10,23.4,75,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 11:00 AM,2023,12,10,11,17.7,63,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 12:00 PM,2023,12,10,12,12.3,51,Moderate,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 01:00 PM,2023,12,10,13,8.6,36,Good,5.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 02:00 PM,2023,12,10,14,7.8,33,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 03:00 PM,2023,12,10,15,8.9,37,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 04:00 PM,2023,12,10,16,8.9,37,Good,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 05:00 PM,2023,12,10,17,11.4,48,Good,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 06:00 PM,2023,12,10,18,10.7,45,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 07:00 PM,2023,12,10,19,10.8,45,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 08:00 PM,2023,12,10,20,9.4,39,Good,8.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 09:00 PM,2023,12,10,21,8.2,34,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 10:00 PM,2023,12,10,22,7.6,32,Good,7.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-10 11:00 PM,2023,12,10,23,6.8,28,Good,6.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 12:00 AM,2023,12,11,00,8.9,37,Good,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 01:00 AM,2023,12,11,01,9.4,39,Good,10.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 02:00 AM,2023,12,11,02,12.2,51,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 03:00 AM,2023,12,11,03,17.1,62,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 04:00 AM,2023,12,11,04,20.0,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 05:00 AM,2023,12,11,05,23.5,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 06:00 AM,2023,12,11,06,26.2,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 07:00 AM,2023,12,11,07,33.6,96,Moderate,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 08:00 AM,2023,12,11,08,35.3,100,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 09:00 AM,2023,12,11,09,33.1,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 10:00 AM,2023,12,11,10,30.5,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 11:00 AM,2023,12,11,11,26.7,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 12:00 PM,2023,12,11,12,22.3,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 01:00 PM,2023,12,11,13,15.6,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 02:00 PM,2023,12,11,14,14.3,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 03:00 PM,2023,12,11,15,12.6,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 04:00 PM,2023,12,11,16,15.3,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 05:00 PM,2023,12,11,17,15.1,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 06:00 PM,2023,12,11,18,14.5,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 07:00 PM,2023,12,11,19,14.5,56,Moderate,797.0,UG/M3,1 Hr,Invalid
+Accra,PM2.5 - Principal,2023-12-11 08:00 PM,2023,12,11,20,14.1,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 09:00 PM,2023,12,11,21,14.0,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 10:00 PM,2023,12,11,22,12.4,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-11 11:00 PM,2023,12,11,23,12.2,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 12:00 AM,2023,12,12,00,14.6,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 01:00 AM,2023,12,12,01,15.7,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 02:00 AM,2023,12,12,02,14.6,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 03:00 AM,2023,12,12,03,20.8,69,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 04:00 AM,2023,12,12,04,22.4,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 05:00 AM,2023,12,12,05,26.7,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 06:00 AM,2023,12,12,06,31.8,92,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 07:00 AM,2023,12,12,07,35.9,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 08:00 AM,2023,12,12,08,34.4,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 09:00 AM,2023,12,12,09,30.2,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 10:00 AM,2023,12,12,10,28.6,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 11:00 AM,2023,12,12,11,28.3,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 12:00 PM,2023,12,12,12,25.1,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 01:00 PM,2023,12,12,13,23.5,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 02:00 PM,2023,12,12,14,21.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 03:00 PM,2023,12,12,15,17.6,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 04:00 PM,2023,12,12,16,16.3,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 05:00 PM,2023,12,12,17,15.1,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 06:00 PM,2023,12,12,18,17.5,62,Moderate,20.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 07:00 PM,2023,12,12,19,21.2,70,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 08:00 PM,2023,12,12,20,22.1,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 09:00 PM,2023,12,12,21,21.5,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 10:00 PM,2023,12,12,22,23.7,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-12 11:00 PM,2023,12,12,23,27.3,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 12:00 AM,2023,12,13,00,33.1,95,Moderate,39.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 01:00 AM,2023,12,13,01,33.6,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 02:00 AM,2023,12,13,02,31.8,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 03:00 AM,2023,12,13,03,33.4,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 04:00 AM,2023,12,13,04,30.2,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 05:00 AM,2023,12,13,05,33.5,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 06:00 AM,2023,12,13,06,35.5,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 07:00 AM,2023,12,13,07,38.9,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 08:00 AM,2023,12,13,08,34.4,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 09:00 AM,2023,12,13,09,38.0,107,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 10:00 AM,2023,12,13,10,51.8,141,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 11:00 AM,2023,12,13,11,54.4,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 12:00 PM,2023,12,13,12,58.2,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 01:00 PM,2023,12,13,13,61.1,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 02:00 PM,2023,12,13,14,64.5,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 03:00 PM,2023,12,13,15,67.2,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 04:00 PM,2023,12,13,16,65.6,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 05:00 PM,2023,12,13,17,63.3,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 06:00 PM,2023,12,13,18,59.1,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 07:00 PM,2023,12,13,19,59.5,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 08:00 PM,2023,12,13,20,61.2,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 09:00 PM,2023,12,13,21,63.0,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 10:00 PM,2023,12,13,22,65.5,156,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-13 11:00 PM,2023,12,13,23,66.2,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 12:00 AM,2023,12,14,00,72.5,160,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 01:00 AM,2023,12,14,01,82.9,165,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 02:00 AM,2023,12,14,02,83.8,166,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 03:00 AM,2023,12,14,03,84.7,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 04:00 AM,2023,12,14,04,85.7,167,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 05:00 AM,2023,12,14,05,89.2,168,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 06:00 AM,2023,12,14,06,101.9,175,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 07:00 AM,2023,12,14,07,90.2,169,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 08:00 AM,2023,12,14,08,87.3,167,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 09:00 AM,2023,12,14,09,83.1,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 10:00 AM,2023,12,14,10,78.1,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 11:00 AM,2023,12,14,11,68.0,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 12:00 PM,2023,12,14,12,63.6,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 01:00 PM,2023,12,14,13,57.6,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 02:00 PM,2023,12,14,14,58.3,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 03:00 PM,2023,12,14,15,59.1,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 04:00 PM,2023,12,14,16,60.0,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 05:00 PM,2023,12,14,17,58.5,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 06:00 PM,2023,12,14,18,59.3,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 07:00 PM,2023,12,14,19,59.9,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 08:00 PM,2023,12,14,20,59.9,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 09:00 PM,2023,12,14,21,62.0,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 10:00 PM,2023,12,14,22,62.4,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-14 11:00 PM,2023,12,14,23,62.6,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 12:00 AM,2023,12,15,00,64.3,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 01:00 AM,2023,12,15,01,66.2,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 02:00 AM,2023,12,15,02,73.5,160,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 03:00 AM,2023,12,15,03,85.6,167,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 04:00 AM,2023,12,15,04,97.0,172,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 05:00 AM,2023,12,15,05,103.8,176,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 06:00 AM,2023,12,15,06,106.7,177,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 07:00 AM,2023,12,15,07,108.2,178,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 08:00 AM,2023,12,15,08,112.2,180,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 09:00 AM,2023,12,15,09,102.4,175,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 10:00 AM,2023,12,15,10,92.1,170,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 11:00 AM,2023,12,15,11,90.0,169,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 12:00 PM,2023,12,15,12,76.9,162,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 01:00 PM,2023,12,15,13,74.1,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 02:00 PM,2023,12,15,14,71.3,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 03:00 PM,2023,12,15,15,71.1,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 04:00 PM,2023,12,15,16,69.2,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 05:00 PM,2023,12,15,17,70.0,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 06:00 PM,2023,12,15,18,71.3,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 07:00 PM,2023,12,15,19,72.1,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 08:00 PM,2023,12,15,20,72.4,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 09:00 PM,2023,12,15,21,73.2,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 10:00 PM,2023,12,15,22,75.5,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-15 11:00 PM,2023,12,15,23,78.4,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 12:00 AM,2023,12,16,00,81.8,165,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 01:00 AM,2023,12,16,01,85.3,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 02:00 AM,2023,12,16,02,92.7,170,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 03:00 AM,2023,12,16,03,103.7,176,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 04:00 AM,2023,12,16,04,116.2,182,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 05:00 AM,2023,12,16,05,117.9,183,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 06:00 AM,2023,12,16,06,121.5,185,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 07:00 AM,2023,12,16,07,119.9,184,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 08:00 AM,2023,12,16,08,128.1,188,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 09:00 AM,2023,12,16,09,114.9,182,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 10:00 AM,2023,12,16,10,107.2,178,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 11:00 AM,2023,12,16,11,100.5,174,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 12:00 PM,2023,12,16,12,98.9,173,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 01:00 PM,2023,12,16,13,99.6,174,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 02:00 PM,2023,12,16,14,92.7,170,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 03:00 PM,2023,12,16,15,87.6,168,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 04:00 PM,2023,12,16,16,89.0,168,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 05:00 PM,2023,12,16,17,91.4,170,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 06:00 PM,2023,12,16,18,92.0,170,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 07:00 PM,2023,12,16,19,86.9,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 08:00 PM,2023,12,16,20,87.8,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 09:00 PM,2023,12,16,21,89.9,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 10:00 PM,2023,12,16,22,89.0,168,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-16 11:00 PM,2023,12,16,23,86.7,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 12:00 AM,2023,12,17,00,85.5,166,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 01:00 AM,2023,12,17,01,87.6,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 02:00 AM,2023,12,17,02,101.3,175,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 03:00 AM,2023,12,17,03,108.1,178,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 04:00 AM,2023,12,17,04,106.3,177,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 05:00 AM,2023,12,17,05,107.6,178,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 06:00 AM,2023,12,17,06,106.7,177,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 07:00 AM,2023,12,17,07,110.1,179,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 08:00 AM,2023,12,17,08,109.7,179,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 09:00 AM,2023,12,17,09,108.7,178,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 10:00 AM,2023,12,17,10,108.8,179,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 11:00 AM,2023,12,17,11,107.9,178,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 12:00 PM,2023,12,17,12,101.3,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 01:00 PM,2023,12,17,13,90.9,169,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 02:00 PM,2023,12,17,14,85.7,167,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 03:00 PM,2023,12,17,15,81.5,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 04:00 PM,2023,12,17,16,79.1,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 05:00 PM,2023,12,17,17,78.2,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 06:00 PM,2023,12,17,18,80.6,164,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 07:00 PM,2023,12,17,19,78.9,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 08:00 PM,2023,12,17,20,77.5,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 09:00 PM,2023,12,17,21,75.9,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 10:00 PM,2023,12,17,22,73.3,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-17 11:00 PM,2023,12,17,23,73.7,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 12:00 AM,2023,12,18,00,73.4,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 01:00 AM,2023,12,18,01,72.4,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 02:00 AM,2023,12,18,02,71.7,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 03:00 AM,2023,12,18,03,74.6,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 04:00 AM,2023,12,18,04,78.1,163,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 05:00 AM,2023,12,18,05,79.9,164,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 06:00 AM,2023,12,18,06,81.8,165,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 07:00 AM,2023,12,18,07,80.2,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 08:00 AM,2023,12,18,08,80.2,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 09:00 AM,2023,12,18,09,85.4,166,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 10:00 AM,2023,12,18,10,87.4,167,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 11:00 AM,2023,12,18,11,89.7,169,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 12:00 PM,2023,12,18,12,88.4,168,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 01:00 PM,2023,12,18,13,86.0,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 02:00 PM,2023,12,18,14,84.2,166,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 03:00 PM,2023,12,18,15,83.9,166,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 04:00 PM,2023,12,18,16,83.8,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 05:00 PM,2023,12,18,17,80.1,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 06:00 PM,2023,12,18,18,78.1,163,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 07:00 PM,2023,12,18,19,77.5,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 08:00 PM,2023,12,18,20,72.8,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 09:00 PM,2023,12,18,21,69.9,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 10:00 PM,2023,12,18,22,69.2,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-18 11:00 PM,2023,12,18,23,66.6,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 12:00 AM,2023,12,19,00,67.9,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 01:00 AM,2023,12,19,01,73.3,160,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 02:00 AM,2023,12,19,02,75.3,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 03:00 AM,2023,12,19,03,77.9,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 04:00 AM,2023,12,19,04,79.1,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 05:00 AM,2023,12,19,05,78.2,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 06:00 AM,2023,12,19,06,76.6,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 07:00 AM,2023,12,19,07,72.7,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 08:00 AM,2023,12,19,08,74.4,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 09:00 AM,2023,12,19,09,72.4,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 10:00 AM,2023,12,19,10,70.8,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 11:00 AM,2023,12,19,11,71.1,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 12:00 PM,2023,12,19,12,69.7,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 01:00 PM,2023,12,19,13,67.9,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 02:00 PM,2023,12,19,14,64.7,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 03:00 PM,2023,12,19,15,64.6,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 04:00 PM,2023,12,19,16,62.9,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 05:00 PM,2023,12,19,17,60.6,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 06:00 PM,2023,12,19,18,59.8,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 07:00 PM,2023,12,19,19,59.8,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 08:00 PM,2023,12,19,20,59.8,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 09:00 PM,2023,12,19,21,58.9,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 10:00 PM,2023,12,19,22,57.8,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-19 11:00 PM,2023,12,19,23,57.6,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 12:00 AM,2023,12,20,00,58.1,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 01:00 AM,2023,12,20,01,57.8,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 02:00 AM,2023,12,20,02,61.5,154,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 03:00 AM,2023,12,20,03,62.6,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 04:00 AM,2023,12,20,04,62.5,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 05:00 AM,2023,12,20,05,62.4,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 06:00 AM,2023,12,20,06,62.8,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 07:00 AM,2023,12,20,07,63.9,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 08:00 AM,2023,12,20,08,68.4,158,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 09:00 AM,2023,12,20,09,68.3,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 10:00 AM,2023,12,20,10,68.5,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 11:00 AM,2023,12,20,11,68.6,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 12:00 PM,2023,12,20,12,66.5,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 01:00 PM,2023,12,20,13,64.4,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 02:00 PM,2023,12,20,14,60.7,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 03:00 PM,2023,12,20,15,60.8,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 04:00 PM,2023,12,20,16,60.5,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 05:00 PM,2023,12,20,17,60.0,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 06:00 PM,2023,12,20,18,58.4,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 07:00 PM,2023,12,20,19,57.9,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 08:00 PM,2023,12,20,20,57.5,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 09:00 PM,2023,12,20,21,54.4,148,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 10:00 PM,2023,12,20,22,53.9,146,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-20 11:00 PM,2023,12,20,23,56.6,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 12:00 AM,2023,12,21,00,64.4,156,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 01:00 AM,2023,12,21,01,71.4,159,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 02:00 AM,2023,12,21,02,91.6,170,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 03:00 AM,2023,12,21,03,100.3,174,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 04:00 AM,2023,12,21,04,104.1,176,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 05:00 AM,2023,12,21,05,101.0,174,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 06:00 AM,2023,12,21,06,111.0,180,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 07:00 AM,2023,12,21,07,131.5,190,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 08:00 AM,2023,12,21,08,133.2,191,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 09:00 AM,2023,12,21,09,118.1,183,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 10:00 AM,2023,12,21,10,100.0,174,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 11:00 AM,2023,12,21,11,85.5,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 12:00 PM,2023,12,21,12,69.2,158,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 01:00 PM,2023,12,21,13,60.6,154,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 02:00 PM,2023,12,21,14,55.8,151,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 03:00 PM,2023,12,21,15,53.8,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 04:00 PM,2023,12,21,16,52.9,144,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 05:00 PM,2023,12,21,17,52.9,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 06:00 PM,2023,12,21,18,55.4,150,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 07:00 PM,2023,12,21,19,60.2,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 08:00 PM,2023,12,21,20,58.6,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 09:00 PM,2023,12,21,21,57.3,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 10:00 PM,2023,12,21,22,59.3,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-21 11:00 PM,2023,12,21,23,58.6,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 12:00 AM,2023,12,22,00,59.4,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 01:00 AM,2023,12,22,01,65.0,156,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 02:00 AM,2023,12,22,02,69.0,158,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 03:00 AM,2023,12,22,03,78.5,163,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 04:00 AM,2023,12,22,04,78.5,163,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 05:00 AM,2023,12,22,05,75.3,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 06:00 AM,2023,12,22,06,77.1,162,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 07:00 AM,2023,12,22,07,81.1,164,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 08:00 AM,2023,12,22,08,88.8,168,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 09:00 AM,2023,12,22,09,91.3,169,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 10:00 AM,2023,12,22,10,90.4,169,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 11:00 AM,2023,12,22,11,87.5,168,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 12:00 PM,2023,12,22,12,84.9,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 01:00 PM,2023,12,22,13,83.0,165,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 02:00 PM,2023,12,22,14,80.5,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 03:00 PM,2023,12,22,15,71.4,159,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 04:00 PM,2023,12,22,16,67.7,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 05:00 PM,2023,12,22,17,62.8,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 06:00 PM,2023,12,22,18,61.2,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 07:00 PM,2023,12,22,19,60.2,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 08:00 PM,2023,12,22,20,59.4,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 09:00 PM,2023,12,22,21,59.5,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 10:00 PM,2023,12,22,22,61.4,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-22 11:00 PM,2023,12,22,23,61.0,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 12:00 AM,2023,12,23,00,63.4,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 01:00 AM,2023,12,23,01,68.2,158,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 02:00 AM,2023,12,23,02,87.0,167,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 03:00 AM,2023,12,23,03,94.8,171,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 04:00 AM,2023,12,23,04,105.7,177,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 05:00 AM,2023,12,23,05,96.8,172,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 06:00 AM,2023,12,23,06,94.4,171,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 07:00 AM,2023,12,23,07,90.7,169,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 08:00 AM,2023,12,23,08,87.5,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 09:00 AM,2023,12,23,09,90.6,169,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 10:00 AM,2023,12,23,10,83.6,166,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 11:00 AM,2023,12,23,11,80.3,164,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 12:00 PM,2023,12,23,12,64.0,155,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 01:00 PM,2023,12,23,13,60.5,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 02:00 PM,2023,12,23,14,56.2,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 03:00 PM,2023,12,23,15,54.1,147,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 04:00 PM,2023,12,23,16,53.3,145,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 05:00 PM,2023,12,23,17,50.0,137,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 06:00 PM,2023,12,23,18,51.0,139,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 07:00 PM,2023,12,23,19,49.9,136,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 08:00 PM,2023,12,23,20,50.4,138,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 09:00 PM,2023,12,23,21,48.8,134,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 10:00 PM,2023,12,23,22,45.7,126,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-23 11:00 PM,2023,12,23,23,46.4,128,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 12:00 AM,2023,12,24,00,48.4,133,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 01:00 AM,2023,12,24,01,49.7,136,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 02:00 AM,2023,12,24,02,52.2,142,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 03:00 AM,2023,12,24,03,56.2,151,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 04:00 AM,2023,12,24,04,59.0,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 05:00 AM,2023,12,24,05,59.0,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 06:00 AM,2023,12,24,06,58.3,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 07:00 AM,2023,12,24,07,67.0,157,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 08:00 AM,2023,12,24,08,66.5,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 09:00 AM,2023,12,24,09,69.4,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 10:00 AM,2023,12,24,10,69.1,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 11:00 AM,2023,12,24,11,67.3,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 12:00 PM,2023,12,24,12,61.4,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 01:00 PM,2023,12,24,13,53.2,145,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 02:00 PM,2023,12,24,14,44.2,122,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 03:00 PM,2023,12,24,15,42.6,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 04:00 PM,2023,12,24,16,41.2,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 05:00 PM,2023,12,24,17,40.6,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 06:00 PM,2023,12,24,18,43.3,120,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 07:00 PM,2023,12,24,19,42.6,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 08:00 PM,2023,12,24,20,41.8,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 09:00 PM,2023,12,24,21,41.9,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 10:00 PM,2023,12,24,22,44.6,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-24 11:00 PM,2023,12,24,23,43.1,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 12:00 AM,2023,12,25,00,42.9,119,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 01:00 AM,2023,12,25,01,42.9,119,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 02:00 AM,2023,12,25,02,41.2,115,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 03:00 AM,2023,12,25,03,46.6,128,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 04:00 AM,2023,12,25,04,49.3,135,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 05:00 AM,2023,12,25,05,45.9,127,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 06:00 AM,2023,12,25,06,41.0,115,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 07:00 AM,2023,12,25,07,43.0,119,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 08:00 AM,2023,12,25,08,45.4,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 09:00 AM,2023,12,25,09,44.4,123,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 10:00 AM,2023,12,25,10,42.6,118,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 11:00 AM,2023,12,25,11,44.0,122,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 12:00 PM,2023,12,25,12,45.6,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 01:00 PM,2023,12,25,13,41.3,115,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 02:00 PM,2023,12,25,14,35.6,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 03:00 PM,2023,12,25,15,36.4,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 04:00 PM,2023,12,25,16,36.1,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 05:00 PM,2023,12,25,17,34.9,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 06:00 PM,2023,12,25,18,34.1,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 07:00 PM,2023,12,25,19,33.3,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 08:00 PM,2023,12,25,20,31.0,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 09:00 PM,2023,12,25,21,29.1,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 10:00 PM,2023,12,25,22,27.6,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-25 11:00 PM,2023,12,25,23,24.6,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 12:00 AM,2023,12,26,00,25.3,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 01:00 AM,2023,12,26,01,25.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 02:00 AM,2023,12,26,02,28.8,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 03:00 AM,2023,12,26,03,30.6,90,Moderate,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 04:00 AM,2023,12,26,04,32.8,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 05:00 AM,2023,12,26,05,32.1,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 06:00 AM,2023,12,26,06,34.1,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 07:00 AM,2023,12,26,07,35.8,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 08:00 AM,2023,12,26,08,38.3,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 09:00 AM,2023,12,26,09,40.1,112,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 10:00 AM,2023,12,26,10,46.1,127,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 11:00 AM,2023,12,26,11,43.0,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 12:00 PM,2023,12,26,12,42.0,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 01:00 PM,2023,12,26,13,42.4,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 02:00 PM,2023,12,26,14,35.0,99,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 03:00 PM,2023,12,26,15,33.5,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 04:00 PM,2023,12,26,16,33.3,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 05:00 PM,2023,12,26,17,34.1,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 06:00 PM,2023,12,26,18,33.1,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 07:00 PM,2023,12,26,19,46.0,127,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 08:00 PM,2023,12,26,20,41.0,115,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 09:00 PM,2023,12,26,21,35.5,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 10:00 PM,2023,12,26,22,32.2,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-26 11:00 PM,2023,12,26,23,29.6,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 12:00 AM,2023,12,27,00,29.3,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 01:00 AM,2023,12,27,01,28.1,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 02:00 AM,2023,12,27,02,27.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 03:00 AM,2023,12,27,03,32.0,93,Moderate,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 04:00 AM,2023,12,27,04,34.0,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 05:00 AM,2023,12,27,05,38.5,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 06:00 AM,2023,12,27,06,47.7,131,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 07:00 AM,2023,12,27,07,54.3,147,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 08:00 AM,2023,12,27,08,55.1,149,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 09:00 AM,2023,12,27,09,58.0,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 10:00 AM,2023,12,27,10,53.0,144,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 11:00 AM,2023,12,27,11,50.5,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 12:00 PM,2023,12,27,12,46.2,127,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 01:00 PM,2023,12,27,13,41.6,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 02:00 PM,2023,12,27,14,42.2,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 03:00 PM,2023,12,27,15,37.0,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 04:00 PM,2023,12,27,16,36.0,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 05:00 PM,2023,12,27,17,36.9,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 06:00 PM,2023,12,27,18,36.5,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 07:00 PM,2023,12,27,19,37.2,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 08:00 PM,2023,12,27,20,33.1,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 09:00 PM,2023,12,27,21,31.9,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 10:00 PM,2023,12,27,22,33.1,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-27 11:00 PM,2023,12,27,23,34.8,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 12:00 AM,2023,12,28,00,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 01:00 AM,2023,12,28,01,33.7,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 02:00 AM,2023,12,28,02,33.5,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 03:00 AM,2023,12,28,03,33.4,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 04:00 AM,2023,12,28,04,33.0,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 05:00 AM,2023,12,28,05,31.6,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 06:00 AM,2023,12,28,06,33.9,97,Moderate,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 07:00 AM,2023,12,28,07,49.5,135,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 08:00 AM,2023,12,28,08,71.2,159,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 09:00 AM,2023,12,28,09,60.1,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 10:00 AM,2023,12,28,10,55.0,149,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 11:00 AM,2023,12,28,11,49.5,135,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 12:00 PM,2023,12,28,12,47.2,130,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 01:00 PM,2023,12,28,13,47.1,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 02:00 PM,2023,12,28,14,44.0,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 03:00 PM,2023,12,28,15,41.0,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 04:00 PM,2023,12,28,16,38.5,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 05:00 PM,2023,12,28,17,39.2,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 06:00 PM,2023,12,28,18,37.6,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 07:00 PM,2023,12,28,19,34.8,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 08:00 PM,2023,12,28,20,36.4,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 09:00 PM,2023,12,28,21,35.5,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 10:00 PM,2023,12,28,22,36.4,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-28 11:00 PM,2023,12,28,23,36.2,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 12:00 AM,2023,12,29,00,35.2,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 01:00 AM,2023,12,29,01,36.3,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 02:00 AM,2023,12,29,02,40.2,113,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 03:00 AM,2023,12,29,03,43.4,120,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 04:00 AM,2023,12,29,04,55.3,150,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 05:00 AM,2023,12,29,05,59.6,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 06:00 AM,2023,12,29,06,58.3,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 07:00 AM,2023,12,29,07,56.6,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 08:00 AM,2023,12,29,08,60.2,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 09:00 AM,2023,12,29,09,60.1,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 10:00 AM,2023,12,29,10,58.1,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 11:00 AM,2023,12,29,11,53.6,146,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 12:00 PM,2023,12,29,12,51.1,139,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 01:00 PM,2023,12,29,13,49.5,135,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 02:00 PM,2023,12,29,14,47.1,130,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 03:00 PM,2023,12,29,15,45.1,125,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 04:00 PM,2023,12,29,16,43.5,121,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 05:00 PM,2023,12,29,17,42.6,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 06:00 PM,2023,12,29,18,40.9,114,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 07:00 PM,2023,12,29,19,39.1,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 08:00 PM,2023,12,29,20,41.1,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 09:00 PM,2023,12,29,21,41.8,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 10:00 PM,2023,12,29,22,42.0,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-29 11:00 PM,2023,12,29,23,42.1,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 12:00 AM,2023,12,30,00,41.0,115,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 01:00 AM,2023,12,30,01,38.7,109,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 02:00 AM,2023,12,30,02,39.0,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 03:00 AM,2023,12,30,03,40.9,114,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 04:00 AM,2023,12,30,04,49.3,135,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 05:00 AM,2023,12,30,05,51.8,141,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 06:00 AM,2023,12,30,06,59.3,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 07:00 AM,2023,12,30,07,71.7,159,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 08:00 AM,2023,12,30,08,74.3,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 09:00 AM,2023,12,30,09,72.1,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 10:00 AM,2023,12,30,10,68.0,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 11:00 AM,2023,12,30,11,57.5,152,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 12:00 PM,2023,12,30,12,52.2,142,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 01:00 PM,2023,12,30,13,51.6,141,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 02:00 PM,2023,12,30,14,48.8,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 03:00 PM,2023,12,30,15,47.0,129,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 04:00 PM,2023,12,30,16,45.5,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 05:00 PM,2023,12,30,17,41.6,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 06:00 PM,2023,12,30,18,42.8,119,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 07:00 PM,2023,12,30,19,46.4,128,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 08:00 PM,2023,12,30,20,46.5,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 09:00 PM,2023,12,30,21,45.3,125,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 10:00 PM,2023,12,30,22,46.8,129,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-30 11:00 PM,2023,12,30,23,46.3,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 12:00 AM,2023,12,31,00,45.4,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 01:00 AM,2023,12,31,01,44.5,123,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 02:00 AM,2023,12,31,02,43.8,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 03:00 AM,2023,12,31,03,42.3,118,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 04:00 AM,2023,12,31,04,43.7,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 05:00 AM,2023,12,31,05,46.4,128,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 06:00 AM,2023,12,31,06,47.4,130,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 07:00 AM,2023,12,31,07,55.4,150,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 08:00 AM,2023,12,31,08,63.8,155,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 09:00 AM,2023,12,31,09,64.8,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 10:00 AM,2023,12,31,10,61.1,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 11:00 AM,2023,12,31,11,59.2,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 12:00 PM,2023,12,31,12,57.6,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 01:00 PM,2023,12,31,13,53.5,145,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 02:00 PM,2023,12,31,14,53.3,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 03:00 PM,2023,12,31,15,53.0,144,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 04:00 PM,2023,12,31,16,51.8,141,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 05:00 PM,2023,12,31,17,50.4,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 06:00 PM,2023,12,31,18,51.6,141,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 07:00 PM,2023,12,31,19,52.7,143,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 08:00 PM,2023,12,31,20,52.6,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 09:00 PM,2023,12,31,21,52.4,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 10:00 PM,2023,12,31,22,50.6,138,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2023-12-31 11:00 PM,2023,12,31,23,50.0,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Accra,PM2.5 - Principal,2024-01-01 12:00 AM,2024,01,01,00,49.4,135,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid

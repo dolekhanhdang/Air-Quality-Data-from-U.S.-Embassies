@@ -1,0 +1,4 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Guatemala City,O3,2024-04-25 12:00 PM,2024,04,25,12,33.0,31,Good,34.0,PPB,1 Hr,Valid
+Guatemala City,O3,2024-04-25 01:00 PM,2024,04,25,13,33.0,31,Good,-999.0,PPB,1 Hr,Missing
+Guatemala City,O3,2024-04-25 02:00 PM,2024,04,25,14,33.0,31,Good,-999.0,PPB,1 Hr,Missing

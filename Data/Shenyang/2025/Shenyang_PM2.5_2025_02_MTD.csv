@@ -1,0 +1,669 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Shenyang,PM2.5 - Principal,2025-02-01 01:00 AM,2025,02,01,01,35.1,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 02:00 AM,2025,02,01,02,37.5,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 03:00 AM,2025,02,01,03,56.2,151,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 04:00 AM,2025,02,01,04,75.6,165,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 05:00 AM,2025,02,01,05,77.3,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 06:00 AM,2025,02,01,06,89.1,175,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 07:00 AM,2025,02,01,07,95.0,179,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 08:00 AM,2025,02,01,08,93.0,177,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 09:00 AM,2025,02,01,09,91.5,176,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 10:00 AM,2025,02,01,10,86.2,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 11:00 AM,2025,02,01,11,83.6,171,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 12:00 PM,2025,02,01,12,60.8,155,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 01:00 PM,2025,02,01,13,53.4,145,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 02:00 PM,2025,02,01,14,51.2,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 03:00 PM,2025,02,01,15,50.1,137,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 04:00 PM,2025,02,01,16,49.0,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 05:00 PM,2025,02,01,17,54.5,148,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 06:00 PM,2025,02,01,18,63.2,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 07:00 PM,2025,02,01,19,57.1,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 08:00 PM,2025,02,01,20,64.5,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 09:00 PM,2025,02,01,21,80.7,169,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 10:00 PM,2025,02,01,22,90.8,176,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-01 11:00 PM,2025,02,01,23,100.4,182,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 12:00 AM,2025,02,02,00,111.7,190,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 01:00 AM,2025,02,02,01,120.8,197,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 02:00 AM,2025,02,02,02,131.4,207,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 03:00 AM,2025,02,02,03,131.7,207,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 04:00 AM,2025,02,02,04,132.8,208,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 05:00 AM,2025,02,02,05,138.9,214,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 06:00 AM,2025,02,02,06,146.9,222,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 07:00 AM,2025,02,02,07,151.0,226,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 08:00 AM,2025,02,02,08,153.5,229,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 09:00 AM,2025,02,02,09,165.8,241,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 10:00 AM,2025,02,02,10,156.1,231,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 11:00 AM,2025,02,02,11,144.1,219,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 12:00 PM,2025,02,02,12,123.3,199,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 01:00 PM,2025,02,02,13,116.1,193,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 02:00 PM,2025,02,02,14,88.6,174,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 03:00 PM,2025,02,02,15,62.3,156,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 04:00 PM,2025,02,02,16,47.1,130,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 05:00 PM,2025,02,02,17,43.5,121,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 06:00 PM,2025,02,02,18,47.2,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 07:00 PM,2025,02,02,19,58.1,153,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 08:00 PM,2025,02,02,20,70.0,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 09:00 PM,2025,02,02,21,75.5,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 10:00 PM,2025,02,02,22,74.7,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-02 11:00 PM,2025,02,02,23,89.3,175,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 12:00 AM,2025,02,03,00,111.6,190,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 01:00 AM,2025,02,03,01,121.8,197,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 02:00 AM,2025,02,03,02,86.9,173,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 03:00 AM,2025,02,03,03,58.4,153,Unhealthy,30.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 04:00 AM,2025,02,03,04,34.7,99,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 05:00 AM,2025,02,03,05,20.8,73,Moderate,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 06:00 AM,2025,02,03,06,12.9,58,Moderate,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 07:00 AM,2025,02,03,07,7.9,44,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 08:00 AM,2025,02,03,08,8.4,47,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 09:00 AM,2025,02,03,09,7.2,40,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 10:00 AM,2025,02,03,10,7.6,42,Good,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 11:00 AM,2025,02,03,11,9.2,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 12:00 PM,2025,02,03,12,10.1,53,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 01:00 PM,2025,02,03,13,11.5,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 02:00 PM,2025,02,03,14,10.7,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 03:00 PM,2025,02,03,15,13.3,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 04:00 PM,2025,02,03,16,11.6,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 05:00 PM,2025,02,03,17,13.3,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 06:00 PM,2025,02,03,18,10.6,54,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 07:00 PM,2025,02,03,19,8.3,46,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 08:00 PM,2025,02,03,20,11.6,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 09:00 PM,2025,02,03,21,11.3,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 10:00 PM,2025,02,03,22,13.6,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-03 11:00 PM,2025,02,03,23,11.8,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 12:00 AM,2025,02,04,00,9.9,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 01:00 AM,2025,02,04,01,16.9,66,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 02:00 AM,2025,02,04,02,19.4,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 03:00 AM,2025,02,04,03,19.7,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 04:00 AM,2025,02,04,04,14.3,61,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 05:00 AM,2025,02,04,05,13.6,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 06:00 AM,2025,02,04,06,11.3,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 07:00 AM,2025,02,04,07,8.1,45,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 08:00 AM,2025,02,04,08,6.0,33,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 09:00 AM,2025,02,04,09,5.5,31,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 10:00 AM,2025,02,04,10,6.7,37,Good,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 11:00 AM,2025,02,04,11,9.3,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 12:00 PM,2025,02,04,12,13.6,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 01:00 PM,2025,02,04,13,16.3,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 02:00 PM,2025,02,04,14,12.6,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 03:00 PM,2025,02,04,15,11.8,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 04:00 PM,2025,02,04,16,11.4,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 05:00 PM,2025,02,04,17,10.7,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 06:00 PM,2025,02,04,18,14.8,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 07:00 PM,2025,02,04,19,18.4,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 08:00 PM,2025,02,04,20,23.2,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 09:00 PM,2025,02,04,21,30.6,91,Moderate,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 10:00 PM,2025,02,04,22,27.8,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-04 11:00 PM,2025,02,04,23,28.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 12:00 AM,2025,02,05,00,29.2,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 01:00 AM,2025,02,05,01,29.1,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 02:00 AM,2025,02,05,02,34.5,98,Moderate,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 03:00 AM,2025,02,05,03,40.7,114,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 04:00 AM,2025,02,05,04,28.3,87,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 05:00 AM,2025,02,05,05,17.1,66,Moderate,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 06:00 AM,2025,02,05,06,12.5,57,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 07:00 AM,2025,02,05,07,10.7,54,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 08:00 AM,2025,02,05,08,9.3,51,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 09:00 AM,2025,02,05,09,7.6,42,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 10:00 AM,2025,02,05,10,8.8,49,Good,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 11:00 AM,2025,02,05,11,6.9,38,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 12:00 PM,2025,02,05,12,12.4,57,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 01:00 PM,2025,02,05,13,11.2,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 02:00 PM,2025,02,05,14,15.1,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 03:00 PM,2025,02,05,15,18.5,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 04:00 PM,2025,02,05,16,25.2,81,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 05:00 PM,2025,02,05,17,22.6,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 06:00 PM,2025,02,05,18,21.3,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 07:00 PM,2025,02,05,19,21.1,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 08:00 PM,2025,02,05,20,26.5,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 09:00 PM,2025,02,05,21,26.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 10:00 PM,2025,02,05,22,24.3,79,Moderate,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-05 11:00 PM,2025,02,05,23,30.7,91,Moderate,37.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 12:00 AM,2025,02,06,00,40.3,113,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 01:00 AM,2025,02,06,01,42.6,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 02:00 AM,2025,02,06,02,48.8,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 03:00 AM,2025,02,06,03,51.4,140,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 04:00 AM,2025,02,06,04,47.2,130,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 05:00 AM,2025,02,06,05,45.6,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 06:00 AM,2025,02,06,06,41.8,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 07:00 AM,2025,02,06,07,43.4,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 08:00 AM,2025,02,06,08,41.7,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 09:00 AM,2025,02,06,09,40.8,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 10:00 AM,2025,02,06,10,40.9,114,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 11:00 AM,2025,02,06,11,44.4,123,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 12:00 PM,2025,02,06,12,50.9,139,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 01:00 PM,2025,02,06,13,60.5,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 02:00 PM,2025,02,06,14,64.8,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 03:00 PM,2025,02,06,15,69.0,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 04:00 PM,2025,02,06,16,65.1,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 05:00 PM,2025,02,06,17,66.0,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 06:00 PM,2025,02,06,18,56.2,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 07:00 PM,2025,02,06,19,53.3,145,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 08:00 PM,2025,02,06,20,54.5,148,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 09:00 PM,2025,02,06,21,48.7,134,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 10:00 PM,2025,02,06,22,46.2,127,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-06 11:00 PM,2025,02,06,23,44.8,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 12:00 AM,2025,02,07,00,44.0,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 01:00 AM,2025,02,07,01,29.2,88,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 02:00 AM,2025,02,07,02,19.6,71,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 03:00 AM,2025,02,07,03,12.3,57,Moderate,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 04:00 AM,2025,02,07,04,6.1,34,Good,0.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 05:00 AM,2025,02,07,05,2.5,14,Good,-1.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 06:00 AM,2025,02,07,06,2.2,12,Good,2.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 07:00 AM,2025,02,07,07,5.6,31,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 08:00 AM,2025,02,07,08,5.8,32,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 09:00 AM,2025,02,07,09,6.9,38,Good,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 10:00 AM,2025,02,07,10,6.9,38,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 11:00 AM,2025,02,07,11,10.9,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 12:00 PM,2025,02,07,12,9.4,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 01:00 PM,2025,02,07,13,7.7,43,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 02:00 PM,2025,02,07,14,8.3,46,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 03:00 PM,2025,02,07,15,9.6,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 04:00 PM,2025,02,07,16,12.3,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 05:00 PM,2025,02,07,17,11.1,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 06:00 PM,2025,02,07,18,13.5,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 07:00 PM,2025,02,07,19,15.2,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 08:00 PM,2025,02,07,20,17.6,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 09:00 PM,2025,02,07,21,22.3,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 10:00 PM,2025,02,07,22,22.6,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-07 11:00 PM,2025,02,07,23,16.3,64,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 12:00 AM,2025,02,08,00,13.6,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 01:00 AM,2025,02,08,01,11.3,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 02:00 AM,2025,02,08,02,9.6,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 03:00 AM,2025,02,08,03,8.3,46,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 04:00 AM,2025,02,08,04,6.1,34,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 05:00 AM,2025,02,08,05,5.5,31,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 06:00 AM,2025,02,08,06,5.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 07:00 AM,2025,02,08,07,8.3,46,Good,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 08:00 AM,2025,02,08,08,8.6,48,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 09:00 AM,2025,02,08,09,7.3,41,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 10:00 AM,2025,02,08,10,8.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 11:00 AM,2025,02,08,11,9.8,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 12:00 PM,2025,02,08,12,11.4,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 01:00 PM,2025,02,08,13,14.2,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 02:00 PM,2025,02,08,14,17.1,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 03:00 PM,2025,02,08,15,16.0,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 04:00 PM,2025,02,08,16,18.5,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 05:00 PM,2025,02,08,17,13.7,60,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 06:00 PM,2025,02,08,18,10.3,53,Moderate,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 07:00 PM,2025,02,08,19,8.6,48,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 08:00 PM,2025,02,08,20,16.8,65,Moderate,25.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 09:00 PM,2025,02,08,21,22.9,77,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 10:00 PM,2025,02,08,22,27.9,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-08 11:00 PM,2025,02,08,23,33.4,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 12:00 AM,2025,02,09,00,34.2,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 01:00 AM,2025,02,09,01,35.1,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 02:00 AM,2025,02,09,02,35.0,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 03:00 AM,2025,02,09,03,37.5,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 04:00 AM,2025,02,09,04,45.7,126,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 05:00 AM,2025,02,09,05,56.8,152,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 06:00 AM,2025,02,09,06,52.9,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 07:00 AM,2025,02,09,07,53.9,146,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 08:00 AM,2025,02,09,08,60.9,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 09:00 AM,2025,02,09,09,71.0,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 10:00 AM,2025,02,09,10,70.5,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 11:00 AM,2025,02,09,11,43.7,121,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 12:00 PM,2025,02,09,12,40.8,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 01:00 PM,2025,02,09,13,33.4,96,Moderate,26.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 02:00 PM,2025,02,09,14,28.2,87,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 03:00 PM,2025,02,09,15,29.6,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 04:00 PM,2025,02,09,16,37.3,105,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 05:00 PM,2025,02,09,17,31.1,92,Moderate,25.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 06:00 PM,2025,02,09,18,29.0,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 07:00 PM,2025,02,09,19,26.5,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 08:00 PM,2025,02,09,20,28.7,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 09:00 PM,2025,02,09,21,36.3,103,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 10:00 PM,2025,02,09,22,43.6,121,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-09 11:00 PM,2025,02,09,23,53.3,145,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 12:00 AM,2025,02,10,00,57.6,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 01:00 AM,2025,02,10,01,63.8,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 02:00 AM,2025,02,10,02,59.4,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 03:00 AM,2025,02,10,03,62.2,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 04:00 AM,2025,02,10,04,66.1,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 05:00 AM,2025,02,10,05,68.0,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 06:00 AM,2025,02,10,06,66.5,159,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 07:00 AM,2025,02,10,07,69.7,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 08:00 AM,2025,02,10,08,69.3,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 09:00 AM,2025,02,10,09,70.0,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 10:00 AM,2025,02,10,10,72.4,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 11:00 AM,2025,02,10,11,75.0,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 12:00 PM,2025,02,10,12,74.4,164,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 01:00 PM,2025,02,10,13,55.5,151,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 02:00 PM,2025,02,10,14,48.2,132,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 03:00 PM,2025,02,10,15,41.6,116,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 04:00 PM,2025,02,10,16,40.3,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 05:00 PM,2025,02,10,17,41.6,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 06:00 PM,2025,02,10,18,43.8,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 07:00 PM,2025,02,10,19,46.4,128,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 08:00 PM,2025,02,10,20,51.2,140,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 09:00 PM,2025,02,10,21,53.0,144,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 10:00 PM,2025,02,10,22,47.5,131,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-10 11:00 PM,2025,02,10,23,39.7,111,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 12:00 AM,2025,02,11,00,37.5,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 01:00 AM,2025,02,11,01,34.4,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 02:00 AM,2025,02,11,02,32.2,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 03:00 AM,2025,02,11,03,32.5,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 04:00 AM,2025,02,11,04,32.3,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 05:00 AM,2025,02,11,05,34.9,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 06:00 AM,2025,02,11,06,36.8,104,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 07:00 AM,2025,02,11,07,37.8,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 08:00 AM,2025,02,11,08,37.7,106,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Shenyang,PM2.5 - Principal,2025-02-11 09:00 AM,2025,02,11,09,39.1,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 10:00 AM,2025,02,11,10,39.4,111,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 11:00 AM,2025,02,11,11,47.5,131,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 12:00 PM,2025,02,11,12,51.1,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 01:00 PM,2025,02,11,13,51.0,139,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 02:00 PM,2025,02,11,14,50.8,139,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 03:00 PM,2025,02,11,15,48.3,133,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 04:00 PM,2025,02,11,16,44.6,123,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 05:00 PM,2025,02,11,17,42.1,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 06:00 PM,2025,02,11,18,42.4,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 07:00 PM,2025,02,11,19,41.9,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 08:00 PM,2025,02,11,20,40.3,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 09:00 PM,2025,02,11,21,38.7,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 10:00 PM,2025,02,11,22,36.1,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-11 11:00 PM,2025,02,11,23,37.2,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 12:00 AM,2025,02,12,00,50.8,139,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 01:00 AM,2025,02,12,01,45.5,126,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 02:00 AM,2025,02,12,02,25.7,82,Moderate,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 03:00 AM,2025,02,12,03,14.3,61,Moderate,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 04:00 AM,2025,02,12,04,14.3,61,Moderate,-5.0,UG/M3,1 Hr,Invalid
+Shenyang,PM2.5 - Principal,2025-02-12 05:00 AM,2025,02,12,05,-999.0,-999,N/A,-6.0,UG/M3,1 Hr,Invalid
+Shenyang,PM2.5 - Principal,2025-02-12 06:00 AM,2025,02,12,06,-999.0,-999,N/A,2.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 07:00 AM,2025,02,12,07,2.3,13,Good,1.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 08:00 AM,2025,02,12,08,1.5,8,Good,1.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 09:00 AM,2025,02,12,09,2.3,13,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 10:00 AM,2025,02,12,10,3.6,20,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 11:00 AM,2025,02,12,11,7.3,41,Good,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 12:00 PM,2025,02,12,12,8.1,45,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 01:00 PM,2025,02,12,13,6.5,36,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 02:00 PM,2025,02,12,14,7.2,40,Good,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 03:00 PM,2025,02,12,15,14.1,60,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 04:00 PM,2025,02,12,16,15.5,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 05:00 PM,2025,02,12,17,12.7,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 06:00 PM,2025,02,12,18,16.8,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 07:00 PM,2025,02,12,19,26.9,84,Moderate,37.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 08:00 PM,2025,02,12,20,60.9,155,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 09:00 PM,2025,02,12,21,111.0,190,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 10:00 PM,2025,02,12,22,92.0,177,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-12 11:00 PM,2025,02,12,23,73.5,164,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 12:00 AM,2025,02,13,00,53.2,145,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 01:00 AM,2025,02,13,01,47.6,131,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 02:00 AM,2025,02,13,02,47.3,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 03:00 AM,2025,02,13,03,57.1,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 04:00 AM,2025,02,13,04,64.5,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 05:00 AM,2025,02,13,05,70.3,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 06:00 AM,2025,02,13,06,60.6,155,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 07:00 AM,2025,02,13,07,41.3,115,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 08:00 AM,2025,02,13,08,38.6,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 09:00 AM,2025,02,13,09,30.8,91,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 10:00 AM,2025,02,13,10,27.3,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 11:00 AM,2025,02,13,11,24.1,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 12:00 PM,2025,02,13,12,28.5,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 01:00 PM,2025,02,13,13,33.2,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 02:00 PM,2025,02,13,14,35.6,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 03:00 PM,2025,02,13,15,40.8,114,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 04:00 PM,2025,02,13,16,48.4,133,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 05:00 PM,2025,02,13,17,47.2,130,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 06:00 PM,2025,02,13,18,45.5,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 07:00 PM,2025,02,13,19,54.8,149,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 08:00 PM,2025,02,13,20,63.4,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 09:00 PM,2025,02,13,21,69.2,161,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 10:00 PM,2025,02,13,22,68.6,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-13 11:00 PM,2025,02,13,23,60.8,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 12:00 AM,2025,02,14,00,68.9,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 01:00 AM,2025,02,14,01,71.4,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 02:00 AM,2025,02,14,02,67.8,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 03:00 AM,2025,02,14,03,63.1,156,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 04:00 AM,2025,02,14,04,62.2,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 05:00 AM,2025,02,14,05,56.5,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 06:00 AM,2025,02,14,06,55.6,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 07:00 AM,2025,02,14,07,57.6,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 08:00 AM,2025,02,14,08,59.9,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 09:00 AM,2025,02,14,09,64.3,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 10:00 AM,2025,02,14,10,72.9,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 11:00 AM,2025,02,14,11,80.0,168,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 12:00 PM,2025,02,14,12,78.6,167,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 01:00 PM,2025,02,14,13,83.3,170,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 02:00 PM,2025,02,14,14,80.0,168,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 03:00 PM,2025,02,14,15,76.8,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 04:00 PM,2025,02,14,16,75.1,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 05:00 PM,2025,02,14,17,71.4,162,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 06:00 PM,2025,02,14,18,69.7,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 07:00 PM,2025,02,14,19,69.8,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 08:00 PM,2025,02,14,20,71.7,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 09:00 PM,2025,02,14,21,81.0,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 10:00 PM,2025,02,14,22,95.8,179,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-14 11:00 PM,2025,02,14,23,95.8,179,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 12:00 AM,2025,02,15,00,75.6,165,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 01:00 AM,2025,02,15,01,62.8,156,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 02:00 AM,2025,02,15,02,56.3,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 03:00 AM,2025,02,15,03,56.1,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 04:00 AM,2025,02,15,04,52.5,143,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 05:00 AM,2025,02,15,05,50.7,138,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 06:00 AM,2025,02,15,06,51.3,140,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 07:00 AM,2025,02,15,07,53.6,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 08:00 AM,2025,02,15,08,50.3,137,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 09:00 AM,2025,02,15,09,53.1,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 10:00 AM,2025,02,15,10,56.0,151,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 11:00 AM,2025,02,15,11,57.7,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 12:00 PM,2025,02,15,12,56.9,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 01:00 PM,2025,02,15,13,58.4,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 02:00 PM,2025,02,15,14,60.1,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 03:00 PM,2025,02,15,15,62.3,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 04:00 PM,2025,02,15,16,64.7,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 05:00 PM,2025,02,15,17,66.1,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 06:00 PM,2025,02,15,18,70.3,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 07:00 PM,2025,02,15,19,81.0,169,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 08:00 PM,2025,02,15,20,80.4,168,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 09:00 PM,2025,02,15,21,82.2,170,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 10:00 PM,2025,02,15,22,82.9,170,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-15 11:00 PM,2025,02,15,23,81.8,169,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 12:00 AM,2025,02,16,00,84.1,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 01:00 AM,2025,02,16,01,101.0,183,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 02:00 AM,2025,02,16,02,84.5,171,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 03:00 AM,2025,02,16,03,52.3,142,Unhealthy for Sensitive Groups,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 04:00 AM,2025,02,16,04,40.1,112,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 05:00 AM,2025,02,16,05,29.5,89,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 06:00 AM,2025,02,16,06,14.7,61,Moderate,0.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 07:00 AM,2025,02,16,07,7.8,43,Good,1.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 08:00 AM,2025,02,16,08,3.9,22,Good,0.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 09:00 AM,2025,02,16,09,3.4,19,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 10:00 AM,2025,02,16,10,6.2,34,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 11:00 AM,2025,02,16,11,6.6,37,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 12:00 PM,2025,02,16,12,9.2,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 01:00 PM,2025,02,16,13,10.6,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 02:00 PM,2025,02,16,14,15.3,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 03:00 PM,2025,02,16,15,16.1,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 04:00 PM,2025,02,16,16,16.5,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 05:00 PM,2025,02,16,17,9.7,52,Moderate,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 06:00 PM,2025,02,16,18,7.8,43,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 07:00 PM,2025,02,16,19,11.4,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 08:00 PM,2025,02,16,20,13.2,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 09:00 PM,2025,02,16,21,13.1,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 10:00 PM,2025,02,16,22,12.0,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-16 11:00 PM,2025,02,16,23,9.0,50,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 12:00 AM,2025,02,17,00,6.0,33,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 01:00 AM,2025,02,17,01,4.5,25,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 02:00 AM,2025,02,17,02,4.2,23,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 03:00 AM,2025,02,17,03,5.1,28,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 04:00 AM,2025,02,17,04,4.5,25,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 05:00 AM,2025,02,17,05,2.7,15,Good,1.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 06:00 AM,2025,02,17,06,3.8,21,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 07:00 AM,2025,02,17,07,3.9,22,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 08:00 AM,2025,02,17,08,3.4,19,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 09:00 AM,2025,02,17,09,4.7,26,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 10:00 AM,2025,02,17,10,9.8,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 11:00 AM,2025,02,17,11,16.9,66,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 12:00 PM,2025,02,17,12,14.4,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 01:00 PM,2025,02,17,13,13.7,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 02:00 PM,2025,02,17,14,15.3,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 03:00 PM,2025,02,17,15,16.6,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 04:00 PM,2025,02,17,16,17.3,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 05:00 PM,2025,02,17,17,14.6,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 06:00 PM,2025,02,17,18,15.8,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 07:00 PM,2025,02,17,19,13.9,60,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 08:00 PM,2025,02,17,20,16.4,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 09:00 PM,2025,02,17,21,20.2,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 10:00 PM,2025,02,17,22,19.1,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-17 11:00 PM,2025,02,17,23,14.0,60,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 12:00 AM,2025,02,18,00,9.5,52,Moderate,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 01:00 AM,2025,02,18,01,6.2,34,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 02:00 AM,2025,02,18,02,11.6,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 03:00 AM,2025,02,18,03,7.3,41,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 04:00 AM,2025,02,18,04,7.1,39,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 05:00 AM,2025,02,18,05,7.0,39,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 06:00 AM,2025,02,18,06,6.5,36,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 07:00 AM,2025,02,18,07,4.2,23,Good,2.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 08:00 AM,2025,02,18,08,3.1,17,Good,2.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 09:00 AM,2025,02,18,09,3.5,19,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 10:00 AM,2025,02,18,10,5.7,32,Good,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 11:00 AM,2025,02,18,11,9.8,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 12:00 PM,2025,02,18,12,13.4,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 01:00 PM,2025,02,18,13,12.2,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 02:00 PM,2025,02,18,14,14.1,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 03:00 PM,2025,02,18,15,17.0,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 04:00 PM,2025,02,18,16,18.0,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 05:00 PM,2025,02,18,17,15.5,63,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 06:00 PM,2025,02,18,18,11.7,56,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 07:00 PM,2025,02,18,19,7.8,43,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 08:00 PM,2025,02,18,20,7.4,41,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 09:00 PM,2025,02,18,21,8.2,46,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 10:00 PM,2025,02,18,22,13.1,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-18 11:00 PM,2025,02,18,23,14.5,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 12:00 AM,2025,02,19,00,18.7,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 01:00 AM,2025,02,19,01,18.8,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 02:00 AM,2025,02,19,02,21.9,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 03:00 AM,2025,02,19,03,28.9,88,Moderate,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 04:00 AM,2025,02,19,04,25.4,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 05:00 AM,2025,02,19,05,20.2,72,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 06:00 AM,2025,02,19,06,15.1,62,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 07:00 AM,2025,02,19,07,12.0,56,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 08:00 AM,2025,02,19,08,9.5,52,Moderate,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 09:00 AM,2025,02,19,09,9.2,51,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 10:00 AM,2025,02,19,10,8.6,48,Good,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 11:00 AM,2025,02,19,11,7.8,43,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 12:00 PM,2025,02,19,12,6.9,38,Good,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 01:00 PM,2025,02,19,13,10.4,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 02:00 PM,2025,02,19,14,13.2,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 03:00 PM,2025,02,19,15,16.1,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 04:00 PM,2025,02,19,16,20.0,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 05:00 PM,2025,02,19,17,22.0,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 06:00 PM,2025,02,19,18,14.0,60,Moderate,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 07:00 PM,2025,02,19,19,13.5,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 08:00 PM,2025,02,19,20,12.2,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 09:00 PM,2025,02,19,21,14.6,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 10:00 PM,2025,02,19,22,20.3,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-19 11:00 PM,2025,02,19,23,23.1,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 12:00 AM,2025,02,20,00,23.5,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 01:00 AM,2025,02,20,01,26.2,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 02:00 AM,2025,02,20,02,30.1,90,Moderate,34.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 03:00 AM,2025,02,20,03,41.0,115,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 04:00 AM,2025,02,20,04,36.0,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 05:00 AM,2025,02,20,05,27.0,84,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 06:00 AM,2025,02,20,06,20.0,71,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 07:00 AM,2025,02,20,07,13.5,59,Moderate,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 08:00 AM,2025,02,20,08,9.2,51,Moderate,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 09:00 AM,2025,02,20,09,10.6,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 10:00 AM,2025,02,20,10,12.3,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 11:00 AM,2025,02,20,11,12.1,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 12:00 PM,2025,02,20,12,14.0,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 01:00 PM,2025,02,20,13,11.5,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 02:00 PM,2025,02,20,14,11.5,55,Moderate,-999.0,UG/M3,1 Hr,Missing
+Shenyang,PM2.5 - Principal,2025-02-20 04:00 PM,2025,02,20,16,-999.0,-999,N/A,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 05:00 PM,2025,02,20,17,30.1,90,Moderate,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 06:00 PM,2025,02,20,18,26.1,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 07:00 PM,2025,02,20,19,23.4,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 08:00 PM,2025,02,20,20,20.1,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 09:00 PM,2025,02,20,21,18.0,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 10:00 PM,2025,02,20,22,16.0,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-20 11:00 PM,2025,02,20,23,18.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 12:00 AM,2025,02,21,00,19.5,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 01:00 AM,2025,02,21,01,25.2,81,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 02:00 AM,2025,02,21,02,28.6,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 03:00 AM,2025,02,21,03,31.8,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 04:00 AM,2025,02,21,04,32.9,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 05:00 AM,2025,02,21,05,28.4,87,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 06:00 AM,2025,02,21,06,19.7,71,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 07:00 AM,2025,02,21,07,16.8,65,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 08:00 AM,2025,02,21,08,16.9,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 09:00 AM,2025,02,21,09,19.4,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 10:00 AM,2025,02,21,10,14.2,61,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 11:00 AM,2025,02,21,11,12.6,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 12:00 PM,2025,02,21,12,11.8,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 01:00 PM,2025,02,21,13,13.9,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 02:00 PM,2025,02,21,14,18.4,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 03:00 PM,2025,02,21,15,22.7,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 04:00 PM,2025,02,21,16,25.8,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 05:00 PM,2025,02,21,17,27.9,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 06:00 PM,2025,02,21,18,20.9,73,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 07:00 PM,2025,02,21,19,16.4,65,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 08:00 PM,2025,02,21,20,16.2,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 09:00 PM,2025,02,21,21,18.6,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 10:00 PM,2025,02,21,22,16.8,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-21 11:00 PM,2025,02,21,23,21.4,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 12:00 AM,2025,02,22,00,24.2,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 01:00 AM,2025,02,22,01,31.1,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 02:00 AM,2025,02,22,02,32.0,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 03:00 AM,2025,02,22,03,29.5,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 04:00 AM,2025,02,22,04,30.7,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 05:00 AM,2025,02,22,05,29.8,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 06:00 AM,2025,02,22,06,22.9,77,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 07:00 AM,2025,02,22,07,18.4,68,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 08:00 AM,2025,02,22,08,16.2,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 09:00 AM,2025,02,22,09,13.1,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 10:00 AM,2025,02,22,10,13.1,58,Moderate,985.0,UG/M3,1 Hr,Invalid
+Shenyang,PM2.5 - Principal,2025-02-22 11:00 AM,2025,02,22,11,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+Shenyang,PM2.5 - Principal,2025-02-22 03:00 PM,2025,02,22,15,-999.0,-999,N/A,35.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 04:00 PM,2025,02,22,16,34.7,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 05:00 PM,2025,02,22,17,33.7,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 06:00 PM,2025,02,22,18,30.6,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 07:00 PM,2025,02,22,19,31.3,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 08:00 PM,2025,02,22,20,27.1,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 09:00 PM,2025,02,22,21,24.3,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 10:00 PM,2025,02,22,22,20.2,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-22 11:00 PM,2025,02,22,23,18.1,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 12:00 AM,2025,02,23,00,17.0,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 01:00 AM,2025,02,23,01,20.5,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 02:00 AM,2025,02,23,02,24.7,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 03:00 AM,2025,02,23,03,28.3,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 04:00 AM,2025,02,23,04,24.1,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 05:00 AM,2025,02,23,05,19.0,69,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 06:00 AM,2025,02,23,06,13.0,58,Moderate,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 07:00 AM,2025,02,23,07,9.5,52,Moderate,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 08:00 AM,2025,02,23,08,7.2,40,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 09:00 AM,2025,02,23,09,8.1,45,Good,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 10:00 AM,2025,02,23,10,9.5,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 11:00 AM,2025,02,23,11,11.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 12:00 PM,2025,02,23,12,11.1,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 01:00 PM,2025,02,23,13,13.0,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 02:00 PM,2025,02,23,14,16.5,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 03:00 PM,2025,02,23,15,18.7,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 04:00 PM,2025,02,23,16,23.3,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 05:00 PM,2025,02,23,17,24.1,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 06:00 PM,2025,02,23,18,15.0,62,Moderate,6.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 07:00 PM,2025,02,23,19,13.5,59,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 08:00 PM,2025,02,23,20,17.2,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 09:00 PM,2025,02,23,21,19.6,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 10:00 PM,2025,02,23,22,23.3,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-23 11:00 PM,2025,02,23,23,23.1,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 12:00 AM,2025,02,24,00,27.0,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 01:00 AM,2025,02,24,01,27.5,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 02:00 AM,2025,02,24,02,35.2,100,Moderate,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 03:00 AM,2025,02,24,03,34.1,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 04:00 AM,2025,02,24,04,33.0,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 05:00 AM,2025,02,24,05,31.5,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 06:00 AM,2025,02,24,06,30.7,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 07:00 AM,2025,02,24,07,34.3,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 08:00 AM,2025,02,24,08,41.1,115,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 09:00 AM,2025,02,24,09,46.1,127,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 10:00 AM,2025,02,24,10,45.5,126,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 11:00 AM,2025,02,24,11,49.5,135,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 12:00 PM,2025,02,24,12,46.3,128,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 01:00 PM,2025,02,24,13,43.9,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 02:00 PM,2025,02,24,14,39.5,111,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 03:00 PM,2025,02,24,15,37.0,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 04:00 PM,2025,02,24,16,38.8,109,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 05:00 PM,2025,02,24,17,32.3,94,Moderate,26.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 06:00 PM,2025,02,24,18,29.6,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 07:00 PM,2025,02,24,19,23.3,77,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 08:00 PM,2025,02,24,20,20.6,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 09:00 PM,2025,02,24,21,20.8,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 10:00 PM,2025,02,24,22,22.4,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-24 11:00 PM,2025,02,24,23,27.2,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 12:00 AM,2025,02,25,00,28.0,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 01:00 AM,2025,02,25,01,30.0,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 02:00 AM,2025,02,25,02,29.5,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 03:00 AM,2025,02,25,03,30.2,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 04:00 AM,2025,02,25,04,31.5,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 05:00 AM,2025,02,25,05,30.3,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 06:00 AM,2025,02,25,06,30.6,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 07:00 AM,2025,02,25,07,31.7,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 08:00 AM,2025,02,25,08,40.4,113,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 09:00 AM,2025,02,25,09,43.2,120,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 10:00 AM,2025,02,25,10,44.2,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 11:00 AM,2025,02,25,11,47.4,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 12:00 PM,2025,02,25,12,34.6,99,Moderate,21.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 01:00 PM,2025,02,25,13,25.8,82,Moderate,17.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 02:00 PM,2025,02,25,14,25.9,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 03:00 PM,2025,02,25,15,34.9,99,Moderate,44.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 04:00 PM,2025,02,25,16,33.4,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 05:00 PM,2025,02,25,17,28.7,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 06:00 PM,2025,02,25,18,24.3,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 07:00 PM,2025,02,25,19,16.6,65,Moderate,9.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 08:00 PM,2025,02,25,20,13.3,59,Moderate,10.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 09:00 PM,2025,02,25,21,13.6,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 10:00 PM,2025,02,25,22,16.8,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-25 11:00 PM,2025,02,25,23,12.4,57,Moderate,8.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 12:00 AM,2025,02,26,00,9.7,52,Moderate,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 01:00 AM,2025,02,26,01,8.3,46,Good,7.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 02:00 AM,2025,02,26,02,6.1,34,Good,4.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 03:00 AM,2025,02,26,03,4.5,25,Good,3.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 04:00 AM,2025,02,26,04,4.7,26,Good,5.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 05:00 AM,2025,02,26,05,10.3,53,Moderate,16.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 06:00 AM,2025,02,26,06,14.6,61,Moderate,19.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 07:00 AM,2025,02,26,07,14.3,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 08:00 AM,2025,02,26,08,13.6,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 09:00 AM,2025,02,26,09,18.3,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 10:00 AM,2025,02,26,10,28.1,86,Moderate,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 11:00 AM,2025,02,26,11,39.0,110,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 12:00 PM,2025,02,26,12,38.5,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 01:00 PM,2025,02,26,13,38.7,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 02:00 PM,2025,02,26,14,32.8,95,Moderate,27.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 03:00 PM,2025,02,26,15,31.4,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 04:00 PM,2025,02,26,16,31.2,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 05:00 PM,2025,02,26,17,33.6,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 06:00 PM,2025,02,26,18,29.8,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 07:00 PM,2025,02,26,19,30.4,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 08:00 PM,2025,02,26,20,31.2,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 09:00 PM,2025,02,26,21,29.6,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 10:00 PM,2025,02,26,22,24.7,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-26 11:00 PM,2025,02,26,23,18.3,68,Moderate,12.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 12:00 AM,2025,02,27,00,16.6,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 01:00 AM,2025,02,27,01,25.8,82,Moderate,35.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 02:00 AM,2025,02,27,02,25.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 03:00 AM,2025,02,27,03,31.2,92,Moderate,37.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 04:00 AM,2025,02,27,04,29.6,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 05:00 AM,2025,02,27,05,31.3,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 06:00 AM,2025,02,27,06,36.1,102,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 07:00 AM,2025,02,27,07,44.0,122,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 08:00 AM,2025,02,27,08,47.0,129,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 09:00 AM,2025,02,27,09,52.5,143,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 10:00 AM,2025,02,27,10,54.2,147,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 11:00 AM,2025,02,27,11,63.6,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 12:00 PM,2025,02,27,12,69.3,161,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 01:00 PM,2025,02,27,13,77.6,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 02:00 PM,2025,02,27,14,90.8,176,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 03:00 PM,2025,02,27,15,97.9,181,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 04:00 PM,2025,02,27,16,91.9,177,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 05:00 PM,2025,02,27,17,78.9,167,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 06:00 PM,2025,02,27,18,67.4,159,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 07:00 PM,2025,02,27,19,61.7,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 08:00 PM,2025,02,27,20,60.5,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 09:00 PM,2025,02,27,21,61.2,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 10:00 PM,2025,02,27,22,66.7,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-27 11:00 PM,2025,02,27,23,73.8,164,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 12:00 AM,2025,02,28,00,74.3,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 01:00 AM,2025,02,28,01,77.4,166,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 02:00 AM,2025,02,28,02,78.6,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 03:00 AM,2025,02,28,03,76.0,165,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 04:00 AM,2025,02,28,04,76.4,166,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 05:00 AM,2025,02,28,05,74.7,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 06:00 AM,2025,02,28,06,73.9,164,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 07:00 AM,2025,02,28,07,72.8,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 08:00 AM,2025,02,28,08,73.5,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 09:00 AM,2025,02,28,09,74.9,165,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 10:00 AM,2025,02,28,10,78.0,167,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 11:00 AM,2025,02,28,11,87.5,173,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 12:00 PM,2025,02,28,12,102.8,184,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 01:00 PM,2025,02,28,13,117.1,194,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 02:00 PM,2025,02,28,14,120.3,196,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 03:00 PM,2025,02,28,15,121.6,197,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 04:00 PM,2025,02,28,16,124.1,199,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 05:00 PM,2025,02,28,17,124.5,199,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 06:00 PM,2025,02,28,18,109.3,189,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 07:00 PM,2025,02,28,19,88.3,174,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 08:00 PM,2025,02,28,20,80.3,168,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 09:00 PM,2025,02,28,21,85.0,172,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 10:00 PM,2025,02,28,22,80.1,168,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-02-28 11:00 PM,2025,02,28,23,75.6,165,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Shenyang,PM2.5 - Principal,2025-03-01 12:00 AM,2025,03,01,00,72.4,163,Unhealthy,69.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kuwait City,PM2.5 - Principal,2024-11-01 01:00 AM,2024,11,01,01,17.0,66,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 02:00 AM,2024,11,01,02,13.5,59,Moderate,10.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 03:00 AM,2024,11,01,03,15.2,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 04:00 AM,2024,11,01,04,15.6,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 05:00 AM,2024,11,01,05,15.8,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 06:00 AM,2024,11,01,06,13.4,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 07:00 AM,2024,11,01,07,12.7,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 08:00 AM,2024,11,01,08,13.3,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 09:00 AM,2024,11,01,09,12.1,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 10:00 AM,2024,11,01,10,11.5,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 11:00 AM,2024,11,01,11,11.2,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 12:00 PM,2024,11,01,12,12.1,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 01:00 PM,2024,11,01,13,11.6,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 02:00 PM,2024,11,01,14,11.4,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 03:00 PM,2024,11,01,15,10.3,53,Moderate,9.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 04:00 PM,2024,11,01,16,8.5,47,Good,7.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 05:00 PM,2024,11,01,17,10.7,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 06:00 PM,2024,11,01,18,11.8,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 07:00 PM,2024,11,01,19,12.4,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 08:00 PM,2024,11,01,20,11.2,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 09:00 PM,2024,11,01,21,10.2,53,Moderate,9.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 10:00 PM,2024,11,01,22,9.6,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-01 11:00 PM,2024,11,01,23,9.8,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 12:00 AM,2024,11,02,00,11.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 01:00 AM,2024,11,02,01,11.1,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 02:00 AM,2024,11,02,02,11.0,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 03:00 AM,2024,11,02,03,10.5,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 04:00 AM,2024,11,02,04,10.7,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 05:00 AM,2024,11,02,05,10.5,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 06:00 AM,2024,11,02,06,12.2,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 07:00 AM,2024,11,02,07,13.9,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 08:00 AM,2024,11,02,08,22.1,75,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 09:00 AM,2024,11,02,09,25.5,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 10:00 AM,2024,11,02,10,23.7,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 11:00 AM,2024,11,02,11,18.8,69,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 12:00 PM,2024,11,02,12,22.4,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 01:00 PM,2024,11,02,13,21.7,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 02:00 PM,2024,11,02,14,19.8,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 03:00 PM,2024,11,02,15,28.9,88,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 04:00 PM,2024,11,02,16,25.9,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 05:00 PM,2024,11,02,17,23.9,79,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 06:00 PM,2024,11,02,18,21.9,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 07:00 PM,2024,11,02,19,17.9,67,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 08:00 PM,2024,11,02,20,22.9,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 09:00 PM,2024,11,02,21,26.4,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 10:00 PM,2024,11,02,22,24.7,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-02 11:00 PM,2024,11,02,23,22.8,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 12:00 AM,2024,11,03,00,23.4,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 01:00 AM,2024,11,03,01,27.7,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 02:00 AM,2024,11,03,02,27.8,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 03:00 AM,2024,11,03,03,30.9,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 04:00 AM,2024,11,03,04,29.9,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 05:00 AM,2024,11,03,05,30.9,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 06:00 AM,2024,11,03,06,31.4,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 07:00 AM,2024,11,03,07,29.5,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 08:00 AM,2024,11,03,08,30.4,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 09:00 AM,2024,11,03,09,33.3,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 10:00 AM,2024,11,03,10,34.9,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 11:00 AM,2024,11,03,11,39.1,110,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 12:00 PM,2024,11,03,12,43.5,121,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 01:00 PM,2024,11,03,13,45.5,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 02:00 PM,2024,11,03,14,42.6,118,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 03:00 PM,2024,11,03,15,44.5,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 04:00 PM,2024,11,03,16,41.6,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 05:00 PM,2024,11,03,17,39.5,111,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 06:00 PM,2024,11,03,18,34.3,98,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 07:00 PM,2024,11,03,19,33.5,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 08:00 PM,2024,11,03,20,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 09:00 PM,2024,11,03,21,32.4,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 10:00 PM,2024,11,03,22,31.8,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-03 11:00 PM,2024,11,03,23,32.7,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 12:00 AM,2024,11,04,00,33.6,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 01:00 AM,2024,11,04,01,37.8,107,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 02:00 AM,2024,11,04,02,35.8,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 03:00 AM,2024,11,04,03,32.4,94,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 04:00 AM,2024,11,04,04,33.4,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 05:00 AM,2024,11,04,05,33.6,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 06:00 AM,2024,11,04,06,34.1,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 07:00 AM,2024,11,04,07,37.2,105,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 08:00 AM,2024,11,04,08,36.3,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 09:00 AM,2024,11,04,09,37.7,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 10:00 AM,2024,11,04,10,37.4,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 11:00 AM,2024,11,04,11,36.5,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 12:00 PM,2024,11,04,12,37.0,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 01:00 PM,2024,11,04,13,37.3,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 02:00 PM,2024,11,04,14,37.6,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 03:00 PM,2024,11,04,15,38.3,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 04:00 PM,2024,11,04,16,38.3,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 05:00 PM,2024,11,04,17,38.4,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 06:00 PM,2024,11,04,18,38.2,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 07:00 PM,2024,11,04,19,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 08:00 PM,2024,11,04,20,37.8,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 09:00 PM,2024,11,04,21,37.2,105,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 10:00 PM,2024,11,04,22,37.7,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-04 11:00 PM,2024,11,04,23,42.4,118,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 12:00 AM,2024,11,05,00,43.9,122,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 01:00 AM,2024,11,05,01,52.6,143,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 02:00 AM,2024,11,05,02,47.5,131,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 03:00 AM,2024,11,05,03,42.9,119,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 04:00 AM,2024,11,05,04,40.3,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 05:00 AM,2024,11,05,05,31.8,93,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 06:00 AM,2024,11,05,06,22.9,77,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 07:00 AM,2024,11,05,07,24.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 08:00 AM,2024,11,05,08,27.9,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 09:00 AM,2024,11,05,09,28.9,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 10:00 AM,2024,11,05,10,32.9,95,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 11:00 AM,2024,11,05,11,32.4,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 12:00 PM,2024,11,05,12,30.7,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 01:00 PM,2024,11,05,13,26.8,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 02:00 PM,2024,11,05,14,24.9,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 03:00 PM,2024,11,05,15,22.9,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 04:00 PM,2024,11,05,16,22.4,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 05:00 PM,2024,11,05,17,20.2,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 06:00 PM,2024,11,05,18,18.1,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 07:00 PM,2024,11,05,19,16.5,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 08:00 PM,2024,11,05,20,12.7,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 09:00 PM,2024,11,05,21,18.3,68,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 10:00 PM,2024,11,05,22,19.1,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-05 11:00 PM,2024,11,05,23,20.0,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 12:00 AM,2024,11,06,00,18.5,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 01:00 AM,2024,11,06,01,17.7,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 02:00 AM,2024,11,06,02,16.8,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 03:00 AM,2024,11,06,03,17.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 04:00 AM,2024,11,06,04,15.9,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 05:00 AM,2024,11,06,05,14.9,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 06:00 AM,2024,11,06,06,16.9,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 07:00 AM,2024,11,06,07,15.9,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 08:00 AM,2024,11,06,08,17.7,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 09:00 AM,2024,11,06,09,17.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 10:00 AM,2024,11,06,10,22.5,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 11:00 AM,2024,11,06,11,22.2,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 12:00 PM,2024,11,06,12,19.7,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 01:00 PM,2024,11,06,13,19.3,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 02:00 PM,2024,11,06,14,17.2,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 03:00 PM,2024,11,06,15,14.5,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 04:00 PM,2024,11,06,16,15.2,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 05:00 PM,2024,11,06,17,17.6,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 06:00 PM,2024,11,06,18,19.8,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 07:00 PM,2024,11,06,19,17.4,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 08:00 PM,2024,11,06,20,15.7,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 09:00 PM,2024,11,06,21,16.8,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 10:00 PM,2024,11,06,22,16.9,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-06 11:00 PM,2024,11,06,23,17.8,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 12:00 AM,2024,11,07,00,18.3,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 01:00 AM,2024,11,07,01,17.7,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 02:00 AM,2024,11,07,02,23.3,77,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 03:00 AM,2024,11,07,03,23.6,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 04:00 AM,2024,11,07,04,25.8,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 05:00 AM,2024,11,07,05,28.4,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 06:00 AM,2024,11,07,06,32.7,95,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 07:00 AM,2024,11,07,07,34.3,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 08:00 AM,2024,11,07,08,31.6,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 09:00 AM,2024,11,07,09,32.3,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 10:00 AM,2024,11,07,10,36.1,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 11:00 AM,2024,11,07,11,35.5,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 12:00 PM,2024,11,07,12,32.2,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 01:00 PM,2024,11,07,13,30.0,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 02:00 PM,2024,11,07,14,30.4,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 03:00 PM,2024,11,07,15,26.5,83,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 04:00 PM,2024,11,07,16,28.0,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 05:00 PM,2024,11,07,17,26.6,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 06:00 PM,2024,11,07,18,21.7,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 07:00 PM,2024,11,07,19,19.8,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 08:00 PM,2024,11,07,20,16.9,66,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 09:00 PM,2024,11,07,21,15.4,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 10:00 PM,2024,11,07,22,13.7,60,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-07 11:00 PM,2024,11,07,23,16.3,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 12:00 AM,2024,11,08,00,19.6,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 01:00 AM,2024,11,08,01,19.3,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 02:00 AM,2024,11,08,02,22.6,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 03:00 AM,2024,11,08,03,24.8,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 04:00 AM,2024,11,08,04,27.9,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 05:00 AM,2024,11,08,05,28.9,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 06:00 AM,2024,11,08,06,30.4,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 07:00 AM,2024,11,08,07,31.2,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 08:00 AM,2024,11,08,08,36.1,102,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 09:00 AM,2024,11,08,09,38.0,107,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 10:00 AM,2024,11,08,10,47.5,131,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 11:00 AM,2024,11,08,11,35.2,100,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 12:00 PM,2024,11,08,12,26.1,83,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 01:00 PM,2024,11,08,13,23.5,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 02:00 PM,2024,11,08,14,19.7,71,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 03:00 PM,2024,11,08,15,18.8,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 04:00 PM,2024,11,08,16,16.9,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 05:00 PM,2024,11,08,17,14.9,62,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 06:00 PM,2024,11,08,18,16.9,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 07:00 PM,2024,11,08,19,19.4,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 08:00 PM,2024,11,08,20,21.7,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 09:00 PM,2024,11,08,21,18.8,69,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 10:00 PM,2024,11,08,22,18.0,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-08 11:00 PM,2024,11,08,23,18.0,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 12:00 AM,2024,11,09,00,18.0,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 01:00 AM,2024,11,09,01,29.9,90,Moderate,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 02:00 AM,2024,11,09,02,29.4,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 03:00 AM,2024,11,09,03,30.7,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 04:00 AM,2024,11,09,04,30.8,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 05:00 AM,2024,11,09,05,33.4,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 06:00 AM,2024,11,09,06,36.7,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 07:00 AM,2024,11,09,07,38.8,109,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 08:00 AM,2024,11,09,08,40.9,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 09:00 AM,2024,11,09,09,41.9,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 10:00 AM,2024,11,09,10,40.4,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 11:00 AM,2024,11,09,11,35.7,101,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 12:00 PM,2024,11,09,12,35.1,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 01:00 PM,2024,11,09,13,30.3,90,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 02:00 PM,2024,11,09,14,28.5,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 03:00 PM,2024,11,09,15,28.2,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 04:00 PM,2024,11,09,16,27.7,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 05:00 PM,2024,11,09,17,28.2,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 06:00 PM,2024,11,09,18,29.8,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 07:00 PM,2024,11,09,19,30.7,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 08:00 PM,2024,11,09,20,33.7,97,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 09:00 PM,2024,11,09,21,33.1,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 10:00 PM,2024,11,09,22,36.8,104,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-09 11:00 PM,2024,11,09,23,43.2,120,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 12:00 AM,2024,11,10,00,50.7,138,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 01:00 AM,2024,11,10,01,60.8,155,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 02:00 AM,2024,11,10,02,55.9,151,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 03:00 AM,2024,11,10,03,54.4,148,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 04:00 AM,2024,11,10,04,44.2,122,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 05:00 AM,2024,11,10,05,43.6,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 06:00 AM,2024,11,10,06,41.3,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 07:00 AM,2024,11,10,07,40.1,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 08:00 AM,2024,11,10,08,36.5,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 09:00 AM,2024,11,10,09,33.2,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 10:00 AM,2024,11,10,10,22.6,76,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 11:00 AM,2024,11,10,11,19.3,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 12:00 PM,2024,11,10,12,26.6,84,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 01:00 PM,2024,11,10,13,24.8,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 02:00 PM,2024,11,10,14,22.4,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 03:00 PM,2024,11,10,15,20.1,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 04:00 PM,2024,11,10,16,17.0,66,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 05:00 PM,2024,11,10,17,16.0,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 06:00 PM,2024,11,10,18,16.5,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 07:00 PM,2024,11,10,19,18.7,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 08:00 PM,2024,11,10,20,21.8,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 09:00 PM,2024,11,10,21,23.4,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 10:00 PM,2024,11,10,22,21.7,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-10 11:00 PM,2024,11,10,23,22.3,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 12:00 AM,2024,11,11,00,22.5,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 01:00 AM,2024,11,11,01,37.3,105,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 02:00 AM,2024,11,11,02,36.6,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 03:00 AM,2024,11,11,03,36.3,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 04:00 AM,2024,11,11,04,39.1,110,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 05:00 AM,2024,11,11,05,41.5,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 06:00 AM,2024,11,11,06,43.7,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 07:00 AM,2024,11,11,07,44.9,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 08:00 AM,2024,11,11,08,50.9,139,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 09:00 AM,2024,11,11,09,51.9,141,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 10:00 AM,2024,11,11,10,43.4,120,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 11:00 AM,2024,11,11,11,38.7,109,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 12:00 PM,2024,11,11,12,42.9,119,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 01:00 PM,2024,11,11,13,44.6,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 02:00 PM,2024,11,11,14,41.9,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 03:00 PM,2024,11,11,15,35.3,100,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 04:00 PM,2024,11,11,16,30.6,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 05:00 PM,2024,11,11,17,29.3,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 06:00 PM,2024,11,11,18,30.1,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 07:00 PM,2024,11,11,19,39.0,110,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 08:00 PM,2024,11,11,20,51.0,139,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 09:00 PM,2024,11,11,21,52.0,142,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 10:00 PM,2024,11,11,22,45.0,124,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-11 11:00 PM,2024,11,11,23,41.5,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 12:00 AM,2024,11,12,00,39.2,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 01:00 AM,2024,11,12,01,38.1,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 02:00 AM,2024,11,12,02,41.5,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 03:00 AM,2024,11,12,03,43.2,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 04:00 AM,2024,11,12,04,44.1,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 05:00 AM,2024,11,12,05,44.0,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 06:00 AM,2024,11,12,06,39.9,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 07:00 AM,2024,11,12,07,43.5,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 08:00 AM,2024,11,12,08,41.7,116,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 09:00 AM,2024,11,12,09,35.1,99,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 10:00 AM,2024,11,12,10,32.8,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 11:00 AM,2024,11,12,11,31.1,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 12:00 PM,2024,11,12,12,27.9,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 01:00 PM,2024,11,12,13,28.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 02:00 PM,2024,11,12,14,33.9,97,Moderate,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 03:00 PM,2024,11,12,15,34.4,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 04:00 PM,2024,11,12,16,33.2,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 05:00 PM,2024,11,12,17,32.1,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 06:00 PM,2024,11,12,18,33.0,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 07:00 PM,2024,11,12,19,33.3,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 08:00 PM,2024,11,12,20,35.8,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 09:00 PM,2024,11,12,21,40.8,114,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 10:00 PM,2024,11,12,22,40.9,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-12 11:00 PM,2024,11,12,23,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 12:00 AM,2024,11,13,00,35.3,100,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 01:00 AM,2024,11,13,01,41.4,116,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 02:00 AM,2024,11,13,02,32.3,94,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 03:00 AM,2024,11,13,03,30.6,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 04:00 AM,2024,11,13,04,33.8,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 05:00 AM,2024,11,13,05,42.4,118,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 06:00 AM,2024,11,13,06,45.2,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 07:00 AM,2024,11,13,07,49.1,134,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 08:00 AM,2024,11,13,08,47.5,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 09:00 AM,2024,11,13,09,45.2,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 10:00 AM,2024,11,13,10,41.6,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 11:00 AM,2024,11,13,11,71.8,162,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 12:00 PM,2024,11,13,12,115.4,193,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 01:00 PM,2024,11,13,13,150.2,225,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 02:00 PM,2024,11,13,14,140.6,216,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 03:00 PM,2024,11,13,15,148.3,224,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 04:00 PM,2024,11,13,16,151.6,227,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 05:00 PM,2024,11,13,17,131.8,207,Very Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 06:00 PM,2024,11,13,18,98.9,181,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 07:00 PM,2024,11,13,19,71.9,162,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 08:00 PM,2024,11,13,20,55.4,150,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 09:00 PM,2024,11,13,21,57.2,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 10:00 PM,2024,11,13,22,58.1,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-13 11:00 PM,2024,11,13,23,47.5,131,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 12:00 AM,2024,11,14,00,37.7,106,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 01:00 AM,2024,11,14,01,34.3,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 02:00 AM,2024,11,14,02,32.6,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 03:00 AM,2024,11,14,03,29.8,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 04:00 AM,2024,11,14,04,27.3,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 05:00 AM,2024,11,14,05,26.1,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 06:00 AM,2024,11,14,06,26.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 07:00 AM,2024,11,14,07,26.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 08:00 AM,2024,11,14,08,26.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 09:00 AM,2024,11,14,09,32.5,95,Moderate,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 10:00 AM,2024,11,14,10,89.7,175,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 11:00 AM,2024,11,14,11,125.3,200,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 12:00 PM,2024,11,14,12,154.7,230,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 01:00 PM,2024,11,14,13,212.3,287,Very Unhealthy,270.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 02:00 PM,2024,11,14,14,232.7,315,Hazardous,253.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 03:00 PM,2024,11,14,15,260.8,371,Hazardous,289.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 04:00 PM,2024,11,14,16,226.4,303,Hazardous,192.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 05:00 PM,2024,11,14,17,160.2,235,Very Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 06:00 PM,2024,11,14,18,106.1,186,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 07:00 PM,2024,11,14,19,70.5,162,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 08:00 PM,2024,11,14,20,50.7,138,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 09:00 PM,2024,11,14,21,47.8,131,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 10:00 PM,2024,11,14,22,36.4,103,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-14 11:00 PM,2024,11,14,23,25.6,82,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 12:00 AM,2024,11,15,00,23.8,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 01:00 AM,2024,11,15,01,20.8,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 02:00 AM,2024,11,15,02,40.9,114,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 03:00 AM,2024,11,15,03,45.9,127,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 04:00 AM,2024,11,15,04,45.4,125,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 05:00 AM,2024,11,15,05,41.7,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 06:00 AM,2024,11,15,06,35.8,102,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 07:00 AM,2024,11,15,07,33.4,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 08:00 AM,2024,11,15,08,36.7,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 09:00 AM,2024,11,15,09,91.8,176,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 10:00 AM,2024,11,15,10,118.4,195,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 11:00 AM,2024,11,15,11,172.7,248,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 12:00 PM,2024,11,15,12,228.9,308,Hazardous,285.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 01:00 PM,2024,11,15,13,283.4,416,Hazardous,338.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 02:00 PM,2024,11,15,14,279.2,408,Hazardous,275.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 03:00 PM,2024,11,15,15,231.1,312,Hazardous,183.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 04:00 PM,2024,11,15,16,181.5,256,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 05:00 PM,2024,11,15,17,126.2,202,Very Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 06:00 PM,2024,11,15,18,74.6,164,Unhealthy,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 07:00 PM,2024,11,15,19,47.3,130,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 08:00 PM,2024,11,15,20,30.1,90,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 09:00 PM,2024,11,15,21,26.0,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 10:00 PM,2024,11,15,22,22.5,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-15 11:00 PM,2024,11,15,23,22.2,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 12:00 AM,2024,11,16,00,24.5,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 01:00 AM,2024,11,16,01,26.7,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 02:00 AM,2024,11,16,02,32.3,94,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 03:00 AM,2024,11,16,03,41.1,115,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 04:00 AM,2024,11,16,04,44.0,122,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 05:00 AM,2024,11,16,05,44.5,123,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 06:00 AM,2024,11,16,06,48.2,132,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 07:00 AM,2024,11,16,07,54.6,148,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 08:00 AM,2024,11,16,08,72.3,163,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 09:00 AM,2024,11,16,09,102.1,184,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 10:00 AM,2024,11,16,10,73.0,163,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 11:00 AM,2024,11,16,11,56.5,152,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 12:00 PM,2024,11,16,12,43.7,121,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 01:00 PM,2024,11,16,13,38.3,108,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 02:00 PM,2024,11,16,14,34.6,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 03:00 PM,2024,11,16,15,35.3,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 04:00 PM,2024,11,16,16,34.1,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 05:00 PM,2024,11,16,17,37.5,106,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 06:00 PM,2024,11,16,18,37.2,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 07:00 PM,2024,11,16,19,32.6,95,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 08:00 PM,2024,11,16,20,31.3,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 09:00 PM,2024,11,16,21,30.6,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 10:00 PM,2024,11,16,22,31.3,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-16 11:00 PM,2024,11,16,23,30.2,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 12:00 AM,2024,11,17,00,29.8,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 01:00 AM,2024,11,17,01,41.1,115,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 02:00 AM,2024,11,17,02,44.4,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 03:00 AM,2024,11,17,03,46.6,128,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 04:00 AM,2024,11,17,04,42.0,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 05:00 AM,2024,11,17,05,35.2,100,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 06:00 AM,2024,11,17,06,34.6,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 07:00 AM,2024,11,17,07,32.8,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 08:00 AM,2024,11,17,08,34.3,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 09:00 AM,2024,11,17,09,34.6,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 10:00 AM,2024,11,17,10,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 11:00 AM,2024,11,17,11,32.7,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 12:00 PM,2024,11,17,12,30.9,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 01:00 PM,2024,11,17,13,30.7,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 02:00 PM,2024,11,17,14,30.3,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 03:00 PM,2024,11,17,15,29.8,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 04:00 PM,2024,11,17,16,30.7,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 05:00 PM,2024,11,17,17,30.5,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 06:00 PM,2024,11,17,18,32.2,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 07:00 PM,2024,11,17,19,34.5,98,Moderate,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 08:00 PM,2024,11,17,20,34.6,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 09:00 PM,2024,11,17,21,34.4,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 10:00 PM,2024,11,17,22,32.4,94,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-17 11:00 PM,2024,11,17,23,33.2,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 12:00 AM,2024,11,18,00,36.3,103,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 01:00 AM,2024,11,18,01,34.4,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 02:00 AM,2024,11,18,02,31.7,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 03:00 AM,2024,11,18,03,33.6,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 04:00 AM,2024,11,18,04,34.5,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 05:00 AM,2024,11,18,05,35.7,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 06:00 AM,2024,11,18,06,35.4,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 07:00 AM,2024,11,18,07,35.6,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 08:00 AM,2024,11,18,08,38.9,109,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 09:00 AM,2024,11,18,09,43.1,120,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 10:00 AM,2024,11,18,10,41.3,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 11:00 AM,2024,11,18,11,41.1,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 12:00 PM,2024,11,18,12,39.3,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 01:00 PM,2024,11,18,13,37.0,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 02:00 PM,2024,11,18,14,33.3,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 03:00 PM,2024,11,18,15,30.4,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 04:00 PM,2024,11,18,16,30.6,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 05:00 PM,2024,11,18,17,27.1,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 06:00 PM,2024,11,18,18,27.0,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 07:00 PM,2024,11,18,19,28.0,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 08:00 PM,2024,11,18,20,36.0,102,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 09:00 PM,2024,11,18,21,37.4,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 10:00 PM,2024,11,18,22,39.5,111,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-18 11:00 PM,2024,11,18,23,37.0,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 12:00 AM,2024,11,19,00,32.9,95,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 01:00 AM,2024,11,19,01,35.6,101,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 02:00 AM,2024,11,19,02,34.0,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 03:00 AM,2024,11,19,03,26.9,84,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 04:00 AM,2024,11,19,04,25.4,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 05:00 AM,2024,11,19,05,25.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 06:00 AM,2024,11,19,06,25.8,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 07:00 AM,2024,11,19,07,27.4,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 08:00 AM,2024,11,19,08,29.7,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 09:00 AM,2024,11,19,09,58.8,153,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 10:00 AM,2024,11,19,10,56.4,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 11:00 AM,2024,11,19,11,61.7,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 12:00 PM,2024,11,19,12,64.8,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 01:00 PM,2024,11,19,13,56.4,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 02:00 PM,2024,11,19,14,46.2,127,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 03:00 PM,2024,11,19,15,41.1,115,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 04:00 PM,2024,11,19,16,40.0,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 05:00 PM,2024,11,19,17,38.5,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 06:00 PM,2024,11,19,18,38.7,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 07:00 PM,2024,11,19,19,33.8,97,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 08:00 PM,2024,11,19,20,31.4,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 09:00 PM,2024,11,19,21,29.2,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 10:00 PM,2024,11,19,22,29.6,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-19 11:00 PM,2024,11,19,23,33.2,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 12:00 AM,2024,11,20,00,39.1,110,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 01:00 AM,2024,11,20,01,63.5,157,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 02:00 AM,2024,11,20,02,64.2,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 03:00 AM,2024,11,20,03,63.1,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 04:00 AM,2024,11,20,04,53.0,144,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 05:00 AM,2024,11,20,05,48.0,132,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 06:00 AM,2024,11,20,06,44.5,123,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 07:00 AM,2024,11,20,07,41.2,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 08:00 AM,2024,11,20,08,41.1,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 09:00 AM,2024,11,20,09,44.5,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 10:00 AM,2024,11,20,10,40.2,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 11:00 AM,2024,11,20,11,34.6,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 12:00 PM,2024,11,20,12,30.8,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 01:00 PM,2024,11,20,13,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 02:00 PM,2024,11,20,14,33.4,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 03:00 PM,2024,11,20,15,35.4,100,Moderate,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 04:00 PM,2024,11,20,16,37.0,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 05:00 PM,2024,11,20,17,40.0,112,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 06:00 PM,2024,11,20,18,45.3,125,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 07:00 PM,2024,11,20,19,41.9,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 08:00 PM,2024,11,20,20,44.7,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 09:00 PM,2024,11,20,21,49.9,136,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 10:00 PM,2024,11,20,22,49.4,135,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-20 11:00 PM,2024,11,20,23,40.2,113,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 12:00 AM,2024,11,21,00,32.1,94,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 01:00 AM,2024,11,21,01,26.5,83,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 02:00 AM,2024,11,21,02,21.7,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 03:00 AM,2024,11,21,03,20.8,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 04:00 AM,2024,11,21,04,18.9,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 05:00 AM,2024,11,21,05,19.4,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 06:00 AM,2024,11,21,06,17.7,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 07:00 AM,2024,11,21,07,16.8,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 08:00 AM,2024,11,21,08,16.9,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 09:00 AM,2024,11,21,09,23.4,78,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 10:00 AM,2024,11,21,10,27.0,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 11:00 AM,2024,11,21,11,30.6,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 12:00 PM,2024,11,21,12,41.3,115,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 01:00 PM,2024,11,21,13,74.1,164,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 02:00 PM,2024,11,21,14,79.5,168,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 03:00 PM,2024,11,21,15,75.3,165,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 04:00 PM,2024,11,21,16,51.1,139,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 05:00 PM,2024,11,21,17,33.5,96,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 06:00 PM,2024,11,21,18,25.2,81,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 07:00 PM,2024,11,21,19,20.6,72,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 08:00 PM,2024,11,21,20,17.8,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 09:00 PM,2024,11,21,21,15.9,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 10:00 PM,2024,11,21,22,15.9,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-21 11:00 PM,2024,11,21,23,11.4,55,Moderate,7.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 12:00 AM,2024,11,22,00,16.2,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 01:00 AM,2024,11,22,01,20.6,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 02:00 AM,2024,11,22,02,22.2,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 03:00 AM,2024,11,22,03,22.1,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 04:00 AM,2024,11,22,04,23.0,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 05:00 AM,2024,11,22,05,24.0,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 06:00 AM,2024,11,22,06,26.0,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 07:00 AM,2024,11,22,07,27.0,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 08:00 AM,2024,11,22,08,27.5,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 09:00 AM,2024,11,22,09,29.2,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 10:00 AM,2024,11,22,10,28.6,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 11:00 AM,2024,11,22,11,32.1,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 12:00 PM,2024,11,22,12,86.4,173,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 01:00 PM,2024,11,22,13,125.7,201,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 02:00 PM,2024,11,22,14,148.8,224,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 03:00 PM,2024,11,22,15,133.9,209,Very Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 04:00 PM,2024,11,22,16,83.4,171,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 05:00 PM,2024,11,22,17,55.7,151,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 06:00 PM,2024,11,22,18,36.8,104,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 07:00 PM,2024,11,22,19,25.9,82,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 08:00 PM,2024,11,22,20,20.9,73,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 09:00 PM,2024,11,22,21,34.9,99,Moderate,49.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 10:00 PM,2024,11,22,22,25.4,81,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-22 11:00 PM,2024,11,22,23,20.7,73,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 12:00 AM,2024,11,23,00,19.8,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 01:00 AM,2024,11,23,01,13.4,59,Moderate,7.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 02:00 AM,2024,11,23,02,18.1,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 03:00 AM,2024,11,23,03,21.0,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 04:00 AM,2024,11,23,04,20.0,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 05:00 AM,2024,11,23,05,23.5,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 06:00 AM,2024,11,23,06,22.7,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 07:00 AM,2024,11,23,07,25.8,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 08:00 AM,2024,11,23,08,25.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 09:00 AM,2024,11,23,09,32.7,95,Moderate,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 10:00 AM,2024,11,23,10,35.8,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 11:00 AM,2024,11,23,11,38.4,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 12:00 PM,2024,11,23,12,44.7,124,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 01:00 PM,2024,11,23,13,59.3,154,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 02:00 PM,2024,11,23,14,68.6,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 03:00 PM,2024,11,23,15,75.8,165,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 04:00 PM,2024,11,23,16,66.9,159,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 05:00 PM,2024,11,23,17,55.9,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 06:00 PM,2024,11,23,18,34.9,99,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 07:00 PM,2024,11,23,19,26.9,84,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 08:00 PM,2024,11,23,20,23.4,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 09:00 PM,2024,11,23,21,22.2,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 10:00 PM,2024,11,23,22,24.1,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-23 11:00 PM,2024,11,23,23,23.0,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 12:00 AM,2024,11,24,00,23.0,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 01:00 AM,2024,11,24,01,24.5,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 02:00 AM,2024,11,24,02,28.7,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 03:00 AM,2024,11,24,03,30.8,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 04:00 AM,2024,11,24,04,31.4,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 05:00 AM,2024,11,24,05,32.2,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 06:00 AM,2024,11,24,06,31.4,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 07:00 AM,2024,11,24,07,37.8,107,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 08:00 AM,2024,11,24,08,37.4,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 09:00 AM,2024,11,24,09,35.7,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 10:00 AM,2024,11,24,10,37.8,107,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 11:00 AM,2024,11,24,11,54.4,148,Unhealthy for Sensitive Groups,71.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 12:00 PM,2024,11,24,12,64.2,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 01:00 PM,2024,11,24,13,48.1,132,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 02:00 PM,2024,11,24,14,40.0,112,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 03:00 PM,2024,11,24,15,33.0,96,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 04:00 PM,2024,11,24,16,31.0,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 05:00 PM,2024,11,24,17,29.0,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 06:00 PM,2024,11,24,18,25.5,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 07:00 PM,2024,11,24,19,27.2,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 08:00 PM,2024,11,24,20,26.6,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 09:00 PM,2024,11,24,21,23.3,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 10:00 PM,2024,11,24,22,21.1,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-24 11:00 PM,2024,11,24,23,21.5,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 12:00 AM,2024,11,25,00,21.1,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 01:00 AM,2024,11,25,01,32.8,95,Moderate,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 02:00 AM,2024,11,25,02,26.9,84,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 03:00 AM,2024,11,25,03,20.4,72,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 04:00 AM,2024,11,25,04,22.2,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 05:00 AM,2024,11,25,05,25.1,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 06:00 AM,2024,11,25,06,24.5,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 07:00 AM,2024,11,25,07,23.7,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 08:00 AM,2024,11,25,08,21.8,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 09:00 AM,2024,11,25,09,18.9,69,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 10:00 AM,2024,11,25,10,26.9,84,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 11:00 AM,2024,11,25,11,33.4,96,Moderate,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 12:00 PM,2024,11,25,12,32.7,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 01:00 PM,2024,11,25,13,29.3,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 02:00 PM,2024,11,25,14,30.1,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 03:00 PM,2024,11,25,15,25.0,81,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 04:00 PM,2024,11,25,16,23.5,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 05:00 PM,2024,11,25,17,22.2,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 06:00 PM,2024,11,25,18,21.1,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 07:00 PM,2024,11,25,19,22.5,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 08:00 PM,2024,11,25,20,20.7,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 09:00 PM,2024,11,25,21,19.3,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 10:00 PM,2024,11,25,22,19.1,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-25 11:00 PM,2024,11,25,23,17.0,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 12:00 AM,2024,11,26,00,16.0,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 01:00 AM,2024,11,26,01,25.0,81,Moderate,34.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 02:00 AM,2024,11,26,02,25.5,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 03:00 AM,2024,11,26,03,25.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 04:00 AM,2024,11,26,04,30.3,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 05:00 AM,2024,11,26,05,41.1,115,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 06:00 AM,2024,11,26,06,36.0,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 07:00 AM,2024,11,26,07,40.0,112,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 08:00 AM,2024,11,26,08,44.0,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 09:00 AM,2024,11,26,09,47.5,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 10:00 AM,2024,11,26,10,47.2,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 11:00 AM,2024,11,26,11,44.1,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 12:00 PM,2024,11,26,12,43.0,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 01:00 PM,2024,11,26,13,45.5,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 02:00 PM,2024,11,26,14,44.2,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 03:00 PM,2024,11,26,15,35.1,99,Moderate,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 04:00 PM,2024,11,26,16,28.0,86,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 05:00 PM,2024,11,26,17,28.0,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 06:00 PM,2024,11,26,18,26.5,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 07:00 PM,2024,11,26,19,25.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 08:00 PM,2024,11,26,20,24.6,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 09:00 PM,2024,11,26,21,27.8,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 10:00 PM,2024,11,26,22,32.4,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-26 11:00 PM,2024,11,26,23,30.7,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 12:00 AM,2024,11,27,00,23.8,78,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 01:00 AM,2024,11,27,01,29.4,89,Moderate,35.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 02:00 AM,2024,11,27,02,22.2,75,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 03:00 AM,2024,11,27,03,15.1,62,Moderate,8.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 04:00 AM,2024,11,27,04,13.0,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 05:00 AM,2024,11,27,05,12.5,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 06:00 AM,2024,11,27,06,12.7,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 07:00 AM,2024,11,27,07,19.8,71,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 08:00 AM,2024,11,27,08,37.9,107,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 09:00 AM,2024,11,27,09,48.9,134,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 10:00 AM,2024,11,27,10,50.4,138,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 11:00 AM,2024,11,27,11,45.2,125,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 12:00 PM,2024,11,27,12,35.6,101,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 01:00 PM,2024,11,27,13,25.8,82,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 02:00 PM,2024,11,27,14,22.4,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 03:00 PM,2024,11,27,15,16.7,65,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 04:00 PM,2024,11,27,16,14.3,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 05:00 PM,2024,11,27,17,14.6,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 06:00 PM,2024,11,27,18,13.8,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 07:00 PM,2024,11,27,19,14.4,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 08:00 PM,2024,11,27,20,31.2,92,Moderate,48.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 09:00 PM,2024,11,27,21,38.1,107,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 10:00 PM,2024,11,27,22,31.0,92,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-27 11:00 PM,2024,11,27,23,24.5,80,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 12:00 AM,2024,11,28,00,19.7,71,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 01:00 AM,2024,11,28,01,16.8,65,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 02:00 AM,2024,11,28,02,13.9,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 03:00 AM,2024,11,28,03,14.4,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 04:00 AM,2024,11,28,04,17.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 05:00 AM,2024,11,28,05,17.6,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 06:00 AM,2024,11,28,06,16.3,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 07:00 AM,2024,11,28,07,17.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 08:00 AM,2024,11,28,08,18.5,69,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 09:00 AM,2024,11,28,09,16.2,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 10:00 AM,2024,11,28,10,14.4,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 11:00 AM,2024,11,28,11,15.1,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 12:00 PM,2024,11,28,12,35.5,101,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 01:00 PM,2024,11,28,13,58.7,153,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 02:00 PM,2024,11,28,14,73.8,164,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 03:00 PM,2024,11,28,15,78.9,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 04:00 PM,2024,11,28,16,77.9,167,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 05:00 PM,2024,11,28,17,59.4,154,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 06:00 PM,2024,11,28,18,43.7,121,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 07:00 PM,2024,11,28,19,54.8,149,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 08:00 PM,2024,11,28,20,69.4,161,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 09:00 PM,2024,11,28,21,68.7,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 10:00 PM,2024,11,28,22,77.8,167,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-28 11:00 PM,2024,11,28,23,81.9,170,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 12:00 AM,2024,11,29,00,59.4,154,Unhealthy,37.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 01:00 AM,2024,11,29,01,40.2,113,Unhealthy for Sensitive Groups,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 02:00 AM,2024,11,29,02,26.6,84,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 03:00 AM,2024,11,29,03,20.7,73,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 04:00 AM,2024,11,29,04,20.8,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 05:00 AM,2024,11,29,05,21.4,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 06:00 AM,2024,11,29,06,21.7,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 07:00 AM,2024,11,29,07,20.8,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 08:00 AM,2024,11,29,08,21.9,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 09:00 AM,2024,11,29,09,20.4,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 10:00 AM,2024,11,29,10,20.7,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 11:00 AM,2024,11,29,11,17.8,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 12:00 PM,2024,11,29,12,14.4,61,Moderate,11.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 01:00 PM,2024,11,29,13,19.2,70,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 02:00 PM,2024,11,29,14,77.6,166,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 03:00 PM,2024,11,29,15,94.8,179,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 04:00 PM,2024,11,29,16,94.4,178,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 05:00 PM,2024,11,29,17,60.2,154,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 06:00 PM,2024,11,29,18,35.1,99,Moderate,10.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 07:00 PM,2024,11,29,19,25.5,82,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 08:00 PM,2024,11,29,20,20.2,72,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 09:00 PM,2024,11,29,21,18.6,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 10:00 PM,2024,11,29,22,18.3,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-29 11:00 PM,2024,11,29,23,17.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 12:00 AM,2024,11,30,00,19.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 01:00 AM,2024,11,30,01,18.6,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 02:00 AM,2024,11,30,02,20.3,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 03:00 AM,2024,11,30,03,19.1,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 04:00 AM,2024,11,30,04,19.5,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 05:00 AM,2024,11,30,05,19.7,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 06:00 AM,2024,11,30,06,19.0,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 07:00 AM,2024,11,30,07,19.3,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 08:00 AM,2024,11,30,08,22.2,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 09:00 AM,2024,11,30,09,21.7,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 10:00 AM,2024,11,30,10,27.3,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 11:00 AM,2024,11,30,11,26.1,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 12:00 PM,2024,11,30,12,25.6,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 01:00 PM,2024,11,30,13,27.6,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 02:00 PM,2024,11,30,14,35.4,100,Moderate,43.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 03:00 PM,2024,11,30,15,34.2,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 04:00 PM,2024,11,30,16,24.6,80,Moderate,15.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 05:00 PM,2024,11,30,17,18.8,69,Moderate,13.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 06:00 PM,2024,11,30,18,15.3,63,Moderate,12.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 07:00 PM,2024,11,30,19,15.6,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 08:00 PM,2024,11,30,20,16.3,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 09:00 PM,2024,11,30,21,20.1,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 10:00 PM,2024,11,30,22,26.5,83,Moderate,33.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-11-30 11:00 PM,2024,11,30,23,26.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Kuwait City,PM2.5 - Principal,2024-12-01 12:00 AM,2024,12,01,00,27.8,86,Moderate,29.0,UG/M3,1 Hr,Valid

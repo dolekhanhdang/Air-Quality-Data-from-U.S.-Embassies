@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kigali,PM2.5 - Principal,2023-01-01 01:00 AM,2023,01,01,01,45.8,126,Unhealthy for Sensitive Groups,46.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 02:00 AM,2023,01,01,02,40.7,114,Unhealthy for Sensitive Groups,35.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 03:00 AM,2023,01,01,03,42.0,117,Unhealthy for Sensitive Groups,43.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 04:00 AM,2023,01,01,04,35.3,100,Moderate,28.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 05:00 AM,2023,01,01,05,33.8,97,Moderate,32.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 06:00 AM,2023,01,01,06,31.6,92,Moderate,29.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 07:00 AM,2023,01,01,07,30.5,90,Moderate,29.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 08:00 AM,2023,01,01,08,30.5,90,Moderate,30.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 09:00 AM,2023,01,01,09,31.1,91,Moderate,31.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 10:00 AM,2023,01,01,10,31.2,91,Moderate,31.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 11:00 AM,2023,01,01,11,26.4,81,Moderate,21.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 12:00 PM,2023,01,01,12,22.7,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 01:00 PM,2023,01,01,13,19.6,67,Moderate,16.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 02:00 PM,2023,01,01,14,17.5,62,Moderate,15.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 03:00 PM,2023,01,01,15,16.3,60,Moderate,15.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 04:00 PM,2023,01,01,16,15.5,58,Moderate,14.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 05:00 PM,2023,01,01,17,15.6,58,Moderate,15.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 06:00 PM,2023,01,01,18,16.0,59,Moderate,16.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 07:00 PM,2023,01,01,19,16.9,61,Moderate,17.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 08:00 PM,2023,01,01,20,21.2,70,Moderate,25.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 09:00 PM,2023,01,01,21,23.2,74,Moderate,25.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 10:00 PM,2023,01,01,22,27.3,83,Moderate,31.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-01 11:00 PM,2023,01,01,23,38.6,109,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 12:00 AM,2023,01,02,00,54.0,147,Unhealthy for Sensitive Groups,69.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 01:00 AM,2023,01,02,01,58.7,153,Unhealthy,63.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 02:00 AM,2023,01,02,02,53.3,145,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 03:00 AM,2023,01,02,03,41.0,115,Unhealthy for Sensitive Groups,28.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 04:00 AM,2023,01,02,04,30.1,89,Moderate,19.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 05:00 AM,2023,01,02,05,25.6,79,Moderate,21.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 06:00 AM,2023,01,02,06,25.9,80,Moderate,26.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 07:00 AM,2023,01,02,07,26.4,81,Moderate,26.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 08:00 AM,2023,01,02,08,29.1,87,Moderate,31.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 09:00 AM,2023,01,02,09,32.8,95,Moderate,36.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 10:00 AM,2023,01,02,10,36.1,102,Unhealthy for Sensitive Groups,39.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 11:00 AM,2023,01,02,11,35.1,99,Moderate,34.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 12:00 PM,2023,01,02,12,29.4,87,Moderate,23.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 01:00 PM,2023,01,02,13,25.3,79,Moderate,21.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 02:00 PM,2023,01,02,14,22.3,72,Moderate,19.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 03:00 PM,2023,01,02,15,18.6,65,Moderate,14.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 04:00 PM,2023,01,02,16,16.5,60,Moderate,14.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 05:00 PM,2023,01,02,17,14.8,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 06:00 PM,2023,01,02,18,13.2,53,Moderate,11.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 07:00 PM,2023,01,02,19,13.4,54,Moderate,13.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 08:00 PM,2023,01,02,20,17.6,63,Moderate,21.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 09:00 PM,2023,01,02,21,20.8,69,Moderate,24.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 10:00 PM,2023,01,02,22,19.8,67,Moderate,18.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-02 11:00 PM,2023,01,02,23,22.4,73,Moderate,24.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 12:00 AM,2023,01,03,00,26.1,80,Moderate,29.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 01:00 AM,2023,01,03,01,33.3,96,Moderate,40.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 02:00 AM,2023,01,03,02,35.2,100,Moderate,37.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 03:00 AM,2023,01,03,03,30.4,89,Moderate,25.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 04:00 AM,2023,01,03,04,24.8,78,Moderate,19.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 05:00 AM,2023,01,03,05,24.3,77,Moderate,23.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 06:00 AM,2023,01,03,06,22.3,72,Moderate,20.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 07:00 AM,2023,01,03,07,23.1,74,Moderate,23.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 08:00 AM,2023,01,03,08,24.4,77,Moderate,25.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 09:00 AM,2023,01,03,09,25.8,80,Moderate,27.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 10:00 AM,2023,01,03,10,21.8,71,Moderate,17.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 11:00 AM,2023,01,03,11,20.4,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 12:00 PM,2023,01,03,12,19.2,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 01:00 PM,2023,01,03,13,19.5,67,Moderate,19.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 02:00 PM,2023,01,03,14,17.7,63,Moderate,15.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 03:00 PM,2023,01,03,15,14.6,56,Moderate,11.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 04:00 PM,2023,01,03,16,12.0,50,Good,9.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 05:00 PM,2023,01,03,17,12.5,52,Moderate,12.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 06:00 PM,2023,01,03,18,12.9,53,Moderate,13.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 07:00 PM,2023,01,03,19,13.7,54,Moderate,14.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 08:00 PM,2023,01,03,20,14.9,57,Moderate,16.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 09:00 PM,2023,01,03,21,17.1,62,Moderate,19.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 10:00 PM,2023,01,03,22,17.2,62,Moderate,17.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-03 11:00 PM,2023,01,03,23,16.3,60,Moderate,15.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 12:00 AM,2023,01,04,00,16.3,60,Moderate,16.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 01:00 AM,2023,01,04,01,15.5,58,Moderate,14.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 02:00 AM,2023,01,04,02,21.4,71,Moderate,27.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 03:00 AM,2023,01,04,03,32.4,94,Moderate,43.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 04:00 AM,2023,01,04,04,30.2,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 05:00 AM,2023,01,04,05,27.3,83,Moderate,24.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 06:00 AM,2023,01,04,06,22.8,74,Moderate,18.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 07:00 AM,2023,01,04,07,20.5,69,Moderate,18.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 08:00 AM,2023,01,04,08,21.2,70,Moderate,21.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 09:00 AM,2023,01,04,09,25.2,79,Moderate,29.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 10:00 AM,2023,01,04,10,24.7,77,Moderate,24.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 11:00 AM,2023,01,04,11,23.8,76,Moderate,22.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 12:00 PM,2023,01,04,12,20.8,69,Moderate,17.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 01:00 PM,2023,01,04,13,18.1,64,Moderate,15.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 02:00 PM,2023,01,04,14,16.6,60,Moderate,15.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 03:00 PM,2023,01,04,15,15.5,58,Moderate,14.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 04:00 PM,2023,01,04,16,14.9,57,Moderate,14.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 05:00 PM,2023,01,04,17,16.1,59,Moderate,17.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 06:00 PM,2023,01,04,18,15.5,58,Moderate,14.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 07:00 PM,2023,01,04,19,16.1,59,Moderate,16.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 08:00 PM,2023,01,04,20,21.2,70,Moderate,26.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 09:00 PM,2023,01,04,21,35.2,100,Moderate,49.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 10:00 PM,2023,01,04,22,39.9,112,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-04 11:00 PM,2023,01,04,23,52.7,143,Unhealthy for Sensitive Groups,65.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 12:00 AM,2023,01,05,00,65.0,156,Unhealthy,77.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 01:00 AM,2023,01,05,01,66.9,157,Unhealthy,68.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 02:00 AM,2023,01,05,02,55.8,151,Unhealthy,44.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 03:00 AM,2023,01,05,03,63.4,155,Unhealthy,70.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 04:00 AM,2023,01,05,04,55.2,150,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 05:00 AM,2023,01,05,05,59.4,153,Unhealthy,63.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 06:00 AM,2023,01,05,06,56.6,152,Unhealthy,53.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 07:00 AM,2023,01,05,07,52.5,143,Unhealthy for Sensitive Groups,48.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 08:00 AM,2023,01,05,08,51.2,140,Unhealthy for Sensitive Groups,48.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 09:00 AM,2023,01,05,09,49.9,136,Unhealthy for Sensitive Groups,48.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 10:00 AM,2023,01,05,10,45.9,127,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 11:00 AM,2023,01,05,11,44.0,122,Unhealthy for Sensitive Groups,41.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 12:00 PM,2023,01,05,12,33.3,96,Moderate,23.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 01:00 PM,2023,01,05,13,25.6,79,Moderate,18.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 02:00 PM,2023,01,05,14,22.3,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 03:00 PM,2023,01,05,15,19.9,67,Moderate,17.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 04:00 PM,2023,01,05,16,19.7,67,Moderate,19.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 05:00 PM,2023,01,05,17,19.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 06:00 PM,2023,01,05,18,18.3,64,Moderate,16.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 07:00 PM,2023,01,05,19,20.2,68,Moderate,22.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 08:00 PM,2023,01,05,20,25.0,78,Moderate,29.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 09:00 PM,2023,01,05,21,40.7,114,Unhealthy for Sensitive Groups,56.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 10:00 PM,2023,01,05,22,62.6,155,Unhealthy,84.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-05 11:00 PM,2023,01,05,23,73.9,161,Unhealthy,85.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 12:00 AM,2023,01,06,00,72.1,160,Unhealthy,70.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 01:00 AM,2023,01,06,01,78.9,163,Unhealthy,85.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 02:00 AM,2023,01,06,02,66.2,157,Unhealthy,53.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 03:00 AM,2023,01,06,03,53.5,145,Unhealthy for Sensitive Groups,40.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 04:00 AM,2023,01,06,04,47.6,131,Unhealthy for Sensitive Groups,41.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 05:00 AM,2023,01,06,05,43.4,120,Unhealthy for Sensitive Groups,39.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 06:00 AM,2023,01,06,06,37.4,106,Unhealthy for Sensitive Groups,31.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 07:00 AM,2023,01,06,07,32.6,94,Moderate,27.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 08:00 AM,2023,01,06,08,31.5,92,Moderate,30.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 09:00 AM,2023,01,06,09,31.6,92,Moderate,31.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 10:00 AM,2023,01,06,10,30.0,89,Moderate,28.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 11:00 AM,2023,01,06,11,32.0,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 12:00 PM,2023,01,06,12,29.9,88,Moderate,27.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 01:00 PM,2023,01,06,13,24.7,77,Moderate,19.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 02:00 PM,2023,01,06,14,21.3,70,Moderate,17.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 03:00 PM,2023,01,06,15,18.5,64,Moderate,15.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 04:00 PM,2023,01,06,16,17.4,62,Moderate,16.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 05:00 PM,2023,01,06,17,16.9,61,Moderate,16.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 06:00 PM,2023,01,06,18,16.2,60,Moderate,15.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 07:00 PM,2023,01,06,19,18.8,65,Moderate,21.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 08:00 PM,2023,01,06,20,22.0,72,Moderate,25.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 09:00 PM,2023,01,06,21,33.8,97,Moderate,45.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 10:00 PM,2023,01,06,22,44.1,122,Unhealthy for Sensitive Groups,54.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-06 11:00 PM,2023,01,06,23,53.4,145,Unhealthy for Sensitive Groups,62.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 12:00 AM,2023,01,07,00,64.5,156,Unhealthy,75.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 01:00 AM,2023,01,07,01,78.8,163,Unhealthy,93.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 02:00 AM,2023,01,07,02,103.4,176,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 03:00 AM,2023,01,07,03,91.5,170,Unhealthy,79.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 04:00 AM,2023,01,07,04,93.6,171,Unhealthy,95.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 05:00 AM,2023,01,07,05,76.5,162,Unhealthy,59.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 06:00 AM,2023,01,07,06,58.8,153,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 07:00 AM,2023,01,07,07,50.0,137,Unhealthy for Sensitive Groups,41.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 08:00 AM,2023,01,07,08,45.6,126,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 09:00 AM,2023,01,07,09,48.3,133,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 10:00 AM,2023,01,07,10,55.5,151,Unhealthy,62.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 11:00 AM,2023,01,07,11,56.8,152,Unhealthy,58.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 12:00 PM,2023,01,07,12,52.6,143,Unhealthy for Sensitive Groups,48.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 01:00 PM,2023,01,07,13,53.1,144,Unhealthy for Sensitive Groups,53.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 02:00 PM,2023,01,07,14,49.0,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 03:00 PM,2023,01,07,15,46.0,127,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 04:00 PM,2023,01,07,16,45.4,125,Unhealthy for Sensitive Groups,41.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 05:00 PM,2023,01,07,17,48.4,133,Unhealthy for Sensitive Groups,53.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 06:00 PM,2023,01,07,18,48.3,133,Unhealthy for Sensitive Groups,48.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 07:00 PM,2023,01,07,19,48.9,134,Unhealthy for Sensitive Groups,49.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 08:00 PM,2023,01,07,20,56.9,152,Unhealthy,68.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 09:00 PM,2023,01,07,21,77.4,162,Unhealthy,95.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 10:00 PM,2023,01,07,22,100.2,174,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-07 11:00 PM,2023,01,07,23,112.8,181,Unhealthy,125.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 12:00 AM,2023,01,08,00,116.5,182,Unhealthy,120.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 01:00 AM,2023,01,08,01,105.2,177,Unhealthy,93.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 02:00 AM,2023,01,08,02,122.8,186,Unhealthy,140.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 03:00 AM,2023,01,08,03,102.9,175,Unhealthy,83.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 04:00 AM,2023,01,08,04,93.6,171,Unhealthy,84.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 05:00 AM,2023,01,08,05,84.3,166,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 06:00 AM,2023,01,08,06,77.0,162,Unhealthy,69.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 07:00 AM,2023,01,08,07,69.9,158,Unhealthy,62.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 08:00 AM,2023,01,08,08,67.2,157,Unhealthy,64.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 09:00 AM,2023,01,08,09,68.5,158,Unhealthy,69.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 10:00 AM,2023,01,08,10,72.8,160,Unhealthy,77.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 11:00 AM,2023,01,08,11,73.7,160,Unhealthy,74.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 12:00 PM,2023,01,08,12,72.9,160,Unhealthy,72.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 01:00 PM,2023,01,08,13,59.1,153,Unhealthy,45.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 02:00 PM,2023,01,08,14,54.5,148,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 03:00 PM,2023,01,08,15,54.4,148,Unhealthy for Sensitive Groups,54.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 04:00 PM,2023,01,08,16,52.6,143,Unhealthy for Sensitive Groups,48.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 05:00 PM,2023,01,08,17,47.9,132,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 06:00 PM,2023,01,08,18,42.9,119,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 07:00 PM,2023,01,08,19,47.5,131,Unhealthy for Sensitive Groups,52.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 08:00 PM,2023,01,08,20,59.5,153,Unhealthy,71.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 09:00 PM,2023,01,08,21,66.8,157,Unhealthy,74.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 10:00 PM,2023,01,08,22,76.3,162,Unhealthy,85.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-08 11:00 PM,2023,01,08,23,81.4,164,Unhealthy,86.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 12:00 AM,2023,01,09,00,80.9,164,Unhealthy,80.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 01:00 AM,2023,01,09,01,79.6,163,Unhealthy,78.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 02:00 AM,2023,01,09,02,94.5,171,Unhealthy,109.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 03:00 AM,2023,01,09,03,101.8,175,Unhealthy,109.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 04:00 AM,2023,01,09,04,106.2,177,Unhealthy,110.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 05:00 AM,2023,01,09,05,103.4,176,Unhealthy,100.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 06:00 AM,2023,01,09,06,101.8,175,Unhealthy,100.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 07:00 AM,2023,01,09,07,98.7,173,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 08:00 AM,2023,01,09,08,97.5,173,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 09:00 AM,2023,01,09,09,99.8,174,Unhealthy,104.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 10:00 AM,2023,01,09,10,99.7,174,Unhealthy,99.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 11:00 AM,2023,01,09,11,100.1,174,Unhealthy,100.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 12:00 PM,2023,01,09,12,91.5,170,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 01:00 PM,2023,01,09,13,83.1,165,Unhealthy,70.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 02:00 PM,2023,01,09,14,74.0,161,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 03:00 PM,2023,01,09,15,66.1,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 04:00 PM,2023,01,09,16,62.6,155,Unhealthy,57.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 05:00 PM,2023,01,09,17,60.1,153,Unhealthy,57.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 06:00 PM,2023,01,09,18,60.3,153,Unhealthy,60.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 07:00 PM,2023,01,09,19,63.1,155,Unhealthy,66.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 08:00 PM,2023,01,09,20,68.1,158,Unhealthy,74.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 09:00 PM,2023,01,09,21,77.0,162,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 10:00 PM,2023,01,09,22,84.1,166,Unhealthy,93.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-09 11:00 PM,2023,01,09,23,86.6,167,Unhealthy,92.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 12:00 AM,2023,01,10,00,83.7,166,Unhealthy,79.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 01:00 AM,2023,01,10,01,78.6,163,Unhealthy,70.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 02:00 AM,2023,01,10,02,92.3,170,Unhealthy,108.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 03:00 AM,2023,01,10,03,92.9,170,Unhealthy,93.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 04:00 AM,2023,01,10,04,88.7,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 05:00 AM,2023,01,10,05,89.8,169,Unhealthy,91.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 06:00 AM,2023,01,10,06,85.2,166,Unhealthy,78.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 07:00 AM,2023,01,10,07,84.6,166,Unhealthy,82.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 08:00 AM,2023,01,10,08,83.5,165,Unhealthy,81.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 09:00 AM,2023,01,10,09,93.5,171,Unhealthy,111.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 10:00 AM,2023,01,10,10,96.0,172,Unhealthy,100.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 11:00 AM,2023,01,10,11,80.9,164,Unhealthy,60.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 12:00 PM,2023,01,10,12,59.7,153,Unhealthy,39.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 01:00 PM,2023,01,10,13,50.1,137,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 02:00 PM,2023,01,10,14,45.5,126,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 03:00 PM,2023,01,10,15,37.2,105,Unhealthy for Sensitive Groups,28.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 04:00 PM,2023,01,10,16,30.5,90,Moderate,23.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 05:00 PM,2023,01,10,17,29.1,87,Moderate,27.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 06:00 PM,2023,01,10,18,29.4,87,Moderate,29.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 07:00 PM,2023,01,10,19,35.3,100,Moderate,41.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 08:00 PM,2023,01,10,20,46.9,129,Unhealthy for Sensitive Groups,58.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 09:00 PM,2023,01,10,21,52.4,143,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 10:00 PM,2023,01,10,22,61.4,154,Unhealthy,70.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-10 11:00 PM,2023,01,10,23,68.8,158,Unhealthy,76.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 12:00 AM,2023,01,11,00,71.6,159,Unhealthy,74.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 01:00 AM,2023,01,11,01,79.3,163,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 02:00 AM,2023,01,11,02,86.6,167,Unhealthy,93.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 03:00 AM,2023,01,11,03,87.6,168,Unhealthy,88.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 04:00 AM,2023,01,11,04,86.5,167,Unhealthy,85.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 05:00 AM,2023,01,11,05,84.2,166,Unhealthy,81.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 06:00 AM,2023,01,11,06,81.6,164,Unhealthy,78.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 07:00 AM,2023,01,11,07,81.4,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 08:00 AM,2023,01,11,08,82.4,165,Unhealthy,84.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 09:00 AM,2023,01,11,09,76.2,162,Unhealthy,63.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 10:00 AM,2023,01,11,10,59.8,153,Unhealthy,46.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 11:00 AM,2023,01,11,11,51.8,141,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 12:00 PM,2023,01,11,12,51.6,141,Unhealthy for Sensitive Groups,51.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 01:00 PM,2023,01,11,13,37.8,107,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 02:00 PM,2023,01,11,14,29.8,88,Moderate,21.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 03:00 PM,2023,01,11,15,27.2,83,Moderate,24.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 04:00 PM,2023,01,11,16,26.4,81,Moderate,25.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 05:00 PM,2023,01,11,17,25.5,79,Moderate,24.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 06:00 PM,2023,01,11,18,24.4,77,Moderate,23.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 07:00 PM,2023,01,11,19,27.4,83,Moderate,30.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 08:00 PM,2023,01,11,20,28.6,86,Moderate,29.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 09:00 PM,2023,01,11,21,34.2,97,Moderate,39.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 10:00 PM,2023,01,11,22,37.3,105,Unhealthy for Sensitive Groups,40.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-11 11:00 PM,2023,01,11,23,35.5,101,Unhealthy for Sensitive Groups,33.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 12:00 AM,2023,01,12,00,34.6,98,Moderate,33.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 01:00 AM,2023,01,12,01,41.5,116,Unhealthy for Sensitive Groups,48.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 02:00 AM,2023,01,12,02,44.4,123,Unhealthy for Sensitive Groups,47.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 03:00 AM,2023,01,12,03,44.1,122,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 04:00 AM,2023,01,12,04,46.4,128,Unhealthy for Sensitive Groups,48.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 05:00 AM,2023,01,12,05,48.0,132,Unhealthy for Sensitive Groups,49.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 06:00 AM,2023,01,12,06,47.3,130,Unhealthy for Sensitive Groups,47.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 07:00 AM,2023,01,12,07,49.2,135,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 08:00 AM,2023,01,12,08,55.1,149,Unhealthy for Sensitive Groups,61.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 09:00 AM,2023,01,12,09,64.8,156,Unhealthy,73.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 10:00 AM,2023,01,12,10,69.1,158,Unhealthy,73.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 11:00 AM,2023,01,12,11,68.4,158,Unhealthy,67.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 12:00 PM,2023,01,12,12,62.4,155,Unhealthy,55.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 01:00 PM,2023,01,12,13,59.7,153,Unhealthy,55.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 02:00 PM,2023,01,12,14,50.7,138,Unhealthy for Sensitive Groups,40.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 03:00 PM,2023,01,12,15,40.6,114,Unhealthy for Sensitive Groups,31.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 04:00 PM,2023,01,12,16,33.5,96,Moderate,26.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 05:00 PM,2023,01,12,17,32.0,93,Moderate,30.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 06:00 PM,2023,01,12,18,33.7,96,Moderate,35.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 07:00 PM,2023,01,12,19,38.4,108,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 08:00 PM,2023,01,12,20,45.2,125,Unhealthy for Sensitive Groups,51.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 09:00 PM,2023,01,12,21,51.6,141,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 10:00 PM,2023,01,12,22,56.0,151,Unhealthy,60.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-12 11:00 PM,2023,01,12,23,64.5,156,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 12:00 AM,2023,01,13,00,68.5,158,Unhealthy,72.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 01:00 AM,2023,01,13,01,76.1,162,Unhealthy,83.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 02:00 AM,2023,01,13,02,98.3,173,Unhealthy,120.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 03:00 AM,2023,01,13,03,98.6,173,Unhealthy,98.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 04:00 AM,2023,01,13,04,94.0,171,Unhealthy,89.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 05:00 AM,2023,01,13,05,87.9,168,Unhealthy,81.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 06:00 AM,2023,01,13,06,82.2,165,Unhealthy,76.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 07:00 AM,2023,01,13,07,79.0,163,Unhealthy,75.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 08:00 AM,2023,01,13,08,77.3,162,Unhealthy,75.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 09:00 AM,2023,01,13,09,76.5,162,Unhealthy,75.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 10:00 AM,2023,01,13,10,76.2,162,Unhealthy,74.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 11:00 AM,2023,01,13,11,76.6,162,Unhealthy,77.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 12:00 PM,2023,01,13,12,67.3,157,Unhealthy,58.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 01:00 PM,2023,01,13,13,60.6,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 02:00 PM,2023,01,13,14,51.1,139,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 03:00 PM,2023,01,13,15,50.6,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 04:00 PM,2023,01,13,16,54.6,148,Unhealthy for Sensitive Groups,58.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 05:00 PM,2023,01,13,17,55.1,149,Unhealthy for Sensitive Groups,55.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 06:00 PM,2023,01,13,18,55.4,150,Unhealthy for Sensitive Groups,55.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 07:00 PM,2023,01,13,19,59.6,153,Unhealthy,64.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 08:00 PM,2023,01,13,20,61.5,154,Unhealthy,63.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 09:00 PM,2023,01,13,21,69.2,158,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 10:00 PM,2023,01,13,22,84.2,166,Unhealthy,98.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-13 11:00 PM,2023,01,13,23,96.8,172,Unhealthy,109.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 12:00 AM,2023,01,14,00,99.8,174,Unhealthy,102.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 01:00 AM,2023,01,14,01,102.9,175,Unhealthy,105.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 02:00 AM,2023,01,14,02,105.3,177,Unhealthy,107.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 03:00 AM,2023,01,14,03,100.7,174,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 04:00 AM,2023,01,14,04,107.5,178,Unhealthy,114.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 05:00 AM,2023,01,14,05,108.4,178,Unhealthy,109.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 06:00 AM,2023,01,14,06,106.1,177,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 07:00 AM,2023,01,14,07,101.1,175,Unhealthy,94.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 08:00 AM,2023,01,14,08,99.1,174,Unhealthy,92.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 09:00 AM,2023,01,14,09,99.5,174,Unhealthy,93.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 10:00 AM,2023,01,14,10,90.3,169,Unhealthy,76.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 11:00 AM,2023,01,14,11,72.5,160,Unhealthy,58.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 12:00 PM,2023,01,14,12,69.0,158,Unhealthy,65.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 01:00 PM,2023,01,14,13,62.7,155,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 02:00 PM,2023,01,14,14,57.7,152,Unhealthy,52.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 03:00 PM,2023,01,14,15,55.2,150,Unhealthy for Sensitive Groups,52.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 04:00 PM,2023,01,14,16,53.6,146,Unhealthy for Sensitive Groups,51.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 05:00 PM,2023,01,14,17,50.4,138,Unhealthy for Sensitive Groups,47.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 06:00 PM,2023,01,14,18,53.1,144,Unhealthy for Sensitive Groups,55.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 07:00 PM,2023,01,14,19,57.4,152,Unhealthy,61.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 08:00 PM,2023,01,14,20,59.0,153,Unhealthy,60.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 09:00 PM,2023,01,14,21,41.9,117,Unhealthy for Sensitive Groups,24.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 10:00 PM,2023,01,14,22,31.9,93,Moderate,22.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-14 11:00 PM,2023,01,14,23,31.5,92,Moderate,31.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 12:00 AM,2023,01,15,00,36.6,104,Unhealthy for Sensitive Groups,41.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 01:00 AM,2023,01,15,01,40.5,113,Unhealthy for Sensitive Groups,44.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 02:00 AM,2023,01,15,02,41.2,115,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 03:00 AM,2023,01,15,03,43.8,121,Unhealthy for Sensitive Groups,46.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 04:00 AM,2023,01,15,04,46.8,129,Unhealthy for Sensitive Groups,49.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 05:00 AM,2023,01,15,05,44.4,123,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 06:00 AM,2023,01,15,06,47.6,131,Unhealthy for Sensitive Groups,50.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 07:00 AM,2023,01,15,07,46.0,127,Unhealthy for Sensitive Groups,44.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 08:00 AM,2023,01,15,08,45.4,125,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 09:00 AM,2023,01,15,09,42.8,119,Unhealthy for Sensitive Groups,40.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 10:00 AM,2023,01,15,10,41.3,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 11:00 AM,2023,01,15,11,38.2,108,Unhealthy for Sensitive Groups,32.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 12:00 PM,2023,01,15,12,32.0,93,Moderate,26.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 01:00 PM,2023,01,15,13,28.7,86,Moderate,25.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 02:00 PM,2023,01,15,14,26.9,82,Moderate,25.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 03:00 PM,2023,01,15,15,25.2,79,Moderate,23.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 04:00 PM,2023,01,15,16,24.4,77,Moderate,23.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 05:00 PM,2023,01,15,17,21.9,72,Moderate,19.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 06:00 PM,2023,01,15,18,20.8,69,Moderate,19.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 07:00 PM,2023,01,15,19,23.4,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 08:00 PM,2023,01,15,20,28.3,85,Moderate,33.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 09:00 PM,2023,01,15,21,36.9,104,Unhealthy for Sensitive Groups,45.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 10:00 PM,2023,01,15,22,51.9,141,Unhealthy for Sensitive Groups,66.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-15 11:00 PM,2023,01,15,23,64.8,156,Unhealthy,77.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 12:00 AM,2023,01,16,00,76.3,162,Unhealthy,87.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 01:00 AM,2023,01,16,01,83.5,165,Unhealthy,90.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 02:00 AM,2023,01,16,02,80.2,164,Unhealthy,76.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 03:00 AM,2023,01,16,03,68.2,158,Unhealthy,56.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 04:00 AM,2023,01,16,04,69.1,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 05:00 AM,2023,01,16,05,69.2,158,Unhealthy,69.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 06:00 AM,2023,01,16,06,69.7,158,Unhealthy,70.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 07:00 AM,2023,01,16,07,66.8,157,Unhealthy,63.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 08:00 AM,2023,01,16,08,67.3,157,Unhealthy,67.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 09:00 AM,2023,01,16,09,69.6,158,Unhealthy,72.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 10:00 AM,2023,01,16,10,65.6,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 11:00 AM,2023,01,16,11,62.2,154,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 12:00 PM,2023,01,16,12,60.1,153,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 01:00 PM,2023,01,16,13,59.3,153,Unhealthy,54.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 02:00 PM,2023,01,16,14,57.7,152,Unhealthy,53.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 03:00 PM,2023,01,16,15,56.3,151,Unhealthy,52.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 04:00 PM,2023,01,16,16,53.1,144,Unhealthy for Sensitive Groups,48.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 05:00 PM,2023,01,16,17,50.5,138,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 06:00 PM,2023,01,16,18,50.5,138,Unhealthy for Sensitive Groups,50.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 07:00 PM,2023,01,16,19,50.8,139,Unhealthy for Sensitive Groups,51.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 08:00 PM,2023,01,16,20,53.3,145,Unhealthy for Sensitive Groups,57.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 09:00 PM,2023,01,16,21,54.0,147,Unhealthy for Sensitive Groups,58.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 10:00 PM,2023,01,16,22,50.3,137,Unhealthy for Sensitive Groups,40.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-16 11:00 PM,2023,01,16,23,48.7,134,Unhealthy for Sensitive Groups,45.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 12:00 AM,2023,01,17,00,49.1,134,Unhealthy for Sensitive Groups,50.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 01:00 AM,2023,01,17,01,51.2,140,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 02:00 AM,2023,01,17,02,60.3,153,Unhealthy,71.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 03:00 AM,2023,01,17,03,73.1,160,Unhealthy,84.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 04:00 AM,2023,01,17,04,74.0,161,Unhealthy,74.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 05:00 AM,2023,01,17,05,74.8,161,Unhealthy,75.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 06:00 AM,2023,01,17,06,75.0,161,Unhealthy,75.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 07:00 AM,2023,01,17,07,77.0,162,Unhealthy,78.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 08:00 AM,2023,01,17,08,78.1,163,Unhealthy,79.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 09:00 AM,2023,01,17,09,79.7,163,Unhealthy,81.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 10:00 AM,2023,01,17,10,78.8,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 11:00 AM,2023,01,17,11,76.3,162,Unhealthy,72.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 12:00 PM,2023,01,17,12,76.6,162,Unhealthy,76.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 01:00 PM,2023,01,17,13,78.2,163,Unhealthy,83.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 02:00 PM,2023,01,17,14,78.8,163,Unhealthy,81.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 03:00 PM,2023,01,17,15,76.7,162,Unhealthy,68.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 04:00 PM,2023,01,17,16,69.2,158,Unhealthy,55.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 05:00 PM,2023,01,17,17,64.5,156,Unhealthy,55.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 06:00 PM,2023,01,17,18,59.6,153,Unhealthy,52.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 07:00 PM,2023,01,17,19,58.0,152,Unhealthy,55.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 08:00 PM,2023,01,17,20,62.9,155,Unhealthy,71.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 09:00 PM,2023,01,17,21,75.5,161,Unhealthy,92.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 10:00 PM,2023,01,17,22,84.9,166,Unhealthy,95.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-17 11:00 PM,2023,01,17,23,94.3,171,Unhealthy,102.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 12:00 AM,2023,01,18,00,108.7,178,Unhealthy,122.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 01:00 AM,2023,01,18,01,114.9,182,Unhealthy,121.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 02:00 AM,2023,01,18,02,115.2,182,Unhealthy,115.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 03:00 AM,2023,01,18,03,111.0,180,Unhealthy,106.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 04:00 AM,2023,01,18,04,107.9,178,Unhealthy,104.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 05:00 AM,2023,01,18,05,109.4,179,Unhealthy,110.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 06:00 AM,2023,01,18,06,106.6,177,Unhealthy,103.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 07:00 AM,2023,01,18,07,105.7,177,Unhealthy,103.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 08:00 AM,2023,01,18,08,106.4,177,Unhealthy,104.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 09:00 AM,2023,01,18,09,105.6,177,Unhealthy,101.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 10:00 AM,2023,01,18,10,102.5,175,Unhealthy,93.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 11:00 AM,2023,01,18,11,95.0,171,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 12:00 PM,2023,01,18,12,75.4,161,Unhealthy,60.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 01:00 PM,2023,01,18,13,71.7,159,Unhealthy,66.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 02:00 PM,2023,01,18,14,64.8,156,Unhealthy,57.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 03:00 PM,2023,01,18,15,61.1,154,Unhealthy,57.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 04:00 PM,2023,01,18,16,58.9,153,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 05:00 PM,2023,01,18,17,55.0,149,Unhealthy for Sensitive Groups,51.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 06:00 PM,2023,01,18,18,50.0,137,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 07:00 PM,2023,01,18,19,47.2,130,Unhealthy for Sensitive Groups,44.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 08:00 PM,2023,01,18,20,46.5,128,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 09:00 PM,2023,01,18,21,49.3,135,Unhealthy for Sensitive Groups,52.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 10:00 PM,2023,01,18,22,54.6,148,Unhealthy for Sensitive Groups,60.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-18 11:00 PM,2023,01,18,23,58.9,153,Unhealthy,68.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 12:00 AM,2023,01,19,00,57.9,152,Unhealthy,56.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 01:00 AM,2023,01,19,01,67.1,157,Unhealthy,78.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 02:00 AM,2023,01,19,02,82.5,165,Unhealthy,96.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 03:00 AM,2023,01,19,03,83.3,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 04:00 AM,2023,01,19,04,83.2,165,Unhealthy,83.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 05:00 AM,2023,01,19,05,80.7,164,Unhealthy,78.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 06:00 AM,2023,01,19,06,83.1,165,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 07:00 AM,2023,01,19,07,83.1,165,Unhealthy,83.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 08:00 AM,2023,01,19,08,88.2,168,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 09:00 AM,2023,01,19,09,91.1,169,Unhealthy,95.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 10:00 AM,2023,01,19,10,92.1,170,Unhealthy,93.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 11:00 AM,2023,01,19,11,87.1,167,Unhealthy,80.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 12:00 PM,2023,01,19,12,72.3,160,Unhealthy,53.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 01:00 PM,2023,01,19,13,58.5,153,Unhealthy,46.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 02:00 PM,2023,01,19,14,51.9,141,Unhealthy for Sensitive Groups,45.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 03:00 PM,2023,01,19,15,48.7,134,Unhealthy for Sensitive Groups,45.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 04:00 PM,2023,01,19,16,43.7,121,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 05:00 PM,2023,01,19,17,40.7,114,Unhealthy for Sensitive Groups,37.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 06:00 PM,2023,01,19,18,41.7,116,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 07:00 PM,2023,01,19,19,44.7,124,Unhealthy for Sensitive Groups,47.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 08:00 PM,2023,01,19,20,51.7,141,Unhealthy for Sensitive Groups,58.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 09:00 PM,2023,01,19,21,48.3,133,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 10:00 PM,2023,01,19,22,46.0,127,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-19 11:00 PM,2023,01,19,23,77.5,162,Unhealthy,108.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 12:00 AM,2023,01,20,00,100.2,174,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 01:00 AM,2023,01,20,01,103.1,176,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 02:00 AM,2023,01,20,02,98.4,173,Unhealthy,93.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 03:00 AM,2023,01,20,03,82.6,165,Unhealthy,66.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 04:00 AM,2023,01,20,04,83.2,165,Unhealthy,83.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 05:00 AM,2023,01,20,05,81.3,164,Unhealthy,79.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 06:00 AM,2023,01,20,06,80.1,164,Unhealthy,78.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 07:00 AM,2023,01,20,07,75.4,161,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 08:00 AM,2023,01,20,08,74.0,161,Unhealthy,72.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 09:00 AM,2023,01,20,09,69.0,158,Unhealthy,63.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 10:00 AM,2023,01,20,10,62.9,155,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 11:00 AM,2023,01,20,11,49.9,136,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 12:00 PM,2023,01,20,12,44.9,124,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 01:00 PM,2023,01,20,13,40.3,113,Unhealthy for Sensitive Groups,35.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 02:00 PM,2023,01,20,14,40.0,112,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 03:00 PM,2023,01,20,15,42.0,117,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 04:00 PM,2023,01,20,16,42.3,118,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 05:00 PM,2023,01,20,17,44.4,123,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 06:00 PM,2023,01,20,18,44.1,122,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 07:00 PM,2023,01,20,19,45.8,126,Unhealthy for Sensitive Groups,47.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 08:00 PM,2023,01,20,20,53.3,145,Unhealthy for Sensitive Groups,63.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 09:00 PM,2023,01,20,21,64.9,156,Unhealthy,75.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 10:00 PM,2023,01,20,22,69.1,158,Unhealthy,73.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-20 11:00 PM,2023,01,20,23,80.3,164,Unhealthy,91.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 12:00 AM,2023,01,21,00,84.7,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 01:00 AM,2023,01,21,01,87.3,167,Unhealthy,89.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 02:00 AM,2023,01,21,02,91.1,169,Unhealthy,94.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 03:00 AM,2023,01,21,03,90.0,169,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 04:00 AM,2023,01,21,04,90.7,169,Unhealthy,91.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 05:00 AM,2023,01,21,05,85.5,166,Unhealthy,80.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 06:00 AM,2023,01,21,06,87.9,168,Unhealthy,90.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 07:00 AM,2023,01,21,07,89.0,168,Unhealthy,91.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 08:00 AM,2023,01,21,08,91.8,170,Unhealthy,99.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 09:00 AM,2023,01,21,09,92.1,170,Unhealthy,92.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 10:00 AM,2023,01,21,10,92.7,170,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 11:00 AM,2023,01,21,11,90.6,169,Unhealthy,82.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 12:00 PM,2023,01,21,12,84.9,166,Unhealthy,71.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 01:00 PM,2023,01,21,13,74.4,161,Unhealthy,61.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 02:00 PM,2023,01,21,14,66.8,157,Unhealthy,57.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 03:00 PM,2023,01,21,15,60.6,154,Unhealthy,54.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 04:00 PM,2023,01,21,16,50.4,138,Unhealthy for Sensitive Groups,41.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 05:00 PM,2023,01,21,17,44.4,123,Unhealthy for Sensitive Groups,38.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 06:00 PM,2023,01,21,18,45.6,126,Unhealthy for Sensitive Groups,46.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 07:00 PM,2023,01,21,19,45.1,125,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 08:00 PM,2023,01,21,20,47.8,131,Unhealthy for Sensitive Groups,50.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 09:00 PM,2023,01,21,21,48.7,134,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 10:00 PM,2023,01,21,22,46.7,129,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-21 11:00 PM,2023,01,21,23,41.3,115,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 12:00 AM,2023,01,22,00,39.1,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 01:00 AM,2023,01,22,01,39.5,111,Unhealthy for Sensitive Groups,39.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 02:00 AM,2023,01,22,02,43.2,120,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 03:00 AM,2023,01,22,03,45.3,125,Unhealthy for Sensitive Groups,50.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 04:00 AM,2023,01,22,04,45.1,125,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 05:00 AM,2023,01,22,05,45.7,126,Unhealthy for Sensitive Groups,46.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 06:00 AM,2023,01,22,06,46.1,127,Unhealthy for Sensitive Groups,47.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 07:00 AM,2023,01,22,07,47.7,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 08:00 AM,2023,01,22,08,52.4,143,Unhealthy for Sensitive Groups,58.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 09:00 AM,2023,01,22,09,54.0,147,Unhealthy for Sensitive Groups,56.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 10:00 AM,2023,01,22,10,55.1,149,Unhealthy for Sensitive Groups,56.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 11:00 AM,2023,01,22,11,57.3,152,Unhealthy,60.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 12:00 PM,2023,01,22,12,55.8,151,Unhealthy,54.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 01:00 PM,2023,01,22,13,50.1,137,Unhealthy for Sensitive Groups,39.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 02:00 PM,2023,01,22,14,45.3,125,Unhealthy for Sensitive Groups,37.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 03:00 PM,2023,01,22,15,44.2,122,Unhealthy for Sensitive Groups,42.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 04:00 PM,2023,01,22,16,45.3,125,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 05:00 PM,2023,01,22,17,45.3,125,Unhealthy for Sensitive Groups,45.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 06:00 PM,2023,01,22,18,39.0,110,Unhealthy for Sensitive Groups,32.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 07:00 PM,2023,01,22,19,39.2,110,Unhealthy for Sensitive Groups,39.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 08:00 PM,2023,01,22,20,44.2,122,Unhealthy for Sensitive Groups,49.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 09:00 PM,2023,01,22,21,50.2,137,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 10:00 PM,2023,01,22,22,55.7,151,Unhealthy,61.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-22 11:00 PM,2023,01,22,23,53.3,145,Unhealthy for Sensitive Groups,50.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 12:00 AM,2023,01,23,00,65.4,156,Unhealthy,77.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 01:00 AM,2023,01,23,01,85.9,167,Unhealthy,106.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 02:00 AM,2023,01,23,02,82.5,165,Unhealthy,79.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 03:00 AM,2023,01,23,03,82.3,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 04:00 AM,2023,01,23,04,83.7,166,Unhealthy,85.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 05:00 AM,2023,01,23,05,82.2,165,Unhealthy,80.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 06:00 AM,2023,01,23,06,79.8,164,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 07:00 AM,2023,01,23,07,78.6,163,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 08:00 AM,2023,01,23,08,77.9,163,Unhealthy,77.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 09:00 AM,2023,01,23,09,76.3,162,Unhealthy,74.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 10:00 AM,2023,01,23,10,76.0,162,Unhealthy,75.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 11:00 AM,2023,01,23,11,76.8,162,Unhealthy,75.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 12:00 PM,2023,01,23,12,75.5,161,Unhealthy,72.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 01:00 PM,2023,01,23,13,75.0,161,Unhealthy,69.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 02:00 PM,2023,01,23,14,71.2,159,Unhealthy,63.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 03:00 PM,2023,01,23,15,67.5,157,Unhealthy,60.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 04:00 PM,2023,01,23,16,61.2,154,Unhealthy,52.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 05:00 PM,2023,01,23,17,53.2,145,Unhealthy for Sensitive Groups,44.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 06:00 PM,2023,01,23,18,48.4,133,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 07:00 PM,2023,01,23,19,46.9,129,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 08:00 PM,2023,01,23,20,52.9,144,Unhealthy for Sensitive Groups,60.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 09:00 PM,2023,01,23,21,67.0,157,Unhealthy,82.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 10:00 PM,2023,01,23,22,80.9,164,Unhealthy,93.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-23 11:00 PM,2023,01,23,23,92.2,170,Unhealthy,103.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 12:00 AM,2023,01,24,00,110.0,179,Unhealthy,127.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 01:00 AM,2023,01,24,01,110.1,179,Unhealthy,110.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 02:00 AM,2023,01,24,02,106.6,177,Unhealthy,103.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 03:00 AM,2023,01,24,03,99.7,174,Unhealthy,92.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 04:00 AM,2023,01,24,04,100.1,174,Unhealthy,100.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 05:00 AM,2023,01,24,05,97.4,173,Unhealthy,94.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 06:00 AM,2023,01,24,06,90.8,169,Unhealthy,84.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 07:00 AM,2023,01,24,07,90.8,169,Unhealthy,90.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 08:00 AM,2023,01,24,08,96.1,172,Unhealthy,102.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 09:00 AM,2023,01,24,09,99.2,174,Unhealthy,105.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 10:00 AM,2023,01,24,10,73.9,161,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 11:00 AM,2023,01,24,11,50.0,137,Unhealthy for Sensitive Groups,26.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 12:00 PM,2023,01,24,12,41.0,115,Unhealthy for Sensitive Groups,31.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 01:00 PM,2023,01,24,13,36.6,104,Unhealthy for Sensitive Groups,32.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 02:00 PM,2023,01,24,14,37.8,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 03:00 PM,2023,01,24,15,38.9,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 04:00 PM,2023,01,24,16,37.1,105,Unhealthy for Sensitive Groups,35.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 05:00 PM,2023,01,24,17,36.0,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 06:00 PM,2023,01,24,18,36.7,104,Unhealthy for Sensitive Groups,37.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 07:00 PM,2023,01,24,19,41.9,117,Unhealthy for Sensitive Groups,47.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 08:00 PM,2023,01,24,20,46.5,128,Unhealthy for Sensitive Groups,51.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 09:00 PM,2023,01,24,21,57.5,152,Unhealthy,68.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 10:00 PM,2023,01,24,22,72.7,160,Unhealthy,87.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-24 11:00 PM,2023,01,24,23,82.5,165,Unhealthy,92.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 12:00 AM,2023,01,25,00,83.6,166,Unhealthy,84.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 01:00 AM,2023,01,25,01,93.9,171,Unhealthy,104.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 02:00 AM,2023,01,25,02,99.2,174,Unhealthy,104.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 03:00 AM,2023,01,25,03,89.1,168,Unhealthy,79.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 04:00 AM,2023,01,25,04,85.3,166,Unhealthy,81.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 05:00 AM,2023,01,25,05,81.1,164,Unhealthy,76.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 06:00 AM,2023,01,25,06,81.9,165,Unhealthy,82.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 07:00 AM,2023,01,25,07,80.2,164,Unhealthy,78.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 08:00 AM,2023,01,25,08,78.5,163,Unhealthy,72.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 09:00 AM,2023,01,25,09,76.1,162,Unhealthy,70.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 10:00 AM,2023,01,25,10,79.3,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 11:00 AM,2023,01,25,11,80.3,164,Unhealthy,82.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 12:00 PM,2023,01,25,12,71.2,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 01:00 PM,2023,01,25,13,59.4,153,Unhealthy,48.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 02:00 PM,2023,01,25,14,55.7,151,Unhealthy,48.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 03:00 PM,2023,01,25,15,48.3,133,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 04:00 PM,2023,01,25,16,43.8,121,Unhealthy for Sensitive Groups,39.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 05:00 PM,2023,01,25,17,43.4,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 06:00 PM,2023,01,25,18,44.3,123,Unhealthy for Sensitive Groups,45.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 07:00 PM,2023,01,25,19,47.9,132,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 08:00 PM,2023,01,25,20,52.6,143,Unhealthy for Sensitive Groups,57.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 09:00 PM,2023,01,25,21,57.8,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 10:00 PM,2023,01,25,22,77.3,162,Unhealthy,96.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-25 11:00 PM,2023,01,25,23,87.0,167,Unhealthy,96.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 12:00 AM,2023,01,26,00,103.2,176,Unhealthy,119.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 01:00 AM,2023,01,26,01,111.1,180,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 02:00 AM,2023,01,26,02,111.7,180,Unhealthy,112.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 03:00 AM,2023,01,26,03,102.5,175,Unhealthy,93.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 04:00 AM,2023,01,26,04,93.1,170,Unhealthy,83.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 05:00 AM,2023,01,26,05,85.8,167,Unhealthy,78.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 06:00 AM,2023,01,26,06,82.2,165,Unhealthy,78.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 07:00 AM,2023,01,26,07,82.9,165,Unhealthy,83.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 08:00 AM,2023,01,26,08,83.4,165,Unhealthy,83.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 09:00 AM,2023,01,26,09,86.2,167,Unhealthy,88.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 10:00 AM,2023,01,26,10,88.1,168,Unhealthy,91.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 11:00 AM,2023,01,26,11,86.7,167,Unhealthy,84.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 12:00 PM,2023,01,26,12,79.1,163,Unhealthy,68.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 01:00 PM,2023,01,26,13,68.0,157,Unhealthy,57.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 02:00 PM,2023,01,26,14,55.4,150,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 03:00 PM,2023,01,26,15,50.5,138,Unhealthy for Sensitive Groups,45.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 04:00 PM,2023,01,26,16,48.5,133,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 05:00 PM,2023,01,26,17,46.5,128,Unhealthy for Sensitive Groups,44.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 06:00 PM,2023,01,26,18,46.9,129,Unhealthy for Sensitive Groups,47.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 07:00 PM,2023,01,26,19,47.9,132,Unhealthy for Sensitive Groups,48.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 08:00 PM,2023,01,26,20,52.5,143,Unhealthy for Sensitive Groups,57.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 09:00 PM,2023,01,26,21,69.3,158,Unhealthy,86.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 10:00 PM,2023,01,26,22,83.9,166,Unhealthy,98.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-26 11:00 PM,2023,01,26,23,91.9,170,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 12:00 AM,2023,01,27,00,90.4,169,Unhealthy,88.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 01:00 AM,2023,01,27,01,84.9,166,Unhealthy,79.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 02:00 AM,2023,01,27,02,88.7,168,Unhealthy,92.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 03:00 AM,2023,01,27,03,90.8,169,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 04:00 AM,2023,01,27,04,92.5,170,Unhealthy,94.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 05:00 AM,2023,01,27,05,90.4,169,Unhealthy,88.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 06:00 AM,2023,01,27,06,86.5,167,Unhealthy,82.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 07:00 AM,2023,01,27,07,82.9,165,Unhealthy,77.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 08:00 AM,2023,01,27,08,82.0,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 09:00 AM,2023,01,27,09,81.6,164,Unhealthy,80.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 10:00 AM,2023,01,27,10,81.4,164,Unhealthy,81.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 11:00 AM,2023,01,27,11,81.6,164,Unhealthy,81.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 12:00 PM,2023,01,27,12,66.5,157,Unhealthy,50.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 01:00 PM,2023,01,27,13,60.1,153,Unhealthy,52.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 02:00 PM,2023,01,27,14,51.1,139,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 03:00 PM,2023,01,27,15,42.8,119,Unhealthy for Sensitive Groups,34.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 04:00 PM,2023,01,27,16,36.3,103,Unhealthy for Sensitive Groups,29.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 05:00 PM,2023,01,27,17,30.6,90,Moderate,24.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 06:00 PM,2023,01,27,18,35.4,100,Moderate,40.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 07:00 PM,2023,01,27,19,42.1,117,Unhealthy for Sensitive Groups,48.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 08:00 PM,2023,01,27,20,51.8,141,Unhealthy for Sensitive Groups,61.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 09:00 PM,2023,01,27,21,63.2,155,Unhealthy,74.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 10:00 PM,2023,01,27,22,74.2,161,Unhealthy,85.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-27 11:00 PM,2023,01,27,23,81.1,164,Unhealthy,87.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 12:00 AM,2023,01,28,00,90.4,169,Unhealthy,99.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 01:00 AM,2023,01,28,01,82.4,165,Unhealthy,74.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 02:00 AM,2023,01,28,02,76.2,162,Unhealthy,69.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 03:00 AM,2023,01,28,03,66.7,157,Unhealthy,57.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 04:00 AM,2023,01,28,04,65.5,156,Unhealthy,64.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 05:00 AM,2023,01,28,05,62.3,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 06:00 AM,2023,01,28,06,63.9,155,Unhealthy,65.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 07:00 AM,2023,01,28,07,61.1,154,Unhealthy,56.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 08:00 AM,2023,01,28,08,54.9,149,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 09:00 AM,2023,01,28,09,53.9,146,Unhealthy for Sensitive Groups,52.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 10:00 AM,2023,01,28,10,54.0,147,Unhealthy for Sensitive Groups,54.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 11:00 AM,2023,01,28,11,52.8,144,Unhealthy for Sensitive Groups,51.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 12:00 PM,2023,01,28,12,47.1,130,Unhealthy for Sensitive Groups,40.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 01:00 PM,2023,01,28,13,38.3,108,Unhealthy for Sensitive Groups,30.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 02:00 PM,2023,01,28,14,33.6,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 03:00 PM,2023,01,28,15,31.1,91,Moderate,28.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 04:00 PM,2023,01,28,16,26.9,82,Moderate,22.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 05:00 PM,2023,01,28,17,23.4,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 06:00 PM,2023,01,28,18,22.0,72,Moderate,20.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 07:00 PM,2023,01,28,19,20.9,70,Moderate,19.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 08:00 PM,2023,01,28,20,21.8,71,Moderate,22.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 09:00 PM,2023,01,28,21,28.4,85,Moderate,34.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 10:00 PM,2023,01,28,22,36.1,102,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-28 11:00 PM,2023,01,28,23,50.1,137,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 12:00 AM,2023,01,29,00,55.4,150,Unhealthy for Sensitive Groups,60.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 01:00 AM,2023,01,29,01,55.0,149,Unhealthy for Sensitive Groups,54.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 02:00 AM,2023,01,29,02,48.3,133,Unhealthy for Sensitive Groups,41.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 03:00 AM,2023,01,29,03,39.0,110,Unhealthy for Sensitive Groups,29.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 04:00 AM,2023,01,29,04,35.5,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 05:00 AM,2023,01,29,05,35.0,99,Moderate,34.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 06:00 AM,2023,01,29,06,33.5,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 07:00 AM,2023,01,29,07,33.7,96,Moderate,33.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 08:00 AM,2023,01,29,08,37.5,106,Unhealthy for Sensitive Groups,41.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 09:00 AM,2023,01,29,09,41.8,117,Unhealthy for Sensitive Groups,46.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 10:00 AM,2023,01,29,10,43.0,119,Unhealthy for Sensitive Groups,44.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 11:00 AM,2023,01,29,11,46.2,127,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 12:00 PM,2023,01,29,12,45.2,125,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 01:00 PM,2023,01,29,13,43.3,120,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 02:00 PM,2023,01,29,14,31.3,91,Moderate,19.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 03:00 PM,2023,01,29,15,28.4,85,Moderate,25.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 04:00 PM,2023,01,29,16,23.8,76,Moderate,19.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 05:00 PM,2023,01,29,17,19.5,67,Moderate,15.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 06:00 PM,2023,01,29,18,17.9,63,Moderate,16.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 07:00 PM,2023,01,29,19,19.0,66,Moderate,20.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 08:00 PM,2023,01,29,20,23.9,76,Moderate,28.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 09:00 PM,2023,01,29,21,31.0,91,Moderate,38.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 10:00 PM,2023,01,29,22,37.7,106,Unhealthy for Sensitive Groups,44.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-29 11:00 PM,2023,01,29,23,43.8,121,Unhealthy for Sensitive Groups,49.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 12:00 AM,2023,01,30,00,42.2,117,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 01:00 AM,2023,01,30,01,45.8,126,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 02:00 AM,2023,01,30,02,39.7,111,Unhealthy for Sensitive Groups,33.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 03:00 AM,2023,01,30,03,44.7,124,Unhealthy for Sensitive Groups,49.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 04:00 AM,2023,01,30,04,56.3,151,Unhealthy,67.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 05:00 AM,2023,01,30,05,56.6,152,Unhealthy,56.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 06:00 AM,2023,01,30,06,48.9,134,Unhealthy for Sensitive Groups,41.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 07:00 AM,2023,01,30,07,45.5,126,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 08:00 AM,2023,01,30,08,49.2,135,Unhealthy for Sensitive Groups,52.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 09:00 AM,2023,01,30,09,53.6,146,Unhealthy for Sensitive Groups,58.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 10:00 AM,2023,01,30,10,53.7,146,Unhealthy for Sensitive Groups,53.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 11:00 AM,2023,01,30,11,56.7,152,Unhealthy,59.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 12:00 PM,2023,01,30,12,45.6,126,Unhealthy for Sensitive Groups,34.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 01:00 PM,2023,01,30,13,32.8,95,Moderate,20.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 02:00 PM,2023,01,30,14,22.7,73,Moderate,12.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 03:00 PM,2023,01,30,15,20.3,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 04:00 PM,2023,01,30,16,17.9,63,Moderate,15.4,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 05:00 PM,2023,01,30,17,18.6,65,Moderate,19.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 06:00 PM,2023,01,30,18,17.9,63,Moderate,17.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 07:00 PM,2023,01,30,19,18.8,65,Moderate,19.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 08:00 PM,2023,01,30,20,21.1,70,Moderate,23.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 09:00 PM,2023,01,30,21,28.1,85,Moderate,35.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 10:00 PM,2023,01,30,22,38.6,109,Unhealthy for Sensitive Groups,49.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-30 11:00 PM,2023,01,30,23,44.8,124,Unhealthy for Sensitive Groups,50.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 12:00 AM,2023,01,31,00,50.4,138,Unhealthy for Sensitive Groups,56.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 01:00 AM,2023,01,31,01,51.9,141,Unhealthy for Sensitive Groups,53.3,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 02:00 AM,2023,01,31,02,55.3,150,Unhealthy for Sensitive Groups,58.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 03:00 AM,2023,01,31,03,53.7,146,Unhealthy for Sensitive Groups,52.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 04:00 AM,2023,01,31,04,52.2,142,Unhealthy for Sensitive Groups,50.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 05:00 AM,2023,01,31,05,50.9,139,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 06:00 AM,2023,01,31,06,50.3,137,Unhealthy for Sensitive Groups,49.7,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 07:00 AM,2023,01,31,07,52.9,144,Unhealthy for Sensitive Groups,55.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 08:00 AM,2023,01,31,08,56.8,152,Unhealthy,62.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 09:00 AM,2023,01,31,09,57.8,152,Unhealthy,65.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 10:00 AM,2023,01,31,10,59.8,153,Unhealthy,65.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 11:00 AM,2023,01,31,11,58.3,152,Unhealthy,53.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 12:00 PM,2023,01,31,12,61.0,154,Unhealthy,67.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 01:00 PM,2023,01,31,13,60.4,154,Unhealthy,58.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 02:00 PM,2023,01,31,14,60.1,153,Unhealthy,59.1,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 03:00 PM,2023,01,31,15,47.9,132,Unhealthy for Sensitive Groups,34.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 04:00 PM,2023,01,31,16,34.6,98,Moderate,21.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 05:00 PM,2023,01,31,17,28.8,86,Moderate,22.9,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 06:00 PM,2023,01,31,18,35.1,99,Moderate,41.5,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 07:00 PM,2023,01,31,19,39.1,110,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 08:00 PM,2023,01,31,20,44.8,124,Unhealthy for Sensitive Groups,50.6,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 09:00 PM,2023,01,31,21,48.8,134,Unhealthy for Sensitive Groups,52.8,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 10:00 PM,2023,01,31,22,52.5,143,Unhealthy for Sensitive Groups,56.2,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-01-31 11:00 PM,2023,01,31,23,58.3,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kigali,PM2.5 - Principal,2023-02-01 12:00 AM,2023,02,01,00,63.4,155,Unhealthy,68.5,UG/M3,1 Hr,Valid

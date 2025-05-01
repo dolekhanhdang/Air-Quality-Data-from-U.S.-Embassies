@@ -1,0 +1,720 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+N'Djamena,PM2.5 - Principal,2024-06-01 01:00 AM,2024,06,01,01,202.5,277,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 02:00 AM,2024,06,01,02,148.7,224,Very Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 03:00 AM,2024,06,01,03,99.3,182,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 04:00 AM,2024,06,01,04,81.6,169,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 05:00 AM,2024,06,01,05,57.2,152,Unhealthy,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 06:00 AM,2024,06,01,06,47.1,130,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 07:00 AM,2024,06,01,07,48.5,133,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 08:00 AM,2024,06,01,08,52.7,143,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 09:00 AM,2024,06,01,09,50.8,139,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 10:00 AM,2024,06,01,10,49.8,136,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 11:00 AM,2024,06,01,11,182.4,257,Very Unhealthy,315.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 12:00 PM,2024,06,01,12,114.7,192,Unhealthy,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 01:00 PM,2024,06,01,13,91.8,176,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 02:00 PM,2024,06,01,14,80.9,169,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 03:00 PM,2024,06,01,15,81.4,169,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 04:00 PM,2024,06,01,16,100.2,182,Unhealthy,119.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 05:00 PM,2024,06,01,17,327.6,504,Hazardous,555.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 06:00 PM,2024,06,01,18,327.7,505,Hazardous,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2024-06-01 08:00 PM,2024,06,01,20,-999.0,-999,N/A,275.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 09:00 PM,2024,06,01,21,172.6,248,Very Unhealthy,102.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 10:00 PM,2024,06,01,22,116.0,193,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-01 11:00 PM,2024,06,01,23,92.8,177,Unhealthy,72.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 12:00 AM,2024,06,02,00,74.0,164,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 01:00 AM,2024,06,02,01,61.8,155,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 02:00 AM,2024,06,02,02,63.9,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 03:00 AM,2024,06,02,03,59.9,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 04:00 AM,2024,06,02,04,55.9,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 05:00 AM,2024,06,02,05,50.9,139,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 06:00 AM,2024,06,02,06,49.4,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 07:00 AM,2024,06,02,07,57.2,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 08:00 AM,2024,06,02,08,76.5,166,Unhealthy,96.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 09:00 AM,2024,06,02,09,90.7,176,Unhealthy,105.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 10:00 AM,2024,06,02,10,120.4,196,Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 11:00 AM,2024,06,02,11,140.7,216,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 12:00 PM,2024,06,02,12,153.3,229,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 01:00 PM,2024,06,02,13,152.6,228,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 02:00 PM,2024,06,02,14,154.8,230,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 03:00 PM,2024,06,02,15,154.4,230,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 04:00 PM,2024,06,02,16,153.2,228,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 05:00 PM,2024,06,02,17,146.1,221,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 06:00 PM,2024,06,02,18,142.5,218,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 07:00 PM,2024,06,02,19,137.9,213,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 08:00 PM,2024,06,02,20,135.1,211,Very Unhealthy,128.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 09:00 PM,2024,06,02,21,119.2,196,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 10:00 PM,2024,06,02,22,95.0,179,Unhealthy,75.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-02 11:00 PM,2024,06,02,23,82.0,170,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 12:00 AM,2024,06,03,00,69.4,161,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 01:00 AM,2024,06,03,01,60.7,155,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 02:00 AM,2024,06,03,02,52.3,142,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 03:00 AM,2024,06,03,03,49.6,136,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 04:00 AM,2024,06,03,04,43.3,120,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 05:00 AM,2024,06,03,05,37.6,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 06:00 AM,2024,06,03,06,36.8,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 07:00 AM,2024,06,03,07,42.8,119,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 08:00 AM,2024,06,03,08,45.4,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 09:00 AM,2024,06,03,09,59.2,154,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 10:00 AM,2024,06,03,10,60.6,155,Unhealthy,62.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 11:00 AM,2024,06,03,11,64.8,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 12:00 PM,2024,06,03,12,71.9,162,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 01:00 PM,2024,06,03,13,84.9,172,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 02:00 PM,2024,06,03,14,91.4,176,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 03:00 PM,2024,06,03,15,98.2,181,Unhealthy,105.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 04:00 PM,2024,06,03,16,108.6,188,Unhealthy,119.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 05:00 PM,2024,06,03,17,110.8,190,Unhealthy,113.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 06:00 PM,2024,06,03,18,115.4,193,Unhealthy,120.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 07:00 PM,2024,06,03,19,122.7,198,Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 08:00 PM,2024,06,03,20,113.3,192,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 09:00 PM,2024,06,03,21,98.6,181,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 10:00 PM,2024,06,03,22,81.3,169,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-03 11:00 PM,2024,06,03,23,83.1,170,Unhealthy,85.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 12:00 AM,2024,06,04,00,73.5,164,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 01:00 AM,2024,06,04,01,64.7,157,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 02:00 AM,2024,06,04,02,55.8,151,Unhealthy,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 03:00 AM,2024,06,04,03,48.9,134,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 04:00 AM,2024,06,04,04,43.4,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 05:00 AM,2024,06,04,05,41.2,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 06:00 AM,2024,06,04,06,40.6,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 07:00 AM,2024,06,04,07,46.2,127,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 08:00 AM,2024,06,04,08,55.1,149,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 09:00 AM,2024,06,04,09,49.5,135,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 10:00 AM,2024,06,04,10,46.2,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 11:00 AM,2024,06,04,11,47.2,130,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 12:00 PM,2024,06,04,12,48.3,133,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 01:00 PM,2024,06,04,13,57.0,152,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 02:00 PM,2024,06,04,14,72.1,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 03:00 PM,2024,06,04,15,83.5,171,Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 04:00 PM,2024,06,04,16,88.2,174,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 05:00 PM,2024,06,04,17,103.6,185,Unhealthy,119.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 06:00 PM,2024,06,04,18,116.8,194,Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 07:00 PM,2024,06,04,19,113.4,192,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 08:00 PM,2024,06,04,20,96.2,180,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 09:00 PM,2024,06,04,21,84.6,171,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 10:00 PM,2024,06,04,22,70.3,161,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-04 11:00 PM,2024,06,04,23,61.6,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 12:00 AM,2024,06,05,00,54.8,149,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 01:00 AM,2024,06,05,01,55.9,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 02:00 AM,2024,06,05,02,47.4,130,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 03:00 AM,2024,06,05,03,38.2,108,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 04:00 AM,2024,06,05,04,34.1,98,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 05:00 AM,2024,06,05,05,33.5,96,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 06:00 AM,2024,06,05,06,36.2,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 07:00 AM,2024,06,05,07,39.1,110,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 08:00 AM,2024,06,05,08,46.5,128,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 09:00 AM,2024,06,05,09,56.2,151,Unhealthy,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 10:00 AM,2024,06,05,10,60.6,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 11:00 AM,2024,06,05,11,62.3,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 12:00 PM,2024,06,05,12,58.1,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 01:00 PM,2024,06,05,13,58.0,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 02:00 PM,2024,06,05,14,57.5,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 03:00 PM,2024,06,05,15,57.2,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 04:00 PM,2024,06,05,16,58.6,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 05:00 PM,2024,06,05,17,59.1,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 06:00 PM,2024,06,05,18,95.6,179,Unhealthy,132.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 07:00 PM,2024,06,05,19,121.3,197,Unhealthy,147.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 08:00 PM,2024,06,05,20,116.1,193,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 09:00 PM,2024,06,05,21,103.5,185,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 10:00 PM,2024,06,05,22,81.2,169,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-05 11:00 PM,2024,06,05,23,64.1,157,Unhealthy,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 12:00 AM,2024,06,06,00,50.5,138,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 01:00 AM,2024,06,06,01,40.7,114,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 02:00 AM,2024,06,06,02,35.3,100,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 03:00 AM,2024,06,06,03,30.6,91,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 04:00 AM,2024,06,06,04,30.8,91,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 05:00 AM,2024,06,06,05,31.4,93,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 06:00 AM,2024,06,06,06,31.1,92,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 07:00 AM,2024,06,06,07,35.0,99,Moderate,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 08:00 AM,2024,06,06,08,39.5,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 09:00 AM,2024,06,06,09,43.7,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 10:00 AM,2024,06,06,10,43.5,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 11:00 AM,2024,06,06,11,77.9,167,Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 12:00 PM,2024,06,06,12,70.9,162,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 01:00 PM,2024,06,06,13,59.4,154,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 02:00 PM,2024,06,06,14,101.2,183,Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 03:00 PM,2024,06,06,15,136.1,212,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 04:00 PM,2024,06,06,16,139.0,214,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 05:00 PM,2024,06,06,17,143.0,218,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 06:00 PM,2024,06,06,18,135.5,211,Very Unhealthy,128.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 07:00 PM,2024,06,06,19,133.2,209,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 08:00 PM,2024,06,06,20,111.6,190,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 09:00 PM,2024,06,06,21,87.3,173,Unhealthy,63.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 10:00 PM,2024,06,06,22,72.1,163,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-06 11:00 PM,2024,06,06,23,64.5,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 12:00 AM,2024,06,07,00,61.2,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 01:00 AM,2024,06,07,01,51.6,141,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 02:00 AM,2024,06,07,02,47.8,131,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 03:00 AM,2024,06,07,03,46.8,129,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 04:00 AM,2024,06,07,04,38.4,108,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 05:00 AM,2024,06,07,05,38.2,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 06:00 AM,2024,06,07,06,36.5,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 07:00 AM,2024,06,07,07,39.7,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 08:00 AM,2024,06,07,08,45.3,125,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 09:00 AM,2024,06,07,09,50.8,139,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 10:00 AM,2024,06,07,10,54.9,149,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 11:00 AM,2024,06,07,11,60.0,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 12:00 PM,2024,06,07,12,65.5,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 01:00 PM,2024,06,07,13,75.2,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 02:00 PM,2024,06,07,14,84.1,171,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 03:00 PM,2024,06,07,15,87.5,173,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 04:00 PM,2024,06,07,16,208.8,284,Very Unhealthy,330.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 05:00 PM,2024,06,07,17,182.9,258,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 06:00 PM,2024,06,07,18,154.4,230,Very Unhealthy,126.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 07:00 PM,2024,06,07,19,116.2,194,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 08:00 PM,2024,06,07,20,83.1,170,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 09:00 PM,2024,06,07,21,63.0,156,Unhealthy,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 10:00 PM,2024,06,07,22,56.5,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-07 11:00 PM,2024,06,07,23,49.7,136,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 12:00 AM,2024,06,08,00,40.8,114,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 01:00 AM,2024,06,08,01,34.4,98,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 02:00 AM,2024,06,08,02,33.7,97,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 03:00 AM,2024,06,08,03,31.3,92,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 04:00 AM,2024,06,08,04,27.1,85,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 05:00 AM,2024,06,08,05,29.5,89,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 06:00 AM,2024,06,08,06,34.7,99,Moderate,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 07:00 AM,2024,06,08,07,48.8,134,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 08:00 AM,2024,06,08,08,52.4,143,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 09:00 AM,2024,06,08,09,53.7,146,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 10:00 AM,2024,06,08,10,59.3,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 11:00 AM,2024,06,08,11,63.1,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 12:00 PM,2024,06,08,12,62.5,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 01:00 PM,2024,06,08,13,65.3,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 02:00 PM,2024,06,08,14,68.1,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 03:00 PM,2024,06,08,15,74.0,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 04:00 PM,2024,06,08,16,74.0,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 05:00 PM,2024,06,08,17,91.0,176,Unhealthy,108.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 06:00 PM,2024,06,08,18,106.0,186,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 07:00 PM,2024,06,08,19,139.0,214,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 08:00 PM,2024,06,08,20,171.5,247,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 09:00 PM,2024,06,08,21,200.2,275,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 10:00 PM,2024,06,08,22,188.1,263,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-08 11:00 PM,2024,06,08,23,174.0,249,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 12:00 AM,2024,06,09,00,121.0,197,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 01:00 AM,2024,06,09,01,80.5,169,Unhealthy,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 02:00 AM,2024,06,09,02,53.7,146,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 03:00 AM,2024,06,09,03,45.3,125,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 04:00 AM,2024,06,09,04,38.1,107,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 05:00 AM,2024,06,09,05,35.5,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 06:00 AM,2024,06,09,06,34.2,98,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 07:00 AM,2024,06,09,07,36.1,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 08:00 AM,2024,06,09,08,36.5,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 09:00 AM,2024,06,09,09,40.7,114,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 10:00 AM,2024,06,09,10,43.8,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 11:00 AM,2024,06,09,11,48.4,133,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 12:00 PM,2024,06,09,12,53.7,146,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 01:00 PM,2024,06,09,13,65.8,158,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 02:00 PM,2024,06,09,14,79.9,168,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 03:00 PM,2024,06,09,15,91.9,177,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 04:00 PM,2024,06,09,16,99.4,182,Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 05:00 PM,2024,06,09,17,107.2,187,Unhealthy,115.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 06:00 PM,2024,06,09,18,112.1,191,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 07:00 PM,2024,06,09,19,110.0,189,Unhealthy,108.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 08:00 PM,2024,06,09,20,95.5,179,Unhealthy,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 09:00 PM,2024,06,09,21,95.7,179,Unhealthy,96.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 10:00 PM,2024,06,09,22,97.3,180,Unhealthy,99.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-09 11:00 PM,2024,06,09,23,66.6,159,Unhealthy,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 12:00 AM,2024,06,10,00,108.3,188,Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 01:00 AM,2024,06,10,01,133.1,209,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 02:00 AM,2024,06,10,02,96.5,180,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 03:00 AM,2024,06,10,03,73.7,164,Unhealthy,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 04:00 AM,2024,06,10,04,56.3,152,Unhealthy,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 05:00 AM,2024,06,10,05,40.6,114,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 06:00 AM,2024,06,10,06,39.3,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 07:00 AM,2024,06,10,07,39.1,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 08:00 AM,2024,06,10,08,37.0,105,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 09:00 AM,2024,06,10,09,40.0,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 10:00 AM,2024,06,10,10,39.0,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 11:00 AM,2024,06,10,11,42.0,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 12:00 PM,2024,06,10,12,45.4,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 01:00 PM,2024,06,10,13,44.2,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 02:00 PM,2024,06,10,14,45.6,126,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 03:00 PM,2024,06,10,15,49.8,136,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 04:00 PM,2024,06,10,16,54.9,149,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 05:00 PM,2024,06,10,17,48.7,134,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 06:00 PM,2024,06,10,18,44.2,122,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 07:00 PM,2024,06,10,19,53.5,145,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 08:00 PM,2024,06,10,20,66.5,159,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 09:00 PM,2024,06,10,21,53.2,145,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 10:00 PM,2024,06,10,22,43.6,121,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-10 11:00 PM,2024,06,10,23,43.3,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 12:00 AM,2024,06,11,00,41.1,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 01:00 AM,2024,06,11,01,40.5,113,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 02:00 AM,2024,06,11,02,38.2,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 03:00 AM,2024,06,11,03,32.1,94,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 04:00 AM,2024,06,11,04,31.0,92,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 05:00 AM,2024,06,11,05,26.0,82,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 06:00 AM,2024,06,11,06,27.5,85,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 07:00 AM,2024,06,11,07,33.2,96,Moderate,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 08:00 AM,2024,06,11,08,37.6,106,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 09:00 AM,2024,06,11,09,45.3,125,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 10:00 AM,2024,06,11,10,44.1,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 11:00 AM,2024,06,11,11,47.0,129,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 12:00 PM,2024,06,11,12,50.0,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 01:00 PM,2024,06,11,13,53.0,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 02:00 PM,2024,06,11,14,48.5,133,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 03:00 PM,2024,06,11,15,50.7,138,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 04:00 PM,2024,06,11,16,50.3,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 05:00 PM,2024,06,11,17,45.8,126,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 06:00 PM,2024,06,11,18,46.6,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 07:00 PM,2024,06,11,19,48.5,133,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 08:00 PM,2024,06,11,20,50.6,138,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 09:00 PM,2024,06,11,21,52.5,143,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 10:00 PM,2024,06,11,22,51.5,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-11 11:00 PM,2024,06,11,23,48.5,133,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 12:00 AM,2024,06,12,00,44.7,124,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 01:00 AM,2024,06,12,01,37.4,106,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 02:00 AM,2024,06,12,02,32.3,94,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 03:00 AM,2024,06,12,03,31.1,92,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 04:00 AM,2024,06,12,04,29.0,88,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 05:00 AM,2024,06,12,05,27.5,85,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 06:00 AM,2024,06,12,06,30.7,91,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 07:00 AM,2024,06,12,07,31.8,93,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 08:00 AM,2024,06,12,08,38.4,108,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 09:00 AM,2024,06,12,09,42.6,118,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 10:00 AM,2024,06,12,10,48.6,133,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 11:00 AM,2024,06,12,11,51.8,141,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 12:00 PM,2024,06,12,12,50.9,139,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 01:00 PM,2024,06,12,13,47.4,130,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 02:00 PM,2024,06,12,14,45.7,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 03:00 PM,2024,06,12,15,47.8,131,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 04:00 PM,2024,06,12,16,52.4,143,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 05:00 PM,2024,06,12,17,53.9,146,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 06:00 PM,2024,06,12,18,55.7,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 07:00 PM,2024,06,12,19,60.7,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 08:00 PM,2024,06,12,20,79.5,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 09:00 PM,2024,06,12,21,114.3,192,Unhealthy,149.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 10:00 PM,2024,06,12,22,86.6,173,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-12 11:00 PM,2024,06,12,23,77.8,167,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 12:00 AM,2024,06,13,00,83.4,171,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 01:00 AM,2024,06,13,01,77.2,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 02:00 AM,2024,06,13,02,64.6,157,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 03:00 AM,2024,06,13,03,50.3,137,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 04:00 AM,2024,06,13,04,41.1,115,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 05:00 AM,2024,06,13,05,34.5,98,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 06:00 AM,2024,06,13,06,33.2,96,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 07:00 AM,2024,06,13,07,37.1,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 08:00 AM,2024,06,13,08,42.0,117,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 09:00 AM,2024,06,13,09,45.0,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 10:00 AM,2024,06,13,10,47.0,129,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 11:00 AM,2024,06,13,11,49.0,134,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 12:00 PM,2024,06,13,12,57.4,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 01:00 PM,2024,06,13,13,69.2,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 02:00 PM,2024,06,13,14,81.6,169,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 03:00 PM,2024,06,13,15,88.8,174,Unhealthy,96.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 04:00 PM,2024,06,13,16,90.4,175,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 05:00 PM,2024,06,13,17,82.2,170,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 06:00 PM,2024,06,13,18,75.6,165,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 07:00 PM,2024,06,13,19,66.3,159,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 08:00 PM,2024,06,13,20,65.6,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 09:00 PM,2024,06,13,21,49.3,135,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 10:00 PM,2024,06,13,22,42.6,118,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-13 11:00 PM,2024,06,13,23,37.3,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 12:00 AM,2024,06,14,00,37.1,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 01:00 AM,2024,06,14,01,37.0,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 02:00 AM,2024,06,14,02,38.0,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 03:00 AM,2024,06,14,03,38.5,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 04:00 AM,2024,06,14,04,37.2,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 05:00 AM,2024,06,14,05,34.6,99,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 06:00 AM,2024,06,14,06,31.8,93,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 07:00 AM,2024,06,14,07,40.9,114,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 08:00 AM,2024,06,14,08,50.4,138,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 09:00 AM,2024,06,14,09,51.7,141,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 10:00 AM,2024,06,14,10,54.3,147,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 11:00 AM,2024,06,14,11,67.1,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 12:00 PM,2024,06,14,12,55.5,151,Unhealthy,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 01:00 PM,2024,06,14,13,56.8,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 02:00 PM,2024,06,14,14,60.4,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 03:00 PM,2024,06,14,15,65.2,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 04:00 PM,2024,06,14,16,52.1,142,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 05:00 PM,2024,06,14,17,48.0,132,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 06:00 PM,2024,06,14,18,48.5,133,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 07:00 PM,2024,06,14,19,64.2,157,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 08:00 PM,2024,06,14,20,84.6,171,Unhealthy,105.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 09:00 PM,2024,06,14,21,87.8,174,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 10:00 PM,2024,06,14,22,68.9,160,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-14 11:00 PM,2024,06,14,23,54.4,148,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 12:00 AM,2024,06,15,00,44.7,124,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 01:00 AM,2024,06,15,01,38.8,109,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 02:00 AM,2024,06,15,02,33.4,96,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 03:00 AM,2024,06,15,03,29.2,88,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 04:00 AM,2024,06,15,04,28.6,87,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 05:00 AM,2024,06,15,05,28.7,88,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 06:00 AM,2024,06,15,06,31.3,92,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 07:00 AM,2024,06,15,07,37.6,106,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 08:00 AM,2024,06,15,08,50.8,139,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 09:00 AM,2024,06,15,09,52.4,143,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 10:00 AM,2024,06,15,10,48.2,132,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 11:00 AM,2024,06,15,11,45.1,125,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 12:00 PM,2024,06,15,12,44.5,123,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 01:00 PM,2024,06,15,13,42.7,119,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 02:00 PM,2024,06,15,14,45.8,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 03:00 PM,2024,06,15,15,49.9,136,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 04:00 PM,2024,06,15,16,48.4,133,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 05:00 PM,2024,06,15,17,44.0,122,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 06:00 PM,2024,06,15,18,43.9,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 07:00 PM,2024,06,15,19,49.0,134,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 08:00 PM,2024,06,15,20,48.5,133,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 09:00 PM,2024,06,15,21,40.2,113,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 10:00 PM,2024,06,15,22,32.8,95,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-15 11:00 PM,2024,06,15,23,35.4,100,Moderate,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 12:00 AM,2024,06,16,00,30.7,91,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 01:00 AM,2024,06,16,01,23.8,78,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 02:00 AM,2024,06,16,02,25.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 03:00 AM,2024,06,16,03,22.2,75,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 04:00 AM,2024,06,16,04,19.1,70,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 05:00 AM,2024,06,16,05,18.0,68,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 06:00 AM,2024,06,16,06,19.5,70,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 07:00 AM,2024,06,16,07,17.7,67,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 08:00 AM,2024,06,16,08,30.3,90,Moderate,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 09:00 AM,2024,06,16,09,27.6,85,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 10:00 AM,2024,06,16,10,26.3,83,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 11:00 AM,2024,06,16,11,24.6,80,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 12:00 PM,2024,06,16,12,25.8,82,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 01:00 PM,2024,06,16,13,30.9,92,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 02:00 PM,2024,06,16,14,31.4,93,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 03:00 PM,2024,06,16,15,37.2,105,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 04:00 PM,2024,06,16,16,37.6,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 05:00 PM,2024,06,16,17,32.3,94,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 06:00 PM,2024,06,16,18,31.1,92,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 07:00 PM,2024,06,16,19,32.5,95,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 08:00 PM,2024,06,16,20,31.8,93,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 09:00 PM,2024,06,16,21,30.9,92,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 10:00 PM,2024,06,16,22,27.2,85,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-16 11:00 PM,2024,06,16,23,29.4,89,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 12:00 AM,2024,06,17,00,27.8,86,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 01:00 AM,2024,06,17,01,27.4,85,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 02:00 AM,2024,06,17,02,31.4,93,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 03:00 AM,2024,06,17,03,33.7,97,Moderate,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 04:00 AM,2024,06,17,04,30.2,90,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 05:00 AM,2024,06,17,05,27.7,86,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 06:00 AM,2024,06,17,06,21.9,75,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 07:00 AM,2024,06,17,07,23.9,79,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 08:00 AM,2024,06,17,08,27.9,86,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 09:00 AM,2024,06,17,09,26.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 10:00 AM,2024,06,17,10,26.4,83,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 11:00 AM,2024,06,17,11,29.7,89,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 12:00 PM,2024,06,17,12,27.8,86,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 01:00 PM,2024,06,17,13,29.9,90,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 02:00 PM,2024,06,17,14,36.4,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 03:00 PM,2024,06,17,15,35.7,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 04:00 PM,2024,06,17,16,32.8,95,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 05:00 PM,2024,06,17,17,31.4,93,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 06:00 PM,2024,06,17,18,33.0,96,Moderate,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 07:00 PM,2024,06,17,19,35.0,99,Moderate,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 08:00 PM,2024,06,17,20,41.1,115,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 09:00 PM,2024,06,17,21,43.3,120,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 10:00 PM,2024,06,17,22,45.5,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-17 11:00 PM,2024,06,17,23,47.7,131,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 12:00 AM,2024,06,18,00,43.3,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 01:00 AM,2024,06,18,01,34.8,99,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 02:00 AM,2024,06,18,02,28.7,88,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 03:00 AM,2024,06,18,03,24.8,80,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 04:00 AM,2024,06,18,04,22.9,77,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 05:00 AM,2024,06,18,05,20.4,72,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 06:00 AM,2024,06,18,06,21.2,74,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 07:00 AM,2024,06,18,07,28.1,86,Moderate,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 08:00 AM,2024,06,18,08,32.0,94,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 09:00 AM,2024,06,18,09,38.5,108,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 10:00 AM,2024,06,18,10,35.2,100,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 11:00 AM,2024,06,18,11,36.6,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 12:00 PM,2024,06,18,12,36.8,104,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 01:00 PM,2024,06,18,13,38.4,108,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 02:00 PM,2024,06,18,14,343.7,536,Hazardous,649.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 03:00 PM,2024,06,18,15,316.4,482,Hazardous,289.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 04:00 PM,2024,06,18,16,230.2,310,Hazardous,144.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 05:00 PM,2024,06,18,17,182.6,258,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 06:00 PM,2024,06,18,18,140.3,216,Very Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 07:00 PM,2024,06,18,19,116.6,194,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 08:00 PM,2024,06,18,20,92.8,177,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 09:00 PM,2024,06,18,21,78.9,167,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 10:00 PM,2024,06,18,22,84.4,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-18 11:00 PM,2024,06,18,23,70.2,161,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 12:00 AM,2024,06,19,00,62.1,156,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 01:00 AM,2024,06,19,01,57.5,152,Unhealthy,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 02:00 AM,2024,06,19,02,51.7,141,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 03:00 AM,2024,06,19,03,43.8,121,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 04:00 AM,2024,06,19,04,37.8,107,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 05:00 AM,2024,06,19,05,32.9,95,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 06:00 AM,2024,06,19,06,31.4,93,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 07:00 AM,2024,06,19,07,33.7,97,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 08:00 AM,2024,06,19,08,39.3,110,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 09:00 AM,2024,06,19,09,74.6,164,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 10:00 AM,2024,06,19,10,79.8,168,Unhealthy,85.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 11:00 AM,2024,06,19,11,82.9,170,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 12:00 PM,2024,06,19,12,77.9,167,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 01:00 PM,2024,06,19,13,75.4,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 02:00 PM,2024,06,19,14,80.2,168,Unhealthy,85.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 03:00 PM,2024,06,19,15,82.1,170,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 04:00 PM,2024,06,19,16,86.5,173,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 05:00 PM,2024,06,19,17,82.7,170,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 06:00 PM,2024,06,19,18,82.4,170,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 07:00 PM,2024,06,19,19,91.7,176,Unhealthy,101.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 08:00 PM,2024,06,19,20,88.3,174,Unhealthy,87.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 09:00 PM,2024,06,19,21,88.8,174,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 10:00 PM,2024,06,19,22,84.0,171,Unhealthy,72.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-19 11:00 PM,2024,06,19,23,65.6,158,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 12:00 AM,2024,06,20,00,52.8,144,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 01:00 AM,2024,06,20,01,44.9,124,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 02:00 AM,2024,06,20,02,39.9,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 03:00 AM,2024,06,20,03,37.4,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 04:00 AM,2024,06,20,04,32.2,94,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 05:00 AM,2024,06,20,05,31.6,93,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 06:00 AM,2024,06,20,06,35.7,101,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 07:00 AM,2024,06,20,07,47.3,130,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 08:00 AM,2024,06,20,08,53.6,146,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 09:00 AM,2024,06,20,09,57.3,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 10:00 AM,2024,06,20,10,60.6,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 11:00 AM,2024,06,20,11,113.3,192,Unhealthy,166.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 12:00 PM,2024,06,20,12,105.6,186,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 01:00 PM,2024,06,20,13,93.3,177,Unhealthy,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 02:00 PM,2024,06,20,14,104.1,185,Unhealthy,115.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 03:00 PM,2024,06,20,15,92.5,177,Unhealthy,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 04:00 PM,2024,06,20,16,82.3,170,Unhealthy,72.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 05:00 PM,2024,06,20,17,75.6,165,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 06:00 PM,2024,06,20,18,74.8,165,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 07:00 PM,2024,06,20,19,78.4,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 08:00 PM,2024,06,20,20,78.7,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 09:00 PM,2024,06,20,21,71.3,162,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 10:00 PM,2024,06,20,22,74.6,164,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-20 11:00 PM,2024,06,20,23,46.3,128,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 12:00 AM,2024,06,21,00,31.6,93,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 01:00 AM,2024,06,21,01,26.3,83,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 02:00 AM,2024,06,21,02,17.6,67,Moderate,9.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 03:00 AM,2024,06,21,03,18.3,68,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 04:00 AM,2024,06,21,04,20.1,71,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 05:00 AM,2024,06,21,05,23.5,78,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 06:00 AM,2024,06,21,06,27.2,85,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 07:00 AM,2024,06,21,07,29.6,89,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 08:00 AM,2024,06,21,08,28.3,87,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 09:00 AM,2024,06,21,09,38.1,107,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 10:00 AM,2024,06,21,10,38.5,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 11:00 AM,2024,06,21,11,49.2,135,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 12:00 PM,2024,06,21,12,49.1,134,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 01:00 PM,2024,06,21,13,40.5,113,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 02:00 PM,2024,06,21,14,35.2,100,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 03:00 PM,2024,06,21,15,41.1,115,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 04:00 PM,2024,06,21,16,35.5,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 05:00 PM,2024,06,21,17,31.7,93,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 06:00 PM,2024,06,21,18,32.3,94,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 07:00 PM,2024,06,21,19,36.1,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 08:00 PM,2024,06,21,20,37.6,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 09:00 PM,2024,06,21,21,35.2,100,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 10:00 PM,2024,06,21,22,38.6,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-21 11:00 PM,2024,06,21,23,40.2,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 12:00 AM,2024,06,22,00,33.9,97,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 01:00 AM,2024,06,22,01,25.7,82,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 02:00 AM,2024,06,22,02,22.8,77,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 03:00 AM,2024,06,22,03,20.9,73,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 04:00 AM,2024,06,22,04,19.9,71,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 05:00 AM,2024,06,22,05,18.9,69,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 06:00 AM,2024,06,22,06,20.9,73,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 07:00 AM,2024,06,22,07,23.9,79,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 08:00 AM,2024,06,22,08,25.9,82,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 09:00 AM,2024,06,22,09,26.9,84,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 10:00 AM,2024,06,22,10,25.4,81,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 11:00 AM,2024,06,22,11,24.7,80,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 12:00 PM,2024,06,22,12,26.4,83,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 01:00 PM,2024,06,22,13,27.4,85,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 02:00 PM,2024,06,22,14,49.4,135,Unhealthy for Sensitive Groups,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 03:00 PM,2024,06,22,15,40.7,114,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 04:00 PM,2024,06,22,16,37.3,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 05:00 PM,2024,06,22,17,34.6,99,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 06:00 PM,2024,06,22,18,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 07:00 PM,2024,06,22,19,43.1,120,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 08:00 PM,2024,06,22,20,51.5,140,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 09:00 PM,2024,06,22,21,59.8,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 10:00 PM,2024,06,22,22,68.4,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-22 11:00 PM,2024,06,22,23,51.7,141,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 12:00 AM,2024,06,23,00,77.8,167,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 01:00 AM,2024,06,23,01,54.9,149,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 02:00 AM,2024,06,23,02,39.9,112,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 03:00 AM,2024,06,23,03,31.9,93,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 04:00 AM,2024,06,23,04,28.9,88,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 05:00 AM,2024,06,23,05,25.4,81,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 06:00 AM,2024,06,23,06,22.7,76,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 07:00 AM,2024,06,23,07,22.3,76,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 08:00 AM,2024,06,23,08,24.1,79,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 09:00 AM,2024,06,23,09,25.5,82,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 10:00 AM,2024,06,23,10,27.7,86,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 11:00 AM,2024,06,23,11,36.8,104,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 12:00 PM,2024,06,23,12,37.4,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 01:00 PM,2024,06,23,13,41.7,116,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 02:00 PM,2024,06,23,14,42.3,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 03:00 PM,2024,06,23,15,39.1,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 04:00 PM,2024,06,23,16,42.5,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 05:00 PM,2024,06,23,17,68.3,160,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 06:00 PM,2024,06,23,18,51.6,141,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 07:00 PM,2024,06,23,19,34.3,98,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 08:00 PM,2024,06,23,20,31.6,93,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 09:00 PM,2024,06,23,21,29.3,89,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 10:00 PM,2024,06,23,22,27.1,85,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-23 11:00 PM,2024,06,23,23,21.5,74,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 12:00 AM,2024,06,24,00,18.2,68,Moderate,15.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 01:00 AM,2024,06,24,01,17.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 02:00 AM,2024,06,24,02,14.8,62,Moderate,12.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 03:00 AM,2024,06,24,03,14.4,61,Moderate,14.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 04:00 AM,2024,06,24,04,14.1,60,Moderate,14.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 05:00 AM,2024,06,24,05,14.5,61,Moderate,15.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 06:00 AM,2024,06,24,06,14.7,61,Moderate,15.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 07:00 AM,2024,06,24,07,22.8,77,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 08:00 AM,2024,06,24,08,26.9,84,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 09:00 AM,2024,06,24,09,56.9,152,Unhealthy,87.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 10:00 AM,2024,06,24,10,76.9,166,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 11:00 AM,2024,06,24,11,73.5,164,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 12:00 PM,2024,06,24,12,71.2,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 01:00 PM,2024,06,24,13,60.1,154,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 02:00 PM,2024,06,24,14,44.0,122,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 03:00 PM,2024,06,24,15,35.0,99,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 04:00 PM,2024,06,24,16,30.0,90,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 05:00 PM,2024,06,24,17,30.0,90,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 06:00 PM,2024,06,24,18,31.5,93,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 07:00 PM,2024,06,24,19,31.7,93,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 08:00 PM,2024,06,24,20,44.3,123,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 09:00 PM,2024,06,24,21,100.1,182,Unhealthy,156.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 10:00 PM,2024,06,24,22,72.5,163,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-24 11:00 PM,2024,06,24,23,54.7,148,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 12:00 AM,2024,06,25,00,50.3,137,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 01:00 AM,2024,06,25,01,88.2,174,Unhealthy,126.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 02:00 AM,2024,06,25,02,72.1,163,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 03:00 AM,2024,06,25,03,46.0,127,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 04:00 AM,2024,06,25,04,32.5,95,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 05:00 AM,2024,06,25,05,46.7,129,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 06:00 AM,2024,06,25,06,52.8,144,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 07:00 AM,2024,06,25,07,73.4,164,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 08:00 AM,2024,06,25,08,104.7,185,Unhealthy,136.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 09:00 AM,2024,06,25,09,67.3,159,Unhealthy,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 10:00 AM,2024,06,25,10,44.6,123,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 11:00 AM,2024,06,25,11,34.8,99,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 12:00 PM,2024,06,25,12,30.9,92,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 01:00 PM,2024,06,25,13,26.4,83,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 02:00 PM,2024,06,25,14,25.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 03:00 PM,2024,06,25,15,22.6,76,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 04:00 PM,2024,06,25,16,21.3,74,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 05:00 PM,2024,06,25,17,23.1,77,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 06:00 PM,2024,06,25,18,30.0,90,Moderate,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 07:00 PM,2024,06,25,19,44.5,123,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 08:00 PM,2024,06,25,20,52.2,142,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 09:00 PM,2024,06,25,21,58.6,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 10:00 PM,2024,06,25,22,63.3,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-25 11:00 PM,2024,06,25,23,47.6,131,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 12:00 AM,2024,06,26,00,35.8,102,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 01:00 AM,2024,06,26,01,28.4,87,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 02:00 AM,2024,06,26,02,23.2,77,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 03:00 AM,2024,06,26,03,17.6,67,Moderate,12.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 04:00 AM,2024,06,26,04,15.3,63,Moderate,13.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 05:00 AM,2024,06,26,05,14.6,61,Moderate,14.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 06:00 AM,2024,06,26,06,17.8,67,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 07:00 AM,2024,06,26,07,24.4,80,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 08:00 AM,2024,06,26,08,25.6,82,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 09:00 AM,2024,06,26,09,37.3,105,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 10:00 AM,2024,06,26,10,31.6,93,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 11:00 AM,2024,06,26,11,28.3,87,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 12:00 PM,2024,06,26,12,27.1,85,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 01:00 PM,2024,06,26,13,28.5,87,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 02:00 PM,2024,06,26,14,29.2,88,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 03:00 PM,2024,06,26,15,29.6,89,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 04:00 PM,2024,06,26,16,27.3,85,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 05:00 PM,2024,06,26,17,27.1,85,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 06:00 PM,2024,06,26,18,59.5,154,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 07:00 PM,2024,06,26,19,73.8,164,Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 08:00 PM,2024,06,26,20,102.9,184,Unhealthy,132.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 09:00 PM,2024,06,26,21,109.9,189,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 10:00 PM,2024,06,26,22,85.4,172,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-26 11:00 PM,2024,06,26,23,62.2,156,Unhealthy,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 12:00 AM,2024,06,27,00,49.1,134,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 01:00 AM,2024,06,27,01,40.0,112,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 02:00 AM,2024,06,27,02,31.5,93,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 03:00 AM,2024,06,27,03,26.7,84,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 04:00 AM,2024,06,27,04,21.3,74,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 05:00 AM,2024,06,27,05,19.1,70,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 06:00 AM,2024,06,27,06,21.5,74,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 07:00 AM,2024,06,27,07,31.7,93,Moderate,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 08:00 AM,2024,06,27,08,36.3,103,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 09:00 AM,2024,06,27,09,41.1,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 10:00 AM,2024,06,27,10,38.5,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 11:00 AM,2024,06,27,11,34.2,98,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 12:00 PM,2024,06,27,12,31.6,93,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 01:00 PM,2024,06,27,13,31.3,92,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 02:00 PM,2024,06,27,14,32.6,95,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 03:00 PM,2024,06,27,15,33.8,97,Moderate,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 04:00 PM,2024,06,27,16,32.9,95,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 05:00 PM,2024,06,27,17,42.4,118,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 06:00 PM,2024,06,27,18,67.7,160,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 07:00 PM,2024,06,27,19,47.3,130,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 08:00 PM,2024,06,27,20,32.6,95,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 09:00 PM,2024,06,27,21,47.3,130,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 10:00 PM,2024,06,27,22,29.1,88,Moderate,11.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-27 11:00 PM,2024,06,27,23,20.0,71,Moderate,11.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 12:00 AM,2024,06,28,00,15.0,62,Moderate,10.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 01:00 AM,2024,06,28,01,12.0,56,Moderate,9.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 02:00 AM,2024,06,28,02,9.0,50,Good,6.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 03:00 AM,2024,06,28,03,7.4,41,Good,6.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 04:00 AM,2024,06,28,04,8.2,46,Good,9.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 05:00 AM,2024,06,28,05,9.6,52,Moderate,11.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 06:00 AM,2024,06,28,06,8.2,46,Good,7.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 07:00 AM,2024,06,28,07,11.6,56,Moderate,15.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 08:00 AM,2024,06,28,08,24.8,80,Moderate,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 09:00 AM,2024,06,28,09,21.9,75,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 10:00 AM,2024,06,28,10,18.9,69,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 11:00 AM,2024,06,28,11,17.4,66,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 12:00 PM,2024,06,28,12,16.2,64,Moderate,15.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 01:00 PM,2024,06,28,13,17.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 02:00 PM,2024,06,28,14,14.5,61,Moderate,12.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 03:00 PM,2024,06,28,15,16.2,64,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 04:00 PM,2024,06,28,16,16.1,64,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 05:00 PM,2024,06,28,17,18.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 06:00 PM,2024,06,28,18,19.5,70,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 07:00 PM,2024,06,28,19,24.2,79,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 08:00 PM,2024,06,28,20,28.1,86,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 09:00 PM,2024,06,28,21,28.0,86,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 10:00 PM,2024,06,28,22,31.0,92,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-28 11:00 PM,2024,06,28,23,34.0,97,Moderate,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 12:00 AM,2024,06,29,00,36.5,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 01:00 AM,2024,06,29,01,35.7,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 02:00 AM,2024,06,29,02,35.3,100,Moderate,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 03:00 AM,2024,06,29,03,35.3,100,Moderate,-15.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2024-06-29 04:00 AM,2024,06,29,04,39.1,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 05:00 AM,2024,06,29,05,31.7,93,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 06:00 AM,2024,06,29,06,31.2,92,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 07:00 AM,2024,06,29,07,33.1,96,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 08:00 AM,2024,06,29,08,32.3,94,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 09:00 AM,2024,06,29,09,27.3,85,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 10:00 AM,2024,06,29,10,23.4,78,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 11:00 AM,2024,06,29,11,21.7,74,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 12:00 PM,2024,06,29,12,23.8,78,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 01:00 PM,2024,06,29,13,22.4,76,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 02:00 PM,2024,06,29,14,21.7,74,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 03:00 PM,2024,06,29,15,21.3,74,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 04:00 PM,2024,06,29,16,21.2,74,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 05:00 PM,2024,06,29,17,25.1,81,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 06:00 PM,2024,06,29,18,27.3,85,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 07:00 PM,2024,06,29,19,49.4,135,Unhealthy for Sensitive Groups,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 08:00 PM,2024,06,29,20,61.2,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 09:00 PM,2024,06,29,21,65.1,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 10:00 PM,2024,06,29,22,54.5,148,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-29 11:00 PM,2024,06,29,23,52.7,143,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 12:00 AM,2024,06,30,00,41.3,115,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 01:00 AM,2024,06,30,01,34.1,98,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 02:00 AM,2024,06,30,02,30.5,91,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 03:00 AM,2024,06,30,03,24.2,79,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 04:00 AM,2024,06,30,04,23.6,78,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 05:00 AM,2024,06,30,05,22.3,76,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 06:00 AM,2024,06,30,06,19.1,70,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 07:00 AM,2024,06,30,07,20.0,71,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 08:00 AM,2024,06,30,08,22.0,75,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 09:00 AM,2024,06,30,09,21.0,73,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 10:00 AM,2024,06,30,10,20.5,72,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 11:00 AM,2024,06,30,11,21.2,74,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 12:00 PM,2024,06,30,12,23.5,78,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 01:00 PM,2024,06,30,13,24.5,80,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 02:00 PM,2024,06,30,14,22.6,76,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 03:00 PM,2024,06,30,15,22.8,77,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 04:00 PM,2024,06,30,16,24.5,80,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 05:00 PM,2024,06,30,17,25.5,82,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 06:00 PM,2024,06,30,18,33.9,97,Moderate,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 07:00 PM,2024,06,30,19,42.4,118,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 08:00 PM,2024,06,30,20,37.2,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 09:00 PM,2024,06,30,21,30.6,91,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 10:00 PM,2024,06,30,22,25.3,81,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-06-30 11:00 PM,2024,06,30,23,27.6,85,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2024-07-01 12:00 AM,2024,07,01,00,18.3,68,Moderate,9.0,UG/M3,1 Hr,Valid

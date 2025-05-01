@@ -1,0 +1,713 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Khartoum Residential,PM2.5 - Principal,2021-09-01 02:00 AM,2021,09,01,02,24.6,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 03:00 AM,2021,09,01,03,22.8,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 04:00 AM,2021,09,01,04,20.9,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 05:00 AM,2021,09,01,05,15.9,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 06:00 AM,2021,09,01,06,13.9,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 07:00 AM,2021,09,01,07,10.9,45,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 08:00 AM,2021,09,01,08,9.4,39,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 09:00 AM,2021,09,01,09,15.7,59,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 10:00 AM,2021,09,01,10,20.8,69,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 11:00 AM,2021,09,01,11,24.9,78,Moderate,29.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 12:00 PM,2021,09,01,12,29.9,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 01:00 PM,2021,09,01,13,29.9,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 02:00 PM,2021,09,01,14,27.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 03:00 PM,2021,09,01,15,26.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 04:00 PM,2021,09,01,16,24.7,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 05:00 PM,2021,09,01,17,24.3,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 06:00 PM,2021,09,01,18,24.6,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 07:00 PM,2021,09,01,19,27.3,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 08:00 PM,2021,09,01,20,28.4,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 09:00 PM,2021,09,01,21,29.5,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 10:00 PM,2021,09,01,22,28.6,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-01 11:00 PM,2021,09,01,23,57.4,152,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 12:00 AM,2021,09,02,00,42.7,119,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 01:00 AM,2021,09,02,01,30.8,90,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 02:00 AM,2021,09,02,02,25.4,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 03:00 AM,2021,09,02,03,21.2,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 04:00 AM,2021,09,02,04,15.1,57,Moderate,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 05:00 AM,2021,09,02,05,14.0,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 06:00 AM,2021,09,02,06,14.0,55,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-02 07:00 AM,2021,09,02,07,12.6,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 08:00 AM,2021,09,02,08,11.7,49,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 09:00 AM,2021,09,02,09,15.0,57,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 10:00 AM,2021,09,02,10,21.2,70,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 11:00 AM,2021,09,02,11,20.0,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 12:00 PM,2021,09,02,12,21.5,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 01:00 PM,2021,09,02,13,22.7,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 02:00 PM,2021,09,02,14,21.3,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 03:00 PM,2021,09,02,15,21.1,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 04:00 PM,2021,09,02,16,24.1,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 05:00 PM,2021,09,02,17,21.5,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 06:00 PM,2021,09,02,18,22.2,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 07:00 PM,2021,09,02,19,22.6,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 08:00 PM,2021,09,02,20,25.5,79,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 09:00 PM,2021,09,02,21,27.0,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 10:00 PM,2021,09,02,22,27.0,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-02 11:00 PM,2021,09,02,23,25.5,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 12:00 AM,2021,09,03,00,25.7,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 01:00 AM,2021,09,03,01,24.7,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 02:00 AM,2021,09,03,02,22.9,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 03:00 AM,2021,09,03,03,14.5,56,Moderate,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 04:00 AM,2021,09,03,04,10.2,43,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 05:00 AM,2021,09,03,05,7.6,32,Good,5.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 06:00 AM,2021,09,03,06,6.8,28,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 07:00 AM,2021,09,03,07,6.4,27,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 08:00 AM,2021,09,03,08,4.2,18,Good,2.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 09:00 AM,2021,09,03,09,2.5,10,Good,1.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 10:00 AM,2021,09,03,10,4.2,18,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 11:00 AM,2021,09,03,11,11.1,46,Good,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 12:00 PM,2021,09,03,12,11.0,46,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 01:00 PM,2021,09,03,13,8.5,35,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 02:00 PM,2021,09,03,14,5.7,24,Good,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 03:00 PM,2021,09,03,15,4.8,20,Good,4.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 04:00 PM,2021,09,03,16,5.4,23,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 05:00 PM,2021,09,03,17,7.7,32,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 06:00 PM,2021,09,03,18,7.8,33,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 07:00 PM,2021,09,03,19,8.4,35,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 08:00 PM,2021,09,03,20,8.4,35,Good,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-03 09:00 PM,2021,09,03,21,10.1,42,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 10:00 PM,2021,09,03,22,10.6,44,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-03 11:00 PM,2021,09,03,23,8.6,36,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 12:00 AM,2021,09,04,00,10.4,43,Good,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 01:00 AM,2021,09,04,01,9.1,38,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 02:00 AM,2021,09,04,02,8.5,35,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 03:00 AM,2021,09,04,03,6.7,28,Good,5.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 04:00 AM,2021,09,04,04,4.3,18,Good,2.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 05:00 AM,2021,09,04,05,3.6,15,Good,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 06:00 AM,2021,09,04,06,3.3,14,Good,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 07:00 AM,2021,09,04,07,2.6,11,Good,2.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 08:00 AM,2021,09,04,08,3.8,16,Good,5.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 09:00 AM,2021,09,04,09,4.9,20,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 10:00 AM,2021,09,04,10,7.4,31,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 11:00 AM,2021,09,04,11,7.2,30,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 12:00 PM,2021,09,04,12,8.6,36,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 01:00 PM,2021,09,04,13,11.3,47,Good,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 02:00 PM,2021,09,04,14,11.3,47,Good,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-04 03:00 PM,2021,09,04,15,18.4,64,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 05:00 PM,2021,09,04,17,11.5,48,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 07:00 PM,2021,09,04,19,17.1,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 08:00 PM,2021,09,04,20,29.0,87,Moderate,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 09:00 PM,2021,09,04,21,36.6,104,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 10:00 PM,2021,09,04,22,45.6,126,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-04 11:00 PM,2021,09,04,23,46.3,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 12:00 AM,2021,09,05,00,31.0,91,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 01:00 AM,2021,09,05,01,23.4,75,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 02:00 AM,2021,09,05,02,23.4,75,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-05 03:00 AM,2021,09,05,03,16.4,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 04:00 AM,2021,09,05,04,12.2,51,Moderate,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 05:00 AM,2021,09,05,05,8.8,37,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 06:00 AM,2021,09,05,06,7.9,33,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 07:00 AM,2021,09,05,07,6.4,27,Good,5.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 08:00 AM,2021,09,05,08,7.2,30,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 09:00 AM,2021,09,05,09,12.1,51,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 10:00 AM,2021,09,05,10,13.0,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 11:00 AM,2021,09,05,11,12.5,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 12:00 PM,2021,09,05,12,11.2,47,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 01:00 PM,2021,09,05,13,11.1,46,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 02:00 PM,2021,09,05,14,10.0,42,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 03:00 PM,2021,09,05,15,9.5,40,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 04:00 PM,2021,09,05,16,11.2,47,Good,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 05:00 PM,2021,09,05,17,12.1,51,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 06:00 PM,2021,09,05,18,12.5,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 07:00 PM,2021,09,05,19,15.2,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 08:00 PM,2021,09,05,20,16.6,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 09:00 PM,2021,09,05,21,21.8,71,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 10:00 PM,2021,09,05,22,24.9,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-05 11:00 PM,2021,09,05,23,30.4,89,Moderate,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 12:00 AM,2021,09,06,00,28.2,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 01:00 AM,2021,09,06,01,30.1,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 02:00 AM,2021,09,06,02,42.0,117,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 03:00 AM,2021,09,06,03,41.5,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 04:00 AM,2021,09,06,04,47.7,131,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 05:00 AM,2021,09,06,05,29.3,87,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 06:00 AM,2021,09,06,06,19.1,66,Moderate,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 07:00 AM,2021,09,06,07,12.5,52,Moderate,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 08:00 AM,2021,09,06,08,12.5,52,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-06 09:00 AM,2021,09,06,09,12.8,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 10:00 AM,2021,09,06,10,12.9,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 11:00 AM,2021,09,06,11,14.5,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 12:00 PM,2021,09,06,12,14.5,56,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-06 01:00 PM,2021,09,06,13,10.7,45,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 02:00 PM,2021,09,06,14,11.4,48,Good,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 03:00 PM,2021,09,06,15,11.7,49,Good,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 04:00 PM,2021,09,06,16,11.8,49,Good,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 05:00 PM,2021,09,06,17,12.4,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 06:00 PM,2021,09,06,18,12.4,52,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-06 07:00 PM,2021,09,06,19,22.2,72,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 08:00 PM,2021,09,06,20,29.5,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 09:00 PM,2021,09,06,21,35.1,99,Moderate,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 10:00 PM,2021,09,06,22,30.4,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-06 11:00 PM,2021,09,06,23,24.6,77,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 12:00 AM,2021,09,07,00,20.2,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 01:00 AM,2021,09,07,01,18.1,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 02:00 AM,2021,09,07,02,27.5,83,Moderate,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 03:00 AM,2021,09,07,03,21.7,71,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 04:00 AM,2021,09,07,04,15.3,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 05:00 AM,2021,09,07,05,11.6,48,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 06:00 AM,2021,09,07,06,9.3,39,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 07:00 AM,2021,09,07,07,8.1,34,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 08:00 AM,2021,09,07,08,7.5,31,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 09:00 AM,2021,09,07,09,8.7,36,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 10:00 AM,2021,09,07,10,8.3,35,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 11:00 AM,2021,09,07,11,9.6,40,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 12:00 PM,2021,09,07,12,10.3,43,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 01:00 PM,2021,09,07,13,9.6,40,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 02:00 PM,2021,09,07,14,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 03:00 PM,2021,09,07,15,9.9,41,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 04:00 PM,2021,09,07,16,9.9,41,Good,-15.0,UG/M3,1 Hr,Invalid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 05:00 PM,2021,09,07,17,-999.0,-999,N/A,-9.0,UG/M3,1 Hr,Invalid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 06:00 PM,2021,09,07,18,-999.0,-999,N/A,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 07:00 PM,2021,09,07,19,17.7,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 08:00 PM,2021,09,07,20,27.8,84,Moderate,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 09:00 PM,2021,09,07,21,46.2,127,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 10:00 PM,2021,09,07,22,76.8,162,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-07 11:00 PM,2021,09,07,23,111.8,180,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 12:00 AM,2021,09,08,00,115.4,182,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 01:00 AM,2021,09,08,01,137.3,193,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 02:00 AM,2021,09,08,02,139.6,194,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 03:00 AM,2021,09,08,03,90.3,169,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 04:00 AM,2021,09,08,04,53.6,146,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 05:00 AM,2021,09,08,05,30.3,89,Moderate,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 06:00 AM,2021,09,08,06,23.1,74,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 07:00 AM,2021,09,08,07,19.5,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 08:00 AM,2021,09,08,08,22.7,73,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 09:00 AM,2021,09,08,09,31.8,92,Moderate,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 10:00 AM,2021,09,08,10,25.9,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 11:00 AM,2021,09,08,11,24.4,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 12:00 PM,2021,09,08,12,22.2,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 01:00 PM,2021,09,08,13,23.0,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 02:00 PM,2021,09,08,14,27.0,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 03:00 PM,2021,09,08,15,35.0,99,Moderate,43.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 04:00 PM,2021,09,08,16,45.0,124,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 05:00 PM,2021,09,08,17,56.0,151,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 06:00 PM,2021,09,08,18,77.0,162,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 07:00 PM,2021,09,08,19,79.5,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 08:00 PM,2021,09,08,20,86.7,167,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 09:00 PM,2021,09,08,21,145.9,198,Unhealthy,205.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 10:00 PM,2021,09,08,22,122.9,186,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-08 11:00 PM,2021,09,08,23,99.9,174,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 12:00 AM,2021,09,09,00,63.4,155,Unhealthy,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 01:00 AM,2021,09,09,01,41.2,115,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 02:00 AM,2021,09,09,02,31.6,92,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 03:00 AM,2021,09,09,03,31.6,92,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-09 06:00 AM,2021,09,09,06,-999.0,-999,N/A,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 07:00 AM,2021,09,09,07,8.2,34,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 08:00 AM,2021,09,09,08,12.6,52,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 09:00 AM,2021,09,09,09,15.4,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 10:00 AM,2021,09,09,10,18.7,65,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 11:00 AM,2021,09,09,11,18.3,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 12:00 PM,2021,09,09,12,18.1,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 01:00 PM,2021,09,09,13,17.5,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 02:00 PM,2021,09,09,14,18.2,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 03:00 PM,2021,09,09,15,18.2,64,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-09 05:00 PM,2021,09,09,17,-999.0,-999,N/A,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 07:00 PM,2021,09,09,19,52.5,143,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 08:00 PM,2021,09,09,20,41.3,115,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 09:00 PM,2021,09,09,21,36.2,103,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 10:00 PM,2021,09,09,22,21.4,71,Moderate,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-09 11:00 PM,2021,09,09,23,13.0,53,Moderate,5.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 12:00 AM,2021,09,10,00,9.4,39,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 01:00 AM,2021,09,10,01,12.7,52,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 02:00 AM,2021,09,10,02,7.3,30,Good,2.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 03:00 AM,2021,09,10,03,6.1,25,Good,5.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 04:00 AM,2021,09,10,04,5.0,21,Good,4.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 05:00 AM,2021,09,10,05,2.0,8,Good,-1.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 06:00 AM,2021,09,10,06,0.5,2,Good,-1.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 07:00 AM,2021,09,10,07,0.7,3,Good,1.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 08:00 AM,2021,09,10,08,3.3,14,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 09:00 AM,2021,09,10,09,5.1,21,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 10:00 AM,2021,09,10,10,5.5,23,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 11:00 AM,2021,09,10,11,9.2,38,Good,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 12:00 PM,2021,09,10,12,10.1,42,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 01:00 PM,2021,09,10,13,10.0,42,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 02:00 PM,2021,09,10,14,8.5,35,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 03:00 PM,2021,09,10,15,7.2,30,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 04:00 PM,2021,09,10,16,7.2,30,Good,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-10 05:00 PM,2021,09,10,17,36.4,103,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 06:00 PM,2021,09,10,18,21.9,72,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 07:00 PM,2021,09,10,19,24.0,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 08:00 PM,2021,09,10,20,29.2,87,Moderate,34.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 09:00 PM,2021,09,10,21,42.8,119,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 10:00 PM,2021,09,10,22,45.4,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-10 11:00 PM,2021,09,10,23,50.2,137,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 12:00 AM,2021,09,11,00,48.6,133,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 01:00 AM,2021,09,11,01,41.8,117,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 02:00 AM,2021,09,11,02,36.4,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 03:00 AM,2021,09,11,03,24.1,76,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 04:00 AM,2021,09,11,04,16.0,59,Moderate,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 05:00 AM,2021,09,11,05,11.0,46,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 06:00 AM,2021,09,11,06,9.5,40,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 07:00 AM,2021,09,11,07,8.7,36,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 08:00 AM,2021,09,11,08,10.8,45,Good,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 09:00 AM,2021,09,11,09,17.4,62,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 10:00 AM,2021,09,11,10,17.7,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 11:00 AM,2021,09,11,11,17.3,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 12:00 PM,2021,09,11,12,17.1,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 01:00 PM,2021,09,11,13,19.0,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 02:00 PM,2021,09,11,14,18.5,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 03:00 PM,2021,09,11,15,20.7,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 04:00 PM,2021,09,11,16,21.8,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 05:00 PM,2021,09,11,17,24.9,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 06:00 PM,2021,09,11,18,25.4,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 07:00 PM,2021,09,11,19,25.4,79,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-11 08:00 PM,2021,09,11,20,66.5,157,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 09:00 PM,2021,09,11,21,79.3,163,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 10:00 PM,2021,09,11,22,78.1,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-11 11:00 PM,2021,09,11,23,67.2,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 12:00 AM,2021,09,12,00,54.9,149,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 01:00 AM,2021,09,12,01,35.8,102,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 02:00 AM,2021,09,12,02,24.8,78,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 03:00 AM,2021,09,12,03,18.4,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 04:00 AM,2021,09,12,04,29.7,88,Moderate,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 05:00 AM,2021,09,12,05,16.8,61,Moderate,4.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 06:00 AM,2021,09,12,06,9.9,41,Good,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 07:00 AM,2021,09,12,07,6.4,27,Good,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 08:00 AM,2021,09,12,08,8.7,36,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 09:00 AM,2021,09,12,09,8.3,35,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 10:00 AM,2021,09,12,10,9.1,38,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 11:00 AM,2021,09,12,11,13.0,53,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 12:00 PM,2021,09,12,12,33.0,95,Moderate,53.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 01:00 PM,2021,09,12,13,27.0,82,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 02:00 PM,2021,09,12,14,29.0,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 03:00 PM,2021,09,12,15,28.0,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 04:00 PM,2021,09,12,16,28.5,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 05:00 PM,2021,09,12,17,28.7,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 06:00 PM,2021,09,12,18,28.8,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 07:00 PM,2021,09,12,19,39.4,111,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 08:00 PM,2021,09,12,20,49.2,135,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 09:00 PM,2021,09,12,21,53.1,144,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 10:00 PM,2021,09,12,22,44.0,122,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-12 11:00 PM,2021,09,12,23,40.5,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 12:00 AM,2021,09,13,00,36.7,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 01:00 AM,2021,09,13,01,35.8,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 02:00 AM,2021,09,13,02,30.4,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 03:00 AM,2021,09,13,03,20.7,69,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 04:00 AM,2021,09,13,04,14.3,56,Moderate,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 05:00 AM,2021,09,13,05,11.1,46,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 06:00 AM,2021,09,13,06,11.0,46,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 07:00 AM,2021,09,13,07,9.5,40,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 08:00 AM,2021,09,13,08,7.2,30,Good,5.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 09:00 AM,2021,09,13,09,8.6,36,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 10:00 AM,2021,09,13,10,12.3,51,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 11:00 AM,2021,09,13,11,16.1,59,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 12:00 PM,2021,09,13,12,23.5,75,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 01:00 PM,2021,09,13,13,25.2,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 02:00 PM,2021,09,13,14,25.6,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 03:00 PM,2021,09,13,15,27.8,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 04:00 PM,2021,09,13,16,30.4,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 05:00 PM,2021,09,13,17,25.7,80,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 06:00 PM,2021,09,13,18,22.8,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 07:00 PM,2021,09,13,19,22.4,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 08:00 PM,2021,09,13,20,28.7,86,Moderate,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 09:00 PM,2021,09,13,21,30.8,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 10:00 PM,2021,09,13,22,35.4,100,Moderate,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-13 11:00 PM,2021,09,13,23,33.7,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 12:00 AM,2021,09,14,00,33.7,96,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-14 01:00 AM,2021,09,14,01,25.9,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 02:00 AM,2021,09,14,02,21.9,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 03:00 AM,2021,09,14,03,20.3,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 04:00 AM,2021,09,14,04,13.9,55,Moderate,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 05:00 AM,2021,09,14,05,9.9,41,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 06:00 AM,2021,09,14,06,8.4,35,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 07:00 AM,2021,09,14,07,8.7,36,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 08:00 AM,2021,09,14,08,14.8,57,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 09:00 AM,2021,09,14,09,25.4,79,Moderate,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 10:00 AM,2021,09,14,10,41.2,115,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 11:00 AM,2021,09,14,11,33.6,96,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 12:00 PM,2021,09,14,12,28.3,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 01:00 PM,2021,09,14,13,24.1,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 02:00 PM,2021,09,14,14,22.0,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 03:00 PM,2021,09,14,15,20.5,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 04:00 PM,2021,09,14,16,51.7,141,Unhealthy for Sensitive Groups,83.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 05:00 PM,2021,09,14,17,37.3,105,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 06:00 PM,2021,09,14,18,31.6,92,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 07:00 PM,2021,09,14,19,35.8,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 08:00 PM,2021,09,14,20,40.9,114,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 09:00 PM,2021,09,14,21,40.9,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 10:00 PM,2021,09,14,22,42.9,119,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-14 11:00 PM,2021,09,14,23,41.4,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 12:00 AM,2021,09,15,00,33.7,96,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 01:00 AM,2021,09,15,01,33.3,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 02:00 AM,2021,09,15,02,27.1,83,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 03:00 AM,2021,09,15,03,27.1,83,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-15 04:00 AM,2021,09,15,04,23.7,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 05:00 AM,2021,09,15,05,19.8,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 06:00 AM,2021,09,15,06,19.8,67,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-15 07:00 AM,2021,09,15,07,13.0,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 08:00 AM,2021,09,15,08,10.6,44,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 09:00 AM,2021,09,15,09,14.0,55,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 10:00 AM,2021,09,15,10,18.6,65,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 11:00 AM,2021,09,15,11,20.8,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 12:00 PM,2021,09,15,12,19.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 01:00 PM,2021,09,15,13,18.9,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 02:00 PM,2021,09,15,14,17.9,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 03:00 PM,2021,09,15,15,18.4,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 04:00 PM,2021,09,15,16,17.2,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 05:00 PM,2021,09,15,17,15.6,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 06:00 PM,2021,09,15,18,15.6,58,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-15 07:00 PM,2021,09,15,19,18.5,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 09:00 PM,2021,09,15,21,85.8,167,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 10:00 PM,2021,09,15,22,88.8,168,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-15 11:00 PM,2021,09,15,23,68.3,158,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 12:00 AM,2021,09,16,00,54.6,148,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 01:00 AM,2021,09,16,01,41.0,115,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 02:00 AM,2021,09,16,02,31.4,92,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 03:00 AM,2021,09,16,03,27.1,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 04:00 AM,2021,09,16,04,20.0,68,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 05:00 AM,2021,09,16,05,15.5,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 06:00 AM,2021,09,16,06,16.7,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 07:00 AM,2021,09,16,07,15.3,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 08:00 AM,2021,09,16,08,24.1,76,Moderate,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 09:00 AM,2021,09,16,09,28.5,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 10:00 AM,2021,09,16,10,29.7,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 11:00 AM,2021,09,16,11,28.3,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 12:00 PM,2021,09,16,12,22.1,72,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 01:00 PM,2021,09,16,13,21.5,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 02:00 PM,2021,09,16,14,23.7,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 03:00 PM,2021,09,16,15,28.4,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 04:00 PM,2021,09,16,16,32.2,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 05:00 PM,2021,09,16,17,34.6,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 06:00 PM,2021,09,16,18,35.8,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 07:00 PM,2021,09,16,19,48.9,134,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 08:00 PM,2021,09,16,20,41.9,117,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 09:00 PM,2021,09,16,21,31.9,93,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 10:00 PM,2021,09,16,22,28.9,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-16 11:00 PM,2021,09,16,23,29.4,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 12:00 AM,2021,09,17,00,34.2,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 01:00 AM,2021,09,17,01,46.6,128,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 02:00 AM,2021,09,17,02,39.8,112,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 03:00 AM,2021,09,17,03,37.4,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 04:00 AM,2021,09,17,04,37.2,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 05:00 AM,2021,09,17,05,43.1,120,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 06:00 AM,2021,09,17,06,39.0,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 07:00 AM,2021,09,17,07,31.5,92,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 08:00 AM,2021,09,17,08,23.7,75,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 09:00 AM,2021,09,17,09,20.3,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 10:00 AM,2021,09,17,10,23.1,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 11:00 AM,2021,09,17,11,27.0,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 12:00 PM,2021,09,17,12,24.5,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 01:00 PM,2021,09,17,13,20.2,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 02:00 PM,2021,09,17,14,20.1,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 03:00 PM,2021,09,17,15,21.0,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 04:00 PM,2021,09,17,16,19.5,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 05:00 PM,2021,09,17,17,23.2,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 06:00 PM,2021,09,17,18,27.6,84,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 07:00 PM,2021,09,17,19,29.8,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 08:00 PM,2021,09,17,20,41.4,116,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 09:00 PM,2021,09,17,21,81.2,164,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 10:00 PM,2021,09,17,22,95.1,171,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-17 11:00 PM,2021,09,17,23,74.5,161,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 12:00 AM,2021,09,18,00,49.7,136,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 01:00 AM,2021,09,18,01,33.3,96,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 02:00 AM,2021,09,18,02,28.1,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 03:00 AM,2021,09,18,03,25.5,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 04:00 AM,2021,09,18,04,25.5,79,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-18 05:00 AM,2021,09,18,05,12.5,52,Moderate,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 06:00 AM,2021,09,18,06,11.6,48,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 07:00 AM,2021,09,18,07,11.3,47,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 08:00 AM,2021,09,18,08,11.2,47,Good,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-18 09:00 AM,2021,09,18,09,28.7,86,Moderate,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 10:00 AM,2021,09,18,10,33.5,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 11:00 AM,2021,09,18,11,35.9,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 12:00 PM,2021,09,18,12,38.5,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 01:00 PM,2021,09,18,13,37.7,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 02:00 PM,2021,09,18,14,44.4,123,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 03:00 PM,2021,09,18,15,41.2,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 04:00 PM,2021,09,18,16,41.1,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 05:00 PM,2021,09,18,17,37.0,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 06:00 PM,2021,09,18,18,33.5,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 07:00 PM,2021,09,18,19,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 08:00 PM,2021,09,18,20,46.1,127,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 09:00 PM,2021,09,18,21,67.1,157,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 10:00 PM,2021,09,18,22,78.6,163,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-18 11:00 PM,2021,09,18,23,86.8,167,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 12:00 AM,2021,09,19,00,81.9,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 01:00 AM,2021,09,19,01,70.9,159,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 02:00 AM,2021,09,19,02,53.9,146,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 03:00 AM,2021,09,19,03,39.9,112,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 04:00 AM,2021,09,19,04,24.4,77,Moderate,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 05:00 AM,2021,09,19,05,18.7,65,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 06:00 AM,2021,09,19,06,13.3,54,Moderate,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 07:00 AM,2021,09,19,07,12.1,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 08:00 AM,2021,09,19,08,14.5,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 09:00 AM,2021,09,19,09,16.7,61,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 10:00 AM,2021,09,19,10,15.3,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 11:00 AM,2021,09,19,11,16.1,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 12:00 PM,2021,09,19,12,16.5,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 01:00 PM,2021,09,19,13,17.2,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 02:00 PM,2021,09,19,14,17.6,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 03:00 PM,2021,09,19,15,18.3,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 04:00 PM,2021,09,19,16,17.6,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 05:00 PM,2021,09,19,17,19.3,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 06:00 PM,2021,09,19,18,23.1,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 07:00 PM,2021,09,19,19,29.0,87,Moderate,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 08:00 PM,2021,09,19,20,38.0,107,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 09:00 PM,2021,09,19,21,51.0,139,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 10:00 PM,2021,09,19,22,55.5,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-19 11:00 PM,2021,09,19,23,90.7,169,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 12:00 AM,2021,09,20,00,116.9,183,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 01:00 AM,2021,09,20,01,139.4,194,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 02:00 AM,2021,09,20,02,177.7,228,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 03:00 AM,2021,09,20,03,189.4,240,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 04:00 AM,2021,09,20,04,154.2,205,Very Unhealthy,119.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 05:00 AM,2021,09,20,05,141.1,195,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 06:00 AM,2021,09,20,06,109.0,179,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 07:00 AM,2021,09,20,07,78.5,163,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 08:00 AM,2021,09,20,08,66.2,157,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 09:00 AM,2021,09,20,09,66.1,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 10:00 AM,2021,09,20,10,55.5,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 11:00 AM,2021,09,20,11,40.7,114,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 12:00 PM,2021,09,20,12,29.8,88,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 01:00 PM,2021,09,20,13,20.9,70,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 02:00 PM,2021,09,20,14,16.9,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 03:00 PM,2021,09,20,15,17.9,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 04:00 PM,2021,09,20,16,19.9,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 05:00 PM,2021,09,20,17,21.9,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 06:00 PM,2021,09,20,18,23.9,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 07:00 PM,2021,09,20,19,32.4,94,Moderate,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 08:00 PM,2021,09,20,20,45.7,126,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 09:00 PM,2021,09,20,21,58.8,153,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 10:00 PM,2021,09,20,22,61.4,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-20 11:00 PM,2021,09,20,23,66.7,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 12:00 AM,2021,09,21,00,109.3,179,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 01:00 AM,2021,09,21,01,118.7,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 02:00 AM,2021,09,21,02,117.8,183,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 03:00 AM,2021,09,21,03,97.4,173,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 04:00 AM,2021,09,21,04,57.2,152,Unhealthy,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 05:00 AM,2021,09,21,05,37.6,106,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 06:00 AM,2021,09,21,06,25.8,80,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 07:00 AM,2021,09,21,07,19.8,67,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 08:00 AM,2021,09,21,08,21.9,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 09:00 AM,2021,09,21,09,29.4,87,Moderate,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 10:00 AM,2021,09,21,10,28.7,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 11:00 AM,2021,09,21,11,26.8,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 12:00 PM,2021,09,21,12,25.4,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 01:00 PM,2021,09,21,13,21.1,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 02:00 PM,2021,09,21,14,20.0,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 03:00 PM,2021,09,21,15,19.0,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 04:00 PM,2021,09,21,16,22.5,73,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 05:00 PM,2021,09,21,17,23.7,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 06:00 PM,2021,09,21,18,24.3,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 07:00 PM,2021,09,21,19,35.6,101,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 08:00 PM,2021,09,21,20,41.3,115,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 09:00 PM,2021,09,21,21,41.3,115,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-21 10:00 PM,2021,09,21,22,101.8,175,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-21 11:00 PM,2021,09,21,23,166.5,217,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 12:00 AM,2021,09,22,00,181.1,231,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 01:00 AM,2021,09,22,01,104.7,176,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 02:00 AM,2021,09,22,02,62.6,155,Unhealthy,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 03:00 AM,2021,09,22,03,39.1,110,Unhealthy for Sensitive Groups,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 04:00 AM,2021,09,22,04,24.5,77,Moderate,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 05:00 AM,2021,09,22,05,15.2,58,Moderate,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 06:00 AM,2021,09,22,06,11.6,48,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 07:00 AM,2021,09,22,07,9.3,39,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 08:00 AM,2021,09,22,08,8.6,36,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 09:00 AM,2021,09,22,09,16.3,60,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 10:00 AM,2021,09,22,10,18.1,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 11:00 AM,2021,09,22,11,23.5,75,Moderate,29.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 12:00 PM,2021,09,22,12,25.7,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 01:00 PM,2021,09,22,13,25.3,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 02:00 PM,2021,09,22,14,26.1,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 03:00 PM,2021,09,22,15,25.0,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 04:00 PM,2021,09,22,16,24.0,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 05:00 PM,2021,09,22,17,23.5,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 06:00 PM,2021,09,22,18,25.2,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 07:00 PM,2021,09,22,19,30.1,89,Moderate,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 08:00 PM,2021,09,22,20,41.5,116,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 09:00 PM,2021,09,22,21,42.2,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 10:00 PM,2021,09,22,22,43.6,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-22 11:00 PM,2021,09,22,23,40.3,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 12:00 AM,2021,09,23,00,37.1,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 01:00 AM,2021,09,23,01,33.0,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 02:00 AM,2021,09,23,02,26.5,81,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 03:00 AM,2021,09,23,03,21.2,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 04:00 AM,2021,09,23,04,19.1,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 05:00 AM,2021,09,23,05,15.5,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 06:00 AM,2021,09,23,06,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 07:00 AM,2021,09,23,07,13.3,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 08:00 AM,2021,09,23,08,12.1,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 09:00 AM,2021,09,23,09,12.1,51,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-23 10:00 AM,2021,09,23,10,21.3,70,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 11:00 AM,2021,09,23,11,26.8,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 12:00 PM,2021,09,23,12,25.8,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 01:00 PM,2021,09,23,13,23.3,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 02:00 PM,2021,09,23,14,21.6,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 03:00 PM,2021,09,23,15,21.8,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 04:00 PM,2021,09,23,16,19.4,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 05:00 PM,2021,09,23,17,20.2,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 06:00 PM,2021,09,23,18,20.6,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 07:00 PM,2021,09,23,19,24.3,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 08:00 PM,2021,09,23,20,36.6,104,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 09:00 PM,2021,09,23,21,39.8,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 10:00 PM,2021,09,23,22,63.9,155,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-23 11:00 PM,2021,09,23,23,102.4,175,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 12:00 AM,2021,09,24,00,60.2,153,Unhealthy,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 01:00 AM,2021,09,24,01,31.6,92,Moderate,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 02:00 AM,2021,09,24,02,17.8,63,Moderate,4.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 03:00 AM,2021,09,24,03,11.9,50,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 04:00 AM,2021,09,24,04,9.4,39,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 05:00 AM,2021,09,24,05,8.2,34,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 06:00 AM,2021,09,24,06,7.1,30,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 07:00 AM,2021,09,24,07,6.5,27,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 08:00 AM,2021,09,24,08,6.2,26,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 09:00 AM,2021,09,24,09,8.6,36,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 10:00 AM,2021,09,24,10,10.8,45,Good,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 11:00 AM,2021,09,24,11,11.3,47,Good,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 12:00 PM,2021,09,24,12,10.1,42,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 01:00 PM,2021,09,24,13,9.0,38,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 02:00 PM,2021,09,24,14,8.0,33,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 03:00 PM,2021,09,24,15,7.0,29,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 04:00 PM,2021,09,24,16,8.0,33,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 05:00 PM,2021,09,24,17,9.0,38,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 06:00 PM,2021,09,24,18,10.5,44,Good,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 07:00 PM,2021,09,24,19,17.7,63,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 08:00 PM,2021,09,24,20,29.3,87,Moderate,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 09:00 PM,2021,09,24,21,35.1,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-24 10:00 PM,2021,09,24,22,35.1,99,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-24 11:00 PM,2021,09,24,23,20.3,68,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 12:00 AM,2021,09,25,00,13.8,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 01:00 AM,2021,09,25,01,12.3,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 02:00 AM,2021,09,25,02,10.6,44,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 03:00 AM,2021,09,25,03,8.7,36,Good,7.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 04:00 AM,2021,09,25,04,7.3,30,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 05:00 AM,2021,09,25,05,5.1,21,Good,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 06:00 AM,2021,09,25,06,5.5,23,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 07:00 AM,2021,09,25,07,5.7,24,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 08:00 AM,2021,09,25,08,9.8,41,Good,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 09:00 AM,2021,09,25,09,15.4,58,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 10:00 AM,2021,09,25,10,16.2,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 11:00 AM,2021,09,25,11,19.1,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 12:00 PM,2021,09,25,12,20.5,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 01:00 PM,2021,09,25,13,20.5,69,Moderate,-999.0,UG/M3,1 Hr,Missing
+Khartoum Residential,PM2.5 - Principal,2021-09-25 03:00 PM,2021,09,25,15,-999.0,-999,N/A,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 04:00 PM,2021,09,25,16,11.7,49,Good,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 05:00 PM,2021,09,25,17,11.8,49,Good,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 06:00 PM,2021,09,25,18,12.9,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 07:00 PM,2021,09,25,19,17.0,61,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 08:00 PM,2021,09,25,20,21.0,70,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 09:00 PM,2021,09,25,21,26.0,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 10:00 PM,2021,09,25,22,24.5,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-25 11:00 PM,2021,09,25,23,23.2,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 12:00 AM,2021,09,26,00,16.6,60,Moderate,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 01:00 AM,2021,09,26,01,13.8,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 02:00 AM,2021,09,26,02,9.9,41,Good,6.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 03:00 AM,2021,09,26,03,6.9,29,Good,4.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 04:00 AM,2021,09,26,04,4.9,20,Good,3.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 05:00 AM,2021,09,26,05,6.4,27,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 06:00 AM,2021,09,26,06,7.2,30,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 07:00 AM,2021,09,26,07,7.6,32,Good,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 08:00 AM,2021,09,26,08,8.8,37,Good,10.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 09:00 AM,2021,09,26,09,15.4,58,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 10:00 AM,2021,09,26,10,21.7,71,Moderate,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 11:00 AM,2021,09,26,11,22.3,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 12:00 PM,2021,09,26,12,23.6,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 01:00 PM,2021,09,26,13,29.8,88,Moderate,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 02:00 PM,2021,09,26,14,30.9,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 03:00 PM,2021,09,26,15,23.9,76,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 04:00 PM,2021,09,26,16,18.4,64,Moderate,13.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 05:00 PM,2021,09,26,17,15.2,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 06:00 PM,2021,09,26,18,18.6,65,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 07:00 PM,2021,09,26,19,19.8,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 08:00 PM,2021,09,26,20,33.4,96,Moderate,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 09:00 PM,2021,09,26,21,45.2,125,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 10:00 PM,2021,09,26,22,46.1,127,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-26 11:00 PM,2021,09,26,23,72.0,160,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 12:00 AM,2021,09,27,00,88.0,168,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 01:00 AM,2021,09,27,01,79.5,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 02:00 AM,2021,09,27,02,57.7,152,Unhealthy,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 03:00 AM,2021,09,27,03,47.8,131,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 04:00 AM,2021,09,27,04,43.4,120,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 05:00 AM,2021,09,27,05,33.7,96,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 06:00 AM,2021,09,27,06,23.8,76,Moderate,14.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 07:00 AM,2021,09,27,07,20.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 08:00 AM,2021,09,27,08,21.7,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 09:00 AM,2021,09,27,09,29.8,88,Moderate,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 10:00 AM,2021,09,27,10,35.9,102,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 11:00 AM,2021,09,27,11,40.9,114,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 12:00 PM,2021,09,27,12,35.9,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 01:00 PM,2021,09,27,13,31.4,92,Moderate,27.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 02:00 PM,2021,09,27,14,31.7,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 03:00 PM,2021,09,27,15,35.8,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 04:00 PM,2021,09,27,16,34.9,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 05:00 PM,2021,09,27,17,35.4,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 06:00 PM,2021,09,27,18,37.7,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 07:00 PM,2021,09,27,19,42.8,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 08:00 PM,2021,09,27,20,73.9,161,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 09:00 PM,2021,09,27,21,75.4,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 10:00 PM,2021,09,27,22,127.2,188,Unhealthy,179.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-27 11:00 PM,2021,09,27,23,124.1,186,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 12:00 AM,2021,09,28,00,111.5,180,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 01:00 AM,2021,09,28,01,96.7,172,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 02:00 AM,2021,09,28,02,80.4,164,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 03:00 AM,2021,09,28,03,64.7,156,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 04:00 AM,2021,09,28,04,55.3,150,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 05:00 AM,2021,09,28,05,45.1,125,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 06:00 AM,2021,09,28,06,41.5,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 07:00 AM,2021,09,28,07,50.7,138,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 08:00 AM,2021,09,28,08,61.8,154,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 09:00 AM,2021,09,28,09,69.4,158,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 10:00 AM,2021,09,28,10,61.7,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 11:00 AM,2021,09,28,11,53.3,145,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 12:00 PM,2021,09,28,12,47.1,130,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 01:00 PM,2021,09,28,13,42.0,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 02:00 PM,2021,09,28,14,40.0,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 03:00 PM,2021,09,28,15,35.5,101,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 04:00 PM,2021,09,28,16,34.2,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 05:00 PM,2021,09,28,17,35.1,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 06:00 PM,2021,09,28,18,39.5,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 07:00 PM,2021,09,28,19,45.7,126,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 08:00 PM,2021,09,28,20,46.3,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 09:00 PM,2021,09,28,21,45.7,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 10:00 PM,2021,09,28,22,50.4,138,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-28 11:00 PM,2021,09,28,23,44.8,124,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 12:00 AM,2021,09,29,00,46.2,127,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 01:00 AM,2021,09,29,01,43.0,119,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 02:00 AM,2021,09,29,02,36.9,104,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 03:00 AM,2021,09,29,03,29.1,87,Moderate,22.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 04:00 AM,2021,09,29,04,25.0,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 05:00 AM,2021,09,29,05,26.5,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 06:00 AM,2021,09,29,06,28.2,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 07:00 AM,2021,09,29,07,34.1,97,Moderate,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 08:00 AM,2021,09,29,08,35.5,101,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 09:00 AM,2021,09,29,09,39.2,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 10:00 AM,2021,09,29,10,35.6,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 11:00 AM,2021,09,29,11,29.8,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 12:00 PM,2021,09,29,12,26.4,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 01:00 PM,2021,09,29,13,22.2,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 02:00 PM,2021,09,29,14,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 03:00 PM,2021,09,29,15,23.5,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 04:00 PM,2021,09,29,16,24.7,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 05:00 PM,2021,09,29,17,31.3,91,Moderate,38.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 06:00 PM,2021,09,29,18,33.1,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 07:00 PM,2021,09,29,19,37.5,106,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 08:00 PM,2021,09,29,20,45.8,126,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 09:00 PM,2021,09,29,21,43.9,122,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 10:00 PM,2021,09,29,22,41.9,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-29 11:00 PM,2021,09,29,23,38.4,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 12:00 AM,2021,09,30,00,30.7,90,Moderate,23.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 01:00 AM,2021,09,30,01,30.3,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 02:00 AM,2021,09,30,02,27.6,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 03:00 AM,2021,09,30,03,33.8,97,Moderate,40.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 04:00 AM,2021,09,30,04,32.9,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 05:00 AM,2021,09,30,05,21.9,72,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 06:00 AM,2021,09,30,06,14.9,57,Moderate,8.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 07:00 AM,2021,09,30,07,11.9,50,Good,9.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 08:00 AM,2021,09,30,08,18.4,64,Moderate,25.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 09:00 AM,2021,09,30,09,24.7,77,Moderate,31.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 10:00 AM,2021,09,30,10,26.8,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 11:00 AM,2021,09,30,11,23.4,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 12:00 PM,2021,09,30,12,20.7,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 01:00 PM,2021,09,30,13,18.8,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 02:00 PM,2021,09,30,14,14.9,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 03:00 PM,2021,09,30,15,13.4,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 04:00 PM,2021,09,30,16,60.2,153,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 05:00 PM,2021,09,30,17,38.6,109,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 06:00 PM,2021,09,30,18,29.8,88,Moderate,21.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 07:00 PM,2021,09,30,19,30.9,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 08:00 PM,2021,09,30,20,46.4,128,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 09:00 PM,2021,09,30,21,60.2,153,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 10:00 PM,2021,09,30,22,53.1,144,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-09-30 11:00 PM,2021,09,30,23,46.0,127,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-10-01 12:00 AM,2021,10,01,00,42.5,118,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Khartoum Residential,PM2.5 - Principal,2021-10-01 01:00 AM,2021,10,01,01,32.7,94,Moderate,23.0,UG/M3,1 Hr,Valid

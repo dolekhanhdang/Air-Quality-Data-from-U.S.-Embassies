@@ -1,0 +1,659 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kolkata,PM2.5 - Principal,2022-12-01 02:00 AM,2022,12,01,02,181.2,231,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 03:00 AM,2022,12,01,03,156.6,207,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 04:00 AM,2022,12,01,04,139.8,195,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 05:00 AM,2022,12,01,05,124.9,187,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 06:00 AM,2022,12,01,06,111.4,180,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 07:00 AM,2022,12,01,07,114.2,181,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 08:00 AM,2022,12,01,08,117.6,183,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 09:00 AM,2022,12,01,09,117.8,183,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 10:00 AM,2022,12,01,10,121.3,185,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 11:00 AM,2022,12,01,11,110.6,179,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 12:00 PM,2022,12,01,12,96.8,172,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 01:00 PM,2022,12,01,13,83.1,165,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 02:00 PM,2022,12,01,14,74.9,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 03:00 PM,2022,12,01,15,74.6,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 04:00 PM,2022,12,01,16,70.4,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 05:00 PM,2022,12,01,17,72.1,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 06:00 PM,2022,12,01,18,81.5,164,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 07:00 PM,2022,12,01,19,113.4,181,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 08:00 PM,2022,12,01,20,138.7,194,Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 09:00 PM,2022,12,01,21,172.3,223,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 10:00 PM,2022,12,01,22,207.2,257,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-01 11:00 PM,2022,12,01,23,230.6,280,Very Unhealthy,254.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 12:00 AM,2022,12,02,00,229.8,280,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 01:00 AM,2022,12,02,01,204.9,255,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 02:00 AM,2022,12,02,02,186.4,237,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 03:00 AM,2022,12,02,03,160.7,211,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 04:00 AM,2022,12,02,04,138.8,194,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 05:00 AM,2022,12,02,05,130.9,190,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 06:00 AM,2022,12,02,06,133.9,191,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 07:00 AM,2022,12,02,07,140.4,195,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 08:00 AM,2022,12,02,08,162.7,213,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 09:00 AM,2022,12,02,09,182.8,233,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 10:00 AM,2022,12,02,10,179.9,230,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 11:00 AM,2022,12,02,11,171.4,222,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 12:00 PM,2022,12,02,12,157.1,208,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 01:00 PM,2022,12,02,13,137.9,194,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 02:00 PM,2022,12,02,14,130.5,190,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 03:00 PM,2022,12,02,15,119.9,184,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 04:00 PM,2022,12,02,16,104.6,176,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 05:00 PM,2022,12,02,17,95.8,172,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 06:00 PM,2022,12,02,18,104.4,176,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 07:00 PM,2022,12,02,19,112.7,181,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 08:00 PM,2022,12,02,20,139.8,195,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 09:00 PM,2022,12,02,21,175.4,226,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 10:00 PM,2022,12,02,22,229.2,279,Very Unhealthy,283.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-02 11:00 PM,2022,12,02,23,240.1,290,Very Unhealthy,251.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 12:00 AM,2022,12,03,00,263.0,313,Hazardous,286.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 01:00 AM,2022,12,03,01,275.0,325,Hazardous,287.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 02:00 AM,2022,12,03,02,261.5,312,Hazardous,248.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 03:00 AM,2022,12,03,03,212.2,262,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 04:00 AM,2022,12,03,04,179.6,230,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 05:00 AM,2022,12,03,05,155.8,206,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 06:00 AM,2022,12,03,06,139.9,195,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 07:00 AM,2022,12,03,07,138.9,194,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 08:00 AM,2022,12,03,08,165.9,216,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 09:00 AM,2022,12,03,09,180.4,231,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 10:00 AM,2022,12,03,10,191.2,241,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 11:00 AM,2022,12,03,11,178.1,228,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 12:00 PM,2022,12,03,12,160.5,211,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 01:00 PM,2022,12,03,13,140.7,195,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 02:00 PM,2022,12,03,14,144.6,197,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 03:00 PM,2022,12,03,15,145.9,198,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 04:00 PM,2022,12,03,16,148.3,199,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 05:00 PM,2022,12,03,17,154.6,205,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 06:00 PM,2022,12,03,18,164.8,215,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 07:00 PM,2022,12,03,19,214.0,264,Very Unhealthy,260.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 08:00 PM,2022,12,03,20,230.5,280,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 09:00 PM,2022,12,03,21,234.2,284,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 10:00 PM,2022,12,03,22,234.1,284,Very Unhealthy,234.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-03 11:00 PM,2022,12,03,23,224.5,274,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 12:00 AM,2022,12,04,00,223.2,273,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 01:00 AM,2022,12,04,01,228.7,278,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 02:00 AM,2022,12,04,02,205.0,255,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 03:00 AM,2022,12,04,03,181.9,232,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 04:00 AM,2022,12,04,04,169.7,220,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 05:00 AM,2022,12,04,05,153.7,204,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 06:00 AM,2022,12,04,06,138.3,194,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 07:00 AM,2022,12,04,07,142.2,196,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 08:00 AM,2022,12,04,08,145.2,197,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 09:00 AM,2022,12,04,09,155.4,206,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 10:00 AM,2022,12,04,10,162.2,213,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 11:00 AM,2022,12,04,11,153.2,204,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 12:00 PM,2022,12,04,12,148.4,199,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 01:00 PM,2022,12,04,13,147.3,198,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 02:00 PM,2022,12,04,14,140.8,195,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 03:00 PM,2022,12,04,15,130.1,190,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 04:00 PM,2022,12,04,16,124.3,187,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 05:00 PM,2022,12,04,17,115.0,182,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 06:00 PM,2022,12,04,18,111.1,180,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 07:00 PM,2022,12,04,19,121.9,185,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 08:00 PM,2022,12,04,20,159.3,210,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 09:00 PM,2022,12,04,21,238.6,288,Very Unhealthy,316.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 10:00 PM,2022,12,04,22,312.8,363,Hazardous,387.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-04 11:00 PM,2022,12,04,23,295.9,346,Hazardous,279.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 12:00 AM,2022,12,05,00,237.4,287,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 01:00 AM,2022,12,05,01,217.2,267,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 02:00 AM,2022,12,05,02,200.6,251,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 03:00 AM,2022,12,05,03,180.8,231,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 04:00 AM,2022,12,05,04,167.9,218,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 05:00 AM,2022,12,05,05,158.9,209,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 06:00 AM,2022,12,05,06,150.9,201,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 07:00 AM,2022,12,05,07,152.9,203,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 08:00 AM,2022,12,05,08,164.4,215,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 09:00 AM,2022,12,05,09,177.2,227,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 10:00 AM,2022,12,05,10,193.9,244,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 11:00 AM,2022,12,05,11,192.7,243,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 12:00 PM,2022,12,05,12,188.9,239,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 01:00 PM,2022,12,05,13,172.9,223,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 02:00 PM,2022,12,05,14,144.6,197,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 03:00 PM,2022,12,05,15,122.5,186,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 04:00 PM,2022,12,05,16,108.2,178,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 05:00 PM,2022,12,05,17,98.6,173,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 06:00 PM,2022,12,05,18,93.8,171,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 07:00 PM,2022,12,05,19,110.8,180,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 08:00 PM,2022,12,05,20,127.4,188,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 09:00 PM,2022,12,05,21,159.7,210,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 10:00 PM,2022,12,05,22,174.3,225,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-05 11:00 PM,2022,12,05,23,186.6,237,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 12:00 AM,2022,12,06,00,174.8,225,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 01:00 AM,2022,12,06,01,161.4,212,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 02:00 AM,2022,12,06,02,148.2,199,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 03:00 AM,2022,12,06,03,136.6,193,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 04:00 AM,2022,12,06,04,132.3,191,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 05:00 AM,2022,12,06,05,130.6,190,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 06:00 AM,2022,12,06,06,129.6,189,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 07:00 AM,2022,12,06,07,130.9,190,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 08:00 AM,2022,12,06,08,137.8,193,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 09:00 AM,2022,12,06,09,146.6,198,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 10:00 AM,2022,12,06,10,150.1,200,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 11:00 AM,2022,12,06,11,149.2,199,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 12:00 PM,2022,12,06,12,146.5,198,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 01:00 PM,2022,12,06,13,143.2,196,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 02:00 PM,2022,12,06,14,135.5,192,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 03:00 PM,2022,12,06,15,111.6,180,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 04:00 PM,2022,12,06,16,98.3,173,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 05:00 PM,2022,12,06,17,97.6,173,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 06:00 PM,2022,12,06,18,100.1,174,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 07:00 PM,2022,12,06,19,110.4,179,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 08:00 PM,2022,12,06,20,132.4,191,Unhealthy,157.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 09:00 PM,2022,12,06,21,160.4,211,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 10:00 PM,2022,12,06,22,177.2,227,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-06 11:00 PM,2022,12,06,23,202.1,252,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 12:00 AM,2022,12,07,00,197.5,248,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 01:00 AM,2022,12,07,01,185.7,236,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 02:00 AM,2022,12,07,02,176.4,227,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 03:00 AM,2022,12,07,03,171.7,222,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 04:00 AM,2022,12,07,04,166.8,217,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 05:00 AM,2022,12,07,05,162.9,213,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 06:00 AM,2022,12,07,06,171.2,222,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 07:00 AM,2022,12,07,07,178.1,228,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 08:00 AM,2022,12,07,08,183.5,234,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 09:00 AM,2022,12,07,09,195.8,246,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 10:00 AM,2022,12,07,10,203.1,253,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 11:00 AM,2022,12,07,11,205.5,256,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 12:00 PM,2022,12,07,12,207.5,257,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 01:00 PM,2022,12,07,13,202.8,253,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 02:00 PM,2022,12,07,14,195.3,245,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 03:00 PM,2022,12,07,15,181.5,232,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 04:00 PM,2022,12,07,16,171.2,222,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 05:00 PM,2022,12,07,17,168.5,219,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 06:00 PM,2022,12,07,18,168.0,218,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 07:00 PM,2022,12,07,19,174.5,225,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 08:00 PM,2022,12,07,20,190.3,240,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 09:00 PM,2022,12,07,21,233.4,283,Very Unhealthy,277.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 10:00 PM,2022,12,07,22,283.6,334,Hazardous,329.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-07 11:00 PM,2022,12,07,23,306.3,356,Hazardous,329.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 12:00 AM,2022,12,08,00,284.6,335,Hazardous,263.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 01:00 AM,2022,12,08,01,275.8,326,Hazardous,267.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 02:00 AM,2022,12,08,02,233.9,284,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 03:00 AM,2022,12,08,03,191.9,242,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 04:00 AM,2022,12,08,04,165.9,216,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 05:00 AM,2022,12,08,05,162.4,213,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 06:00 AM,2022,12,08,06,173.2,223,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 07:00 AM,2022,12,08,07,166.1,216,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 08:00 AM,2022,12,08,08,158.0,208,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 09:00 AM,2022,12,08,09,158.0,208,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 10:00 AM,2022,12,08,10,162.4,213,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 11:00 AM,2022,12,08,11,166.9,217,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 12:00 PM,2022,12,08,12,174.5,225,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 01:00 PM,2022,12,08,13,169.9,220,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 02:00 PM,2022,12,08,14,163.6,214,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 03:00 PM,2022,12,08,15,150.2,200,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 04:00 PM,2022,12,08,16,134.8,192,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 05:00 PM,2022,12,08,17,119.5,184,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 06:00 PM,2022,12,08,18,126.7,188,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 07:00 PM,2022,12,08,19,144.1,197,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 08:00 PM,2022,12,08,20,191.2,241,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 09:00 PM,2022,12,08,21,220.6,270,Very Unhealthy,250.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 10:00 PM,2022,12,08,22,243.8,293,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-08 11:00 PM,2022,12,08,23,236.4,286,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 12:00 AM,2022,12,09,00,238.2,288,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 01:00 AM,2022,12,09,01,229.1,279,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 02:00 AM,2022,12,09,02,222.5,272,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 03:00 AM,2022,12,09,03,224.2,274,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 04:00 AM,2022,12,09,04,226.1,276,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 05:00 AM,2022,12,09,05,214.3,264,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 06:00 AM,2022,12,09,06,200.6,251,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 07:00 AM,2022,12,09,07,192.2,242,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 08:00 AM,2022,12,09,08,192.0,242,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 09:00 AM,2022,12,09,09,200.0,250,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 10:00 AM,2022,12,09,10,202.3,252,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 11:00 AM,2022,12,09,11,195.8,246,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 12:00 PM,2022,12,09,12,185.4,236,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 01:00 PM,2022,12,09,13,167.3,218,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 02:00 PM,2022,12,09,14,154.1,205,Very Unhealthy,137.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 03:00 PM,2022,12,09,15,131.2,190,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 04:00 PM,2022,12,09,16,125.9,187,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 05:00 PM,2022,12,09,17,119.0,184,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 06:00 PM,2022,12,09,18,115.0,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 07:00 PM,2022,12,09,19,129.5,189,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 08:00 PM,2022,12,09,20,152.4,203,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 09:00 PM,2022,12,09,21,166.5,217,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 10:00 PM,2022,12,09,22,168.8,219,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-09 11:00 PM,2022,12,09,23,178.2,228,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 12:00 AM,2022,12,10,00,178.2,228,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kolkata,PM2.5 - Principal,2022-12-10 01:00 PM,2022,12,10,13,-999.0,-999,N/A,120.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 02:00 PM,2022,12,10,14,102.8,175,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 03:00 PM,2022,12,10,15,104.6,176,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 04:00 PM,2022,12,10,16,100.0,174,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 05:00 PM,2022,12,10,17,102.6,175,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 06:00 PM,2022,12,10,18,105.1,177,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 07:00 PM,2022,12,10,19,110.6,179,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 08:00 PM,2022,12,10,20,125.7,187,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 09:00 PM,2022,12,10,21,149.2,199,Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 10:00 PM,2022,12,10,22,164.7,215,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-10 11:00 PM,2022,12,10,23,165.3,216,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 12:00 AM,2022,12,11,00,161.7,212,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 01:00 AM,2022,12,11,01,187.8,238,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 02:00 AM,2022,12,11,02,221.4,271,Very Unhealthy,255.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 03:00 AM,2022,12,11,03,225.7,276,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 04:00 AM,2022,12,11,04,206.3,256,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 05:00 AM,2022,12,11,05,184.6,235,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 06:00 AM,2022,12,11,06,177.8,228,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 07:00 AM,2022,12,11,07,190.7,241,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 08:00 AM,2022,12,11,08,210.0,260,Very Unhealthy,241.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 09:00 AM,2022,12,11,09,218.4,268,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 10:00 AM,2022,12,11,10,224.8,275,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 11:00 AM,2022,12,11,11,222.6,272,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 12:00 PM,2022,12,11,12,202.6,253,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 01:00 PM,2022,12,11,13,180.3,231,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 02:00 PM,2022,12,11,14,148.3,199,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 03:00 PM,2022,12,11,15,134.5,192,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 04:00 PM,2022,12,11,16,130.2,190,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 05:00 PM,2022,12,11,17,125.6,187,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 06:00 PM,2022,12,11,18,127.3,188,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 07:00 PM,2022,12,11,19,141.0,195,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 08:00 PM,2022,12,11,20,167.5,218,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 09:00 PM,2022,12,11,21,194.9,245,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 10:00 PM,2022,12,11,22,219.6,269,Very Unhealthy,243.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-11 11:00 PM,2022,12,11,23,243.3,293,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 12:00 AM,2022,12,12,00,253.1,304,Hazardous,263.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 01:00 AM,2022,12,12,01,261.1,312,Hazardous,269.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 02:00 AM,2022,12,12,02,275.5,326,Hazardous,290.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 03:00 AM,2022,12,12,03,279.3,330,Hazardous,283.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 04:00 AM,2022,12,12,04,271.1,321,Hazardous,263.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 05:00 AM,2022,12,12,05,240.0,290,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 06:00 AM,2022,12,12,06,238.4,288,Very Unhealthy,234.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 07:00 AM,2022,12,12,07,230.6,280,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 08:00 AM,2022,12,12,08,208.4,258,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 09:00 AM,2022,12,12,09,197.0,247,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 10:00 AM,2022,12,12,10,192.3,242,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 11:00 AM,2022,12,12,11,171.4,222,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 12:00 PM,2022,12,12,12,144.9,197,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 01:00 PM,2022,12,12,13,141.9,196,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 02:00 PM,2022,12,12,14,143.9,197,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 03:00 PM,2022,12,12,15,137.4,193,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 04:00 PM,2022,12,12,16,133.9,191,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 05:00 PM,2022,12,12,17,127.1,188,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 06:00 PM,2022,12,12,18,135.6,192,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 07:00 PM,2022,12,12,19,144.0,197,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 08:00 PM,2022,12,12,20,165.2,216,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 09:00 PM,2022,12,12,21,222.1,272,Very Unhealthy,272.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 10:00 PM,2022,12,12,22,255.0,305,Hazardous,288.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-12 11:00 PM,2022,12,12,23,255.1,306,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kolkata,PM2.5 - Principal,2022-12-13 02:00 AM,2022,12,13,02,-999.0,-999,N/A,321.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 03:00 AM,2022,12,13,03,273.6,324,Hazardous,251.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 04:00 AM,2022,12,13,04,273.2,323,Hazardous,273.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 05:00 AM,2022,12,13,05,293.2,343,Hazardous,311.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 06:00 AM,2022,12,13,06,291.0,341,Hazardous,289.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 07:00 AM,2022,12,13,07,297.6,348,Hazardous,309.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 08:00 AM,2022,12,13,08,310.2,360,Hazardous,345.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 09:00 AM,2022,12,13,09,313.3,363,Hazardous,320.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 10:00 AM,2022,12,13,10,280.7,331,Hazardous,219.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 11:00 AM,2022,12,13,11,221.0,271,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 12:00 PM,2022,12,13,12,194.4,245,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 01:00 PM,2022,12,13,13,180.2,230,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 02:00 PM,2022,12,13,14,182.1,232,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 03:00 PM,2022,12,13,15,145.5,197,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 04:00 PM,2022,12,13,16,140.2,195,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 05:00 PM,2022,12,13,17,140.1,195,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 06:00 PM,2022,12,13,18,147.5,199,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 07:00 PM,2022,12,13,19,166.2,217,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 08:00 PM,2022,12,13,20,188.1,238,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 09:00 PM,2022,12,13,21,200.0,250,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 10:00 PM,2022,12,13,22,210.5,260,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-13 11:00 PM,2022,12,13,23,221.7,272,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 12:00 AM,2022,12,14,00,205.3,255,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 01:00 AM,2022,12,14,01,195.1,245,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 02:00 AM,2022,12,14,02,205.6,256,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 03:00 AM,2022,12,14,03,228.1,278,Very Unhealthy,254.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 04:00 AM,2022,12,14,04,246.8,296,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 05:00 AM,2022,12,14,05,245.6,295,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 06:00 AM,2022,12,14,06,234.2,284,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 07:00 AM,2022,12,14,07,236.2,286,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 08:00 AM,2022,12,14,08,239.0,289,Very Unhealthy,245.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 09:00 AM,2022,12,14,09,233.8,284,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 10:00 AM,2022,12,14,10,228.9,279,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 11:00 AM,2022,12,14,11,220.8,271,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 12:00 PM,2022,12,14,12,201.6,252,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 01:00 PM,2022,12,14,13,188.6,239,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 02:00 PM,2022,12,14,14,160.2,211,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 03:00 PM,2022,12,14,15,150.4,200,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 04:00 PM,2022,12,14,16,147.4,198,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 05:00 PM,2022,12,14,17,178.9,229,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 06:00 PM,2022,12,14,18,164.0,214,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 07:00 PM,2022,12,14,19,166.6,217,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 08:00 PM,2022,12,14,20,184.5,235,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 09:00 PM,2022,12,14,21,215.7,266,Very Unhealthy,250.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 10:00 PM,2022,12,14,22,232.9,283,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-14 11:00 PM,2022,12,14,23,235.2,285,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 12:00 AM,2022,12,15,00,257.1,308,Hazardous,277.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 01:00 AM,2022,12,15,01,261.5,312,Hazardous,266.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 02:00 AM,2022,12,15,02,259.7,310,Hazardous,258.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 03:00 AM,2022,12,15,03,271.4,322,Hazardous,283.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 04:00 AM,2022,12,15,04,236.8,287,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 05:00 AM,2022,12,15,05,203.7,254,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 06:00 AM,2022,12,15,06,198.2,248,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 07:00 AM,2022,12,15,07,182.9,233,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 08:00 AM,2022,12,15,08,181.6,232,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 09:00 AM,2022,12,15,09,187.6,238,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 10:00 AM,2022,12,15,10,189.8,240,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 11:00 AM,2022,12,15,11,173.5,224,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 12:00 PM,2022,12,15,12,140.5,195,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 01:00 PM,2022,12,15,13,113.7,181,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 02:00 PM,2022,12,15,14,108.3,178,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 03:00 PM,2022,12,15,15,86.6,167,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 04:00 PM,2022,12,15,16,80.8,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 05:00 PM,2022,12,15,17,81.8,165,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 06:00 PM,2022,12,15,18,78.4,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 07:00 PM,2022,12,15,19,91.2,169,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 08:00 PM,2022,12,15,20,122.1,185,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 09:00 PM,2022,12,15,21,165.5,216,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 10:00 PM,2022,12,15,22,193.2,243,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-15 11:00 PM,2022,12,15,23,212.6,263,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 12:00 AM,2022,12,16,00,233.8,284,Very Unhealthy,255.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 01:00 AM,2022,12,16,01,241.9,292,Very Unhealthy,250.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 02:00 AM,2022,12,16,02,205.9,256,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 03:00 AM,2022,12,16,03,161.4,212,Very Unhealthy,117.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 04:00 AM,2022,12,16,04,139.7,194,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 05:00 AM,2022,12,16,05,126.3,188,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 06:00 AM,2022,12,16,06,122.6,186,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 07:00 AM,2022,12,16,07,133.8,191,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 08:00 AM,2022,12,16,08,156.4,207,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 09:00 AM,2022,12,16,09,166.7,217,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 10:00 AM,2022,12,16,10,159.3,210,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 11:00 AM,2022,12,16,11,135.6,192,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 12:00 PM,2022,12,16,12,104.3,176,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 01:00 PM,2022,12,16,13,89.1,168,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 02:00 PM,2022,12,16,14,79.5,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 03:00 PM,2022,12,16,15,73.2,160,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 04:00 PM,2022,12,16,16,69.1,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 05:00 PM,2022,12,16,17,69.0,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 06:00 PM,2022,12,16,18,72.5,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 07:00 PM,2022,12,16,19,90.7,169,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 08:00 PM,2022,12,16,20,113.8,181,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 09:00 PM,2022,12,16,21,142.4,196,Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 10:00 PM,2022,12,16,22,177.2,227,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-16 11:00 PM,2022,12,16,23,175.1,225,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 12:00 AM,2022,12,17,00,174.0,224,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 01:00 AM,2022,12,17,01,195.0,245,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 02:00 AM,2022,12,17,02,215.5,265,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 03:00 AM,2022,12,17,03,211.2,261,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 04:00 AM,2022,12,17,04,232.6,282,Very Unhealthy,254.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 05:00 AM,2022,12,17,05,241.8,291,Very Unhealthy,251.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 06:00 AM,2022,12,17,06,227.9,278,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 07:00 AM,2022,12,17,07,222.0,272,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 08:00 AM,2022,12,17,08,219.5,269,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 09:00 AM,2022,12,17,09,224.7,275,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 10:00 AM,2022,12,17,10,224.5,274,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 11:00 AM,2022,12,17,11,196.2,246,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 12:00 PM,2022,12,17,12,146.5,198,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 01:00 PM,2022,12,17,13,137.2,193,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 02:00 PM,2022,12,17,14,145.1,197,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 03:00 PM,2022,12,17,15,142.0,196,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 04:00 PM,2022,12,17,16,136.5,193,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 05:00 PM,2022,12,17,17,134.2,192,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 06:00 PM,2022,12,17,18,138.6,194,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 07:00 PM,2022,12,17,19,151.2,202,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 08:00 PM,2022,12,17,20,196.1,246,Very Unhealthy,241.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 09:00 PM,2022,12,17,21,237.0,287,Very Unhealthy,278.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 10:00 PM,2022,12,17,22,272.5,323,Hazardous,308.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-17 11:00 PM,2022,12,17,23,322.8,373,Hazardous,373.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 12:00 AM,2022,12,18,00,349.9,400,Hazardous,377.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 01:00 AM,2022,12,18,01,361.4,408,Hazardous,373.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 02:00 AM,2022,12,18,02,371.7,415,Hazardous,382.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 03:00 AM,2022,12,18,03,385.4,424,Hazardous,399.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 04:00 AM,2022,12,18,04,343.2,393,Hazardous,301.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 05:00 AM,2022,12,18,05,308.6,359,Hazardous,274.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 06:00 AM,2022,12,18,06,274.3,325,Hazardous,240.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 07:00 AM,2022,12,18,07,262.5,313,Hazardous,232.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 08:00 AM,2022,12,18,08,239.2,289,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 09:00 AM,2022,12,18,09,233.1,283,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 10:00 AM,2022,12,18,10,229.4,279,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 11:00 AM,2022,12,18,11,235.5,285,Very Unhealthy,243.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 12:00 PM,2022,12,18,12,236.6,286,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 01:00 PM,2022,12,18,13,226.6,276,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 02:00 PM,2022,12,18,14,216.3,266,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 03:00 PM,2022,12,18,15,194.2,244,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 04:00 PM,2022,12,18,16,161.9,212,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 05:00 PM,2022,12,18,17,155.7,206,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 06:00 PM,2022,12,18,18,149.0,199,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 07:00 PM,2022,12,18,19,155.7,206,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 08:00 PM,2022,12,18,20,185.7,236,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 09:00 PM,2022,12,18,21,226.6,276,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 10:00 PM,2022,12,18,22,268.9,319,Hazardous,311.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-18 11:00 PM,2022,12,18,23,283.4,334,Hazardous,298.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 12:00 AM,2022,12,19,00,294.2,344,Hazardous,305.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 01:00 AM,2022,12,19,01,322.1,372,Hazardous,350.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 02:00 AM,2022,12,19,02,324.5,374,Hazardous,327.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 03:00 AM,2022,12,19,03,298.8,349,Hazardous,273.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 04:00 AM,2022,12,19,04,266.9,317,Hazardous,235.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 05:00 AM,2022,12,19,05,240.4,290,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 06:00 AM,2022,12,19,06,212.7,263,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 07:00 AM,2022,12,19,07,207.3,257,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 08:00 AM,2022,12,19,08,201.0,251,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 09:00 AM,2022,12,19,09,207.1,257,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 10:00 AM,2022,12,19,10,215.5,265,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 11:00 AM,2022,12,19,11,226.1,276,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 12:00 PM,2022,12,19,12,226.5,276,Very Unhealthy,227.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 01:00 PM,2022,12,19,13,206.4,256,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 02:00 PM,2022,12,19,14,181.5,232,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 03:00 PM,2022,12,19,15,160.3,211,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 04:00 PM,2022,12,19,16,157.4,208,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 05:00 PM,2022,12,19,17,144.6,197,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 06:00 PM,2022,12,19,18,136.6,193,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 07:00 PM,2022,12,19,19,140.0,195,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 08:00 PM,2022,12,19,20,169.1,219,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 09:00 PM,2022,12,19,21,207.2,257,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 10:00 PM,2022,12,19,22,250.5,301,Hazardous,292.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-19 11:00 PM,2022,12,19,23,264.7,315,Hazardous,279.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 12:00 AM,2022,12,20,00,270.4,321,Hazardous,276.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 01:00 AM,2022,12,20,01,284.7,335,Hazardous,299.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 02:00 AM,2022,12,20,02,293.8,344,Hazardous,303.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 03:00 AM,2022,12,20,03,282.9,333,Hazardous,272.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 04:00 AM,2022,12,20,04,275.4,326,Hazardous,268.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 05:00 AM,2022,12,20,05,246.7,296,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 06:00 AM,2022,12,20,06,226.3,276,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 07:00 AM,2022,12,20,07,230.6,280,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 08:00 AM,2022,12,20,08,225.2,275,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 09:00 AM,2022,12,20,09,233.8,284,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 10:00 AM,2022,12,20,10,243.0,293,Very Unhealthy,263.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 11:00 AM,2022,12,20,11,246.1,296,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 12:00 PM,2022,12,20,12,240.2,290,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 01:00 PM,2022,12,20,13,226.7,277,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 02:00 PM,2022,12,20,14,208.8,259,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 03:00 PM,2022,12,20,15,161.2,212,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 04:00 PM,2022,12,20,16,145.1,197,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 05:00 PM,2022,12,20,17,137.0,193,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 06:00 PM,2022,12,20,18,135.0,192,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 07:00 PM,2022,12,20,19,151.5,202,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 08:00 PM,2022,12,20,20,195.7,246,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 09:00 PM,2022,12,20,21,231.8,282,Very Unhealthy,268.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 10:00 PM,2022,12,20,22,267.4,318,Hazardous,303.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-20 11:00 PM,2022,12,20,23,301.7,352,Hazardous,336.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 12:00 AM,2022,12,21,00,327.3,377,Hazardous,353.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 01:00 AM,2022,12,21,01,328.2,378,Hazardous,329.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 02:00 AM,2022,12,21,02,345.1,395,Hazardous,362.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 03:00 AM,2022,12,21,03,349.0,399,Hazardous,353.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 04:00 AM,2022,12,21,04,342.5,392,Hazardous,336.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 05:00 AM,2022,12,21,05,300.3,350,Hazardous,258.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 06:00 AM,2022,12,21,06,282.6,333,Hazardous,265.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 07:00 AM,2022,12,21,07,289.3,339,Hazardous,276.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 08:00 AM,2022,12,21,08,284.9,335,Hazardous,264.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 09:00 AM,2022,12,21,09,268.7,319,Hazardous,243.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 10:00 AM,2022,12,21,10,261.7,312,Hazardous,248.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 11:00 AM,2022,12,21,11,246.1,296,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 12:00 PM,2022,12,21,12,226.8,277,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 01:00 PM,2022,12,21,13,214.1,264,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 02:00 PM,2022,12,21,14,187.1,237,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 03:00 PM,2022,12,21,15,150.0,200,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 04:00 PM,2022,12,21,16,137.4,193,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 05:00 PM,2022,12,21,17,134.7,192,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 06:00 PM,2022,12,21,18,142.3,196,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 07:00 PM,2022,12,21,19,176.1,226,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 08:00 PM,2022,12,21,20,244.0,294,Very Unhealthy,312.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 09:00 PM,2022,12,21,21,300.0,350,Hazardous,356.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 10:00 PM,2022,12,21,22,318.0,368,Hazardous,336.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-21 11:00 PM,2022,12,21,23,328.0,378,Hazardous,338.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 12:00 AM,2022,12,22,00,336.0,386,Hazardous,344.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 01:00 AM,2022,12,22,01,346.0,396,Hazardous,356.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 02:00 AM,2022,12,22,02,350.5,401,Hazardous,355.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 03:00 AM,2022,12,22,03,345.7,395,Hazardous,341.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 04:00 AM,2022,12,22,04,324.4,374,Hazardous,303.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 05:00 AM,2022,12,22,05,293.2,343,Hazardous,262.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 06:00 AM,2022,12,22,06,279.5,330,Hazardous,249.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 07:00 AM,2022,12,22,07,276.1,326,Hazardous,245.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 08:00 AM,2022,12,22,08,275.6,326,Hazardous,275.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 09:00 AM,2022,12,22,09,280.8,331,Hazardous,293.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 10:00 AM,2022,12,22,10,277.8,328,Hazardous,272.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 11:00 AM,2022,12,22,11,272.0,322,Hazardous,260.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 12:00 PM,2022,12,22,12,255.0,305,Hazardous,228.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 01:00 PM,2022,12,22,13,236.2,286,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 02:00 PM,2022,12,22,14,213.5,263,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 03:00 PM,2022,12,22,15,191.6,242,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 04:00 PM,2022,12,22,16,170.5,221,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 05:00 PM,2022,12,22,17,146.6,198,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 06:00 PM,2022,12,22,18,145.3,197,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 07:00 PM,2022,12,22,19,161.1,212,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 08:00 PM,2022,12,22,20,212.0,262,Very Unhealthy,263.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 09:00 PM,2022,12,22,21,252.5,303,Hazardous,293.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 10:00 PM,2022,12,22,22,261.7,312,Hazardous,271.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-22 11:00 PM,2022,12,22,23,301.3,351,Hazardous,341.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 12:00 AM,2022,12,23,00,301.4,351,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kolkata,PM2.5 - Principal,2022-12-23 02:00 AM,2022,12,23,02,-999.0,-999,N/A,421.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 03:00 AM,2022,12,23,03,432.7,455,Hazardous,455.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 04:00 AM,2022,12,23,04,447.8,465,Hazardous,460.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 05:00 AM,2022,12,23,05,356.1,405,Hazardous,273.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 06:00 AM,2022,12,23,06,312.5,362,Hazardous,271.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 07:00 AM,2022,12,23,07,305.9,356,Hazardous,285.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 08:00 AM,2022,12,23,08,258.5,309,Hazardous,219.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 09:00 AM,2022,12,23,09,232.7,282,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 10:00 AM,2022,12,23,10,193.2,243,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 11:00 AM,2022,12,23,11,167.5,218,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 12:00 PM,2022,12,23,12,149.7,200,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 01:00 PM,2022,12,23,13,148.8,199,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 02:00 PM,2022,12,23,14,139.9,195,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 03:00 PM,2022,12,23,15,139.4,194,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 04:00 PM,2022,12,23,16,116.1,182,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 05:00 PM,2022,12,23,17,107.5,178,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 06:00 PM,2022,12,23,18,115.7,182,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 07:00 PM,2022,12,23,19,137.8,193,Unhealthy,160.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 08:00 PM,2022,12,23,20,161.4,212,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 09:00 PM,2022,12,23,21,198.2,248,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-23 10:00 PM,2022,12,23,22,198.2,248,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kolkata,PM2.5 - Principal,2022-12-24 04:00 AM,2022,12,24,04,-999.0,-999,N/A,413.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 05:00 AM,2022,12,24,05,420.6,447,Hazardous,426.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 06:00 AM,2022,12,24,06,354.1,403,Hazardous,304.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 07:00 AM,2022,12,24,07,308.2,358,Hazardous,268.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 08:00 AM,2022,12,24,08,289.1,339,Hazardous,262.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 09:00 AM,2022,12,24,09,278.1,328,Hazardous,256.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 10:00 AM,2022,12,24,10,247.5,297,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 11:00 AM,2022,12,24,11,216.2,266,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 12:00 PM,2022,12,24,12,201.6,252,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 01:00 PM,2022,12,24,13,189.7,240,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 02:00 PM,2022,12,24,14,166.8,217,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 03:00 PM,2022,12,24,15,152.9,203,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 04:00 PM,2022,12,24,16,143.9,197,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 05:00 PM,2022,12,24,17,130.9,190,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 06:00 PM,2022,12,24,18,138.4,194,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 07:00 PM,2022,12,24,19,146.2,198,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 08:00 PM,2022,12,24,20,168.5,219,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 09:00 PM,2022,12,24,21,202.2,252,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 10:00 PM,2022,12,24,22,222.1,272,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-24 11:00 PM,2022,12,24,23,205.5,256,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 12:00 AM,2022,12,25,00,193.7,244,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 01:00 AM,2022,12,25,01,196.3,246,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 02:00 AM,2022,12,25,02,197.7,248,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 03:00 AM,2022,12,25,03,202.8,253,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 04:00 AM,2022,12,25,04,191.4,242,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 05:00 AM,2022,12,25,05,197.1,247,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 06:00 AM,2022,12,25,06,188.0,238,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 07:00 AM,2022,12,25,07,185.7,236,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 08:00 AM,2022,12,25,08,177.4,228,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 09:00 AM,2022,12,25,09,174.4,225,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 10:00 AM,2022,12,25,10,171.8,222,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 11:00 AM,2022,12,25,11,143.2,196,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 12:00 PM,2022,12,25,12,120.3,184,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 01:00 PM,2022,12,25,13,111.1,180,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 02:00 PM,2022,12,25,14,99.0,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 03:00 PM,2022,12,25,15,96.5,172,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 04:00 PM,2022,12,25,16,94.7,171,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 05:00 PM,2022,12,25,17,95.3,172,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 06:00 PM,2022,12,25,18,86.6,167,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 07:00 PM,2022,12,25,19,83.3,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 08:00 PM,2022,12,25,20,86.6,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 09:00 PM,2022,12,25,21,86.8,167,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 10:00 PM,2022,12,25,22,88.2,168,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-25 11:00 PM,2022,12,25,23,90.9,169,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 12:00 AM,2022,12,26,00,91.6,170,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 01:00 AM,2022,12,26,01,87.7,168,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 02:00 AM,2022,12,26,02,85.3,166,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 03:00 AM,2022,12,26,03,83.4,165,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 04:00 AM,2022,12,26,04,82.3,165,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 05:00 AM,2022,12,26,05,83.0,165,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 06:00 AM,2022,12,26,06,83.8,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 07:00 AM,2022,12,26,07,82.9,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 08:00 AM,2022,12,26,08,81.9,165,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 09:00 AM,2022,12,26,09,77.1,162,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 10:00 AM,2022,12,26,10,74.5,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 11:00 AM,2022,12,26,11,73.0,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 12:00 PM,2022,12,26,12,70.7,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 01:00 PM,2022,12,26,13,68.4,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 02:00 PM,2022,12,26,14,67.7,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 03:00 PM,2022,12,26,15,65.4,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 04:00 PM,2022,12,26,16,63.0,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 05:00 PM,2022,12,26,17,60.7,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 06:00 PM,2022,12,26,18,62.6,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 07:00 PM,2022,12,26,19,63.8,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 08:00 PM,2022,12,26,20,69.4,158,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 09:00 PM,2022,12,26,21,88.0,168,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 10:00 PM,2022,12,26,22,87.1,167,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-26 11:00 PM,2022,12,26,23,88.4,168,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 12:00 AM,2022,12,27,00,83.1,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 01:00 AM,2022,12,27,01,81.2,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 02:00 AM,2022,12,27,02,81.5,164,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 03:00 AM,2022,12,27,03,77.6,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 04:00 AM,2022,12,27,04,73.6,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 05:00 AM,2022,12,27,05,72.3,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 06:00 AM,2022,12,27,06,66.4,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 07:00 AM,2022,12,27,07,64.9,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 08:00 AM,2022,12,27,08,68.0,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 09:00 AM,2022,12,27,09,73.9,161,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 10:00 AM,2022,12,27,10,73.9,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 11:00 AM,2022,12,27,11,73.0,160,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 12:00 PM,2022,12,27,12,72.7,160,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 01:00 PM,2022,12,27,13,72.7,160,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 02:00 PM,2022,12,27,14,76.0,162,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 03:00 PM,2022,12,27,15,77.5,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 04:00 PM,2022,12,27,16,78.9,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 05:00 PM,2022,12,27,17,83.4,165,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 06:00 PM,2022,12,27,18,98.7,173,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 07:00 PM,2022,12,27,19,113.2,181,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 08:00 PM,2022,12,27,20,140.3,195,Unhealthy,165.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 09:00 PM,2022,12,27,21,160.7,211,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 10:00 PM,2022,12,27,22,159.3,210,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-27 11:00 PM,2022,12,27,23,163.6,214,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 12:00 AM,2022,12,28,00,168.8,219,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 01:00 AM,2022,12,28,01,167.9,218,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 02:00 AM,2022,12,28,02,175.4,226,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 03:00 AM,2022,12,28,03,174.7,225,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 04:00 AM,2022,12,28,04,179.3,230,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 05:00 AM,2022,12,28,05,183.5,234,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 06:00 AM,2022,12,28,06,182.6,233,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 07:00 AM,2022,12,28,07,183.5,234,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 08:00 AM,2022,12,28,08,192.1,242,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 09:00 AM,2022,12,28,09,200.6,251,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 10:00 AM,2022,12,28,10,203.1,253,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 11:00 AM,2022,12,28,11,201.4,251,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 12:00 PM,2022,12,28,12,200.1,250,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 01:00 PM,2022,12,28,13,195.3,245,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 02:00 PM,2022,12,28,14,190.4,241,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 03:00 PM,2022,12,28,15,186.7,237,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 04:00 PM,2022,12,28,16,175.0,225,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 05:00 PM,2022,12,28,17,170.2,221,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 06:00 PM,2022,12,28,18,166.8,217,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 07:00 PM,2022,12,28,19,173.5,224,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 08:00 PM,2022,12,28,20,189.9,240,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 09:00 PM,2022,12,28,21,198.7,249,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 10:00 PM,2022,12,28,22,200.6,251,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-28 11:00 PM,2022,12,28,23,199.2,249,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-29 12:00 AM,2022,12,29,00,199.2,249,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kolkata,PM2.5 - Principal,2022-12-30 07:00 PM,2022,12,30,19,-999.0,-999,N/A,216.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-30 08:00 PM,2022,12,30,20,252.1,303,Hazardous,280.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-30 09:00 PM,2022,12,30,21,267.3,318,Hazardous,287.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-30 10:00 PM,2022,12,30,22,294.4,345,Hazardous,328.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-30 11:00 PM,2022,12,30,23,304.7,355,Hazardous,321.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-31 12:00 AM,2022,12,31,00,287.3,337,Hazardous,258.0,UG/M3,1 Hr,Valid
+Kolkata,PM2.5 - Principal,2022-12-31 01:00 AM,2022,12,31,01,268.8,319,Hazardous,236.0,UG/M3,1 Hr,Valid

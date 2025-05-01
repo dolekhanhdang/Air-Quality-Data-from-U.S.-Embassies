@@ -1,0 +1,665 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+N'Djamena,PM2.5 - Principal,2023-02-01 01:00 AM,2023,02,01,01,216.3,266,Very Unhealthy,298.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 02:00 AM,2023,02,01,02,286.1,336,Hazardous,356.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 03:00 AM,2023,02,01,03,331.6,381,Hazardous,377.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 04:00 AM,2023,02,01,04,368.8,413,Hazardous,406.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 05:00 AM,2023,02,01,05,402.4,435,Hazardous,436.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 06:00 AM,2023,02,01,06,414.2,443,Hazardous,426.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 07:00 AM,2023,02,01,07,411.1,441,Hazardous,408.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 08:00 AM,2023,02,01,08,382.0,422,Hazardous,353.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 09:00 AM,2023,02,01,09,312.0,362,Hazardous,242.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 10:00 AM,2023,02,01,10,231.0,281,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 11:00 AM,2023,02,01,11,173.0,223,Very Unhealthy,115.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 12:00 PM,2023,02,01,12,136.5,193,Unhealthy,100.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 01:00 PM,2023,02,01,13,112.2,180,Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 02:00 PM,2023,02,01,14,113.0,181,Unhealthy,114.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 03:00 PM,2023,02,01,15,109.0,179,Unhealthy,105.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 04:00 PM,2023,02,01,16,425.0,450,Hazardous,741.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 05:00 PM,2023,02,01,17,352.5,402,Hazardous,280.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 06:00 PM,2023,02,01,18,305.2,355,Hazardous,258.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 07:00 PM,2023,02,01,19,284.0,334,Hazardous,263.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 08:00 PM,2023,02,01,20,268.0,318,Hazardous,252.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 09:00 PM,2023,02,01,21,252.5,303,Hazardous,237.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 10:00 PM,2023,02,01,22,231.2,281,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-01 11:00 PM,2023,02,01,23,392.1,428,Hazardous,553.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 12:00 AM,2023,02,02,00,688.7,624,Hazardous,985.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 01:00 AM,2023,02,02,01,830.4,718,Hazardous,972.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 02:00 AM,2023,02,02,02,718.2,644,Hazardous,606.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 03:00 AM,2023,02,02,03,590.1,559,Hazardous,462.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 04:00 AM,2023,02,02,04,483.5,489,Hazardous,377.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 05:00 AM,2023,02,02,05,400.2,434,Hazardous,317.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 06:00 AM,2023,02,02,06,331.6,381,Hazardous,263.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 07:00 AM,2023,02,02,07,281.8,332,Hazardous,232.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 08:00 AM,2023,02,02,08,239.4,289,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 09:00 AM,2023,02,02,09,195.1,245,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 10:00 AM,2023,02,02,10,152.5,203,Very Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 11:00 AM,2023,02,02,11,122.2,185,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 12:00 PM,2023,02,02,12,107.0,178,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 01:00 PM,2023,02,02,13,96.3,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 02:00 PM,2023,02,02,14,88.1,168,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 03:00 PM,2023,02,02,15,82.0,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 04:00 PM,2023,02,02,16,75.4,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 05:00 PM,2023,02,02,17,69.7,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 06:00 PM,2023,02,02,18,82.3,165,Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 07:00 PM,2023,02,02,19,135.6,192,Unhealthy,189.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 08:00 PM,2023,02,02,20,139.3,194,Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 09:00 PM,2023,02,02,21,108.1,178,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 10:00 PM,2023,02,02,22,82.5,165,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-02 11:00 PM,2023,02,02,23,77.7,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 12:00 AM,2023,02,03,00,123.4,186,Unhealthy,169.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 01:00 AM,2023,02,03,01,222.2,272,Very Unhealthy,321.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 02:00 AM,2023,02,03,02,289.6,340,Hazardous,357.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 03:00 AM,2023,02,03,03,303.3,353,Hazardous,317.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 04:00 AM,2023,02,03,04,284.2,334,Hazardous,265.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 05:00 AM,2023,02,03,05,257.6,308,Hazardous,231.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 06:00 AM,2023,02,03,06,233.8,284,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 07:00 AM,2023,02,03,07,234.9,285,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 08:00 AM,2023,02,03,08,253.4,304,Hazardous,272.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 09:00 AM,2023,02,03,09,217.2,267,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 10:00 AM,2023,02,03,10,181.6,232,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 11:00 AM,2023,02,03,11,151.8,202,Very Unhealthy,122.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 12:00 PM,2023,02,03,12,126.4,188,Unhealthy,101.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 01:00 PM,2023,02,03,13,107.6,178,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 02:00 PM,2023,02,03,14,112.8,181,Unhealthy,118.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 03:00 PM,2023,02,03,15,89.3,168,Unhealthy,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 04:00 PM,2023,02,03,16,73.6,160,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 05:00 PM,2023,02,03,17,70.3,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 06:00 PM,2023,02,03,18,84.1,166,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 07:00 PM,2023,02,03,19,193.5,244,Very Unhealthy,303.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 08:00 PM,2023,02,03,20,193.5,244,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2023-02-03 09:00 PM,2023,02,03,21,201.1,251,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 10:00 PM,2023,02,03,22,135.3,192,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-03 11:00 PM,2023,02,03,23,93.5,171,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 12:00 AM,2023,02,04,00,69.5,158,Unhealthy,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 01:00 AM,2023,02,04,01,56.5,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 02:00 AM,2023,02,04,02,47.1,130,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 03:00 AM,2023,02,04,03,42.0,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 04:00 AM,2023,02,04,04,38.5,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 05:00 AM,2023,02,04,05,35.2,100,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 06:00 AM,2023,02,04,06,37.1,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 07:00 AM,2023,02,04,07,51.5,140,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 08:00 AM,2023,02,04,08,86.2,167,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 09:00 AM,2023,02,04,09,98.6,173,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 10:00 AM,2023,02,04,10,107.3,178,Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 11:00 AM,2023,02,04,11,88.6,168,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 12:00 PM,2023,02,04,12,68.3,158,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 01:00 PM,2023,02,04,13,56.6,152,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 02:00 PM,2023,02,04,14,45.8,126,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 03:00 PM,2023,02,04,15,41.4,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 04:00 PM,2023,02,04,16,39.2,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 05:00 PM,2023,02,04,17,41.6,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 06:00 PM,2023,02,04,18,49.3,135,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 07:00 PM,2023,02,04,19,132.1,191,Unhealthy,215.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 08:00 PM,2023,02,04,20,217.6,267,Very Unhealthy,303.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 09:00 PM,2023,02,04,21,178.3,229,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 10:00 PM,2023,02,04,22,131.6,190,Unhealthy,85.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-04 11:00 PM,2023,02,04,23,122.8,186,Unhealthy,114.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 12:00 AM,2023,02,05,00,106.9,178,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 01:00 AM,2023,02,05,01,70.4,159,Unhealthy,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 02:00 AM,2023,02,05,02,52.7,143,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 03:00 AM,2023,02,05,03,41.8,117,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 04:00 AM,2023,02,05,04,34.9,99,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 05:00 AM,2023,02,05,05,30.4,89,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 06:00 AM,2023,02,05,06,30.2,89,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 07:00 AM,2023,02,05,07,50.0,137,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 08:00 AM,2023,02,05,08,75.0,161,Unhealthy,100.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 09:00 AM,2023,02,05,09,70.5,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 10:00 AM,2023,02,05,10,59.2,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 11:00 AM,2023,02,05,11,50.6,138,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 12:00 PM,2023,02,05,12,42.8,119,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 01:00 PM,2023,02,05,13,34.3,98,Moderate,26.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 02:00 PM,2023,02,05,14,30.6,90,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 03:00 PM,2023,02,05,15,29.8,88,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 04:00 PM,2023,02,05,16,29.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 05:00 PM,2023,02,05,17,34.7,99,Moderate,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 06:00 PM,2023,02,05,18,58.3,152,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 07:00 PM,2023,02,05,19,160.7,211,Very Unhealthy,263.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 08:00 PM,2023,02,05,20,189.8,240,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 09:00 PM,2023,02,05,21,197.4,247,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 10:00 PM,2023,02,05,22,183.7,234,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-05 11:00 PM,2023,02,05,23,132.8,191,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 12:00 AM,2023,02,06,00,92.4,170,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 01:00 AM,2023,02,06,01,64.2,155,Unhealthy,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 02:00 AM,2023,02,06,02,43.1,120,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 03:00 AM,2023,02,06,03,32.0,93,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 04:00 AM,2023,02,06,04,26.5,81,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 05:00 AM,2023,02,06,05,20.2,68,Moderate,14.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 06:00 AM,2023,02,06,06,19.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 07:00 AM,2023,02,06,07,30.5,90,Moderate,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 08:00 AM,2023,02,06,08,50.7,138,Unhealthy for Sensitive Groups,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 09:00 AM,2023,02,06,09,55.8,151,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 10:00 AM,2023,02,06,10,73.9,161,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 11:00 AM,2023,02,06,11,73.9,161,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2023-02-06 01:00 PM,2023,02,06,13,-999.0,-999,N/A,720.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2023-02-06 02:00 PM,2023,02,06,14,509.2,506,Hazardous,458.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 03:00 PM,2023,02,06,15,452.3,468,Hazardous,406.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 04:00 PM,2023,02,06,16,367.7,412,Hazardous,291.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 05:00 PM,2023,02,06,17,314.6,365,Hazardous,264.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 06:00 PM,2023,02,06,18,292.0,342,Hazardous,270.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 07:00 PM,2023,02,06,19,299.1,349,Hazardous,306.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 08:00 PM,2023,02,06,20,291.5,342,Hazardous,284.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 09:00 PM,2023,02,06,21,272.2,323,Hazardous,253.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 10:00 PM,2023,02,06,22,249.1,299,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-06 11:00 PM,2023,02,06,23,206.0,256,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 12:00 AM,2023,02,07,00,216.0,266,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 01:00 AM,2023,02,07,01,278.4,329,Hazardous,341.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 02:00 AM,2023,02,07,02,347.7,397,Hazardous,417.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 03:00 AM,2023,02,07,03,449.3,466,Hazardous,551.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 04:00 AM,2023,02,07,04,520.2,513,Hazardous,591.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 05:00 AM,2023,02,07,05,539.1,526,Hazardous,558.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 06:00 AM,2023,02,07,06,532.1,521,Hazardous,525.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 07:00 AM,2023,02,07,07,533.5,522,Hazardous,535.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 08:00 AM,2023,02,07,08,511.3,507,Hazardous,489.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 09:00 AM,2023,02,07,09,425.1,450,Hazardous,339.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 10:00 AM,2023,02,07,10,333.0,383,Hazardous,241.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 11:00 AM,2023,02,07,11,271.0,321,Hazardous,209.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 12:00 PM,2023,02,07,12,229.0,279,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 01:00 PM,2023,02,07,13,200.9,251,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 02:00 PM,2023,02,07,14,177.4,228,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 03:00 PM,2023,02,07,15,164.1,214,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 04:00 PM,2023,02,07,16,155.0,205,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 05:00 PM,2023,02,07,17,130.9,190,Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 06:00 PM,2023,02,07,18,104.4,176,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 07:00 PM,2023,02,07,19,150.6,201,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 08:00 PM,2023,02,07,20,159.7,210,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 09:00 PM,2023,02,07,21,151.3,202,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 10:00 PM,2023,02,07,22,138.1,194,Unhealthy,125.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-07 11:00 PM,2023,02,07,23,157.0,207,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 12:00 AM,2023,02,08,00,246.5,296,Very Unhealthy,336.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 01:00 AM,2023,02,08,01,343.3,393,Hazardous,440.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 02:00 AM,2023,02,08,02,426.6,451,Hazardous,510.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 03:00 AM,2023,02,08,03,444.3,463,Hazardous,462.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 04:00 AM,2023,02,08,04,420.2,447,Hazardous,396.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 05:00 AM,2023,02,08,05,365.1,411,Hazardous,310.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 06:00 AM,2023,02,08,06,305.0,355,Hazardous,245.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 07:00 AM,2023,02,08,07,262.0,312,Hazardous,219.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 08:00 AM,2023,02,08,08,234.0,284,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 09:00 AM,2023,02,08,09,201.5,252,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 10:00 AM,2023,02,08,10,178.7,229,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 11:00 AM,2023,02,08,11,161.8,212,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 12:00 PM,2023,02,08,12,148.9,199,Unhealthy,136.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 01:00 PM,2023,02,08,13,137.9,194,Unhealthy,127.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 02:00 PM,2023,02,08,14,130.4,190,Unhealthy,123.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 03:00 PM,2023,02,08,15,125.6,187,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 04:00 PM,2023,02,08,16,123.2,186,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 05:00 PM,2023,02,08,17,118.6,184,Unhealthy,114.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 06:00 PM,2023,02,08,18,120.9,185,Unhealthy,123.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 07:00 PM,2023,02,08,19,170.7,221,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 08:00 PM,2023,02,08,20,193.3,243,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 09:00 PM,2023,02,08,21,177.0,227,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 10:00 PM,2023,02,08,22,140.1,195,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-08 11:00 PM,2023,02,08,23,118.0,183,Unhealthy,96.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 12:00 AM,2023,02,09,00,115.5,182,Unhealthy,113.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 01:00 AM,2023,02,09,01,129.2,189,Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 02:00 AM,2023,02,09,02,145.1,197,Unhealthy,161.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 03:00 AM,2023,02,09,03,148.5,199,Unhealthy,152.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 04:00 AM,2023,02,09,04,134.7,192,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 05:00 AM,2023,02,09,05,118.3,183,Unhealthy,102.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 06:00 AM,2023,02,09,06,101.1,175,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 07:00 AM,2023,02,09,07,116.5,182,Unhealthy,132.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 08:00 AM,2023,02,09,08,157.7,208,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 09:00 AM,2023,02,09,09,168.8,219,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 10:00 AM,2023,02,09,10,168.9,219,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2023-02-09 11:00 AM,2023,02,09,11,553.7,535,Hazardous,746.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 12:00 PM,2023,02,09,12,361.9,409,Hazardous,218.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 01:00 PM,2023,02,09,13,253.1,304,Hazardous,158.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 02:00 PM,2023,02,09,14,191.6,242,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 03:00 PM,2023,02,09,15,152.2,203,Very Unhealthy,114.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 04:00 PM,2023,02,09,16,130.4,190,Unhealthy,109.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 05:00 PM,2023,02,09,17,114.6,182,Unhealthy,99.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 06:00 PM,2023,02,09,18,120.3,184,Unhealthy,126.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 07:00 PM,2023,02,09,19,205.7,256,Very Unhealthy,291.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 08:00 PM,2023,02,09,20,228.9,279,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 09:00 PM,2023,02,09,21,219.9,270,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 10:00 PM,2023,02,09,22,175.9,226,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-09 11:00 PM,2023,02,09,23,142.4,196,Unhealthy,109.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 12:00 AM,2023,02,10,00,160.1,211,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 01:00 AM,2023,02,10,01,131.5,190,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 02:00 AM,2023,02,10,02,103.2,176,Unhealthy,75.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 03:00 AM,2023,02,10,03,87.1,167,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 04:00 AM,2023,02,10,04,75.0,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 05:00 AM,2023,02,10,05,64.5,156,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 06:00 AM,2023,02,10,06,59.7,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 07:00 AM,2023,02,10,07,69.8,158,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 08:00 AM,2023,02,10,08,90.9,169,Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 09:00 AM,2023,02,10,09,92.4,170,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 10:00 AM,2023,02,10,10,97.7,173,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 11:00 AM,2023,02,10,11,91.8,170,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 12:00 PM,2023,02,10,12,84.4,166,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 01:00 PM,2023,02,10,13,76.7,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 02:00 PM,2023,02,10,14,68.8,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 03:00 PM,2023,02,10,15,61.9,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 04:00 PM,2023,02,10,16,55.9,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 05:00 PM,2023,02,10,17,57.9,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 06:00 PM,2023,02,10,18,73.9,161,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 07:00 PM,2023,02,10,19,208.5,258,Very Unhealthy,343.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 08:00 PM,2023,02,10,20,213.2,263,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 09:00 PM,2023,02,10,21,170.6,221,Very Unhealthy,128.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 10:00 PM,2023,02,10,22,137.3,193,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-10 11:00 PM,2023,02,10,23,120.1,184,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 12:00 AM,2023,02,11,00,97.0,172,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 01:00 AM,2023,02,11,01,77.0,162,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 02:00 AM,2023,02,11,02,59.0,153,Unhealthy,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 03:00 AM,2023,02,11,03,50.5,138,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 04:00 AM,2023,02,11,04,43.7,121,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 05:00 AM,2023,02,11,05,41.3,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 06:00 AM,2023,02,11,06,42.6,118,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 07:00 AM,2023,02,11,07,88.3,168,Unhealthy,134.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 08:00 AM,2023,02,11,08,100.6,174,Unhealthy,113.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 09:00 AM,2023,02,11,09,98.8,173,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 10:00 AM,2023,02,11,10,94.4,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 11:00 AM,2023,02,11,11,90.7,169,Unhealthy,87.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 12:00 PM,2023,02,11,12,87.3,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 01:00 PM,2023,02,11,13,85.1,166,Unhealthy,83.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 02:00 PM,2023,02,11,14,76.5,162,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 03:00 PM,2023,02,11,15,66.2,157,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 04:00 PM,2023,02,11,16,58.6,153,Unhealthy,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 05:00 PM,2023,02,11,17,57.8,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 06:00 PM,2023,02,11,18,68.9,158,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 07:00 PM,2023,02,11,19,126.4,188,Unhealthy,184.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 08:00 PM,2023,02,11,20,133.2,191,Unhealthy,140.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 09:00 PM,2023,02,11,21,115.1,182,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 10:00 PM,2023,02,11,22,99.5,174,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-11 11:00 PM,2023,02,11,23,133.2,191,Unhealthy,167.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 12:00 AM,2023,02,12,00,199.6,250,Very Unhealthy,266.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 01:00 AM,2023,02,12,01,288.3,338,Hazardous,377.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 02:00 AM,2023,02,12,02,337.7,387,Hazardous,387.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 03:00 AM,2023,02,12,03,325.8,376,Hazardous,314.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 04:00 AM,2023,02,12,04,283.9,334,Hazardous,242.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 05:00 AM,2023,02,12,05,259.0,309,Hazardous,234.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 06:00 AM,2023,02,12,06,234.5,284,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 07:00 AM,2023,02,12,07,233.7,283,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 08:00 AM,2023,02,12,08,237.3,287,Very Unhealthy,241.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 09:00 AM,2023,02,12,09,221.2,271,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 10:00 AM,2023,02,12,10,209.6,260,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 11:00 AM,2023,02,12,11,206.6,257,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 12:00 PM,2023,02,12,12,221.4,271,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 01:00 PM,2023,02,12,13,239.2,289,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 02:00 PM,2023,02,12,14,255.2,306,Hazardous,291.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 03:00 PM,2023,02,12,15,258.8,309,Hazardous,275.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 04:00 PM,2023,02,12,16,248.9,299,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 05:00 PM,2023,02,12,17,223.7,274,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 06:00 PM,2023,02,12,18,198.4,248,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 07:00 PM,2023,02,12,19,206.6,257,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 08:00 PM,2023,02,12,20,201.3,251,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 09:00 PM,2023,02,12,21,190.1,240,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 10:00 PM,2023,02,12,22,220.1,270,Very Unhealthy,261.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-12 11:00 PM,2023,02,12,23,376.0,418,Hazardous,528.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 12:00 AM,2023,02,13,00,571.1,547,Hazardous,766.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 01:00 AM,2023,02,13,01,666.1,609,Hazardous,761.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 02:00 AM,2023,02,13,02,662.1,607,Hazardous,658.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 03:00 AM,2023,02,13,03,583.5,555,Hazardous,505.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 04:00 AM,2023,02,13,04,463.3,475,Hazardous,343.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 05:00 AM,2023,02,13,05,353.1,403,Hazardous,243.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 06:00 AM,2023,02,13,06,267.5,318,Hazardous,182.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 07:00 AM,2023,02,13,07,225.2,275,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 08:00 AM,2023,02,13,08,210.1,260,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 09:00 AM,2023,02,13,09,187.0,237,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 10:00 AM,2023,02,13,10,559.6,539,Hazardous,932.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2023-02-13 11:00 AM,2023,02,13,11,445.7,464,Hazardous,332.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 12:00 PM,2023,02,13,12,340.3,390,Hazardous,235.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 01:00 PM,2023,02,13,13,267.5,318,Hazardous,195.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 02:00 PM,2023,02,13,14,223.2,273,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 03:00 PM,2023,02,13,15,200.5,251,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 04:00 PM,2023,02,13,16,183.2,233,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 05:00 PM,2023,02,13,17,174.1,224,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 06:00 PM,2023,02,13,18,166.5,217,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 07:00 PM,2023,02,13,19,174.7,225,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 08:00 PM,2023,02,13,20,172.3,223,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 09:00 PM,2023,02,13,21,161.1,212,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 10:00 PM,2023,02,13,22,144.4,197,Unhealthy,128.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-13 11:00 PM,2023,02,13,23,135.4,192,Unhealthy,124.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 12:00 AM,2023,02,14,00,145.9,198,Unhealthy,155.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 01:00 AM,2023,02,14,01,156.9,207,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 02:00 AM,2023,02,14,02,168.1,218,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 03:00 AM,2023,02,14,03,180.1,230,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 04:00 AM,2023,02,14,04,198.2,248,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 05:00 AM,2023,02,14,05,220.0,270,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 06:00 AM,2023,02,14,06,215.6,266,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 07:00 AM,2023,02,14,07,211.0,261,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 08:00 AM,2023,02,14,08,203.7,254,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 09:00 AM,2023,02,14,09,177.7,228,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 10:00 AM,2023,02,14,10,151.7,202,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 11:00 AM,2023,02,14,11,128.6,189,Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 12:00 PM,2023,02,14,12,113.3,181,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 01:00 PM,2023,02,14,13,101.6,175,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 02:00 PM,2023,02,14,14,96.8,172,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 03:00 PM,2023,02,14,15,94.3,171,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 04:00 PM,2023,02,14,16,95.6,172,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 05:00 PM,2023,02,14,17,103.8,176,Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 06:00 PM,2023,02,14,18,119.9,184,Unhealthy,136.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 07:00 PM,2023,02,14,19,146.4,198,Unhealthy,173.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 08:00 PM,2023,02,14,20,175.7,226,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 09:00 PM,2023,02,14,21,186.3,236,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 10:00 PM,2023,02,14,22,192.6,243,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-14 11:00 PM,2023,02,14,23,243.3,293,Very Unhealthy,294.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 12:00 AM,2023,02,15,00,414.2,443,Hazardous,585.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 01:00 AM,2023,02,15,01,638.7,591,Hazardous,863.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 02:00 AM,2023,02,15,02,758.9,671,Hazardous,879.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 03:00 AM,2023,02,15,03,690.5,626,Hazardous,622.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 04:00 AM,2023,02,15,04,565.3,543,Hazardous,440.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 05:00 AM,2023,02,15,05,396.1,431,Hazardous,227.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 06:00 AM,2023,02,15,06,274.5,325,Hazardous,153.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 07:00 AM,2023,02,15,07,212.7,263,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 08:00 AM,2023,02,15,08,208.3,258,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 09:00 AM,2023,02,15,09,314.7,365,Hazardous,421.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 10:00 AM,2023,02,15,10,406.3,438,Hazardous,498.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 11:00 AM,2023,02,15,11,440.2,460,Hazardous,474.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 12:00 PM,2023,02,15,12,445.5,464,Hazardous,451.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 01:00 PM,2023,02,15,13,432.2,455,Hazardous,419.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 02:00 PM,2023,02,15,14,421.0,448,Hazardous,410.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 03:00 PM,2023,02,15,15,411.0,441,Hazardous,401.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 04:00 PM,2023,02,15,16,403.9,436,Hazardous,397.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 05:00 PM,2023,02,15,17,399.0,433,Hazardous,394.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 06:00 PM,2023,02,15,18,379.0,420,Hazardous,359.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 07:00 PM,2023,02,15,19,377.5,419,Hazardous,376.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 08:00 PM,2023,02,15,20,634.3,588,Hazardous,891.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-15 09:00 PM,2023,02,15,21,634.4,588,Hazardous,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2023-02-16 02:00 AM,2023,02,16,02,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2023-02-16 03:00 AM,2023,02,16,03,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2023-02-16 04:00 AM,2023,02,16,04,-999.0,-999,N/A,771.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 05:00 AM,2023,02,16,05,658.3,604,Hazardous,602.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 06:00 AM,2023,02,16,06,517.7,511,Hazardous,412.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 07:00 AM,2023,02,16,07,448.5,466,Hazardous,388.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 08:00 AM,2023,02,16,08,431.5,454,Hazardous,415.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 09:00 AM,2023,02,16,09,454.5,470,Hazardous,477.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 10:00 AM,2023,02,16,10,448.2,466,Hazardous,442.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 11:00 AM,2023,02,16,11,406.4,438,Hazardous,365.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 12:00 PM,2023,02,16,12,352.6,402,Hazardous,299.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 01:00 PM,2023,02,16,13,302.7,353,Hazardous,253.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 02:00 PM,2023,02,16,14,271.8,322,Hazardous,241.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 03:00 PM,2023,02,16,15,271.8,322,Hazardous,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2023-02-16 05:00 PM,2023,02,16,17,-999.0,-999,N/A,569.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 06:00 PM,2023,02,16,18,446.4,464,Hazardous,407.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 07:00 PM,2023,02,16,19,381.0,421,Hazardous,328.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 08:00 PM,2023,02,16,20,344.8,394,Hazardous,312.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 09:00 PM,2023,02,16,21,324.9,375,Hazardous,306.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 10:00 PM,2023,02,16,22,541.0,527,Hazardous,752.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-16 11:00 PM,2023,02,16,23,720.6,645,Hazardous,898.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 12:00 AM,2023,02,17,00,720.7,645,Hazardous,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2023-02-17 01:00 AM,2023,02,17,01,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2023-02-17 02:00 AM,2023,02,17,02,-999.0,-999,N/A,974.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 03:00 AM,2023,02,17,03,848.1,730,Hazardous,801.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 04:00 AM,2023,02,17,04,704.0,634,Hazardous,587.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 05:00 AM,2023,02,17,05,587.5,558,Hazardous,482.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 06:00 AM,2023,02,17,06,492.0,494,Hazardous,401.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 07:00 AM,2023,02,17,07,443.4,462,Hazardous,396.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 08:00 AM,2023,02,17,08,405.0,437,Hazardous,367.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 09:00 AM,2023,02,17,09,357.8,406,Hazardous,311.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 10:00 AM,2023,02,17,10,326.8,377,Hazardous,296.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 11:00 AM,2023,02,17,11,289.8,340,Hazardous,253.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 12:00 PM,2023,02,17,12,257.3,308,Hazardous,225.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 01:00 PM,2023,02,17,13,230.1,280,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 02:00 PM,2023,02,17,14,201.9,252,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 03:00 PM,2023,02,17,15,184.9,235,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 04:00 PM,2023,02,17,16,173.4,224,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 05:00 PM,2023,02,17,17,172.1,222,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 06:00 PM,2023,02,17,18,179.0,229,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 07:00 PM,2023,02,17,19,185.0,235,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 08:00 PM,2023,02,17,20,173.8,224,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 09:00 PM,2023,02,17,21,157.7,208,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 10:00 PM,2023,02,17,22,149.7,200,Unhealthy,138.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-17 11:00 PM,2023,02,17,23,168.3,219,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 12:00 AM,2023,02,18,00,233.2,283,Very Unhealthy,296.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 01:00 AM,2023,02,18,01,315.1,365,Hazardous,397.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 02:00 AM,2023,02,18,02,381.0,421,Hazardous,447.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 03:00 AM,2023,02,18,03,486.1,491,Hazardous,591.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 04:00 AM,2023,02,18,04,598.6,565,Hazardous,711.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 05:00 AM,2023,02,18,05,650.8,599,Hazardous,703.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 06:00 AM,2023,02,18,06,661.4,606,Hazardous,672.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 07:00 AM,2023,02,18,07,614.7,575,Hazardous,568.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 08:00 AM,2023,02,18,08,536.9,524,Hazardous,459.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 09:00 AM,2023,02,18,09,432.9,455,Hazardous,329.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 10:00 AM,2023,02,18,10,365.5,411,Hazardous,298.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 11:00 AM,2023,02,18,11,311.7,362,Hazardous,258.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 12:00 PM,2023,02,18,12,263.3,314,Hazardous,215.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 01:00 PM,2023,02,18,13,228.6,278,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 02:00 PM,2023,02,18,14,199.2,249,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 03:00 PM,2023,02,18,15,178.5,229,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 04:00 PM,2023,02,18,16,171.2,222,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 05:00 PM,2023,02,18,17,179.5,230,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 06:00 PM,2023,02,18,18,190.7,241,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 07:00 PM,2023,02,18,19,195.8,246,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 08:00 PM,2023,02,18,20,183.8,234,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 09:00 PM,2023,02,18,21,165.4,216,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 10:00 PM,2023,02,18,22,145.6,198,Unhealthy,126.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-18 11:00 PM,2023,02,18,23,150.6,201,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 12:00 AM,2023,02,19,00,174.2,224,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 01:00 AM,2023,02,19,01,223.2,273,Very Unhealthy,268.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 02:00 AM,2023,02,19,02,306.6,357,Hazardous,390.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 03:00 AM,2023,02,19,03,400.3,434,Hazardous,494.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 04:00 AM,2023,02,19,04,467.7,478,Hazardous,535.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 05:00 AM,2023,02,19,05,481.8,488,Hazardous,496.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 06:00 AM,2023,02,19,06,459.4,473,Hazardous,437.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 07:00 AM,2023,02,19,07,426.7,451,Hazardous,394.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 08:00 AM,2023,02,19,08,354.8,404,Hazardous,283.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 09:00 AM,2023,02,19,09,285.4,336,Hazardous,216.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 10:00 AM,2023,02,19,10,249.2,299,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 11:00 AM,2023,02,19,11,217.1,267,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 12:00 PM,2023,02,19,12,195.5,246,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 01:00 PM,2023,02,19,13,177.7,228,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 02:00 PM,2023,02,19,14,163.3,214,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 03:00 PM,2023,02,19,15,160.1,211,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 04:00 PM,2023,02,19,16,162.5,213,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 05:00 PM,2023,02,19,17,164.2,215,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 06:00 PM,2023,02,19,18,186.0,236,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 07:00 PM,2023,02,19,19,227.5,277,Very Unhealthy,275.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 08:00 PM,2023,02,19,20,249.7,299,Very Unhealthy,277.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 09:00 PM,2023,02,19,21,257.7,308,Hazardous,267.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 10:00 PM,2023,02,19,22,290.2,340,Hazardous,320.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-19 11:00 PM,2023,02,19,23,407.1,438,Hazardous,524.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 12:00 AM,2023,02,20,00,586.1,557,Hazardous,765.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 01:00 AM,2023,02,20,01,717.6,643,Hazardous,849.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 02:00 AM,2023,02,20,02,741.9,659,Hazardous,766.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 03:00 AM,2023,02,20,03,727.5,650,Hazardous,713.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 04:00 AM,2023,02,20,04,699.3,631,Hazardous,671.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 05:00 AM,2023,02,20,05,658.2,604,Hazardous,617.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 06:00 AM,2023,02,20,06,599.6,566,Hazardous,541.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 07:00 AM,2023,02,20,07,549.8,533,Hazardous,500.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 08:00 AM,2023,02,20,08,482.4,488,Hazardous,415.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 09:00 AM,2023,02,20,09,367.2,412,Hazardous,252.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 10:00 AM,2023,02,20,10,277.5,328,Hazardous,188.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 11:00 AM,2023,02,20,11,221.7,272,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 12:00 PM,2023,02,20,12,185.3,235,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 01:00 PM,2023,02,20,13,162.0,212,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 02:00 PM,2023,02,20,14,142.9,196,Unhealthy,124.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 03:00 PM,2023,02,20,15,129.9,189,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 04:00 PM,2023,02,20,16,123.8,186,Unhealthy,118.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 05:00 PM,2023,02,20,17,120.3,184,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 06:00 PM,2023,02,20,18,143.6,196,Unhealthy,167.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 07:00 PM,2023,02,20,19,182.2,232,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 08:00 PM,2023,02,20,20,194.1,244,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 09:00 PM,2023,02,20,21,185.3,235,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 10:00 PM,2023,02,20,22,184.7,235,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-20 11:00 PM,2023,02,20,23,274.0,324,Hazardous,363.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 12:00 AM,2023,02,21,00,477.0,485,Hazardous,680.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 01:00 AM,2023,02,21,01,662.1,607,Hazardous,847.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 02:00 AM,2023,02,21,02,747.1,663,Hazardous,832.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 03:00 AM,2023,02,21,03,741.1,659,Hazardous,735.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 04:00 AM,2023,02,21,04,656.1,603,Hazardous,571.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 05:00 AM,2023,02,21,05,552.1,534,Hazardous,448.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 06:00 AM,2023,02,21,06,473.5,482,Hazardous,395.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 07:00 AM,2023,02,21,07,422.3,448,Hazardous,371.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 08:00 AM,2023,02,21,08,376.1,418,Hazardous,330.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 09:00 AM,2023,02,21,09,290.0,340,Hazardous,204.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 10:00 AM,2023,02,21,10,223.0,273,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 11:00 AM,2023,02,21,11,176.4,227,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 12:00 PM,2023,02,21,12,146.6,198,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 01:00 PM,2023,02,21,13,127.2,188,Unhealthy,108.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 02:00 PM,2023,02,21,14,113.5,181,Unhealthy,100.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 03:00 PM,2023,02,21,15,105.1,177,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 04:00 PM,2023,02,21,16,251.0,301,Hazardous,397.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 05:00 PM,2023,02,21,17,311.0,361,Hazardous,371.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 06:00 PM,2023,02,21,18,290.4,341,Hazardous,270.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 07:00 PM,2023,02,21,19,349.2,399,Hazardous,408.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 08:00 PM,2023,02,21,20,373.1,416,Hazardous,397.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 09:00 PM,2023,02,21,21,339.5,389,Hazardous,306.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 10:00 PM,2023,02,21,22,290.3,340,Hazardous,241.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-21 11:00 PM,2023,02,21,23,288.1,338,Hazardous,286.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 12:00 AM,2023,02,22,00,234.5,284,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 01:00 AM,2023,02,22,01,283.3,334,Hazardous,332.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 02:00 AM,2023,02,22,02,368.7,413,Hazardous,454.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 03:00 AM,2023,02,22,03,418.8,446,Hazardous,469.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 04:00 AM,2023,02,22,04,393.4,429,Hazardous,368.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 05:00 AM,2023,02,22,05,347.7,397,Hazardous,302.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 06:00 AM,2023,02,22,06,294.8,345,Hazardous,242.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 07:00 AM,2023,02,22,07,267.4,318,Hazardous,240.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 08:00 AM,2023,02,22,08,247.6,297,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 09:00 AM,2023,02,22,09,200.8,251,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 10:00 AM,2023,02,22,10,153.8,204,Very Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 11:00 AM,2023,02,22,11,141.9,196,Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 12:00 PM,2023,02,22,12,115.4,182,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 01:00 PM,2023,02,22,13,96.6,172,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 02:00 PM,2023,02,22,14,81.8,165,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 03:00 PM,2023,02,22,15,74.3,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 04:00 PM,2023,02,22,16,328.7,378,Hazardous,583.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2023-02-22 05:00 PM,2023,02,22,17,219.8,270,Very Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 06:00 PM,2023,02,22,18,270.9,321,Hazardous,322.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 07:00 PM,2023,02,22,19,271.9,322,Hazardous,273.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 08:00 PM,2023,02,22,20,353.5,403,Hazardous,435.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 09:00 PM,2023,02,22,21,419.7,447,Hazardous,486.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 10:00 PM,2023,02,22,22,464.4,476,Hazardous,509.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-22 11:00 PM,2023,02,22,23,464.7,476,Hazardous,465.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 12:00 AM,2023,02,23,00,262.8,313,Hazardous,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 01:00 AM,2023,02,23,01,155.9,206,Very Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 02:00 AM,2023,02,23,02,101.9,175,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 03:00 AM,2023,02,23,03,86.9,167,Unhealthy,72.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 04:00 AM,2023,02,23,04,100.4,174,Unhealthy,114.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 05:00 AM,2023,02,23,05,110.7,180,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 06:00 AM,2023,02,23,06,117.3,183,Unhealthy,124.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 07:00 AM,2023,02,23,07,136.6,193,Unhealthy,156.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 08:00 AM,2023,02,23,08,155.2,206,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 09:00 AM,2023,02,23,09,134.6,192,Unhealthy,114.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 10:00 AM,2023,02,23,10,102.7,175,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 11:00 AM,2023,02,23,11,78.3,163,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 12:00 PM,2023,02,23,12,64.1,155,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 01:00 PM,2023,02,23,13,58.0,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 02:00 PM,2023,02,23,14,47.0,129,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 03:00 PM,2023,02,23,15,39.5,111,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 04:00 PM,2023,02,23,16,40.7,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 05:00 PM,2023,02,23,17,43.8,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 06:00 PM,2023,02,23,18,52.4,143,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 07:00 PM,2023,02,23,19,52.3,142,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2023-02-23 09:00 PM,2023,02,23,21,-999.0,-999,N/A,903.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2023-02-23 10:00 PM,2023,02,23,22,-999.0,-999,N/A,465.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-23 11:00 PM,2023,02,23,23,309.0,359,Hazardous,247.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 12:00 AM,2023,02,24,00,195.0,245,Very Unhealthy,106.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 01:00 AM,2023,02,24,01,273.3,324,Hazardous,343.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 02:00 AM,2023,02,24,02,151.8,202,Very Unhealthy,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 03:00 AM,2023,02,24,03,95.6,172,Unhealthy,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 04:00 AM,2023,02,24,04,83.7,166,Unhealthy,72.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 05:00 AM,2023,02,24,05,88.8,168,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 06:00 AM,2023,02,24,06,100.9,174,Unhealthy,113.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 07:00 AM,2023,02,24,07,307.1,357,Hazardous,513.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 08:00 AM,2023,02,24,08,435.1,457,Hazardous,563.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 09:00 AM,2023,02,24,09,417.0,445,Hazardous,399.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 10:00 AM,2023,02,24,10,408.5,439,Hazardous,400.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 11:00 AM,2023,02,24,11,365.2,411,Hazardous,322.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 12:00 PM,2023,02,24,12,307.6,358,Hazardous,250.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 01:00 PM,2023,02,24,13,243.3,293,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 02:00 PM,2023,02,24,14,211.6,262,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 03:00 PM,2023,02,24,15,190.8,241,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 04:00 PM,2023,02,24,16,174.4,225,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 05:00 PM,2023,02,24,17,170.2,221,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 06:00 PM,2023,02,24,18,178.1,228,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 07:00 PM,2023,02,24,19,217.0,267,Very Unhealthy,256.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 08:00 PM,2023,02,24,20,270.9,321,Hazardous,325.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 09:00 PM,2023,02,24,21,182.9,233,Very Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 10:00 PM,2023,02,24,22,133.4,191,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-24 11:00 PM,2023,02,24,23,98.1,173,Unhealthy,63.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 12:00 AM,2023,02,25,00,71.5,159,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 01:00 AM,2023,02,25,01,51.2,140,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 02:00 AM,2023,02,25,02,39.1,110,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 03:00 AM,2023,02,25,03,44.5,123,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 04:00 AM,2023,02,25,04,83.2,165,Unhealthy,122.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 05:00 AM,2023,02,25,05,126.1,187,Unhealthy,169.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 06:00 AM,2023,02,25,06,160.5,211,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 07:00 AM,2023,02,25,07,189.7,240,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 08:00 AM,2023,02,25,08,188.3,238,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 09:00 AM,2023,02,25,09,151.1,202,Very Unhealthy,114.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 10:00 AM,2023,02,25,10,114.5,181,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 11:00 AM,2023,02,25,11,90.7,169,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 12:00 PM,2023,02,25,12,75.4,161,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 01:00 PM,2023,02,25,13,64.7,156,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 02:00 PM,2023,02,25,14,55.3,150,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 03:00 PM,2023,02,25,15,48.6,133,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 04:00 PM,2023,02,25,16,45.3,125,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 05:00 PM,2023,02,25,17,48.6,133,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 06:00 PM,2023,02,25,18,57.8,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 07:00 PM,2023,02,25,19,87.3,167,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 08:00 PM,2023,02,25,20,130.6,190,Unhealthy,174.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 09:00 PM,2023,02,25,21,155.3,206,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 10:00 PM,2023,02,25,22,149.1,199,Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-25 11:00 PM,2023,02,25,23,116.5,182,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 12:00 AM,2023,02,26,00,102.3,175,Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 01:00 AM,2023,02,26,01,74.1,161,Unhealthy,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 02:00 AM,2023,02,26,02,55.0,149,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 03:00 AM,2023,02,26,03,53.0,144,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 04:00 AM,2023,02,26,04,53.5,145,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 05:00 AM,2023,02,26,05,65.7,156,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 06:00 AM,2023,02,26,06,83.3,165,Unhealthy,101.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 07:00 AM,2023,02,26,07,133.7,191,Unhealthy,184.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 08:00 AM,2023,02,26,08,165.3,216,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 09:00 AM,2023,02,26,09,156.6,207,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 10:00 AM,2023,02,26,10,137.8,193,Unhealthy,119.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 11:00 AM,2023,02,26,11,117.4,183,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 12:00 PM,2023,02,26,12,92.2,170,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 01:00 PM,2023,02,26,13,75.1,161,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 02:00 PM,2023,02,26,14,62.0,154,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 03:00 PM,2023,02,26,15,52.5,143,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 04:00 PM,2023,02,26,16,50.2,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 05:00 PM,2023,02,26,17,62.1,154,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 06:00 PM,2023,02,26,18,61.0,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 07:00 PM,2023,02,26,19,79.5,163,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 08:00 PM,2023,02,26,20,127.2,188,Unhealthy,175.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 09:00 PM,2023,02,26,21,179.6,230,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 10:00 PM,2023,02,26,22,189.8,240,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-26 11:00 PM,2023,02,26,23,152.4,203,Very Unhealthy,115.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 12:00 AM,2023,02,27,00,136.7,193,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 01:00 AM,2023,02,27,01,101.3,175,Unhealthy,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 02:00 AM,2023,02,27,02,75.6,161,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 03:00 AM,2023,02,27,03,58.3,152,Unhealthy,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 04:00 AM,2023,02,27,04,46.6,128,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 05:00 AM,2023,02,27,05,39.8,112,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 06:00 AM,2023,02,27,06,36.9,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 07:00 AM,2023,02,27,07,54.9,149,Unhealthy for Sensitive Groups,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 08:00 AM,2023,02,27,08,74.9,161,Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 09:00 AM,2023,02,27,09,66.4,157,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 10:00 AM,2023,02,27,10,57.7,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 11:00 AM,2023,02,27,11,51.8,141,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 12:00 PM,2023,02,27,12,47.4,130,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 01:00 PM,2023,02,27,13,44.7,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 02:00 PM,2023,02,27,14,39.8,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 03:00 PM,2023,02,27,15,37.4,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 04:00 PM,2023,02,27,16,38.7,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 05:00 PM,2023,02,27,17,45.8,126,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 06:00 PM,2023,02,27,18,57.4,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 07:00 PM,2023,02,27,19,99.7,174,Unhealthy,142.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 08:00 PM,2023,02,27,20,126.8,188,Unhealthy,154.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 09:00 PM,2023,02,27,21,156.9,207,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 10:00 PM,2023,02,27,22,135.9,193,Unhealthy,115.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-27 11:00 PM,2023,02,27,23,110.9,180,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 12:00 AM,2023,02,28,00,95.0,171,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 01:00 AM,2023,02,28,01,72.0,160,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 02:00 AM,2023,02,28,02,55.0,149,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 03:00 AM,2023,02,28,03,43.5,121,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 04:00 AM,2023,02,28,04,36.7,104,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 05:00 AM,2023,02,28,05,40.8,114,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 06:00 AM,2023,02,28,06,44.4,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 07:00 AM,2023,02,28,07,85.7,167,Unhealthy,127.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 08:00 AM,2023,02,28,08,131.3,190,Unhealthy,177.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 09:00 AM,2023,02,28,09,107.6,178,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 10:00 AM,2023,02,28,10,107.6,178,Unhealthy,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2023-02-28 12:00 PM,2023,02,28,12,-999.0,-999,N/A,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 01:00 PM,2023,02,28,13,41.5,116,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 02:00 PM,2023,02,28,14,39.5,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 03:00 PM,2023,02,28,15,38.2,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 04:00 PM,2023,02,28,16,36.0,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 05:00 PM,2023,02,28,17,38.5,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 06:00 PM,2023,02,28,18,46.3,128,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 07:00 PM,2023,02,28,19,78.2,163,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 08:00 PM,2023,02,28,20,138.7,194,Unhealthy,199.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 09:00 PM,2023,02,28,21,172.3,223,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 10:00 PM,2023,02,28,22,192.7,243,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-02-28 11:00 PM,2023,02,28,23,184.3,234,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2023-03-01 12:00 AM,2023,03,01,00,153.6,204,Very Unhealthy,123.0,UG/M3,1 Hr,Valid

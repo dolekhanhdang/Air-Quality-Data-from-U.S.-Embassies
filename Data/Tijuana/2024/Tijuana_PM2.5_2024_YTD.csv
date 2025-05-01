@@ -1,0 +1,558 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Tijuana,PM2.5 - Principal,2024-01-01 01:00 AM,2024,01,01,01,169.2,244,Very Unhealthy,209.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 02:00 AM,2024,01,01,02,166.1,241,Very Unhealthy,162.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 03:00 AM,2024,01,01,03,149.4,225,Very Unhealthy,132.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 04:00 AM,2024,01,01,04,111.5,190,Unhealthy,73.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 05:00 AM,2024,01,01,05,93.1,177,Unhealthy,74.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 06:00 AM,2024,01,01,06,74.3,164,Unhealthy,55.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 07:00 AM,2024,01,01,07,48.4,133,Unhealthy for Sensitive Groups,22.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 08:00 AM,2024,01,01,08,34.2,98,Moderate,20.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 09:00 AM,2024,01,01,09,25.3,81,Moderate,16.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 10:00 AM,2024,01,01,10,25.3,81,Moderate,25.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 11:00 AM,2024,01,01,11,21.6,74,Moderate,17.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 12:00 PM,2024,01,01,12,21.1,73,Moderate,20.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 01:00 PM,2024,01,01,13,14.8,62,Moderate,8.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 02:00 PM,2024,01,01,14,10.6,54,Moderate,6.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 03:00 PM,2024,01,01,15,8.0,44,Good,5.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 04:00 PM,2024,01,01,16,6.3,35,Good,4.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 05:00 PM,2024,01,01,17,7.2,40,Good,8.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 06:00 PM,2024,01,01,18,9.0,50,Good,10.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 07:00 PM,2024,01,01,19,10.7,54,Moderate,12.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 08:00 PM,2024,01,01,20,20.2,72,Moderate,29.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 09:00 PM,2024,01,01,21,45.4,125,Unhealthy for Sensitive Groups,70.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 10:00 PM,2024,01,01,22,36.8,104,Unhealthy for Sensitive Groups,28.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-01 11:00 PM,2024,01,01,23,47.5,131,Unhealthy for Sensitive Groups,58.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 12:00 AM,2024,01,02,00,57.4,152,Unhealthy,67.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 01:00 AM,2024,01,02,01,62.9,156,Unhealthy,68.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 02:00 AM,2024,01,02,02,56.1,151,Unhealthy,49.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 03:00 AM,2024,01,02,03,53.8,146,Unhealthy for Sensitive Groups,51.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 04:00 AM,2024,01,02,04,42.3,118,Unhealthy for Sensitive Groups,30.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 05:00 AM,2024,01,02,05,32.2,94,Moderate,22.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 06:00 AM,2024,01,02,06,28.2,87,Moderate,24.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 07:00 AM,2024,01,02,07,24.6,80,Moderate,21.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 08:00 AM,2024,01,02,08,21.9,75,Moderate,19.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 09:00 AM,2024,01,02,09,20.8,73,Moderate,19.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 10:00 AM,2024,01,02,10,21.8,75,Moderate,22.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 11:00 AM,2024,01,02,11,20.4,72,Moderate,18.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 12:00 PM,2024,01,02,12,14.7,61,Moderate,9.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 01:00 PM,2024,01,02,13,11.7,56,Moderate,8.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 02:00 PM,2024,01,02,14,9.2,51,Moderate,6.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 03:00 PM,2024,01,02,15,8.7,48,Good,8.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 04:00 PM,2024,01,02,16,7.0,39,Good,5.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 05:00 PM,2024,01,02,17,8.0,44,Good,9.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 06:00 PM,2024,01,02,18,9.4,52,Moderate,10.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 07:00 PM,2024,01,02,19,14.4,61,Moderate,19.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 08:00 PM,2024,01,02,20,15.7,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 09:00 PM,2024,01,02,21,13.9,60,Moderate,12.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 10:00 PM,2024,01,02,22,20.9,73,Moderate,28.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-02 11:00 PM,2024,01,02,23,35.6,101,Unhealthy for Sensitive Groups,50.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 12:00 AM,2024,01,03,00,34.3,98,Moderate,32.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 01:00 AM,2024,01,03,01,42.7,119,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 02:00 AM,2024,01,03,02,51.0,139,Unhealthy for Sensitive Groups,59.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 03:00 AM,2024,01,03,03,44.0,122,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 04:00 AM,2024,01,03,04,52.6,143,Unhealthy for Sensitive Groups,61.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 05:00 AM,2024,01,03,05,46.2,127,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 06:00 AM,2024,01,03,06,45.7,126,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 07:00 AM,2024,01,03,07,48.0,132,Unhealthy for Sensitive Groups,50.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 08:00 AM,2024,01,03,08,48.8,134,Unhealthy for Sensitive Groups,49.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 09:00 AM,2024,01,03,09,48.0,132,Unhealthy for Sensitive Groups,47.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 10:00 AM,2024,01,03,10,39.0,110,Unhealthy for Sensitive Groups,29.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 11:00 AM,2024,01,03,11,20.3,72,Moderate,1.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 12:00 PM,2024,01,03,12,11.7,56,Moderate,3.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 01:00 PM,2024,01,03,13,9.1,51,Moderate,6.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 02:00 PM,2024,01,03,14,8.6,48,Good,8.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 03:00 PM,2024,01,03,15,7.4,41,Good,6.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 04:00 PM,2024,01,03,16,6.9,38,Good,6.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 05:00 PM,2024,01,03,17,6.9,38,Good,6.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 06:00 PM,2024,01,03,18,6.4,36,Good,5.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 07:00 PM,2024,01,03,19,6.7,37,Good,7.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 08:00 PM,2024,01,03,20,5.6,31,Good,4.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 09:00 PM,2024,01,03,21,6.3,35,Good,7.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 10:00 PM,2024,01,03,22,7.5,42,Good,8.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-03 11:00 PM,2024,01,03,23,9.0,50,Good,10.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 12:00 AM,2024,01,04,00,12.5,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 01:00 AM,2024,01,04,01,13.2,59,Moderate,13.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 02:00 AM,2024,01,04,02,14.2,61,Moderate,15.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 03:00 AM,2024,01,04,03,17.0,66,Moderate,19.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 04:00 AM,2024,01,04,04,19.3,70,Moderate,21.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 05:00 AM,2024,01,04,05,25.6,82,Moderate,31.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 06:00 AM,2024,01,04,06,25.6,82,Moderate,25.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 07:00 AM,2024,01,04,07,23.6,78,Moderate,21.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 08:00 AM,2024,01,04,08,22.9,77,Moderate,22.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 09:00 AM,2024,01,04,09,22.2,75,Moderate,21.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 10:00 AM,2024,01,04,10,17.9,67,Moderate,13.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 11:00 AM,2024,01,04,11,13.3,59,Moderate,8.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 12:00 PM,2024,01,04,12,9.6,52,Moderate,5.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 01:00 PM,2024,01,04,13,6.9,38,Good,4.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 02:00 PM,2024,01,04,14,5.9,33,Good,4.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 03:00 PM,2024,01,04,15,5.7,32,Good,5.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 04:00 PM,2024,01,04,16,6.0,33,Good,6.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 05:00 PM,2024,01,04,17,6.0,33,Good,6.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 06:00 PM,2024,01,04,18,7.6,42,Good,9.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 07:00 PM,2024,01,04,19,12.0,56,Moderate,16.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 08:00 PM,2024,01,04,20,19.3,70,Moderate,26.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 09:00 PM,2024,01,04,21,28.1,86,Moderate,36.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 10:00 PM,2024,01,04,22,55.3,150,Unhealthy for Sensitive Groups,82.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-04 11:00 PM,2024,01,04,23,57.3,152,Unhealthy,59.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 12:00 AM,2024,01,05,00,63.8,157,Unhealthy,70.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 01:00 AM,2024,01,05,01,56.4,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 02:00 AM,2024,01,05,02,47.4,130,Unhealthy for Sensitive Groups,38.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 03:00 AM,2024,01,05,03,37.4,106,Unhealthy for Sensitive Groups,27.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 04:00 AM,2024,01,05,04,28.4,87,Moderate,19.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 05:00 AM,2024,01,05,05,21.4,74,Moderate,14.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 06:00 AM,2024,01,05,06,18.2,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 07:00 AM,2024,01,05,07,18.3,68,Moderate,18.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 08:00 AM,2024,01,05,08,21.7,74,Moderate,25.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 09:00 AM,2024,01,05,09,23.7,78,Moderate,25.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 10:00 AM,2024,01,05,10,23.5,78,Moderate,23.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 11:00 AM,2024,01,05,11,22.9,77,Moderate,22.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 12:00 PM,2024,01,05,12,15.6,63,Moderate,8.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 01:00 PM,2024,01,05,13,15.0,62,Moderate,14.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 02:00 PM,2024,01,05,14,13.1,58,Moderate,11.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 03:00 PM,2024,01,05,15,11.6,56,Moderate,10.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 04:00 PM,2024,01,05,16,9.9,52,Moderate,8.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 05:00 PM,2024,01,05,17,9.1,51,Moderate,8.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 06:00 PM,2024,01,05,18,9.6,52,Moderate,10.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 07:00 PM,2024,01,05,19,13.3,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 08:00 PM,2024,01,05,20,17.5,67,Moderate,21.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 09:00 PM,2024,01,05,21,37.0,105,Unhealthy for Sensitive Groups,56.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 10:00 PM,2024,01,05,22,45.7,126,Unhealthy for Sensitive Groups,54.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-05 11:00 PM,2024,01,05,23,42.6,118,Unhealthy for Sensitive Groups,39.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 12:00 AM,2024,01,06,00,55.6,151,Unhealthy,68.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 01:00 AM,2024,01,06,01,59.7,154,Unhealthy,63.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 02:00 AM,2024,01,06,02,53.7,146,Unhealthy for Sensitive Groups,47.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 03:00 AM,2024,01,06,03,43.1,120,Unhealthy for Sensitive Groups,32.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 04:00 AM,2024,01,06,04,34.1,98,Moderate,25.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 05:00 AM,2024,01,06,05,29.6,89,Moderate,25.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 06:00 AM,2024,01,06,06,25.5,82,Moderate,21.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 07:00 AM,2024,01,06,07,22.0,75,Moderate,18.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 08:00 AM,2024,01,06,08,21.3,74,Moderate,20.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 09:00 AM,2024,01,06,09,23.6,78,Moderate,25.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 10:00 AM,2024,01,06,10,23.9,79,Moderate,24.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 11:00 AM,2024,01,06,11,21.3,74,Moderate,18.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 12:00 PM,2024,01,06,12,14.9,62,Moderate,8.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 01:00 PM,2024,01,06,13,10.9,54,Moderate,6.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 02:00 PM,2024,01,06,14,7.3,41,Good,3.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 03:00 PM,2024,01,06,15,5.7,32,Good,4.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 04:00 PM,2024,01,06,16,5.4,30,Good,5.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 05:00 PM,2024,01,06,17,9.0,50,Good,12.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 06:00 PM,2024,01,06,18,14.9,62,Moderate,20.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 07:00 PM,2024,01,06,19,32.2,94,Moderate,49.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 08:00 PM,2024,01,06,20,33.1,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 09:00 PM,2024,01,06,21,28.8,88,Moderate,24.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 10:00 PM,2024,01,06,22,19.8,71,Moderate,10.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-06 11:00 PM,2024,01,06,23,18.6,69,Moderate,17.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 12:00 AM,2024,01,07,00,19.7,71,Moderate,20.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 01:00 AM,2024,01,07,01,16.7,65,Moderate,13.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 02:00 AM,2024,01,07,02,13.7,60,Moderate,10.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 03:00 AM,2024,01,07,03,11.9,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 04:00 AM,2024,01,07,04,8.7,48,Good,5.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 05:00 AM,2024,01,07,05,6.6,37,Good,4.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 06:00 AM,2024,01,07,06,6.7,37,Good,6.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 07:00 AM,2024,01,07,07,9.0,50,Good,11.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 08:00 AM,2024,01,07,08,8.1,45,Good,7.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 09:00 AM,2024,01,07,09,6.0,33,Good,3.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 10:00 AM,2024,01,07,10,4.8,27,Good,3.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 11:00 AM,2024,01,07,11,4.2,23,Good,3.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 12:00 PM,2024,01,07,12,3.9,22,Good,3.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 01:00 PM,2024,01,07,13,3.7,21,Good,3.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 02:00 PM,2024,01,07,14,3.9,22,Good,4.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 03:00 PM,2024,01,07,15,4.0,22,Good,4.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 04:00 PM,2024,01,07,16,4.2,23,Good,4.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 05:00 PM,2024,01,07,17,4.2,23,Good,4.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 06:00 PM,2024,01,07,18,6.7,37,Good,9.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 07:00 PM,2024,01,07,19,6.1,34,Good,5.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 08:00 PM,2024,01,07,20,9.8,52,Moderate,13.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 09:00 PM,2024,01,07,21,18.9,69,Moderate,28.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 10:00 PM,2024,01,07,22,12.9,58,Moderate,6.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-07 11:00 PM,2024,01,07,23,22.8,77,Moderate,32.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 12:00 AM,2024,01,08,00,23.7,78,Moderate,24.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 01:00 AM,2024,01,08,01,36.2,103,Unhealthy for Sensitive Groups,48.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 02:00 AM,2024,01,08,02,24.4,80,Moderate,12.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 03:00 AM,2024,01,08,03,23.8,78,Moderate,23.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 04:00 AM,2024,01,08,04,23.7,78,Moderate,23.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 05:00 AM,2024,01,08,05,26.2,83,Moderate,28.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 06:00 AM,2024,01,08,06,20.1,71,Moderate,14.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 07:00 AM,2024,01,08,07,22.6,76,Moderate,25.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 08:00 AM,2024,01,08,08,23.5,78,Moderate,24.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 09:00 AM,2024,01,08,09,23.2,77,Moderate,22.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 10:00 AM,2024,01,08,10,23.0,77,Moderate,22.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 11:00 AM,2024,01,08,11,17.8,67,Moderate,12.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 12:00 PM,2024,01,08,12,11.9,56,Moderate,6.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 01:00 PM,2024,01,08,13,8.3,46,Good,4.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 02:00 PM,2024,01,08,14,6.6,37,Good,4.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 03:00 PM,2024,01,08,15,5.1,28,Good,3.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 04:00 PM,2024,01,08,16,4.2,23,Good,3.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 05:00 PM,2024,01,08,17,4.3,24,Good,4.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 06:00 PM,2024,01,08,18,5.2,29,Good,6.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 07:00 PM,2024,01,08,19,7.0,39,Good,8.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 08:00 PM,2024,01,08,20,11.3,55,Moderate,15.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 09:00 PM,2024,01,08,21,36.5,103,Unhealthy for Sensitive Groups,61.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 10:00 PM,2024,01,08,22,42.6,118,Unhealthy for Sensitive Groups,48.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-08 11:00 PM,2024,01,08,23,48.5,133,Unhealthy for Sensitive Groups,54.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 12:00 AM,2024,01,09,00,45.1,125,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 01:00 AM,2024,01,09,01,35.0,99,Moderate,25.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 02:00 AM,2024,01,09,02,38.4,108,Unhealthy for Sensitive Groups,41.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 03:00 AM,2024,01,09,03,38.2,108,Unhealthy for Sensitive Groups,37.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 04:00 AM,2024,01,09,04,42.1,117,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 05:00 AM,2024,01,09,05,32.7,95,Moderate,23.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 06:00 AM,2024,01,09,06,27.4,85,Moderate,22.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 07:00 AM,2024,01,09,07,26.8,84,Moderate,26.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 08:00 AM,2024,01,09,08,26.9,84,Moderate,26.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 09:00 AM,2024,01,09,09,29.4,89,Moderate,31.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 10:00 AM,2024,01,09,10,28.9,88,Moderate,28.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 11:00 AM,2024,01,09,11,23.4,78,Moderate,18.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 12:00 PM,2024,01,09,12,15.9,64,Moderate,8.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 01:00 PM,2024,01,09,13,12.3,57,Moderate,8.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 02:00 PM,2024,01,09,14,8.2,46,Good,4.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 03:00 PM,2024,01,09,15,6.6,37,Good,5.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 04:00 PM,2024,01,09,16,5.6,31,Good,4.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 05:00 PM,2024,01,09,17,7.0,39,Good,8.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 06:00 PM,2024,01,09,18,14.1,60,Moderate,21.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 07:00 PM,2024,01,09,19,16.5,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 08:00 PM,2024,01,09,20,20.2,72,Moderate,23.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 09:00 PM,2024,01,09,21,26.3,83,Moderate,32.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 10:00 PM,2024,01,09,22,49.0,134,Unhealthy for Sensitive Groups,71.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-09 11:00 PM,2024,01,09,23,40.5,113,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 12:00 AM,2024,01,10,00,55.8,151,Unhealthy,71.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 01:00 AM,2024,01,10,01,55.4,150,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 02:00 AM,2024,01,10,02,55.1,149,Unhealthy for Sensitive Groups,54.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 03:00 AM,2024,01,10,03,43.6,121,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 04:00 AM,2024,01,10,04,36.1,102,Unhealthy for Sensitive Groups,28.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 05:00 AM,2024,01,10,05,33.2,96,Moderate,30.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 06:00 AM,2024,01,10,06,30.2,90,Moderate,27.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 07:00 AM,2024,01,10,07,28.4,87,Moderate,26.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 08:00 AM,2024,01,10,08,29.6,89,Moderate,30.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 09:00 AM,2024,01,10,09,29.9,90,Moderate,30.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 10:00 AM,2024,01,10,10,34.1,98,Moderate,38.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 11:00 AM,2024,01,10,11,34.1,98,Moderate,34.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 12:00 PM,2024,01,10,12,29.5,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 01:00 PM,2024,01,10,13,22.7,76,Moderate,15.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 02:00 PM,2024,01,10,14,15.8,63,Moderate,8.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 03:00 PM,2024,01,10,15,12.1,57,Moderate,8.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 04:00 PM,2024,01,10,16,11.9,56,Moderate,11.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 05:00 PM,2024,01,10,17,9.7,52,Moderate,7.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 06:00 PM,2024,01,10,18,9.5,52,Moderate,9.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 07:00 PM,2024,01,10,19,10.5,54,Moderate,11.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 08:00 PM,2024,01,10,20,17.2,66,Moderate,24.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 09:00 PM,2024,01,10,21,20.6,72,Moderate,23.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 10:00 PM,2024,01,10,22,16.3,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-10 11:00 PM,2024,01,10,23,12.1,57,Moderate,7.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 12:00 AM,2024,01,11,00,9.8,52,Moderate,7.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 01:00 AM,2024,01,11,01,8.6,48,Good,7.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 02:00 AM,2024,01,11,02,8.3,46,Good,8.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 03:00 AM,2024,01,11,03,7.9,44,Good,7.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 04:00 AM,2024,01,11,04,6.2,34,Good,4.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 05:00 AM,2024,01,11,05,5.7,32,Good,5.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 06:00 AM,2024,01,11,06,6.1,34,Good,6.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 07:00 AM,2024,01,11,07,6.7,37,Good,7.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 08:00 AM,2024,01,11,08,6.4,36,Good,6.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 09:00 AM,2024,01,11,09,6.6,37,Good,6.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 10:00 AM,2024,01,11,10,8.1,45,Good,9.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 11:00 AM,2024,01,11,11,8.0,44,Good,8.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 12:00 PM,2024,01,11,12,8.1,45,Good,8.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 01:00 PM,2024,01,11,13,6.0,33,Good,3.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 02:00 PM,2024,01,11,14,5.0,28,Good,4.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 03:00 PM,2024,01,11,15,4.6,26,Good,4.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 04:00 PM,2024,01,11,16,4.1,23,Good,3.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 05:00 PM,2024,01,11,17,4.4,24,Good,4.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 06:00 PM,2024,01,11,18,6.0,33,Good,7.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 07:00 PM,2024,01,11,19,8.6,48,Good,11.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 08:00 PM,2024,01,11,20,14.3,61,Moderate,20.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 09:00 PM,2024,01,11,21,35.7,101,Unhealthy for Sensitive Groups,57.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 10:00 PM,2024,01,11,22,53.4,145,Unhealthy for Sensitive Groups,71.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-11 11:00 PM,2024,01,11,23,53.6,146,Unhealthy for Sensitive Groups,53.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 12:00 AM,2024,01,12,00,51.4,140,Unhealthy for Sensitive Groups,49.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 01:00 AM,2024,01,12,01,37.9,107,Unhealthy for Sensitive Groups,24.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 02:00 AM,2024,01,12,02,31.0,92,Moderate,24.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 03:00 AM,2024,01,12,03,29.4,89,Moderate,27.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 04:00 AM,2024,01,12,04,29.0,88,Moderate,28.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 05:00 AM,2024,01,12,05,24.2,79,Moderate,19.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 06:00 AM,2024,01,12,06,24.2,79,Moderate,24.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 07:00 AM,2024,01,12,07,23.0,77,Moderate,21.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 08:00 AM,2024,01,12,08,23.5,78,Moderate,23.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-12 09:00 AM,2024,01,12,09,23.4,78,Moderate,-999.0,UG/M3,1 Hr,Missing
+Tijuana,PM2.5 - Principal,2024-01-17 11:00 AM,2024,01,17,11,-999.0,-999,N/A,32.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-17 12:00 PM,2024,01,17,12,27.4,85,Moderate,23.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-01-17 01:00 PM,2024,01,17,13,27.4,85,Moderate,-999.0,UG/M3,1 Hr,Missing
+Tijuana,PM2.5 - Principal,2024-12-20 05:00 AM,2024,12,20,05,-999.0,-999,N/A,21.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 06:00 AM,2024,12,20,06,19.3,70,Moderate,17.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 07:00 AM,2024,12,20,07,20.3,72,Moderate,21.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 08:00 AM,2024,12,20,08,26.8,84,Moderate,33.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 09:00 AM,2024,12,20,09,27.5,85,Moderate,28.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 10:00 AM,2024,12,20,10,28.2,87,Moderate,28.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 11:00 AM,2024,12,20,11,29.5,89,Moderate,30.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 12:00 PM,2024,12,20,12,33.7,97,Moderate,37.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 01:00 PM,2024,12,20,13,40.6,114,Unhealthy for Sensitive Groups,47.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 02:00 PM,2024,12,20,14,45.0,124,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 03:00 PM,2024,12,20,15,57.5,152,Unhealthy,70.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 04:00 PM,2024,12,20,16,65.3,158,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 05:00 PM,2024,12,20,17,70.1,161,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 06:00 PM,2024,12,20,18,60.1,154,Unhealthy,50.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 07:00 PM,2024,12,20,19,72.1,163,Unhealthy,84.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 08:00 PM,2024,12,20,20,81.0,169,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 09:00 PM,2024,12,20,21,92.2,177,Unhealthy,103.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 10:00 PM,2024,12,20,22,86.7,173,Unhealthy,81.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-20 11:00 PM,2024,12,20,23,71.5,162,Unhealthy,56.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 12:00 AM,2024,12,21,00,58.8,153,Unhealthy,46.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 01:00 AM,2024,12,21,01,60.8,155,Unhealthy,62.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 02:00 AM,2024,12,21,02,70.6,162,Unhealthy,80.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 03:00 AM,2024,12,21,03,74.9,165,Unhealthy,79.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 04:00 AM,2024,12,21,04,69.8,161,Unhealthy,64.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 05:00 AM,2024,12,21,05,51.1,139,Unhealthy for Sensitive Groups,32.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 06:00 AM,2024,12,21,06,39.1,110,Unhealthy for Sensitive Groups,27.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 07:00 AM,2024,12,21,07,34.5,98,Moderate,29.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 08:00 AM,2024,12,21,08,30.8,91,Moderate,27.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 09:00 AM,2024,12,21,09,25.5,82,Moderate,20.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 10:00 AM,2024,12,21,10,20.8,73,Moderate,16.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 11:00 AM,2024,12,21,11,26.0,82,Moderate,31.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 12:00 PM,2024,12,21,12,27.7,86,Moderate,29.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 01:00 PM,2024,12,21,13,32.9,95,Moderate,38.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 02:00 PM,2024,12,21,14,26.6,84,Moderate,20.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 03:00 PM,2024,12,21,15,31.3,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 04:00 PM,2024,12,21,16,44.0,122,Unhealthy for Sensitive Groups,56.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 05:00 PM,2024,12,21,17,48.4,133,Unhealthy for Sensitive Groups,52.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 06:00 PM,2024,12,21,18,57.4,152,Unhealthy,66.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 07:00 PM,2024,12,21,19,77.4,166,Unhealthy,97.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 08:00 PM,2024,12,21,20,82.1,170,Unhealthy,86.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 09:00 PM,2024,12,21,21,96.0,179,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 10:00 PM,2024,12,21,22,98.5,181,Unhealthy,101.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-21 11:00 PM,2024,12,21,23,94.5,178,Unhealthy,90.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 12:00 AM,2024,12,22,00,93.2,177,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 01:00 AM,2024,12,22,01,94.9,179,Unhealthy,96.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 02:00 AM,2024,12,22,02,101.7,183,Unhealthy,108.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 03:00 AM,2024,12,22,03,84.6,171,Unhealthy,67.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 04:00 AM,2024,12,22,04,64.9,158,Unhealthy,45.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 05:00 AM,2024,12,22,05,64.2,157,Unhealthy,63.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 06:00 AM,2024,12,22,06,41.8,117,Unhealthy for Sensitive Groups,19.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 07:00 AM,2024,12,22,07,28.5,87,Moderate,15.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 08:00 AM,2024,12,22,08,21.1,73,Moderate,13.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 09:00 AM,2024,12,22,09,16.4,65,Moderate,11.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 10:00 AM,2024,12,22,10,15.5,63,Moderate,14.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 11:00 AM,2024,12,22,11,22.1,75,Moderate,28.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 12:00 PM,2024,12,22,12,25.2,81,Moderate,28.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 01:00 PM,2024,12,22,13,23.1,77,Moderate,21.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 02:00 PM,2024,12,22,14,17.3,66,Moderate,11.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 03:00 PM,2024,12,22,15,14.3,61,Moderate,11.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 04:00 PM,2024,12,22,16,14.6,61,Moderate,14.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 05:00 PM,2024,12,22,17,16.8,65,Moderate,19.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 06:00 PM,2024,12,22,18,18.7,69,Moderate,20.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 07:00 PM,2024,12,22,19,30.9,92,Moderate,43.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 08:00 PM,2024,12,22,20,32.5,95,Moderate,34.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 09:00 PM,2024,12,22,21,39.4,111,Unhealthy for Sensitive Groups,46.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 10:00 PM,2024,12,22,22,44.8,124,Unhealthy for Sensitive Groups,50.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-22 11:00 PM,2024,12,22,23,47.5,131,Unhealthy for Sensitive Groups,50.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 12:00 AM,2024,12,23,00,54.2,147,Unhealthy for Sensitive Groups,60.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 01:00 AM,2024,12,23,01,69.8,161,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 02:00 AM,2024,12,23,02,73.6,164,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 03:00 AM,2024,12,23,03,73.6,164,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Tijuana,PM2.5 - Principal,2024-12-23 07:00 AM,2024,12,23,07,-999.0,-999,N/A,50.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 08:00 AM,2024,12,23,08,57.7,153,Unhealthy,60.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 09:00 AM,2024,12,23,09,71.7,162,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 10:00 AM,2024,12,23,10,74.3,164,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 11:00 AM,2024,12,23,11,61.2,155,Unhealthy,46.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 12:00 PM,2024,12,23,12,42.1,117,Unhealthy for Sensitive Groups,24.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 01:00 PM,2024,12,23,13,30.1,90,Moderate,18.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 02:00 PM,2024,12,23,14,22.3,76,Moderate,14.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 03:00 PM,2024,12,23,15,17.7,67,Moderate,13.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 04:00 PM,2024,12,23,16,15.3,63,Moderate,12.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 05:00 PM,2024,12,23,17,14.4,61,Moderate,13.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 06:00 PM,2024,12,23,18,15.0,62,Moderate,15.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 07:00 PM,2024,12,23,19,15.7,63,Moderate,16.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 08:00 PM,2024,12,23,20,16.0,64,Moderate,16.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 09:00 PM,2024,12,23,21,26.6,84,Moderate,37.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 10:00 PM,2024,12,23,22,27.1,85,Moderate,27.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-23 11:00 PM,2024,12,23,23,31.2,92,Moderate,35.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 12:00 AM,2024,12,24,00,39.6,111,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 01:00 AM,2024,12,24,01,41.6,116,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 02:00 AM,2024,12,24,02,47.6,131,Unhealthy for Sensitive Groups,53.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 03:00 AM,2024,12,24,03,56.3,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 04:00 AM,2024,12,24,04,53.2,145,Unhealthy for Sensitive Groups,50.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 05:00 AM,2024,12,24,05,33.4,96,Moderate,13.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 06:00 AM,2024,12,24,06,23.5,78,Moderate,13.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 07:00 AM,2024,12,24,07,22.0,75,Moderate,20.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 08:00 AM,2024,12,24,08,24.6,80,Moderate,27.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 09:00 AM,2024,12,24,09,27.8,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 10:00 AM,2024,12,24,10,39.1,110,Unhealthy for Sensitive Groups,50.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 11:00 AM,2024,12,24,11,32.2,94,Moderate,25.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 12:00 PM,2024,12,24,12,21.4,74,Moderate,10.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 01:00 PM,2024,12,24,13,13.3,59,Moderate,5.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 02:00 PM,2024,12,24,14,8.8,49,Good,4.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 03:00 PM,2024,12,24,15,6.1,34,Good,3.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 04:00 PM,2024,12,24,16,5.1,28,Good,4.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 05:00 PM,2024,12,24,17,7.7,43,Good,10.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 06:00 PM,2024,12,24,18,10.0,53,Moderate,12.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 07:00 PM,2024,12,24,19,13.9,60,Moderate,17.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 08:00 PM,2024,12,24,20,18.5,69,Moderate,23.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 09:00 PM,2024,12,24,21,15.7,63,Moderate,12.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 10:00 PM,2024,12,24,22,13.5,59,Moderate,11.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-24 11:00 PM,2024,12,24,23,14.0,60,Moderate,14.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 12:00 AM,2024,12,25,00,19.7,71,Moderate,25.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 01:00 AM,2024,12,25,01,40.4,113,Unhealthy for Sensitive Groups,61.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 02:00 AM,2024,12,25,02,58.1,153,Unhealthy,75.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 03:00 AM,2024,12,25,03,63.6,157,Unhealthy,69.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 04:00 AM,2024,12,25,04,60.8,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 05:00 AM,2024,12,25,05,52.3,142,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 06:00 AM,2024,12,25,06,40.7,114,Unhealthy for Sensitive Groups,29.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 07:00 AM,2024,12,25,07,40.6,114,Unhealthy for Sensitive Groups,40.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 08:00 AM,2024,12,25,08,46.4,128,Unhealthy for Sensitive Groups,52.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 09:00 AM,2024,12,25,09,58.7,153,Unhealthy,71.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 10:00 AM,2024,12,25,10,61.8,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 11:00 AM,2024,12,25,11,43.0,119,Unhealthy for Sensitive Groups,24.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 12:00 PM,2024,12,25,12,27.5,85,Moderate,12.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 01:00 PM,2024,12,25,13,17.9,67,Moderate,8.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 02:00 PM,2024,12,25,14,12.1,57,Moderate,6.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 03:00 PM,2024,12,25,15,9.0,50,Good,6.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 04:00 PM,2024,12,25,16,7.9,44,Good,6.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 05:00 PM,2024,12,25,17,9.0,50,Good,10.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 06:00 PM,2024,12,25,18,10.3,53,Moderate,11.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 07:00 PM,2024,12,25,19,13.0,58,Moderate,15.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 08:00 PM,2024,12,25,20,13.6,59,Moderate,14.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 09:00 PM,2024,12,25,21,14.2,61,Moderate,14.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 10:00 PM,2024,12,25,22,12.4,57,Moderate,10.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-25 11:00 PM,2024,12,25,23,14.3,61,Moderate,16.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 12:00 AM,2024,12,26,00,18.0,68,Moderate,21.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 01:00 AM,2024,12,26,01,31.8,93,Moderate,45.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 02:00 AM,2024,12,26,02,42.5,118,Unhealthy for Sensitive Groups,53.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 03:00 AM,2024,12,26,03,56.6,152,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 04:00 AM,2024,12,26,04,69.0,160,Unhealthy,81.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 05:00 AM,2024,12,26,05,67.6,159,Unhealthy,66.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 06:00 AM,2024,12,26,06,61.5,155,Unhealthy,55.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 07:00 AM,2024,12,26,07,57.7,153,Unhealthy,53.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 08:00 AM,2024,12,26,08,54.4,148,Unhealthy for Sensitive Groups,51.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 09:00 AM,2024,12,26,09,45.4,125,Unhealthy for Sensitive Groups,36.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 10:00 AM,2024,12,26,10,38.6,109,Unhealthy for Sensitive Groups,31.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 11:00 AM,2024,12,26,11,33.8,97,Moderate,29.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 12:00 PM,2024,12,26,12,34.0,97,Moderate,34.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 01:00 PM,2024,12,26,13,26.7,84,Moderate,19.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 02:00 PM,2024,12,26,14,17.9,67,Moderate,9.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 03:00 PM,2024,12,26,15,12.7,58,Moderate,7.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 04:00 PM,2024,12,26,16,9.1,51,Moderate,5.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 05:00 PM,2024,12,26,17,8.5,47,Good,7.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 06:00 PM,2024,12,26,18,11.0,55,Moderate,13.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 07:00 PM,2024,12,26,19,12.6,58,Moderate,14.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 08:00 PM,2024,12,26,20,12.3,57,Moderate,12.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 09:00 PM,2024,12,26,21,15.5,63,Moderate,18.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 10:00 PM,2024,12,26,22,23.7,78,Moderate,31.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-26 11:00 PM,2024,12,26,23,40.2,113,Unhealthy for Sensitive Groups,56.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 12:00 AM,2024,12,27,00,48.0,132,Unhealthy for Sensitive Groups,55.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 01:00 AM,2024,12,27,01,41.3,115,Unhealthy for Sensitive Groups,34.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 02:00 AM,2024,12,27,02,40.9,114,Unhealthy for Sensitive Groups,40.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 03:00 AM,2024,12,27,03,56.0,151,Unhealthy,71.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 04:00 AM,2024,12,27,04,63.5,157,Unhealthy,71.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 05:00 AM,2024,12,27,05,67.3,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 06:00 AM,2024,12,27,06,61.9,155,Unhealthy,56.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 07:00 AM,2024,12,27,07,53.9,146,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 08:00 AM,2024,12,27,08,46.9,129,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 09:00 AM,2024,12,27,09,62.7,156,Unhealthy,78.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 10:00 AM,2024,12,27,10,62.9,156,Unhealthy,63.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 11:00 AM,2024,12,27,11,51.4,140,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 12:00 PM,2024,12,27,12,38.4,108,Unhealthy for Sensitive Groups,25.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 01:00 PM,2024,12,27,13,28.7,88,Moderate,19.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 02:00 PM,2024,12,27,14,19.7,71,Moderate,10.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 03:00 PM,2024,12,27,15,14.6,61,Moderate,9.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 04:00 PM,2024,12,27,16,12.9,58,Moderate,11.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 05:00 PM,2024,12,27,17,9.0,50,Good,5.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 06:00 PM,2024,12,27,18,8.7,48,Good,8.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 07:00 PM,2024,12,27,19,11.3,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 08:00 PM,2024,12,27,20,12.5,57,Moderate,13.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 09:00 PM,2024,12,27,21,10.8,54,Moderate,9.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 10:00 PM,2024,12,27,22,13.0,58,Moderate,15.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-27 11:00 PM,2024,12,27,23,16.0,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 12:00 AM,2024,12,28,00,22.0,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 01:00 AM,2024,12,28,01,25.0,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 02:00 AM,2024,12,28,02,28.3,87,Moderate,31.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 03:00 AM,2024,12,28,03,26.7,84,Moderate,25.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 04:00 AM,2024,12,28,04,27.2,85,Moderate,27.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 05:00 AM,2024,12,28,05,30.8,91,Moderate,34.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 06:00 AM,2024,12,28,06,29.2,88,Moderate,27.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 07:00 AM,2024,12,28,07,28.1,86,Moderate,27.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 08:00 AM,2024,12,28,08,33.6,97,Moderate,39.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 09:00 AM,2024,12,28,09,39.0,110,Unhealthy for Sensitive Groups,44.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 10:00 AM,2024,12,28,10,38.1,107,Unhealthy for Sensitive Groups,37.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 11:00 AM,2024,12,28,11,36.9,104,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 12:00 PM,2024,12,28,12,26.8,84,Moderate,16.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 01:00 PM,2024,12,28,13,20.1,71,Moderate,13.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 02:00 PM,2024,12,28,14,15.5,63,Moderate,10.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 03:00 PM,2024,12,28,15,13.6,59,Moderate,11.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 04:00 PM,2024,12,28,16,12.6,58,Moderate,11.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 05:00 PM,2024,12,28,17,12.5,57,Moderate,12.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 06:00 PM,2024,12,28,18,13.6,59,Moderate,14.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 07:00 PM,2024,12,28,19,15.0,62,Moderate,16.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 08:00 PM,2024,12,28,20,21.5,74,Moderate,28.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 09:00 PM,2024,12,28,21,26.2,83,Moderate,30.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 10:00 PM,2024,12,28,22,31.6,93,Moderate,37.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-28 11:00 PM,2024,12,28,23,42.9,119,Unhealthy for Sensitive Groups,54.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 12:00 AM,2024,12,29,00,49.1,134,Unhealthy for Sensitive Groups,55.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 01:00 AM,2024,12,29,01,49.3,135,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 02:00 AM,2024,12,29,02,66.6,159,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 03:00 AM,2024,12,29,03,54.8,149,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 04:00 AM,2024,12,29,04,42.2,117,Unhealthy for Sensitive Groups,29.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 05:00 AM,2024,12,29,05,33.8,97,Moderate,25.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 06:00 AM,2024,12,29,06,27.0,84,Moderate,20.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 07:00 AM,2024,12,29,07,38.4,108,Unhealthy for Sensitive Groups,49.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 08:00 AM,2024,12,29,08,50.2,137,Unhealthy for Sensitive Groups,62.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 09:00 AM,2024,12,29,09,49.2,135,Unhealthy for Sensitive Groups,48.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 10:00 AM,2024,12,29,10,43.9,122,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 11:00 AM,2024,12,29,11,41.4,116,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 12:00 PM,2024,12,29,12,33.5,96,Moderate,25.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 01:00 PM,2024,12,29,13,28.0,86,Moderate,22.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 02:00 PM,2024,12,29,14,25.2,81,Moderate,22.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 03:00 PM,2024,12,29,15,24.3,79,Moderate,23.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 04:00 PM,2024,12,29,16,22.6,76,Moderate,20.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 05:00 PM,2024,12,29,17,21.6,74,Moderate,20.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 06:00 PM,2024,12,29,18,20.2,72,Moderate,18.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 07:00 PM,2024,12,29,19,18.8,69,Moderate,17.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 08:00 PM,2024,12,29,20,19.9,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 09:00 PM,2024,12,29,21,25.2,81,Moderate,30.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 10:00 PM,2024,12,29,22,32.7,95,Moderate,40.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-29 11:00 PM,2024,12,29,23,42.0,117,Unhealthy for Sensitive Groups,51.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 12:00 AM,2024,12,30,00,48.8,134,Unhealthy for Sensitive Groups,55.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 01:00 AM,2024,12,30,01,55.2,150,Unhealthy for Sensitive Groups,61.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 02:00 AM,2024,12,30,02,53.6,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 03:00 AM,2024,12,30,03,49.1,134,Unhealthy for Sensitive Groups,44.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 04:00 AM,2024,12,30,04,36.3,103,Unhealthy for Sensitive Groups,23.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 05:00 AM,2024,12,30,05,31.4,93,Moderate,26.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 06:00 AM,2024,12,30,06,36.6,104,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 07:00 AM,2024,12,30,07,42.2,117,Unhealthy for Sensitive Groups,47.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 08:00 AM,2024,12,30,08,46.9,129,Unhealthy for Sensitive Groups,51.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 09:00 AM,2024,12,30,09,41.5,116,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 10:00 AM,2024,12,30,10,31.9,93,Moderate,22.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 11:00 AM,2024,12,30,11,21.7,74,Moderate,11.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 12:00 PM,2024,12,30,12,16.5,65,Moderate,11.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 01:00 PM,2024,12,30,13,13.2,59,Moderate,9.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 02:00 PM,2024,12,30,14,13.7,60,Moderate,14.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 03:00 PM,2024,12,30,15,12.0,56,Moderate,10.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 04:00 PM,2024,12,30,16,10.6,54,Moderate,9.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 05:00 PM,2024,12,30,17,9.9,52,Moderate,9.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 06:00 PM,2024,12,30,18,9.8,52,Moderate,9.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 07:00 PM,2024,12,30,19,10.3,53,Moderate,10.9,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 08:00 PM,2024,12,30,20,11.7,56,Moderate,13.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 09:00 PM,2024,12,30,21,14.7,61,Moderate,17.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 10:00 PM,2024,12,30,22,19.0,69,Moderate,23.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-30 11:00 PM,2024,12,30,23,19.4,70,Moderate,19.8,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 12:00 AM,2024,12,31,00,22.8,77,Moderate,26.2,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 01:00 AM,2024,12,31,01,25.0,81,Moderate,27.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 02:00 AM,2024,12,31,02,23.5,78,Moderate,22.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 03:00 AM,2024,12,31,03,24.6,80,Moderate,25.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 04:00 AM,2024,12,31,04,30.8,91,Moderate,37.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 05:00 AM,2024,12,31,05,38.6,109,Unhealthy for Sensitive Groups,46.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 06:00 AM,2024,12,31,06,42.1,117,Unhealthy for Sensitive Groups,45.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 07:00 AM,2024,12,31,07,43.8,121,Unhealthy for Sensitive Groups,45.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 08:00 AM,2024,12,31,08,46.9,129,Unhealthy for Sensitive Groups,50.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 09:00 AM,2024,12,31,09,48.7,134,Unhealthy for Sensitive Groups,50.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 10:00 AM,2024,12,31,10,48.7,134,Unhealthy for Sensitive Groups,48.7,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 11:00 AM,2024,12,31,11,48.8,134,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 12:00 PM,2024,12,31,12,43.2,120,Unhealthy for Sensitive Groups,37.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 01:00 PM,2024,12,31,13,34.9,99,Moderate,26.6,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 02:00 PM,2024,12,31,14,29.4,89,Moderate,24.0,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 03:00 PM,2024,12,31,15,26.4,83,Moderate,23.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 04:00 PM,2024,12,31,16,23.9,79,Moderate,21.5,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 05:00 PM,2024,12,31,17,19.5,70,Moderate,15.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 06:00 PM,2024,12,31,18,17.9,67,Moderate,16.4,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 07:00 PM,2024,12,31,19,17.5,67,Moderate,17.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 08:00 PM,2024,12,31,20,18.8,69,Moderate,20.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 09:00 PM,2024,12,31,21,19.0,69,Moderate,19.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 10:00 PM,2024,12,31,22,20.6,72,Moderate,22.3,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2024-12-31 11:00 PM,2024,12,31,23,50.3,137,Unhealthy for Sensitive Groups,80.1,UG/M3,1 Hr,Valid
+Tijuana,PM2.5 - Principal,2025-01-01 12:00 AM,2025,01,01,00,114.1,192,Unhealthy,177.8,UG/M3,1 Hr,Suspect

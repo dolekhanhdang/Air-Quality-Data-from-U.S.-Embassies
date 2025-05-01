@@ -1,0 +1,742 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Mumbai,PM2.5 - Principal,2024-10-01 02:00 AM,2024,10,01,02,17.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 03:00 AM,2024,10,01,03,19.4,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 04:00 AM,2024,10,01,04,19.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 05:00 AM,2024,10,01,05,20.6,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 06:00 AM,2024,10,01,06,18.3,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 07:00 AM,2024,10,01,07,20.5,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 08:00 AM,2024,10,01,08,25.8,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 09:00 AM,2024,10,01,09,30.9,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 10:00 AM,2024,10,01,10,28.9,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 11:00 AM,2024,10,01,11,30.9,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 12:00 PM,2024,10,01,12,36.9,104,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 01:00 PM,2024,10,01,13,41.5,116,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 02:00 PM,2024,10,01,14,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 03:00 PM,2024,10,01,15,36.3,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 04:00 PM,2024,10,01,16,42.1,117,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 05:00 PM,2024,10,01,17,42.1,117,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-01 06:00 PM,2024,10,01,18,40.0,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 07:00 PM,2024,10,01,19,42.5,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 08:00 PM,2024,10,01,20,48.1,132,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 09:00 PM,2024,10,01,21,50.6,138,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 10:00 PM,2024,10,01,22,49.1,134,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-01 11:00 PM,2024,10,01,23,49.0,134,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 12:00 AM,2024,10,02,00,48.6,133,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 01:00 AM,2024,10,02,01,48.0,132,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 02:00 AM,2024,10,02,02,61.9,155,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 03:00 AM,2024,10,02,03,63.2,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 04:00 AM,2024,10,02,04,65.5,158,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 05:00 AM,2024,10,02,05,64.3,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 06:00 AM,2024,10,02,06,63.8,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 07:00 AM,2024,10,02,07,63.4,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 08:00 AM,2024,10,02,08,67.1,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 09:00 AM,2024,10,02,09,70.1,161,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 10:00 AM,2024,10,02,10,69.7,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 11:00 AM,2024,10,02,11,66.4,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 12:00 PM,2024,10,02,12,64.7,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 01:00 PM,2024,10,02,13,58.6,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 02:00 PM,2024,10,02,14,48.8,134,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 03:00 PM,2024,10,02,15,43.9,122,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 04:00 PM,2024,10,02,16,45.3,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 05:00 PM,2024,10,02,17,38.6,109,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 06:00 PM,2024,10,02,18,33.8,97,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 07:00 PM,2024,10,02,19,30.3,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 08:00 PM,2024,10,02,20,28.1,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 09:00 PM,2024,10,02,21,28.5,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 10:00 PM,2024,10,02,22,31.2,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-02 11:00 PM,2024,10,02,23,32.6,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 12:00 AM,2024,10,03,00,32.2,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 01:00 AM,2024,10,03,01,29.8,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 02:00 AM,2024,10,03,02,26.3,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 03:00 AM,2024,10,03,03,24.6,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 04:00 AM,2024,10,03,04,25.4,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 05:00 AM,2024,10,03,05,22.8,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 06:00 AM,2024,10,03,06,22.0,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 07:00 AM,2024,10,03,07,20.6,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 08:00 AM,2024,10,03,08,20.7,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 09:00 AM,2024,10,03,09,18.8,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 10:00 AM,2024,10,03,10,21.9,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 11:00 AM,2024,10,03,11,21.4,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 12:00 PM,2024,10,03,12,19.1,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 01:00 PM,2024,10,03,13,20.6,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 02:00 PM,2024,10,03,14,16.4,65,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 03:00 PM,2024,10,03,15,15.2,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 04:00 PM,2024,10,03,16,15.1,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 05:00 PM,2024,10,03,17,16.0,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 06:00 PM,2024,10,03,18,19.5,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 07:00 PM,2024,10,03,19,18.2,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 08:00 PM,2024,10,03,20,20.1,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 09:00 PM,2024,10,03,21,16.5,65,Moderate,13.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 10:00 PM,2024,10,03,22,16.3,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-03 11:00 PM,2024,10,03,23,15.2,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 12:00 AM,2024,10,04,00,15.1,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 01:00 AM,2024,10,04,01,13.0,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 02:00 AM,2024,10,04,02,13.5,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 03:00 AM,2024,10,04,03,15.7,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 04:00 AM,2024,10,04,04,14.3,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 05:00 AM,2024,10,04,05,11.1,55,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 06:00 AM,2024,10,04,06,9.5,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 07:00 AM,2024,10,04,07,11.7,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 08:00 AM,2024,10,04,08,15.8,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 09:00 AM,2024,10,04,09,19.9,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 10:00 AM,2024,10,04,10,16.4,65,Moderate,13.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 11:00 AM,2024,10,04,11,12.2,57,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 12:00 PM,2024,10,04,12,12.1,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 01:00 PM,2024,10,04,13,11.0,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 02:00 PM,2024,10,04,14,9.0,50,Good,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 03:00 PM,2024,10,04,15,8.0,44,Good,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 04:00 PM,2024,10,04,16,10.0,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 05:00 PM,2024,10,04,17,10.0,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 06:00 PM,2024,10,04,18,8.5,47,Good,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 07:00 PM,2024,10,04,19,11.7,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 08:00 PM,2024,10,04,20,10.8,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 09:00 PM,2024,10,04,21,10.9,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 10:00 PM,2024,10,04,22,11.4,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-04 11:00 PM,2024,10,04,23,12.7,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 12:00 AM,2024,10,05,00,12.3,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 01:00 AM,2024,10,05,01,11.1,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 02:00 AM,2024,10,05,02,9.5,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 03:00 AM,2024,10,05,03,9.7,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 04:00 AM,2024,10,05,04,9.7,52,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-05 05:00 AM,2024,10,05,05,13.9,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 06:00 AM,2024,10,05,06,21.9,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 07:00 AM,2024,10,05,07,25.7,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 08:00 AM,2024,10,05,08,27.4,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 09:00 AM,2024,10,05,09,24.1,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 10:00 AM,2024,10,05,10,21.0,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 11:00 AM,2024,10,05,11,21.5,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 12:00 PM,2024,10,05,12,18.7,69,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 01:00 PM,2024,10,05,13,15.8,63,Moderate,13.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 02:00 PM,2024,10,05,14,11.9,56,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 03:00 PM,2024,10,05,15,11.4,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 04:00 PM,2024,10,05,16,12.7,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 05:00 PM,2024,10,05,17,11.3,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 06:00 PM,2024,10,05,18,11.1,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 07:00 PM,2024,10,05,19,9.5,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 08:00 PM,2024,10,05,20,10.7,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 09:00 PM,2024,10,05,21,11.3,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 10:00 PM,2024,10,05,22,11.1,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-05 11:00 PM,2024,10,05,23,10.0,53,Moderate,9.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 12:00 AM,2024,10,06,00,14.0,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 01:00 AM,2024,10,06,01,14.0,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 02:00 AM,2024,10,06,02,14.5,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 03:00 AM,2024,10,06,03,15.7,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 04:00 AM,2024,10,06,04,16.3,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 05:00 AM,2024,10,06,05,16.6,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 06:00 AM,2024,10,06,06,18.3,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 07:00 AM,2024,10,06,07,17.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 08:00 AM,2024,10,06,08,22.8,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 09:00 AM,2024,10,06,09,19.9,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 10:00 AM,2024,10,06,10,15.4,63,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 11:00 AM,2024,10,06,11,15.7,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 12:00 PM,2024,10,06,12,15.8,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 01:00 PM,2024,10,06,13,18.4,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 02:00 PM,2024,10,06,14,19.2,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 03:00 PM,2024,10,06,15,20.1,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 04:00 PM,2024,10,06,16,26.0,82,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 05:00 PM,2024,10,06,17,31.0,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 06:00 PM,2024,10,06,18,32.5,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 07:00 PM,2024,10,06,19,38.2,108,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 08:00 PM,2024,10,06,20,38.1,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 09:00 PM,2024,10,06,21,30.0,90,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 10:00 PM,2024,10,06,22,48.5,133,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-06 11:00 PM,2024,10,06,23,46.2,127,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 12:00 AM,2024,10,07,00,48.1,132,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 01:00 AM,2024,10,07,01,44.5,123,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 02:00 AM,2024,10,07,02,43.2,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 03:00 AM,2024,10,07,03,34.1,98,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 04:00 AM,2024,10,07,04,34.5,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 05:00 AM,2024,10,07,05,36.7,104,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 06:00 AM,2024,10,07,06,36.3,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 07:00 AM,2024,10,07,07,41.1,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 08:00 AM,2024,10,07,08,41.1,115,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-07 09:00 AM,2024,10,07,09,54.4,148,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 10:00 AM,2024,10,07,10,58.7,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 11:00 AM,2024,10,07,11,57.2,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 12:00 PM,2024,10,07,12,50.9,139,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 01:00 PM,2024,10,07,13,45.3,125,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 02:00 PM,2024,10,07,14,42.6,118,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 03:00 PM,2024,10,07,15,45.9,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 04:00 PM,2024,10,07,16,52.3,142,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 05:00 PM,2024,10,07,17,53.8,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 06:00 PM,2024,10,07,18,53.1,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 07:00 PM,2024,10,07,19,59.4,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 08:00 PM,2024,10,07,20,65.9,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 09:00 PM,2024,10,07,21,64.1,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-07 10:00 PM,2024,10,07,22,64.1,157,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-07 11:00 PM,2024,10,07,23,62.2,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 12:00 AM,2024,10,08,00,61.6,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 01:00 AM,2024,10,08,01,59.8,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 02:00 AM,2024,10,08,02,66.3,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 03:00 AM,2024,10,08,03,66.8,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 04:00 AM,2024,10,08,04,75.4,165,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 05:00 AM,2024,10,08,05,76.0,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 06:00 AM,2024,10,08,06,73.7,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 07:00 AM,2024,10,08,07,76.2,166,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 08:00 AM,2024,10,08,08,76.1,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 09:00 AM,2024,10,08,09,75.1,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 10:00 AM,2024,10,08,10,70.3,161,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 11:00 AM,2024,10,08,11,63.1,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 12:00 PM,2024,10,08,12,64.2,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 01:00 PM,2024,10,08,13,54.4,148,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 02:00 PM,2024,10,08,14,44.5,123,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 03:00 PM,2024,10,08,15,38.7,109,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 04:00 PM,2024,10,08,16,33.3,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 05:00 PM,2024,10,08,17,33.1,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 06:00 PM,2024,10,08,18,39.5,111,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 07:00 PM,2024,10,08,19,47.2,130,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 08:00 PM,2024,10,08,20,49.6,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 09:00 PM,2024,10,08,21,52.3,142,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 10:00 PM,2024,10,08,22,49.6,136,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-08 11:00 PM,2024,10,08,23,56.8,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 12:00 AM,2024,10,09,00,56.9,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 01:00 AM,2024,10,09,01,70.4,161,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 02:00 AM,2024,10,09,02,71.2,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 03:00 AM,2024,10,09,03,69.6,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 04:00 AM,2024,10,09,04,69.8,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 05:00 AM,2024,10,09,05,69.3,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 06:00 AM,2024,10,09,06,67.8,160,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 07:00 AM,2024,10,09,07,60.4,154,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 08:00 AM,2024,10,09,08,39.6,111,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 09:00 AM,2024,10,09,09,27.3,85,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 10:00 AM,2024,10,09,10,27.6,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 11:00 AM,2024,10,09,11,27.3,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 12:00 PM,2024,10,09,12,27.6,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 01:00 PM,2024,10,09,13,26.3,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 02:00 PM,2024,10,09,14,23.6,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 03:00 PM,2024,10,09,15,23.8,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 04:00 PM,2024,10,09,16,25.9,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 05:00 PM,2024,10,09,17,29.4,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 06:00 PM,2024,10,09,18,92.7,177,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 07:00 PM,2024,10,09,19,211.4,286,Very Unhealthy,330.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 08:00 PM,2024,10,09,20,210.2,285,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 09:00 PM,2024,10,09,21,210.2,285,Very Unhealthy,-15.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2024-10-09 10:00 PM,2024,10,09,22,81.4,169,Unhealthy,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-09 11:00 PM,2024,10,09,23,45.1,125,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 12:00 AM,2024,10,10,00,33.8,97,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 01:00 AM,2024,10,10,01,28.2,87,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 02:00 AM,2024,10,10,02,33.7,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 03:00 AM,2024,10,10,03,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 04:00 AM,2024,10,10,04,32.4,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 05:00 AM,2024,10,10,05,32.7,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 06:00 AM,2024,10,10,06,31.3,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 07:00 AM,2024,10,10,07,32.1,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 08:00 AM,2024,10,10,08,32.0,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 09:00 AM,2024,10,10,09,34.0,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 10:00 AM,2024,10,10,10,37.0,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 11:00 AM,2024,10,10,11,34.5,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 12:00 PM,2024,10,10,12,29.6,89,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 01:00 PM,2024,10,10,13,29.7,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 02:00 PM,2024,10,10,14,28.5,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 03:00 PM,2024,10,10,15,23.5,78,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 04:00 PM,2024,10,10,16,21.7,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 05:00 PM,2024,10,10,17,21.8,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 06:00 PM,2024,10,10,18,25.4,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 07:00 PM,2024,10,10,19,28.7,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 08:00 PM,2024,10,10,20,48.3,133,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 09:00 PM,2024,10,10,21,28.6,87,Moderate,9.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 10:00 PM,2024,10,10,22,20.3,72,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-10 11:00 PM,2024,10,10,23,17.1,66,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 12:00 AM,2024,10,11,00,17.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 01:00 AM,2024,10,11,01,14.0,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 02:00 AM,2024,10,11,02,17.5,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 03:00 AM,2024,10,11,03,19.7,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 04:00 AM,2024,10,11,04,21.3,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 05:00 AM,2024,10,11,05,26.1,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 06:00 AM,2024,10,11,06,27.5,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 07:00 AM,2024,10,11,07,28.7,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 08:00 AM,2024,10,11,08,32.3,94,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 09:00 AM,2024,10,11,09,26.6,84,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 10:00 AM,2024,10,11,10,26.8,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 11:00 AM,2024,10,11,11,21.9,75,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 12:00 PM,2024,10,11,12,15.4,63,Moderate,9.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 01:00 PM,2024,10,11,13,10.7,54,Moderate,6.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 02:00 PM,2024,10,11,14,12.3,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 03:00 PM,2024,10,11,15,15.6,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 04:00 PM,2024,10,11,16,15.3,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 05:00 PM,2024,10,11,17,14.6,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 06:00 PM,2024,10,11,18,17.8,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 07:00 PM,2024,10,11,19,15.9,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 08:00 PM,2024,10,11,20,30.4,91,Moderate,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 09:00 PM,2024,10,11,21,29.2,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 10:00 PM,2024,10,11,22,13.1,58,Moderate,-3.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-11 11:00 PM,2024,10,11,23,17.0,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 12:00 AM,2024,10,12,00,14.5,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 01:00 AM,2024,10,12,01,19.7,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 02:00 AM,2024,10,12,02,22.8,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 03:00 AM,2024,10,12,03,16.9,66,Moderate,11.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 04:00 AM,2024,10,12,04,17.4,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 05:00 AM,2024,10,12,05,20.7,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 06:00 AM,2024,10,12,06,21.3,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 07:00 AM,2024,10,12,07,28.1,86,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 08:00 AM,2024,10,12,08,15.5,63,Moderate,3.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 09:00 AM,2024,10,12,09,24.2,79,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 10:00 AM,2024,10,12,10,26.6,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 11:00 AM,2024,10,12,11,24.8,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 12:00 PM,2024,10,12,12,23.9,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 01:00 PM,2024,10,12,13,22.4,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 02:00 PM,2024,10,12,14,24.7,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 03:00 PM,2024,10,12,15,39.8,112,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 04:00 PM,2024,10,12,16,34.4,98,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 05:00 PM,2024,10,12,17,22.2,75,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 06:00 PM,2024,10,12,18,25.1,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 07:00 PM,2024,10,12,19,15.0,62,Moderate,5.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 08:00 PM,2024,10,12,20,22.5,76,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 09:00 PM,2024,10,12,21,30.2,90,Moderate,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 10:00 PM,2024,10,12,22,36.1,102,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-12 11:00 PM,2024,10,12,23,37.0,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 12:00 AM,2024,10,13,00,41.0,115,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 01:00 AM,2024,10,13,01,43.5,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 02:00 AM,2024,10,13,02,39.7,111,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 03:00 AM,2024,10,13,03,24.3,79,Moderate,9.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 04:00 AM,2024,10,13,04,26.6,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 05:00 AM,2024,10,13,05,26.3,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 06:00 AM,2024,10,13,06,24.6,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 07:00 AM,2024,10,13,07,37.8,107,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 08:00 AM,2024,10,13,08,33.9,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 09:00 AM,2024,10,13,09,25.4,81,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 10:00 AM,2024,10,13,10,20.2,72,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 11:00 AM,2024,10,13,11,24.6,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 12:00 PM,2024,10,13,12,28.8,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 01:00 PM,2024,10,13,13,28.4,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 02:00 PM,2024,10,13,14,23.6,78,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 03:00 PM,2024,10,13,15,25.3,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 04:00 PM,2024,10,13,16,28.6,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 05:00 PM,2024,10,13,17,28.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 06:00 PM,2024,10,13,18,25.1,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 07:00 PM,2024,10,13,19,22.5,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 08:00 PM,2024,10,13,20,25.7,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 09:00 PM,2024,10,13,21,22.8,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 10:00 PM,2024,10,13,22,23.5,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-13 11:00 PM,2024,10,13,23,19.7,71,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 12:00 AM,2024,10,14,00,34.8,99,Moderate,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 01:00 AM,2024,10,14,01,51.4,140,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 02:00 AM,2024,10,14,02,84.7,171,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 03:00 AM,2024,10,14,03,58.8,153,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 04:00 AM,2024,10,14,04,55.4,150,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 05:00 AM,2024,10,14,05,61.2,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 06:00 AM,2024,10,14,06,28.6,87,Moderate,-4.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 07:00 AM,2024,10,14,07,28.6,87,Moderate,-15.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2024-10-14 08:00 AM,2024,10,14,08,34.8,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 09:00 AM,2024,10,14,09,-999.0,-999,N/A,-15.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2024-10-14 10:00 AM,2024,10,14,10,26.9,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 11:00 AM,2024,10,14,11,25.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 12:00 PM,2024,10,14,12,22.9,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 01:00 PM,2024,10,14,13,30.7,91,Moderate,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 02:00 PM,2024,10,14,14,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 03:00 PM,2024,10,14,15,33.4,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 04:00 PM,2024,10,14,16,40.2,113,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 05:00 PM,2024,10,14,17,33.6,97,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 06:00 PM,2024,10,14,18,28.3,87,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 07:00 PM,2024,10,14,19,17.1,66,Moderate,6.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 08:00 PM,2024,10,14,20,26.0,82,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 09:00 PM,2024,10,14,21,18.0,68,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 10:00 PM,2024,10,14,22,17.0,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-14 11:00 PM,2024,10,14,23,16.5,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 12:00 AM,2024,10,15,00,15.2,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 01:00 AM,2024,10,15,01,15.6,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 02:00 AM,2024,10,15,02,15.6,63,Moderate,-15.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2024-10-15 03:00 AM,2024,10,15,03,20.5,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 04:00 AM,2024,10,15,04,20.7,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 05:00 AM,2024,10,15,05,19.3,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 06:00 AM,2024,10,15,06,19.3,70,Moderate,-15.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2024-10-15 07:00 AM,2024,10,15,07,4.1,23,Good,-3.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 08:00 AM,2024,10,15,08,6.3,35,Good,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 09:00 AM,2024,10,15,09,16.3,64,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 10:00 AM,2024,10,15,10,21.3,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 11:00 AM,2024,10,15,11,31.3,92,Moderate,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 12:00 PM,2024,10,15,12,48.8,134,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 01:00 PM,2024,10,15,13,47.9,132,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 02:00 PM,2024,10,15,14,42.4,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 03:00 PM,2024,10,15,15,35.7,101,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 04:00 PM,2024,10,15,16,38.8,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 05:00 PM,2024,10,15,17,35.4,100,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 06:00 PM,2024,10,15,18,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 07:00 PM,2024,10,15,19,34.8,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 08:00 PM,2024,10,15,20,17.4,66,Moderate,0.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 09:00 PM,2024,10,15,21,11.7,56,Moderate,6.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 10:00 PM,2024,10,15,22,25.8,82,Moderate,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-15 11:00 PM,2024,10,15,23,27.9,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 12:00 AM,2024,10,16,00,26.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 01:00 AM,2024,10,16,01,32.4,94,Moderate,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 02:00 AM,2024,10,16,02,24.7,80,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 03:00 AM,2024,10,16,03,32.8,95,Moderate,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 04:00 AM,2024,10,16,04,35.9,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 05:00 AM,2024,10,16,05,35.9,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 06:00 AM,2024,10,16,06,41.9,117,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 07:00 AM,2024,10,16,07,38.9,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 08:00 AM,2024,10,16,08,53.0,144,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 09:00 AM,2024,10,16,09,55.0,149,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 10:00 AM,2024,10,16,10,55.5,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 11:00 AM,2024,10,16,11,53.2,145,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 12:00 PM,2024,10,16,12,45.1,125,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 01:00 PM,2024,10,16,13,35.0,99,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 02:00 PM,2024,10,16,14,29.0,88,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 03:00 PM,2024,10,16,15,28.0,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 04:00 PM,2024,10,16,16,31.5,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 05:00 PM,2024,10,16,17,38.7,109,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 06:00 PM,2024,10,16,18,42.8,119,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 07:00 PM,2024,10,16,19,43.4,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 08:00 PM,2024,10,16,20,46.7,129,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 09:00 PM,2024,10,16,21,41.8,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 10:00 PM,2024,10,16,22,44.4,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-16 11:00 PM,2024,10,16,23,42.7,119,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 12:00 AM,2024,10,17,00,47.8,131,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 01:00 AM,2024,10,17,01,48.9,134,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 02:00 AM,2024,10,17,02,44.0,122,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 03:00 AM,2024,10,17,03,45.8,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 04:00 AM,2024,10,17,04,45.0,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 05:00 AM,2024,10,17,05,45.6,126,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 06:00 AM,2024,10,17,06,42.9,119,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 07:00 AM,2024,10,17,07,43.5,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 08:00 AM,2024,10,17,08,43.0,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 09:00 AM,2024,10,17,09,37.8,107,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 10:00 AM,2024,10,17,10,35.4,100,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 11:00 AM,2024,10,17,11,30.1,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 12:00 PM,2024,10,17,12,26.0,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 01:00 PM,2024,10,17,13,29.5,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 02:00 PM,2024,10,17,14,36.2,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 03:00 PM,2024,10,17,15,34.1,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 04:00 PM,2024,10,17,16,39.5,111,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 05:00 PM,2024,10,17,17,45.2,125,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 06:00 PM,2024,10,17,18,49.6,136,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 07:00 PM,2024,10,17,19,48.8,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 08:00 PM,2024,10,17,20,48.4,133,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 09:00 PM,2024,10,17,21,51.2,140,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 10:00 PM,2024,10,17,22,55.1,149,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-17 11:00 PM,2024,10,17,23,57.0,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 12:00 AM,2024,10,18,00,57.7,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 01:00 AM,2024,10,18,01,56.4,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 02:00 AM,2024,10,18,02,55.8,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 03:00 AM,2024,10,18,03,59.4,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 04:00 AM,2024,10,18,04,60.7,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 05:00 AM,2024,10,18,05,63.0,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 06:00 AM,2024,10,18,06,63.3,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 07:00 AM,2024,10,18,07,63.9,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 08:00 AM,2024,10,18,08,64.6,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 09:00 AM,2024,10,18,09,65.9,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 10:00 AM,2024,10,18,10,58.8,153,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 11:00 AM,2024,10,18,11,40.1,112,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 12:00 PM,2024,10,18,12,31.0,92,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 01:00 PM,2024,10,18,13,27.0,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 02:00 PM,2024,10,18,14,17.0,66,Moderate,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 03:00 PM,2024,10,18,15,12.9,58,Moderate,9.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 04:00 PM,2024,10,18,16,9.9,52,Moderate,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 05:00 PM,2024,10,18,17,6.9,38,Good,4.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 06:00 PM,2024,10,18,18,6.4,36,Good,6.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 07:00 PM,2024,10,18,19,8.2,46,Good,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 08:00 PM,2024,10,18,20,9.1,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 09:00 PM,2024,10,18,21,8.5,47,Good,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 10:00 PM,2024,10,18,22,10.2,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-18 11:00 PM,2024,10,18,23,8.6,48,Good,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 12:00 AM,2024,10,19,00,15.8,63,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 01:00 AM,2024,10,19,01,16.4,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 02:00 AM,2024,10,19,02,17.7,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 03:00 AM,2024,10,19,03,18.8,69,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 04:00 AM,2024,10,19,04,27.4,85,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 05:00 AM,2024,10,19,05,29.2,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 06:00 AM,2024,10,19,06,29.6,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 07:00 AM,2024,10,19,07,29.6,89,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-19 08:00 AM,2024,10,19,08,27.2,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 09:00 AM,2024,10,19,09,34.5,98,Moderate,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 10:00 AM,2024,10,19,10,22.5,76,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 11:00 AM,2024,10,19,11,15.0,62,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 12:00 PM,2024,10,19,12,13.4,59,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 01:00 PM,2024,10,19,13,12.7,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 02:00 PM,2024,10,19,14,12.8,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 03:00 PM,2024,10,19,15,9.9,52,Moderate,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 04:00 PM,2024,10,19,16,6.4,36,Good,3.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 05:00 PM,2024,10,19,17,6.2,34,Good,6.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 06:00 PM,2024,10,19,18,6.6,37,Good,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 07:00 PM,2024,10,19,19,11.8,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 08:00 PM,2024,10,19,20,9.9,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 09:00 PM,2024,10,19,21,9.4,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 10:00 PM,2024,10,19,22,13.2,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-19 11:00 PM,2024,10,19,23,12.6,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 12:00 AM,2024,10,20,00,19.3,70,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 01:00 AM,2024,10,20,01,19.1,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 02:00 AM,2024,10,20,02,19.5,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 03:00 AM,2024,10,20,03,19.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 04:00 AM,2024,10,20,04,17.6,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 05:00 AM,2024,10,20,05,20.3,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 06:00 AM,2024,10,20,06,25.1,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 07:00 AM,2024,10,20,07,27.0,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 08:00 AM,2024,10,20,08,30.5,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 09:00 AM,2024,10,20,09,35.2,100,Moderate,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 10:00 AM,2024,10,20,10,39.6,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 11:00 AM,2024,10,20,11,36.3,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 12:00 PM,2024,10,20,12,34.6,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 01:00 PM,2024,10,20,13,34.6,99,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-20 03:00 PM,2024,10,20,15,-999.0,-999,N/A,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 04:00 PM,2024,10,20,16,39.9,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 05:00 PM,2024,10,20,17,33.3,96,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 06:00 PM,2024,10,20,18,30.3,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 07:00 PM,2024,10,20,19,30.3,90,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-20 09:00 PM,2024,10,20,21,-999.0,-999,N/A,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 10:00 PM,2024,10,20,22,17.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-20 11:00 PM,2024,10,20,23,17.2,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 12:00 AM,2024,10,21,00,17.1,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 01:00 AM,2024,10,21,01,20.6,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 02:00 AM,2024,10,21,02,20.8,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 03:00 AM,2024,10,21,03,19.4,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 04:00 AM,2024,10,21,04,18.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 05:00 AM,2024,10,21,05,15.5,63,Moderate,13.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 06:00 AM,2024,10,21,06,15.8,63,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-21 08:00 AM,2024,10,21,08,-999.0,-999,N/A,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 09:00 AM,2024,10,21,09,27.0,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 10:00 AM,2024,10,21,10,29.7,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 11:00 AM,2024,10,21,11,14.1,60,Moderate,0.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 12:00 PM,2024,10,21,12,14.1,60,Moderate,-15.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2024-10-21 01:00 PM,2024,10,21,13,16.7,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 02:00 PM,2024,10,21,14,16.3,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 03:00 PM,2024,10,21,15,12.9,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 04:00 PM,2024,10,21,16,14.0,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 05:00 PM,2024,10,21,17,15.5,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 06:00 PM,2024,10,21,18,21.8,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 07:00 PM,2024,10,21,19,28.4,87,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 08:00 PM,2024,10,21,20,16.6,65,Moderate,5.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 09:00 PM,2024,10,21,21,17.8,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 10:00 PM,2024,10,21,22,16.9,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-21 11:00 PM,2024,10,21,23,34.4,98,Moderate,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 12:00 AM,2024,10,22,00,29.2,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 01:00 AM,2024,10,22,01,31.6,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 02:00 AM,2024,10,22,02,25.8,82,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 03:00 AM,2024,10,22,03,32.9,95,Moderate,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 04:00 AM,2024,10,22,04,32.9,95,Moderate,-6.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2024-10-22 05:00 AM,2024,10,22,05,30.9,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 06:00 AM,2024,10,22,06,29.8,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 07:00 AM,2024,10,22,07,38.9,109,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 08:00 AM,2024,10,22,08,44.1,122,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 09:00 AM,2024,10,22,09,38.4,108,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 10:00 AM,2024,10,22,10,33.7,97,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 11:00 AM,2024,10,22,11,28.3,87,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 12:00 PM,2024,10,22,12,38.6,109,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 01:00 PM,2024,10,22,13,37.3,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 02:00 PM,2024,10,22,14,40.6,114,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 03:00 PM,2024,10,22,15,36.8,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 04:00 PM,2024,10,22,16,46.9,129,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 05:00 PM,2024,10,22,17,43.9,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 06:00 PM,2024,10,22,18,39.9,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 07:00 PM,2024,10,22,19,34.9,99,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 08:00 PM,2024,10,22,20,43.4,120,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 09:00 PM,2024,10,22,21,35.2,100,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 10:00 PM,2024,10,22,22,21.1,73,Moderate,7.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-22 11:00 PM,2024,10,22,23,24.5,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 12:00 AM,2024,10,23,00,25.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 01:00 AM,2024,10,23,01,35.3,100,Moderate,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 02:00 AM,2024,10,23,02,41.6,116,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 03:00 AM,2024,10,23,03,39.8,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 04:00 AM,2024,10,23,04,28.9,88,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 05:00 AM,2024,10,23,05,21.9,75,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 06:00 AM,2024,10,23,06,22.4,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 07:00 AM,2024,10,23,07,19.7,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 08:00 AM,2024,10,23,08,25.8,82,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 09:00 AM,2024,10,23,09,35.9,102,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 10:00 AM,2024,10,23,10,33.9,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 11:00 AM,2024,10,23,11,44.4,123,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 12:00 PM,2024,10,23,12,38.2,108,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 01:00 PM,2024,10,23,13,39.6,111,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 02:00 PM,2024,10,23,14,43.3,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 03:00 PM,2024,10,23,15,43.1,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 04:00 PM,2024,10,23,16,44.5,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 05:00 PM,2024,10,23,17,48.2,132,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 06:00 PM,2024,10,23,18,49.1,134,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 07:00 PM,2024,10,23,19,52.3,142,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 08:00 PM,2024,10,23,20,53.9,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 09:00 PM,2024,10,23,21,60.2,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 10:00 PM,2024,10,23,22,60.1,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-23 11:00 PM,2024,10,23,23,56.5,152,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 12:00 AM,2024,10,24,00,56.0,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 01:00 AM,2024,10,24,01,53.2,145,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 02:00 AM,2024,10,24,02,53.5,145,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 03:00 AM,2024,10,24,03,46.7,129,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 04:00 AM,2024,10,24,04,45.5,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 05:00 AM,2024,10,24,05,46.6,128,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 06:00 AM,2024,10,24,06,48.0,132,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 07:00 AM,2024,10,24,07,53.5,145,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 08:00 AM,2024,10,24,08,56.7,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 09:00 AM,2024,10,24,09,63.6,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 10:00 AM,2024,10,24,10,61.5,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 11:00 AM,2024,10,24,11,63.5,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 12:00 PM,2024,10,24,12,59.6,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 01:00 PM,2024,10,24,13,56.9,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 02:00 PM,2024,10,24,14,60.7,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 03:00 PM,2024,10,24,15,59.9,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 04:00 PM,2024,10,24,16,59.6,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 05:00 PM,2024,10,24,17,60.7,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 06:00 PM,2024,10,24,18,60.3,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 07:00 PM,2024,10,24,19,58.9,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 08:00 PM,2024,10,24,20,57.9,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 09:00 PM,2024,10,24,21,59.9,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 10:00 PM,2024,10,24,22,64.0,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-24 11:00 PM,2024,10,24,23,70.4,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 12:00 AM,2024,10,25,00,72.9,163,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 01:00 AM,2024,10,25,01,74.7,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 02:00 AM,2024,10,25,02,80.4,168,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 03:00 AM,2024,10,25,03,71.2,162,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 04:00 AM,2024,10,25,04,71.1,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 05:00 AM,2024,10,25,05,74.5,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 06:00 AM,2024,10,25,06,77.7,167,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 07:00 AM,2024,10,25,07,85.3,172,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 08:00 AM,2024,10,25,08,88.7,174,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 09:00 AM,2024,10,25,09,81.8,169,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 10:00 AM,2024,10,25,10,75.3,165,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 11:00 AM,2024,10,25,11,71.9,162,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 12:00 PM,2024,10,25,12,69.4,161,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 01:00 PM,2024,10,25,13,40.5,113,Unhealthy for Sensitive Groups,13.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 02:00 PM,2024,10,25,14,55.2,150,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 03:00 PM,2024,10,25,15,54.1,147,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 04:00 PM,2024,10,25,16,53.0,144,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 05:00 PM,2024,10,25,17,59.5,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 06:00 PM,2024,10,25,18,56.2,151,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 07:00 PM,2024,10,25,19,57.6,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 08:00 PM,2024,10,25,20,63.3,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 09:00 PM,2024,10,25,21,69.1,161,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 10:00 PM,2024,10,25,22,78.0,167,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-25 11:00 PM,2024,10,25,23,94.5,178,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 12:00 AM,2024,10,26,00,97.7,181,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 01:00 AM,2024,10,26,01,83.8,171,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 02:00 AM,2024,10,26,02,73.9,164,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 03:00 AM,2024,10,26,03,70.9,162,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 04:00 AM,2024,10,26,04,67.4,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 05:00 AM,2024,10,26,05,59.2,154,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 06:00 AM,2024,10,26,06,56.6,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 07:00 AM,2024,10,26,07,63.8,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 08:00 AM,2024,10,26,08,69.9,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 09:00 AM,2024,10,26,09,74.4,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 10:00 AM,2024,10,26,10,75.2,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 11:00 AM,2024,10,26,11,70.6,162,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 12:00 PM,2024,10,26,12,68.6,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 01:00 PM,2024,10,26,13,52.3,142,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 02:00 PM,2024,10,26,14,54.6,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 03:00 PM,2024,10,26,15,48.8,134,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 04:00 PM,2024,10,26,16,46.9,129,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 05:00 PM,2024,10,26,17,47.4,130,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 06:00 PM,2024,10,26,18,46.2,127,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 07:00 PM,2024,10,26,19,48.1,132,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 08:00 PM,2024,10,26,20,57.5,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 09:00 PM,2024,10,26,21,65.2,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 10:00 PM,2024,10,26,22,73.1,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-26 11:00 PM,2024,10,26,23,93.5,178,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 12:00 AM,2024,10,27,00,95.7,179,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 01:00 AM,2024,10,27,01,92.4,177,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 02:00 AM,2024,10,27,02,100.7,183,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 03:00 AM,2024,10,27,03,95.8,179,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 04:00 AM,2024,10,27,04,102.4,184,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 05:00 AM,2024,10,27,05,126.2,202,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 06:00 AM,2024,10,27,06,108.6,188,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 07:00 AM,2024,10,27,07,100.3,182,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 08:00 AM,2024,10,27,08,91.1,176,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 09:00 AM,2024,10,27,09,73.0,163,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 10:00 AM,2024,10,27,10,80.5,169,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 11:00 AM,2024,10,27,11,78.2,167,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 12:00 PM,2024,10,27,12,75.6,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 01:00 PM,2024,10,27,13,78.8,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 02:00 PM,2024,10,27,14,72.4,163,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 03:00 PM,2024,10,27,15,71.6,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 04:00 PM,2024,10,27,16,66.8,159,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 05:00 PM,2024,10,27,17,63.6,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 06:00 PM,2024,10,27,18,60.5,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 07:00 PM,2024,10,27,19,58.7,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 08:00 PM,2024,10,27,20,58.4,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 09:00 PM,2024,10,27,21,56.6,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 10:00 PM,2024,10,27,22,64.2,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-27 11:00 PM,2024,10,27,23,75.0,165,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 12:00 AM,2024,10,28,00,79.0,167,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 01:00 AM,2024,10,28,01,90.2,175,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 02:00 AM,2024,10,28,02,91.0,176,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 03:00 AM,2024,10,28,03,84.9,172,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 04:00 AM,2024,10,28,04,86.8,173,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 05:00 AM,2024,10,28,05,89.7,175,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 06:00 AM,2024,10,28,06,90.7,176,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 07:00 AM,2024,10,28,07,92.2,177,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 08:00 AM,2024,10,28,08,97.9,181,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 09:00 AM,2024,10,28,09,101.8,183,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 10:00 AM,2024,10,28,10,111.6,190,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 11:00 AM,2024,10,28,11,111.4,190,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 12:00 PM,2024,10,28,12,96.5,180,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 01:00 PM,2024,10,28,13,73.3,163,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 02:00 PM,2024,10,28,14,58.1,153,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 03:00 PM,2024,10,28,15,53.5,145,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 04:00 PM,2024,10,28,16,53.2,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 05:00 PM,2024,10,28,17,53.2,145,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-28 06:00 PM,2024,10,28,18,30.4,91,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 07:00 PM,2024,10,28,19,33.5,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 08:00 PM,2024,10,28,20,35.4,100,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 09:00 PM,2024,10,28,21,34.6,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 10:00 PM,2024,10,28,22,37.3,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-28 11:00 PM,2024,10,28,23,38.6,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 12:00 AM,2024,10,29,00,53.3,145,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 01:00 AM,2024,10,29,01,51.1,139,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 02:00 AM,2024,10,29,02,56.6,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 03:00 AM,2024,10,29,03,59.3,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 04:00 AM,2024,10,29,04,66.1,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 05:00 AM,2024,10,29,05,59.0,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 06:00 AM,2024,10,29,06,57.5,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 07:00 AM,2024,10,29,07,55.2,150,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 08:00 AM,2024,10,29,08,69.6,161,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 09:00 AM,2024,10,29,09,69.8,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 10:00 AM,2024,10,29,10,72.9,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 11:00 AM,2024,10,29,11,71.0,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 12:00 PM,2024,10,29,12,78.0,167,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 01:00 PM,2024,10,29,13,70.0,161,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 02:00 PM,2024,10,29,14,63.5,157,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 03:00 PM,2024,10,29,15,50.2,137,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 04:00 PM,2024,10,29,16,37.1,105,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 05:00 PM,2024,10,29,17,27.0,84,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 06:00 PM,2024,10,29,18,24.5,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 07:00 PM,2024,10,29,19,19.7,71,Moderate,15.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 08:00 PM,2024,10,29,20,22.3,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 09:00 PM,2024,10,29,21,24.1,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 10:00 PM,2024,10,29,22,29.5,89,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-29 11:00 PM,2024,10,29,23,45.7,126,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 12:00 AM,2024,10,30,00,46.8,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 01:00 AM,2024,10,30,01,54.9,149,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 02:00 AM,2024,10,30,02,69.9,161,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 03:00 AM,2024,10,30,03,83.4,171,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 04:00 AM,2024,10,30,04,86.2,173,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 05:00 AM,2024,10,30,05,75.1,165,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 06:00 AM,2024,10,30,06,79.5,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 07:00 AM,2024,10,30,07,81.2,169,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 08:00 AM,2024,10,30,08,73.6,164,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 09:00 AM,2024,10,30,09,69.8,161,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 10:00 AM,2024,10,30,10,61.9,155,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 11:00 AM,2024,10,30,11,60.4,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 12:00 PM,2024,10,30,12,58.1,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 01:00 PM,2024,10,30,13,41.6,116,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 02:00 PM,2024,10,30,14,46.3,128,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 03:00 PM,2024,10,30,15,47.6,131,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 04:00 PM,2024,10,30,16,51.8,141,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 05:00 PM,2024,10,30,17,55.9,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 06:00 PM,2024,10,30,18,57.4,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 07:00 PM,2024,10,30,19,68.2,160,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 08:00 PM,2024,10,30,20,74.1,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 09:00 PM,2024,10,30,21,80.5,169,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 10:00 PM,2024,10,30,22,89.7,175,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-30 11:00 PM,2024,10,30,23,116.9,194,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 12:00 AM,2024,10,31,00,129.4,205,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 01:00 AM,2024,10,31,01,127.2,203,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 02:00 AM,2024,10,31,02,122.1,198,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 03:00 AM,2024,10,31,03,115.5,193,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 04:00 AM,2024,10,31,04,112.7,191,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 05:00 AM,2024,10,31,05,93.3,177,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 06:00 AM,2024,10,31,06,77.6,166,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 07:00 AM,2024,10,31,07,72.3,163,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 08:00 AM,2024,10,31,08,72.3,163,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-31 09:00 AM,2024,10,31,09,71.4,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 10:00 AM,2024,10,31,10,67.1,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 11:00 AM,2024,10,31,11,61.7,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 12:00 PM,2024,10,31,12,59.2,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 01:00 PM,2024,10,31,13,47.9,132,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 02:00 PM,2024,10,31,14,46.4,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 03:00 PM,2024,10,31,15,56.7,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 04:00 PM,2024,10,31,16,56.7,152,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2024-10-31 05:00 PM,2024,10,31,17,45.9,127,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 06:00 PM,2024,10,31,18,50.9,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 07:00 PM,2024,10,31,19,50.4,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 08:00 PM,2024,10,31,20,51.7,141,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 09:00 PM,2024,10,31,21,69.6,161,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 10:00 PM,2024,10,31,22,84.4,171,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-10-31 11:00 PM,2024,10,31,23,126.9,202,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-11-01 12:00 AM,2024,11,01,00,193.1,268,Very Unhealthy,259.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2024-11-01 01:00 AM,2024,11,01,01,184.5,259,Very Unhealthy,176.0,UG/M3,1 Hr,Valid

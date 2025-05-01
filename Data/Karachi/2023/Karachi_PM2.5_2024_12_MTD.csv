@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Karachi,PM2.5 - Principal,2023-12-01 01:00 AM,2023,12,01,01,263.0,313,Hazardous,292.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 02:00 AM,2023,12,01,02,267.5,318,Hazardous,272.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 03:00 AM,2023,12,01,03,270.7,321,Hazardous,274.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 04:00 AM,2023,12,01,04,268.4,319,Hazardous,266.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 05:00 AM,2023,12,01,05,232.2,282,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 06:00 AM,2023,12,01,06,219.1,269,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 07:00 AM,2023,12,01,07,187.0,237,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 08:00 AM,2023,12,01,08,154.0,204,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 09:00 AM,2023,12,01,09,151.0,201,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 10:00 AM,2023,12,01,10,122.0,185,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 11:00 AM,2023,12,01,11,106.9,178,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 12:00 PM,2023,12,01,12,92.9,170,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 01:00 PM,2023,12,01,13,76.4,162,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 02:00 PM,2023,12,01,14,64.7,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 03:00 PM,2023,12,01,15,53.8,146,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 04:00 PM,2023,12,01,16,47.3,130,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 05:00 PM,2023,12,01,17,49.6,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 06:00 PM,2023,12,01,18,52.8,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 07:00 PM,2023,12,01,19,59.8,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 08:00 PM,2023,12,01,20,80.4,164,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 09:00 PM,2023,12,01,21,82.2,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 10:00 PM,2023,12,01,22,92.1,170,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-01 11:00 PM,2023,12,01,23,98.5,173,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 12:00 AM,2023,12,02,00,97.7,173,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 01:00 AM,2023,12,02,01,100.3,174,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 02:00 AM,2023,12,02,02,98.7,173,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 03:00 AM,2023,12,02,03,93.3,171,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 04:00 AM,2023,12,02,04,87.6,168,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 05:00 AM,2023,12,02,05,81.5,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 06:00 AM,2023,12,02,06,80.8,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 07:00 AM,2023,12,02,07,84.0,166,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 08:00 AM,2023,12,02,08,87.2,167,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 09:00 AM,2023,12,02,09,92.9,170,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 10:00 AM,2023,12,02,10,110.5,179,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 11:00 AM,2023,12,02,11,115.8,182,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 12:00 PM,2023,12,02,12,113.3,181,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 01:00 PM,2023,12,02,13,102.4,175,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 02:00 PM,2023,12,02,14,87.1,167,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 03:00 PM,2023,12,02,15,72.7,160,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 04:00 PM,2023,12,02,16,67.8,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 05:00 PM,2023,12,02,17,64.9,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 06:00 PM,2023,12,02,18,69.4,158,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 07:00 PM,2023,12,02,19,83.7,166,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 08:00 PM,2023,12,02,20,99.8,174,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 09:00 PM,2023,12,02,21,109.4,179,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 10:00 PM,2023,12,02,22,113.2,181,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-02 11:00 PM,2023,12,02,23,122.1,185,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 12:00 AM,2023,12,03,00,129.5,189,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 01:00 AM,2023,12,03,01,127.7,188,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 02:00 AM,2023,12,03,02,126.8,188,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 03:00 AM,2023,12,03,03,119.9,184,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 04:00 AM,2023,12,03,04,118.4,183,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 05:00 AM,2023,12,03,05,112.4,180,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 06:00 AM,2023,12,03,06,116.8,183,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 07:00 AM,2023,12,03,07,120.2,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 08:00 AM,2023,12,03,08,124.0,186,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 09:00 AM,2023,12,03,09,127.0,188,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 10:00 AM,2023,12,03,10,125.4,187,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 11:00 AM,2023,12,03,11,117.7,183,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 12:00 PM,2023,12,03,12,99.5,174,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 01:00 PM,2023,12,03,13,80.2,164,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 02:00 PM,2023,12,03,14,67.1,157,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 03:00 PM,2023,12,03,15,56.5,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 04:00 PM,2023,12,03,16,51.2,140,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 05:00 PM,2023,12,03,17,51.1,139,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 06:00 PM,2023,12,03,18,53.5,145,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 07:00 PM,2023,12,03,19,66.7,157,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 08:00 PM,2023,12,03,20,72.3,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 09:00 PM,2023,12,03,21,76.1,162,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 10:00 PM,2023,12,03,22,88.5,168,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-03 11:00 PM,2023,12,03,23,90.2,169,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 12:00 AM,2023,12,04,00,100.1,174,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 01:00 AM,2023,12,04,01,101.0,174,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 02:00 AM,2023,12,04,02,108.5,178,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 03:00 AM,2023,12,04,03,109.2,179,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 04:00 AM,2023,12,04,04,107.1,178,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 05:00 AM,2023,12,04,05,104.5,176,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 06:00 AM,2023,12,04,06,105.0,177,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 07:00 AM,2023,12,04,07,107.4,178,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 08:00 AM,2023,12,04,08,115.9,182,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 09:00 AM,2023,12,04,09,114.4,181,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 10:00 AM,2023,12,04,10,117.6,183,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 11:00 AM,2023,12,04,11,111.5,180,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 12:00 PM,2023,12,04,12,87.0,167,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 01:00 PM,2023,12,04,13,76.5,162,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 02:00 PM,2023,12,04,14,67.1,157,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 03:00 PM,2023,12,04,15,61.5,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 04:00 PM,2023,12,04,16,66.7,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 05:00 PM,2023,12,04,17,64.3,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 06:00 PM,2023,12,04,18,67.6,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 07:00 PM,2023,12,04,19,72.8,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 08:00 PM,2023,12,04,20,96.9,172,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 09:00 PM,2023,12,04,21,160.4,211,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 10:00 PM,2023,12,04,22,169.7,220,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-04 11:00 PM,2023,12,04,23,150.3,200,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 12:00 AM,2023,12,05,00,153.1,204,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 01:00 AM,2023,12,05,01,196.6,247,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 02:00 AM,2023,12,05,02,229.3,279,Very Unhealthy,262.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 03:00 AM,2023,12,05,03,198.1,248,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 04:00 AM,2023,12,05,04,162.5,213,Very Unhealthy,127.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 05:00 AM,2023,12,05,05,114.7,182,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 06:00 AM,2023,12,05,06,86.3,167,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 07:00 AM,2023,12,05,07,72.1,160,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 08:00 AM,2023,12,05,08,74.5,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 09:00 AM,2023,12,05,09,85.7,167,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 10:00 AM,2023,12,05,10,90.8,169,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 11:00 AM,2023,12,05,11,79.9,164,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 12:00 PM,2023,12,05,12,75.4,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 01:00 PM,2023,12,05,13,64.2,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 02:00 PM,2023,12,05,14,55.0,149,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 03:00 PM,2023,12,05,15,48.5,133,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 04:00 PM,2023,12,05,16,45.2,125,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 05:00 PM,2023,12,05,17,54.6,148,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 06:00 PM,2023,12,05,18,64.3,156,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 07:00 PM,2023,12,05,19,75.1,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 08:00 PM,2023,12,05,20,87.0,167,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 09:00 PM,2023,12,05,21,107.5,178,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 10:00 PM,2023,12,05,22,162.2,213,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-05 11:00 PM,2023,12,05,23,199.6,250,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 12:00 AM,2023,12,06,00,233.3,283,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 01:00 AM,2023,12,06,01,271.2,322,Hazardous,309.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 02:00 AM,2023,12,06,02,282.6,333,Hazardous,294.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 03:00 AM,2023,12,06,03,274.8,325,Hazardous,267.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 04:00 AM,2023,12,06,04,223.4,273,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 05:00 AM,2023,12,06,05,167.2,218,Very Unhealthy,111.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 06:00 AM,2023,12,06,06,108.1,178,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 07:00 AM,2023,12,06,07,85.0,166,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 08:00 AM,2023,12,06,08,83.0,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 09:00 AM,2023,12,06,09,79.5,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 10:00 AM,2023,12,06,10,76.2,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 11:00 AM,2023,12,06,11,67.5,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 12:00 PM,2023,12,06,12,58.7,153,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 01:00 PM,2023,12,06,13,52.8,144,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 02:00 PM,2023,12,06,14,48.3,133,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 03:00 PM,2023,12,06,15,47.6,131,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 04:00 PM,2023,12,06,16,44.8,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 05:00 PM,2023,12,06,17,43.5,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 06:00 PM,2023,12,06,18,46.6,128,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 07:00 PM,2023,12,06,19,58.3,152,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 08:00 PM,2023,12,06,20,64.0,155,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 09:00 PM,2023,12,06,21,80.2,164,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 10:00 PM,2023,12,06,22,77.1,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-06 11:00 PM,2023,12,06,23,76.5,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 12:00 AM,2023,12,07,00,93.7,171,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 01:00 AM,2023,12,07,01,115.4,182,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 02:00 AM,2023,12,07,02,93.2,170,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 03:00 AM,2023,12,07,03,77.1,162,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 04:00 AM,2023,12,07,04,77.0,162,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 05:00 AM,2023,12,07,05,74.0,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 06:00 AM,2023,12,07,06,70.0,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 07:00 AM,2023,12,07,07,67.5,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 08:00 AM,2023,12,07,08,75.7,161,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 09:00 AM,2023,12,07,09,84.3,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 10:00 AM,2023,12,07,10,84.1,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 11:00 AM,2023,12,07,11,82.5,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 12:00 PM,2023,12,07,12,71.7,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 01:00 PM,2023,12,07,13,67.2,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 02:00 PM,2023,12,07,14,62.6,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 03:00 PM,2023,12,07,15,57.3,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 04:00 PM,2023,12,07,16,53.0,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 05:00 PM,2023,12,07,17,53.0,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 06:00 PM,2023,12,07,18,56.7,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 07:00 PM,2023,12,07,19,84.9,166,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 08:00 PM,2023,12,07,20,95.4,172,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 09:00 PM,2023,12,07,21,104.7,176,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 10:00 PM,2023,12,07,22,105.3,177,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-07 11:00 PM,2023,12,07,23,96.1,172,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 12:00 AM,2023,12,08,00,109.6,179,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 01:00 AM,2023,12,08,01,135.8,192,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 02:00 AM,2023,12,08,02,156.4,207,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 03:00 AM,2023,12,08,03,174.7,225,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 04:00 AM,2023,12,08,04,183.3,234,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 05:00 AM,2023,12,08,05,180.7,231,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 06:00 AM,2023,12,08,06,157.8,208,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 07:00 AM,2023,12,08,07,134.4,192,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 08:00 AM,2023,12,08,08,144.7,197,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 09:00 AM,2023,12,08,09,137.8,193,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 10:00 AM,2023,12,08,10,124.4,187,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 11:00 AM,2023,12,08,11,116.5,182,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 12:00 PM,2023,12,08,12,100.3,174,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 01:00 PM,2023,12,08,13,80.6,164,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 02:00 PM,2023,12,08,14,67.3,157,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 03:00 PM,2023,12,08,15,55.1,149,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 04:00 PM,2023,12,08,16,51.5,140,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 05:00 PM,2023,12,08,17,49.7,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 06:00 PM,2023,12,08,18,50.3,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 07:00 PM,2023,12,08,19,42.6,118,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 08:00 PM,2023,12,08,20,43.3,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 09:00 PM,2023,12,08,21,47.1,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 10:00 PM,2023,12,08,22,50.0,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-08 11:00 PM,2023,12,08,23,54.5,148,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 12:00 AM,2023,12,09,00,86.7,167,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 01:00 AM,2023,12,09,01,89.8,169,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 02:00 AM,2023,12,09,02,93.4,171,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 03:00 AM,2023,12,09,03,109.2,179,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 04:00 AM,2023,12,09,04,140.6,195,Unhealthy,172.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 05:00 AM,2023,12,09,05,162.8,213,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 06:00 AM,2023,12,09,06,151.4,202,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 07:00 AM,2023,12,09,07,143.7,197,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 08:00 AM,2023,12,09,08,140.3,195,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 09:00 AM,2023,12,09,09,165.7,216,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 10:00 AM,2023,12,09,10,163.3,214,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 11:00 AM,2023,12,09,11,132.6,191,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 12:00 PM,2023,12,09,12,95.3,172,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 01:00 PM,2023,12,09,13,68.1,158,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 02:00 PM,2023,12,09,14,47.0,129,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 03:00 PM,2023,12,09,15,33.0,95,Moderate,19.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 04:00 PM,2023,12,09,16,25.4,79,Moderate,18.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 05:00 PM,2023,12,09,17,22.2,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 06:00 PM,2023,12,09,18,21.5,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 07:00 PM,2023,12,09,19,24.7,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 08:00 PM,2023,12,09,20,29.8,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 09:00 PM,2023,12,09,21,38.4,108,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 10:00 PM,2023,12,09,22,44.1,122,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-09 11:00 PM,2023,12,09,23,76.0,162,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 12:00 AM,2023,12,10,00,121.0,185,Unhealthy,166.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 01:00 AM,2023,12,10,01,154.5,205,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 02:00 AM,2023,12,10,02,164.2,215,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 03:00 AM,2023,12,10,03,156.6,207,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 04:00 AM,2023,12,10,04,166.8,217,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 05:00 AM,2023,12,10,05,166.9,217,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 06:00 AM,2023,12,10,06,146.9,198,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 07:00 AM,2023,12,10,07,123.5,186,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 08:00 AM,2023,12,10,08,103.2,176,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 09:00 AM,2023,12,10,09,104.1,176,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 10:00 AM,2023,12,10,10,96.5,172,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 11:00 AM,2023,12,10,11,88.7,168,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 12:00 PM,2023,12,10,12,65.3,156,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 01:00 PM,2023,12,10,13,59.6,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 02:00 PM,2023,12,10,14,47.8,131,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 03:00 PM,2023,12,10,15,41.8,117,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 04:00 PM,2023,12,10,16,42.4,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 05:00 PM,2023,12,10,17,38.1,107,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 06:00 PM,2023,12,10,18,37.0,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 07:00 PM,2023,12,10,19,35.0,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 08:00 PM,2023,12,10,20,31.0,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 09:00 PM,2023,12,10,21,37.4,106,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 10:00 PM,2023,12,10,22,44.7,124,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-10 11:00 PM,2023,12,10,23,49.8,136,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 12:00 AM,2023,12,11,00,58.4,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 01:00 AM,2023,12,11,01,71.7,159,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 02:00 AM,2023,12,11,02,57.8,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 03:00 AM,2023,12,11,03,56.9,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 04:00 AM,2023,12,11,04,53.4,145,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 05:00 AM,2023,12,11,05,55.2,150,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 06:00 AM,2023,12,11,06,58.6,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 07:00 AM,2023,12,11,07,62.8,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 08:00 AM,2023,12,11,08,93.4,171,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 09:00 AM,2023,12,11,09,134.2,192,Unhealthy,175.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 10:00 AM,2023,12,11,10,88.6,168,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 11:00 AM,2023,12,11,11,56.3,151,Unhealthy,24.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 12:00 PM,2023,12,11,12,36.6,104,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 01:00 PM,2023,12,11,13,27.3,83,Moderate,18.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 02:00 PM,2023,12,11,14,22.1,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 03:00 PM,2023,12,11,15,19.5,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 04:00 PM,2023,12,11,16,20.7,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 05:00 PM,2023,12,11,17,19.3,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 06:00 PM,2023,12,11,18,20.6,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 07:00 PM,2023,12,11,19,20.3,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 08:00 PM,2023,12,11,20,26.1,80,Moderate,32.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 09:00 PM,2023,12,11,21,31.0,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 10:00 PM,2023,12,11,22,32.0,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-11 11:00 PM,2023,12,11,23,38.5,108,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 12:00 AM,2023,12,12,00,53.2,145,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 01:00 AM,2023,12,12,01,58.6,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 02:00 AM,2023,12,12,02,67.8,157,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 03:00 AM,2023,12,12,03,67.4,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 04:00 AM,2023,12,12,04,81.7,165,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 05:00 AM,2023,12,12,05,84.3,166,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 06:00 AM,2023,12,12,06,85.6,167,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 07:00 AM,2023,12,12,07,88.8,168,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 08:00 AM,2023,12,12,08,101.9,175,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 09:00 AM,2023,12,12,09,117.9,183,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 10:00 AM,2023,12,12,10,130.5,190,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 11:00 AM,2023,12,12,11,140.7,195,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 12:00 PM,2023,12,12,12,97.3,173,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 01:00 PM,2023,12,12,13,71.1,159,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 02:00 PM,2023,12,12,14,57.5,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 03:00 PM,2023,12,12,15,55.7,151,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 04:00 PM,2023,12,12,16,43.3,120,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 05:00 PM,2023,12,12,17,35.1,99,Moderate,27.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 06:00 PM,2023,12,12,18,38.0,107,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 07:00 PM,2023,12,12,19,62.0,154,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 08:00 PM,2023,12,12,20,93.0,170,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 09:00 PM,2023,12,12,21,117.5,183,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 10:00 PM,2023,12,12,22,108.2,178,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-12 11:00 PM,2023,12,12,23,95.1,171,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 12:00 AM,2023,12,13,00,84.0,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 01:00 AM,2023,12,13,01,85.0,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 02:00 AM,2023,12,13,02,79.5,163,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 03:00 AM,2023,12,13,03,81.7,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 04:00 AM,2023,12,13,04,81.8,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 05:00 AM,2023,12,13,05,77.4,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 06:00 AM,2023,12,13,06,81.6,164,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 07:00 AM,2023,12,13,07,94.4,171,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 08:00 AM,2023,12,13,08,112.7,181,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 09:00 AM,2023,12,13,09,126.9,188,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 10:00 AM,2023,12,13,10,131.8,190,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 11:00 AM,2023,12,13,11,130.9,190,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 12:00 PM,2023,12,13,12,116.4,182,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 01:00 PM,2023,12,13,13,100.6,174,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 02:00 PM,2023,12,13,14,82.5,165,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 03:00 PM,2023,12,13,15,70.7,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 04:00 PM,2023,12,13,16,62.3,155,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 05:00 PM,2023,12,13,17,53.6,146,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 06:00 PM,2023,12,13,18,51.3,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 07:00 PM,2023,12,13,19,65.1,156,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 08:00 PM,2023,12,13,20,95.5,172,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 09:00 PM,2023,12,13,21,98.2,173,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 10:00 PM,2023,12,13,22,94.1,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-13 11:00 PM,2023,12,13,23,97.0,172,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 12:00 AM,2023,12,14,00,101.0,174,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 01:00 AM,2023,12,14,01,113.5,181,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 02:00 AM,2023,12,14,02,128.2,189,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 03:00 AM,2023,12,14,03,133.6,191,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 04:00 AM,2023,12,14,04,123.8,186,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 05:00 AM,2023,12,14,05,112.9,181,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 06:00 AM,2023,12,14,06,113.6,181,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 07:00 AM,2023,12,14,07,102.9,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 08:00 AM,2023,12,14,08,101.7,175,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 09:00 AM,2023,12,14,09,107.4,178,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 10:00 AM,2023,12,14,10,108.0,178,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 11:00 AM,2023,12,14,11,106.4,177,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 12:00 PM,2023,12,14,12,97.7,173,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 01:00 PM,2023,12,14,13,75.7,161,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 02:00 PM,2023,12,14,14,61.3,154,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 03:00 PM,2023,12,14,15,56.6,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 04:00 PM,2023,12,14,16,59.3,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 05:00 PM,2023,12,14,17,58.6,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 06:00 PM,2023,12,14,18,69.8,158,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 07:00 PM,2023,12,14,19,84.9,166,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 08:00 PM,2023,12,14,20,134.4,192,Unhealthy,184.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 09:00 PM,2023,12,14,21,127.2,188,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 10:00 PM,2023,12,14,22,156.6,207,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-14 11:00 PM,2023,12,14,23,144.3,197,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 12:00 AM,2023,12,15,00,154.1,205,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 01:00 AM,2023,12,15,01,167.0,217,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 02:00 AM,2023,12,15,02,188.0,238,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 03:00 AM,2023,12,15,03,194.5,245,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 04:00 AM,2023,12,15,04,167.7,218,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 05:00 AM,2023,12,15,05,141.4,195,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 06:00 AM,2023,12,15,06,133.2,191,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 07:00 AM,2023,12,15,07,138.2,194,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 08:00 AM,2023,12,15,08,129.1,189,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 09:00 AM,2023,12,15,09,126.8,188,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 10:00 AM,2023,12,15,10,128.6,189,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 11:00 AM,2023,12,15,11,125.2,187,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 12:00 PM,2023,12,15,12,107.8,178,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 01:00 PM,2023,12,15,13,86.4,167,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 02:00 PM,2023,12,15,14,73.1,160,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 03:00 PM,2023,12,15,15,61.5,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 04:00 PM,2023,12,15,16,63.2,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 05:00 PM,2023,12,15,17,69.6,158,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 06:00 PM,2023,12,15,18,75.3,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 07:00 PM,2023,12,15,19,132.6,191,Unhealthy,190.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 08:00 PM,2023,12,15,20,210.8,261,Very Unhealthy,289.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 09:00 PM,2023,12,15,21,188.4,239,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 10:00 PM,2023,12,15,22,175.7,226,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-15 11:00 PM,2023,12,15,23,204.3,254,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 12:00 AM,2023,12,16,00,243.7,293,Very Unhealthy,283.0,UG/M3,1 Hr,Suspect
+Karachi,PM2.5 - Principal,2023-12-16 01:00 AM,2023,12,16,01,264.8,315,Hazardous,286.0,UG/M3,1 Hr,Suspect
+Karachi,PM2.5 - Principal,2023-12-16 02:00 AM,2023,12,16,02,276.4,327,Hazardous,288.0,UG/M3,1 Hr,Suspect
+Karachi,PM2.5 - Principal,2023-12-16 03:00 AM,2023,12,16,03,267.7,318,Hazardous,259.0,UG/M3,1 Hr,Suspect
+Karachi,PM2.5 - Principal,2023-12-16 04:00 AM,2023,12,16,04,239.3,289,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 05:00 AM,2023,12,16,05,188.2,238,Very Unhealthy,137.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 06:00 AM,2023,12,16,06,163.1,213,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 07:00 AM,2023,12,16,07,147.0,198,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 08:00 AM,2023,12,16,08,150.0,200,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 09:00 AM,2023,12,16,09,175.0,225,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 10:00 AM,2023,12,16,10,184.5,235,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 11:00 AM,2023,12,16,11,184.2,234,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 12:00 PM,2023,12,16,12,161.6,212,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 01:00 PM,2023,12,16,13,158.7,209,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 02:00 PM,2023,12,16,14,152.0,202,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 03:00 PM,2023,12,16,15,126.9,188,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 04:00 PM,2023,12,16,16,117.4,183,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 05:00 PM,2023,12,16,17,114.2,181,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 06:00 PM,2023,12,16,18,118.5,184,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 07:00 PM,2023,12,16,19,113.3,181,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 08:00 PM,2023,12,16,20,121.0,185,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 09:00 PM,2023,12,16,21,127.5,188,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 10:00 PM,2023,12,16,22,125.6,187,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-16 11:00 PM,2023,12,16,23,129.7,189,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 12:00 AM,2023,12,17,00,138.5,194,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 01:00 AM,2023,12,17,01,165.8,216,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 02:00 AM,2023,12,17,02,163.5,214,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 03:00 AM,2023,12,17,03,180.4,231,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 04:00 AM,2023,12,17,04,192.9,243,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 05:00 AM,2023,12,17,05,213.0,263,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 06:00 AM,2023,12,17,06,216.0,266,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 07:00 AM,2023,12,17,07,219.0,269,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 08:00 AM,2023,12,17,08,226.7,277,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 09:00 AM,2023,12,17,09,233.3,283,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 10:00 AM,2023,12,17,10,181.3,232,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 11:00 AM,2023,12,17,11,114.6,182,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 12:00 PM,2023,12,17,12,84.3,166,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 01:00 PM,2023,12,17,13,74.6,161,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 02:00 PM,2023,12,17,14,68.3,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 03:00 PM,2023,12,17,15,74.1,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 04:00 PM,2023,12,17,16,79.5,163,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 05:00 PM,2023,12,17,17,82.2,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 06:00 PM,2023,12,17,18,97.6,173,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 07:00 PM,2023,12,17,19,103.2,176,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 08:00 PM,2023,12,17,20,92.1,170,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 09:00 PM,2023,12,17,21,73.5,160,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 10:00 PM,2023,12,17,22,67.2,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-17 11:00 PM,2023,12,17,23,66.6,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 12:00 AM,2023,12,18,00,62.3,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 01:00 AM,2023,12,18,01,48.1,132,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 02:00 AM,2023,12,18,02,42.5,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 03:00 AM,2023,12,18,03,37.2,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 04:00 AM,2023,12,18,04,30.1,89,Moderate,23.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 05:00 AM,2023,12,18,05,28.0,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 06:00 AM,2023,12,18,06,27.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 07:00 AM,2023,12,18,07,31.5,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 08:00 AM,2023,12,18,08,41.2,115,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 09:00 AM,2023,12,18,09,64.6,156,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 10:00 AM,2023,12,18,10,85.8,167,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 11:00 AM,2023,12,18,11,91.9,170,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 12:00 PM,2023,12,18,12,90.9,169,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 01:00 PM,2023,12,18,13,83.9,166,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 02:00 PM,2023,12,18,14,66.4,157,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 03:00 PM,2023,12,18,15,55.7,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 04:00 PM,2023,12,18,16,52.8,144,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 05:00 PM,2023,12,18,17,55.4,150,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 06:00 PM,2023,12,18,18,55.7,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 07:00 PM,2023,12,18,19,56.8,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 08:00 PM,2023,12,18,20,62.4,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 09:00 PM,2023,12,18,21,75.2,161,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 10:00 PM,2023,12,18,22,81.6,164,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-18 11:00 PM,2023,12,18,23,83.3,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 12:00 AM,2023,12,19,00,81.5,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 01:00 AM,2023,12,19,01,75.9,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 02:00 AM,2023,12,19,02,73.0,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 03:00 AM,2023,12,19,03,69.8,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 04:00 AM,2023,12,19,04,66.8,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 05:00 AM,2023,12,19,05,64.0,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 06:00 AM,2023,12,19,06,57.2,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 07:00 AM,2023,12,19,07,54.9,149,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 08:00 AM,2023,12,19,08,55.8,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 09:00 AM,2023,12,19,09,63.6,155,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 10:00 AM,2023,12,19,10,71.0,159,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 11:00 AM,2023,12,19,11,78.6,163,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 12:00 PM,2023,12,19,12,74.0,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 01:00 PM,2023,12,19,13,69.2,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 02:00 PM,2023,12,19,14,63.1,155,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 03:00 PM,2023,12,19,15,56.0,151,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 04:00 PM,2023,12,19,16,50.2,137,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 05:00 PM,2023,12,19,17,50.1,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 06:00 PM,2023,12,19,18,52.9,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 07:00 PM,2023,12,19,19,59.8,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 08:00 PM,2023,12,19,20,63.3,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 09:00 PM,2023,12,19,21,63.6,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 10:00 PM,2023,12,19,22,68.2,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-19 11:00 PM,2023,12,19,23,68.6,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 12:00 AM,2023,12,20,00,74.6,161,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 01:00 AM,2023,12,20,01,82.8,165,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 02:00 AM,2023,12,20,02,82.4,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 03:00 AM,2023,12,20,03,80.7,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 04:00 AM,2023,12,20,04,68.7,158,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 05:00 AM,2023,12,20,05,57.9,152,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 06:00 AM,2023,12,20,06,58.9,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 07:00 AM,2023,12,20,07,59.9,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 08:00 AM,2023,12,20,08,73.3,160,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 09:00 AM,2023,12,20,09,85.9,167,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 10:00 AM,2023,12,20,10,84.4,166,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 11:00 AM,2023,12,20,11,84.2,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 12:00 PM,2023,12,20,12,71.6,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 01:00 PM,2023,12,20,13,60.3,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 02:00 PM,2023,12,20,14,53.1,144,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 03:00 PM,2023,12,20,15,48.0,132,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 04:00 PM,2023,12,20,16,48.5,133,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 05:00 PM,2023,12,20,17,45.7,126,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 06:00 PM,2023,12,20,18,57.3,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 07:00 PM,2023,12,20,19,62.1,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 08:00 PM,2023,12,20,20,69.5,158,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 09:00 PM,2023,12,20,21,74.0,161,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 10:00 PM,2023,12,20,22,78.4,163,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-20 11:00 PM,2023,12,20,23,82.8,165,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 12:00 AM,2023,12,21,00,88.4,168,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 01:00 AM,2023,12,21,01,101.2,175,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 02:00 AM,2023,12,21,02,102.1,175,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 03:00 AM,2023,12,21,03,111.0,180,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 04:00 AM,2023,12,21,04,109.5,179,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 05:00 AM,2023,12,21,05,83.2,165,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 06:00 AM,2023,12,21,06,62.1,154,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 07:00 AM,2023,12,21,07,54.0,147,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 08:00 AM,2023,12,21,08,52.0,142,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 09:00 AM,2023,12,21,09,76.5,162,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 10:00 AM,2023,12,21,10,114.2,181,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 11:00 AM,2023,12,21,11,94.6,171,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 12:00 PM,2023,12,21,12,68.3,158,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 01:00 PM,2023,12,21,13,58.6,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 02:00 PM,2023,12,21,14,53.3,145,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 03:00 PM,2023,12,21,15,64.1,155,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 04:00 PM,2023,12,21,16,68.5,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 05:00 PM,2023,12,21,17,75.7,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 06:00 PM,2023,12,21,18,76.8,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 07:00 PM,2023,12,21,19,76.4,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 08:00 PM,2023,12,21,20,77.7,162,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 09:00 PM,2023,12,21,21,81.8,165,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 10:00 PM,2023,12,21,22,82.9,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-21 11:00 PM,2023,12,21,23,118.4,183,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 12:00 AM,2023,12,22,00,132.2,191,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 01:00 AM,2023,12,22,01,135.1,192,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 02:00 AM,2023,12,22,02,140.0,195,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 03:00 AM,2023,12,22,03,154.5,205,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 04:00 AM,2023,12,22,04,169.2,220,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 05:00 AM,2023,12,22,05,181.1,231,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 06:00 AM,2023,12,22,06,178.0,228,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 07:00 AM,2023,12,22,07,155.5,206,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 08:00 AM,2023,12,22,08,140.7,195,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 09:00 AM,2023,12,22,09,141.3,195,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 10:00 AM,2023,12,22,10,126.8,188,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 11:00 AM,2023,12,22,11,94.0,171,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 12:00 PM,2023,12,22,12,73.5,160,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 01:00 PM,2023,12,22,13,59.2,153,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 02:00 PM,2023,12,22,14,82.1,165,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 03:00 PM,2023,12,22,15,82.0,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 04:00 PM,2023,12,22,16,73.0,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 05:00 PM,2023,12,22,17,54.4,148,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 06:00 PM,2023,12,22,18,44.2,122,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 07:00 PM,2023,12,22,19,43.6,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 08:00 PM,2023,12,22,20,43.7,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 09:00 PM,2023,12,22,21,102.8,175,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 10:00 PM,2023,12,22,22,157.9,208,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-22 11:00 PM,2023,12,22,23,213.5,263,Very Unhealthy,269.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 12:00 AM,2023,12,23,00,266.7,317,Hazardous,320.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 01:00 AM,2023,12,23,01,311.9,362,Hazardous,357.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 02:00 AM,2023,12,23,02,306.9,357,Hazardous,302.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 03:00 AM,2023,12,23,03,281.5,332,Hazardous,256.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 04:00 AM,2023,12,23,04,231.2,281,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 05:00 AM,2023,12,23,05,186.1,236,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 06:00 AM,2023,12,23,06,131.0,190,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 07:00 AM,2023,12,23,07,99.0,173,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 08:00 AM,2023,12,23,08,100.0,174,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 09:00 AM,2023,12,23,09,96.5,172,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 10:00 AM,2023,12,23,10,85.2,166,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 11:00 AM,2023,12,23,11,72.0,160,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 12:00 PM,2023,12,23,12,69.5,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 01:00 PM,2023,12,23,13,54.7,148,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 02:00 PM,2023,12,23,14,45.8,126,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 03:00 PM,2023,12,23,15,37.3,105,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 04:00 PM,2023,12,23,16,35.1,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 05:00 PM,2023,12,23,17,35.5,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 06:00 PM,2023,12,23,18,38.7,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 07:00 PM,2023,12,23,19,43.8,121,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 08:00 PM,2023,12,23,20,45.4,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 09:00 PM,2023,12,23,21,54.7,148,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 10:00 PM,2023,12,23,22,58.3,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-23 11:00 PM,2023,12,23,23,57.1,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 12:00 AM,2023,12,24,00,54.0,147,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 01:00 AM,2023,12,24,01,54.0,147,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 02:00 AM,2023,12,24,02,51.5,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 03:00 AM,2023,12,24,03,49.8,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 04:00 AM,2023,12,24,04,47.0,129,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 05:00 AM,2023,12,24,05,47.7,131,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 06:00 AM,2023,12,24,06,43.4,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 07:00 AM,2023,12,24,07,44.0,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 08:00 AM,2023,12,24,08,39.8,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 09:00 AM,2023,12,24,09,45.6,126,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 10:00 AM,2023,12,24,10,48.9,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 11:00 AM,2023,12,24,11,56.3,151,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 12:00 PM,2023,12,24,12,57.9,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 01:00 PM,2023,12,24,13,58.9,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 02:00 PM,2023,12,24,14,58.0,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 03:00 PM,2023,12,24,15,58.9,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 04:00 PM,2023,12,24,16,57.6,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 05:00 PM,2023,12,24,17,51.8,141,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 06:00 PM,2023,12,24,18,56.9,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 07:00 PM,2023,12,24,19,62.9,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 08:00 PM,2023,12,24,20,64.3,156,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 09:00 PM,2023,12,24,21,63.1,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 10:00 PM,2023,12,24,22,62.0,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-24 11:00 PM,2023,12,24,23,64.8,156,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 12:00 AM,2023,12,25,00,73.0,160,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 01:00 AM,2023,12,25,01,71.6,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 02:00 AM,2023,12,25,02,67.3,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 03:00 AM,2023,12,25,03,62.2,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 04:00 AM,2023,12,25,04,52.8,144,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 05:00 AM,2023,12,25,05,47.4,130,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 06:00 AM,2023,12,25,06,44.7,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 07:00 AM,2023,12,25,07,42.7,119,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 08:00 AM,2023,12,25,08,45.8,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 09:00 AM,2023,12,25,09,56.4,151,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 10:00 AM,2023,12,25,10,62.2,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 11:00 AM,2023,12,25,11,66.6,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 12:00 PM,2023,12,25,12,60.2,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 01:00 PM,2023,12,25,13,52.1,142,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 02:00 PM,2023,12,25,14,41.8,117,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 03:00 PM,2023,12,25,15,34.9,99,Moderate,28.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 04:00 PM,2023,12,25,16,46.4,128,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 05:00 PM,2023,12,25,17,45.7,126,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 06:00 PM,2023,12,25,18,44.3,123,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 07:00 PM,2023,12,25,19,47.1,130,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 08:00 PM,2023,12,25,20,61.5,154,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 09:00 PM,2023,12,25,21,79.8,164,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 10:00 PM,2023,12,25,22,84.9,166,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-25 11:00 PM,2023,12,25,23,125.9,187,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 12:00 AM,2023,12,26,00,157.9,208,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 01:00 AM,2023,12,26,01,193.5,244,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 02:00 AM,2023,12,26,02,226.2,276,Very Unhealthy,259.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 03:00 AM,2023,12,26,03,238.1,288,Very Unhealthy,250.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 04:00 AM,2023,12,26,04,221.1,271,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 05:00 AM,2023,12,26,05,189.0,239,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 06:00 AM,2023,12,26,06,172.0,222,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 07:00 AM,2023,12,26,07,149.0,199,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 08:00 AM,2023,12,26,08,141.0,195,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 09:00 AM,2023,12,26,09,155.5,206,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 10:00 AM,2023,12,26,10,153.2,204,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 11:00 AM,2023,12,26,11,126.6,188,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 12:00 PM,2023,12,26,12,111.3,180,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 01:00 PM,2023,12,26,13,115.6,182,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 02:00 PM,2023,12,26,14,105.2,177,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 03:00 PM,2023,12,26,15,91.6,170,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 04:00 PM,2023,12,26,16,64.7,156,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 05:00 PM,2023,12,26,17,52.8,144,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 06:00 PM,2023,12,26,18,51.9,141,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 07:00 PM,2023,12,26,19,54.9,149,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 08:00 PM,2023,12,26,20,54.4,148,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 09:00 PM,2023,12,26,21,57.2,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 10:00 PM,2023,12,26,22,67.1,157,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-26 11:00 PM,2023,12,26,23,77.5,162,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 12:00 AM,2023,12,27,00,122.2,185,Unhealthy,167.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 01:00 AM,2023,12,27,01,123.1,186,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 02:00 AM,2023,12,27,02,137.5,193,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 03:00 AM,2023,12,27,03,130.7,190,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 04:00 AM,2023,12,27,04,127.4,188,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 05:00 AM,2023,12,27,05,119.7,184,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 06:00 AM,2023,12,27,06,111.8,180,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 07:00 AM,2023,12,27,07,113.4,181,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 08:00 AM,2023,12,27,08,122.2,185,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 09:00 AM,2023,12,27,09,126.6,188,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 10:00 AM,2023,12,27,10,111.4,180,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 11:00 AM,2023,12,27,11,106.6,177,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 12:00 PM,2023,12,27,12,103.1,176,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 01:00 PM,2023,12,27,13,103.0,176,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 02:00 PM,2023,12,27,14,97.4,173,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 03:00 PM,2023,12,27,15,91.6,170,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 04:00 PM,2023,12,27,16,74.6,161,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 05:00 PM,2023,12,27,17,65.3,156,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 06:00 PM,2023,12,27,18,63.1,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 07:00 PM,2023,12,27,19,58.5,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 08:00 PM,2023,12,27,20,57.7,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 09:00 PM,2023,12,27,21,68.9,158,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 10:00 PM,2023,12,27,22,71.8,159,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-27 11:00 PM,2023,12,27,23,79.0,163,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 12:00 AM,2023,12,28,00,90.4,169,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 01:00 AM,2023,12,28,01,105.1,177,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 02:00 AM,2023,12,28,02,106.5,177,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 03:00 AM,2023,12,28,03,123.2,186,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 04:00 AM,2023,12,28,04,113.1,181,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 05:00 AM,2023,12,28,05,92.0,170,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 06:00 AM,2023,12,28,06,75.5,161,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 07:00 AM,2023,12,28,07,73.2,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 08:00 AM,2023,12,28,08,75.6,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 09:00 AM,2023,12,28,09,83.8,166,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 10:00 AM,2023,12,28,10,86.4,167,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 11:00 AM,2023,12,28,11,83.2,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 12:00 PM,2023,12,28,12,79.0,163,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 01:00 PM,2023,12,28,13,71.0,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 02:00 PM,2023,12,28,14,66.5,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 03:00 PM,2023,12,28,15,57.2,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 04:00 PM,2023,12,28,16,54.0,147,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 05:00 PM,2023,12,28,17,48.8,134,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 06:00 PM,2023,12,28,18,51.4,140,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 07:00 PM,2023,12,28,19,73.7,160,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 08:00 PM,2023,12,28,20,90.8,169,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 09:00 PM,2023,12,28,21,109.9,179,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 10:00 PM,2023,12,28,22,97.9,173,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-28 11:00 PM,2023,12,28,23,115.9,182,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 12:00 AM,2023,12,29,00,129.0,189,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 01:00 AM,2023,12,29,01,157.5,208,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 02:00 AM,2023,12,29,02,182.7,233,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 03:00 AM,2023,12,29,03,190.4,241,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 04:00 AM,2023,12,29,04,175.7,226,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 05:00 AM,2023,12,29,05,191.8,242,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 06:00 AM,2023,12,29,06,186.9,237,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 07:00 AM,2023,12,29,07,167.9,218,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 08:00 AM,2023,12,29,08,176.5,227,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 09:00 AM,2023,12,29,09,207.2,257,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 10:00 AM,2023,12,29,10,157.1,208,Very Unhealthy,107.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 11:00 AM,2023,12,29,11,127.0,188,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 12:00 PM,2023,12,29,12,108.0,178,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 01:00 PM,2023,12,29,13,78.4,163,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 02:00 PM,2023,12,29,14,56.2,151,Unhealthy,34.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 03:00 PM,2023,12,29,15,45.5,126,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 04:00 PM,2023,12,29,16,57.2,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 05:00 PM,2023,12,29,17,69.1,158,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 06:00 PM,2023,12,29,18,70.5,159,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 07:00 PM,2023,12,29,19,74.2,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 08:00 PM,2023,12,29,20,106.6,177,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 09:00 PM,2023,12,29,21,136.3,193,Unhealthy,166.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 10:00 PM,2023,12,29,22,110.6,179,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-29 11:00 PM,2023,12,29,23,126.3,188,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 12:00 AM,2023,12,30,00,121.1,185,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 01:00 AM,2023,12,30,01,139.0,194,Unhealthy,157.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 02:00 AM,2023,12,30,02,166.5,217,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 03:00 AM,2023,12,30,03,143.7,197,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 04:00 AM,2023,12,30,04,110.8,180,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 05:00 AM,2023,12,30,05,88.4,168,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 06:00 AM,2023,12,30,06,79.2,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 07:00 AM,2023,12,30,07,69.6,158,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 08:00 AM,2023,12,30,08,66.7,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 09:00 AM,2023,12,30,09,80.3,164,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 10:00 AM,2023,12,30,10,96.1,172,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 11:00 AM,2023,12,30,11,104.0,176,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 12:00 PM,2023,12,30,12,103.5,176,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 01:00 PM,2023,12,30,13,93.7,171,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 02:00 PM,2023,12,30,14,74.3,161,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 03:00 PM,2023,12,30,15,84.1,166,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 04:00 PM,2023,12,30,16,91.5,170,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 05:00 PM,2023,12,30,17,86.7,167,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 06:00 PM,2023,12,30,18,76.8,162,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 07:00 PM,2023,12,30,19,70.9,159,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 08:00 PM,2023,12,30,20,64.4,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 09:00 PM,2023,12,30,21,99.2,174,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 10:00 PM,2023,12,30,22,97.6,173,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-30 11:00 PM,2023,12,30,23,130.8,190,Unhealthy,164.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 12:00 AM,2023,12,31,00,152.9,203,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 01:00 AM,2023,12,31,01,176.4,227,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 02:00 AM,2023,12,31,02,167.2,218,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 03:00 AM,2023,12,31,03,168.1,218,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 04:00 AM,2023,12,31,04,141.5,195,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 05:00 AM,2023,12,31,05,132.7,191,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 06:00 AM,2023,12,31,06,112.3,180,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 07:00 AM,2023,12,31,07,110.2,179,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 08:00 AM,2023,12,31,08,113.6,181,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 09:00 AM,2023,12,31,09,117.8,183,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 10:00 AM,2023,12,31,10,126.4,188,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 11:00 AM,2023,12,31,11,116.6,183,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 12:00 PM,2023,12,31,12,81.3,164,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 01:00 PM,2023,12,31,13,61.1,154,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 02:00 PM,2023,12,31,14,50.5,138,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 03:00 PM,2023,12,31,15,48.7,134,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 04:00 PM,2023,12,31,16,52.8,144,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 05:00 PM,2023,12,31,17,59.4,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 06:00 PM,2023,12,31,18,58.2,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 07:00 PM,2023,12,31,19,93.1,170,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 08:00 PM,2023,12,31,20,80.0,164,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 09:00 PM,2023,12,31,21,76.0,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 10:00 PM,2023,12,31,22,82.0,165,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2023-12-31 11:00 PM,2023,12,31,23,88.0,168,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Karachi,PM2.5 - Principal,2024-01-01 12:00 AM,2024,01,01,00,88.5,168,Unhealthy,89.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,591 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Abu Dhabi,PM2.5 - Principal,2022-12-01 01:00 AM,2022,12,01,01,39.6,111,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 02:00 AM,2022,12,01,02,42.6,118,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 03:00 AM,2022,12,01,03,42.1,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 04:00 AM,2022,12,01,04,41.7,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 05:00 AM,2022,12,01,05,42.1,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 06:00 AM,2022,12,01,06,42.7,119,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 07:00 AM,2022,12,01,07,42.9,119,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 08:00 AM,2022,12,01,08,43.1,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 09:00 AM,2022,12,01,09,43.7,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 10:00 AM,2022,12,01,10,43.6,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 11:00 AM,2022,12,01,11,43.2,120,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 12:00 PM,2022,12,01,12,38.2,108,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 01:00 PM,2022,12,01,13,36.3,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 02:00 PM,2022,12,01,14,33.5,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 03:00 PM,2022,12,01,15,32.5,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 04:00 PM,2022,12,01,16,31.6,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 05:00 PM,2022,12,01,17,31.7,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 06:00 PM,2022,12,01,18,31.0,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 07:00 PM,2022,12,01,19,32.8,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 08:00 PM,2022,12,01,20,32.9,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 09:00 PM,2022,12,01,21,33.1,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 10:00 PM,2022,12,01,22,32.4,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-01 11:00 PM,2022,12,01,23,31.2,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 12:00 AM,2022,12,02,00,29.1,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 01:00 AM,2022,12,02,01,29.1,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 02:00 AM,2022,12,02,02,28.4,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 03:00 AM,2022,12,02,03,27.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 04:00 AM,2022,12,02,04,26.0,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 05:00 AM,2022,12,02,05,25.2,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 06:00 AM,2022,12,02,06,25.8,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 07:00 AM,2022,12,02,07,24.9,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 08:00 AM,2022,12,02,08,27.9,84,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 09:00 AM,2022,12,02,09,28.8,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 10:00 AM,2022,12,02,10,28.5,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 11:00 AM,2022,12,02,11,28.4,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 12:00 PM,2022,12,02,12,29.5,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 01:00 PM,2022,12,02,13,29.3,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 02:00 PM,2022,12,02,14,30.2,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 03:00 PM,2022,12,02,15,35.2,100,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 04:00 PM,2022,12,02,16,43.4,120,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 05:00 PM,2022,12,02,17,44.7,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 06:00 PM,2022,12,02,18,45.8,126,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 07:00 PM,2022,12,02,19,44.3,123,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 08:00 PM,2022,12,02,20,41.4,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 09:00 PM,2022,12,02,21,40.8,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 10:00 PM,2022,12,02,22,39.5,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-02 11:00 PM,2022,12,02,23,36.7,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 12:00 AM,2022,12,03,00,36.8,104,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 01:00 AM,2022,12,03,01,39.0,110,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 02:00 AM,2022,12,03,02,35.3,100,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 03:00 AM,2022,12,03,03,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 04:00 AM,2022,12,03,04,33.5,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 05:00 AM,2022,12,03,05,32.9,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 06:00 AM,2022,12,03,06,30.0,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 07:00 AM,2022,12,03,07,27.2,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 08:00 AM,2022,12,03,08,29.3,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 09:00 AM,2022,12,03,09,33.4,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 10:00 AM,2022,12,03,10,34.9,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 11:00 AM,2022,12,03,11,32.4,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 12:00 PM,2022,12,03,12,31.8,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 01:00 PM,2022,12,03,13,32.2,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 02:00 PM,2022,12,03,14,31.4,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 03:00 PM,2022,12,03,15,30.8,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 04:00 PM,2022,12,03,16,28.9,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 05:00 PM,2022,12,03,17,27.0,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 06:00 PM,2022,12,03,18,24.6,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 07:00 PM,2022,12,03,19,24.3,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 08:00 PM,2022,12,03,20,23.3,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 09:00 PM,2022,12,03,21,27.3,83,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 10:00 PM,2022,12,03,22,27.6,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-03 11:00 PM,2022,12,03,23,28.4,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 12:00 AM,2022,12,04,00,29.2,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 01:00 AM,2022,12,04,01,31.5,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 02:00 AM,2022,12,04,02,35.1,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 03:00 AM,2022,12,04,03,35.0,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 04:00 AM,2022,12,04,04,35.9,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 05:00 AM,2022,12,04,05,36.8,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 06:00 AM,2022,12,04,06,37.7,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 07:00 AM,2022,12,04,07,36.5,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 08:00 AM,2022,12,04,08,35.6,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 09:00 AM,2022,12,04,09,37.2,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 10:00 AM,2022,12,04,10,39.1,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 11:00 AM,2022,12,04,11,39.8,112,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 12:00 PM,2022,12,04,12,37.3,105,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 01:00 PM,2022,12,04,13,35.8,102,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 02:00 PM,2022,12,04,14,35.0,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 03:00 PM,2022,12,04,15,34.4,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 04:00 PM,2022,12,04,16,32.4,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 05:00 PM,2022,12,04,17,31.6,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 06:00 PM,2022,12,04,18,31.0,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 07:00 PM,2022,12,04,19,30.7,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 08:00 PM,2022,12,04,20,28.0,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 09:00 PM,2022,12,04,21,23.7,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 10:00 PM,2022,12,04,22,21.8,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-04 11:00 PM,2022,12,04,23,17.9,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 12:00 AM,2022,12,05,00,18.4,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 01:00 AM,2022,12,05,01,18.7,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 02:00 AM,2022,12,05,02,20.3,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 03:00 AM,2022,12,05,03,18.1,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 04:00 AM,2022,12,05,04,21.5,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 05:00 AM,2022,12,05,05,26.2,81,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 06:00 AM,2022,12,05,06,29.1,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 07:00 AM,2022,12,05,07,27.0,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 08:00 AM,2022,12,05,08,27.0,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 09:00 AM,2022,12,05,09,28.0,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-05 10:00 AM,2022,12,05,10,28.0,84,Moderate,-999.0,UG/M3,1 Hr,Missing
+Abu Dhabi,PM2.5 - Principal,2022-12-10 09:00 PM,2022,12,10,21,-999.0,-999,N/A,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-10 10:00 PM,2022,12,10,22,26.0,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-10 11:00 PM,2022,12,10,23,25.6,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 12:00 AM,2022,12,11,00,25.7,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 01:00 AM,2022,12,11,01,23.9,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 02:00 AM,2022,12,11,02,23.3,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 03:00 AM,2022,12,11,03,22.7,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 04:00 AM,2022,12,11,04,23.5,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 05:00 AM,2022,12,11,05,23.4,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 06:00 AM,2022,12,11,06,23.3,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 07:00 AM,2022,12,11,07,23.4,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 08:00 AM,2022,12,11,08,23.6,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 09:00 AM,2022,12,11,09,23.4,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 10:00 AM,2022,12,11,10,23.0,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 11:00 AM,2022,12,11,11,23.5,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 12:00 PM,2022,12,11,12,23.3,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 01:00 PM,2022,12,11,13,22.8,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 02:00 PM,2022,12,11,14,23.1,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 03:00 PM,2022,12,11,15,23.5,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 04:00 PM,2022,12,11,16,23.5,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 05:00 PM,2022,12,11,17,23.8,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 06:00 PM,2022,12,11,18,25.9,80,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 07:00 PM,2022,12,11,19,27.6,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 08:00 PM,2022,12,11,20,28.7,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 09:00 PM,2022,12,11,21,26.2,81,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 10:00 PM,2022,12,11,22,25.2,79,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-11 11:00 PM,2022,12,11,23,23.2,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 12:00 AM,2022,12,12,00,23.8,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 01:00 AM,2022,12,12,01,22.8,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 02:00 AM,2022,12,12,02,21.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 03:00 AM,2022,12,12,03,20.7,69,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 04:00 AM,2022,12,12,04,22.0,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 05:00 AM,2022,12,12,05,21.6,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 06:00 AM,2022,12,12,06,21.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 07:00 AM,2022,12,12,07,21.9,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 08:00 AM,2022,12,12,08,31.5,92,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 09:00 AM,2022,12,12,09,38.2,108,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 10:00 AM,2022,12,12,10,34.6,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 11:00 AM,2022,12,12,11,27.8,84,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 12:00 PM,2022,12,12,12,20.9,70,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 01:00 PM,2022,12,12,13,18.9,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 02:00 PM,2022,12,12,14,18.4,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 03:00 PM,2022,12,12,15,18.7,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 04:00 PM,2022,12,12,16,17.8,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 05:00 PM,2022,12,12,17,17.4,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 06:00 PM,2022,12,12,18,18.2,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 07:00 PM,2022,12,12,19,20.1,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 08:00 PM,2022,12,12,20,18.0,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 09:00 PM,2022,12,12,21,18.5,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 10:00 PM,2022,12,12,22,19.4,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-12 11:00 PM,2022,12,12,23,19.9,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 12:00 AM,2022,12,13,00,22.3,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 01:00 AM,2022,12,13,01,22.6,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 02:00 AM,2022,12,13,02,21.6,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 03:00 AM,2022,12,13,03,22.9,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 04:00 AM,2022,12,13,04,21.4,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 05:00 AM,2022,12,13,05,22.0,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 06:00 AM,2022,12,13,06,23.5,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 07:00 AM,2022,12,13,07,27.3,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 08:00 AM,2022,12,13,08,27.0,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 09:00 AM,2022,12,13,09,29.7,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 10:00 AM,2022,12,13,10,28.1,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 11:00 AM,2022,12,13,11,26.3,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 12:00 PM,2022,12,13,12,24.1,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 01:00 PM,2022,12,13,13,22.3,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 02:00 PM,2022,12,13,14,21.7,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 03:00 PM,2022,12,13,15,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 04:00 PM,2022,12,13,16,21.1,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 05:00 PM,2022,12,13,17,22.6,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 06:00 PM,2022,12,13,18,23.1,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 07:00 PM,2022,12,13,19,24.6,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 08:00 PM,2022,12,13,20,24.8,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 09:00 PM,2022,12,13,21,23.8,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 10:00 PM,2022,12,13,22,23.8,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-13 11:00 PM,2022,12,13,23,23.1,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 12:00 AM,2022,12,14,00,24.1,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 01:00 AM,2022,12,14,01,24.9,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 02:00 AM,2022,12,14,02,25.2,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 03:00 AM,2022,12,14,03,25.6,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 04:00 AM,2022,12,14,04,25.2,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 05:00 AM,2022,12,14,05,24.2,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 06:00 AM,2022,12,14,06,24.2,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 07:00 AM,2022,12,14,07,24.8,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 08:00 AM,2022,12,14,08,26.9,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 09:00 AM,2022,12,14,09,29.3,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 10:00 AM,2022,12,14,10,28.1,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 11:00 AM,2022,12,14,11,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 12:00 PM,2022,12,14,12,28.1,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 01:00 PM,2022,12,14,13,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 02:00 PM,2022,12,14,14,24.0,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 03:00 PM,2022,12,14,15,21.1,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 04:00 PM,2022,12,14,16,24.7,77,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 05:00 PM,2022,12,14,17,27.1,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 06:00 PM,2022,12,14,18,27.1,83,Moderate,-999.0,UG/M3,1 Hr,Missing
+Abu Dhabi,PM2.5 - Principal,2022-12-14 07:00 PM,2022,12,14,19,22.8,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 08:00 PM,2022,12,14,20,22.9,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 09:00 PM,2022,12,14,21,23.0,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 10:00 PM,2022,12,14,22,24.2,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-14 11:00 PM,2022,12,14,23,22.9,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 12:00 AM,2022,12,15,00,23.7,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 01:00 AM,2022,12,15,01,23.0,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 02:00 AM,2022,12,15,02,23.8,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 03:00 AM,2022,12,15,03,24.5,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 04:00 AM,2022,12,15,04,25.0,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 05:00 AM,2022,12,15,05,25.3,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 06:00 AM,2022,12,15,06,28.1,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 07:00 AM,2022,12,15,07,27.6,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 08:00 AM,2022,12,15,08,27.7,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 09:00 AM,2022,12,15,09,28.5,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 10:00 AM,2022,12,15,10,27.6,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 11:00 AM,2022,12,15,11,27.1,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 12:00 PM,2022,12,15,12,25.8,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 01:00 PM,2022,12,15,13,23.4,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 02:00 PM,2022,12,15,14,22.1,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 03:00 PM,2022,12,15,15,22.4,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 04:00 PM,2022,12,15,16,19.7,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 05:00 PM,2022,12,15,17,19.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 06:00 PM,2022,12,15,18,20.8,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 07:00 PM,2022,12,15,19,20.4,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 08:00 PM,2022,12,15,20,21.5,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 09:00 PM,2022,12,15,21,21.6,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 10:00 PM,2022,12,15,22,21.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-15 11:00 PM,2022,12,15,23,21.4,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 12:00 AM,2022,12,16,00,21.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 01:00 AM,2022,12,16,01,21.2,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 02:00 AM,2022,12,16,02,20.9,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 03:00 AM,2022,12,16,03,20.1,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 04:00 AM,2022,12,16,04,20.9,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 05:00 AM,2022,12,16,05,20.4,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 06:00 AM,2022,12,16,06,21.3,70,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 07:00 AM,2022,12,16,07,21.5,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 08:00 AM,2022,12,16,08,22.5,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 09:00 AM,2022,12,16,09,28.3,85,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 10:00 AM,2022,12,16,10,28.2,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 11:00 AM,2022,12,16,11,26.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 12:00 PM,2022,12,16,12,23.2,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 01:00 PM,2022,12,16,13,21.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 02:00 PM,2022,12,16,14,21.6,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 03:00 PM,2022,12,16,15,20.9,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 04:00 PM,2022,12,16,16,22.3,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 05:00 PM,2022,12,16,17,22.1,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 06:00 PM,2022,12,16,18,21.2,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 07:00 PM,2022,12,16,19,22.0,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 08:00 PM,2022,12,16,20,23.3,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 09:00 PM,2022,12,16,21,21.6,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 10:00 PM,2022,12,16,22,22.2,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-16 11:00 PM,2022,12,16,23,22.6,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 12:00 AM,2022,12,17,00,25.5,79,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 01:00 AM,2022,12,17,01,33.8,97,Moderate,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 02:00 AM,2022,12,17,02,36.9,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 03:00 AM,2022,12,17,03,39.4,111,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 04:00 AM,2022,12,17,04,40.2,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 05:00 AM,2022,12,17,05,36.1,102,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 06:00 AM,2022,12,17,06,35.0,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 07:00 AM,2022,12,17,07,38.0,107,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 08:00 AM,2022,12,17,08,47.0,129,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 09:00 AM,2022,12,17,09,53.5,145,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 10:00 AM,2022,12,17,10,48.2,132,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 11:00 AM,2022,12,17,11,41.1,115,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 12:00 PM,2022,12,17,12,37.1,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 01:00 PM,2022,12,17,13,36.1,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 02:00 PM,2022,12,17,14,32.8,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 03:00 PM,2022,12,17,15,29.9,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 04:00 PM,2022,12,17,16,27.4,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 05:00 PM,2022,12,17,17,28.7,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 06:00 PM,2022,12,17,18,29.8,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 07:00 PM,2022,12,17,19,27.4,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 08:00 PM,2022,12,17,20,28.7,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 09:00 PM,2022,12,17,21,27.1,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 10:00 PM,2022,12,17,22,29.5,88,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-17 11:00 PM,2022,12,17,23,29.6,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 12:00 AM,2022,12,18,00,28.2,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 01:00 AM,2022,12,18,01,29.0,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 02:00 AM,2022,12,18,02,28.1,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 03:00 AM,2022,12,18,03,28.6,86,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 04:00 AM,2022,12,18,04,27.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 05:00 AM,2022,12,18,05,29.0,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 06:00 AM,2022,12,18,06,29.2,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 07:00 AM,2022,12,18,07,29.5,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 08:00 AM,2022,12,18,08,29.9,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 09:00 AM,2022,12,18,09,30.2,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 10:00 AM,2022,12,18,10,28.8,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 11:00 AM,2022,12,18,11,27.0,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 12:00 PM,2022,12,18,12,22.4,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 01:00 PM,2022,12,18,13,23.9,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 02:00 PM,2022,12,18,14,25.3,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 03:00 PM,2022,12,18,15,26.4,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 04:00 PM,2022,12,18,16,24.0,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 05:00 PM,2022,12,18,17,24.0,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 06:00 PM,2022,12,18,18,24.0,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 07:00 PM,2022,12,18,19,25.7,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 08:00 PM,2022,12,18,20,24.9,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 09:00 PM,2022,12,18,21,24.2,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 10:00 PM,2022,12,18,22,24.1,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-18 11:00 PM,2022,12,18,23,23.7,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 12:00 AM,2022,12,19,00,24.7,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 01:00 AM,2022,12,19,01,24.0,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 02:00 AM,2022,12,19,02,22.8,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 03:00 AM,2022,12,19,03,20.2,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 04:00 AM,2022,12,19,04,22.8,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 05:00 AM,2022,12,19,05,27.2,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 06:00 AM,2022,12,19,06,29.0,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 07:00 AM,2022,12,19,07,30.4,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 08:00 AM,2022,12,19,08,30.6,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 09:00 AM,2022,12,19,09,30.3,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 10:00 AM,2022,12,19,10,30.1,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 11:00 AM,2022,12,19,11,32.1,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 12:00 PM,2022,12,19,12,31.0,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 01:00 PM,2022,12,19,13,26.5,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 02:00 PM,2022,12,19,14,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 03:00 PM,2022,12,19,15,29.8,88,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 04:00 PM,2022,12,19,16,33.3,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 05:00 PM,2022,12,19,17,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 06:00 PM,2022,12,19,18,34.1,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 07:00 PM,2022,12,19,19,35.7,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 08:00 PM,2022,12,19,20,35.4,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 09:00 PM,2022,12,19,21,36.1,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 10:00 PM,2022,12,19,22,35.2,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-19 11:00 PM,2022,12,19,23,38.9,109,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 12:00 AM,2022,12,20,00,37.5,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 01:00 AM,2022,12,20,01,36.1,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 02:00 AM,2022,12,20,02,35.6,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 03:00 AM,2022,12,20,03,35.2,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 04:00 AM,2022,12,20,04,36.2,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 05:00 AM,2022,12,20,05,35.9,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 06:00 AM,2022,12,20,06,35.5,101,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 07:00 AM,2022,12,20,07,36.7,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 08:00 AM,2022,12,20,08,37.6,106,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 09:00 AM,2022,12,20,09,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 10:00 AM,2022,12,20,10,37.8,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 11:00 AM,2022,12,20,11,31.6,92,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 12:00 PM,2022,12,20,12,26.0,80,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 01:00 PM,2022,12,20,13,20.9,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 02:00 PM,2022,12,20,14,19.4,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 03:00 PM,2022,12,20,15,22.2,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 04:00 PM,2022,12,20,16,22.1,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 05:00 PM,2022,12,20,17,19.5,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 06:00 PM,2022,12,20,18,19.2,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 07:00 PM,2022,12,20,19,19.1,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 08:00 PM,2022,12,20,20,15.5,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 09:00 PM,2022,12,20,21,16.7,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 10:00 PM,2022,12,20,22,16.8,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-20 11:00 PM,2022,12,20,23,16.9,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 12:00 AM,2022,12,21,00,17.9,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 01:00 AM,2022,12,21,01,18.4,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 02:00 AM,2022,12,21,02,17.7,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 03:00 AM,2022,12,21,03,17.8,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 04:00 AM,2022,12,21,04,18.7,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 05:00 AM,2022,12,21,05,19.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 06:00 AM,2022,12,21,06,18.7,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 07:00 AM,2022,12,21,07,19.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 08:00 AM,2022,12,21,08,20.5,69,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 09:00 AM,2022,12,21,09,19.5,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 10:00 AM,2022,12,21,10,19.9,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 11:00 AM,2022,12,21,11,18.6,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 12:00 PM,2022,12,21,12,18.7,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 01:00 PM,2022,12,21,13,20.2,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 02:00 PM,2022,12,21,14,21.4,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 03:00 PM,2022,12,21,15,22.8,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 04:00 PM,2022,12,21,16,23.6,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 05:00 PM,2022,12,21,17,21.9,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 06:00 PM,2022,12,21,18,20.5,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 07:00 PM,2022,12,21,19,21.0,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 08:00 PM,2022,12,21,20,19.5,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 09:00 PM,2022,12,21,21,18.6,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 10:00 PM,2022,12,21,22,19.1,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-21 11:00 PM,2022,12,21,23,18.5,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 12:00 AM,2022,12,22,00,19.6,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 01:00 AM,2022,12,22,01,22.9,74,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 02:00 AM,2022,12,22,02,22.9,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 03:00 AM,2022,12,22,03,23.3,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 04:00 AM,2022,12,22,04,25.2,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 05:00 AM,2022,12,22,05,24.7,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 06:00 AM,2022,12,22,06,39.4,111,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 07:00 AM,2022,12,22,07,42.2,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 08:00 AM,2022,12,22,08,39.1,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 09:00 AM,2022,12,22,09,43.5,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 10:00 AM,2022,12,22,10,47.2,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 11:00 AM,2022,12,22,11,45.1,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 12:00 PM,2022,12,22,12,43.5,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 01:00 PM,2022,12,22,13,30.2,89,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 02:00 PM,2022,12,22,14,26.1,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 03:00 PM,2022,12,22,15,22.5,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 04:00 PM,2022,12,22,16,19.7,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 05:00 PM,2022,12,22,17,21.3,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 06:00 PM,2022,12,22,18,21.1,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 07:00 PM,2022,12,22,19,19.5,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 08:00 PM,2022,12,22,20,20.7,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 09:00 PM,2022,12,22,21,19.8,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 10:00 PM,2022,12,22,22,17.9,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-22 11:00 PM,2022,12,22,23,19.9,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 12:00 AM,2022,12,23,00,19.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 01:00 AM,2022,12,23,01,20.1,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 02:00 AM,2022,12,23,02,20.7,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 03:00 AM,2022,12,23,03,22.3,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 04:00 AM,2022,12,23,04,21.8,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 05:00 AM,2022,12,23,05,20.8,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 06:00 AM,2022,12,23,06,19.8,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 07:00 AM,2022,12,23,07,19.5,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 08:00 AM,2022,12,23,08,22.4,73,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 09:00 AM,2022,12,23,09,22.2,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 10:00 AM,2022,12,23,10,21.3,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 11:00 AM,2022,12,23,11,21.9,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 12:00 PM,2022,12,23,12,22.9,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 01:00 PM,2022,12,23,13,21.9,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 02:00 PM,2022,12,23,14,21.9,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 03:00 PM,2022,12,23,15,22.6,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 04:00 PM,2022,12,23,16,22.7,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 05:00 PM,2022,12,23,17,21.1,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 06:00 PM,2022,12,23,18,21.7,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 07:00 PM,2022,12,23,19,23.2,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 08:00 PM,2022,12,23,20,22.4,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 09:00 PM,2022,12,23,21,21.0,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 10:00 PM,2022,12,23,22,19.5,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-23 11:00 PM,2022,12,23,23,21.7,71,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 12:00 AM,2022,12,24,00,22.5,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 01:00 AM,2022,12,24,01,22.7,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 02:00 AM,2022,12,24,02,21.7,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 03:00 AM,2022,12,24,03,21.1,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 04:00 AM,2022,12,24,04,21.7,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 05:00 AM,2022,12,24,05,21.8,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 06:00 AM,2022,12,24,06,21.5,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 07:00 AM,2022,12,24,07,22.4,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 08:00 AM,2022,12,24,08,22.6,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 09:00 AM,2022,12,24,09,22.4,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 10:00 AM,2022,12,24,10,23.6,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 11:00 AM,2022,12,24,11,22.9,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 12:00 PM,2022,12,24,12,23.9,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 01:00 PM,2022,12,24,13,24.0,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 02:00 PM,2022,12,24,14,24.0,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 03:00 PM,2022,12,24,15,24.4,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 04:00 PM,2022,12,24,16,23.9,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 05:00 PM,2022,12,24,17,23.7,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 06:00 PM,2022,12,24,18,22.2,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 07:00 PM,2022,12,24,19,24.4,77,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 08:00 PM,2022,12,24,20,24.9,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 09:00 PM,2022,12,24,21,23.5,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 10:00 PM,2022,12,24,22,23.0,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-24 11:00 PM,2022,12,24,23,22.3,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 12:00 AM,2022,12,25,00,20.6,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 01:00 AM,2022,12,25,01,25.3,79,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 02:00 AM,2022,12,25,02,25.6,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 03:00 AM,2022,12,25,03,23.1,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 04:00 AM,2022,12,25,04,17.9,63,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 05:00 AM,2022,12,25,05,14.4,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 06:00 AM,2022,12,25,06,15.7,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 07:00 AM,2022,12,25,07,16.3,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 08:00 AM,2022,12,25,08,18.1,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 09:00 AM,2022,12,25,09,21.5,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 10:00 AM,2022,12,25,10,22.2,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 11:00 AM,2022,12,25,11,21.6,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 12:00 PM,2022,12,25,12,23.8,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 01:00 PM,2022,12,25,13,25.4,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 02:00 PM,2022,12,25,14,24.7,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 03:00 PM,2022,12,25,15,26.3,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 04:00 PM,2022,12,25,16,28.6,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 05:00 PM,2022,12,25,17,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 06:00 PM,2022,12,25,18,26.0,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 07:00 PM,2022,12,25,19,23.3,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 08:00 PM,2022,12,25,20,17.2,62,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 09:00 PM,2022,12,25,21,16.6,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 10:00 PM,2022,12,25,22,16.8,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-25 11:00 PM,2022,12,25,23,15.4,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 12:00 AM,2022,12,26,00,16.7,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 01:00 AM,2022,12,26,01,15.8,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 02:00 AM,2022,12,26,02,16.4,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 03:00 AM,2022,12,26,03,15.7,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 04:00 AM,2022,12,26,04,17.8,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 05:00 AM,2022,12,26,05,17.4,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 06:00 AM,2022,12,26,06,17.1,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 07:00 AM,2022,12,26,07,18.8,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 08:00 AM,2022,12,26,08,19.2,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 09:00 AM,2022,12,26,09,21.5,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 10:00 AM,2022,12,26,10,32.0,93,Moderate,42.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 11:00 AM,2022,12,26,11,30.0,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 12:00 PM,2022,12,26,12,27.5,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 01:00 PM,2022,12,26,13,27.7,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 02:00 PM,2022,12,26,14,26.3,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 03:00 PM,2022,12,26,15,27.1,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 04:00 PM,2022,12,26,16,24.5,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 05:00 PM,2022,12,26,17,21.7,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 06:00 PM,2022,12,26,18,21.8,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 07:00 PM,2022,12,26,19,19.4,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 08:00 PM,2022,12,26,20,18.7,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 09:00 PM,2022,12,26,21,18.3,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 10:00 PM,2022,12,26,22,18.0,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-26 11:00 PM,2022,12,26,23,17.0,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 12:00 AM,2022,12,27,00,17.4,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 01:00 AM,2022,12,27,01,18.9,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 02:00 AM,2022,12,27,02,21.9,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 03:00 AM,2022,12,27,03,22.1,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 04:00 AM,2022,12,27,04,21.7,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 05:00 AM,2022,12,27,05,20.6,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 06:00 AM,2022,12,27,06,22.7,73,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 07:00 AM,2022,12,27,07,22.0,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 08:00 AM,2022,12,27,08,20.1,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 09:00 AM,2022,12,27,09,18.9,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 10:00 AM,2022,12,27,10,18.1,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 11:00 AM,2022,12,27,11,20.0,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 12:00 PM,2022,12,27,12,20.3,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 01:00 PM,2022,12,27,13,20.9,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 02:00 PM,2022,12,27,14,17.8,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 03:00 PM,2022,12,27,15,16.5,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 04:00 PM,2022,12,27,16,16.7,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 05:00 PM,2022,12,27,17,17.3,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 06:00 PM,2022,12,27,18,19.5,67,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 07:00 PM,2022,12,27,19,18.5,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 08:00 PM,2022,12,27,20,19.5,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 09:00 PM,2022,12,27,21,18.1,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 10:00 PM,2022,12,27,22,18.8,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-27 11:00 PM,2022,12,27,23,21.5,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 12:00 AM,2022,12,28,00,23.0,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 01:00 AM,2022,12,28,01,26.2,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 02:00 AM,2022,12,28,02,29.1,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 03:00 AM,2022,12,28,03,26.0,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 04:00 AM,2022,12,28,04,25.5,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 05:00 AM,2022,12,28,05,25.2,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 06:00 AM,2022,12,28,06,22.1,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 07:00 AM,2022,12,28,07,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 08:00 AM,2022,12,28,08,21.0,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 09:00 AM,2022,12,28,09,20.4,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 10:00 AM,2022,12,28,10,22.2,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 11:00 AM,2022,12,28,11,22.5,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 12:00 PM,2022,12,28,12,23.5,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 01:00 PM,2022,12,28,13,21.1,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 02:00 PM,2022,12,28,14,21.4,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 03:00 PM,2022,12,28,15,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 04:00 PM,2022,12,28,16,19.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 05:00 PM,2022,12,28,17,19.0,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 06:00 PM,2022,12,28,18,19.3,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 07:00 PM,2022,12,28,19,16.2,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 08:00 PM,2022,12,28,20,13.5,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 09:00 PM,2022,12,28,21,15.2,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 10:00 PM,2022,12,28,22,20.1,68,Moderate,25.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-28 11:00 PM,2022,12,28,23,25.5,79,Moderate,31.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 12:00 AM,2022,12,29,00,27.2,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 01:00 AM,2022,12,29,01,25.1,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 02:00 AM,2022,12,29,02,19.5,67,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 03:00 AM,2022,12,29,03,15.7,59,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 04:00 AM,2022,12,29,04,14.3,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 05:00 AM,2022,12,29,05,13.6,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 06:00 AM,2022,12,29,06,13.8,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 07:00 AM,2022,12,29,07,16.4,60,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 08:00 AM,2022,12,29,08,17.7,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 09:00 AM,2022,12,29,09,13.8,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 10:00 AM,2022,12,29,10,14.4,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 11:00 AM,2022,12,29,11,14.2,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 12:00 PM,2022,12,29,12,15.6,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 01:00 PM,2022,12,29,13,13.8,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 02:00 PM,2022,12,29,14,15.3,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 03:00 PM,2022,12,29,15,16.1,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 04:00 PM,2022,12,29,16,13.7,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 05:00 PM,2022,12,29,17,12.4,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 06:00 PM,2022,12,29,18,17.6,63,Moderate,23.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 07:00 PM,2022,12,29,19,21.8,71,Moderate,26.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 08:00 PM,2022,12,29,20,24.9,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 09:00 PM,2022,12,29,21,22.9,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 10:00 PM,2022,12,29,22,20.9,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-29 11:00 PM,2022,12,29,23,15.4,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 12:00 AM,2022,12,30,00,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 01:00 AM,2022,12,30,01,13.3,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 02:00 AM,2022,12,30,02,14.6,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 03:00 AM,2022,12,30,03,12.8,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 04:00 AM,2022,12,30,04,16.4,60,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 05:00 AM,2022,12,30,05,18.2,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 06:00 AM,2022,12,30,06,20.1,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 07:00 AM,2022,12,30,07,19.5,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 08:00 AM,2022,12,30,08,17.7,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 09:00 AM,2022,12,30,09,15.3,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 10:00 AM,2022,12,30,10,18.1,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 11:00 AM,2022,12,30,11,15.5,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 12:00 PM,2022,12,30,12,14.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 01:00 PM,2022,12,30,13,15.1,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 02:00 PM,2022,12,30,14,15.0,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 03:00 PM,2022,12,30,15,14.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 04:00 PM,2022,12,30,16,14.5,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 05:00 PM,2022,12,30,17,12.7,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 06:00 PM,2022,12,30,18,14.3,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 07:00 PM,2022,12,30,19,15.1,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 08:00 PM,2022,12,30,20,15.0,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 09:00 PM,2022,12,30,21,16.4,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 10:00 PM,2022,12,30,22,17.4,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-30 11:00 PM,2022,12,30,23,19.2,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Abu Dhabi,PM2.5 - Principal,2022-12-31 12:00 AM,2022,12,31,00,18.6,65,Moderate,18.0,UG/M3,1 Hr,Valid

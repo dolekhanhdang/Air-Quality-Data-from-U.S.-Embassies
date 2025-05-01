@@ -1,0 +1,740 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+N'Djamena,PM2.5 - Principal,2021-12-01 01:00 AM,2021,12,01,01,36.9,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 02:00 AM,2021,12,01,02,29.4,87,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 03:00 AM,2021,12,01,03,24.7,77,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 04:00 AM,2021,12,01,04,21.8,71,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 05:00 AM,2021,12,01,05,26.9,82,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 06:00 AM,2021,12,01,06,29.4,87,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 07:00 AM,2021,12,01,07,43.7,121,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 08:00 AM,2021,12,01,08,58.3,152,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 09:00 AM,2021,12,01,09,82.6,165,Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 10:00 AM,2021,12,01,10,85.3,166,Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 11:00 AM,2021,12,01,11,83.1,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 12:00 PM,2021,12,01,12,81.5,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 01:00 PM,2021,12,01,13,79.8,164,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 02:00 PM,2021,12,01,14,77.9,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 03:00 PM,2021,12,01,15,73.9,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 04:00 PM,2021,12,01,16,78.9,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 05:00 PM,2021,12,01,17,97.0,172,Unhealthy,115.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 06:00 PM,2021,12,01,18,132.0,190,Unhealthy,167.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 07:00 PM,2021,12,01,19,182.5,233,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 08:00 PM,2021,12,01,20,208.7,259,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 09:00 PM,2021,12,01,21,226.9,277,Very Unhealthy,245.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 10:00 PM,2021,12,01,22,336.4,386,Hazardous,446.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-01 11:00 PM,2021,12,01,23,336.5,386,Hazardous,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-02 12:00 AM,2021,12,02,00,-999.0,-999,N/A,970.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-02 01:00 AM,2021,12,02,01,-999.0,-999,N/A,832.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 02:00 AM,2021,12,02,02,726.3,649,Hazardous,722.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 03:00 AM,2021,12,02,03,657.2,604,Hazardous,601.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 04:00 AM,2021,12,02,04,589.5,559,Hazardous,528.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 05:00 AM,2021,12,02,05,512.4,508,Hazardous,439.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 06:00 AM,2021,12,02,06,430.3,454,Hazardous,350.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 07:00 AM,2021,12,02,07,377.3,419,Hazardous,325.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 08:00 AM,2021,12,02,08,320.0,370,Hazardous,263.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 09:00 AM,2021,12,02,09,251.3,302,Hazardous,183.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 10:00 AM,2021,12,02,10,195.6,246,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 11:00 AM,2021,12,02,11,152.7,203,Very Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 12:00 PM,2021,12,02,12,127.3,188,Unhealthy,102.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 01:00 PM,2021,12,02,13,117.1,183,Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 02:00 PM,2021,12,02,14,98.4,173,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 03:00 PM,2021,12,02,15,83.6,166,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 04:00 PM,2021,12,02,16,81.7,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 05:00 PM,2021,12,02,17,85.8,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 06:00 PM,2021,12,02,18,121.4,185,Unhealthy,157.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 07:00 PM,2021,12,02,19,161.6,212,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 08:00 PM,2021,12,02,20,150.8,201,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 09:00 PM,2021,12,02,21,127.4,188,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 10:00 PM,2021,12,02,22,115.1,182,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-02 11:00 PM,2021,12,02,23,123.6,186,Unhealthy,132.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 12:00 AM,2021,12,03,00,170.8,221,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 01:00 AM,2021,12,03,01,231.4,281,Very Unhealthy,292.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 02:00 AM,2021,12,03,02,292.2,342,Hazardous,353.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 03:00 AM,2021,12,03,03,337.6,387,Hazardous,383.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 04:00 AM,2021,12,03,04,344.8,394,Hazardous,352.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 05:00 AM,2021,12,03,05,323.4,373,Hazardous,302.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 06:00 AM,2021,12,03,06,294.7,345,Hazardous,266.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 07:00 AM,2021,12,03,07,287.3,337,Hazardous,280.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 08:00 AM,2021,12,03,08,245.1,295,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 09:00 AM,2021,12,03,09,180.6,231,Very Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 10:00 AM,2021,12,03,10,137.7,193,Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 11:00 AM,2021,12,03,11,107.8,178,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 12:00 PM,2021,12,03,12,90.9,169,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 01:00 PM,2021,12,03,13,81.4,164,Unhealthy,72.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 02:00 PM,2021,12,03,14,77.6,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 03:00 PM,2021,12,03,15,75.8,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 04:00 PM,2021,12,03,16,68.8,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 05:00 PM,2021,12,03,17,71.4,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 06:00 PM,2021,12,03,18,123.6,186,Unhealthy,176.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 07:00 PM,2021,12,03,19,264.3,315,Hazardous,405.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 08:00 PM,2021,12,03,20,264.3,315,Hazardous,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2021-12-03 09:00 PM,2021,12,03,21,324.1,374,Hazardous,354.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 10:00 PM,2021,12,03,22,267.5,318,Hazardous,225.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-03 11:00 PM,2021,12,03,23,197.3,247,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 12:00 AM,2021,12,04,00,138.3,194,Unhealthy,83.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 01:00 AM,2021,12,04,01,96.0,172,Unhealthy,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 02:00 AM,2021,12,04,02,75.3,161,Unhealthy,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 03:00 AM,2021,12,04,03,63.6,155,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 04:00 AM,2021,12,04,04,57.7,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 05:00 AM,2021,12,04,05,56.8,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 06:00 AM,2021,12,04,06,62.9,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 07:00 AM,2021,12,04,07,117.9,183,Unhealthy,173.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 08:00 AM,2021,12,04,08,114.4,181,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 09:00 AM,2021,12,04,09,103.2,176,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 10:00 AM,2021,12,04,10,96.0,172,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 11:00 AM,2021,12,04,11,86.0,167,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 12:00 PM,2021,12,04,12,78.5,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 01:00 PM,2021,12,04,13,72.2,160,Unhealthy,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 02:00 PM,2021,12,04,14,63.1,155,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 03:00 PM,2021,12,04,15,64.0,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 04:00 PM,2021,12,04,16,59.0,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 05:00 PM,2021,12,04,17,65.0,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 06:00 PM,2021,12,04,18,101.5,175,Unhealthy,138.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 07:00 PM,2021,12,04,19,207.7,258,Very Unhealthy,314.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 08:00 PM,2021,12,04,20,197.8,248,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 09:00 PM,2021,12,04,21,143.9,197,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 10:00 PM,2021,12,04,22,111.9,180,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-04 11:00 PM,2021,12,04,23,81.4,164,Unhealthy,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 12:00 AM,2021,12,05,00,63.2,155,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 01:00 AM,2021,12,05,01,51.6,141,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 02:00 AM,2021,12,05,02,41.8,117,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 03:00 AM,2021,12,05,03,34.3,98,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 04:00 AM,2021,12,05,04,26.1,80,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 05:00 AM,2021,12,05,05,22.5,73,Moderate,19.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 06:00 AM,2021,12,05,06,29.2,87,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 07:00 AM,2021,12,05,07,55.1,149,Unhealthy for Sensitive Groups,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 08:00 AM,2021,12,05,08,66.5,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 09:00 AM,2021,12,05,09,62.7,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 10:00 AM,2021,12,05,10,56.8,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 11:00 AM,2021,12,05,11,48.4,133,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 12:00 PM,2021,12,05,12,40.7,114,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 01:00 PM,2021,12,05,13,36.3,103,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 02:00 PM,2021,12,05,14,36.1,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 03:00 PM,2021,12,05,15,37.5,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 04:00 PM,2021,12,05,16,38.7,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 05:00 PM,2021,12,05,17,44.9,124,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 06:00 PM,2021,12,05,18,96.9,172,Unhealthy,149.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 07:00 PM,2021,12,05,19,164.5,215,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 08:00 PM,2021,12,05,20,181.7,232,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 09:00 PM,2021,12,05,21,132.3,191,Unhealthy,83.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 10:00 PM,2021,12,05,22,97.6,173,Unhealthy,63.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-05 11:00 PM,2021,12,05,23,86.3,167,Unhealthy,75.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 12:00 AM,2021,12,06,00,188.2,238,Very Unhealthy,290.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 01:00 AM,2021,12,06,01,359.6,407,Hazardous,531.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 02:00 AM,2021,12,06,02,441.3,461,Hazardous,523.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 03:00 AM,2021,12,06,03,482.2,488,Hazardous,523.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 04:00 AM,2021,12,06,04,502.6,501,Hazardous,523.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 05:00 AM,2021,12,06,05,523.9,516,Hazardous,545.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 06:00 AM,2021,12,06,06,514.4,509,Hazardous,505.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 07:00 AM,2021,12,06,07,498.7,499,Hazardous,483.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 08:00 AM,2021,12,06,08,466.9,478,Hazardous,435.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 09:00 AM,2021,12,06,09,397.9,432,Hazardous,329.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 10:00 AM,2021,12,06,10,341.5,391,Hazardous,285.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 11:00 AM,2021,12,06,11,295.7,346,Hazardous,250.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 12:00 PM,2021,12,06,12,261.8,312,Hazardous,228.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 01:00 PM,2021,12,06,13,222.3,272,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 02:00 PM,2021,12,06,14,181.1,231,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 03:00 PM,2021,12,06,15,181.0,231,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2021-12-06 04:00 PM,2021,12,06,16,125.6,187,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 05:00 PM,2021,12,06,17,117.2,183,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 06:00 PM,2021,12,06,18,248.8,298,Very Unhealthy,364.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 07:00 PM,2021,12,06,19,276.2,326,Hazardous,302.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 08:00 PM,2021,12,06,20,206.4,256,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 09:00 PM,2021,12,06,21,170.4,221,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 10:00 PM,2021,12,06,22,148.1,199,Unhealthy,126.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-06 11:00 PM,2021,12,06,23,127.4,188,Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 12:00 AM,2021,12,07,00,105.7,177,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 01:00 AM,2021,12,07,01,90.3,169,Unhealthy,75.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 02:00 AM,2021,12,07,02,79.6,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 03:00 AM,2021,12,07,03,76.3,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 04:00 AM,2021,12,07,04,78.6,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 05:00 AM,2021,12,07,05,79.3,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 06:00 AM,2021,12,07,06,86.1,167,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 07:00 AM,2021,12,07,07,104.0,176,Unhealthy,122.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 08:00 AM,2021,12,07,08,117.4,183,Unhealthy,132.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 09:00 AM,2021,12,07,09,119.7,184,Unhealthy,123.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 10:00 AM,2021,12,07,10,120.8,185,Unhealthy,122.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 11:00 AM,2021,12,07,11,118.5,184,Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 12:00 PM,2021,12,07,12,115.4,182,Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 01:00 PM,2021,12,07,13,112.8,181,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 02:00 PM,2021,12,07,14,103.2,176,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 03:00 PM,2021,12,07,15,100.0,174,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 04:00 PM,2021,12,07,16,96.4,172,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 05:00 PM,2021,12,07,17,98.6,173,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 06:00 PM,2021,12,07,18,106.9,178,Unhealthy,125.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 07:00 PM,2021,12,07,19,118.3,183,Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 08:00 PM,2021,12,07,20,115.7,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 09:00 PM,2021,12,07,21,113.0,181,Unhealthy,108.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 10:00 PM,2021,12,07,22,102.7,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-07 11:00 PM,2021,12,07,23,79.2,163,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 12:00 AM,2021,12,08,00,64.1,155,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 01:00 AM,2021,12,08,01,53.5,145,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 02:00 AM,2021,12,08,02,45.7,126,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 03:00 AM,2021,12,08,03,42.3,118,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 04:00 AM,2021,12,08,04,42.6,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 05:00 AM,2021,12,08,05,48.8,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 06:00 AM,2021,12,08,06,62.9,155,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 07:00 AM,2021,12,08,07,92.9,170,Unhealthy,123.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 08:00 AM,2021,12,08,08,121.4,185,Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 09:00 AM,2021,12,08,09,137.2,193,Unhealthy,153.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 10:00 AM,2021,12,08,10,140.6,195,Unhealthy,144.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 11:00 AM,2021,12,08,11,134.8,192,Unhealthy,129.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 12:00 PM,2021,12,08,12,120.4,185,Unhealthy,106.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 01:00 PM,2021,12,08,13,110.2,179,Unhealthy,100.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 02:00 PM,2021,12,08,14,98.6,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 03:00 PM,2021,12,08,15,87.8,168,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 04:00 PM,2021,12,08,16,89.4,169,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 05:00 PM,2021,12,08,17,102.6,175,Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 06:00 PM,2021,12,08,18,145.8,198,Unhealthy,189.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 07:00 PM,2021,12,08,19,212.9,263,Very Unhealthy,280.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 08:00 PM,2021,12,08,20,230.9,281,Very Unhealthy,249.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 09:00 PM,2021,12,08,21,264.0,314,Hazardous,297.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 10:00 PM,2021,12,08,22,302.0,352,Hazardous,340.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-08 11:00 PM,2021,12,08,23,590.1,559,Hazardous,878.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 12:00 AM,2021,12,09,00,590.2,559,Hazardous,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-09 01:00 AM,2021,12,09,01,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-09 02:00 AM,2021,12,09,02,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-09 03:00 AM,2021,12,09,03,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-09 04:00 AM,2021,12,09,04,-999.0,-999,N/A,866.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 05:00 AM,2021,12,09,05,764.5,674,Hazardous,719.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 06:00 AM,2021,12,09,06,676.5,616,Hazardous,609.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 07:00 AM,2021,12,09,07,637.5,591,Hazardous,603.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 08:00 AM,2021,12,09,08,582.1,554,Hazardous,530.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 09:00 AM,2021,12,09,09,508.5,505,Hazardous,437.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 10:00 AM,2021,12,09,10,418.6,446,Hazardous,330.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 11:00 AM,2021,12,09,11,343.4,393,Hazardous,269.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 12:00 PM,2021,12,09,12,290.1,340,Hazardous,237.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 01:00 PM,2021,12,09,13,244.5,294,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 02:00 PM,2021,12,09,14,214.7,265,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 03:00 PM,2021,12,09,15,203.3,253,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 04:00 PM,2021,12,09,16,186.0,236,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 05:00 PM,2021,12,09,17,178.4,229,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 06:00 PM,2021,12,09,18,251.2,302,Hazardous,324.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 07:00 PM,2021,12,09,19,359.0,407,Hazardous,467.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 08:00 PM,2021,12,09,20,341.0,391,Hazardous,323.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 09:00 PM,2021,12,09,21,281.4,332,Hazardous,222.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 10:00 PM,2021,12,09,22,226.7,277,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-09 11:00 PM,2021,12,09,23,181.3,232,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 12:00 AM,2021,12,10,00,148.6,199,Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 01:00 AM,2021,12,10,01,119.8,184,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 02:00 AM,2021,12,10,02,102.8,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 03:00 AM,2021,12,10,03,99.4,174,Unhealthy,96.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 04:00 AM,2021,12,10,04,98.7,173,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 05:00 AM,2021,12,10,05,131.8,190,Unhealthy,165.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 06:00 AM,2021,12,10,06,139.9,195,Unhealthy,148.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 07:00 AM,2021,12,10,07,196.4,246,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 08:00 AM,2021,12,10,08,265.7,316,Hazardous,335.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 09:00 AM,2021,12,10,09,275.8,326,Hazardous,286.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 10:00 AM,2021,12,10,10,273.9,324,Hazardous,272.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 11:00 AM,2021,12,10,11,268.4,319,Hazardous,263.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 12:00 PM,2021,12,10,12,251.2,302,Hazardous,234.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 01:00 PM,2021,12,10,13,217.1,267,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 02:00 PM,2021,12,10,14,171.0,221,Very Unhealthy,125.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 03:00 PM,2021,12,10,15,140.5,195,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 04:00 PM,2021,12,10,16,121.7,185,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 05:00 PM,2021,12,10,17,116.3,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 06:00 PM,2021,12,10,18,154.1,205,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 07:00 PM,2021,12,10,19,290.6,341,Hazardous,427.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 08:00 PM,2021,12,10,20,280.8,331,Hazardous,271.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 09:00 PM,2021,12,10,21,184.3,234,Very Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 10:00 PM,2021,12,10,22,124.1,186,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-10 11:00 PM,2021,12,10,23,88.0,168,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 12:00 AM,2021,12,11,00,67.5,157,Unhealthy,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 01:00 AM,2021,12,11,01,53.2,145,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 02:00 AM,2021,12,11,02,45.1,125,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 03:00 AM,2021,12,11,03,41.5,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 04:00 AM,2021,12,11,04,39.2,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 05:00 AM,2021,12,11,05,39.6,111,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 06:00 AM,2021,12,11,06,47.7,131,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 07:00 AM,2021,12,11,07,82.8,165,Unhealthy,118.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 08:00 AM,2021,12,11,08,99.9,174,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 09:00 AM,2021,12,11,09,91.4,170,Unhealthy,83.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 10:00 AM,2021,12,11,10,76.7,162,Unhealthy,62.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 11:00 AM,2021,12,11,11,64.8,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 12:00 PM,2021,12,11,12,58.4,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 01:00 PM,2021,12,11,13,138.7,194,Unhealthy,219.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 02:00 PM,2021,12,11,14,141.3,195,Unhealthy,144.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 03:00 PM,2021,12,11,15,131.2,190,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 04:00 PM,2021,12,11,16,120.6,185,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 05:00 PM,2021,12,11,17,109.3,179,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 06:00 PM,2021,12,11,18,151.1,202,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 07:00 PM,2021,12,11,19,301.6,352,Hazardous,452.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 08:00 PM,2021,12,11,20,346.3,396,Hazardous,391.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 09:00 PM,2021,12,11,21,281.6,332,Hazardous,217.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 10:00 PM,2021,12,11,22,194.3,244,Very Unhealthy,107.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-11 11:00 PM,2021,12,11,23,194.3,244,Very Unhealthy,443.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-12 12:00 AM,2021,12,12,00,97.4,173,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 01:00 AM,2021,12,12,01,60.5,154,Unhealthy,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 02:00 AM,2021,12,12,02,45.3,125,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 03:00 AM,2021,12,12,03,37.4,106,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 04:00 AM,2021,12,12,04,36.1,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 05:00 AM,2021,12,12,05,37.0,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 06:00 AM,2021,12,12,06,42.5,118,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 07:00 AM,2021,12,12,07,97.8,173,Unhealthy,153.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 08:00 AM,2021,12,12,08,87.8,168,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 09:00 AM,2021,12,12,09,83.4,165,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 10:00 AM,2021,12,12,10,108.2,178,Unhealthy,133.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 11:00 AM,2021,12,12,11,82.6,165,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 12:00 PM,2021,12,12,12,84.3,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 01:00 PM,2021,12,12,13,62.1,154,Unhealthy,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 02:00 PM,2021,12,12,14,48.0,132,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 03:00 PM,2021,12,12,15,43.0,119,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 04:00 PM,2021,12,12,16,38.5,108,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 05:00 PM,2021,12,12,17,46.7,129,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 06:00 PM,2021,12,12,18,107.3,178,Unhealthy,168.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 07:00 PM,2021,12,12,19,218.2,268,Very Unhealthy,329.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 08:00 PM,2021,12,12,20,174.1,224,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 09:00 PM,2021,12,12,21,125.5,187,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 10:00 PM,2021,12,12,22,104.7,176,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-12 11:00 PM,2021,12,12,23,78.8,163,Unhealthy,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 12:00 AM,2021,12,13,00,61.9,154,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 01:00 AM,2021,12,13,01,47.4,130,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 02:00 AM,2021,12,13,02,37.2,105,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 03:00 AM,2021,12,13,03,35.1,99,Moderate,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 04:00 AM,2021,12,13,04,32.5,94,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 05:00 AM,2021,12,13,05,30.2,89,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 06:00 AM,2021,12,13,06,33.1,95,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 07:00 AM,2021,12,13,07,63.5,155,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 08:00 AM,2021,12,13,08,80.7,164,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 09:00 AM,2021,12,13,09,70.3,159,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 10:00 AM,2021,12,13,10,64.6,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 11:00 AM,2021,12,13,11,51.3,140,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 12:00 PM,2021,12,13,12,43.1,120,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 01:00 PM,2021,12,13,13,34.0,97,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 02:00 PM,2021,12,13,14,128.0,188,Unhealthy,222.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 03:00 PM,2021,12,13,15,162.5,213,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 04:00 PM,2021,12,13,16,196.8,247,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 05:00 PM,2021,12,13,17,154.4,205,Very Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 06:00 PM,2021,12,13,18,143.2,196,Unhealthy,132.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 07:00 PM,2021,12,13,19,158.1,209,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 08:00 PM,2021,12,13,20,148.5,199,Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 09:00 PM,2021,12,13,21,145.7,198,Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 10:00 PM,2021,12,13,22,120.4,185,Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-13 11:00 PM,2021,12,13,23,100.2,174,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 12:00 AM,2021,12,14,00,87.1,167,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 01:00 AM,2021,12,14,01,74.5,161,Unhealthy,62.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 02:00 AM,2021,12,14,02,67.2,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 03:00 AM,2021,12,14,03,67.2,157,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2021-12-14 09:00 AM,2021,12,14,09,-999.0,-999,N/A,131.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 10:00 AM,2021,12,14,10,116.7,183,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 11:00 AM,2021,12,14,11,109.4,179,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 12:00 PM,2021,12,14,12,97.5,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 01:00 PM,2021,12,14,13,84.8,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 02:00 PM,2021,12,14,14,81.8,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 03:00 PM,2021,12,14,15,72.6,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 04:00 PM,2021,12,14,16,69.8,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 05:00 PM,2021,12,14,17,59.3,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 06:00 PM,2021,12,14,18,87.7,168,Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 07:00 PM,2021,12,14,19,115.3,182,Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 08:00 PM,2021,12,14,20,109.1,179,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 09:00 PM,2021,12,14,21,100.0,174,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 10:00 PM,2021,12,14,22,89.0,168,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-14 11:00 PM,2021,12,14,23,107.5,178,Unhealthy,126.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 12:00 AM,2021,12,15,00,199.2,249,Very Unhealthy,291.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 01:00 AM,2021,12,15,01,287.1,337,Hazardous,375.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 02:00 AM,2021,12,15,02,588.1,558,Hazardous,889.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2021-12-15 03:00 AM,2021,12,15,03,588.3,558,Hazardous,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-15 04:00 AM,2021,12,15,04,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-15 05:00 AM,2021,12,15,05,-999.0,-999,N/A,985.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-15 06:00 AM,2021,12,15,06,-999.0,-999,N/A,974.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2021-12-15 07:00 AM,2021,12,15,07,880.0,751,Hazardous,851.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2021-12-15 08:00 AM,2021,12,15,08,761.0,672,Hazardous,668.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2021-12-15 09:00 AM,2021,12,15,09,522.5,515,Hazardous,310.0,UG/M3,1 Hr,Suspect
+N'Djamena,PM2.5 - Principal,2021-12-15 10:00 AM,2021,12,15,10,351.0,401,Hazardous,189.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 11:00 AM,2021,12,15,11,245.6,295,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 12:00 PM,2021,12,15,12,184.3,234,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 01:00 PM,2021,12,15,13,146.5,198,Unhealthy,109.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 02:00 PM,2021,12,15,14,135.1,192,Unhealthy,124.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 03:00 PM,2021,12,15,15,119.0,184,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 04:00 PM,2021,12,15,16,100.5,174,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 05:00 PM,2021,12,15,17,110.7,180,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 06:00 PM,2021,12,15,18,109.7,179,Unhealthy,109.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 07:00 PM,2021,12,15,19,129.3,189,Unhealthy,149.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 08:00 PM,2021,12,15,20,128.5,189,Unhealthy,128.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 09:00 PM,2021,12,15,21,130.7,190,Unhealthy,133.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 10:00 PM,2021,12,15,22,111.9,180,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-15 11:00 PM,2021,12,15,23,114.2,181,Unhealthy,117.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 12:00 AM,2021,12,16,00,187.8,238,Very Unhealthy,262.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 01:00 AM,2021,12,16,01,361.9,409,Hazardous,536.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 02:00 AM,2021,12,16,02,579.0,552,Hazardous,796.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 03:00 AM,2021,12,16,03,579.1,552,Hazardous,935.0,UG/M3,1 Hr,Invalid
+N'Djamena,PM2.5 - Principal,2021-12-16 04:00 AM,2021,12,16,04,787.8,690,Hazardous,892.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 05:00 AM,2021,12,16,05,828.6,717,Hazardous,859.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 06:00 AM,2021,12,16,06,827.8,716,Hazardous,827.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 07:00 AM,2021,12,16,07,748.5,664,Hazardous,674.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 08:00 AM,2021,12,16,08,569.9,546,Hazardous,397.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 09:00 AM,2021,12,16,09,359.3,407,Hazardous,152.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 10:00 AM,2021,12,16,10,232.1,282,Very Unhealthy,106.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 11:00 AM,2021,12,16,11,150.9,201,Very Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 12:00 PM,2021,12,16,12,105.3,177,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 01:00 PM,2021,12,16,13,78.1,163,Unhealthy,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 02:00 PM,2021,12,16,14,63.4,155,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 03:00 PM,2021,12,16,15,53.7,146,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 04:00 PM,2021,12,16,16,51.2,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 05:00 PM,2021,12,16,17,49.0,134,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 06:00 PM,2021,12,16,18,67.4,157,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 07:00 PM,2021,12,16,19,90.1,169,Unhealthy,113.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 08:00 PM,2021,12,16,20,80.0,164,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 09:00 PM,2021,12,16,21,81.5,164,Unhealthy,83.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 10:00 PM,2021,12,16,22,84.2,166,Unhealthy,87.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-16 11:00 PM,2021,12,16,23,64.6,156,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 12:00 AM,2021,12,17,00,62.8,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 01:00 AM,2021,12,17,01,61.9,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 02:00 AM,2021,12,17,02,94.9,171,Unhealthy,128.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 03:00 AM,2021,12,17,03,108.4,178,Unhealthy,122.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 04:00 AM,2021,12,17,04,136.2,193,Unhealthy,164.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 05:00 AM,2021,12,17,05,165.1,215,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 06:00 AM,2021,12,17,06,167.0,217,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 07:00 AM,2021,12,17,07,170.0,220,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 08:00 AM,2021,12,17,08,173.5,224,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 09:00 AM,2021,12,17,09,138.7,194,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 10:00 AM,2021,12,17,10,106.3,177,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 11:00 AM,2021,12,17,11,82.6,165,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 12:00 PM,2021,12,17,12,70.8,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 01:00 PM,2021,12,17,13,64.9,156,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 02:00 PM,2021,12,17,14,61.9,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 03:00 PM,2021,12,17,15,326.5,376,Hazardous,591.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 04:00 PM,2021,12,17,16,358.2,406,Hazardous,390.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 05:00 PM,2021,12,17,17,299.1,349,Hazardous,240.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 06:00 PM,2021,12,17,18,255.5,306,Hazardous,212.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 07:00 PM,2021,12,17,19,217.7,268,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 08:00 PM,2021,12,17,20,162.8,213,Very Unhealthy,108.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 09:00 PM,2021,12,17,21,122.9,186,Unhealthy,83.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 10:00 PM,2021,12,17,22,109.9,179,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-17 11:00 PM,2021,12,17,23,178.5,229,Very Unhealthy,247.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 12:00 AM,2021,12,18,00,231.2,281,Very Unhealthy,284.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 01:00 AM,2021,12,18,01,300.6,351,Hazardous,370.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 02:00 AM,2021,12,18,02,324.8,375,Hazardous,349.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 03:00 AM,2021,12,18,03,317.9,368,Hazardous,311.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 04:00 AM,2021,12,18,04,345.4,395,Hazardous,373.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 05:00 AM,2021,12,18,05,365.2,411,Hazardous,385.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 06:00 AM,2021,12,18,06,363.1,409,Hazardous,361.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 07:00 AM,2021,12,18,07,349.0,399,Hazardous,335.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 08:00 AM,2021,12,18,08,326.0,376,Hazardous,303.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 09:00 AM,2021,12,18,09,265.0,315,Hazardous,204.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 10:00 AM,2021,12,18,10,198.0,248,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 11:00 AM,2021,12,18,11,148.4,199,Unhealthy,99.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 12:00 PM,2021,12,18,12,118.7,184,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 01:00 PM,2021,12,18,13,100.3,174,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 02:00 PM,2021,12,18,14,93.1,170,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 03:00 PM,2021,12,18,15,90.5,169,Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 04:00 PM,2021,12,18,16,97.2,173,Unhealthy,104.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 05:00 PM,2021,12,18,17,94.0,171,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 06:00 PM,2021,12,18,18,107.5,178,Unhealthy,121.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 07:00 PM,2021,12,18,19,140.2,195,Unhealthy,173.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 08:00 PM,2021,12,18,20,145.0,197,Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 09:00 PM,2021,12,18,21,125.0,187,Unhealthy,105.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 10:00 PM,2021,12,18,22,117.5,183,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-18 11:00 PM,2021,12,18,23,137.7,193,Unhealthy,158.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 12:00 AM,2021,12,19,00,202.4,252,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 01:00 AM,2021,12,19,01,256.7,307,Hazardous,311.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 02:00 AM,2021,12,19,02,332.4,382,Hazardous,408.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 03:00 AM,2021,12,19,03,365.2,411,Hazardous,398.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 04:00 AM,2021,12,19,04,351.1,401,Hazardous,337.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 05:00 AM,2021,12,19,05,297.0,347,Hazardous,243.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 06:00 AM,2021,12,19,06,241.5,291,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 07:00 AM,2021,12,19,07,208.7,259,Very Unhealthy,176.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 08:00 AM,2021,12,19,08,176.8,227,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 09:00 AM,2021,12,19,09,143.4,196,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 10:00 AM,2021,12,19,10,116.7,183,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 11:00 AM,2021,12,19,11,97.8,173,Unhealthy,79.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 12:00 PM,2021,12,19,12,89.9,169,Unhealthy,82.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 01:00 PM,2021,12,19,13,82.9,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 02:00 PM,2021,12,19,14,86.9,167,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 03:00 PM,2021,12,19,15,80.9,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 04:00 PM,2021,12,19,16,72.9,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 05:00 PM,2021,12,19,17,73.4,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 06:00 PM,2021,12,19,18,83.2,165,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 07:00 PM,2021,12,19,19,98.0,173,Unhealthy,113.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 08:00 PM,2021,12,19,20,94.3,171,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 09:00 PM,2021,12,19,21,87.3,167,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 10:00 PM,2021,12,19,22,77.1,162,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-19 11:00 PM,2021,12,19,23,60.1,153,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 12:00 AM,2021,12,20,00,52.5,143,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 01:00 AM,2021,12,20,01,44.2,122,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 02:00 AM,2021,12,20,02,42.1,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 03:00 AM,2021,12,20,03,39.0,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 04:00 AM,2021,12,20,04,39.0,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 05:00 AM,2021,12,20,05,40.5,113,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 06:00 AM,2021,12,20,06,44.7,124,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 07:00 AM,2021,12,20,07,68.3,158,Unhealthy,92.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 08:00 AM,2021,12,20,08,79.1,163,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 09:00 AM,2021,12,20,09,81.0,164,Unhealthy,83.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 10:00 AM,2021,12,20,10,76.0,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 11:00 AM,2021,12,20,11,70.0,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 12:00 PM,2021,12,20,12,63.0,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 01:00 PM,2021,12,20,13,59.0,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 02:00 PM,2021,12,20,14,58.5,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 03:00 PM,2021,12,20,15,54.2,147,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 04:00 PM,2021,12,20,16,52.1,142,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 05:00 PM,2021,12,20,17,53.6,146,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 06:00 PM,2021,12,20,18,65.7,156,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 07:00 PM,2021,12,20,19,98.3,173,Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 08:00 PM,2021,12,20,20,100.2,174,Unhealthy,102.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 09:00 PM,2021,12,20,21,95.1,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 10:00 PM,2021,12,20,22,82.5,165,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-20 11:00 PM,2021,12,20,23,133.7,191,Unhealthy,185.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 12:00 AM,2021,12,21,00,204.9,255,Very Unhealthy,276.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 01:00 AM,2021,12,21,01,323.0,373,Hazardous,441.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 02:00 AM,2021,12,21,02,460.5,474,Hazardous,598.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 03:00 AM,2021,12,21,03,550.8,533,Hazardous,641.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 04:00 AM,2021,12,21,04,538.4,525,Hazardous,526.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 05:00 AM,2021,12,21,05,464.2,476,Hazardous,390.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 06:00 AM,2021,12,21,06,365.1,411,Hazardous,266.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 07:00 AM,2021,12,21,07,296.0,346,Hazardous,227.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 08:00 AM,2021,12,21,08,237.0,287,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 09:00 AM,2021,12,21,09,195.0,245,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 10:00 AM,2021,12,21,10,166.0,216,Very Unhealthy,137.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 11:00 AM,2021,12,21,11,166.0,216,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2021-12-21 12:00 PM,2021,12,21,12,96.6,172,Unhealthy,62.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 01:00 PM,2021,12,21,13,74.5,161,Unhealthy,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 02:00 PM,2021,12,21,14,63.4,155,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 03:00 PM,2021,12,21,15,58.0,152,Unhealthy,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 04:00 PM,2021,12,21,16,54.8,149,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 05:00 PM,2021,12,21,17,61.4,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 06:00 PM,2021,12,21,18,75.7,161,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 07:00 PM,2021,12,21,19,93.4,171,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 08:00 PM,2021,12,21,20,97.1,172,Unhealthy,101.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 09:00 PM,2021,12,21,21,98.5,173,Unhealthy,100.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 10:00 PM,2021,12,21,22,114.7,182,Unhealthy,131.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-21 11:00 PM,2021,12,21,23,248.4,298,Very Unhealthy,382.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 12:00 AM,2021,12,22,00,432.7,455,Hazardous,617.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 01:00 AM,2021,12,22,01,485.9,490,Hazardous,539.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 02:00 AM,2021,12,22,02,461.0,474,Hazardous,436.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 03:00 AM,2021,12,22,03,408.0,439,Hazardous,355.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 04:00 AM,2021,12,22,04,342.5,392,Hazardous,277.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 05:00 AM,2021,12,22,05,281.2,331,Hazardous,220.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 06:00 AM,2021,12,22,06,249.6,299,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 07:00 AM,2021,12,22,07,244.8,294,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 08:00 AM,2021,12,22,08,240.4,290,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 09:00 AM,2021,12,22,09,213.2,263,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 10:00 AM,2021,12,22,10,180.1,230,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 11:00 AM,2021,12,22,11,150.0,200,Unhealthy,120.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 12:00 PM,2021,12,22,12,123.9,186,Unhealthy,98.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 01:00 PM,2021,12,22,13,106.4,177,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 02:00 PM,2021,12,22,14,95.1,171,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 03:00 PM,2021,12,22,15,90.5,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 04:00 PM,2021,12,22,16,87.2,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 05:00 PM,2021,12,22,17,93.6,171,Unhealthy,100.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 06:00 PM,2021,12,22,18,125.2,187,Unhealthy,157.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 07:00 PM,2021,12,22,19,157.1,208,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 08:00 PM,2021,12,22,20,162.5,213,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 09:00 PM,2021,12,22,21,140.7,195,Unhealthy,119.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 10:00 PM,2021,12,22,22,116.8,183,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-22 11:00 PM,2021,12,22,23,92.9,170,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 12:00 AM,2021,12,23,00,74.9,161,Unhealthy,57.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 01:00 AM,2021,12,23,01,66.9,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 02:00 AM,2021,12,23,02,73.4,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 03:00 AM,2021,12,23,03,117.7,183,Unhealthy,162.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 04:00 AM,2021,12,23,04,181.8,232,Very Unhealthy,246.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 05:00 AM,2021,12,23,05,247.9,298,Very Unhealthy,314.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 06:00 AM,2021,12,23,06,293.0,343,Hazardous,338.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 07:00 AM,2021,12,23,07,321.5,371,Hazardous,350.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 08:00 AM,2021,12,23,08,331.7,381,Hazardous,342.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 09:00 AM,2021,12,23,09,280.9,331,Hazardous,230.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 10:00 AM,2021,12,23,10,280.9,331,Hazardous,-999.0,UG/M3,1 Hr,Missing
+N'Djamena,PM2.5 - Principal,2021-12-23 11:00 AM,2021,12,23,11,180.3,231,Very Unhealthy,130.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 12:00 PM,2021,12,23,12,135.5,192,Unhealthy,102.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 01:00 PM,2021,12,23,13,110.7,180,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 02:00 PM,2021,12,23,14,92.8,170,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 03:00 PM,2021,12,23,15,78.6,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 04:00 PM,2021,12,23,16,66.2,157,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 05:00 PM,2021,12,23,17,103.7,176,Unhealthy,141.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 06:00 PM,2021,12,23,18,145.4,197,Unhealthy,187.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 07:00 PM,2021,12,23,19,276.3,327,Hazardous,407.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 08:00 PM,2021,12,23,20,250.1,300,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 09:00 PM,2021,12,23,21,181.0,231,Very Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 10:00 PM,2021,12,23,22,129.5,189,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-23 11:00 PM,2021,12,23,23,89.2,168,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 12:00 AM,2021,12,24,00,55.6,151,Unhealthy,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 01:00 AM,2021,12,24,01,41.2,115,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 02:00 AM,2021,12,24,02,47.1,130,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 03:00 AM,2021,12,24,03,62.5,155,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 04:00 AM,2021,12,24,04,74.2,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 05:00 AM,2021,12,24,05,81.6,164,Unhealthy,89.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 06:00 AM,2021,12,24,06,95.8,172,Unhealthy,110.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 07:00 AM,2021,12,24,07,122.8,186,Unhealthy,150.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 08:00 AM,2021,12,24,08,128.9,189,Unhealthy,135.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 09:00 AM,2021,12,24,09,98.4,173,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 10:00 AM,2021,12,24,10,73.2,160,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 11:00 AM,2021,12,24,11,59.1,153,Unhealthy,45.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 12:00 PM,2021,12,24,12,51.0,139,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 01:00 PM,2021,12,24,13,46.0,127,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 02:00 PM,2021,12,24,14,38.0,107,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 03:00 PM,2021,12,24,15,32.5,94,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 04:00 PM,2021,12,24,16,30.7,90,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 05:00 PM,2021,12,24,17,36.3,103,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 06:00 PM,2021,12,24,18,53.6,146,Unhealthy for Sensitive Groups,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 07:00 PM,2021,12,24,19,75.3,161,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 08:00 PM,2021,12,24,20,74.6,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 09:00 PM,2021,12,24,21,62.8,155,Unhealthy,51.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 10:00 PM,2021,12,24,22,56.4,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-24 11:00 PM,2021,12,24,23,49.7,136,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 12:00 AM,2021,12,25,00,38.3,108,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 01:00 AM,2021,12,25,01,34.1,97,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 02:00 AM,2021,12,25,02,37.5,106,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 03:00 AM,2021,12,25,03,43.7,121,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 04:00 AM,2021,12,25,04,59.9,153,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 05:00 AM,2021,12,25,05,88.9,168,Unhealthy,118.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 06:00 AM,2021,12,25,06,116.4,182,Unhealthy,144.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 07:00 AM,2021,12,25,07,154.7,205,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 08:00 AM,2021,12,25,08,156.8,207,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 09:00 AM,2021,12,25,09,124.9,187,Unhealthy,93.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 10:00 AM,2021,12,25,10,96.4,172,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 11:00 AM,2021,12,25,11,72.7,160,Unhealthy,49.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 12:00 PM,2021,12,25,12,55.3,150,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 01:00 PM,2021,12,25,13,45.1,125,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 02:00 PM,2021,12,25,14,40.5,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 03:00 PM,2021,12,25,15,38.2,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 04:00 PM,2021,12,25,16,35.1,99,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 05:00 PM,2021,12,25,17,36.5,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 06:00 PM,2021,12,25,18,63.2,155,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 07:00 PM,2021,12,25,19,143.1,196,Unhealthy,223.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 08:00 PM,2021,12,25,20,138.5,194,Unhealthy,134.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 09:00 PM,2021,12,25,21,103.2,176,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 10:00 PM,2021,12,25,22,78.1,163,Unhealthy,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-25 11:00 PM,2021,12,25,23,66.5,157,Unhealthy,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 12:00 AM,2021,12,26,00,68.7,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 01:00 AM,2021,12,26,01,79.9,164,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 02:00 AM,2021,12,26,02,95.4,172,Unhealthy,111.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 03:00 AM,2021,12,26,03,98.7,173,Unhealthy,102.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 04:00 AM,2021,12,26,04,89.8,169,Unhealthy,81.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 05:00 AM,2021,12,26,05,79.9,164,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 06:00 AM,2021,12,26,06,77.9,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 07:00 AM,2021,12,26,07,98.9,173,Unhealthy,120.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 08:00 AM,2021,12,26,08,118.9,184,Unhealthy,139.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 09:00 AM,2021,12,26,09,117.4,183,Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 10:00 AM,2021,12,26,10,105.7,177,Unhealthy,94.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 11:00 AM,2021,12,26,11,90.0,169,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 12:00 PM,2021,12,26,12,76.4,162,Unhealthy,63.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 01:00 PM,2021,12,26,13,61.7,154,Unhealthy,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 02:00 PM,2021,12,26,14,50.3,137,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 03:00 PM,2021,12,26,15,42.6,118,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 04:00 PM,2021,12,26,16,36.8,104,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 05:00 PM,2021,12,26,17,34.4,98,Moderate,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 06:00 PM,2021,12,26,18,55.7,151,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 07:00 PM,2021,12,26,19,105.8,177,Unhealthy,156.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 08:00 PM,2021,12,26,20,95.9,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 09:00 PM,2021,12,26,21,74.9,161,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 10:00 PM,2021,12,26,22,53.4,145,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-26 11:00 PM,2021,12,26,23,40.2,113,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 12:00 AM,2021,12,27,00,33.6,96,Moderate,27.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 01:00 AM,2021,12,27,01,28.8,86,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 02:00 AM,2021,12,27,02,25.3,79,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 03:00 AM,2021,12,27,03,27.6,84,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 04:00 AM,2021,12,27,04,25.3,79,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 05:00 AM,2021,12,27,05,36.1,102,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 06:00 AM,2021,12,27,06,35.0,99,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 07:00 AM,2021,12,27,07,50.5,138,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 08:00 AM,2021,12,27,08,78.2,163,Unhealthy,106.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 09:00 AM,2021,12,27,09,90.6,169,Unhealthy,103.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 10:00 AM,2021,12,27,10,90.3,169,Unhealthy,90.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 11:00 AM,2021,12,27,11,84.1,166,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 12:00 PM,2021,12,27,12,77.0,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 01:00 PM,2021,12,27,13,69.0,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 02:00 PM,2021,12,27,14,59.5,153,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 03:00 PM,2021,12,27,15,49.7,136,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 04:00 PM,2021,12,27,16,44.3,123,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 05:00 PM,2021,12,27,17,46.1,127,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 06:00 PM,2021,12,27,18,56.6,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 07:00 PM,2021,12,27,19,67.3,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 08:00 PM,2021,12,27,20,70.6,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 09:00 PM,2021,12,27,21,67.3,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 10:00 PM,2021,12,27,22,54.1,147,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-27 11:00 PM,2021,12,27,23,43.0,119,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 12:00 AM,2021,12,28,00,33.5,96,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 01:00 AM,2021,12,28,01,31.7,92,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 02:00 AM,2021,12,28,02,44.8,124,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 03:00 AM,2021,12,28,03,56.4,151,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 04:00 AM,2021,12,28,04,63.2,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 05:00 AM,2021,12,28,05,64.1,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 06:00 AM,2021,12,28,06,70.5,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 07:00 AM,2021,12,28,07,103.7,176,Unhealthy,137.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 08:00 AM,2021,12,28,08,124.9,187,Unhealthy,146.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 09:00 AM,2021,12,28,09,106.4,177,Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 10:00 AM,2021,12,28,10,89.2,168,Unhealthy,72.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 11:00 AM,2021,12,28,11,79.1,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 12:00 PM,2021,12,28,12,64.5,156,Unhealthy,50.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 01:00 PM,2021,12,28,13,56.2,151,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 02:00 PM,2021,12,28,14,47.6,131,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 03:00 PM,2021,12,28,15,44.8,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 04:00 PM,2021,12,28,16,39.9,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 05:00 PM,2021,12,28,17,39.9,112,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 06:00 PM,2021,12,28,18,59.9,153,Unhealthy,80.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 07:00 PM,2021,12,28,19,82.9,165,Unhealthy,106.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 08:00 PM,2021,12,28,20,85.4,166,Unhealthy,88.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 09:00 PM,2021,12,28,21,77.2,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 10:00 PM,2021,12,28,22,66.1,156,Unhealthy,55.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-28 11:00 PM,2021,12,28,23,52.0,142,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 12:00 AM,2021,12,29,00,42.5,118,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 01:00 AM,2021,12,29,01,35.7,101,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 02:00 AM,2021,12,29,02,34.8,99,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 03:00 AM,2021,12,29,03,36.4,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 04:00 AM,2021,12,29,04,39.2,110,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 05:00 AM,2021,12,29,05,46.1,127,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 06:00 AM,2021,12,29,06,55.5,151,Unhealthy,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 07:00 AM,2021,12,29,07,80.7,164,Unhealthy,106.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 08:00 AM,2021,12,29,08,109.3,179,Unhealthy,138.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 09:00 AM,2021,12,29,09,104.2,176,Unhealthy,99.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 10:00 AM,2021,12,29,10,89.1,168,Unhealthy,74.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 11:00 AM,2021,12,29,11,74.5,161,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 12:00 PM,2021,12,29,12,59.2,153,Unhealthy,44.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 01:00 PM,2021,12,29,13,47.1,130,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 02:00 PM,2021,12,29,14,35.5,101,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 03:00 PM,2021,12,29,15,31.7,92,Moderate,28.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 04:00 PM,2021,12,29,16,28.3,85,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 05:00 PM,2021,12,29,17,32.1,93,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 06:00 PM,2021,12,29,18,48.5,133,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 07:00 PM,2021,12,29,19,139.3,194,Unhealthy,230.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 08:00 PM,2021,12,29,20,128.6,189,Unhealthy,118.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 09:00 PM,2021,12,29,21,112.3,180,Unhealthy,96.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 10:00 PM,2021,12,29,22,90.1,169,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-29 11:00 PM,2021,12,29,23,75.0,161,Unhealthy,60.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 12:00 AM,2021,12,30,00,55.5,151,Unhealthy,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 01:00 AM,2021,12,30,01,45.7,126,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 02:00 AM,2021,12,30,02,38.8,109,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 03:00 AM,2021,12,30,03,33.9,97,Moderate,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 04:00 AM,2021,12,30,04,32.4,94,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 05:00 AM,2021,12,30,05,33.2,95,Moderate,34.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 06:00 AM,2021,12,30,06,34.6,98,Moderate,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 07:00 AM,2021,12,30,07,56.2,151,Unhealthy,78.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 08:00 AM,2021,12,30,08,84.1,166,Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 09:00 AM,2021,12,30,09,69.0,158,Unhealthy,54.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 10:00 AM,2021,12,30,10,58.5,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 11:00 AM,2021,12,30,11,47.2,130,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 12:00 PM,2021,12,30,12,36.1,102,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 01:00 PM,2021,12,30,13,29.0,87,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 02:00 PM,2021,12,30,14,26.5,81,Moderate,24.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 03:00 PM,2021,12,30,15,23.2,74,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 04:00 PM,2021,12,30,16,22.6,73,Moderate,22.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 05:00 PM,2021,12,30,17,26.8,82,Moderate,31.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 06:00 PM,2021,12,30,18,71.4,159,Unhealthy,116.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 07:00 PM,2021,12,30,19,189.7,240,Very Unhealthy,308.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 08:00 PM,2021,12,30,20,150.8,201,Very Unhealthy,112.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 09:00 PM,2021,12,30,21,109.9,179,Unhealthy,69.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 10:00 PM,2021,12,30,22,85.4,166,Unhealthy,61.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-30 11:00 PM,2021,12,30,23,74.7,161,Unhealthy,64.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 12:00 AM,2021,12,31,00,57.3,152,Unhealthy,40.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 01:00 AM,2021,12,31,01,43.1,120,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 02:00 AM,2021,12,31,02,31.5,92,Moderate,20.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 03:00 AM,2021,12,31,03,23.7,75,Moderate,16.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 04:00 AM,2021,12,31,04,17.8,63,Moderate,12.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 05:00 AM,2021,12,31,05,17.4,62,Moderate,17.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 06:00 AM,2021,12,31,06,21.2,70,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 07:00 AM,2021,12,31,07,59.0,153,Unhealthy,97.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 08:00 AM,2021,12,31,08,79.5,163,Unhealthy,100.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 09:00 AM,2021,12,31,09,73.7,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 10:00 AM,2021,12,31,10,60.8,154,Unhealthy,48.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 11:00 AM,2021,12,31,11,50.9,139,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 12:00 PM,2021,12,31,12,39.9,112,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 01:00 PM,2021,12,31,13,32.4,94,Moderate,25.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 02:00 PM,2021,12,31,14,26.7,82,Moderate,21.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 03:00 PM,2021,12,31,15,24.8,78,Moderate,23.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 04:00 PM,2021,12,31,16,21.4,71,Moderate,18.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 05:00 PM,2021,12,31,17,25.7,80,Moderate,30.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 06:00 PM,2021,12,31,18,60.3,153,Unhealthy,95.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 07:00 PM,2021,12,31,19,161.2,212,Very Unhealthy,262.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 08:00 PM,2021,12,31,20,181.1,231,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 09:00 PM,2021,12,31,21,159.5,210,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 10:00 PM,2021,12,31,22,125.2,187,Unhealthy,91.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2021-12-31 11:00 PM,2021,12,31,23,81.6,164,Unhealthy,38.0,UG/M3,1 Hr,Valid
+N'Djamena,PM2.5 - Principal,2022-01-01 12:00 AM,2022,01,01,00,54.3,147,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid

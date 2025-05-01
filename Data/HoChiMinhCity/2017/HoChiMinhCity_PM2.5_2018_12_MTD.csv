@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 01:00 AM,2017,12,01,01,30.5,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 02:00 AM,2017,12,01,02,30.2,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 03:00 AM,2017,12,01,03,24.6,77,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 04:00 AM,2017,12,01,04,29.8,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 05:00 AM,2017,12,01,05,39.9,112,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 06:00 AM,2017,12,01,06,37.4,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 07:00 AM,2017,12,01,07,32.7,94,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 08:00 AM,2017,12,01,08,36.8,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 09:00 AM,2017,12,01,09,46.9,129,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 10:00 AM,2017,12,01,10,53.4,145,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 11:00 AM,2017,12,01,11,55.2,150,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 12:00 PM,2017,12,01,12,57.6,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 01:00 PM,2017,12,01,13,49.8,136,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 02:00 PM,2017,12,01,14,40.9,114,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 03:00 PM,2017,12,01,15,34.9,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 04:00 PM,2017,12,01,16,34.4,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 05:00 PM,2017,12,01,17,36.7,104,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 06:00 PM,2017,12,01,18,41.3,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 07:00 PM,2017,12,01,19,43.1,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 08:00 PM,2017,12,01,20,52.5,143,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 09:00 PM,2017,12,01,21,55.7,151,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 10:00 PM,2017,12,01,22,62.9,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-01 11:00 PM,2017,12,01,23,53.4,145,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 12:00 AM,2017,12,02,00,53.2,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 01:00 AM,2017,12,02,01,42.1,117,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 02:00 AM,2017,12,02,02,34.5,98,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 03:00 AM,2017,12,02,03,26.2,81,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 04:00 AM,2017,12,02,04,18.6,65,Moderate,11.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 05:00 AM,2017,12,02,05,24.3,77,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 06:00 AM,2017,12,02,06,25.6,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 07:00 AM,2017,12,02,07,32.3,93,Moderate,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 08:00 AM,2017,12,02,08,33.6,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 09:00 AM,2017,12,02,09,48.3,133,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 10:00 AM,2017,12,02,10,57.1,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 11:00 AM,2017,12,02,11,62.0,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 12:00 PM,2017,12,02,12,54.0,147,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 01:00 PM,2017,12,02,13,38.5,108,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 02:00 PM,2017,12,02,14,33.7,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 03:00 PM,2017,12,02,15,31.8,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 04:00 PM,2017,12,02,16,35.4,100,Moderate,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 05:00 PM,2017,12,02,17,44.7,124,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 06:00 PM,2017,12,02,18,49.3,135,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 07:00 PM,2017,12,02,19,48.1,132,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 08:00 PM,2017,12,02,20,39.5,111,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 09:00 PM,2017,12,02,21,36.2,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 10:00 PM,2017,12,02,22,32.1,93,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-02 11:00 PM,2017,12,02,23,33.5,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 12:00 AM,2017,12,03,00,43.7,121,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 01:00 AM,2017,12,03,01,38.4,108,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 02:00 AM,2017,12,03,02,34.8,99,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 03:00 AM,2017,12,03,03,36.3,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 04:00 AM,2017,12,03,04,50.1,137,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 05:00 AM,2017,12,03,05,44.0,122,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 06:00 AM,2017,12,03,06,51.0,139,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 07:00 AM,2017,12,03,07,53.5,145,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 08:00 AM,2017,12,03,08,53.7,146,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 09:00 AM,2017,12,03,09,51.3,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 10:00 AM,2017,12,03,10,54.6,148,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 11:00 AM,2017,12,03,11,40.3,113,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 12:00 PM,2017,12,03,12,36.1,102,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 01:00 PM,2017,12,03,13,30.0,89,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 02:00 PM,2017,12,03,14,25.5,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 03:00 PM,2017,12,03,15,26.2,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 04:00 PM,2017,12,03,16,25.6,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 05:00 PM,2017,12,03,17,28.3,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 06:00 PM,2017,12,03,18,30.1,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 07:00 PM,2017,12,03,19,28.0,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 08:00 PM,2017,12,03,20,30.0,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 09:00 PM,2017,12,03,21,34.5,98,Moderate,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 10:00 PM,2017,12,03,22,22.7,73,Moderate,11.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-03 11:00 PM,2017,12,03,23,26.8,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 12:00 AM,2017,12,04,00,31.9,93,Moderate,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 01:00 AM,2017,12,04,01,33.9,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 02:00 AM,2017,12,04,02,38.9,109,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 03:00 AM,2017,12,04,03,31.4,92,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 04:00 AM,2017,12,04,04,31.2,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 05:00 AM,2017,12,04,05,31.1,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 06:00 AM,2017,12,04,06,38.5,108,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 07:00 AM,2017,12,04,07,36.7,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 08:00 AM,2017,12,04,08,34.8,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 09:00 AM,2017,12,04,09,30.9,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 10:00 AM,2017,12,04,10,22.9,74,Moderate,15.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 11:00 AM,2017,12,04,11,25.4,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 12:00 PM,2017,12,04,12,36.2,103,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 01:00 PM,2017,12,04,13,31.1,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 02:00 PM,2017,12,04,14,24.0,76,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 03:00 PM,2017,12,04,15,27.5,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 04:00 PM,2017,12,04,16,29.2,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 05:00 PM,2017,12,04,17,22.6,73,Moderate,16.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 06:00 PM,2017,12,04,18,26.8,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 07:00 PM,2017,12,04,19,22.4,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 08:00 PM,2017,12,04,20,30.7,90,Moderate,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 09:00 PM,2017,12,04,21,30.3,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 10:00 PM,2017,12,04,22,27.6,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-04 11:00 PM,2017,12,04,23,29.3,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 12:00 AM,2017,12,05,00,24.1,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 01:00 AM,2017,12,05,01,23.5,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 02:00 AM,2017,12,05,02,37.7,106,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 03:00 AM,2017,12,05,03,47.4,130,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 04:00 AM,2017,12,05,04,49.7,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 05:00 AM,2017,12,05,05,43.8,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 06:00 AM,2017,12,05,06,44.9,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 07:00 AM,2017,12,05,07,55.9,151,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 08:00 AM,2017,12,05,08,53.9,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 09:00 AM,2017,12,05,09,59.9,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 10:00 AM,2017,12,05,10,62.5,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 11:00 AM,2017,12,05,11,58.2,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 12:00 PM,2017,12,05,12,50.1,137,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 01:00 PM,2017,12,05,13,41.0,115,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 02:00 PM,2017,12,05,14,42.0,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 03:00 PM,2017,12,05,15,51.5,140,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 04:00 PM,2017,12,05,16,49.2,135,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 05:00 PM,2017,12,05,17,37.1,105,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 06:00 PM,2017,12,05,18,28.5,85,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 07:00 PM,2017,12,05,19,33.2,95,Moderate,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 08:00 PM,2017,12,05,20,34.6,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 09:00 PM,2017,12,05,21,46.8,129,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 10:00 PM,2017,12,05,22,40.9,114,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-05 11:00 PM,2017,12,05,23,37.4,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 12:00 AM,2017,12,06,00,43.7,121,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 01:00 AM,2017,12,06,01,41.8,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 02:00 AM,2017,12,06,02,38.4,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 03:00 AM,2017,12,06,03,42.7,119,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 04:00 AM,2017,12,06,04,40.3,113,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 05:00 AM,2017,12,06,05,48.6,133,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 06:00 AM,2017,12,06,06,60.3,153,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 07:00 AM,2017,12,06,07,64.6,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 08:00 AM,2017,12,06,08,72.8,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 09:00 AM,2017,12,06,09,72.8,160,Unhealthy,985.0,UG/M3,1 Hr,Invalid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 10:00 AM,2017,12,06,10,95.6,172,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 11:00 AM,2017,12,06,11,94.7,171,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 12:00 PM,2017,12,06,12,79.3,163,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 01:00 PM,2017,12,06,13,71.4,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 02:00 PM,2017,12,06,14,63.6,155,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 03:00 PM,2017,12,06,15,41.6,116,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 04:00 PM,2017,12,06,16,29.2,87,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 05:00 PM,2017,12,06,17,33.1,95,Moderate,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 06:00 PM,2017,12,06,18,37.5,106,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 07:00 PM,2017,12,06,19,29.2,87,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 08:00 PM,2017,12,06,20,24.6,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 09:00 PM,2017,12,06,21,27.3,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 10:00 PM,2017,12,06,22,24.6,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-06 11:00 PM,2017,12,06,23,25.3,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 12:00 AM,2017,12,07,00,29.1,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 01:00 AM,2017,12,07,01,24.0,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 02:00 AM,2017,12,07,02,27.0,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 03:00 AM,2017,12,07,03,34.5,98,Moderate,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 04:00 AM,2017,12,07,04,27.7,84,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 05:00 AM,2017,12,07,05,25.8,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 06:00 AM,2017,12,07,06,34.4,98,Moderate,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 07:00 AM,2017,12,07,07,46.2,127,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 08:00 AM,2017,12,07,08,59.1,153,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 09:00 AM,2017,12,07,09,65.5,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 10:00 AM,2017,12,07,10,66.7,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 11:00 AM,2017,12,07,11,72.9,160,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 12:00 PM,2017,12,07,12,60.4,154,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 01:00 PM,2017,12,07,13,40.7,114,Unhealthy for Sensitive Groups,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 02:00 PM,2017,12,07,14,34.8,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 03:00 PM,2017,12,07,15,41.4,116,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 04:00 PM,2017,12,07,16,37.2,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 05:00 PM,2017,12,07,17,32.1,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 06:00 PM,2017,12,07,18,28.5,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 07:00 PM,2017,12,07,19,30.2,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 08:00 PM,2017,12,07,20,28.6,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 09:00 PM,2017,12,07,21,26.3,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 10:00 PM,2017,12,07,22,30.1,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-07 11:00 PM,2017,12,07,23,34.0,97,Moderate,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 12:00 AM,2017,12,08,00,27.5,83,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 01:00 AM,2017,12,08,01,31.2,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 02:00 AM,2017,12,08,02,44.6,123,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 03:00 AM,2017,12,08,03,50.3,137,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 04:00 AM,2017,12,08,04,59.6,153,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 05:00 AM,2017,12,08,05,67.3,157,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 06:00 AM,2017,12,08,06,70.6,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 07:00 AM,2017,12,08,07,76.3,162,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 08:00 AM,2017,12,08,08,71.6,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 09:00 AM,2017,12,08,09,58.3,152,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 10:00 AM,2017,12,08,10,60.6,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 11:00 AM,2017,12,08,11,58.8,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 12:00 PM,2017,12,08,12,58.4,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 01:00 PM,2017,12,08,13,61.1,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 02:00 PM,2017,12,08,14,48.1,132,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 03:00 PM,2017,12,08,15,50.0,137,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 04:00 PM,2017,12,08,16,43.5,121,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 05:00 PM,2017,12,08,17,39.2,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 06:00 PM,2017,12,08,18,31.6,92,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 07:00 PM,2017,12,08,19,27.3,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 08:00 PM,2017,12,08,20,26.1,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 09:00 PM,2017,12,08,21,24.0,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 10:00 PM,2017,12,08,22,31.0,91,Moderate,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-08 11:00 PM,2017,12,08,23,31.0,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 12:00 AM,2017,12,09,00,29.0,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 01:00 AM,2017,12,09,01,30.9,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 02:00 AM,2017,12,09,02,35.9,102,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 03:00 AM,2017,12,09,03,33.9,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 04:00 AM,2017,12,09,04,40.4,113,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 05:00 AM,2017,12,09,05,44.7,124,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 06:00 AM,2017,12,09,06,39.8,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 07:00 AM,2017,12,09,07,48.9,134,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 08:00 AM,2017,12,09,08,51.9,141,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 09:00 AM,2017,12,09,09,51.4,140,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 10:00 AM,2017,12,09,10,48.7,134,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 11:00 AM,2017,12,09,11,46.3,128,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 12:00 PM,2017,12,09,12,41.4,116,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 01:00 PM,2017,12,09,13,42.5,118,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 02:00 PM,2017,12,09,14,39.1,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 03:00 PM,2017,12,09,15,34.5,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 04:00 PM,2017,12,09,16,33.8,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 05:00 PM,2017,12,09,17,30.3,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 06:00 PM,2017,12,09,18,31.6,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 07:00 PM,2017,12,09,19,28.8,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 08:00 PM,2017,12,09,20,31.8,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 09:00 PM,2017,12,09,21,34.9,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 10:00 PM,2017,12,09,22,34.0,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-09 11:00 PM,2017,12,09,23,33.9,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 12:00 AM,2017,12,10,00,48.5,133,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 01:00 AM,2017,12,10,01,55.7,151,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 02:00 AM,2017,12,10,02,53.8,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 03:00 AM,2017,12,10,03,55.9,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 04:00 AM,2017,12,10,04,47.4,130,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 05:00 AM,2017,12,10,05,54.2,147,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 06:00 AM,2017,12,10,06,55.6,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 07:00 AM,2017,12,10,07,60.8,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 08:00 AM,2017,12,10,08,66.9,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 09:00 AM,2017,12,10,09,63.4,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 10:00 AM,2017,12,10,10,55.2,150,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 11:00 AM,2017,12,10,11,50.2,137,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 12:00 PM,2017,12,10,12,45.4,125,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 01:00 PM,2017,12,10,13,41.7,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 02:00 PM,2017,12,10,14,42.3,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 03:00 PM,2017,12,10,15,42.1,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 04:00 PM,2017,12,10,16,40.1,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 05:00 PM,2017,12,10,17,41.5,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 06:00 PM,2017,12,10,18,37.7,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 07:00 PM,2017,12,10,19,36.3,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 08:00 PM,2017,12,10,20,33.8,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 09:00 PM,2017,12,10,21,33.7,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 10:00 PM,2017,12,10,22,34.1,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-10 11:00 PM,2017,12,10,23,32.8,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 12:00 AM,2017,12,11,00,45.0,124,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 01:00 AM,2017,12,11,01,48.4,133,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 02:00 AM,2017,12,11,02,48.2,132,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 03:00 AM,2017,12,11,03,55.1,149,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 04:00 AM,2017,12,11,04,59.0,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 05:00 AM,2017,12,11,05,56.0,151,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 06:00 AM,2017,12,11,06,59.0,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 07:00 AM,2017,12,11,07,68.5,158,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 08:00 AM,2017,12,11,08,86.2,167,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 09:00 AM,2017,12,11,09,86.1,167,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 10:00 AM,2017,12,11,10,67.5,157,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 11:00 AM,2017,12,11,11,61.2,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 12:00 PM,2017,12,11,12,54.1,147,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 01:00 PM,2017,12,11,13,44.5,123,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 02:00 PM,2017,12,11,14,40.2,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 03:00 PM,2017,12,11,15,41.6,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 04:00 PM,2017,12,11,16,44.3,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 05:00 PM,2017,12,11,17,40.6,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 06:00 PM,2017,12,11,18,30.8,90,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 07:00 PM,2017,12,11,19,30.9,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 08:00 PM,2017,12,11,20,30.9,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 09:00 PM,2017,12,11,21,32.4,94,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 10:00 PM,2017,12,11,22,35.7,101,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-11 11:00 PM,2017,12,11,23,28.3,85,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 12:00 AM,2017,12,12,00,26.6,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 01:00 AM,2017,12,12,01,26.3,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 02:00 AM,2017,12,12,02,21.6,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 03:00 AM,2017,12,12,03,35.8,102,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 04:00 AM,2017,12,12,04,34.9,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 05:00 AM,2017,12,12,05,38.9,109,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 06:00 AM,2017,12,12,06,56.9,152,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 07:00 AM,2017,12,12,07,69.9,158,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 08:00 AM,2017,12,12,08,70.5,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 09:00 AM,2017,12,12,09,72.2,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 10:00 AM,2017,12,12,10,70.1,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 11:00 AM,2017,12,12,11,61.0,154,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 12:00 PM,2017,12,12,12,51.5,140,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 01:00 PM,2017,12,12,13,45.2,125,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 02:00 PM,2017,12,12,14,40.1,112,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 03:00 PM,2017,12,12,15,37.5,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 04:00 PM,2017,12,12,16,39.2,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 05:00 PM,2017,12,12,17,42.1,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 06:00 PM,2017,12,12,18,42.0,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 07:00 PM,2017,12,12,19,40.0,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 08:00 PM,2017,12,12,20,34.0,97,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 09:00 PM,2017,12,12,21,32.9,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 10:00 PM,2017,12,12,22,34.5,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-12 11:00 PM,2017,12,12,23,28.2,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 12:00 AM,2017,12,13,00,29.1,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 01:00 AM,2017,12,13,01,27.5,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 02:00 AM,2017,12,13,02,23.2,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 03:00 AM,2017,12,13,03,24.6,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 04:00 AM,2017,12,13,04,28.8,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 05:00 AM,2017,12,13,05,29.4,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 06:00 AM,2017,12,13,06,36.2,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 07:00 AM,2017,12,13,07,47.1,130,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 08:00 AM,2017,12,13,08,44.0,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 09:00 AM,2017,12,13,09,48.5,133,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 10:00 AM,2017,12,13,10,44.2,122,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 11:00 AM,2017,12,13,11,46.1,127,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 12:00 PM,2017,12,13,12,44.5,123,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 01:00 PM,2017,12,13,13,44.2,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 02:00 PM,2017,12,13,14,45.6,126,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 03:00 PM,2017,12,13,15,46.7,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 04:00 PM,2017,12,13,16,49.7,136,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 05:00 PM,2017,12,13,17,49.8,136,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 06:00 PM,2017,12,13,18,49.3,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 07:00 PM,2017,12,13,19,45.9,127,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 08:00 PM,2017,12,13,20,42.5,118,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 09:00 PM,2017,12,13,21,40.3,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 10:00 PM,2017,12,13,22,33.4,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-13 11:00 PM,2017,12,13,23,34.1,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 12:00 AM,2017,12,14,00,31.7,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 01:00 AM,2017,12,14,01,28.7,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 02:00 AM,2017,12,14,02,27.8,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 03:00 AM,2017,12,14,03,25.9,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 04:00 AM,2017,12,14,04,26.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 05:00 AM,2017,12,14,05,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 06:00 AM,2017,12,14,06,20.8,69,Moderate,15.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 07:00 AM,2017,12,14,07,27.9,84,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 08:00 AM,2017,12,14,08,22.9,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 09:00 AM,2017,12,14,09,23.9,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 10:00 AM,2017,12,14,10,25.4,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 11:00 AM,2017,12,14,11,27.7,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 12:00 PM,2017,12,14,12,32.8,95,Moderate,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 01:00 PM,2017,12,14,13,36.4,103,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 02:00 PM,2017,12,14,14,35.7,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 03:00 PM,2017,12,14,15,33.8,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 04:00 PM,2017,12,14,16,30.9,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 05:00 PM,2017,12,14,17,33.4,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 06:00 PM,2017,12,14,18,49.2,135,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 07:00 PM,2017,12,14,19,57.6,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 08:00 PM,2017,12,14,20,56.8,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 09:00 PM,2017,12,14,21,62.9,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 10:00 PM,2017,12,14,22,58.4,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-14 11:00 PM,2017,12,14,23,51.2,140,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 12:00 AM,2017,12,15,00,42.1,117,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 01:00 AM,2017,12,15,01,34.5,98,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 02:00 AM,2017,12,15,02,24.2,76,Moderate,14.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 03:00 AM,2017,12,15,03,25.6,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 04:00 AM,2017,12,15,04,20.3,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 05:00 AM,2017,12,15,05,22.1,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 06:00 AM,2017,12,15,06,21.5,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 07:00 AM,2017,12,15,07,28.7,86,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 08:00 AM,2017,12,15,08,32.3,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 09:00 AM,2017,12,15,09,45.1,125,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 10:00 AM,2017,12,15,10,46.5,128,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 11:00 AM,2017,12,15,11,55.8,151,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 12:00 PM,2017,12,15,12,73.9,161,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 01:00 PM,2017,12,15,13,87.4,167,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 02:00 PM,2017,12,15,14,91.7,170,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 03:00 PM,2017,12,15,15,93.8,171,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 04:00 PM,2017,12,15,16,91.4,170,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 05:00 PM,2017,12,15,17,82.7,165,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 06:00 PM,2017,12,15,18,66.3,157,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 07:00 PM,2017,12,15,19,52.1,142,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 08:00 PM,2017,12,15,20,42.0,117,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 09:00 PM,2017,12,15,21,37.0,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 10:00 PM,2017,12,15,22,35.0,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-15 11:00 PM,2017,12,15,23,29.5,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 12:00 AM,2017,12,16,00,28.7,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 01:00 AM,2017,12,16,01,25.8,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 02:00 AM,2017,12,16,02,22.4,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 03:00 AM,2017,12,16,03,20.7,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 04:00 AM,2017,12,16,04,28.8,86,Moderate,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 05:00 AM,2017,12,16,05,35.4,100,Moderate,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 06:00 AM,2017,12,16,06,47.7,131,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 07:00 AM,2017,12,16,07,58.3,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 08:00 AM,2017,12,16,08,79.6,163,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 09:00 AM,2017,12,16,09,78.3,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 10:00 AM,2017,12,16,10,59.1,153,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 11:00 AM,2017,12,16,11,44.5,123,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 12:00 PM,2017,12,16,12,38.7,109,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 01:00 PM,2017,12,16,13,38.3,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 02:00 PM,2017,12,16,14,43.2,120,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 03:00 PM,2017,12,16,15,43.6,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 04:00 PM,2017,12,16,16,42.8,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 05:00 PM,2017,12,16,17,45.9,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 06:00 PM,2017,12,16,18,36.9,104,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 07:00 PM,2017,12,16,19,33.4,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 08:00 PM,2017,12,16,20,32.2,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 09:00 PM,2017,12,16,21,34.2,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 10:00 PM,2017,12,16,22,35.0,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-16 11:00 PM,2017,12,16,23,39.7,111,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 12:00 AM,2017,12,17,00,52.2,142,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 01:00 AM,2017,12,17,01,42.1,117,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 02:00 AM,2017,12,17,02,41.5,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 03:00 AM,2017,12,17,03,43.7,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 04:00 AM,2017,12,17,04,35.3,100,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 05:00 AM,2017,12,17,05,36.6,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 06:00 AM,2017,12,17,06,32.8,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 07:00 AM,2017,12,17,07,36.9,104,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 08:00 AM,2017,12,17,08,31.9,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 09:00 AM,2017,12,17,09,31.4,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 10:00 AM,2017,12,17,10,30.7,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 11:00 AM,2017,12,17,11,27.3,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 12:00 PM,2017,12,17,12,24.6,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 01:00 PM,2017,12,17,13,20.3,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 02:00 PM,2017,12,17,14,19.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 03:00 PM,2017,12,17,15,15.0,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 04:00 PM,2017,12,17,16,16.0,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 05:00 PM,2017,12,17,17,17.0,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 06:00 PM,2017,12,17,18,18.5,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 07:00 PM,2017,12,17,19,20.7,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 08:00 PM,2017,12,17,20,23.3,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 09:00 PM,2017,12,17,21,24.1,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 10:00 PM,2017,12,17,22,24.5,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-17 11:00 PM,2017,12,17,23,21.7,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 12:00 AM,2017,12,18,00,25.3,79,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 01:00 AM,2017,12,18,01,17.6,63,Moderate,10.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 02:00 AM,2017,12,18,02,22.3,72,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 03:00 AM,2017,12,18,03,18.1,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 04:00 AM,2017,12,18,04,25.0,78,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 05:00 AM,2017,12,18,05,20.0,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 06:00 AM,2017,12,18,06,30.5,90,Moderate,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 07:00 AM,2017,12,18,07,29.2,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 08:00 AM,2017,12,18,08,40.1,112,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 09:00 AM,2017,12,18,09,41.5,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 10:00 AM,2017,12,18,10,41.7,116,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 11:00 AM,2017,12,18,11,39.3,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 12:00 PM,2017,12,18,12,38.6,109,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 01:00 PM,2017,12,18,13,32.8,95,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 02:00 PM,2017,12,18,14,28.4,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 03:00 PM,2017,12,18,15,26.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 04:00 PM,2017,12,18,16,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 05:00 PM,2017,12,18,17,26.3,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 06:00 PM,2017,12,18,18,30.1,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 07:00 PM,2017,12,18,19,40.5,113,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 08:00 PM,2017,12,18,20,45.7,126,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 09:00 PM,2017,12,18,21,50.8,139,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 10:00 PM,2017,12,18,22,49.9,136,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-18 11:00 PM,2017,12,18,23,40.9,114,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 12:00 AM,2017,12,19,00,38.9,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 01:00 AM,2017,12,19,01,39.9,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 02:00 AM,2017,12,19,02,34.4,98,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 03:00 AM,2017,12,19,03,33.2,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 04:00 AM,2017,12,19,04,36.6,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 05:00 AM,2017,12,19,05,39.6,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 06:00 AM,2017,12,19,06,37.4,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 07:00 AM,2017,12,19,07,32.2,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 08:00 AM,2017,12,19,08,40.1,112,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 09:00 AM,2017,12,19,09,46.3,128,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 10:00 AM,2017,12,19,10,52.2,142,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 11:00 AM,2017,12,19,11,54.1,147,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 12:00 PM,2017,12,19,12,57.0,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 01:00 PM,2017,12,19,13,53.5,145,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 02:00 PM,2017,12,19,14,45.2,125,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 03:00 PM,2017,12,19,15,45.1,125,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 04:00 PM,2017,12,19,16,45.5,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 05:00 PM,2017,12,19,17,46.7,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 06:00 PM,2017,12,19,18,45.8,126,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 07:00 PM,2017,12,19,19,49.9,136,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 08:00 PM,2017,12,19,20,49.9,136,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 09:00 PM,2017,12,19,21,45.7,126,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 10:00 PM,2017,12,19,22,41.7,116,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-19 11:00 PM,2017,12,19,23,40.6,114,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 12:00 AM,2017,12,20,00,36.0,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 01:00 AM,2017,12,20,01,35.1,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 02:00 AM,2017,12,20,02,35.0,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 03:00 AM,2017,12,20,03,34.5,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 04:00 AM,2017,12,20,04,35.2,100,Moderate,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 05:00 AM,2017,12,20,05,36.4,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 06:00 AM,2017,12,20,06,31.2,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 07:00 AM,2017,12,20,07,38.4,108,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 08:00 AM,2017,12,20,08,40.6,114,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 09:00 AM,2017,12,20,09,45.3,125,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 10:00 AM,2017,12,20,10,45.1,125,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 11:00 AM,2017,12,20,11,43.6,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 12:00 PM,2017,12,20,12,40.4,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 01:00 PM,2017,12,20,13,31.6,92,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 02:00 PM,2017,12,20,14,29.8,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 03:00 PM,2017,12,20,15,27.4,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 04:00 PM,2017,12,20,16,28.2,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 05:00 PM,2017,12,20,17,30.1,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 06:00 PM,2017,12,20,18,36.5,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 07:00 PM,2017,12,20,19,36.2,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 08:00 PM,2017,12,20,20,34.6,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 09:00 PM,2017,12,20,21,28.3,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 10:00 PM,2017,12,20,22,27.2,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-20 11:00 PM,2017,12,20,23,25.6,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 12:00 AM,2017,12,21,00,23.8,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 01:00 AM,2017,12,21,01,24.4,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 02:00 AM,2017,12,21,02,24.7,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 03:00 AM,2017,12,21,03,20.8,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 04:00 AM,2017,12,21,04,18.9,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 05:00 AM,2017,12,21,05,18.9,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 06:00 AM,2017,12,21,06,19.4,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 07:00 AM,2017,12,21,07,24.5,77,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 08:00 AM,2017,12,21,08,29.3,87,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 09:00 AM,2017,12,21,09,29.1,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 10:00 AM,2017,12,21,10,30.0,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 11:00 AM,2017,12,21,11,29.5,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 12:00 PM,2017,12,21,12,25.2,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 01:00 PM,2017,12,21,13,17.6,63,Moderate,10.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 02:00 PM,2017,12,21,14,17.3,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 03:00 PM,2017,12,21,15,18.1,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 04:00 PM,2017,12,21,16,19.5,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 05:00 PM,2017,12,21,17,23.2,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 06:00 PM,2017,12,21,18,26.6,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 07:00 PM,2017,12,21,19,27.3,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 08:00 PM,2017,12,21,20,31.1,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 09:00 PM,2017,12,21,21,31.0,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 10:00 PM,2017,12,21,22,30.5,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-21 11:00 PM,2017,12,21,23,17.7,63,Moderate,5.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 12:00 AM,2017,12,22,00,19.8,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 01:00 AM,2017,12,22,01,21.9,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 02:00 AM,2017,12,22,02,29.4,87,Moderate,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 03:00 AM,2017,12,22,03,33.7,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 04:00 AM,2017,12,22,04,36.8,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 05:00 AM,2017,12,22,05,40.9,114,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 06:00 AM,2017,12,22,06,38.9,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 07:00 AM,2017,12,22,07,33.9,97,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 08:00 AM,2017,12,22,08,35.4,100,Moderate,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 09:00 AM,2017,12,22,09,35.4,100,Moderate,985.0,UG/M3,1 Hr,Invalid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 10:00 AM,2017,12,22,10,32.4,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 11:00 AM,2017,12,22,11,29.9,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 12:00 PM,2017,12,22,12,30.5,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 01:00 PM,2017,12,22,13,24.0,76,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 02:00 PM,2017,12,22,14,24.5,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 03:00 PM,2017,12,22,15,20.7,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 04:00 PM,2017,12,22,16,23.8,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 05:00 PM,2017,12,22,17,20.9,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 06:00 PM,2017,12,22,18,26.4,81,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 07:00 PM,2017,12,22,19,25.2,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 08:00 PM,2017,12,22,20,33.1,95,Moderate,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 09:00 PM,2017,12,22,21,31.5,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 10:00 PM,2017,12,22,22,28.2,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-22 11:00 PM,2017,12,22,23,23.6,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 12:00 AM,2017,12,23,00,20.8,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 01:00 AM,2017,12,23,01,21.9,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 02:00 AM,2017,12,23,02,23.4,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 03:00 AM,2017,12,23,03,22.2,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 04:00 AM,2017,12,23,04,23.1,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 05:00 AM,2017,12,23,05,27.0,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 06:00 AM,2017,12,23,06,36.0,102,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 07:00 AM,2017,12,23,07,41.0,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 08:00 AM,2017,12,23,08,41.5,116,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 09:00 AM,2017,12,23,09,40.2,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 10:00 AM,2017,12,23,10,37.1,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 11:00 AM,2017,12,23,11,35.0,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 12:00 PM,2017,12,23,12,31.0,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 01:00 PM,2017,12,23,13,26.5,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 02:00 PM,2017,12,23,14,23.2,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 03:00 PM,2017,12,23,15,20.1,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 04:00 PM,2017,12,23,16,20.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 05:00 PM,2017,12,23,17,25.0,78,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 06:00 PM,2017,12,23,18,29.0,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 07:00 PM,2017,12,23,19,26.5,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 08:00 PM,2017,12,23,20,28.2,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 09:00 PM,2017,12,23,21,29.1,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 10:00 PM,2017,12,23,22,29.5,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-23 11:00 PM,2017,12,23,23,27.3,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 12:00 AM,2017,12,24,00,26.1,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 01:00 AM,2017,12,24,01,26.1,80,Moderate,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 02:00 AM,2017,12,24,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 03:00 AM,2017,12,24,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 04:00 AM,2017,12,24,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 05:00 AM,2017,12,24,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 06:00 AM,2017,12,24,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 07:00 AM,2017,12,24,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 08:00 AM,2017,12,24,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 09:00 AM,2017,12,24,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 10:00 AM,2017,12,24,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 11:00 AM,2017,12,24,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 12:00 PM,2017,12,24,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 01:00 PM,2017,12,24,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 02:00 PM,2017,12,24,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 03:00 PM,2017,12,24,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 04:00 PM,2017,12,24,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 05:00 PM,2017,12,24,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 06:00 PM,2017,12,24,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 07:00 PM,2017,12,24,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 08:00 PM,2017,12,24,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 09:00 PM,2017,12,24,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 10:00 PM,2017,12,24,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-24 11:00 PM,2017,12,24,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 12:00 AM,2017,12,25,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 01:00 AM,2017,12,25,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 02:00 AM,2017,12,25,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 03:00 AM,2017,12,25,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 04:00 AM,2017,12,25,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 05:00 AM,2017,12,25,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 06:00 AM,2017,12,25,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 07:00 AM,2017,12,25,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 08:00 AM,2017,12,25,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 09:00 AM,2017,12,25,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 10:00 AM,2017,12,25,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 11:00 AM,2017,12,25,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 12:00 PM,2017,12,25,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 01:00 PM,2017,12,25,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 02:00 PM,2017,12,25,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 03:00 PM,2017,12,25,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 04:00 PM,2017,12,25,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 05:00 PM,2017,12,25,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 06:00 PM,2017,12,25,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 07:00 PM,2017,12,25,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 08:00 PM,2017,12,25,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 09:00 PM,2017,12,25,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 10:00 PM,2017,12,25,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-25 11:00 PM,2017,12,25,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 12:00 AM,2017,12,26,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 01:00 AM,2017,12,26,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 02:00 AM,2017,12,26,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 03:00 AM,2017,12,26,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 04:00 AM,2017,12,26,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 05:00 AM,2017,12,26,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 06:00 AM,2017,12,26,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 07:00 AM,2017,12,26,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 08:00 AM,2017,12,26,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 09:00 AM,2017,12,26,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 10:00 AM,2017,12,26,10,-999.0,-999,N/A,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 11:00 AM,2017,12,26,11,15.7,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 12:00 PM,2017,12,26,12,17.6,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 01:00 PM,2017,12,26,13,14.4,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 02:00 PM,2017,12,26,14,12.8,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 03:00 PM,2017,12,26,15,14.2,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 04:00 PM,2017,12,26,16,15.5,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 05:00 PM,2017,12,26,17,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 06:00 PM,2017,12,26,18,15.8,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 07:00 PM,2017,12,26,19,17.2,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 08:00 PM,2017,12,26,20,19.1,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 09:00 PM,2017,12,26,21,19.0,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 10:00 PM,2017,12,26,22,19.0,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-26 11:00 PM,2017,12,26,23,18.0,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 12:00 AM,2017,12,27,00,18.0,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 01:00 AM,2017,12,27,01,16.5,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 02:00 AM,2017,12,27,02,17.7,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 03:00 AM,2017,12,27,03,17.5,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 04:00 AM,2017,12,27,04,19.9,67,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 05:00 AM,2017,12,27,05,23.9,76,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 06:00 AM,2017,12,27,06,24.9,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 07:00 AM,2017,12,27,07,27.5,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 08:00 AM,2017,12,27,08,32.2,93,Moderate,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 09:00 AM,2017,12,27,09,30.6,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 10:00 AM,2017,12,27,10,40.3,113,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 11:00 AM,2017,12,27,11,39.1,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 12:00 PM,2017,12,27,12,29.5,88,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 01:00 PM,2017,12,27,13,24.2,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 02:00 PM,2017,12,27,14,22.6,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 03:00 PM,2017,12,27,15,25.3,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 04:00 PM,2017,12,27,16,26.1,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 05:00 PM,2017,12,27,17,27.0,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 06:00 PM,2017,12,27,18,29.0,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 07:00 PM,2017,12,27,19,30.0,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 08:00 PM,2017,12,27,20,31.5,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 09:00 PM,2017,12,27,21,34.7,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 10:00 PM,2017,12,27,22,37.3,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-27 11:00 PM,2017,12,27,23,37.1,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 12:00 AM,2017,12,28,00,33.0,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 01:00 AM,2017,12,28,01,35.5,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 02:00 AM,2017,12,28,02,44.1,122,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 03:00 AM,2017,12,28,03,55.1,149,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 04:00 AM,2017,12,28,04,57.5,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 05:00 AM,2017,12,28,05,57.7,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 06:00 AM,2017,12,28,06,54.8,149,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 07:00 AM,2017,12,28,07,59.4,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 08:00 AM,2017,12,28,08,77.2,162,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 09:00 AM,2017,12,28,09,84.1,166,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 10:00 AM,2017,12,28,10,90.0,169,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 11:00 AM,2017,12,28,11,76.0,162,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 12:00 PM,2017,12,28,12,53.0,144,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 01:00 PM,2017,12,28,13,36.5,103,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 02:00 PM,2017,12,28,14,24.7,77,Moderate,13.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 03:00 PM,2017,12,28,15,20.3,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 04:00 PM,2017,12,28,16,18.6,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 05:00 PM,2017,12,28,17,19.8,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 06:00 PM,2017,12,28,18,20.4,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 07:00 PM,2017,12,28,19,26.2,81,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 08:00 PM,2017,12,28,20,29.5,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 09:00 PM,2017,12,28,21,32.2,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 10:00 PM,2017,12,28,22,32.6,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-28 11:00 PM,2017,12,28,23,23.3,75,Moderate,14.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 12:00 AM,2017,12,29,00,19.1,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 01:00 AM,2017,12,29,01,15.5,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 02:00 AM,2017,12,29,02,22.7,73,Moderate,30.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 03:00 AM,2017,12,29,03,31.8,92,Moderate,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 04:00 AM,2017,12,29,04,47.9,132,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 05:00 AM,2017,12,29,05,55.4,150,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 06:00 AM,2017,12,29,06,53.7,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 07:00 AM,2017,12,29,07,56.8,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 08:00 AM,2017,12,29,08,54.9,149,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 09:00 AM,2017,12,29,09,54.9,149,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 10:00 AM,2017,12,29,10,49.4,135,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 11:00 AM,2017,12,29,11,34.2,97,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 12:00 PM,2017,12,29,12,29.1,87,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 01:00 PM,2017,12,29,13,24.5,77,Moderate,20.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 02:00 PM,2017,12,29,14,29.2,87,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 03:00 PM,2017,12,29,15,35.6,101,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 04:00 PM,2017,12,29,16,45.8,126,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 05:00 PM,2017,12,29,17,45.4,125,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 06:00 PM,2017,12,29,18,39.2,110,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 07:00 PM,2017,12,29,19,37.5,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 08:00 PM,2017,12,29,20,34.7,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 09:00 PM,2017,12,29,21,33.8,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 10:00 PM,2017,12,29,22,33.9,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-29 11:00 PM,2017,12,29,23,39.9,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 12:00 AM,2017,12,30,00,46.9,129,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 01:00 AM,2017,12,30,01,41.4,116,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 02:00 AM,2017,12,30,02,46.4,128,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 03:00 AM,2017,12,30,03,50.5,138,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 04:00 AM,2017,12,30,04,40.5,113,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 05:00 AM,2017,12,30,05,37.4,106,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 06:00 AM,2017,12,30,06,43.4,120,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 07:00 AM,2017,12,30,07,52.7,143,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 08:00 AM,2017,12,30,08,49.3,135,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 09:00 AM,2017,12,30,09,40.1,112,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 10:00 AM,2017,12,30,10,31.0,91,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 11:00 AM,2017,12,30,11,27.0,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 12:00 PM,2017,12,30,12,26.5,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 01:00 PM,2017,12,30,13,29.7,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 02:00 PM,2017,12,30,14,26.8,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 03:00 PM,2017,12,30,15,21.9,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 04:00 PM,2017,12,30,16,22.4,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 05:00 PM,2017,12,30,17,27.7,84,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 06:00 PM,2017,12,30,18,26.8,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 07:00 PM,2017,12,30,19,29.4,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 08:00 PM,2017,12,30,20,28.1,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 09:00 PM,2017,12,30,21,31.6,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 10:00 PM,2017,12,30,22,32.8,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-30 11:00 PM,2017,12,30,23,30.9,91,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 12:00 AM,2017,12,31,00,27.9,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 01:00 AM,2017,12,31,01,28.4,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 02:00 AM,2017,12,31,02,23.7,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 03:00 AM,2017,12,31,03,25.0,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 04:00 AM,2017,12,31,04,23.6,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 05:00 AM,2017,12,31,05,20.2,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 06:00 AM,2017,12,31,06,25.6,79,Moderate,31.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 07:00 AM,2017,12,31,07,28.8,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 08:00 AM,2017,12,31,08,24.9,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 09:00 AM,2017,12,31,09,31.9,93,Moderate,39.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 10:00 AM,2017,12,31,10,28.9,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 11:00 AM,2017,12,31,11,26.9,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 12:00 PM,2017,12,31,12,26.9,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 01:00 PM,2017,12,31,13,25.9,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 02:00 PM,2017,12,31,14,27.4,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 03:00 PM,2017,12,31,15,27.7,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 04:00 PM,2017,12,31,16,26.3,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 05:00 PM,2017,12,31,17,31.3,91,Moderate,37.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 06:00 PM,2017,12,31,18,32.1,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 07:00 PM,2017,12,31,19,36.5,103,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 08:00 PM,2017,12,31,20,38.7,109,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 09:00 PM,2017,12,31,21,40.5,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 10:00 PM,2017,12,31,22,44.4,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2017-12-31 11:00 PM,2017,12,31,23,36.5,103,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Ho Chi Minh City,PM2.5 - Principal,2018-01-01 12:00 AM,2018,01,01,00,30.1,89,Moderate,24.0,UG/M3,1 Hr,Valid

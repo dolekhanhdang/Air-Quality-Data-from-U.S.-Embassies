@@ -1,0 +1,60 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Lagos,PM2.5 - Principal,2023-01-01 01:00 AM,2023,01,01,01,270.4,321,Hazardous,310.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 02:00 AM,2023,01,01,02,373.8,416,Hazardous,475.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 03:00 AM,2023,01,01,03,486.6,491,Hazardous,599.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 04:00 AM,2023,01,01,04,499.8,500,Hazardous,512.9,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 05:00 AM,2023,01,01,05,496.5,497,Hazardous,493.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 06:00 AM,2023,01,01,06,499.3,499,Hazardous,502.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 07:00 AM,2023,01,01,07,499.0,499,Hazardous,498.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 08:00 AM,2023,01,01,08,524.9,516,Hazardous,550.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 09:00 AM,2023,01,01,09,504.1,502,Hazardous,483.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 10:00 AM,2023,01,01,10,482.3,488,Hazardous,460.5,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 11:00 AM,2023,01,01,11,469.2,479,Hazardous,456.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 12:00 PM,2023,01,01,12,417.2,445,Hazardous,360.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 01:00 PM,2023,01,01,13,352.4,402,Hazardous,290.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 02:00 PM,2023,01,01,14,294.7,345,Hazardous,237.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 03:00 PM,2023,01,01,15,264.7,315,Hazardous,234.8,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 04:00 PM,2023,01,01,16,243.5,293,Very Unhealthy,222.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 05:00 PM,2023,01,01,17,235.0,285,Very Unhealthy,226.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 06:00 PM,2023,01,01,18,232.5,282,Very Unhealthy,230.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 07:00 PM,2023,01,01,19,226.0,276,Very Unhealthy,219.5,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 08:00 PM,2023,01,01,20,230.1,280,Very Unhealthy,234.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 09:00 PM,2023,01,01,21,233.5,283,Very Unhealthy,236.9,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 10:00 PM,2023,01,01,22,246.5,296,Very Unhealthy,259.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-01 11:00 PM,2023,01,01,23,244.7,294,Very Unhealthy,246.8,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-02 12:00 AM,2023,01,02,00,237.0,287,Very Unhealthy,223.8,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-02 01:00 AM,2023,01,02,01,233.5,283,Very Unhealthy,223.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-02 02:00 AM,2023,01,02,02,356.5,405,Hazardous,483.4,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-02 03:00 AM,2023,01,02,03,356.5,405,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2023-01-03 08:00 AM,2023,01,03,08,-999.0,-999,N/A,374.6,UG/M3,1 Hr,Suspect
+Lagos,PM2.5 - Principal,2023-01-03 09:00 AM,2023,01,03,09,360.7,408,Hazardous,347.8,UG/M3,1 Hr,Suspect
+Lagos,PM2.5 - Principal,2023-01-03 10:00 AM,2023,01,03,10,359.7,407,Hazardous,358.0,UG/M3,1 Hr,Suspect
+Lagos,PM2.5 - Principal,2023-01-03 11:00 AM,2023,01,03,11,359.7,407,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2023-01-03 02:00 PM,2023,01,03,14,-999.0,-999,N/A,250.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-03 03:00 PM,2023,01,03,15,245.4,295,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-03 04:00 PM,2023,01,03,16,221.2,271,Very Unhealthy,203.9,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-03 05:00 PM,2023,01,03,17,208.6,259,Very Unhealthy,197.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-03 06:00 PM,2023,01,03,18,208.6,259,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2023-01-04 09:00 AM,2023,01,04,09,-999.0,-999,N/A,451.3,UG/M3,1 Hr,Suspect
+Lagos,PM2.5 - Principal,2023-01-04 10:00 AM,2023,01,04,10,463.3,475,Hazardous,474.7,UG/M3,1 Hr,Suspect
+Lagos,PM2.5 - Principal,2023-01-04 11:00 AM,2023,01,04,11,463.3,475,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2023-01-12 12:00 PM,2023,01,12,12,-999.0,-999,N/A,0.4,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-12 01:00 PM,2023,01,12,13,0.3,1,Good,0.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-12 02:00 PM,2023,01,12,14,0.3,1,Good,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2023-01-12 03:00 PM,2023,01,12,15,0.2,1,Good,0.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-12 04:00 PM,2023,01,12,16,0.1,0,Good,0.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-12 05:00 PM,2023,01,12,17,0.1,0,Good,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-12 06:00 PM,2023,01,12,18,0.0,0,Good,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-12 07:00 PM,2023,01,12,19,0.0,0,Good,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2023-01-13 09:00 AM,2023,01,13,09,-999.0,-999,N/A,0.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 10:00 AM,2023,01,13,10,0.2,1,Good,0.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 11:00 AM,2023,01,13,11,0.1,0,Good,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 12:00 PM,2023,01,13,12,0.1,0,Good,0.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 01:00 PM,2023,01,13,13,0.1,0,Good,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 02:00 PM,2023,01,13,14,0.0,0,Good,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 03:00 PM,2023,01,13,15,0.0,0,Good,0.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 04:00 PM,2023,01,13,16,0.0,0,Good,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 05:00 PM,2023,01,13,17,0.0,0,Good,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-13 06:00 PM,2023,01,13,18,0.0,0,Good,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2023-01-17 04:00 PM,2023,01,17,16,-999.0,-999,N/A,148.8,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2023-01-25 03:00 PM,2023,01,25,15,-999.0,-999,N/A,45.7,UG/M3,1 Hr,Valid

@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Almaty,PM2.5 - Principal,2021-03-01 02:00 AM,2021,03,01,02,102.0,175,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 03:00 AM,2021,03,01,03,91.5,170,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 04:00 AM,2021,03,01,04,82.2,165,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 05:00 AM,2021,03,01,05,79.6,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 06:00 AM,2021,03,01,06,65.8,156,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 07:00 AM,2021,03,01,07,54.4,148,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 08:00 AM,2021,03,01,08,37.6,106,Unhealthy for Sensitive Groups,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 09:00 AM,2021,03,01,09,27.3,83,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 10:00 AM,2021,03,01,10,29.6,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 11:00 AM,2021,03,01,11,59.8,153,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 12:00 PM,2021,03,01,12,49.9,136,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 01:00 PM,2021,03,01,13,57.4,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 02:00 PM,2021,03,01,14,71.7,159,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 03:00 PM,2021,03,01,15,83.8,166,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 04:00 PM,2021,03,01,16,80.4,164,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 05:00 PM,2021,03,01,17,71.2,159,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 06:00 PM,2021,03,01,18,64.6,156,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 07:00 PM,2021,03,01,19,87.8,168,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 08:00 PM,2021,03,01,20,99.9,174,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 09:00 PM,2021,03,01,21,120.9,185,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 10:00 PM,2021,03,01,22,124.4,187,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-01 11:00 PM,2021,03,01,23,82.2,165,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 12:00 AM,2021,03,02,00,49.6,136,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 01:00 AM,2021,03,02,01,35.3,100,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 02:00 AM,2021,03,02,02,21.1,70,Moderate,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 03:00 AM,2021,03,02,03,13.0,53,Moderate,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 04:00 AM,2021,03,02,04,6.5,27,Good,0.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 05:00 AM,2021,03,02,05,2.2,9,Good,-2.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 06:00 AM,2021,03,02,06,1.6,7,Good,1.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 07:00 AM,2021,03,02,07,1.2,5,Good,1.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 08:00 AM,2021,03,02,08,1.1,5,Good,1.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 09:00 AM,2021,03,02,09,3.5,15,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 10:00 AM,2021,03,02,10,26.7,82,Moderate,50.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 11:00 AM,2021,03,02,11,61.8,154,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 12:00 PM,2021,03,02,12,90.9,169,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 01:00 PM,2021,03,02,13,80.4,164,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 02:00 PM,2021,03,02,14,60.2,153,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 03:00 PM,2021,03,02,15,51.6,141,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 04:00 PM,2021,03,02,16,37.8,107,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 05:00 PM,2021,03,02,17,34.4,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 06:00 PM,2021,03,02,18,33.2,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 07:00 PM,2021,03,02,19,25.1,78,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 08:00 PM,2021,03,02,20,22.0,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 09:00 PM,2021,03,02,21,25.0,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 10:00 PM,2021,03,02,22,23.0,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-02 11:00 PM,2021,03,02,23,25.4,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 12:00 AM,2021,03,03,00,36.7,104,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 01:00 AM,2021,03,03,01,32.8,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 02:00 AM,2021,03,03,02,27.4,83,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 03:00 AM,2021,03,03,03,21.2,70,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 04:00 AM,2021,03,03,04,18.6,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 05:00 AM,2021,03,03,05,20.8,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 06:00 AM,2021,03,03,06,18.8,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 07:00 AM,2021,03,03,07,18.9,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 08:00 AM,2021,03,03,08,17.4,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 09:00 AM,2021,03,03,09,19.2,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 10:00 AM,2021,03,03,10,21.6,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 11:00 AM,2021,03,03,11,16.3,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 12:00 PM,2021,03,03,12,13.1,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 01:00 PM,2021,03,03,13,10.5,44,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 02:00 PM,2021,03,03,14,10.2,43,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 03:00 PM,2021,03,03,15,11.1,46,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 04:00 PM,2021,03,03,16,11.0,46,Good,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 05:00 PM,2021,03,03,17,13.5,54,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 06:00 PM,2021,03,03,18,12.2,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 07:00 PM,2021,03,03,19,14.6,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 08:00 PM,2021,03,03,20,18.8,65,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 09:00 PM,2021,03,03,21,22.9,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 10:00 PM,2021,03,03,22,27.4,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-03 11:00 PM,2021,03,03,23,27.2,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 12:00 AM,2021,03,04,00,23.1,74,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 01:00 AM,2021,03,04,01,23.0,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 02:00 AM,2021,03,04,02,16.5,60,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 03:00 AM,2021,03,04,03,20.2,68,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 04:00 AM,2021,03,04,04,21.6,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 05:00 AM,2021,03,04,05,25.3,79,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 06:00 AM,2021,03,04,06,27.1,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 07:00 AM,2021,03,04,07,29.0,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 08:00 AM,2021,03,04,08,32.5,94,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 09:00 AM,2021,03,04,09,35.2,100,Moderate,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 10:00 AM,2021,03,04,10,37.6,106,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 11:00 AM,2021,03,04,11,38.8,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 12:00 PM,2021,03,04,12,46.9,129,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 01:00 PM,2021,03,04,13,55.4,150,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 02:00 PM,2021,03,04,14,55.4,150,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Almaty,PM2.5 - Principal,2021-03-04 03:00 PM,2021,03,04,15,51.1,139,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 04:00 PM,2021,03,04,16,36.7,104,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 05:00 PM,2021,03,04,17,25.6,79,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 06:00 PM,2021,03,04,18,21.7,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 07:00 PM,2021,03,04,19,20.3,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 08:00 PM,2021,03,04,20,20.1,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 09:00 PM,2021,03,04,21,26.6,81,Moderate,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 10:00 PM,2021,03,04,22,32.3,93,Moderate,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-04 11:00 PM,2021,03,04,23,35.1,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 12:00 AM,2021,03,05,00,32.5,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 01:00 AM,2021,03,05,01,51.2,140,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 02:00 AM,2021,03,05,02,42.6,118,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 03:00 AM,2021,03,05,03,62.3,155,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 04:00 AM,2021,03,05,04,62.1,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 05:00 AM,2021,03,05,05,50.5,138,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 06:00 AM,2021,03,05,06,33.2,95,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 07:00 AM,2021,03,05,07,19.1,66,Moderate,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 08:00 AM,2021,03,05,08,12.0,50,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 09:00 AM,2021,03,05,09,7.5,31,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 10:00 AM,2021,03,05,10,5.7,24,Good,4.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 11:00 AM,2021,03,05,11,6.3,26,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 12:00 PM,2021,03,05,12,15.6,58,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 01:00 PM,2021,03,05,13,20.8,69,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 02:00 PM,2021,03,05,14,14.9,57,Moderate,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 03:00 PM,2021,03,05,15,11.9,50,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 04:00 PM,2021,03,05,16,11.4,48,Good,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 05:00 PM,2021,03,05,17,12.7,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 06:00 PM,2021,03,05,18,13.8,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 07:00 PM,2021,03,05,19,11.4,48,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 08:00 PM,2021,03,05,20,11.7,49,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 09:00 PM,2021,03,05,21,13.8,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 10:00 PM,2021,03,05,22,23.9,76,Moderate,34.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-05 11:00 PM,2021,03,05,23,34.9,99,Moderate,46.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 12:00 AM,2021,03,06,00,27.4,83,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 01:00 AM,2021,03,06,01,19.2,66,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 02:00 AM,2021,03,06,02,16.6,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 03:00 AM,2021,03,06,03,14.3,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 04:00 AM,2021,03,06,04,10.6,44,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 05:00 AM,2021,03,06,05,17.3,62,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 06:00 AM,2021,03,06,06,15.1,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 07:00 AM,2021,03,06,07,12.0,50,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 08:00 AM,2021,03,06,08,9.0,38,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 09:00 AM,2021,03,06,09,6.0,25,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 10:00 AM,2021,03,06,10,6.5,27,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 11:00 AM,2021,03,06,11,13.2,53,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 12:00 PM,2021,03,06,12,20.1,68,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 01:00 PM,2021,03,06,13,29.0,87,Moderate,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 02:00 PM,2021,03,06,14,39.0,110,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 03:00 PM,2021,03,06,15,47.5,131,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 04:00 PM,2021,03,06,16,53.2,145,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 05:00 PM,2021,03,06,17,60.6,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 06:00 PM,2021,03,06,18,58.3,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 07:00 PM,2021,03,06,19,60.6,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 08:00 PM,2021,03,06,20,60.3,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 09:00 PM,2021,03,06,21,59.1,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 10:00 PM,2021,03,06,22,63.0,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-06 11:00 PM,2021,03,06,23,57.5,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 12:00 AM,2021,03,07,00,52.2,142,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 01:00 AM,2021,03,07,01,45.9,127,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 02:00 AM,2021,03,07,02,40.9,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 03:00 AM,2021,03,07,03,37.8,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 04:00 AM,2021,03,07,04,34.3,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 05:00 AM,2021,03,07,05,31.1,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 06:00 AM,2021,03,07,06,25.5,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 07:00 AM,2021,03,07,07,17.7,63,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 08:00 AM,2021,03,07,08,14.8,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 09:00 AM,2021,03,07,09,15.9,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 10:00 AM,2021,03,07,10,19.9,67,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 11:00 AM,2021,03,07,11,19.4,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 12:00 PM,2021,03,07,12,17.2,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 01:00 PM,2021,03,07,13,18.1,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 02:00 PM,2021,03,07,14,20.0,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 03:00 PM,2021,03,07,15,17.5,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 04:00 PM,2021,03,07,16,15.7,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 05:00 PM,2021,03,07,17,15.3,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 06:00 PM,2021,03,07,18,16.1,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 07:00 PM,2021,03,07,19,18.0,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 08:00 PM,2021,03,07,20,22.3,72,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 09:00 PM,2021,03,07,21,24.5,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 10:00 PM,2021,03,07,22,23.8,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-07 11:00 PM,2021,03,07,23,46.9,129,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 12:00 AM,2021,03,08,00,49.9,136,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 01:00 AM,2021,03,08,01,44.4,123,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 02:00 AM,2021,03,08,02,37.7,106,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 03:00 AM,2021,03,08,03,67.3,157,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 04:00 AM,2021,03,08,04,108.7,178,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 05:00 AM,2021,03,08,05,114.3,181,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 06:00 AM,2021,03,08,06,90.1,169,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 07:00 AM,2021,03,08,07,61.0,154,Unhealthy,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 08:00 AM,2021,03,08,08,45.0,124,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 09:00 AM,2021,03,08,09,36.0,102,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 10:00 AM,2021,03,08,10,31.0,91,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 11:00 AM,2021,03,08,11,31.0,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 12:00 PM,2021,03,08,12,34.9,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 01:00 PM,2021,03,08,13,42.5,118,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 02:00 PM,2021,03,08,14,33.7,96,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 03:00 PM,2021,03,08,15,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 04:00 PM,2021,03,08,16,35.9,102,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 05:00 PM,2021,03,08,17,45.4,125,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 06:00 PM,2021,03,08,18,43.7,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 07:00 PM,2021,03,08,19,35.8,102,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 08:00 PM,2021,03,08,20,28.9,86,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 09:00 PM,2021,03,08,21,21.9,72,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 10:00 PM,2021,03,08,22,21.9,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-08 11:00 PM,2021,03,08,23,17.9,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 12:00 AM,2021,03,09,00,19.4,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 01:00 AM,2021,03,09,01,18.7,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 02:00 AM,2021,03,09,02,22.8,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 03:00 AM,2021,03,09,03,33.4,96,Moderate,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 04:00 AM,2021,03,09,04,64.2,155,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 05:00 AM,2021,03,09,05,73.6,160,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 06:00 AM,2021,03,09,06,73.8,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 07:00 AM,2021,03,09,07,56.4,151,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 08:00 AM,2021,03,09,08,37.2,105,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 09:00 AM,2021,03,09,09,27.1,83,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 10:00 AM,2021,03,09,10,25.5,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 11:00 AM,2021,03,09,11,43.7,121,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 12:00 PM,2021,03,09,12,53.3,145,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 01:00 PM,2021,03,09,13,62.2,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 02:00 PM,2021,03,09,14,65.6,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 03:00 PM,2021,03,09,15,66.3,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 04:00 PM,2021,03,09,16,45.1,125,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 05:00 PM,2021,03,09,17,32.0,93,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 06:00 PM,2021,03,09,18,25.0,78,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 07:00 PM,2021,03,09,19,23.5,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 08:00 PM,2021,03,09,20,23.7,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 09:00 PM,2021,03,09,21,29.8,88,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 10:00 PM,2021,03,09,22,35.4,100,Moderate,41.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-09 11:00 PM,2021,03,09,23,36.7,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 12:00 AM,2021,03,10,00,36.8,104,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 01:00 AM,2021,03,10,01,36.4,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 02:00 AM,2021,03,10,02,33.7,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 03:00 AM,2021,03,10,03,29.3,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 04:00 AM,2021,03,10,04,29.6,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 05:00 AM,2021,03,10,05,27.8,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 06:00 AM,2021,03,10,06,21.9,72,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 07:00 AM,2021,03,10,07,18.9,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 08:00 AM,2021,03,10,08,18.9,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 09:00 AM,2021,03,10,09,22.9,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 10:00 AM,2021,03,10,10,28.4,85,Moderate,34.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 11:00 AM,2021,03,10,11,41.7,116,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 12:00 PM,2021,03,10,12,53.3,145,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 01:00 PM,2021,03,10,13,56.6,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 02:00 PM,2021,03,10,14,61.3,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 03:00 PM,2021,03,10,15,62.1,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 04:00 PM,2021,03,10,16,58.5,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 05:00 PM,2021,03,10,17,52.7,143,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 06:00 PM,2021,03,10,18,52.9,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 07:00 PM,2021,03,10,19,36.9,104,Unhealthy for Sensitive Groups,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 08:00 PM,2021,03,10,20,24.4,77,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 09:00 PM,2021,03,10,21,18.7,65,Moderate,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 10:00 PM,2021,03,10,22,12.8,52,Moderate,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-10 11:00 PM,2021,03,10,23,10.9,45,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 12:00 AM,2021,03,11,00,9.4,39,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 01:00 AM,2021,03,11,01,8.7,36,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 02:00 AM,2021,03,11,02,12.3,51,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 03:00 AM,2021,03,11,03,13.6,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 04:00 AM,2021,03,11,04,12.3,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 05:00 AM,2021,03,11,05,9.1,38,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 06:00 AM,2021,03,11,06,4.5,19,Good,0.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 07:00 AM,2021,03,11,07,3.2,13,Good,2.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 08:00 AM,2021,03,11,08,3.1,13,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 09:00 AM,2021,03,11,09,6.5,27,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 10:00 AM,2021,03,11,10,7.7,32,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 11:00 AM,2021,03,11,11,7.3,30,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 12:00 PM,2021,03,11,12,14.6,56,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 01:00 PM,2021,03,11,13,16.8,61,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 02:00 PM,2021,03,11,14,22.9,74,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 03:00 PM,2021,03,11,15,23.9,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 04:00 PM,2021,03,11,16,23.4,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 05:00 PM,2021,03,11,17,28.2,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 06:00 PM,2021,03,11,18,35.1,99,Moderate,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 07:00 PM,2021,03,11,19,33.0,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 08:00 PM,2021,03,11,20,35.0,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 09:00 PM,2021,03,11,21,41.0,115,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 10:00 PM,2021,03,11,22,44.5,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-11 11:00 PM,2021,03,11,23,42.2,117,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 12:00 AM,2021,03,12,00,45.1,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 01:00 AM,2021,03,12,01,44.5,123,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 02:00 AM,2021,03,12,02,40.7,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 03:00 AM,2021,03,12,03,39.3,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 04:00 AM,2021,03,12,04,24.1,76,Moderate,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 05:00 AM,2021,03,12,05,19.5,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 06:00 AM,2021,03,12,06,23.7,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 07:00 AM,2021,03,12,07,26.3,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 08:00 AM,2021,03,12,08,35.1,99,Moderate,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 09:00 AM,2021,03,12,09,26.5,81,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 10:00 AM,2021,03,12,10,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 11:00 AM,2021,03,12,11,28.8,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 12:00 PM,2021,03,12,12,22.9,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 01:00 PM,2021,03,12,13,21.9,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 02:00 PM,2021,03,12,14,31.4,92,Moderate,41.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 03:00 PM,2021,03,12,15,46.7,129,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 04:00 PM,2021,03,12,16,50.8,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 05:00 PM,2021,03,12,17,40.9,114,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 06:00 PM,2021,03,12,18,35.4,100,Moderate,30.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 07:00 PM,2021,03,12,19,29.2,87,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 08:00 PM,2021,03,12,20,30.6,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 09:00 PM,2021,03,12,21,26.3,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 10:00 PM,2021,03,12,22,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-12 11:00 PM,2021,03,12,23,35.3,100,Moderate,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 12:00 AM,2021,03,13,00,35.6,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 01:00 AM,2021,03,13,01,30.8,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 02:00 AM,2021,03,13,02,28.4,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 03:00 AM,2021,03,13,03,26.7,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 04:00 AM,2021,03,13,04,21.3,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 05:00 AM,2021,03,13,05,15.6,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 06:00 AM,2021,03,13,06,15.3,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 07:00 AM,2021,03,13,07,9.6,40,Good,4.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 08:00 AM,2021,03,13,08,7.8,33,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 09:00 AM,2021,03,13,09,10.9,45,Good,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 10:00 AM,2021,03,13,10,14.9,57,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 11:00 AM,2021,03,13,11,14.4,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 12:00 PM,2021,03,13,12,15.2,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 01:00 PM,2021,03,13,13,15.1,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 02:00 PM,2021,03,13,14,15.0,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 03:00 PM,2021,03,13,15,13.0,53,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 04:00 PM,2021,03,13,16,10.5,44,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 05:00 PM,2021,03,13,17,12.7,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 06:00 PM,2021,03,13,18,11.8,49,Good,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 07:00 PM,2021,03,13,19,12.4,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 08:00 PM,2021,03,13,20,12.2,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 09:00 PM,2021,03,13,21,10.1,42,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 10:00 PM,2021,03,13,22,11.5,48,Good,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-13 11:00 PM,2021,03,13,23,13.7,54,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 12:00 AM,2021,03,14,00,20.8,69,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 01:00 AM,2021,03,14,01,18.4,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 02:00 AM,2021,03,14,02,17.7,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 03:00 AM,2021,03,14,03,12.8,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 04:00 AM,2021,03,14,04,11.4,48,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 05:00 AM,2021,03,14,05,9.2,38,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 06:00 AM,2021,03,14,06,11.6,48,Good,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 07:00 AM,2021,03,14,07,14.3,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 08:00 AM,2021,03,14,08,18.1,64,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 09:00 AM,2021,03,14,09,18.0,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 10:00 AM,2021,03,14,10,17.0,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 11:00 AM,2021,03,14,11,15.5,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 12:00 PM,2021,03,14,12,19.7,67,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 01:00 PM,2021,03,14,13,27.3,83,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 02:00 PM,2021,03,14,14,40.6,114,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 03:00 PM,2021,03,14,15,51.3,140,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 04:00 PM,2021,03,14,16,59.1,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 05:00 PM,2021,03,14,17,70.6,159,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 06:00 PM,2021,03,14,18,59.8,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 07:00 PM,2021,03,14,19,38.4,108,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 08:00 PM,2021,03,14,20,29.2,87,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 09:00 PM,2021,03,14,21,27.1,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 10:00 PM,2021,03,14,22,19.0,66,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-14 11:00 PM,2021,03,14,23,15.5,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 12:00 AM,2021,03,15,00,12.7,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 01:00 AM,2021,03,15,01,11.3,47,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 02:00 AM,2021,03,15,02,14.1,55,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 03:00 AM,2021,03,15,03,16.0,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 04:00 AM,2021,03,15,04,16.0,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 05:00 AM,2021,03,15,05,12.5,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 06:00 AM,2021,03,15,06,9.2,38,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 07:00 AM,2021,03,15,07,9.1,38,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 08:00 AM,2021,03,15,08,8.0,33,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 09:00 AM,2021,03,15,09,9.0,38,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 10:00 AM,2021,03,15,10,11.0,46,Good,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 11:00 AM,2021,03,15,11,15.5,58,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 12:00 PM,2021,03,15,12,21.7,71,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 01:00 PM,2021,03,15,13,23.8,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 02:00 PM,2021,03,15,14,29.9,88,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 03:00 PM,2021,03,15,15,30.4,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 04:00 PM,2021,03,15,16,27.2,83,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 05:00 PM,2021,03,15,17,23.6,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 06:00 PM,2021,03,15,18,23.8,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 07:00 PM,2021,03,15,19,25.4,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 08:00 PM,2021,03,15,20,24.2,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 09:00 PM,2021,03,15,21,21.1,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 10:00 PM,2021,03,15,22,22.0,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-15 11:00 PM,2021,03,15,23,20.5,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 12:00 AM,2021,03,16,00,17.2,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 01:00 AM,2021,03,16,01,16.6,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 02:00 AM,2021,03,16,02,17.3,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 03:00 AM,2021,03,16,03,20.5,69,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 04:00 AM,2021,03,16,04,29.8,88,Moderate,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 05:00 AM,2021,03,16,05,28.4,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 06:00 AM,2021,03,16,06,32.2,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 07:00 AM,2021,03,16,07,33.6,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 08:00 AM,2021,03,16,08,38.3,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 09:00 AM,2021,03,16,09,41.6,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 10:00 AM,2021,03,16,10,45.8,126,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 11:00 AM,2021,03,16,11,55.4,150,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 12:00 PM,2021,03,16,12,51.7,141,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 01:00 PM,2021,03,16,13,47.8,131,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 02:00 PM,2021,03,16,14,47.4,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 03:00 PM,2021,03,16,15,47.7,131,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 04:00 PM,2021,03,16,16,42.8,119,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 05:00 PM,2021,03,16,17,39.9,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 06:00 PM,2021,03,16,18,40.8,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 07:00 PM,2021,03,16,19,34.3,98,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 08:00 PM,2021,03,16,20,28.1,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 09:00 PM,2021,03,16,21,24.5,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 10:00 PM,2021,03,16,22,19.7,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-16 11:00 PM,2021,03,16,23,21.8,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 12:00 AM,2021,03,17,00,25.9,80,Moderate,30.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 01:00 AM,2021,03,17,01,26.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 02:00 AM,2021,03,17,02,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 03:00 AM,2021,03,17,03,23.8,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 04:00 AM,2021,03,17,04,23.4,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 05:00 AM,2021,03,17,05,23.7,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 06:00 AM,2021,03,17,06,20.8,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 07:00 AM,2021,03,17,07,17.9,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 08:00 AM,2021,03,17,08,18.9,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 09:00 AM,2021,03,17,09,20.4,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 10:00 AM,2021,03,17,10,24.2,76,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 11:00 AM,2021,03,17,11,26.1,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 12:00 PM,2021,03,17,12,31.0,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 01:00 PM,2021,03,17,13,40.0,112,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 02:00 PM,2021,03,17,14,41.0,115,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 03:00 PM,2021,03,17,15,42.0,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 04:00 PM,2021,03,17,16,42.5,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 05:00 PM,2021,03,17,17,44.2,122,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 06:00 PM,2021,03,17,18,43.1,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 07:00 PM,2021,03,17,19,43.5,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 08:00 PM,2021,03,17,20,46.2,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 09:00 PM,2021,03,17,21,45.4,125,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 10:00 PM,2021,03,17,22,31.8,92,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-17 11:00 PM,2021,03,17,23,28.9,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 12:00 AM,2021,03,18,00,26.9,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 01:00 AM,2021,03,18,01,23.4,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 02:00 AM,2021,03,18,02,17.7,63,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 03:00 AM,2021,03,18,03,16.8,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 04:00 AM,2021,03,18,04,17.4,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 05:00 AM,2021,03,18,05,26.2,81,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 06:00 AM,2021,03,18,06,28.6,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 07:00 AM,2021,03,18,07,30.3,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 08:00 AM,2021,03,18,08,30.1,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 09:00 AM,2021,03,18,09,39.5,111,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 10:00 AM,2021,03,18,10,36.7,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 11:00 AM,2021,03,18,11,35.8,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 12:00 PM,2021,03,18,12,43.4,120,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 01:00 PM,2021,03,18,13,45.2,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 02:00 PM,2021,03,18,14,45.6,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 03:00 PM,2021,03,18,15,43.8,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 04:00 PM,2021,03,18,16,40.5,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 05:00 PM,2021,03,18,17,37.4,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 06:00 PM,2021,03,18,18,35.6,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 07:00 PM,2021,03,18,19,32.6,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 08:00 PM,2021,03,18,20,30.4,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 09:00 PM,2021,03,18,21,30.6,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 10:00 PM,2021,03,18,22,32.6,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-18 11:00 PM,2021,03,18,23,34.5,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 12:00 AM,2021,03,19,00,37.4,106,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 01:00 AM,2021,03,19,01,48.7,134,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 02:00 AM,2021,03,19,02,54.8,149,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 03:00 AM,2021,03,19,03,60.9,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 04:00 AM,2021,03,19,04,59.4,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 05:00 AM,2021,03,19,05,46.7,129,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 06:00 AM,2021,03,19,06,39.8,112,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 07:00 AM,2021,03,19,07,37.9,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 08:00 AM,2021,03,19,08,35.9,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 09:00 AM,2021,03,19,09,33.4,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 10:00 AM,2021,03,19,10,38.2,108,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 11:00 AM,2021,03,19,11,43.1,120,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 12:00 PM,2021,03,19,12,58.5,153,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 01:00 PM,2021,03,19,13,66.2,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 02:00 PM,2021,03,19,14,60.6,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 03:00 PM,2021,03,19,15,53.3,145,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 04:00 PM,2021,03,19,16,49.1,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 05:00 PM,2021,03,19,17,36.5,103,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 06:00 PM,2021,03,19,18,28.2,85,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 07:00 PM,2021,03,19,19,22.6,73,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 08:00 PM,2021,03,19,20,21.8,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 09:00 PM,2021,03,19,21,24.4,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 10:00 PM,2021,03,19,22,34.2,97,Moderate,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-19 11:00 PM,2021,03,19,23,43.6,121,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 12:00 AM,2021,03,20,00,50.2,137,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 01:00 AM,2021,03,20,01,49.1,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 02:00 AM,2021,03,20,02,45.5,126,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 03:00 AM,2021,03,20,03,32.7,94,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 04:00 AM,2021,03,20,04,25.3,79,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 05:00 AM,2021,03,20,05,22.6,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 06:00 AM,2021,03,20,06,22.3,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 07:00 AM,2021,03,20,07,22.6,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 08:00 AM,2021,03,20,08,21.8,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 09:00 AM,2021,03,20,09,20.4,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 10:00 AM,2021,03,20,10,26.2,81,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 11:00 AM,2021,03,20,11,36.6,104,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 12:00 PM,2021,03,20,12,40.8,114,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 01:00 PM,2021,03,20,13,41.8,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 02:00 PM,2021,03,20,14,32.4,94,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 03:00 PM,2021,03,20,15,28.2,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 04:00 PM,2021,03,20,16,23.1,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 05:00 PM,2021,03,20,17,23.0,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 06:00 PM,2021,03,20,18,31.0,91,Moderate,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 07:00 PM,2021,03,20,19,25.5,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 08:00 PM,2021,03,20,20,29.2,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 09:00 PM,2021,03,20,21,36.1,102,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 10:00 PM,2021,03,20,22,45.0,124,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-20 11:00 PM,2021,03,20,23,50.5,138,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 12:00 AM,2021,03,21,00,41.7,116,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 01:00 AM,2021,03,21,01,36.3,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 02:00 AM,2021,03,21,02,35.6,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 03:00 AM,2021,03,21,03,35.3,100,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 04:00 AM,2021,03,21,04,32.1,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 05:00 AM,2021,03,21,05,26.0,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 06:00 AM,2021,03,21,06,19.0,66,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 07:00 AM,2021,03,21,07,18.0,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 08:00 AM,2021,03,21,08,16.0,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 09:00 AM,2021,03,21,09,16.0,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 10:00 AM,2021,03,21,10,14.9,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 11:00 AM,2021,03,21,11,24.9,78,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 12:00 PM,2021,03,21,12,22.4,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 01:00 PM,2021,03,21,13,24.7,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 02:00 PM,2021,03,21,14,23.3,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 03:00 PM,2021,03,21,15,20.6,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 04:00 PM,2021,03,21,16,21.8,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 05:00 PM,2021,03,21,17,20.9,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 06:00 PM,2021,03,21,18,28.9,86,Moderate,37.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 07:00 PM,2021,03,21,19,30.9,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 08:00 PM,2021,03,21,20,35.9,102,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 09:00 PM,2021,03,21,21,40.0,112,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 10:00 PM,2021,03,21,22,46.0,127,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-21 11:00 PM,2021,03,21,23,57.5,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 12:00 AM,2021,03,22,00,59.7,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 01:00 AM,2021,03,22,01,51.3,140,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 02:00 AM,2021,03,22,02,40.1,112,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 03:00 AM,2021,03,22,03,28.0,84,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 04:00 AM,2021,03,22,04,24.0,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 05:00 AM,2021,03,22,05,24.5,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 06:00 AM,2021,03,22,06,24.2,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 07:00 AM,2021,03,22,07,18.6,65,Moderate,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 08:00 AM,2021,03,22,08,16.3,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 09:00 AM,2021,03,22,09,22.6,73,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 10:00 AM,2021,03,22,10,28.8,86,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 11:00 AM,2021,03,22,11,33.9,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 12:00 PM,2021,03,22,12,47.4,130,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 01:00 PM,2021,03,22,13,60.7,154,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 02:00 PM,2021,03,22,14,43.8,121,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 03:00 PM,2021,03,22,15,30.4,89,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 04:00 PM,2021,03,22,16,24.2,76,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 05:00 PM,2021,03,22,17,21.1,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 06:00 PM,2021,03,22,18,20.5,69,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 07:00 PM,2021,03,22,19,20.2,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 08:00 PM,2021,03,22,20,21.1,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 09:00 PM,2021,03,22,21,26.0,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 10:00 PM,2021,03,22,22,31.0,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-22 11:00 PM,2021,03,22,23,31.5,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 12:00 AM,2021,03,23,00,33.2,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 01:00 AM,2021,03,23,01,28.1,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 02:00 AM,2021,03,23,02,26.0,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 03:00 AM,2021,03,23,03,24.0,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 04:00 AM,2021,03,23,04,24.5,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 05:00 AM,2021,03,23,05,24.3,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 06:00 AM,2021,03,23,06,25.1,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 07:00 AM,2021,03,23,07,25.4,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 08:00 AM,2021,03,23,08,23.6,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 09:00 AM,2021,03,23,09,19.6,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 10:00 AM,2021,03,23,10,25.3,79,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 11:00 AM,2021,03,23,11,25.6,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 12:00 PM,2021,03,23,12,33.3,96,Moderate,41.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 01:00 PM,2021,03,23,13,37.1,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 02:00 PM,2021,03,23,14,45.5,126,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 03:00 PM,2021,03,23,15,46.2,127,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 04:00 PM,2021,03,23,16,51.1,139,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 05:00 PM,2021,03,23,17,55.5,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 06:00 PM,2021,03,23,18,53.7,146,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 07:00 PM,2021,03,23,19,43.3,120,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 08:00 PM,2021,03,23,20,38.7,109,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 09:00 PM,2021,03,23,21,28.8,86,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 10:00 PM,2021,03,23,22,23.9,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-23 11:00 PM,2021,03,23,23,16.4,60,Moderate,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 12:00 AM,2021,03,24,00,11.7,49,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 01:00 AM,2021,03,24,01,7.3,30,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 02:00 AM,2021,03,24,02,3.6,15,Good,0.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 03:00 AM,2021,03,24,03,0.8,3,Good,-2.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 04:00 AM,2021,03,24,04,0.0,0,Good,-3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 05:00 AM,2021,03,24,05,0.4,2,Good,2.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 06:00 AM,2021,03,24,06,6.2,26,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 07:00 AM,2021,03,24,07,6.6,28,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 08:00 AM,2021,03,24,08,6.7,28,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 09:00 AM,2021,03,24,09,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 10:00 AM,2021,03,24,10,6.4,27,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 11:00 AM,2021,03,24,11,8.7,36,Good,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 12:00 PM,2021,03,24,12,11.8,49,Good,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 01:00 PM,2021,03,24,13,12.9,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 02:00 PM,2021,03,24,14,14.4,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 03:00 PM,2021,03,24,15,15.7,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 04:00 PM,2021,03,24,16,17.3,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 05:00 PM,2021,03,24,17,16.6,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 06:00 PM,2021,03,24,18,18.3,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 07:00 PM,2021,03,24,19,17.6,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 08:00 PM,2021,03,24,20,16.8,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 09:00 PM,2021,03,24,21,20.4,68,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 10:00 PM,2021,03,24,22,25.7,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-24 11:00 PM,2021,03,24,23,31.8,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 12:00 AM,2021,03,25,00,30.9,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 01:00 AM,2021,03,25,01,29.4,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 02:00 AM,2021,03,25,02,25.7,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 03:00 AM,2021,03,25,03,21.3,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 04:00 AM,2021,03,25,04,15.6,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 05:00 AM,2021,03,25,05,14.8,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 06:00 AM,2021,03,25,06,14.4,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 07:00 AM,2021,03,25,07,12.2,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 08:00 AM,2021,03,25,08,12.1,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 09:00 AM,2021,03,25,09,12.0,50,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 10:00 AM,2021,03,25,10,18.0,63,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 11:00 AM,2021,03,25,11,27.0,82,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 12:00 PM,2021,03,25,12,31.0,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 01:00 PM,2021,03,25,13,34.5,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 02:00 PM,2021,03,25,14,21.7,71,Moderate,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 03:00 PM,2021,03,25,15,17.3,62,Moderate,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 04:00 PM,2021,03,25,16,15.6,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 05:00 PM,2021,03,25,17,15.3,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 06:00 PM,2021,03,25,18,14.6,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 07:00 PM,2021,03,25,19,17.3,62,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 08:00 PM,2021,03,25,20,17.6,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 09:00 PM,2021,03,25,21,31.3,91,Moderate,45.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 10:00 PM,2021,03,25,22,34.1,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-25 11:00 PM,2021,03,25,23,30.5,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 12:00 AM,2021,03,26,00,25.7,80,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 01:00 AM,2021,03,26,01,26.3,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 02:00 AM,2021,03,26,02,22.6,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 03:00 AM,2021,03,26,03,18.3,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 04:00 AM,2021,03,26,04,24.6,77,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 05:00 AM,2021,03,26,05,22.3,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 06:00 AM,2021,03,26,06,21.1,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 07:00 AM,2021,03,26,07,20.5,69,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 08:00 AM,2021,03,26,08,20.5,69,Moderate,-999.0,UG/M3,1 Hr,Missing
+Almaty,PM2.5 - Principal,2021-03-26 09:00 AM,2021,03,26,09,21.5,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 10:00 AM,2021,03,26,10,18.3,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 11:00 AM,2021,03,26,11,19.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 12:00 PM,2021,03,26,12,15.5,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 01:00 PM,2021,03,26,13,15.2,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 02:00 PM,2021,03,26,14,25.7,80,Moderate,36.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 03:00 PM,2021,03,26,15,17.3,62,Moderate,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 04:00 PM,2021,03,26,16,29.1,87,Moderate,41.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 05:00 PM,2021,03,26,17,31.0,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 06:00 PM,2021,03,26,18,30.0,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 07:00 PM,2021,03,26,19,21.5,71,Moderate,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 08:00 PM,2021,03,26,20,14.7,56,Moderate,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 09:00 PM,2021,03,26,21,9.8,41,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 10:00 PM,2021,03,26,22,7.9,33,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-26 11:00 PM,2021,03,26,23,5.9,25,Good,4.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 12:00 AM,2021,03,27,00,4.4,18,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 01:00 AM,2021,03,27,01,9.2,38,Good,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 02:00 AM,2021,03,27,02,13.1,53,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 03:00 AM,2021,03,27,03,10.0,42,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 04:00 AM,2021,03,27,04,8.0,33,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 05:00 AM,2021,03,27,05,7.0,29,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 06:00 AM,2021,03,27,06,6.0,25,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 07:00 AM,2021,03,27,07,5.4,23,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 08:00 AM,2021,03,27,08,6.2,26,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 09:00 AM,2021,03,27,09,6.6,28,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 10:00 AM,2021,03,27,10,7.3,30,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 11:00 AM,2021,03,27,11,11.1,46,Good,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 12:00 PM,2021,03,27,12,12.5,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 01:00 PM,2021,03,27,13,12.7,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 02:00 PM,2021,03,27,14,15.8,59,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 03:00 PM,2021,03,27,15,15.4,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 04:00 PM,2021,03,27,16,16.7,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 05:00 PM,2021,03,27,17,14.3,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 06:00 PM,2021,03,27,18,14.6,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 07:00 PM,2021,03,27,19,18.3,64,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 08:00 PM,2021,03,27,20,22.1,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 09:00 PM,2021,03,27,21,26.0,80,Moderate,30.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 10:00 PM,2021,03,27,22,28.5,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-27 11:00 PM,2021,03,27,23,41.2,115,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 12:00 AM,2021,03,28,00,39.1,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 01:00 AM,2021,03,28,01,23.0,74,Moderate,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 02:00 AM,2021,03,28,02,14.5,56,Moderate,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 03:00 AM,2021,03,28,03,9.2,38,Good,4.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 04:00 AM,2021,03,28,04,7.1,30,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 05:00 AM,2021,03,28,05,5.5,23,Good,4.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 06:00 AM,2021,03,28,06,3.2,13,Good,1.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 07:00 AM,2021,03,28,07,2.1,9,Good,1.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 08:00 AM,2021,03,28,08,1.5,6,Good,1.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 09:00 AM,2021,03,28,09,3.2,13,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 10:00 AM,2021,03,28,10,4.1,17,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 11:00 AM,2021,03,28,11,6.0,25,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 12:00 PM,2021,03,28,12,6.0,25,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 01:00 PM,2021,03,28,13,5.0,21,Good,4.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 02:00 PM,2021,03,28,14,4.0,17,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 03:00 PM,2021,03,28,15,3.0,13,Good,2.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 04:00 PM,2021,03,28,16,4.0,17,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 05:00 PM,2021,03,28,17,6.5,27,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 06:00 PM,2021,03,28,18,7.7,32,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 07:00 PM,2021,03,28,19,7.3,30,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 08:00 PM,2021,03,28,20,11.6,48,Good,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 09:00 PM,2021,03,28,21,14.3,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 10:00 PM,2021,03,28,22,15.1,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-28 11:00 PM,2021,03,28,23,17.5,62,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 12:00 AM,2021,03,29,00,19.2,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 01:00 AM,2021,03,29,01,20.1,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 02:00 AM,2021,03,29,02,19.0,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 03:00 AM,2021,03,29,03,13.0,53,Moderate,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 04:00 AM,2021,03,29,04,11.0,46,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 05:00 AM,2021,03,29,05,9.0,38,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 06:00 AM,2021,03,29,06,8.5,35,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 07:00 AM,2021,03,29,07,9.2,38,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 08:00 AM,2021,03,29,08,12.6,52,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 09:00 AM,2021,03,29,09,16.8,61,Moderate,21.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 10:00 AM,2021,03,29,10,11.9,50,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 11:00 AM,2021,03,29,11,8.4,35,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 12:00 PM,2021,03,29,12,7.2,30,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 01:00 PM,2021,03,29,13,5.6,23,Good,4.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 02:00 PM,2021,03,29,14,4.3,18,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 03:00 PM,2021,03,29,15,4.6,19,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 04:00 PM,2021,03,29,16,8.3,35,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 05:00 PM,2021,03,29,17,17.6,63,Moderate,27.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 06:00 PM,2021,03,29,18,17.3,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 07:00 PM,2021,03,29,19,11.6,48,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 08:00 PM,2021,03,29,20,9.8,41,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 09:00 PM,2021,03,29,21,13.4,54,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 10:00 PM,2021,03,29,22,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-29 11:00 PM,2021,03,29,23,12.3,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 12:00 AM,2021,03,30,00,14.1,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 01:00 AM,2021,03,30,01,10.5,44,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 02:00 AM,2021,03,30,02,9.2,38,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 03:00 AM,2021,03,30,03,13.1,53,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 04:00 AM,2021,03,30,04,16.5,60,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 05:00 AM,2021,03,30,05,16.2,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 06:00 AM,2021,03,30,06,16.6,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 07:00 AM,2021,03,30,07,13.8,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 08:00 AM,2021,03,30,08,9.4,39,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 09:00 AM,2021,03,30,09,8.7,36,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 10:00 AM,2021,03,30,10,8.3,35,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 11:00 AM,2021,03,30,11,10.1,42,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 12:00 PM,2021,03,30,12,12.0,50,Good,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 01:00 PM,2021,03,30,13,14.5,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 02:00 PM,2021,03,30,14,10.2,43,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 03:00 PM,2021,03,30,15,6.6,28,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 04:00 PM,2021,03,30,16,5.8,24,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 05:00 PM,2021,03,30,17,6.9,29,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 06:00 PM,2021,03,30,18,7.9,33,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 07:00 PM,2021,03,30,19,6.9,29,Good,6.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 08:00 PM,2021,03,30,20,4.9,20,Good,3.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 09:00 PM,2021,03,30,21,5.9,25,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 10:00 PM,2021,03,30,22,5.4,23,Good,5.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-30 11:00 PM,2021,03,30,23,3.2,13,Good,1.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 12:00 AM,2021,03,31,00,6.6,28,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 01:00 AM,2021,03,31,01,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 02:00 AM,2021,03,31,02,6.9,29,Good,7.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 03:00 AM,2021,03,31,03,11.9,50,Good,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 04:00 AM,2021,03,31,04,9.9,41,Good,8.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 05:00 AM,2021,03,31,05,10.4,43,Good,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 06:00 AM,2021,03,31,06,11.2,47,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 07:00 AM,2021,03,31,07,15.1,57,Moderate,19.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 08:00 AM,2021,03,31,08,12.5,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 09:00 AM,2021,03,31,09,16.2,60,Moderate,20.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 10:00 AM,2021,03,31,10,19.1,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 11:00 AM,2021,03,31,11,21.0,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 12:00 PM,2021,03,31,12,19.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 01:00 PM,2021,03,31,13,16.5,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 02:00 PM,2021,03,31,14,15.7,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 03:00 PM,2021,03,31,15,12.8,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 04:00 PM,2021,03,31,16,11.9,50,Good,11.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 05:00 PM,2021,03,31,17,12.9,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 06:00 PM,2021,03,31,18,10.9,45,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 07:00 PM,2021,03,31,19,9.9,41,Good,9.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 08:00 PM,2021,03,31,20,9.9,41,Good,10.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 09:00 PM,2021,03,31,21,10.9,45,Good,12.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 10:00 PM,2021,03,31,22,18.4,64,Moderate,26.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-03-31 11:00 PM,2021,03,31,23,21.2,70,Moderate,24.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-04-01 12:00 AM,2021,04,01,00,26.6,81,Moderate,32.0,UG/M3,1 Hr,Valid
+Almaty,PM2.5 - Principal,2021-04-01 01:00 AM,2021,04,01,01,20.3,68,Moderate,14.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,724 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Lahore,PM2.5 - Principal,2020-12-01 01:00 AM,2020,12,01,01,262.8,313,Hazardous,249.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 02:00 AM,2020,12,01,02,258.4,309,Hazardous,254.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 03:00 AM,2020,12,01,03,258.7,309,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 04:00 AM,2020,12,01,04,271.7,322,Hazardous,285.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 05:00 AM,2020,12,01,05,294.3,344,Hazardous,321.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 06:00 AM,2020,12,01,06,298.7,349,Hazardous,319.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 07:00 AM,2020,12,01,07,306.2,356,Hazardous,328.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 08:00 AM,2020,12,01,08,324.7,375,Hazardous,363.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 09:00 AM,2020,12,01,09,339.1,389,Hazardous,367.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 10:00 AM,2020,12,01,10,313.9,364,Hazardous,261.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 11:00 AM,2020,12,01,11,259.0,309,Hazardous,199.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 12:00 PM,2020,12,01,12,229.0,279,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-01 01:00 PM,2020,12,01,13,229.0,279,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2020-12-01 02:00 PM,2020,12,01,14,229.0,279,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2020-12-01 03:00 PM,2020,12,01,15,229.0,279,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2020-12-01 04:00 PM,2020,12,01,16,229.0,279,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2020-12-02 01:00 PM,2020,12,02,13,-999.0,-999,N/A,113.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 02:00 PM,2020,12,02,14,118.7,184,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 03:00 PM,2020,12,02,15,116.6,183,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 04:00 PM,2020,12,02,16,111.4,180,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 05:00 PM,2020,12,02,17,112.1,180,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 06:00 PM,2020,12,02,18,118.9,184,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 07:00 PM,2020,12,02,19,155.9,206,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 08:00 PM,2020,12,02,20,186.5,237,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 09:00 PM,2020,12,02,21,201.3,251,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 10:00 PM,2020,12,02,22,203.6,254,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-02 11:00 PM,2020,12,02,23,201.8,252,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 12:00 AM,2020,12,03,00,192.9,243,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 01:00 AM,2020,12,03,01,195.9,246,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 02:00 AM,2020,12,03,02,218.9,269,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 03:00 AM,2020,12,03,03,253.5,304,Hazardous,288.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 04:00 AM,2020,12,03,04,268.7,319,Hazardous,284.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 05:00 AM,2020,12,03,05,266.9,317,Hazardous,265.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 06:00 AM,2020,12,03,06,261.7,312,Hazardous,265.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 07:00 AM,2020,12,03,07,261.5,312,Hazardous,261.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 08:00 AM,2020,12,03,08,265.7,316,Hazardous,273.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 09:00 AM,2020,12,03,09,280.9,331,Hazardous,303.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 10:00 AM,2020,12,03,10,273.9,324,Hazardous,263.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 11:00 AM,2020,12,03,11,269.7,320,Hazardous,263.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 12:00 PM,2020,12,03,12,197.3,247,Very Unhealthy,126.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 01:00 PM,2020,12,03,13,152.6,203,Very Unhealthy,108.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 02:00 PM,2020,12,03,14,145.8,198,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 03:00 PM,2020,12,03,15,133.8,191,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 04:00 PM,2020,12,03,16,155.9,206,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 05:00 PM,2020,12,03,17,161.9,212,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 06:00 PM,2020,12,03,18,177.4,228,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 07:00 PM,2020,12,03,19,241.7,291,Very Unhealthy,306.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 08:00 PM,2020,12,03,20,295.8,346,Hazardous,350.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 09:00 PM,2020,12,03,21,317.4,367,Hazardous,339.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 10:00 PM,2020,12,03,22,342.2,392,Hazardous,367.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-03 11:00 PM,2020,12,03,23,350.6,401,Hazardous,359.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 12:00 AM,2020,12,04,00,333.3,383,Hazardous,316.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 01:00 AM,2020,12,04,01,308.1,358,Hazardous,283.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 02:00 AM,2020,12,04,02,282.6,333,Hazardous,257.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 03:00 AM,2020,12,04,03,270.3,321,Hazardous,258.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 04:00 AM,2020,12,04,04,263.1,313,Hazardous,256.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 05:00 AM,2020,12,04,05,276.1,326,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 06:00 AM,2020,12,04,06,291.4,342,Hazardous,315.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 07:00 AM,2020,12,04,07,307.1,357,Hazardous,343.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 08:00 AM,2020,12,04,08,319.2,369,Hazardous,347.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 09:00 AM,2020,12,04,09,313.8,364,Hazardous,302.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 10:00 AM,2020,12,04,10,306.8,357,Hazardous,292.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 11:00 AM,2020,12,04,11,297.9,348,Hazardous,276.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 12:00 PM,2020,12,04,12,277.1,327,Hazardous,236.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 01:00 PM,2020,12,04,13,249.8,299,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 02:00 PM,2020,12,04,14,222.6,272,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 03:00 PM,2020,12,04,15,205.6,256,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 04:00 PM,2020,12,04,16,209.4,259,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 05:00 PM,2020,12,04,17,228.4,278,Very Unhealthy,251.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 06:00 PM,2020,12,04,18,256.2,307,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 07:00 PM,2020,12,04,19,293.2,343,Hazardous,337.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 08:00 PM,2020,12,04,20,344.0,394,Hazardous,390.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 09:00 PM,2020,12,04,21,356.5,405,Hazardous,369.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 10:00 PM,2020,12,04,22,351.2,401,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-04 11:00 PM,2020,12,04,23,330.6,380,Hazardous,310.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 12:00 AM,2020,12,05,00,305.3,355,Hazardous,280.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 01:00 AM,2020,12,05,01,295.6,346,Hazardous,286.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 02:00 AM,2020,12,05,02,298.8,349,Hazardous,302.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 03:00 AM,2020,12,05,03,326.6,376,Hazardous,359.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 04:00 AM,2020,12,05,04,331.1,381,Hazardous,345.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 05:00 AM,2020,12,05,05,339.4,389,Hazardous,365.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 06:00 AM,2020,12,05,06,314.2,364,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 07:00 AM,2020,12,05,07,284.7,335,Hazardous,241.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 08:00 AM,2020,12,05,08,257.1,308,Hazardous,220.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 09:00 AM,2020,12,05,09,233.4,283,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 10:00 AM,2020,12,05,10,222.7,273,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 11:00 AM,2020,12,05,11,214.6,265,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 12:00 PM,2020,12,05,12,206.9,257,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 01:00 PM,2020,12,05,13,199.4,249,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 02:00 PM,2020,12,05,14,188.7,239,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 03:00 PM,2020,12,05,15,183.8,234,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 04:00 PM,2020,12,05,16,182.9,233,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 05:00 PM,2020,12,05,17,195.9,246,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 06:00 PM,2020,12,05,18,200.0,250,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 07:00 PM,2020,12,05,19,222.8,273,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 08:00 PM,2020,12,05,20,239.8,289,Very Unhealthy,271.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 09:00 PM,2020,12,05,21,279.6,330,Hazardous,319.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 10:00 PM,2020,12,05,22,294.3,344,Hazardous,313.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-05 11:00 PM,2020,12,05,23,287.2,337,Hazardous,278.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 12:00 AM,2020,12,06,00,280.5,331,Hazardous,272.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 01:00 AM,2020,12,06,01,284.3,334,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 02:00 AM,2020,12,06,02,281.5,332,Hazardous,278.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 03:00 AM,2020,12,06,03,266.7,317,Hazardous,247.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 04:00 AM,2020,12,06,04,269.7,320,Hazardous,269.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 05:00 AM,2020,12,06,05,455.8,471,Hazardous,645.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 06:00 AM,2020,12,06,06,516.4,511,Hazardous,577.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 07:00 AM,2020,12,06,07,534.7,523,Hazardous,553.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 08:00 AM,2020,12,06,08,542.9,528,Hazardous,551.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 09:00 AM,2020,12,06,09,522.9,515,Hazardous,503.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 10:00 AM,2020,12,06,10,610.5,573,Hazardous,698.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 11:00 AM,2020,12,06,11,487.7,492,Hazardous,365.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 12:00 PM,2020,12,06,12,406.3,438,Hazardous,325.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 01:00 PM,2020,12,06,13,360.2,407,Hazardous,314.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 02:00 PM,2020,12,06,14,314.0,364,Hazardous,268.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 03:00 PM,2020,12,06,15,283.5,334,Hazardous,253.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 04:00 PM,2020,12,06,16,262.7,313,Hazardous,242.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 05:00 PM,2020,12,06,17,256.8,307,Hazardous,251.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 06:00 PM,2020,12,06,18,266.3,317,Hazardous,276.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 07:00 PM,2020,12,06,19,301.6,352,Hazardous,337.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 08:00 PM,2020,12,06,20,324.8,375,Hazardous,348.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 09:00 PM,2020,12,06,21,318.3,368,Hazardous,312.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 10:00 PM,2020,12,06,22,312.0,362,Hazardous,314.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-06 11:00 PM,2020,12,06,23,305.9,356,Hazardous,296.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 12:00 AM,2020,12,07,00,297.8,348,Hazardous,280.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 01:00 AM,2020,12,07,01,276.0,326,Hazardous,233.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 02:00 AM,2020,12,07,02,227.7,278,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 03:00 AM,2020,12,07,03,208.6,259,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 04:00 AM,2020,12,07,04,191.9,242,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 05:00 AM,2020,12,07,05,181.1,231,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 06:00 AM,2020,12,07,06,173.0,223,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 07:00 AM,2020,12,07,07,180.0,230,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 08:00 AM,2020,12,07,08,182.9,233,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 09:00 AM,2020,12,07,09,208.1,258,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 10:00 AM,2020,12,07,10,179.3,230,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 11:00 AM,2020,12,07,11,173.0,223,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 12:00 PM,2020,12,07,12,168.9,219,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 01:00 PM,2020,12,07,13,144.9,197,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 02:00 PM,2020,12,07,14,134.9,192,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 03:00 PM,2020,12,07,15,136.3,193,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 04:00 PM,2020,12,07,16,144.8,197,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 05:00 PM,2020,12,07,17,152.5,203,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 06:00 PM,2020,12,07,18,161.3,212,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 07:00 PM,2020,12,07,19,194.7,245,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 08:00 PM,2020,12,07,20,206.8,257,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 09:00 PM,2020,12,07,21,252.1,303,Hazardous,296.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 10:00 PM,2020,12,07,22,271.0,321,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-07 11:00 PM,2020,12,07,23,346.0,396,Hazardous,421.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 12:00 AM,2020,12,08,00,618.1,578,Hazardous,890.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 01:00 AM,2020,12,08,01,658.6,604,Hazardous,699.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 02:00 AM,2020,12,08,02,594.3,562,Hazardous,530.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 03:00 AM,2020,12,08,03,576.7,550,Hazardous,559.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 04:00 AM,2020,12,08,04,524.4,516,Hazardous,472.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 05:00 AM,2020,12,08,05,458.2,472,Hazardous,392.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 06:00 AM,2020,12,08,06,429.6,453,Hazardous,401.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 07:00 AM,2020,12,08,07,398.8,433,Hazardous,368.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 08:00 AM,2020,12,08,08,389.9,427,Hazardous,381.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 09:00 AM,2020,12,08,09,311.9,362,Hazardous,234.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 10:00 AM,2020,12,08,10,235.9,286,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 11:00 AM,2020,12,08,11,173.9,224,Very Unhealthy,112.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 12:00 PM,2020,12,08,12,134.8,192,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 01:00 PM,2020,12,08,13,117.3,183,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 02:00 PM,2020,12,08,14,117.6,183,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 03:00 PM,2020,12,08,15,125.7,187,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 04:00 PM,2020,12,08,16,87.8,168,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 05:00 PM,2020,12,08,17,76.3,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 06:00 PM,2020,12,08,18,75.1,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 07:00 PM,2020,12,08,19,69.0,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 08:00 PM,2020,12,08,20,86.9,167,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 09:00 PM,2020,12,08,21,96.9,172,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 10:00 PM,2020,12,08,22,94.4,171,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-08 11:00 PM,2020,12,08,23,89.2,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 12:00 AM,2020,12,09,00,91.6,170,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 01:00 AM,2020,12,09,01,90.3,169,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 02:00 AM,2020,12,09,02,95.1,171,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 03:00 AM,2020,12,09,03,118.5,184,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 04:00 AM,2020,12,09,04,163.8,214,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 05:00 AM,2020,12,09,05,145.4,197,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 06:00 AM,2020,12,09,06,121.2,185,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 07:00 AM,2020,12,09,07,156.6,207,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 08:00 AM,2020,12,09,08,139.3,194,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 09:00 AM,2020,12,09,09,131.1,190,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 10:00 AM,2020,12,09,10,156.0,206,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 11:00 AM,2020,12,09,11,133.0,191,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 12:00 PM,2020,12,09,12,128.0,188,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 01:00 PM,2020,12,09,13,141.5,195,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 02:00 PM,2020,12,09,14,130.2,190,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 03:00 PM,2020,12,09,15,127.1,188,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 04:00 PM,2020,12,09,16,151.8,202,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 05:00 PM,2020,12,09,17,179.5,230,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 06:00 PM,2020,12,09,18,253.7,304,Hazardous,328.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 07:00 PM,2020,12,09,19,187.3,237,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 08:00 PM,2020,12,09,20,159.1,210,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 09:00 PM,2020,12,09,21,151.1,202,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 10:00 PM,2020,12,09,22,210.5,260,Very Unhealthy,270.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-09 11:00 PM,2020,12,09,23,232.7,282,Very Unhealthy,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 12:00 AM,2020,12,10,00,235.4,285,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 01:00 AM,2020,12,10,01,251.7,302,Hazardous,268.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 02:00 AM,2020,12,10,02,272.8,323,Hazardous,294.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 03:00 AM,2020,12,10,03,288.9,339,Hazardous,305.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 04:00 AM,2020,12,10,04,273.4,324,Hazardous,258.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 05:00 AM,2020,12,10,05,219.2,269,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 06:00 AM,2020,12,10,06,163.5,214,Very Unhealthy,108.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 07:00 AM,2020,12,10,07,151.7,202,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 08:00 AM,2020,12,10,08,127.3,188,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 09:00 AM,2020,12,10,09,119.1,184,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 10:00 AM,2020,12,10,10,124.5,187,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 11:00 AM,2020,12,10,11,113.2,181,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 12:00 PM,2020,12,10,12,105.6,177,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 01:00 PM,2020,12,10,13,91.7,170,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 02:00 PM,2020,12,10,14,81.8,165,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 03:00 PM,2020,12,10,15,77.9,163,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 04:00 PM,2020,12,10,16,73.4,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 05:00 PM,2020,12,10,17,77.2,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 06:00 PM,2020,12,10,18,100.1,174,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 07:00 PM,2020,12,10,19,141.5,195,Unhealthy,183.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 08:00 PM,2020,12,10,20,175.7,226,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 09:00 PM,2020,12,10,21,220.4,270,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 10:00 PM,2020,12,10,22,275.2,325,Hazardous,330.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-10 11:00 PM,2020,12,10,23,302.6,353,Hazardous,330.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 12:00 AM,2020,12,11,00,354.3,404,Hazardous,406.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 01:00 AM,2020,12,11,01,383.7,423,Hazardous,413.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 02:00 AM,2020,12,11,02,366.3,411,Hazardous,349.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 03:00 AM,2020,12,11,03,356.2,405,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 04:00 AM,2020,12,11,04,331.1,381,Hazardous,306.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 05:00 AM,2020,12,11,05,287.0,337,Hazardous,243.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 06:00 AM,2020,12,11,06,257.5,308,Hazardous,228.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 07:00 AM,2020,12,11,07,202.2,252,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 08:00 AM,2020,12,11,08,221.1,271,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 09:00 AM,2020,12,11,09,203.0,253,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 10:00 AM,2020,12,11,10,159.0,209,Very Unhealthy,115.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 11:00 AM,2020,12,11,11,129.4,189,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 12:00 PM,2020,12,11,12,120.2,184,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 01:00 PM,2020,12,11,13,121.5,185,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 02:00 PM,2020,12,11,14,93.7,171,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 03:00 PM,2020,12,11,15,77.3,162,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 04:00 PM,2020,12,11,16,61.6,154,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 05:00 PM,2020,12,11,17,61.7,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 06:00 PM,2020,12,11,18,67.8,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 07:00 PM,2020,12,11,19,75.4,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 08:00 PM,2020,12,11,20,62.6,155,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 09:00 PM,2020,12,11,21,49.8,136,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 10:00 PM,2020,12,11,22,42.4,118,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-11 11:00 PM,2020,12,11,23,35.6,101,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 12:00 AM,2020,12,12,00,33.8,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 01:00 AM,2020,12,12,01,30.4,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 02:00 AM,2020,12,12,02,32.1,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 03:00 AM,2020,12,12,03,44.0,122,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 04:00 AM,2020,12,12,04,77.5,162,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 05:00 AM,2020,12,12,05,78.2,163,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 06:00 AM,2020,12,12,06,89.1,168,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 07:00 AM,2020,12,12,07,66.5,157,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 08:00 AM,2020,12,12,08,50.2,137,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 09:00 AM,2020,12,12,09,54.1,147,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 10:00 AM,2020,12,12,10,47.5,131,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 11:00 AM,2020,12,12,11,34.2,97,Moderate,21.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 12:00 PM,2020,12,12,12,25.1,78,Moderate,16.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 01:00 PM,2020,12,12,13,24.5,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 02:00 PM,2020,12,12,14,24.7,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 03:00 PM,2020,12,12,15,31.8,92,Moderate,39.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 04:00 PM,2020,12,12,16,39.4,111,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 05:00 PM,2020,12,12,17,45.7,126,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 06:00 PM,2020,12,12,18,64.3,156,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 07:00 PM,2020,12,12,19,85.6,167,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 08:00 PM,2020,12,12,20,99.8,174,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 09:00 PM,2020,12,12,21,125.9,187,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 10:00 PM,2020,12,12,22,140.9,195,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-12 11:00 PM,2020,12,12,23,152.0,202,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 12:00 AM,2020,12,13,00,153.0,203,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 01:00 AM,2020,12,13,01,155.0,205,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 02:00 AM,2020,12,13,02,143.5,196,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 03:00 AM,2020,12,13,03,122.7,186,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 04:00 AM,2020,12,13,04,105.8,177,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 05:00 AM,2020,12,13,05,94.1,171,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 06:00 AM,2020,12,13,06,72.4,160,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 07:00 AM,2020,12,13,07,64.7,156,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 08:00 AM,2020,12,13,08,66.8,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 09:00 AM,2020,12,13,09,81.9,165,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 10:00 AM,2020,12,13,10,92.4,170,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 11:00 AM,2020,12,13,11,87.7,168,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 12:00 PM,2020,12,13,12,80.8,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 01:00 PM,2020,12,13,13,75.9,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 02:00 PM,2020,12,13,14,71.9,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 03:00 PM,2020,12,13,15,67.9,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 04:00 PM,2020,12,13,16,67.4,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 05:00 PM,2020,12,13,17,65.2,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 06:00 PM,2020,12,13,18,66.7,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 07:00 PM,2020,12,13,19,65.5,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 08:00 PM,2020,12,13,20,62.5,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 09:00 PM,2020,12,13,21,57.0,152,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 10:00 PM,2020,12,13,22,57.3,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-13 11:00 PM,2020,12,13,23,55.9,151,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 12:00 AM,2020,12,14,00,57.6,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 01:00 AM,2020,12,14,01,60.2,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 02:00 AM,2020,12,14,02,61.8,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 03:00 AM,2020,12,14,03,66.0,156,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 04:00 AM,2020,12,14,04,76.4,162,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 05:00 AM,2020,12,14,05,99.3,174,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 06:00 AM,2020,12,14,06,137.6,193,Unhealthy,176.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 07:00 AM,2020,12,14,07,128.8,189,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 08:00 AM,2020,12,14,08,96.4,172,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 09:00 AM,2020,12,14,09,87.7,168,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 10:00 AM,2020,12,14,10,92.3,170,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 11:00 AM,2020,12,14,11,98.6,173,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 12:00 PM,2020,12,14,12,114.3,181,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 01:00 PM,2020,12,14,13,115.1,182,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 02:00 PM,2020,12,14,14,113.5,181,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 03:00 PM,2020,12,14,15,120.3,184,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 04:00 PM,2020,12,14,16,119.6,184,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 05:00 PM,2020,12,14,17,138.8,194,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 06:00 PM,2020,12,14,18,149.4,199,Unhealthy,160.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 07:00 PM,2020,12,14,19,119.7,184,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 08:00 PM,2020,12,14,20,106.8,177,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 09:00 PM,2020,12,14,21,111.5,180,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 10:00 PM,2020,12,14,22,127.0,188,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-14 11:00 PM,2020,12,14,23,134.0,192,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 12:00 AM,2020,12,15,00,129.2,189,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 01:00 AM,2020,12,15,01,128.2,189,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 02:00 AM,2020,12,15,02,111.5,180,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 03:00 AM,2020,12,15,03,110.4,179,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 04:00 AM,2020,12,15,04,113.2,181,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 05:00 AM,2020,12,15,05,109.2,179,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 06:00 AM,2020,12,15,06,102.4,175,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 07:00 AM,2020,12,15,07,103.0,176,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 08:00 AM,2020,12,15,08,102.6,175,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 09:00 AM,2020,12,15,09,105.5,177,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 10:00 AM,2020,12,15,10,112.3,180,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 11:00 AM,2020,12,15,11,122.5,186,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 12:00 PM,2020,12,15,12,132.7,191,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 01:00 PM,2020,12,15,13,166.7,217,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 02:00 PM,2020,12,15,14,184.3,234,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 03:00 PM,2020,12,15,15,181.2,231,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 04:00 PM,2020,12,15,16,163.6,214,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 05:00 PM,2020,12,15,17,141.3,195,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 06:00 PM,2020,12,15,18,147.2,198,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 07:00 PM,2020,12,15,19,135.2,192,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 08:00 PM,2020,12,15,20,146.3,198,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 09:00 PM,2020,12,15,21,142.9,196,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 10:00 PM,2020,12,15,22,120.1,184,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-15 11:00 PM,2020,12,15,23,111.5,180,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 12:00 AM,2020,12,16,00,105.2,177,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 01:00 AM,2020,12,16,01,109.1,179,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 02:00 AM,2020,12,16,02,110.2,179,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 03:00 AM,2020,12,16,03,107.4,178,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 04:00 AM,2020,12,16,04,102.8,175,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 05:00 AM,2020,12,16,05,110.7,180,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 06:00 AM,2020,12,16,06,135.4,192,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 07:00 AM,2020,12,16,07,115.0,182,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 08:00 AM,2020,12,16,08,105.1,177,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 09:00 AM,2020,12,16,09,101.2,175,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 10:00 AM,2020,12,16,10,108.2,178,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 11:00 AM,2020,12,16,11,116.5,182,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 12:00 PM,2020,12,16,12,125.2,187,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 01:00 PM,2020,12,16,13,140.6,195,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 02:00 PM,2020,12,16,14,141.7,196,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 03:00 PM,2020,12,16,15,145.6,198,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 04:00 PM,2020,12,16,16,149.5,200,Unhealthy,154.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 05:00 PM,2020,12,16,17,138.9,194,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 06:00 PM,2020,12,16,18,140.0,195,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 07:00 PM,2020,12,16,19,149.3,199,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 08:00 PM,2020,12,16,20,184.9,235,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 09:00 PM,2020,12,16,21,214.5,264,Very Unhealthy,244.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 10:00 PM,2020,12,16,22,228.6,278,Very Unhealthy,245.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-16 11:00 PM,2020,12,16,23,226.7,277,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 12:00 AM,2020,12,17,00,214.3,264,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 01:00 AM,2020,12,17,01,222.8,273,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 02:00 AM,2020,12,17,02,209.4,259,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 03:00 AM,2020,12,17,03,186.5,237,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 04:00 AM,2020,12,17,04,165.5,216,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 05:00 AM,2020,12,17,05,155.4,206,Very Unhealthy,138.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 06:00 AM,2020,12,17,06,149.5,200,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 07:00 AM,2020,12,17,07,135.5,192,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 08:00 AM,2020,12,17,08,136.2,193,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 09:00 AM,2020,12,17,09,152.9,203,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 10:00 AM,2020,12,17,10,183.3,234,Very Unhealthy,219.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 11:00 AM,2020,12,17,11,234.0,284,Very Unhealthy,282.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 12:00 PM,2020,12,17,12,407.5,439,Hazardous,581.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 01:00 PM,2020,12,17,13,604.3,569,Hazardous,801.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 02:00 PM,2020,12,17,14,442.6,462,Hazardous,281.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 03:00 PM,2020,12,17,15,325.3,375,Hazardous,208.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 04:00 PM,2020,12,17,16,240.1,290,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 05:00 PM,2020,12,17,17,197.5,248,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 06:00 PM,2020,12,17,18,218.8,269,Very Unhealthy,240.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 07:00 PM,2020,12,17,19,263.9,314,Hazardous,309.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 08:00 PM,2020,12,17,20,334.9,385,Hazardous,406.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 09:00 PM,2020,12,17,21,384.5,423,Hazardous,434.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 10:00 PM,2020,12,17,22,417.2,445,Hazardous,450.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-17 11:00 PM,2020,12,17,23,460.1,473,Hazardous,503.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 12:00 AM,2020,12,18,00,492.5,495,Hazardous,525.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 01:00 AM,2020,12,18,01,503.7,502,Hazardous,515.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 02:00 AM,2020,12,18,02,416.3,444,Hazardous,329.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 03:00 AM,2020,12,18,03,307.1,357,Hazardous,198.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 04:00 AM,2020,12,18,04,225.5,275,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 05:00 AM,2020,12,18,05,189.2,239,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 06:00 AM,2020,12,18,06,174.1,224,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 07:00 AM,2020,12,18,07,170.5,221,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 08:00 AM,2020,12,18,08,174.2,224,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 09:00 AM,2020,12,18,09,188.0,238,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 10:00 AM,2020,12,18,10,205.5,256,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 11:00 AM,2020,12,18,11,190.2,240,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 12:00 PM,2020,12,18,12,174.0,224,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 01:00 PM,2020,12,18,13,166.9,217,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 02:00 PM,2020,12,18,14,155.6,206,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 03:00 PM,2020,12,18,15,122.7,186,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 04:00 PM,2020,12,18,16,104.8,176,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 05:00 PM,2020,12,18,17,113.4,181,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 06:00 PM,2020,12,18,18,156.7,207,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 07:00 PM,2020,12,18,19,194.8,245,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 08:00 PM,2020,12,18,20,251.4,302,Hazardous,308.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 09:00 PM,2020,12,18,21,274.2,324,Hazardous,297.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 10:00 PM,2020,12,18,22,324.6,374,Hazardous,375.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-18 11:00 PM,2020,12,18,23,387.3,425,Hazardous,450.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 12:00 AM,2020,12,19,00,429.7,453,Hazardous,472.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 01:00 AM,2020,12,19,01,459.3,473,Hazardous,489.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 02:00 AM,2020,12,19,02,450.7,467,Hazardous,442.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 03:00 AM,2020,12,19,03,393.8,430,Hazardous,337.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 04:00 AM,2020,12,19,04,339.4,389,Hazardous,285.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 05:00 AM,2020,12,19,05,299.2,349,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 06:00 AM,2020,12,19,06,292.1,342,Hazardous,285.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 07:00 AM,2020,12,19,07,292.7,343,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 08:00 AM,2020,12,19,08,292.7,343,Hazardous,614.0,UG/M3,1 Hr,Invalid
+Lahore,PM2.5 - Principal,2020-12-19 09:00 AM,2020,12,19,09,516.4,511,Hazardous,629.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-19 10:00 AM,2020,12,19,10,606.5,570,Hazardous,674.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-19 11:00 AM,2020,12,19,11,606.5,570,Hazardous,417.0,UG/M3,1 Hr,Invalid
+Lahore,PM2.5 - Principal,2020-12-19 12:00 PM,2020,12,19,12,-999.0,-999,N/A,129.0,UG/M3,1 Hr,Invalid
+Lahore,PM2.5 - Principal,2020-12-19 01:00 PM,2020,12,19,13,-999.0,-999,N/A,190.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 02:00 PM,2020,12,19,14,170.9,221,Very Unhealthy,114.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 03:00 PM,2020,12,19,15,145.4,197,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 04:00 PM,2020,12,19,16,134.6,192,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 05:00 PM,2020,12,19,17,130.2,190,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 06:00 PM,2020,12,19,18,138.6,194,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 07:00 PM,2020,12,19,19,178.5,229,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 08:00 PM,2020,12,19,20,221.4,271,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 09:00 PM,2020,12,19,21,293.2,343,Hazardous,365.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 10:00 PM,2020,12,19,22,340.6,390,Hazardous,388.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-19 11:00 PM,2020,12,19,23,386.3,425,Hazardous,432.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 12:00 AM,2020,12,20,00,443.6,462,Hazardous,501.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-20 01:00 AM,2020,12,20,01,499.8,500,Hazardous,556.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-20 02:00 AM,2020,12,20,02,460.4,474,Hazardous,421.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 03:00 AM,2020,12,20,03,403.2,436,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 04:00 AM,2020,12,20,04,346.6,396,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 05:00 AM,2020,12,20,05,319.3,369,Hazardous,292.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 06:00 AM,2020,12,20,06,308.1,358,Hazardous,297.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 07:00 AM,2020,12,20,07,299.1,349,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 08:00 AM,2020,12,20,08,302.2,352,Hazardous,304.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 09:00 AM,2020,12,20,09,321.7,372,Hazardous,343.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 10:00 AM,2020,12,20,10,288.6,339,Hazardous,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 11:00 AM,2020,12,20,11,230.2,280,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 12:00 PM,2020,12,20,12,222.1,272,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 01:00 PM,2020,12,20,13,158.4,209,Very Unhealthy,95.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 02:00 PM,2020,12,20,14,134.7,192,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 03:00 PM,2020,12,20,15,114.3,181,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 04:00 PM,2020,12,20,16,119.6,184,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 05:00 PM,2020,12,20,17,134.8,192,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 06:00 PM,2020,12,20,18,150.8,201,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 07:00 PM,2020,12,20,19,172.9,223,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 08:00 PM,2020,12,20,20,187.9,238,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 09:00 PM,2020,12,20,21,212.4,262,Very Unhealthy,237.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 10:00 PM,2020,12,20,22,251.2,302,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-20 11:00 PM,2020,12,20,23,285.1,335,Hazardous,319.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 12:00 AM,2020,12,21,00,320.5,370,Hazardous,356.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 01:00 AM,2020,12,21,01,377.8,419,Hazardous,435.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 02:00 AM,2020,12,21,02,403.9,436,Hazardous,430.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 03:00 AM,2020,12,21,03,408.0,439,Hazardous,412.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 04:00 AM,2020,12,21,04,397.5,432,Hazardous,387.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 05:00 AM,2020,12,21,05,346.7,396,Hazardous,296.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 06:00 AM,2020,12,21,06,307.4,357,Hazardous,268.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 07:00 AM,2020,12,21,07,278.7,329,Hazardous,250.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 08:00 AM,2020,12,21,08,275.1,325,Hazardous,264.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 09:00 AM,2020,12,21,09,269.9,320,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 10:00 AM,2020,12,21,10,276.7,327,Hazardous,286.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 11:00 AM,2020,12,21,11,290.9,341,Hazardous,310.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 12:00 PM,2020,12,21,12,233.8,284,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 01:00 PM,2020,12,21,13,162.8,213,Very Unhealthy,92.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 02:00 PM,2020,12,21,14,130.4,190,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 03:00 PM,2020,12,21,15,110.6,179,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 04:00 PM,2020,12,21,16,98.7,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 05:00 PM,2020,12,21,17,102.8,175,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 06:00 PM,2020,12,21,18,154.4,205,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 07:00 PM,2020,12,21,19,213.7,264,Very Unhealthy,273.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 08:00 PM,2020,12,21,20,265.3,316,Hazardous,317.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 09:00 PM,2020,12,21,21,310.1,360,Hazardous,355.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 10:00 PM,2020,12,21,22,357.1,405,Hazardous,404.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-21 11:00 PM,2020,12,21,23,382.5,422,Hazardous,408.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 12:00 AM,2020,12,22,00,390.8,428,Hazardous,399.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 01:00 AM,2020,12,22,01,391.9,428,Hazardous,393.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 02:00 AM,2020,12,22,02,412.0,442,Hazardous,432.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 03:00 AM,2020,12,22,03,428.5,453,Hazardous,445.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 04:00 AM,2020,12,22,04,427.3,452,Hazardous,426.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 05:00 AM,2020,12,22,05,419.6,447,Hazardous,412.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 06:00 AM,2020,12,22,06,425.1,450,Hazardous,435.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 07:00 AM,2020,12,22,07,434.4,456,Hazardous,459.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 08:00 AM,2020,12,22,08,466.3,477,Hazardous,528.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 09:00 AM,2020,12,22,09,644.3,595,Hazardous,803.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 10:00 AM,2020,12,22,10,728.2,650,Hazardous,812.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 11:00 AM,2020,12,22,11,603.6,568,Hazardous,479.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 12:00 PM,2020,12,22,12,422.2,448,Hazardous,241.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 01:00 PM,2020,12,22,13,322.1,372,Hazardous,222.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 02:00 PM,2020,12,22,14,269.5,320,Hazardous,217.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 03:00 PM,2020,12,22,15,216.7,267,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 04:00 PM,2020,12,22,16,239.8,289,Very Unhealthy,263.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 05:00 PM,2020,12,22,17,276.9,327,Hazardous,314.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 06:00 PM,2020,12,22,18,335.4,385,Hazardous,394.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 07:00 PM,2020,12,22,19,334.7,384,Hazardous,334.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 08:00 PM,2020,12,22,20,343.8,393,Hazardous,353.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 09:00 PM,2020,12,22,21,360.8,408,Hazardous,378.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 10:00 PM,2020,12,22,22,395.8,431,Hazardous,431.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-22 11:00 PM,2020,12,22,23,401.4,435,Hazardous,407.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 12:00 AM,2020,12,23,00,415.2,444,Hazardous,429.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 01:00 AM,2020,12,23,01,443.1,462,Hazardous,471.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 02:00 AM,2020,12,23,02,461.6,474,Hazardous,480.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 03:00 AM,2020,12,23,03,465.9,477,Hazardous,476.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 04:00 AM,2020,12,23,04,447.4,465,Hazardous,429.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 05:00 AM,2020,12,23,05,435.0,457,Hazardous,410.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 06:00 AM,2020,12,23,06,428.0,452,Hazardous,412.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 07:00 AM,2020,12,23,07,418.9,446,Hazardous,390.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 08:00 AM,2020,12,23,08,380.1,421,Hazardous,315.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 09:00 AM,2020,12,23,09,360.3,407,Hazardous,323.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 10:00 AM,2020,12,23,10,340.0,390,Hazardous,308.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 11:00 AM,2020,12,23,11,303.9,354,Hazardous,270.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 12:00 PM,2020,12,23,12,283.8,334,Hazardous,262.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 01:00 PM,2020,12,23,13,245.3,295,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 02:00 PM,2020,12,23,14,190.6,241,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 03:00 PM,2020,12,23,15,153.7,204,Very Unhealthy,117.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 04:00 PM,2020,12,23,16,203.3,253,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 05:00 PM,2020,12,23,17,241.6,291,Very Unhealthy,280.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 06:00 PM,2020,12,23,18,300.8,351,Hazardous,360.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 07:00 PM,2020,12,23,19,358.4,406,Hazardous,416.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 08:00 PM,2020,12,23,20,420.2,447,Hazardous,482.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-23 09:00 PM,2020,12,23,21,482.1,488,Hazardous,544.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-23 10:00 PM,2020,12,23,22,509.0,506,Hazardous,536.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-23 11:00 PM,2020,12,23,23,538.0,525,Hazardous,567.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-24 12:00 AM,2020,12,24,00,537.0,524,Hazardous,536.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-24 01:00 AM,2020,12,24,01,512.0,508,Hazardous,487.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 02:00 AM,2020,12,24,02,492.5,495,Hazardous,473.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 03:00 AM,2020,12,24,03,439.8,460,Hazardous,387.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 04:00 AM,2020,12,24,04,381.9,422,Hazardous,324.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 05:00 AM,2020,12,24,05,335.6,385,Hazardous,287.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 06:00 AM,2020,12,24,06,296.2,346,Hazardous,258.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 07:00 AM,2020,12,24,07,295.0,345,Hazardous,294.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 08:00 AM,2020,12,24,08,387.0,425,Hazardous,479.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 09:00 AM,2020,12,24,09,386.0,424,Hazardous,385.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 10:00 AM,2020,12,24,10,356.9,405,Hazardous,328.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 11:00 AM,2020,12,24,11,311.9,362,Hazardous,267.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 12:00 PM,2020,12,24,12,279.5,330,Hazardous,246.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 01:00 PM,2020,12,24,13,268.5,319,Hazardous,256.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 02:00 PM,2020,12,24,14,273.1,323,Hazardous,278.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 03:00 PM,2020,12,24,15,347.0,397,Hazardous,425.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 04:00 PM,2020,12,24,16,442.9,462,Hazardous,537.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-24 05:00 PM,2020,12,24,17,486.5,491,Hazardous,530.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-24 06:00 PM,2020,12,24,18,506.2,504,Hazardous,526.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-24 07:00 PM,2020,12,24,19,532.1,521,Hazardous,558.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-24 08:00 PM,2020,12,24,20,524.5,516,Hazardous,517.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-24 09:00 PM,2020,12,24,21,508.8,506,Hazardous,493.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 10:00 PM,2020,12,24,22,484.4,489,Hazardous,460.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-24 11:00 PM,2020,12,24,23,456.2,471,Hazardous,428.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 12:00 AM,2020,12,25,00,481.1,487,Hazardous,506.0,UG/M3,1 Hr,Suspect
+Lahore,PM2.5 - Principal,2020-12-25 01:00 AM,2020,12,25,01,470.0,480,Hazardous,459.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 02:00 AM,2020,12,25,02,451.0,467,Hazardous,391.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 03:00 AM,2020,12,25,03,387.9,426,Hazardous,321.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 04:00 AM,2020,12,25,04,317.3,367,Hazardous,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 05:00 AM,2020,12,25,05,291.6,342,Hazardous,266.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 06:00 AM,2020,12,25,06,458.8,473,Hazardous,626.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 07:00 AM,2020,12,25,07,520.4,513,Hazardous,582.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 08:00 AM,2020,12,25,08,605.2,569,Hazardous,690.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 09:00 AM,2020,12,25,09,601.1,567,Hazardous,597.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 10:00 AM,2020,12,25,10,560.5,540,Hazardous,520.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 11:00 AM,2020,12,25,11,540.2,526,Hazardous,520.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 12:00 PM,2020,12,25,12,706.6,636,Hazardous,873.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 01:00 PM,2020,12,25,13,706.7,636,Hazardous,510.0,UG/M3,1 Hr,Invalid
+Lahore,PM2.5 - Principal,2020-12-25 02:00 PM,2020,12,25,14,-999.0,-999,N/A,238.0,UG/M3,1 Hr,Invalid
+Lahore,PM2.5 - Principal,2020-12-25 03:00 PM,2020,12,25,15,-999.0,-999,N/A,213.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 04:00 PM,2020,12,25,16,237.4,287,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 05:00 PM,2020,12,25,17,225.0,275,Very Unhealthy,215.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 06:00 PM,2020,12,25,18,230.2,280,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 07:00 PM,2020,12,25,19,268.4,319,Hazardous,305.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 08:00 PM,2020,12,25,20,289.4,340,Hazardous,310.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 09:00 PM,2020,12,25,21,324.3,374,Hazardous,359.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 10:00 PM,2020,12,25,22,360.2,407,Hazardous,396.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-25 11:00 PM,2020,12,25,23,378.1,419,Hazardous,396.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 12:00 AM,2020,12,26,00,372.5,416,Hazardous,367.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 01:00 AM,2020,12,26,01,368.7,413,Hazardous,365.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 02:00 AM,2020,12,26,02,357.3,405,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 03:00 AM,2020,12,26,03,305.1,355,Hazardous,253.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 04:00 AM,2020,12,26,04,244.5,294,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 05:00 AM,2020,12,26,05,188.7,239,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 06:00 AM,2020,12,26,06,182.8,233,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 07:00 AM,2020,12,26,07,199.4,249,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 08:00 AM,2020,12,26,08,175.1,225,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 09:00 AM,2020,12,26,09,208.5,258,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 10:00 AM,2020,12,26,10,252.2,303,Hazardous,296.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 11:00 AM,2020,12,26,11,371.6,415,Hazardous,491.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 12:00 PM,2020,12,26,12,431.3,454,Hazardous,491.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 01:00 PM,2020,12,26,13,431.3,454,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Lahore,PM2.5 - Principal,2020-12-26 03:00 PM,2020,12,26,15,-999.0,-999,N/A,664.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 04:00 PM,2020,12,26,16,552.0,534,Hazardous,511.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 05:00 PM,2020,12,26,17,531.1,520,Hazardous,514.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 06:00 PM,2020,12,26,18,504.8,503,Hazardous,481.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 07:00 PM,2020,12,26,19,442.9,462,Hazardous,384.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 08:00 PM,2020,12,26,20,368.6,413,Hazardous,296.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 09:00 PM,2020,12,26,21,303.9,354,Hazardous,240.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 10:00 PM,2020,12,26,22,240.7,290,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-26 11:00 PM,2020,12,26,23,203.7,254,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 12:00 AM,2020,12,27,00,175.3,226,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 01:00 AM,2020,12,27,01,158.1,209,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 02:00 AM,2020,12,27,02,142.0,196,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 03:00 AM,2020,12,27,03,127.9,188,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 04:00 AM,2020,12,27,04,112.4,180,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 05:00 AM,2020,12,27,05,105.6,177,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 06:00 AM,2020,12,27,06,96.7,172,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 07:00 AM,2020,12,27,07,89.8,169,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 08:00 AM,2020,12,27,08,96.4,172,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 09:00 AM,2020,12,27,09,101.6,175,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 10:00 AM,2020,12,27,10,110.8,180,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 11:00 AM,2020,12,27,11,128.2,189,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 12:00 PM,2020,12,27,12,157.4,208,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 01:00 PM,2020,12,27,13,191.7,242,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 02:00 PM,2020,12,27,14,168.3,219,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 03:00 PM,2020,12,27,15,152.6,203,Very Unhealthy,137.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 04:00 PM,2020,12,27,16,150.8,201,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 05:00 PM,2020,12,27,17,167.9,218,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 06:00 PM,2020,12,27,18,162.9,213,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 07:00 PM,2020,12,27,19,162.4,213,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 08:00 PM,2020,12,27,20,170.7,221,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 09:00 PM,2020,12,27,21,160.7,211,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 10:00 PM,2020,12,27,22,130.6,190,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-27 11:00 PM,2020,12,27,23,97.8,173,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 12:00 AM,2020,12,28,00,69.8,158,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 01:00 AM,2020,12,28,01,54.4,148,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 02:00 AM,2020,12,28,02,50.2,137,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 03:00 AM,2020,12,28,03,60.5,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 04:00 AM,2020,12,28,04,71.7,159,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 05:00 AM,2020,12,28,05,91.3,169,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 06:00 AM,2020,12,28,06,132.6,191,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 07:00 AM,2020,12,28,07,136.3,193,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 08:00 AM,2020,12,28,08,116.6,183,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 09:00 AM,2020,12,28,09,108.8,179,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 10:00 AM,2020,12,28,10,100.4,174,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 11:00 AM,2020,12,28,11,92.7,170,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 12:00 PM,2020,12,28,12,91.3,169,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 01:00 PM,2020,12,28,13,90.6,169,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 02:00 PM,2020,12,28,14,130.8,190,Unhealthy,171.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 03:00 PM,2020,12,28,15,147.9,199,Unhealthy,165.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 04:00 PM,2020,12,28,16,127.9,188,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 05:00 PM,2020,12,28,17,110.9,180,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 06:00 PM,2020,12,28,18,130.4,190,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 07:00 PM,2020,12,28,19,136.7,193,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 08:00 PM,2020,12,28,20,151.3,202,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 09:00 PM,2020,12,28,21,205.2,255,Very Unhealthy,259.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 10:00 PM,2020,12,28,22,261.6,312,Hazardous,318.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-28 11:00 PM,2020,12,28,23,317.8,368,Hazardous,374.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 12:00 AM,2020,12,29,00,321.9,372,Hazardous,326.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 01:00 AM,2020,12,29,01,274.9,325,Hazardous,228.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 02:00 AM,2020,12,29,02,258.5,309,Hazardous,242.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 03:00 AM,2020,12,29,03,256.7,307,Hazardous,255.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 04:00 AM,2020,12,29,04,270.9,321,Hazardous,285.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 05:00 AM,2020,12,29,05,215.9,266,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 06:00 AM,2020,12,29,06,168.9,219,Very Unhealthy,122.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 07:00 AM,2020,12,29,07,129.4,189,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 08:00 AM,2020,12,29,08,113.7,181,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 09:00 AM,2020,12,29,09,111.8,180,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 10:00 AM,2020,12,29,10,121.9,185,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 11:00 AM,2020,12,29,11,134.4,192,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 12:00 PM,2020,12,29,12,158.1,209,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 01:00 PM,2020,12,29,13,171.5,222,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 02:00 PM,2020,12,29,14,190.2,240,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 03:00 PM,2020,12,29,15,176.6,227,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 04:00 PM,2020,12,29,16,149.7,200,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 05:00 PM,2020,12,29,17,124.3,187,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 06:00 PM,2020,12,29,18,141.7,196,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 07:00 PM,2020,12,29,19,181.8,232,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 08:00 PM,2020,12,29,20,223.4,273,Very Unhealthy,265.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 09:00 PM,2020,12,29,21,269.7,320,Hazardous,316.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 10:00 PM,2020,12,29,22,332.9,383,Hazardous,396.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-29 11:00 PM,2020,12,29,23,368.4,413,Hazardous,404.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 12:00 AM,2020,12,30,00,377.2,419,Hazardous,386.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 01:00 AM,2020,12,30,01,355.6,404,Hazardous,334.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 02:00 AM,2020,12,30,02,322.3,372,Hazardous,289.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 03:00 AM,2020,12,30,03,281.6,332,Hazardous,241.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 04:00 AM,2020,12,30,04,241.3,291,Very Unhealthy,201.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 05:00 AM,2020,12,30,05,216.6,267,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 06:00 AM,2020,12,30,06,202.8,253,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 07:00 AM,2020,12,30,07,199.4,249,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 08:00 AM,2020,12,30,08,203.2,253,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 09:00 AM,2020,12,30,09,235.0,285,Very Unhealthy,267.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 10:00 AM,2020,12,30,10,319.5,369,Hazardous,404.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 11:00 AM,2020,12,30,11,328.2,378,Hazardous,337.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 12:00 PM,2020,12,30,12,462.1,475,Hazardous,596.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 01:00 PM,2020,12,30,13,481.0,487,Hazardous,500.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 02:00 PM,2020,12,30,14,382.0,422,Hazardous,283.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 03:00 PM,2020,12,30,15,283.5,334,Hazardous,185.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 04:00 PM,2020,12,30,16,195.2,245,Very Unhealthy,107.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 05:00 PM,2020,12,30,17,172.1,222,Very Unhealthy,149.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 06:00 PM,2020,12,30,18,193.0,243,Very Unhealthy,214.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 07:00 PM,2020,12,30,19,304.0,354,Hazardous,415.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 08:00 PM,2020,12,30,20,339.0,389,Hazardous,374.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 09:00 PM,2020,12,30,21,365.0,411,Hazardous,391.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 10:00 PM,2020,12,30,22,359.5,407,Hazardous,354.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-30 11:00 PM,2020,12,30,23,365.7,411,Hazardous,372.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 12:00 AM,2020,12,31,00,363.8,410,Hazardous,362.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 01:00 AM,2020,12,31,01,346.4,396,Hazardous,329.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 02:00 AM,2020,12,31,02,318.2,368,Hazardous,290.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 03:00 AM,2020,12,31,03,275.6,326,Hazardous,233.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 04:00 AM,2020,12,31,04,380.3,421,Hazardous,485.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 05:00 AM,2020,12,31,05,432.7,455,Hazardous,485.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 06:00 AM,2020,12,31,06,592.9,561,Hazardous,753.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 07:00 AM,2020,12,31,07,497.4,498,Hazardous,402.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 08:00 AM,2020,12,31,08,399.7,433,Hazardous,302.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 09:00 AM,2020,12,31,09,410.3,440,Hazardous,421.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 10:00 AM,2020,12,31,10,473.2,482,Hazardous,536.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 11:00 AM,2020,12,31,11,619.6,579,Hazardous,766.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 12:00 PM,2020,12,31,12,460.3,474,Hazardous,301.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 01:00 PM,2020,12,31,13,336.6,386,Hazardous,213.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 02:00 PM,2020,12,31,14,303.3,353,Hazardous,270.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 03:00 PM,2020,12,31,15,269.6,320,Hazardous,236.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 04:00 PM,2020,12,31,16,238.2,288,Very Unhealthy,207.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 05:00 PM,2020,12,31,17,235.6,285,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 06:00 PM,2020,12,31,18,249.7,299,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 07:00 PM,2020,12,31,19,266.8,317,Hazardous,284.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 08:00 PM,2020,12,31,20,306.4,356,Hazardous,346.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 09:00 PM,2020,12,31,21,366.2,411,Hazardous,426.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 10:00 PM,2020,12,31,22,443.1,462,Hazardous,520.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2020-12-31 11:00 PM,2020,12,31,23,457.5,472,Hazardous,472.0,UG/M3,1 Hr,Valid
+Lahore,PM2.5 - Principal,2021-01-01 12:00 AM,2021,01,01,00,480.7,487,Hazardous,504.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,665 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Baghdad,PM2.5 - Principal,2020-12-01 01:00 AM,2020,12,01,01,124.5,187,Unhealthy,130.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 02:00 AM,2020,12,01,02,129.6,189,Unhealthy,134.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 03:00 AM,2020,12,01,03,129.0,189,Unhealthy,128.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 04:00 AM,2020,12,01,04,119.2,184,Unhealthy,109.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 05:00 AM,2020,12,01,05,106.7,177,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 06:00 AM,2020,12,01,06,89.2,168,Unhealthy,71.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 07:00 AM,2020,12,01,07,75.4,161,Unhealthy,61.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 08:00 AM,2020,12,01,08,77.1,162,Unhealthy,78.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 09:00 AM,2020,12,01,09,75.3,161,Unhealthy,73.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 10:00 AM,2020,12,01,10,83.5,165,Unhealthy,91.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 11:00 AM,2020,12,01,11,83.8,166,Unhealthy,84.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 12:00 PM,2020,12,01,12,70.7,159,Unhealthy,57.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 01:00 PM,2020,12,01,13,59.4,153,Unhealthy,48.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 02:00 PM,2020,12,01,14,56.1,151,Unhealthy,52.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 03:00 PM,2020,12,01,15,53.6,146,Unhealthy for Sensitive Groups,51.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 04:00 PM,2020,12,01,16,54.9,149,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 05:00 PM,2020,12,01,17,55.8,151,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 06:00 PM,2020,12,01,18,52.1,142,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 07:00 PM,2020,12,01,19,51.1,139,Unhealthy for Sensitive Groups,50.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 08:00 PM,2020,12,01,20,53.6,146,Unhealthy for Sensitive Groups,56.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 09:00 PM,2020,12,01,21,61.2,154,Unhealthy,69.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 10:00 PM,2020,12,01,22,74.6,161,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-01 11:00 PM,2020,12,01,23,83.4,165,Unhealthy,92.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 12:00 AM,2020,12,02,00,93.8,171,Unhealthy,103.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 01:00 AM,2020,12,02,01,91.0,169,Unhealthy,88.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 02:00 AM,2020,12,02,02,93.7,171,Unhealthy,96.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 03:00 AM,2020,12,02,03,102.9,175,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 04:00 AM,2020,12,02,04,108.6,178,Unhealthy,114.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 05:00 AM,2020,12,02,05,101.5,175,Unhealthy,94.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 06:00 AM,2020,12,02,06,89.9,169,Unhealthy,78.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 07:00 AM,2020,12,02,07,121.5,185,Unhealthy,153.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 08:00 AM,2020,12,02,08,170.9,221,Very Unhealthy,220.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 09:00 AM,2020,12,02,09,230.5,280,Very Unhealthy,289.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 10:00 AM,2020,12,02,10,242.6,292,Very Unhealthy,254.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 11:00 AM,2020,12,02,11,185.1,235,Very Unhealthy,127.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 12:00 PM,2020,12,02,12,149.5,200,Unhealthy,113.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 01:00 PM,2020,12,02,13,112.9,181,Unhealthy,76.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 02:00 PM,2020,12,02,14,82.1,165,Unhealthy,51.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 03:00 PM,2020,12,02,15,59.0,153,Unhealthy,35.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 04:00 PM,2020,12,02,16,46.2,127,Unhealthy for Sensitive Groups,33.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 05:00 PM,2020,12,02,17,49.2,135,Unhealthy for Sensitive Groups,52.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 06:00 PM,2020,12,02,18,52.2,142,Unhealthy for Sensitive Groups,55.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 07:00 PM,2020,12,02,19,42.2,117,Unhealthy for Sensitive Groups,32.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 08:00 PM,2020,12,02,20,42.7,119,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 09:00 PM,2020,12,02,21,47.1,130,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 10:00 PM,2020,12,02,22,57.8,152,Unhealthy,68.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-02 11:00 PM,2020,12,02,23,60.7,154,Unhealthy,63.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 12:00 AM,2020,12,03,00,72.5,160,Unhealthy,84.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 01:00 AM,2020,12,03,01,84.9,166,Unhealthy,97.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 02:00 AM,2020,12,03,02,96.6,172,Unhealthy,108.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 03:00 AM,2020,12,03,03,109.6,179,Unhealthy,122.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 04:00 AM,2020,12,03,04,125.6,187,Unhealthy,141.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 05:00 AM,2020,12,03,05,126.1,187,Unhealthy,126.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 06:00 AM,2020,12,03,06,106.7,177,Unhealthy,87.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 07:00 AM,2020,12,03,07,87.4,167,Unhealthy,68.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 08:00 AM,2020,12,03,08,79.9,164,Unhealthy,72.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 09:00 AM,2020,12,03,09,84.4,166,Unhealthy,88.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 10:00 AM,2020,12,03,10,69.3,158,Unhealthy,54.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 11:00 AM,2020,12,03,11,67.2,157,Unhealthy,65.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 12:00 PM,2020,12,03,12,84.2,166,Unhealthy,101.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 01:00 PM,2020,12,03,13,82.1,165,Unhealthy,79.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 02:00 PM,2020,12,03,14,80.7,164,Unhealthy,79.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 03:00 PM,2020,12,03,15,71.6,159,Unhealthy,62.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 04:00 PM,2020,12,03,16,61.1,154,Unhealthy,50.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 05:00 PM,2020,12,03,17,52.9,144,Unhealthy for Sensitive Groups,44.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 06:00 PM,2020,12,03,18,45.6,126,Unhealthy for Sensitive Groups,38.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 07:00 PM,2020,12,03,19,46.3,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 08:00 PM,2020,12,03,20,48.3,133,Unhealthy for Sensitive Groups,50.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 09:00 PM,2020,12,03,21,52.7,143,Unhealthy for Sensitive Groups,57.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 10:00 PM,2020,12,03,22,58.9,153,Unhealthy,65.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-03 11:00 PM,2020,12,03,23,63.9,155,Unhealthy,68.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 12:00 AM,2020,12,04,00,66.6,157,Unhealthy,69.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 01:00 AM,2020,12,04,01,73.8,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 02:00 AM,2020,12,04,02,94.4,171,Unhealthy,115.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 03:00 AM,2020,12,04,03,106.7,177,Unhealthy,118.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 04:00 AM,2020,12,04,04,98.8,173,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 05:00 AM,2020,12,04,05,110.4,179,Unhealthy,121.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 06:00 AM,2020,12,04,06,114.9,182,Unhealthy,119.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 07:00 AM,2020,12,04,07,108.6,178,Unhealthy,102.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 08:00 AM,2020,12,04,08,79.5,163,Unhealthy,50.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 09:00 AM,2020,12,04,09,55.9,151,Unhealthy,32.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 10:00 AM,2020,12,04,10,50.6,138,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 11:00 AM,2020,12,04,11,50.1,137,Unhealthy for Sensitive Groups,49.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 12:00 PM,2020,12,04,12,48.0,132,Unhealthy for Sensitive Groups,45.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 01:00 PM,2020,12,04,13,44.3,123,Unhealthy for Sensitive Groups,40.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 02:00 PM,2020,12,04,14,38.0,107,Unhealthy for Sensitive Groups,31.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 03:00 PM,2020,12,04,15,33.4,96,Moderate,28.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 04:00 PM,2020,12,04,16,29.7,88,Moderate,26.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 05:00 PM,2020,12,04,17,28.7,86,Moderate,27.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 06:00 PM,2020,12,04,18,27.1,83,Moderate,25.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 07:00 PM,2020,12,04,19,32.2,93,Moderate,37.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 08:00 PM,2020,12,04,20,45.0,124,Unhealthy for Sensitive Groups,57.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 09:00 PM,2020,12,04,21,63.1,155,Unhealthy,81.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 10:00 PM,2020,12,04,22,76.7,162,Unhealthy,90.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-04 11:00 PM,2020,12,04,23,89.4,169,Unhealthy,102.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 12:00 AM,2020,12,05,00,99.6,174,Unhealthy,109.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 01:00 AM,2020,12,05,01,116.1,182,Unhealthy,132.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 02:00 AM,2020,12,05,02,122.3,185,Unhealthy,128.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 03:00 AM,2020,12,05,03,119.9,184,Unhealthy,117.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 04:00 AM,2020,12,05,04,99.0,173,Unhealthy,78.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 05:00 AM,2020,12,05,05,90.2,169,Unhealthy,81.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 06:00 AM,2020,12,05,06,77.3,162,Unhealthy,64.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 07:00 AM,2020,12,05,07,62.7,155,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 08:00 AM,2020,12,05,08,56.3,151,Unhealthy,49.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 09:00 AM,2020,12,05,09,52.7,143,Unhealthy for Sensitive Groups,49.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 10:00 AM,2020,12,05,10,55.6,151,Unhealthy,58.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 11:00 AM,2020,12,05,11,64.8,156,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 12:00 PM,2020,12,05,12,70.7,159,Unhealthy,76.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 01:00 PM,2020,12,05,13,68.1,158,Unhealthy,65.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 02:00 PM,2020,12,05,14,60.0,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 03:00 PM,2020,12,05,15,59.4,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 04:00 PM,2020,12,05,16,60.6,154,Unhealthy,62.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 05:00 PM,2020,12,05,17,63.4,155,Unhealthy,68.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 06:00 PM,2020,12,05,18,57.5,152,Unhealthy,47.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 07:00 PM,2020,12,05,19,62.6,155,Unhealthy,70.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 08:00 PM,2020,12,05,20,66.4,157,Unhealthy,72.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 09:00 PM,2020,12,05,21,76.9,162,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 10:00 PM,2020,12,05,22,84.2,166,Unhealthy,91.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-05 11:00 PM,2020,12,05,23,82.7,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 12:00 AM,2020,12,06,00,81.7,165,Unhealthy,80.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 01:00 AM,2020,12,06,01,77.7,162,Unhealthy,73.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 02:00 AM,2020,12,06,02,67.5,157,Unhealthy,56.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 03:00 AM,2020,12,06,03,52.0,142,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 04:00 AM,2020,12,06,04,47.3,130,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 05:00 AM,2020,12,06,05,39.1,110,Unhealthy for Sensitive Groups,30.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 06:00 AM,2020,12,06,06,34.0,97,Moderate,28.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 07:00 AM,2020,12,06,07,30.0,89,Moderate,26.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 08:00 AM,2020,12,06,08,30.7,90,Moderate,31.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 09:00 AM,2020,12,06,09,37.3,105,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 10:00 AM,2020,12,06,10,40.0,112,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 11:00 AM,2020,12,06,11,37.1,105,Unhealthy for Sensitive Groups,34.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 12:00 PM,2020,12,06,12,38.4,108,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 01:00 PM,2020,12,06,13,34.6,98,Moderate,30.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 02:00 PM,2020,12,06,14,32.2,93,Moderate,28.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 03:00 PM,2020,12,06,15,30.4,89,Moderate,27.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 04:00 PM,2020,12,06,16,25.9,80,Moderate,22.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 05:00 PM,2020,12,06,17,26.5,81,Moderate,27.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 06:00 PM,2020,12,06,18,29.3,87,Moderate,32.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 07:00 PM,2020,12,06,19,33.9,97,Moderate,38.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 08:00 PM,2020,12,06,20,46.4,128,Unhealthy for Sensitive Groups,58.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 09:00 PM,2020,12,06,21,49.9,136,Unhealthy for Sensitive Groups,53.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 10:00 PM,2020,12,06,22,59.5,153,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-06 11:00 PM,2020,12,06,23,49.7,136,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 12:00 AM,2020,12,07,00,44.9,124,Unhealthy for Sensitive Groups,40.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 01:00 AM,2020,12,07,01,44.3,123,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 02:00 AM,2020,12,07,02,41.8,117,Unhealthy for Sensitive Groups,39.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 03:00 AM,2020,12,07,03,44.8,124,Unhealthy for Sensitive Groups,47.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 04:00 AM,2020,12,07,04,42.8,119,Unhealthy for Sensitive Groups,40.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 05:00 AM,2020,12,07,05,39.5,111,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 06:00 AM,2020,12,07,06,41.1,115,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 07:00 AM,2020,12,07,07,37.9,107,Unhealthy for Sensitive Groups,34.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 08:00 AM,2020,12,07,08,32.9,95,Moderate,27.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 09:00 AM,2020,12,07,09,30.1,89,Moderate,27.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 10:00 AM,2020,12,07,10,34.5,98,Moderate,39.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 11:00 AM,2020,12,07,11,39.8,112,Unhealthy for Sensitive Groups,46.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 12:00 PM,2020,12,07,12,41.2,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 01:00 PM,2020,12,07,13,42.8,119,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 02:00 PM,2020,12,07,14,42.6,118,Unhealthy for Sensitive Groups,42.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 03:00 PM,2020,12,07,15,36.8,104,Unhealthy for Sensitive Groups,28.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 04:00 PM,2020,12,07,16,28.4,85,Moderate,20.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 05:00 PM,2020,12,07,17,24.3,77,Moderate,20.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 06:00 PM,2020,12,07,18,25.2,79,Moderate,26.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 07:00 PM,2020,12,07,19,27.7,84,Moderate,30.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 08:00 PM,2020,12,07,20,32.5,94,Moderate,37.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 09:00 PM,2020,12,07,21,56.5,152,Unhealthy,80.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 10:00 PM,2020,12,07,22,75.3,161,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-07 11:00 PM,2020,12,07,23,88.1,168,Unhealthy,100.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 12:00 AM,2020,12,08,00,94.4,171,Unhealthy,100.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 01:00 AM,2020,12,08,01,139.3,194,Unhealthy,184.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 02:00 AM,2020,12,08,02,163.0,213,Very Unhealthy,186.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 03:00 AM,2020,12,08,03,170.2,221,Very Unhealthy,177.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 04:00 AM,2020,12,08,04,150.8,201,Very Unhealthy,131.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 05:00 AM,2020,12,08,05,131.0,190,Unhealthy,111.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 06:00 AM,2020,12,08,06,125.8,187,Unhealthy,120.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 07:00 AM,2020,12,08,07,132.3,191,Unhealthy,138.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 08:00 AM,2020,12,08,08,149.5,200,Unhealthy,166.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 09:00 AM,2020,12,08,09,199.2,249,Very Unhealthy,248.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 10:00 AM,2020,12,08,10,252.9,303,Hazardous,306.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 11:00 AM,2020,12,08,11,270.9,321,Hazardous,288.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 12:00 PM,2020,12,08,12,189.3,239,Very Unhealthy,107.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 01:00 PM,2020,12,08,13,129.7,189,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 02:00 PM,2020,12,08,14,85.7,167,Unhealthy,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 03:00 PM,2020,12,08,15,62.3,155,Unhealthy,38.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 04:00 PM,2020,12,08,16,49.5,135,Unhealthy for Sensitive Groups,36.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 05:00 PM,2020,12,08,17,41.2,115,Unhealthy for Sensitive Groups,32.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 06:00 PM,2020,12,08,18,37.2,105,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 07:00 PM,2020,12,08,19,55.4,150,Unhealthy for Sensitive Groups,73.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 08:00 PM,2020,12,08,20,72.6,160,Unhealthy,89.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 09:00 PM,2020,12,08,21,80.7,164,Unhealthy,88.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 10:00 PM,2020,12,08,22,98.1,173,Unhealthy,115.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-08 11:00 PM,2020,12,08,23,101.5,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 12:00 AM,2020,12,09,00,89.0,168,Unhealthy,76.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 01:00 AM,2020,12,09,01,91.6,170,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 02:00 AM,2020,12,09,02,96.1,172,Unhealthy,100.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 03:00 AM,2020,12,09,03,78.1,163,Unhealthy,60.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 04:00 AM,2020,12,09,04,71.6,159,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 05:00 AM,2020,12,09,05,73.8,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 06:00 AM,2020,12,09,06,195.9,246,Very Unhealthy,318.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 07:00 AM,2020,12,09,07,196.0,246,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Baghdad,PM2.5 - Principal,2020-12-09 08:00 AM,2020,12,09,08,412.2,442,Hazardous,520.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 09:00 AM,2020,12,09,09,508.5,505,Hazardous,580.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 10:00 AM,2020,12,09,10,457.8,472,Hazardous,413.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 11:00 AM,2020,12,09,11,332.2,382,Hazardous,214.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 12:00 PM,2020,12,09,12,218.3,268,Very Unhealthy,108.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 01:00 PM,2020,12,09,13,218.3,268,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Baghdad,PM2.5 - Principal,2020-12-09 02:00 PM,2020,12,09,14,102.5,175,Unhealthy,45.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 03:00 PM,2020,12,09,15,62.0,154,Unhealthy,31.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 04:00 PM,2020,12,09,16,44.8,124,Unhealthy for Sensitive Groups,29.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 05:00 PM,2020,12,09,17,34.8,99,Moderate,25.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 06:00 PM,2020,12,09,18,36.4,103,Unhealthy for Sensitive Groups,38.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 07:00 PM,2020,12,09,19,39.4,111,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 08:00 PM,2020,12,09,20,45.4,125,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 09:00 PM,2020,12,09,21,55.8,151,Unhealthy,66.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 10:00 PM,2020,12,09,22,64.3,156,Unhealthy,72.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-09 11:00 PM,2020,12,09,23,68.0,157,Unhealthy,71.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 12:00 AM,2020,12,10,00,82.9,165,Unhealthy,97.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 01:00 AM,2020,12,10,01,120.6,185,Unhealthy,158.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 02:00 AM,2020,12,10,02,171.9,222,Very Unhealthy,223.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 03:00 AM,2020,12,10,03,185.2,235,Very Unhealthy,198.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 04:00 AM,2020,12,10,04,168.6,219,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 05:00 AM,2020,12,10,05,131.2,190,Unhealthy,93.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 06:00 AM,2020,12,10,06,109.4,179,Unhealthy,87.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 07:00 AM,2020,12,10,07,76.7,162,Unhealthy,44.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 08:00 AM,2020,12,10,08,61.9,154,Unhealthy,47.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 09:00 AM,2020,12,10,09,56.8,152,Unhealthy,51.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 10:00 AM,2020,12,10,10,50.8,139,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 11:00 AM,2020,12,10,11,44.5,123,Unhealthy for Sensitive Groups,38.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 12:00 PM,2020,12,10,12,44.6,123,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 01:00 PM,2020,12,10,13,42.8,119,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 02:00 PM,2020,12,10,14,43.8,121,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 03:00 PM,2020,12,10,15,42.4,118,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 04:00 PM,2020,12,10,16,44.1,122,Unhealthy for Sensitive Groups,45.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 05:00 PM,2020,12,10,17,41.0,115,Unhealthy for Sensitive Groups,37.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 06:00 PM,2020,12,10,18,40.4,113,Unhealthy for Sensitive Groups,36.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 07:00 PM,2020,12,10,19,44.8,124,Unhealthy for Sensitive Groups,54.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 08:00 PM,2020,12,10,20,54.0,147,Unhealthy for Sensitive Groups,64.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 09:00 PM,2020,12,10,21,55.6,151,Unhealthy,57.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 10:00 PM,2020,12,10,22,67.0,157,Unhealthy,77.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-10 11:00 PM,2020,12,10,23,77.5,162,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 12:00 AM,2020,12,11,00,83.2,165,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 01:00 AM,2020,12,11,01,85.7,167,Unhealthy,88.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 02:00 AM,2020,12,11,02,75.1,161,Unhealthy,64.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 03:00 AM,2020,12,11,03,63.9,155,Unhealthy,52.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 04:00 AM,2020,12,11,04,53.4,145,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 05:00 AM,2020,12,11,05,48.6,133,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 06:00 AM,2020,12,11,06,43.6,121,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 07:00 AM,2020,12,11,07,36.9,104,Unhealthy for Sensitive Groups,30.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 08:00 AM,2020,12,11,08,37.0,105,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 09:00 AM,2020,12,11,09,39.5,111,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 10:00 AM,2020,12,11,10,41.3,115,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 11:00 AM,2020,12,11,11,46.2,127,Unhealthy for Sensitive Groups,51.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 12:00 PM,2020,12,11,12,50.5,138,Unhealthy for Sensitive Groups,54.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 01:00 PM,2020,12,11,13,50.5,138,Unhealthy for Sensitive Groups,50.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 02:00 PM,2020,12,11,14,45.0,124,Unhealthy for Sensitive Groups,38.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 03:00 PM,2020,12,11,15,39.5,111,Unhealthy for Sensitive Groups,32.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 04:00 PM,2020,12,11,16,34.4,98,Moderate,29.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 05:00 PM,2020,12,11,17,31.8,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 06:00 PM,2020,12,11,18,30.5,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 07:00 PM,2020,12,11,19,30.0,89,Moderate,29.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 08:00 PM,2020,12,11,20,36.5,103,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 09:00 PM,2020,12,11,21,54.4,148,Unhealthy for Sensitive Groups,72.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 10:00 PM,2020,12,11,22,64.5,156,Unhealthy,74.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-11 11:00 PM,2020,12,11,23,77.7,162,Unhealthy,90.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 12:00 AM,2020,12,12,00,83.3,165,Unhealthy,88.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 01:00 AM,2020,12,12,01,84.6,166,Unhealthy,85.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 02:00 AM,2020,12,12,02,98.5,173,Unhealthy,112.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 03:00 AM,2020,12,12,03,98.6,173,Unhealthy,98.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 04:00 AM,2020,12,12,04,108.3,178,Unhealthy,117.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 05:00 AM,2020,12,12,05,113.0,181,Unhealthy,117.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 06:00 AM,2020,12,12,06,126.0,187,Unhealthy,139.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 07:00 AM,2020,12,12,07,148.9,199,Unhealthy,171.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 08:00 AM,2020,12,12,08,155.6,206,Very Unhealthy,162.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 09:00 AM,2020,12,12,09,150.0,200,Unhealthy,144.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 10:00 AM,2020,12,12,10,136.1,193,Unhealthy,122.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 11:00 AM,2020,12,12,11,104.4,176,Unhealthy,72.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 12:00 PM,2020,12,12,12,83.1,165,Unhealthy,61.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 01:00 PM,2020,12,12,13,70.2,159,Unhealthy,57.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 02:00 PM,2020,12,12,14,55.0,149,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 03:00 PM,2020,12,12,15,45.5,126,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 04:00 PM,2020,12,12,16,40.0,112,Unhealthy for Sensitive Groups,34.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 05:00 PM,2020,12,12,17,32.5,94,Moderate,25.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 06:00 PM,2020,12,12,18,30.6,90,Moderate,28.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 07:00 PM,2020,12,12,19,42.2,117,Unhealthy for Sensitive Groups,53.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 08:00 PM,2020,12,12,20,45.8,126,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 09:00 PM,2020,12,12,21,55.6,151,Unhealthy,65.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 10:00 PM,2020,12,12,22,67.9,157,Unhealthy,80.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-12 11:00 PM,2020,12,12,23,79.4,163,Unhealthy,90.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 12:00 AM,2020,12,13,00,99.2,174,Unhealthy,119.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 01:00 AM,2020,12,13,01,126.2,188,Unhealthy,153.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 02:00 AM,2020,12,13,02,158.8,209,Very Unhealthy,191.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 03:00 AM,2020,12,13,03,195.7,246,Very Unhealthy,232.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 04:00 AM,2020,12,13,04,209.3,259,Very Unhealthy,222.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 05:00 AM,2020,12,13,05,211.9,262,Very Unhealthy,214.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 06:00 AM,2020,12,13,06,191.1,241,Very Unhealthy,170.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 07:00 AM,2020,12,13,07,169.1,219,Very Unhealthy,147.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 08:00 AM,2020,12,13,08,159.8,210,Very Unhealthy,150.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 09:00 AM,2020,12,13,09,164.9,215,Very Unhealthy,169.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 10:00 AM,2020,12,13,10,166.3,217,Very Unhealthy,167.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 11:00 AM,2020,12,13,11,147.0,198,Unhealthy,126.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 12:00 PM,2020,12,13,12,117.1,183,Unhealthy,87.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 01:00 PM,2020,12,13,13,97.5,173,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 02:00 PM,2020,12,13,14,72.9,160,Unhealthy,48.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 03:00 PM,2020,12,13,15,51.9,141,Unhealthy for Sensitive Groups,30.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 04:00 PM,2020,12,13,16,40.8,114,Unhealthy for Sensitive Groups,29.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 05:00 PM,2020,12,13,17,31.9,93,Moderate,23.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 06:00 PM,2020,12,13,18,28.1,85,Moderate,24.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 07:00 PM,2020,12,13,19,33.4,96,Moderate,38.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 08:00 PM,2020,12,13,20,47.7,131,Unhealthy for Sensitive Groups,62.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 09:00 PM,2020,12,13,21,57.8,152,Unhealthy,67.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 10:00 PM,2020,12,13,22,75.9,162,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-13 11:00 PM,2020,12,13,23,85.0,166,Unhealthy,94.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 12:00 AM,2020,12,14,00,93.3,171,Unhealthy,101.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 01:00 AM,2020,12,14,01,122.7,186,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 02:00 AM,2020,12,14,02,153.2,204,Very Unhealthy,183.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 03:00 AM,2020,12,14,03,164.5,215,Very Unhealthy,175.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 04:00 AM,2020,12,14,04,168.0,218,Very Unhealthy,171.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 05:00 AM,2020,12,14,05,161.7,212,Very Unhealthy,155.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 06:00 AM,2020,12,14,06,149.3,199,Unhealthy,136.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 07:00 AM,2020,12,14,07,155.7,206,Very Unhealthy,162.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 08:00 AM,2020,12,14,08,149.1,199,Unhealthy,142.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 09:00 AM,2020,12,14,09,182.7,233,Very Unhealthy,216.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 10:00 AM,2020,12,14,10,188.9,239,Very Unhealthy,195.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 11:00 AM,2020,12,14,11,147.9,199,Unhealthy,106.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 12:00 PM,2020,12,14,12,97.0,172,Unhealthy,46.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 01:00 PM,2020,12,14,13,73.6,160,Unhealthy,50.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 02:00 PM,2020,12,14,14,50.6,138,Unhealthy for Sensitive Groups,27.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 03:00 PM,2020,12,14,15,34.8,99,Moderate,19.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 04:00 PM,2020,12,14,16,28.4,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 05:00 PM,2020,12,14,17,25.2,79,Moderate,22.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 06:00 PM,2020,12,14,18,25.5,79,Moderate,25.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 07:00 PM,2020,12,14,19,38.9,109,Unhealthy for Sensitive Groups,52.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 08:00 PM,2020,12,14,20,50.2,137,Unhealthy for Sensitive Groups,61.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 09:00 PM,2020,12,14,21,48.9,134,Unhealthy for Sensitive Groups,47.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 10:00 PM,2020,12,14,22,42.8,119,Unhealthy for Sensitive Groups,36.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-14 11:00 PM,2020,12,14,23,37.4,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 12:00 AM,2020,12,15,00,35.1,99,Moderate,32.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 01:00 AM,2020,12,15,01,32.0,93,Moderate,28.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 02:00 AM,2020,12,15,02,29.4,87,Moderate,26.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 03:00 AM,2020,12,15,03,27.2,83,Moderate,24.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 04:00 AM,2020,12,15,04,25.1,78,Moderate,23.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 05:00 AM,2020,12,15,05,26.1,80,Moderate,27.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 06:00 AM,2020,12,15,06,29.5,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 07:00 AM,2020,12,15,07,31.4,92,Moderate,33.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 08:00 AM,2020,12,15,08,35.6,101,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 09:00 AM,2020,12,15,09,36.0,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 10:00 AM,2020,12,15,10,37.3,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 11:00 AM,2020,12,15,11,39.5,111,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 12:00 PM,2020,12,15,12,40.6,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 01:00 PM,2020,12,15,13,41.2,115,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 02:00 PM,2020,12,15,14,41.2,115,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 03:00 PM,2020,12,15,15,43.0,119,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 04:00 PM,2020,12,15,16,41.8,117,Unhealthy for Sensitive Groups,40.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 05:00 PM,2020,12,15,17,52.4,143,Unhealthy for Sensitive Groups,63.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 06:00 PM,2020,12,15,18,68.1,158,Unhealthy,83.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 07:00 PM,2020,12,15,19,68.5,158,Unhealthy,68.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 08:00 PM,2020,12,15,20,66.8,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 09:00 PM,2020,12,15,21,67.3,157,Unhealthy,67.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 10:00 PM,2020,12,15,22,66.2,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-15 11:00 PM,2020,12,15,23,67.1,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 12:00 AM,2020,12,16,00,68.0,157,Unhealthy,68.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 01:00 AM,2020,12,16,01,67.6,157,Unhealthy,67.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 02:00 AM,2020,12,16,02,70.4,159,Unhealthy,73.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 03:00 AM,2020,12,16,03,60.5,154,Unhealthy,50.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 04:00 AM,2020,12,16,04,50.8,139,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 05:00 AM,2020,12,16,05,47.8,131,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 06:00 AM,2020,12,16,06,43.5,121,Unhealthy for Sensitive Groups,38.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 07:00 AM,2020,12,16,07,46.2,127,Unhealthy for Sensitive Groups,49.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 08:00 AM,2020,12,16,08,50.5,138,Unhealthy for Sensitive Groups,55.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 09:00 AM,2020,12,16,09,55.7,151,Unhealthy,61.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 10:00 AM,2020,12,16,10,67.0,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 11:00 AM,2020,12,16,11,72.8,160,Unhealthy,78.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 12:00 PM,2020,12,16,12,68.7,158,Unhealthy,64.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 01:00 PM,2020,12,16,13,61.8,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 02:00 PM,2020,12,16,14,59.0,153,Unhealthy,56.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 03:00 PM,2020,12,16,15,61.5,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 04:00 PM,2020,12,16,16,63.1,155,Unhealthy,64.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 05:00 PM,2020,12,16,17,74.2,161,Unhealthy,85.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 06:00 PM,2020,12,16,18,85.6,167,Unhealthy,97.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 07:00 PM,2020,12,16,19,96.3,172,Unhealthy,107.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 08:00 PM,2020,12,16,20,97.9,173,Unhealthy,99.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 09:00 PM,2020,12,16,21,109.1,179,Unhealthy,119.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 10:00 PM,2020,12,16,22,114.0,181,Unhealthy,118.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-16 11:00 PM,2020,12,16,23,116.2,182,Unhealthy,118.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 12:00 AM,2020,12,17,00,123.3,186,Unhealthy,130.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 01:00 AM,2020,12,17,01,117.6,183,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 02:00 AM,2020,12,17,02,115.3,182,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 03:00 AM,2020,12,17,03,115.2,182,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 04:00 AM,2020,12,17,04,116.6,183,Unhealthy,118.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 05:00 AM,2020,12,17,05,125.3,187,Unhealthy,143.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 06:00 AM,2020,12,17,06,135.0,192,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 07:00 AM,2020,12,17,07,142.4,196,Unhealthy,154.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 08:00 AM,2020,12,17,08,139.7,194,Unhealthy,141.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 09:00 AM,2020,12,17,09,130.8,190,Unhealthy,108.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 10:00 AM,2020,12,17,10,134.7,192,Unhealthy,143.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 11:00 AM,2020,12,17,11,134.0,192,Unhealthy,132.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 12:00 PM,2020,12,17,12,126.7,188,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 01:00 PM,2020,12,17,13,131.0,190,Unhealthy,140.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 02:00 PM,2020,12,17,14,140.1,195,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 03:00 PM,2020,12,17,15,137.5,193,Unhealthy,131.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 04:00 PM,2020,12,17,16,133.9,191,Unhealthy,126.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 05:00 PM,2020,12,17,17,133.3,191,Unhealthy,132.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 06:00 PM,2020,12,17,18,126.1,187,Unhealthy,111.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 07:00 PM,2020,12,17,19,122.5,186,Unhealthy,115.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 08:00 PM,2020,12,17,20,122.7,186,Unhealthy,123.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 09:00 PM,2020,12,17,21,125.5,187,Unhealthy,131.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 10:00 PM,2020,12,17,22,128.6,189,Unhealthy,135.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-17 11:00 PM,2020,12,17,23,138.9,194,Unhealthy,160.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 12:00 AM,2020,12,18,00,176.5,227,Very Unhealthy,211.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 01:00 AM,2020,12,18,01,172.1,222,Very Unhealthy,167.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 02:00 AM,2020,12,18,02,158.1,209,Very Unhealthy,142.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 03:00 AM,2020,12,18,03,147.4,198,Unhealthy,135.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 04:00 AM,2020,12,18,04,164.9,215,Very Unhealthy,184.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 05:00 AM,2020,12,18,05,149.6,200,Unhealthy,132.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 06:00 AM,2020,12,18,06,137.3,193,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 07:00 AM,2020,12,18,07,115.6,182,Unhealthy,95.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 08:00 AM,2020,12,18,08,116.6,183,Unhealthy,117.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 09:00 AM,2020,12,18,09,141.9,196,Unhealthy,167.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 10:00 AM,2020,12,18,10,128.2,189,Unhealthy,114.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 11:00 AM,2020,12,18,11,130.1,190,Unhealthy,132.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 12:00 PM,2020,12,18,12,132.9,191,Unhealthy,135.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 01:00 PM,2020,12,18,13,132.7,191,Unhealthy,132.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 02:00 PM,2020,12,18,14,126.0,187,Unhealthy,118.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 03:00 PM,2020,12,18,15,119.3,184,Unhealthy,112.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 04:00 PM,2020,12,18,16,118.2,183,Unhealthy,115.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 05:00 PM,2020,12,18,17,107.6,178,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 06:00 PM,2020,12,18,18,89.4,169,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 07:00 PM,2020,12,18,19,84.2,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 08:00 PM,2020,12,18,20,82.8,165,Unhealthy,81.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 09:00 PM,2020,12,18,21,72.9,160,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 10:00 PM,2020,12,18,22,68.3,158,Unhealthy,63.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-18 11:00 PM,2020,12,18,23,63.8,155,Unhealthy,59.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 12:00 AM,2020,12,19,00,65.2,156,Unhealthy,66.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 01:00 AM,2020,12,19,01,62.1,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 02:00 AM,2020,12,19,02,60.4,154,Unhealthy,58.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 03:00 AM,2020,12,19,03,53.4,145,Unhealthy for Sensitive Groups,46.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 04:00 AM,2020,12,19,04,58.1,152,Unhealthy,62.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 05:00 AM,2020,12,19,05,57.7,152,Unhealthy,57.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 06:00 AM,2020,12,19,06,60.4,154,Unhealthy,63.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 07:00 AM,2020,12,19,07,61.4,154,Unhealthy,62.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 08:00 AM,2020,12,19,08,60.2,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 09:00 AM,2020,12,19,09,59.8,153,Unhealthy,59.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 10:00 AM,2020,12,19,10,61.6,154,Unhealthy,65.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 11:00 AM,2020,12,19,11,72.6,160,Unhealthy,84.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 12:00 PM,2020,12,19,12,77.4,162,Unhealthy,83.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 01:00 PM,2020,12,19,13,83.6,166,Unhealthy,89.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 02:00 PM,2020,12,19,14,81.0,164,Unhealthy,78.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 03:00 PM,2020,12,19,15,71.9,159,Unhealthy,58.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 04:00 PM,2020,12,19,16,68.5,158,Unhealthy,62.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 05:00 PM,2020,12,19,17,59.5,153,Unhealthy,49.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 06:00 PM,2020,12,19,18,54.0,147,Unhealthy for Sensitive Groups,48.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 07:00 PM,2020,12,19,19,55.8,151,Unhealthy,57.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 08:00 PM,2020,12,19,20,56.0,151,Unhealthy,56.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 09:00 PM,2020,12,19,21,58.8,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 10:00 PM,2020,12,19,22,61.7,154,Unhealthy,65.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-19 11:00 PM,2020,12,19,23,65.2,156,Unhealthy,69.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 12:00 AM,2020,12,20,00,72.0,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 01:00 AM,2020,12,20,01,75.8,161,Unhealthy,82.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 02:00 AM,2020,12,20,02,72.2,160,Unhealthy,67.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 03:00 AM,2020,12,20,03,61.9,154,Unhealthy,47.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 04:00 AM,2020,12,20,04,50.6,138,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 05:00 AM,2020,12,20,05,47.0,129,Unhealthy for Sensitive Groups,43.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 06:00 AM,2020,12,20,06,51.5,140,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-20 07:00 AM,2020,12,20,07,51.5,140,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Baghdad,PM2.5 - Principal,2020-12-20 08:00 AM,2020,12,20,08,51.5,140,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Baghdad,PM2.5 - Principal,2020-12-20 09:00 AM,2020,12,20,09,51.5,140,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Baghdad,PM2.5 - Principal,2020-12-20 10:00 AM,2020,12,20,10,51.5,140,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Baghdad,PM2.5 - Principal,2020-12-22 07:00 PM,2020,12,22,19,-999.0,-999,N/A,63.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-22 08:00 PM,2020,12,22,20,73.8,160,Unhealthy,81.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-22 09:00 PM,2020,12,22,21,75.8,161,Unhealthy,78.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-22 10:00 PM,2020,12,22,22,72.4,160,Unhealthy,66.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-22 11:00 PM,2020,12,22,23,83.3,165,Unhealthy,99.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 12:00 AM,2020,12,23,00,76.1,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 01:00 AM,2020,12,23,01,71.7,159,Unhealthy,64.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 02:00 AM,2020,12,23,02,59.2,153,Unhealthy,48.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 03:00 AM,2020,12,23,03,49.1,134,Unhealthy for Sensitive Groups,39.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 04:00 AM,2020,12,23,04,46.8,129,Unhealthy for Sensitive Groups,44.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 05:00 AM,2020,12,23,05,39.9,112,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 06:00 AM,2020,12,23,06,37.9,107,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 07:00 AM,2020,12,23,07,35.5,101,Unhealthy for Sensitive Groups,33.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 08:00 AM,2020,12,23,08,36.6,104,Unhealthy for Sensitive Groups,37.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 09:00 AM,2020,12,23,09,34.9,99,Moderate,33.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 10:00 AM,2020,12,23,10,38.4,108,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 11:00 AM,2020,12,23,11,39.0,110,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 12:00 PM,2020,12,23,12,36.6,104,Unhealthy for Sensitive Groups,34.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 01:00 PM,2020,12,23,13,37.0,105,Unhealthy for Sensitive Groups,37.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 02:00 PM,2020,12,23,14,39.3,110,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 03:00 PM,2020,12,23,15,45.7,126,Unhealthy for Sensitive Groups,54.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 04:00 PM,2020,12,23,16,55.7,151,Unhealthy,64.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 05:00 PM,2020,12,23,17,50.7,138,Unhealthy for Sensitive Groups,45.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 06:00 PM,2020,12,23,18,40.4,113,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 07:00 PM,2020,12,23,19,37.3,105,Unhealthy for Sensitive Groups,34.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 08:00 PM,2020,12,23,20,38.9,109,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 09:00 PM,2020,12,23,21,48.5,133,Unhealthy for Sensitive Groups,58.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 10:00 PM,2020,12,23,22,57.2,152,Unhealthy,65.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-23 11:00 PM,2020,12,23,23,60.3,153,Unhealthy,63.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 12:00 AM,2020,12,24,00,53.4,145,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 01:00 AM,2020,12,24,01,44.4,123,Unhealthy for Sensitive Groups,35.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 02:00 AM,2020,12,24,02,43.1,120,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 03:00 AM,2020,12,24,03,41.5,116,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 04:00 AM,2020,12,24,04,40.7,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 05:00 AM,2020,12,24,05,40.2,113,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 06:00 AM,2020,12,24,06,37.8,107,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 07:00 AM,2020,12,24,07,38.4,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 08:00 AM,2020,12,24,08,40.2,113,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 09:00 AM,2020,12,24,09,44.5,123,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 10:00 AM,2020,12,24,10,52.6,143,Unhealthy for Sensitive Groups,62.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 11:00 AM,2020,12,24,11,56.6,152,Unhealthy,61.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 12:00 PM,2020,12,24,12,55.9,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 01:00 PM,2020,12,24,13,54.9,149,Unhealthy for Sensitive Groups,53.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 02:00 PM,2020,12,24,14,51.2,140,Unhealthy for Sensitive Groups,46.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 03:00 PM,2020,12,24,15,40.3,113,Unhealthy for Sensitive Groups,29.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 04:00 PM,2020,12,24,16,33.3,96,Moderate,26.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 05:00 PM,2020,12,24,17,34.5,98,Moderate,35.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 06:00 PM,2020,12,24,18,30.6,90,Moderate,26.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 07:00 PM,2020,12,24,19,26.5,81,Moderate,22.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 08:00 PM,2020,12,24,20,29.7,88,Moderate,32.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 09:00 PM,2020,12,24,21,31.0,91,Moderate,32.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 10:00 PM,2020,12,24,22,22.1,72,Moderate,13.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-24 11:00 PM,2020,12,24,23,22.0,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 12:00 AM,2020,12,25,00,22.0,72,Moderate,21.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 01:00 AM,2020,12,25,01,20.9,70,Moderate,19.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 02:00 AM,2020,12,25,02,20.8,69,Moderate,20.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 03:00 AM,2020,12,25,03,15.5,58,Moderate,10.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 04:00 AM,2020,12,25,04,16.1,59,Moderate,16.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 05:00 AM,2020,12,25,05,11.6,48,Good,7.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 06:00 AM,2020,12,25,06,10.7,45,Good,9.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 07:00 AM,2020,12,25,07,8.5,35,Good,6.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 08:00 AM,2020,12,25,08,12.2,51,Moderate,16.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 09:00 AM,2020,12,25,09,14.2,55,Moderate,16.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 10:00 AM,2020,12,25,10,17.2,62,Moderate,20.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 11:00 AM,2020,12,25,11,21.0,70,Moderate,24.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 12:00 PM,2020,12,25,12,20.8,69,Moderate,20.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 01:00 PM,2020,12,25,13,31.3,91,Moderate,41.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 02:00 PM,2020,12,25,14,32.9,95,Moderate,34.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 03:00 PM,2020,12,25,15,27.8,84,Moderate,22.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 04:00 PM,2020,12,25,16,21.3,70,Moderate,14.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 05:00 PM,2020,12,25,17,16.2,60,Moderate,11.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 06:00 PM,2020,12,25,18,16.9,61,Moderate,17.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 07:00 PM,2020,12,25,19,56.0,151,Unhealthy,95.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 08:00 PM,2020,12,25,20,49.2,135,Unhealthy for Sensitive Groups,42.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 09:00 PM,2020,12,25,21,52.9,144,Unhealthy for Sensitive Groups,56.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 10:00 PM,2020,12,25,22,49.3,135,Unhealthy for Sensitive Groups,45.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-25 11:00 PM,2020,12,25,23,43.1,120,Unhealthy for Sensitive Groups,36.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 12:00 AM,2020,12,26,00,39.7,111,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 01:00 AM,2020,12,26,01,42.2,117,Unhealthy for Sensitive Groups,44.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 02:00 AM,2020,12,26,02,39.6,111,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 03:00 AM,2020,12,26,03,40.9,114,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 04:00 AM,2020,12,26,04,45.5,126,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 05:00 AM,2020,12,26,05,47.9,132,Unhealthy for Sensitive Groups,50.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 06:00 AM,2020,12,26,06,40.9,114,Unhealthy for Sensitive Groups,33.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 07:00 AM,2020,12,26,07,34.6,98,Moderate,28.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 08:00 AM,2020,12,26,08,36.6,104,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 09:00 AM,2020,12,26,09,48.5,133,Unhealthy for Sensitive Groups,60.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 10:00 AM,2020,12,26,10,62.2,154,Unhealthy,75.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 11:00 AM,2020,12,26,11,67.9,157,Unhealthy,73.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 12:00 PM,2020,12,26,12,65.2,156,Unhealthy,62.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 01:00 PM,2020,12,26,13,58.6,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 02:00 PM,2020,12,26,14,41.2,115,Unhealthy for Sensitive Groups,23.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 03:00 PM,2020,12,26,15,29.5,88,Moderate,17.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 04:00 PM,2020,12,26,16,22.7,73,Moderate,15.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 05:00 PM,2020,12,26,17,20.0,68,Moderate,17.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 06:00 PM,2020,12,26,18,21.5,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 07:00 PM,2020,12,26,19,24.2,76,Moderate,26.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 08:00 PM,2020,12,26,20,39.5,111,Unhealthy for Sensitive Groups,54.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 09:00 PM,2020,12,26,21,46.1,127,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 10:00 PM,2020,12,26,22,45.3,125,Unhealthy for Sensitive Groups,44.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-26 11:00 PM,2020,12,26,23,51.7,141,Unhealthy for Sensitive Groups,58.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 12:00 AM,2020,12,27,00,42.5,118,Unhealthy for Sensitive Groups,33.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 01:00 AM,2020,12,27,01,44.7,124,Unhealthy for Sensitive Groups,46.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 02:00 AM,2020,12,27,02,44.8,124,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 03:00 AM,2020,12,27,03,44.4,123,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 04:00 AM,2020,12,27,04,44.1,122,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 05:00 AM,2020,12,27,05,41.3,115,Unhealthy for Sensitive Groups,38.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 06:00 AM,2020,12,27,06,33.1,95,Moderate,24.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 07:00 AM,2020,12,27,07,28.1,85,Moderate,23.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 08:00 AM,2020,12,27,08,29.7,88,Moderate,31.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 09:00 AM,2020,12,27,09,36.9,104,Unhealthy for Sensitive Groups,44.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 10:00 AM,2020,12,27,10,43.0,119,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 11:00 AM,2020,12,27,11,46.9,129,Unhealthy for Sensitive Groups,50.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 12:00 PM,2020,12,27,12,47.1,130,Unhealthy for Sensitive Groups,47.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 01:00 PM,2020,12,27,13,52.4,143,Unhealthy for Sensitive Groups,57.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 02:00 PM,2020,12,27,14,50.5,138,Unhealthy for Sensitive Groups,48.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 03:00 PM,2020,12,27,15,44.5,123,Unhealthy for Sensitive Groups,38.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 04:00 PM,2020,12,27,16,35.3,100,Moderate,26.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 05:00 PM,2020,12,27,17,31.8,92,Moderate,28.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 06:00 PM,2020,12,27,18,36.4,103,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 07:00 PM,2020,12,27,19,40.7,114,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 08:00 PM,2020,12,27,20,41.7,116,Unhealthy for Sensitive Groups,42.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 09:00 PM,2020,12,27,21,40.0,112,Unhealthy for Sensitive Groups,38.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 10:00 PM,2020,12,27,22,44.0,122,Unhealthy for Sensitive Groups,48.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-27 11:00 PM,2020,12,27,23,48.0,132,Unhealthy for Sensitive Groups,51.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 12:00 AM,2020,12,28,00,49.7,136,Unhealthy for Sensitive Groups,51.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 01:00 AM,2020,12,28,01,56.7,152,Unhealthy,63.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 02:00 AM,2020,12,28,02,57.0,152,Unhealthy,57.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 03:00 AM,2020,12,28,03,61.3,154,Unhealthy,65.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 04:00 AM,2020,12,28,04,58.5,153,Unhealthy,55.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 05:00 AM,2020,12,28,05,54.8,149,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 06:00 AM,2020,12,28,06,53.1,144,Unhealthy for Sensitive Groups,50.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 07:00 AM,2020,12,28,07,48.4,133,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 08:00 AM,2020,12,28,08,45.3,125,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 09:00 AM,2020,12,28,09,43.0,119,Unhealthy for Sensitive Groups,39.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 10:00 AM,2020,12,28,10,45.7,126,Unhealthy for Sensitive Groups,49.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 11:00 AM,2020,12,28,11,56.1,151,Unhealthy,69.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 12:00 PM,2020,12,28,12,59.2,153,Unhealthy,63.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 01:00 PM,2020,12,28,13,48.8,134,Unhealthy for Sensitive Groups,36.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 02:00 PM,2020,12,28,14,36.1,102,Unhealthy for Sensitive Groups,23.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 03:00 PM,2020,12,28,15,27.6,84,Moderate,19.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 04:00 PM,2020,12,28,16,25.8,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 05:00 PM,2020,12,28,17,26.3,81,Moderate,26.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 06:00 PM,2020,12,28,18,23.8,76,Moderate,21.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 07:00 PM,2020,12,28,19,27.3,83,Moderate,30.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 08:00 PM,2020,12,28,20,42.9,119,Unhealthy for Sensitive Groups,58.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 09:00 PM,2020,12,28,21,58.0,152,Unhealthy,73.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 10:00 PM,2020,12,28,22,69.1,158,Unhealthy,80.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-28 11:00 PM,2020,12,28,23,64.1,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 12:00 AM,2020,12,29,00,62.6,155,Unhealthy,61.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 01:00 AM,2020,12,29,01,77.8,163,Unhealthy,92.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 02:00 AM,2020,12,29,02,71.7,159,Unhealthy,65.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 03:00 AM,2020,12,29,03,78.9,163,Unhealthy,86.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 04:00 AM,2020,12,29,04,84.1,166,Unhealthy,89.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 05:00 AM,2020,12,29,05,76.7,162,Unhealthy,69.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 06:00 AM,2020,12,29,06,62.6,155,Unhealthy,48.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 07:00 AM,2020,12,29,07,47.9,132,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 08:00 AM,2020,12,29,08,46.2,127,Unhealthy for Sensitive Groups,44.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 09:00 AM,2020,12,29,09,67.3,157,Unhealthy,88.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 10:00 AM,2020,12,29,10,84.2,166,Unhealthy,101.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 11:00 AM,2020,12,29,11,96.2,172,Unhealthy,108.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 12:00 PM,2020,12,29,12,90.2,169,Unhealthy,84.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 01:00 PM,2020,12,29,13,75.3,161,Unhealthy,60.4,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 02:00 PM,2020,12,29,14,59.5,153,Unhealthy,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 03:00 PM,2020,12,29,15,49.2,135,Unhealthy for Sensitive Groups,38.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 04:00 PM,2020,12,29,16,41.5,116,Unhealthy for Sensitive Groups,33.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 05:00 PM,2020,12,29,17,35.1,99,Moderate,28.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 06:00 PM,2020,12,29,18,28.2,85,Moderate,21.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 07:00 PM,2020,12,29,19,30.6,90,Moderate,33.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 08:00 PM,2020,12,29,20,34.1,97,Moderate,37.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 09:00 PM,2020,12,29,21,44.2,122,Unhealthy for Sensitive Groups,54.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 10:00 PM,2020,12,29,22,55.3,150,Unhealthy for Sensitive Groups,66.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-29 11:00 PM,2020,12,29,23,66.1,156,Unhealthy,76.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 12:00 AM,2020,12,30,00,71.1,159,Unhealthy,76.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 01:00 AM,2020,12,30,01,75.3,161,Unhealthy,79.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 02:00 AM,2020,12,30,02,71.8,159,Unhealthy,68.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 03:00 AM,2020,12,30,03,59.7,153,Unhealthy,47.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 04:00 AM,2020,12,30,04,49.2,135,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 05:00 AM,2020,12,30,05,40.6,114,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 06:00 AM,2020,12,30,06,37.0,105,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 07:00 AM,2020,12,30,07,40.4,113,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 08:00 AM,2020,12,30,08,40.8,114,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 09:00 AM,2020,12,30,09,43.5,121,Unhealthy for Sensitive Groups,46.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 10:00 AM,2020,12,30,10,49.4,135,Unhealthy for Sensitive Groups,55.3,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 11:00 AM,2020,12,30,11,57.1,152,Unhealthy,64.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 12:00 PM,2020,12,30,12,59.8,153,Unhealthy,62.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 01:00 PM,2020,12,30,13,54.4,148,Unhealthy for Sensitive Groups,48.9,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 02:00 PM,2020,12,30,14,51.3,140,Unhealthy for Sensitive Groups,48.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 03:00 PM,2020,12,30,15,54.0,147,Unhealthy for Sensitive Groups,56.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 04:00 PM,2020,12,30,16,51.8,141,Unhealthy for Sensitive Groups,49.6,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 05:00 PM,2020,12,30,17,46.2,127,Unhealthy for Sensitive Groups,40.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 06:00 PM,2020,12,30,18,48.2,132,Unhealthy for Sensitive Groups,49.1,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 07:00 PM,2020,12,30,19,50.2,137,Unhealthy for Sensitive Groups,53.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 08:00 PM,2020,12,30,20,58.4,152,Unhealthy,69.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 09:00 PM,2020,12,30,21,73.3,160,Unhealthy,86.5,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 10:00 PM,2020,12,30,22,89.5,169,Unhealthy,105.7,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-30 11:00 PM,2020,12,30,23,109.4,179,Unhealthy,129.2,UG/M3,1 Hr,Valid
+Baghdad,PM2.5 - Principal,2020-12-31 12:00 AM,2020,12,31,00,123.2,186,Unhealthy,136.9,UG/M3,1 Hr,Valid

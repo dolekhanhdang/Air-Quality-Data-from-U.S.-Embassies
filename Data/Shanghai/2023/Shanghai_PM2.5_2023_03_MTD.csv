@@ -1,0 +1,705 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Shanghai,PM2.5 - Principal,2023-03-02 05:00 PM,2023,03,02,17,-999.0,-999,N/A,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-02 06:00 PM,2023,03,02,18,17.0,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-02 07:00 PM,2023,03,02,19,12.5,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-02 08:00 PM,2023,03,02,20,14.3,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-02 09:00 PM,2023,03,02,21,14.1,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-02 10:00 PM,2023,03,02,22,13.6,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-02 11:00 PM,2023,03,02,23,12.3,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 12:00 AM,2023,03,03,00,13.1,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 01:00 AM,2023,03,03,01,11.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 02:00 AM,2023,03,03,02,10.4,43,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 03:00 AM,2023,03,03,03,9.7,40,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 04:00 AM,2023,03,03,04,11.2,47,Good,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 05:00 AM,2023,03,03,05,10.2,43,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 06:00 AM,2023,03,03,06,11.4,48,Good,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 07:00 AM,2023,03,03,07,11.6,48,Good,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 08:00 AM,2023,03,03,08,11.0,46,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 09:00 AM,2023,03,03,09,12.5,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 10:00 AM,2023,03,03,10,15.4,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 11:00 AM,2023,03,03,11,11.7,49,Good,8.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 12:00 PM,2023,03,03,12,14.3,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 01:00 PM,2023,03,03,13,13.1,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 02:00 PM,2023,03,03,14,14.0,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 03:00 PM,2023,03,03,15,15.0,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 04:00 PM,2023,03,03,16,14.0,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 05:00 PM,2023,03,03,17,14.0,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 06:00 PM,2023,03,03,18,15.5,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 07:00 PM,2023,03,03,19,13.7,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 08:00 PM,2023,03,03,20,14.3,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 09:00 PM,2023,03,03,21,16.6,60,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 10:00 PM,2023,03,03,22,20.3,68,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-03 11:00 PM,2023,03,03,23,21.1,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 12:00 AM,2023,03,04,00,20.0,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 01:00 AM,2023,03,04,01,20.5,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 02:00 AM,2023,03,04,02,21.2,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 03:00 AM,2023,03,04,03,24.6,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 04:00 AM,2023,03,04,04,20.8,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 05:00 AM,2023,03,04,05,20.9,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 06:00 AM,2023,03,04,06,21.4,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 07:00 AM,2023,03,04,07,19.3,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 08:00 AM,2023,03,04,08,19.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 09:00 AM,2023,03,04,09,21.4,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 10:00 AM,2023,03,04,10,25.8,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 11:00 AM,2023,03,04,11,27.2,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 12:00 PM,2023,03,04,12,28.5,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 01:00 PM,2023,03,04,13,26.0,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 02:00 PM,2023,03,04,14,26.9,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 03:00 PM,2023,03,04,15,31.4,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 04:00 PM,2023,03,04,16,32.2,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 05:00 PM,2023,03,04,17,31.1,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 06:00 PM,2023,03,04,18,28.5,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 07:00 PM,2023,03,04,19,25.7,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 08:00 PM,2023,03,04,20,25.7,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 09:00 PM,2023,03,04,21,27.4,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 10:00 PM,2023,03,04,22,24.7,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-04 11:00 PM,2023,03,04,23,25.6,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 12:00 AM,2023,03,05,00,29.9,88,Moderate,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 01:00 AM,2023,03,05,01,28.7,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 02:00 AM,2023,03,05,02,28.4,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 03:00 AM,2023,03,05,03,28.2,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 04:00 AM,2023,03,05,04,27.3,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 05:00 AM,2023,03,05,05,27.1,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 06:00 AM,2023,03,05,06,27.5,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 07:00 AM,2023,03,05,07,31.0,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 08:00 AM,2023,03,05,08,30.2,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 09:00 AM,2023,03,05,09,30.2,89,Moderate,-999.0,UG/M3,1 Hr,Missing
+Shanghai,PM2.5 - Principal,2023-03-05 10:00 AM,2023,03,05,10,29.5,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 11:00 AM,2023,03,05,11,26.7,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 12:00 PM,2023,03,05,12,26.0,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 01:00 PM,2023,03,05,13,24.8,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 02:00 PM,2023,03,05,14,24.1,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 03:00 PM,2023,03,05,15,28.5,85,Moderate,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 04:00 PM,2023,03,05,16,29.0,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 05:00 PM,2023,03,05,17,29.0,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 06:00 PM,2023,03,05,18,26.3,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 07:00 PM,2023,03,05,19,25.0,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 08:00 PM,2023,03,05,20,26.9,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 09:00 PM,2023,03,05,21,29.3,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 10:00 PM,2023,03,05,22,30.7,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-05 11:00 PM,2023,03,05,23,31.2,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 12:00 AM,2023,03,06,00,32.7,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 01:00 AM,2023,03,06,01,33.2,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 02:00 AM,2023,03,06,02,31.9,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 03:00 AM,2023,03,06,03,32.3,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 04:00 AM,2023,03,06,04,30.3,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 05:00 AM,2023,03,06,05,29.4,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 06:00 AM,2023,03,06,06,30.4,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 07:00 AM,2023,03,06,07,32.0,93,Moderate,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 08:00 AM,2023,03,06,08,32.3,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 09:00 AM,2023,03,06,09,33.0,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 10:00 AM,2023,03,06,10,33.7,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 11:00 AM,2023,03,06,11,37.1,105,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 12:00 PM,2023,03,06,12,39.9,112,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 01:00 PM,2023,03,06,13,43.8,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 02:00 PM,2023,03,06,14,43.4,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 03:00 PM,2023,03,06,15,40.2,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 04:00 PM,2023,03,06,16,36.4,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 05:00 PM,2023,03,06,17,39.9,112,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 06:00 PM,2023,03,06,18,41.3,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 07:00 PM,2023,03,06,19,43.3,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 08:00 PM,2023,03,06,20,49.4,135,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 09:00 PM,2023,03,06,21,49.2,135,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 10:00 PM,2023,03,06,22,45.1,125,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-06 11:00 PM,2023,03,06,23,43.2,120,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 12:00 AM,2023,03,07,00,37.7,106,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 01:00 AM,2023,03,07,01,33.2,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 02:00 AM,2023,03,07,02,32.1,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 03:00 AM,2023,03,07,03,32.0,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 04:00 AM,2023,03,07,04,33.0,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 05:00 AM,2023,03,07,05,33.0,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 06:00 AM,2023,03,07,06,33.9,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 07:00 AM,2023,03,07,07,36.3,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 08:00 AM,2023,03,07,08,39.2,110,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 09:00 AM,2023,03,07,09,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 10:00 AM,2023,03,07,10,41.0,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 11:00 AM,2023,03,07,11,39.9,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 12:00 PM,2023,03,07,12,40.3,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 01:00 PM,2023,03,07,13,41.4,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 02:00 PM,2023,03,07,14,43.7,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 03:00 PM,2023,03,07,15,43.6,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 04:00 PM,2023,03,07,16,41.9,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 05:00 PM,2023,03,07,17,42.0,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 06:00 PM,2023,03,07,18,41.6,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 07:00 PM,2023,03,07,19,41.0,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 08:00 PM,2023,03,07,20,40.0,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 09:00 PM,2023,03,07,21,37.4,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 10:00 PM,2023,03,07,22,33.5,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-07 11:00 PM,2023,03,07,23,30.4,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 12:00 AM,2023,03,08,00,30.6,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 01:00 AM,2023,03,08,01,29.9,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 02:00 AM,2023,03,08,02,31.2,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 03:00 AM,2023,03,08,03,29.2,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 04:00 AM,2023,03,08,04,31.4,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 05:00 AM,2023,03,08,05,31.9,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 06:00 AM,2023,03,08,06,31.9,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 07:00 AM,2023,03,08,07,34.2,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 08:00 AM,2023,03,08,08,35.5,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 09:00 AM,2023,03,08,09,40.5,113,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 10:00 AM,2023,03,08,10,41.6,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 11:00 AM,2023,03,08,11,41.3,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 12:00 PM,2023,03,08,12,44.4,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 01:00 PM,2023,03,08,13,41.5,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 02:00 PM,2023,03,08,14,41.2,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 03:00 PM,2023,03,08,15,42.2,117,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 04:00 PM,2023,03,08,16,40.8,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 05:00 PM,2023,03,08,17,39.2,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 06:00 PM,2023,03,08,18,36.2,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 07:00 PM,2023,03,08,19,35.7,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 08:00 PM,2023,03,08,20,37.2,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 09:00 PM,2023,03,08,21,41.0,115,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 10:00 PM,2023,03,08,22,41.7,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-08 11:00 PM,2023,03,08,23,48.5,133,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 12:00 AM,2023,03,09,00,50.0,137,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 01:00 AM,2023,03,09,01,51.8,141,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 02:00 AM,2023,03,09,02,54.2,147,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 03:00 AM,2023,03,09,03,57.1,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 04:00 AM,2023,03,09,04,58.0,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 05:00 AM,2023,03,09,05,56.5,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 06:00 AM,2023,03,09,06,56.2,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 07:00 AM,2023,03,09,07,57.4,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 08:00 AM,2023,03,09,08,56.5,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 09:00 AM,2023,03,09,09,56.4,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 10:00 AM,2023,03,09,10,56.1,151,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 11:00 AM,2023,03,09,11,54.3,147,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 12:00 PM,2023,03,09,12,54.2,147,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 01:00 PM,2023,03,09,13,54.4,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 02:00 PM,2023,03,09,14,54.0,147,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 03:00 PM,2023,03,09,15,52.3,142,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 04:00 PM,2023,03,09,16,48.1,132,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 05:00 PM,2023,03,09,17,43.2,120,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 06:00 PM,2023,03,09,18,42.3,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 07:00 PM,2023,03,09,19,70.5,159,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 08:00 PM,2023,03,09,20,96.2,172,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 09:00 PM,2023,03,09,21,107.6,178,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 10:00 PM,2023,03,09,22,115.8,182,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-09 11:00 PM,2023,03,09,23,119.4,184,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 12:00 AM,2023,03,10,00,123.2,186,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 01:00 AM,2023,03,10,01,120.6,185,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 02:00 AM,2023,03,10,02,118.8,184,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 03:00 AM,2023,03,10,03,115.9,182,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 04:00 AM,2023,03,10,04,109.9,179,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 05:00 AM,2023,03,10,05,105.4,177,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 06:00 AM,2023,03,10,06,109.4,179,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 07:00 AM,2023,03,10,07,106.0,177,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 08:00 AM,2023,03,10,08,105.6,177,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 09:00 AM,2023,03,10,09,94.7,171,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 10:00 AM,2023,03,10,10,87.9,168,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 11:00 AM,2023,03,10,11,83.4,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 12:00 PM,2023,03,10,12,69.9,158,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 01:00 PM,2023,03,10,13,61.4,154,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 02:00 PM,2023,03,10,14,48.7,134,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 03:00 PM,2023,03,10,15,40.8,114,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 04:00 PM,2023,03,10,16,36.9,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 05:00 PM,2023,03,10,17,31.9,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 06:00 PM,2023,03,10,18,33.4,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 07:00 PM,2023,03,10,19,33.7,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 08:00 PM,2023,03,10,20,29.8,88,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 09:00 PM,2023,03,10,21,29.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 10:00 PM,2023,03,10,22,28.7,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-10 11:00 PM,2023,03,10,23,30.3,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 12:00 AM,2023,03,11,00,30.6,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 01:00 AM,2023,03,11,01,28.3,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 02:00 AM,2023,03,11,02,26.9,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 03:00 AM,2023,03,11,03,27.2,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 04:00 AM,2023,03,11,04,27.1,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 05:00 AM,2023,03,11,05,29.3,87,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 06:00 AM,2023,03,11,06,29.1,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 07:00 AM,2023,03,11,07,29.6,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 08:00 AM,2023,03,11,08,29.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 09:00 AM,2023,03,11,09,29.6,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 10:00 AM,2023,03,11,10,28.5,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 11:00 AM,2023,03,11,11,28.0,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 12:00 PM,2023,03,11,12,25.8,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 01:00 PM,2023,03,11,13,23.8,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 02:00 PM,2023,03,11,14,25.0,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 03:00 PM,2023,03,11,15,26.1,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 04:00 PM,2023,03,11,16,24.5,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 05:00 PM,2023,03,11,17,25.4,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 06:00 PM,2023,03,11,18,25.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 07:00 PM,2023,03,11,19,26.8,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 08:00 PM,2023,03,11,20,26.8,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 09:00 PM,2023,03,11,21,27.1,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 10:00 PM,2023,03,11,22,26.2,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-11 11:00 PM,2023,03,11,23,27.7,84,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 12:00 AM,2023,03,12,00,30.8,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 01:00 AM,2023,03,12,01,32.8,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 02:00 AM,2023,03,12,02,36.3,103,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 03:00 AM,2023,03,12,03,37.5,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 04:00 AM,2023,03,12,04,39.9,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 05:00 AM,2023,03,12,05,45.7,126,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 06:00 AM,2023,03,12,06,39.8,112,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 07:00 AM,2023,03,12,07,37.9,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 08:00 AM,2023,03,12,08,31.9,93,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 09:00 AM,2023,03,12,09,29.9,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 10:00 AM,2023,03,12,10,29.0,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 11:00 AM,2023,03,12,11,25.9,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 12:00 PM,2023,03,12,12,24.4,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 01:00 PM,2023,03,12,13,27.2,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 02:00 PM,2023,03,12,14,29.6,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 03:00 PM,2023,03,12,15,27.3,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 04:00 PM,2023,03,12,16,24.1,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 05:00 PM,2023,03,12,17,21.0,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 06:00 PM,2023,03,12,18,18.5,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 07:00 PM,2023,03,12,19,18.2,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 08:00 PM,2023,03,12,20,19.1,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 09:00 PM,2023,03,12,21,21.5,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 10:00 PM,2023,03,12,22,17.2,62,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-12 11:00 PM,2023,03,12,23,16.6,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 12:00 AM,2023,03,13,00,17.8,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 01:00 AM,2023,03,13,01,20.4,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 02:00 AM,2023,03,13,02,20.6,69,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 03:00 AM,2023,03,13,03,18.4,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 04:00 AM,2023,03,13,04,16.4,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 05:00 AM,2023,03,13,05,17.6,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 06:00 AM,2023,03,13,06,14.7,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 07:00 AM,2023,03,13,07,12.8,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 08:00 AM,2023,03,13,08,15.4,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 09:00 AM,2023,03,13,09,14.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 10:00 AM,2023,03,13,10,13.1,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 11:00 AM,2023,03,13,11,13.0,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 12:00 PM,2023,03,13,12,13.0,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 01:00 PM,2023,03,13,13,12.0,50,Good,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 02:00 PM,2023,03,13,14,12.5,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 03:00 PM,2023,03,13,15,14.8,57,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 04:00 PM,2023,03,13,16,13.2,53,Moderate,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 05:00 PM,2023,03,13,17,13.1,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 06:00 PM,2023,03,13,18,13.8,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 07:00 PM,2023,03,13,19,12.1,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 08:00 PM,2023,03,13,20,11.2,47,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 09:00 PM,2023,03,13,21,16.0,59,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 10:00 PM,2023,03,13,22,15.0,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-13 11:00 PM,2023,03,13,23,13.5,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 12:00 AM,2023,03,14,00,13.2,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 01:00 AM,2023,03,14,01,13.1,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 02:00 AM,2023,03,14,02,14.0,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 03:00 AM,2023,03,14,03,12.5,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 04:00 AM,2023,03,14,04,12.7,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 05:00 AM,2023,03,14,05,11.3,47,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 06:00 AM,2023,03,14,06,11.6,48,Good,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 07:00 AM,2023,03,14,07,10.8,45,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 08:00 AM,2023,03,14,08,14.4,56,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 09:00 AM,2023,03,14,09,15.8,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 10:00 AM,2023,03,14,10,15.9,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 11:00 AM,2023,03,14,11,18.5,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 12:00 PM,2023,03,14,12,21.7,71,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 01:00 PM,2023,03,14,13,22.3,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 02:00 PM,2023,03,14,14,25.6,79,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 03:00 PM,2023,03,14,15,24.8,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 04:00 PM,2023,03,14,16,21.4,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 05:00 PM,2023,03,14,17,22.2,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 06:00 PM,2023,03,14,18,21.6,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 07:00 PM,2023,03,14,19,20.0,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 08:00 PM,2023,03,14,20,15.4,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 09:00 PM,2023,03,14,21,16.2,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 10:00 PM,2023,03,14,22,16.6,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-14 11:00 PM,2023,03,14,23,13.2,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 12:00 AM,2023,03,15,00,13.1,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 01:00 AM,2023,03,15,01,13.5,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 02:00 AM,2023,03,15,02,12.7,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 03:00 AM,2023,03,15,03,10.3,43,Good,8.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 04:00 AM,2023,03,15,04,11.6,48,Good,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 05:00 AM,2023,03,15,05,12.3,51,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 06:00 AM,2023,03,15,06,10.6,44,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 07:00 AM,2023,03,15,07,12.8,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 08:00 AM,2023,03,15,08,15.9,59,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 09:00 AM,2023,03,15,09,16.4,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 10:00 AM,2023,03,15,10,19.2,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 11:00 AM,2023,03,15,11,22.6,73,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 12:00 PM,2023,03,15,12,26.3,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 01:00 PM,2023,03,15,13,28.1,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 02:00 PM,2023,03,15,14,27.5,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 03:00 PM,2023,03,15,15,37.7,106,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 04:00 PM,2023,03,15,16,44.9,124,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 05:00 PM,2023,03,15,17,49.4,135,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 06:00 PM,2023,03,15,18,53.2,145,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 07:00 PM,2023,03,15,19,50.6,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 08:00 PM,2023,03,15,20,48.3,133,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 09:00 PM,2023,03,15,21,45.1,125,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 10:00 PM,2023,03,15,22,39.0,110,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-15 11:00 PM,2023,03,15,23,38.5,108,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 12:00 AM,2023,03,16,00,36.2,103,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 01:00 AM,2023,03,16,01,33.6,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 02:00 AM,2023,03,16,02,30.3,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 03:00 AM,2023,03,16,03,28.1,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 04:00 AM,2023,03,16,04,24.5,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 05:00 AM,2023,03,16,05,25.7,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 06:00 AM,2023,03,16,06,28.8,86,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 07:00 AM,2023,03,16,07,24.9,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 08:00 AM,2023,03,16,08,21.9,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 09:00 AM,2023,03,16,09,21.4,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 10:00 AM,2023,03,16,10,18.7,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 11:00 AM,2023,03,16,11,20.8,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 12:00 PM,2023,03,16,12,21.9,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 01:00 PM,2023,03,16,13,19.4,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 02:00 PM,2023,03,16,14,16.2,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 03:00 PM,2023,03,16,15,14.6,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 04:00 PM,2023,03,16,16,14.8,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 05:00 PM,2023,03,16,17,14.4,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 06:00 PM,2023,03,16,18,12.1,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 07:00 PM,2023,03,16,19,11.5,48,Good,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 08:00 PM,2023,03,16,20,10.7,45,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 09:00 PM,2023,03,16,21,12.8,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 10:00 PM,2023,03,16,22,11.4,48,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-16 11:00 PM,2023,03,16,23,11.7,49,Good,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 12:00 AM,2023,03,17,00,11.0,46,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 01:00 AM,2023,03,17,01,8.4,35,Good,6.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 02:00 AM,2023,03,17,02,7.2,30,Good,6.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 03:00 AM,2023,03,17,03,7.1,30,Good,7.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 04:00 AM,2023,03,17,04,7.0,29,Good,7.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 05:00 AM,2023,03,17,05,8.0,33,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 06:00 AM,2023,03,17,06,8.5,35,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 07:00 AM,2023,03,17,07,9.7,40,Good,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 08:00 AM,2023,03,17,08,9.8,41,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 09:00 AM,2023,03,17,09,9.9,41,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 10:00 AM,2023,03,17,10,9.4,39,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 11:00 AM,2023,03,17,11,9.2,38,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 12:00 PM,2023,03,17,12,7.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 01:00 PM,2023,03,17,13,10.3,43,Good,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 02:00 PM,2023,03,17,14,9.1,38,Good,8.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 03:00 PM,2023,03,17,15,7.5,31,Good,6.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 04:00 PM,2023,03,17,16,7.2,30,Good,7.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 05:00 PM,2023,03,17,17,6.6,28,Good,6.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 06:00 PM,2023,03,17,18,6.3,26,Good,6.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 07:00 PM,2023,03,17,19,9.1,38,Good,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 08:00 PM,2023,03,17,20,11.0,46,Good,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 09:00 PM,2023,03,17,21,13.0,53,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 10:00 PM,2023,03,17,22,13.5,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-17 11:00 PM,2023,03,17,23,12.7,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 12:00 AM,2023,03,18,00,13.8,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 01:00 AM,2023,03,18,01,12.9,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 02:00 AM,2023,03,18,02,12.4,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 03:00 AM,2023,03,18,03,13.7,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 04:00 AM,2023,03,18,04,12.8,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 05:00 AM,2023,03,18,05,14.9,57,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 06:00 AM,2023,03,18,06,16.1,59,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 07:00 AM,2023,03,18,07,19.7,67,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 08:00 AM,2023,03,18,08,19.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 09:00 AM,2023,03,18,09,27.4,83,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 10:00 AM,2023,03,18,10,27.2,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 11:00 AM,2023,03,18,11,30.6,90,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 12:00 PM,2023,03,18,12,29.3,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 01:00 PM,2023,03,18,13,32.1,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 02:00 PM,2023,03,18,14,33.5,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 03:00 PM,2023,03,18,15,31.7,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 04:00 PM,2023,03,18,16,29.8,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 05:00 PM,2023,03,18,17,29.1,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 06:00 PM,2023,03,18,18,25.7,80,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 07:00 PM,2023,03,18,19,21.6,71,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 08:00 PM,2023,03,18,20,19.2,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 09:00 PM,2023,03,18,21,21.6,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 10:00 PM,2023,03,18,22,19.8,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-18 11:00 PM,2023,03,18,23,19.4,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 12:00 AM,2023,03,19,00,20.2,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 01:00 AM,2023,03,19,01,15.0,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 02:00 AM,2023,03,19,02,14.5,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 03:00 AM,2023,03,19,03,14.7,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 04:00 AM,2023,03,19,04,13.8,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 05:00 AM,2023,03,19,05,14.9,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 06:00 AM,2023,03,19,06,15.9,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 07:00 AM,2023,03,19,07,15.9,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 08:00 AM,2023,03,19,08,16.4,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 09:00 AM,2023,03,19,09,16.7,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 10:00 AM,2023,03,19,10,16.8,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 11:00 AM,2023,03,19,11,18.4,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 12:00 PM,2023,03,19,12,22.2,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 01:00 PM,2023,03,19,13,20.6,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 02:00 PM,2023,03,19,14,18.8,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 03:00 PM,2023,03,19,15,18.4,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 04:00 PM,2023,03,19,16,19.1,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 05:00 PM,2023,03,19,17,19.1,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 06:00 PM,2023,03,19,18,17.3,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 07:00 PM,2023,03,19,19,18.9,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 08:00 PM,2023,03,19,20,18.5,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 09:00 PM,2023,03,19,21,16.4,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 10:00 PM,2023,03,19,22,17.6,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-19 11:00 PM,2023,03,19,23,19.1,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 12:00 AM,2023,03,20,00,20.0,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 01:00 AM,2023,03,20,01,23.6,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 02:00 AM,2023,03,20,02,26.4,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 03:00 AM,2023,03,20,03,28.2,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 04:00 AM,2023,03,20,04,28.1,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 05:00 AM,2023,03,20,05,28.0,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 06:00 AM,2023,03,20,06,27.0,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 07:00 AM,2023,03,20,07,26.0,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 08:00 AM,2023,03,20,08,28.5,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 09:00 AM,2023,03,20,09,27.6,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 10:00 AM,2023,03,20,10,26.4,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 11:00 AM,2023,03,20,11,27.5,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 12:00 PM,2023,03,20,12,27.4,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 01:00 PM,2023,03,20,13,27.3,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 02:00 PM,2023,03,20,14,28.2,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 03:00 PM,2023,03,20,15,26.0,80,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 04:00 PM,2023,03,20,16,28.9,86,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 05:00 PM,2023,03,20,17,29.3,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 06:00 PM,2023,03,20,18,31.1,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 07:00 PM,2023,03,20,19,37.4,106,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 08:00 PM,2023,03,20,20,40.2,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 09:00 PM,2023,03,20,21,38.1,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 10:00 PM,2023,03,20,22,29.0,87,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-20 11:00 PM,2023,03,20,23,22.0,72,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 12:00 AM,2023,03,21,00,19.0,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 01:00 AM,2023,03,21,01,15.5,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 02:00 AM,2023,03,21,02,12.7,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 03:00 AM,2023,03,21,03,10.8,45,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 04:00 AM,2023,03,21,04,9.9,41,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 05:00 AM,2023,03,21,05,8.9,37,Good,8.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 06:00 AM,2023,03,21,06,10.4,43,Good,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 07:00 AM,2023,03,21,07,11.7,49,Good,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 08:00 AM,2023,03,21,08,9.8,41,Good,8.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 09:00 AM,2023,03,21,09,9.4,39,Good,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 10:00 AM,2023,03,21,10,9.7,40,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 11:00 AM,2023,03,21,11,10.8,45,Good,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 12:00 PM,2023,03,21,12,11.1,46,Good,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 01:00 PM,2023,03,21,13,18.7,65,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 02:00 PM,2023,03,21,14,22.8,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 03:00 PM,2023,03,21,15,20.9,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 04:00 PM,2023,03,21,16,18.4,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 05:00 PM,2023,03,21,17,19.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 06:00 PM,2023,03,21,18,18.1,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 07:00 PM,2023,03,21,19,15.5,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 08:00 PM,2023,03,21,20,16.7,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 09:00 PM,2023,03,21,21,19.8,67,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 10:00 PM,2023,03,21,22,22.4,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-21 11:00 PM,2023,03,21,23,26.7,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 12:00 AM,2023,03,22,00,23.8,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 01:00 AM,2023,03,22,01,27.9,84,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 02:00 AM,2023,03,22,02,27.9,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 03:00 AM,2023,03,22,03,30.4,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 04:00 AM,2023,03,22,04,29.2,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 05:00 AM,2023,03,22,05,30.1,89,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 06:00 AM,2023,03,22,06,29.5,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 07:00 AM,2023,03,22,07,27.9,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 08:00 AM,2023,03,22,08,28.1,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 09:00 AM,2023,03,22,09,25.9,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 10:00 AM,2023,03,22,10,21.9,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 11:00 AM,2023,03,22,11,23.3,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 12:00 PM,2023,03,22,12,25.4,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 01:00 PM,2023,03,22,13,28.4,85,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 02:00 PM,2023,03,22,14,34.4,98,Moderate,40.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 03:00 PM,2023,03,22,15,37.2,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 04:00 PM,2023,03,22,16,39.6,111,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 05:00 PM,2023,03,22,17,42.3,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 06:00 PM,2023,03,22,18,41.1,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 07:00 PM,2023,03,22,19,39.5,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 08:00 PM,2023,03,22,20,40.7,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 09:00 PM,2023,03,22,21,41.3,115,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 10:00 PM,2023,03,22,22,42.0,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-22 11:00 PM,2023,03,22,23,37.3,105,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 12:00 AM,2023,03,23,00,36.1,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 01:00 AM,2023,03,23,01,26.7,82,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 02:00 AM,2023,03,23,02,25.8,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 03:00 AM,2023,03,23,03,28.4,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 04:00 AM,2023,03,23,04,28.7,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 05:00 AM,2023,03,23,05,27.8,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 06:00 AM,2023,03,23,06,28.4,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 07:00 AM,2023,03,23,07,25.7,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 08:00 AM,2023,03,23,08,23.8,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 09:00 AM,2023,03,23,09,21.9,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 10:00 AM,2023,03,23,10,20.3,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 11:00 AM,2023,03,23,11,19.7,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 12:00 PM,2023,03,23,12,20.7,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 01:00 PM,2023,03,23,13,24.6,77,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 02:00 PM,2023,03,23,14,25.2,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 03:00 PM,2023,03,23,15,19.3,66,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 04:00 PM,2023,03,23,16,14.1,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 05:00 PM,2023,03,23,17,20.5,69,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 06:00 PM,2023,03,23,18,36.7,104,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 07:00 PM,2023,03,23,19,49.9,136,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 08:00 PM,2023,03,23,20,63.4,155,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 09:00 PM,2023,03,23,21,70.7,159,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 10:00 PM,2023,03,23,22,65.3,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-23 11:00 PM,2023,03,23,23,64.6,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 12:00 AM,2023,03,24,00,62.3,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 01:00 AM,2023,03,24,01,61.1,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 02:00 AM,2023,03,24,02,53.5,145,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 03:00 AM,2023,03,24,03,47.2,130,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 04:00 AM,2023,03,24,04,41.1,115,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 05:00 AM,2023,03,24,05,38.5,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 06:00 AM,2023,03,24,06,38.7,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 07:00 AM,2023,03,24,07,34.3,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 08:00 AM,2023,03,24,08,30.1,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 09:00 AM,2023,03,24,09,25.5,79,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 10:00 AM,2023,03,24,10,20.2,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 11:00 AM,2023,03,24,11,17.6,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 12:00 PM,2023,03,24,12,17.3,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 01:00 PM,2023,03,24,13,18.1,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 02:00 PM,2023,03,24,14,17.5,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 03:00 PM,2023,03,24,15,15.7,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 04:00 PM,2023,03,24,16,15.3,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 05:00 PM,2023,03,24,17,16.1,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 06:00 PM,2023,03,24,18,15.5,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 07:00 PM,2023,03,24,19,17.6,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 08:00 PM,2023,03,24,20,16.4,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 09:00 PM,2023,03,24,21,16.6,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 10:00 PM,2023,03,24,22,16.4,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-24 11:00 PM,2023,03,24,23,16.9,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 12:00 AM,2023,03,25,00,16.9,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 01:00 AM,2023,03,25,01,15.5,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 02:00 AM,2023,03,25,02,15.3,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 03:00 AM,2023,03,25,03,14.5,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 04:00 AM,2023,03,25,04,13.9,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 05:00 AM,2023,03,25,05,13.9,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 06:00 AM,2023,03,25,06,13.1,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 07:00 AM,2023,03,25,07,11.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 08:00 AM,2023,03,25,08,12.2,51,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 09:00 AM,2023,03,25,09,11.6,48,Good,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 10:00 AM,2023,03,25,10,12.7,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 11:00 AM,2023,03,25,11,14.4,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 12:00 PM,2023,03,25,12,14.4,56,Moderate,-999.0,UG/M3,1 Hr,Missing
+Shanghai,PM2.5 - Principal,2023-03-25 01:00 PM,2023,03,25,13,16.6,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 02:00 PM,2023,03,25,14,19.8,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 03:00 PM,2023,03,25,15,20.9,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 04:00 PM,2023,03,25,16,24.0,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 05:00 PM,2023,03,25,17,25.5,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 06:00 PM,2023,03,25,18,24.2,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 07:00 PM,2023,03,25,19,25.6,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 08:00 PM,2023,03,25,20,24.8,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 09:00 PM,2023,03,25,21,25.8,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 10:00 PM,2023,03,25,22,20.9,70,Moderate,15.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-25 11:00 PM,2023,03,25,23,20.1,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 12:00 AM,2023,03,26,00,19.1,66,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 01:00 AM,2023,03,26,01,17.7,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 02:00 AM,2023,03,26,02,17.8,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 03:00 AM,2023,03,26,03,17.0,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 04:00 AM,2023,03,26,04,18.3,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 05:00 AM,2023,03,26,05,16.2,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 06:00 AM,2023,03,26,06,18.0,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 07:00 AM,2023,03,26,07,21.8,71,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 08:00 AM,2023,03,26,08,21.9,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 09:00 AM,2023,03,26,09,23.7,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 10:00 AM,2023,03,26,10,22.4,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 11:00 AM,2023,03,26,11,22.7,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 12:00 PM,2023,03,26,12,21.9,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 01:00 PM,2023,03,26,13,19.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 02:00 PM,2023,03,26,14,19.3,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 03:00 PM,2023,03,26,15,20.5,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 04:00 PM,2023,03,26,16,23.6,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 05:00 PM,2023,03,26,17,25.0,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 06:00 PM,2023,03,26,18,29.9,88,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 07:00 PM,2023,03,26,19,34.4,98,Moderate,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 08:00 PM,2023,03,26,20,38.7,109,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 09:00 PM,2023,03,26,21,37.8,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 10:00 PM,2023,03,26,22,37.4,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-26 11:00 PM,2023,03,26,23,39.2,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 12:00 AM,2023,03,27,00,37.6,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 01:00 AM,2023,03,27,01,33.8,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 02:00 AM,2023,03,27,02,31.5,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 03:00 AM,2023,03,27,03,33.1,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 04:00 AM,2023,03,27,04,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 05:00 AM,2023,03,27,05,32.6,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 06:00 AM,2023,03,27,06,33.0,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 07:00 AM,2023,03,27,07,29.0,87,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 08:00 AM,2023,03,27,08,30.8,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 09:00 AM,2023,03,27,09,30.4,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 10:00 AM,2023,03,27,10,34.8,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 11:00 AM,2023,03,27,11,42.3,118,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 12:00 PM,2023,03,27,12,44.6,123,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 01:00 PM,2023,03,27,13,44.3,123,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 02:00 PM,2023,03,27,14,44.1,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 03:00 PM,2023,03,27,15,44.0,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 04:00 PM,2023,03,27,16,41.0,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 05:00 PM,2023,03,27,17,41.5,116,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 06:00 PM,2023,03,27,18,45.2,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 07:00 PM,2023,03,27,19,45.9,127,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 08:00 PM,2023,03,27,20,42.0,117,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 09:00 PM,2023,03,27,21,41.2,115,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 10:00 PM,2023,03,27,22,40.6,114,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-27 11:00 PM,2023,03,27,23,39.8,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 12:00 AM,2023,03,28,00,40.1,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 01:00 AM,2023,03,28,01,39.5,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 02:00 AM,2023,03,28,02,38.5,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 03:00 AM,2023,03,28,03,30.7,90,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 04:00 AM,2023,03,28,04,29.8,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 05:00 AM,2023,03,28,05,28.4,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 06:00 AM,2023,03,28,06,25.7,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 07:00 AM,2023,03,28,07,21.3,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 08:00 AM,2023,03,28,08,20.1,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 09:00 AM,2023,03,28,09,23.5,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 10:00 AM,2023,03,28,10,27.2,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 11:00 AM,2023,03,28,11,42.6,118,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 12:00 PM,2023,03,28,12,47.8,131,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 01:00 PM,2023,03,28,13,47.4,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 02:00 PM,2023,03,28,14,45.7,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 03:00 PM,2023,03,28,15,40.8,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 04:00 PM,2023,03,28,16,40.9,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 05:00 PM,2023,03,28,17,39.9,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 06:00 PM,2023,03,28,18,40.9,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 07:00 PM,2023,03,28,19,46.9,129,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 08:00 PM,2023,03,28,20,46.0,127,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 09:00 PM,2023,03,28,21,41.2,115,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 10:00 PM,2023,03,28,22,37.1,105,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-28 11:00 PM,2023,03,28,23,37.5,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 12:00 AM,2023,03,29,00,38.8,109,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 01:00 AM,2023,03,29,01,38.8,109,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Shanghai,PM2.5 - Principal,2023-03-29 02:00 AM,2023,03,29,02,35.7,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 03:00 AM,2023,03,29,03,32.7,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 04:00 AM,2023,03,29,04,34.7,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 05:00 AM,2023,03,29,05,36.2,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 06:00 AM,2023,03,29,06,35.6,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 07:00 AM,2023,03,29,07,30.8,90,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 08:00 AM,2023,03,29,08,27.4,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 09:00 AM,2023,03,29,09,24.7,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 10:00 AM,2023,03,29,10,26.7,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 11:00 AM,2023,03,29,11,27.7,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 12:00 PM,2023,03,29,12,27.7,84,Moderate,-999.0,UG/M3,1 Hr,Missing
+Shanghai,PM2.5 - Principal,2023-03-29 01:00 PM,2023,03,29,13,27.3,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 02:00 PM,2023,03,29,14,23.3,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 03:00 PM,2023,03,29,15,22.1,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 04:00 PM,2023,03,29,16,25.0,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 05:00 PM,2023,03,29,17,20.4,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 06:00 PM,2023,03,29,18,22.2,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 07:00 PM,2023,03,29,19,21.2,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 08:00 PM,2023,03,29,20,22.0,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 09:00 PM,2023,03,29,21,23.3,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 10:00 PM,2023,03,29,22,28.7,86,Moderate,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-29 11:00 PM,2023,03,29,23,30.3,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 12:00 AM,2023,03,30,00,35.6,101,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 01:00 AM,2023,03,30,01,38.3,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 02:00 AM,2023,03,30,02,38.6,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 03:00 AM,2023,03,30,03,40.8,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 04:00 AM,2023,03,30,04,42.9,119,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 05:00 AM,2023,03,30,05,49.9,136,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 06:00 AM,2023,03,30,06,53.4,145,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 07:00 AM,2023,03,30,07,60.2,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 08:00 AM,2023,03,30,08,65.6,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 09:00 AM,2023,03,30,09,72.8,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 10:00 AM,2023,03,30,10,67.4,157,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 11:00 AM,2023,03,30,11,67.4,157,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Shanghai,PM2.5 - Principal,2023-03-30 12:00 PM,2023,03,30,12,39.1,110,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 01:00 PM,2023,03,30,13,31.0,91,Moderate,25.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 02:00 PM,2023,03,30,14,39.0,110,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 03:00 PM,2023,03,30,15,43.6,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 04:00 PM,2023,03,30,16,45.3,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 05:00 PM,2023,03,30,17,43.6,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 06:00 PM,2023,03,30,18,41.3,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 07:00 PM,2023,03,30,19,35.1,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 08:00 PM,2023,03,30,20,36.0,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 09:00 PM,2023,03,30,21,44.0,122,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 10:00 PM,2023,03,30,22,57.5,152,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-30 11:00 PM,2023,03,30,23,62.2,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 12:00 AM,2023,03,31,00,59.1,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 01:00 AM,2023,03,31,01,51.5,140,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 02:00 AM,2023,03,31,02,48.7,134,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 03:00 AM,2023,03,31,03,41.3,115,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 04:00 AM,2023,03,31,04,35.6,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 05:00 AM,2023,03,31,05,33.3,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 06:00 AM,2023,03,31,06,35.6,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 07:00 AM,2023,03,31,07,38.3,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 08:00 AM,2023,03,31,08,35.6,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 09:00 AM,2023,03,31,09,39.3,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 10:00 AM,2023,03,31,10,37.6,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 11:00 AM,2023,03,31,11,27.8,84,Moderate,18.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 12:00 PM,2023,03,31,12,19.9,67,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 01:00 PM,2023,03,31,13,16.9,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 02:00 PM,2023,03,31,14,14.4,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 03:00 PM,2023,03,31,15,12.2,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 04:00 PM,2023,03,31,16,13.1,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 05:00 PM,2023,03,31,17,13.5,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 06:00 PM,2023,03,31,18,12.7,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 07:00 PM,2023,03,31,19,11.8,49,Good,11.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 08:00 PM,2023,03,31,20,12.4,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 09:00 PM,2023,03,31,21,16.7,61,Moderate,21.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 10:00 PM,2023,03,31,22,18.3,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-03-31 11:00 PM,2023,03,31,23,22.6,73,Moderate,27.0,UG/M3,1 Hr,Valid
+Shanghai,PM2.5 - Principal,2023-04-01 12:00 AM,2023,04,01,00,25.8,80,Moderate,29.0,UG/M3,1 Hr,Valid

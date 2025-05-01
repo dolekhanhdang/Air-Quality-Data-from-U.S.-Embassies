@@ -1,0 +1,14 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Colombo,PM2.5 - Principal,2021-12-14 02:00 AM,2021,12,14,02,-999.0,-999,N/A,19.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 03:00 AM,2021,12,14,03,23.0,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 04:00 AM,2021,12,14,04,25.4,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 05:00 AM,2021,12,14,05,38.3,108,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 06:00 AM,2021,12,14,06,40.7,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 07:00 AM,2021,12,14,07,37.8,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 08:00 AM,2021,12,14,08,38.9,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 09:00 AM,2021,12,14,09,34.4,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 10:00 AM,2021,12,14,10,32.2,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 11:00 AM,2021,12,14,11,32.2,93,Moderate,-999.0,UG/M3,1 Hr,Missing
+Colombo,PM2.5 - Principal,2021-12-14 09:00 PM,2021,12,14,21,-999.0,-999,N/A,29.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 10:00 PM,2021,12,14,22,29.0,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Colombo,PM2.5 - Principal,2021-12-14 11:00 PM,2021,12,14,23,29.0,87,Moderate,-999.0,UG/M3,1 Hr,Missing

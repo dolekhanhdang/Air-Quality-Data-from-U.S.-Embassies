@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Beijing,PM2.5 - Principal,2020-11-01 01:00 AM,2020,11,01,01,47.8,131,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 02:00 AM,2020,11,01,02,44.9,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 03:00 AM,2020,11,01,03,40.4,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 04:00 AM,2020,11,01,04,30.2,89,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 05:00 AM,2020,11,01,05,23.6,75,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 06:00 AM,2020,11,01,06,19.2,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 07:00 AM,2020,11,01,07,16.6,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 08:00 AM,2020,11,01,08,13.8,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 09:00 AM,2020,11,01,09,11.9,50,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 10:00 AM,2020,11,01,10,11.4,48,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 11:00 AM,2020,11,01,11,10.2,43,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 12:00 PM,2020,11,01,12,8.1,34,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 01:00 PM,2020,11,01,13,6.0,25,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 02:00 PM,2020,11,01,14,6.0,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 03:00 PM,2020,11,01,15,6.0,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 04:00 PM,2020,11,01,16,6.0,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 05:00 PM,2020,11,01,17,11.5,48,Good,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 06:00 PM,2020,11,01,18,9.7,40,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 07:00 PM,2020,11,01,19,16.8,61,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 08:00 PM,2020,11,01,20,18.4,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 09:00 PM,2020,11,01,21,13.7,54,Moderate,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 10:00 PM,2020,11,01,22,13.3,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-01 11:00 PM,2020,11,01,23,11.1,46,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 12:00 AM,2020,11,02,00,11.5,48,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 01:00 AM,2020,11,02,01,13.2,53,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 02:00 AM,2020,11,02,02,13.1,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 03:00 AM,2020,11,02,03,13.5,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 04:00 AM,2020,11,02,04,10.7,45,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 05:00 AM,2020,11,02,05,7.3,30,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 06:00 AM,2020,11,02,06,6.1,25,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 07:00 AM,2020,11,02,07,5.0,21,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 08:00 AM,2020,11,02,08,5.0,21,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 09:00 AM,2020,11,02,09,6.5,27,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 10:00 AM,2020,11,02,10,6.7,28,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 11:00 AM,2020,11,02,11,5.8,24,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 12:00 PM,2020,11,02,12,4.9,20,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 01:00 PM,2020,11,02,13,4.4,18,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 02:00 PM,2020,11,02,14,4.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 03:00 PM,2020,11,02,15,6.1,25,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 04:00 PM,2020,11,02,16,6.5,27,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 05:00 PM,2020,11,02,17,6.2,26,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 06:00 PM,2020,11,02,18,5.1,21,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 07:00 PM,2020,11,02,19,6.5,27,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 08:00 PM,2020,11,02,20,7.7,32,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 09:00 PM,2020,11,02,21,8.3,35,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 10:00 PM,2020,11,02,22,8.1,34,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-02 11:00 PM,2020,11,02,23,12.0,50,Good,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 12:00 AM,2020,11,03,00,13.5,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 01:00 AM,2020,11,03,01,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 02:00 AM,2020,11,03,02,15.8,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 03:00 AM,2020,11,03,03,14.4,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 04:00 AM,2020,11,03,04,10.7,45,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 05:00 AM,2020,11,03,05,9.3,39,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 06:00 AM,2020,11,03,06,9.6,40,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 07:00 AM,2020,11,03,07,13.3,54,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 08:00 AM,2020,11,03,08,11.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 09:00 AM,2020,11,03,09,10.8,45,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 10:00 AM,2020,11,03,10,9.9,41,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 11:00 AM,2020,11,03,11,8.4,35,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 12:00 PM,2020,11,03,12,7.7,32,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 01:00 PM,2020,11,03,13,6.3,26,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 02:00 PM,2020,11,03,14,5.6,23,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 03:00 PM,2020,11,03,15,5.3,22,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 04:00 PM,2020,11,03,16,5.6,23,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 05:00 PM,2020,11,03,17,6.8,28,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 06:00 PM,2020,11,03,18,12.4,52,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 07:00 PM,2020,11,03,19,18.2,64,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 08:00 PM,2020,11,03,20,22.1,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 09:00 PM,2020,11,03,21,25.5,79,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 10:00 PM,2020,11,03,22,28.2,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-03 11:00 PM,2020,11,03,23,30.1,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 12:00 AM,2020,11,04,00,30.0,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 01:00 AM,2020,11,04,01,27.0,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 02:00 AM,2020,11,04,02,25.5,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 03:00 AM,2020,11,04,03,24.2,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 04:00 AM,2020,11,04,04,22.6,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 05:00 AM,2020,11,04,05,20.0,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 06:00 AM,2020,11,04,06,20.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 07:00 AM,2020,11,04,07,18.6,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 08:00 AM,2020,11,04,08,21.1,70,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 09:00 AM,2020,11,04,09,21.5,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 10:00 AM,2020,11,04,10,28.3,85,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 11:00 AM,2020,11,04,11,33.6,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 12:00 PM,2020,11,04,12,36.3,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 01:00 PM,2020,11,04,13,41.1,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 02:00 PM,2020,11,04,14,44.5,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 03:00 PM,2020,11,04,15,46.7,129,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 04:00 PM,2020,11,04,16,50.9,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 05:00 PM,2020,11,04,17,55.9,151,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 06:00 PM,2020,11,04,18,59.9,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 07:00 PM,2020,11,04,19,66.4,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 08:00 PM,2020,11,04,20,73.7,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 09:00 PM,2020,11,04,21,81.3,164,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 10:00 PM,2020,11,04,22,89.2,168,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-04 11:00 PM,2020,11,04,23,85.1,166,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 12:00 AM,2020,11,05,00,82.5,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 01:00 AM,2020,11,05,01,80.2,164,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 02:00 AM,2020,11,05,02,72.7,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 03:00 AM,2020,11,05,03,70.0,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 04:00 AM,2020,11,05,04,68.5,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 05:00 AM,2020,11,05,05,67.7,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 06:00 AM,2020,11,05,06,62.6,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 07:00 AM,2020,11,05,07,58.5,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 08:00 AM,2020,11,05,08,57.8,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 09:00 AM,2020,11,05,09,59.2,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 10:00 AM,2020,11,05,10,62.5,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 11:00 AM,2020,11,05,11,66.8,157,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 12:00 PM,2020,11,05,12,71.1,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 01:00 PM,2020,11,05,13,80.3,164,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 02:00 PM,2020,11,05,14,87.7,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 03:00 PM,2020,11,05,15,95.5,172,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 04:00 PM,2020,11,05,16,107.1,178,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 05:00 PM,2020,11,05,17,114.5,181,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 06:00 PM,2020,11,05,18,128.2,189,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 07:00 PM,2020,11,05,19,138.1,194,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 08:00 PM,2020,11,05,20,148.5,199,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 09:00 PM,2020,11,05,21,158.3,209,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 10:00 PM,2020,11,05,22,164.6,215,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-05 11:00 PM,2020,11,05,23,166.3,217,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 12:00 AM,2020,11,06,00,163.9,214,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 01:00 AM,2020,11,06,01,164.7,215,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 02:00 AM,2020,11,06,02,160.2,211,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 03:00 AM,2020,11,06,03,156.4,207,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 04:00 AM,2020,11,06,04,151.7,202,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 05:00 AM,2020,11,06,05,149.6,200,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 06:00 AM,2020,11,06,06,144.5,197,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 07:00 AM,2020,11,06,07,137.5,193,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 08:00 AM,2020,11,06,08,126.0,187,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 09:00 AM,2020,11,06,09,71.2,159,Unhealthy,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 10:00 AM,2020,11,06,10,45.5,126,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 11:00 AM,2020,11,06,11,36.7,104,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 12:00 PM,2020,11,06,12,32.8,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 01:00 PM,2020,11,06,13,28.9,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 02:00 PM,2020,11,06,14,28.4,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 03:00 PM,2020,11,06,15,34.2,97,Moderate,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 04:00 PM,2020,11,06,16,37.5,106,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 05:00 PM,2020,11,06,17,42.2,117,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 06:00 PM,2020,11,06,18,51.1,139,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 07:00 PM,2020,11,06,19,57.5,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 08:00 PM,2020,11,06,20,58.2,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 09:00 PM,2020,11,06,21,54.6,148,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 10:00 PM,2020,11,06,22,54.3,147,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-06 11:00 PM,2020,11,06,23,57.6,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 12:00 AM,2020,11,07,00,60.3,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 01:00 AM,2020,11,07,01,62.6,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 02:00 AM,2020,11,07,02,51.2,140,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 03:00 AM,2020,11,07,03,43.4,120,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 04:00 AM,2020,11,07,04,36.7,104,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 05:00 AM,2020,11,07,05,33.3,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 06:00 AM,2020,11,07,06,32.6,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 07:00 AM,2020,11,07,07,31.3,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 08:00 AM,2020,11,07,08,28.1,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 09:00 AM,2020,11,07,09,28.0,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 10:00 AM,2020,11,07,10,29.5,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 11:00 AM,2020,11,07,11,30.7,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 12:00 PM,2020,11,07,12,29.8,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 01:00 PM,2020,11,07,13,32.6,94,Moderate,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 02:00 PM,2020,11,07,14,37.3,105,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 03:00 PM,2020,11,07,15,33.4,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 04:00 PM,2020,11,07,16,27.1,83,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 05:00 PM,2020,11,07,17,20.0,68,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 06:00 PM,2020,11,07,18,17.0,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 07:00 PM,2020,11,07,19,15.5,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 08:00 PM,2020,11,07,20,11.7,49,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 09:00 PM,2020,11,07,21,8.8,37,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 10:00 PM,2020,11,07,22,7.4,31,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-07 11:00 PM,2020,11,07,23,6.7,28,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 12:00 AM,2020,11,08,00,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 01:00 AM,2020,11,08,01,5.4,23,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 02:00 AM,2020,11,08,02,3.2,13,Good,1.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 03:00 AM,2020,11,08,03,3.1,13,Good,3.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 04:00 AM,2020,11,08,04,2.5,10,Good,2.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 05:00 AM,2020,11,08,05,2.2,9,Good,2.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 06:00 AM,2020,11,08,06,4.1,17,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 07:00 AM,2020,11,08,07,5.0,21,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 08:00 AM,2020,11,08,08,6.0,25,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 09:00 AM,2020,11,08,09,6.0,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 10:00 AM,2020,11,08,10,6.5,27,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 11:00 AM,2020,11,08,11,6.7,28,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 12:00 PM,2020,11,08,12,6.3,26,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 01:00 PM,2020,11,08,13,5.6,23,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 02:00 PM,2020,11,08,14,4.3,18,Good,3.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 03:00 PM,2020,11,08,15,5.6,23,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 04:00 PM,2020,11,08,16,9.8,41,Good,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 05:00 PM,2020,11,08,17,11.4,48,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 06:00 PM,2020,11,08,18,16.2,60,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 07:00 PM,2020,11,08,19,23.1,74,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 08:00 PM,2020,11,08,20,27.0,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 09:00 PM,2020,11,08,21,29.5,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 10:00 PM,2020,11,08,22,32.7,94,Moderate,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-08 11:00 PM,2020,11,08,23,35.3,100,Moderate,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 12:00 AM,2020,11,09,00,36.6,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 01:00 AM,2020,11,09,01,34.3,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 02:00 AM,2020,11,09,02,30.6,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 03:00 AM,2020,11,09,03,22.3,72,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 04:00 AM,2020,11,09,04,18.1,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 05:00 AM,2020,11,09,05,15.0,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 06:00 AM,2020,11,09,06,13.5,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 07:00 AM,2020,11,09,07,12.7,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 08:00 AM,2020,11,09,08,10.8,45,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 09:00 AM,2020,11,09,09,10.4,43,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 10:00 AM,2020,11,09,10,9.2,38,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 11:00 AM,2020,11,09,11,7.6,32,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 12:00 PM,2020,11,09,12,8.2,34,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 01:00 PM,2020,11,09,13,10.6,44,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 02:00 PM,2020,11,09,14,11.3,47,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 03:00 PM,2020,11,09,15,15.6,58,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 04:00 PM,2020,11,09,16,18.8,65,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 05:00 PM,2020,11,09,17,21.9,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 06:00 PM,2020,11,09,18,24.4,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 07:00 PM,2020,11,09,19,26.2,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 08:00 PM,2020,11,09,20,30.6,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 09:00 PM,2020,11,09,21,33.3,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 10:00 PM,2020,11,09,22,38.1,107,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-09 11:00 PM,2020,11,09,23,43.5,121,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 12:00 AM,2020,11,10,00,43.2,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 01:00 AM,2020,11,10,01,46.6,128,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 02:00 AM,2020,11,10,02,44.3,123,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 03:00 AM,2020,11,10,03,40.1,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 04:00 AM,2020,11,10,04,31.0,91,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 05:00 AM,2020,11,10,05,24.5,77,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 06:00 AM,2020,11,10,06,20.7,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 07:00 AM,2020,11,10,07,22.8,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 08:00 AM,2020,11,10,08,24.9,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 09:00 AM,2020,11,10,09,27.4,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 10:00 AM,2020,11,10,10,22.7,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 11:00 AM,2020,11,10,11,16.3,60,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 12:00 PM,2020,11,10,12,14.1,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 01:00 PM,2020,11,10,13,13.5,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 02:00 PM,2020,11,10,14,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 03:00 PM,2020,11,10,15,16.8,61,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 04:00 PM,2020,11,10,16,27.4,83,Moderate,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 05:00 PM,2020,11,10,17,44.2,122,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 06:00 PM,2020,11,10,18,51.1,139,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 07:00 PM,2020,11,10,19,61.0,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 08:00 PM,2020,11,10,20,68.5,158,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 09:00 PM,2020,11,10,21,77.2,162,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 10:00 PM,2020,11,10,22,79.6,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-10 11:00 PM,2020,11,10,23,86.3,167,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 12:00 AM,2020,11,11,00,90.6,169,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 01:00 AM,2020,11,11,01,92.8,170,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 02:00 AM,2020,11,11,02,89.4,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 03:00 AM,2020,11,11,03,86.7,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 04:00 AM,2020,11,11,04,80.8,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 05:00 AM,2020,11,11,05,73.5,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 06:00 AM,2020,11,11,06,61.9,154,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 07:00 AM,2020,11,11,07,51.3,140,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 08:00 AM,2020,11,11,08,48.1,132,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 09:00 AM,2020,11,11,09,49.0,134,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 10:00 AM,2020,11,11,10,56.0,151,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 11:00 AM,2020,11,11,11,68.5,158,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 12:00 PM,2020,11,11,12,87.2,167,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 01:00 PM,2020,11,11,13,107.1,178,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 02:00 PM,2020,11,11,14,123.5,186,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 03:00 PM,2020,11,11,15,134.7,192,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 04:00 PM,2020,11,11,16,142.4,196,Unhealthy,150.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 05:00 PM,2020,11,11,17,151.7,202,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 06:00 PM,2020,11,11,18,159.3,210,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 07:00 PM,2020,11,11,19,169.7,220,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 08:00 PM,2020,11,11,20,174.3,225,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 09:00 PM,2020,11,11,21,179.2,229,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 10:00 PM,2020,11,11,22,183.1,233,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-11 11:00 PM,2020,11,11,23,181.8,232,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 12:00 AM,2020,11,12,00,179.0,229,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 01:00 AM,2020,11,12,01,175.3,226,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 02:00 AM,2020,11,12,02,171.9,222,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 03:00 AM,2020,11,12,03,165.4,216,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 04:00 AM,2020,11,12,04,160.7,211,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 05:00 AM,2020,11,12,05,159.0,209,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 06:00 AM,2020,11,12,06,158.5,209,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 07:00 AM,2020,11,12,07,158.6,209,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 08:00 AM,2020,11,12,08,160.1,211,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 09:00 AM,2020,11,12,09,162.5,213,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 10:00 AM,2020,11,12,10,154.1,205,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 11:00 AM,2020,11,12,11,129.2,189,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 12:00 PM,2020,11,12,12,92.0,170,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 01:00 PM,2020,11,12,13,56.4,151,Unhealthy,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 02:00 PM,2020,11,12,14,36.2,103,Unhealthy for Sensitive Groups,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 03:00 PM,2020,11,12,15,28.0,84,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 04:00 PM,2020,11,12,16,22.5,73,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 05:00 PM,2020,11,12,17,19.2,66,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 06:00 PM,2020,11,12,18,19.6,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 07:00 PM,2020,11,12,19,21.7,71,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 08:00 PM,2020,11,12,20,19.8,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 09:00 PM,2020,11,12,21,18.4,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 10:00 PM,2020,11,12,22,18.6,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-12 11:00 PM,2020,11,12,23,19.8,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 12:00 AM,2020,11,13,00,18.3,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 01:00 AM,2020,11,13,01,17.8,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 02:00 AM,2020,11,13,02,17.2,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 03:00 AM,2020,11,13,03,16.8,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 04:00 AM,2020,11,13,04,14.1,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 05:00 AM,2020,11,13,05,12.0,50,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 06:00 AM,2020,11,13,06,12.5,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 07:00 AM,2020,11,13,07,11.7,49,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 08:00 AM,2020,11,13,08,10.3,43,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 09:00 AM,2020,11,13,09,10.1,42,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 10:00 AM,2020,11,13,10,10.5,44,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 11:00 AM,2020,11,13,11,11.2,47,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 12:00 PM,2020,11,13,12,16.6,60,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 01:00 PM,2020,11,13,13,23.8,76,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 02:00 PM,2020,11,13,14,21.4,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 03:00 PM,2020,11,13,15,22.7,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 04:00 PM,2020,11,13,16,24.8,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 05:00 PM,2020,11,13,17,25.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 06:00 PM,2020,11,13,18,25.4,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 07:00 PM,2020,11,13,19,27.2,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 08:00 PM,2020,11,13,20,36.6,104,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 09:00 PM,2020,11,13,21,56.8,152,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 10:00 PM,2020,11,13,22,42.9,119,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-13 11:00 PM,2020,11,13,23,32.4,94,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 12:00 AM,2020,11,14,00,28.2,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 01:00 AM,2020,11,14,01,28.6,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 02:00 AM,2020,11,14,02,27.8,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 03:00 AM,2020,11,14,03,30.9,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 04:00 AM,2020,11,14,04,37.9,107,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 05:00 AM,2020,11,14,05,40.4,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 06:00 AM,2020,11,14,06,43.7,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 07:00 AM,2020,11,14,07,40.8,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 08:00 AM,2020,11,14,08,40.4,113,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 09:00 AM,2020,11,14,09,39.2,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 10:00 AM,2020,11,14,10,41.1,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 11:00 AM,2020,11,14,11,43.0,119,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 12:00 PM,2020,11,14,12,47.9,132,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 01:00 PM,2020,11,14,13,51.5,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 02:00 PM,2020,11,14,14,53.4,145,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 03:00 PM,2020,11,14,15,53.5,145,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 04:00 PM,2020,11,14,16,54.7,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 05:00 PM,2020,11,14,17,54.5,148,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 06:00 PM,2020,11,14,18,55.7,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 07:00 PM,2020,11,14,19,59.3,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 08:00 PM,2020,11,14,20,61.2,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 09:00 PM,2020,11,14,21,61.6,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 10:00 PM,2020,11,14,22,63.9,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-14 11:00 PM,2020,11,14,23,60.9,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 12:00 AM,2020,11,15,00,60.7,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 01:00 AM,2020,11,15,01,61.7,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 02:00 AM,2020,11,15,02,61.6,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 03:00 AM,2020,11,15,03,61.1,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 04:00 AM,2020,11,15,04,60.7,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 05:00 AM,2020,11,15,05,60.3,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 06:00 AM,2020,11,15,06,59.9,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 07:00 AM,2020,11,15,07,59.3,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 08:00 AM,2020,11,15,08,59.7,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 09:00 AM,2020,11,15,09,59.5,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 10:00 AM,2020,11,15,10,59.4,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 11:00 AM,2020,11,15,11,60.2,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 12:00 PM,2020,11,15,12,62.0,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 01:00 PM,2020,11,15,13,70.2,159,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 02:00 PM,2020,11,15,14,80.1,164,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 03:00 PM,2020,11,15,15,85.7,167,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 04:00 PM,2020,11,15,16,91.3,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 05:00 PM,2020,11,15,17,93.7,171,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 06:00 PM,2020,11,15,18,91.7,170,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 07:00 PM,2020,11,15,19,94.6,171,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 08:00 PM,2020,11,15,20,99.9,174,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 09:00 PM,2020,11,15,21,118.9,184,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 10:00 PM,2020,11,15,22,119.4,184,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-15 11:00 PM,2020,11,15,23,120.6,185,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 12:00 AM,2020,11,16,00,120.3,184,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 01:00 AM,2020,11,16,01,123.6,186,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 02:00 AM,2020,11,16,02,120.3,184,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 03:00 AM,2020,11,16,03,114.9,182,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 04:00 AM,2020,11,16,04,112.1,180,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 05:00 AM,2020,11,16,05,107.9,178,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 06:00 AM,2020,11,16,06,96.1,172,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 07:00 AM,2020,11,16,07,87.1,167,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 08:00 AM,2020,11,16,08,85.7,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 09:00 AM,2020,11,16,09,89.9,169,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 10:00 AM,2020,11,16,10,94.0,171,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 11:00 AM,2020,11,16,11,92.3,170,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 12:00 PM,2020,11,16,12,95.0,171,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 01:00 PM,2020,11,16,13,97.2,173,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 02:00 PM,2020,11,16,14,99.9,174,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 03:00 PM,2020,11,16,15,102.2,175,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 04:00 PM,2020,11,16,16,105.7,177,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 05:00 PM,2020,11,16,17,107.4,178,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 06:00 PM,2020,11,16,18,110.2,179,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 07:00 PM,2020,11,16,19,109.1,179,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 08:00 PM,2020,11,16,20,109.9,179,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 09:00 PM,2020,11,16,21,108.9,179,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 10:00 PM,2020,11,16,22,108.6,178,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-16 11:00 PM,2020,11,16,23,93.3,171,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 12:00 AM,2020,11,17,00,84.5,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 01:00 AM,2020,11,17,01,81.5,164,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 02:00 AM,2020,11,17,02,85.6,167,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 03:00 AM,2020,11,17,03,84.1,166,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 04:00 AM,2020,11,17,04,85.6,167,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 05:00 AM,2020,11,17,05,86.5,167,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 06:00 AM,2020,11,17,06,89.7,169,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 07:00 AM,2020,11,17,07,92.5,170,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 08:00 AM,2020,11,17,08,97.1,172,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 09:00 AM,2020,11,17,09,98.8,173,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 10:00 AM,2020,11,17,10,101.3,175,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 11:00 AM,2020,11,17,11,107.5,178,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 12:00 PM,2020,11,17,12,108.6,178,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 01:00 PM,2020,11,17,13,107.8,178,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 02:00 PM,2020,11,17,14,115.2,182,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 03:00 PM,2020,11,17,15,118.6,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 04:00 PM,2020,11,17,16,121.3,185,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 05:00 PM,2020,11,17,17,123.9,186,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 06:00 PM,2020,11,17,18,125.9,187,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 07:00 PM,2020,11,17,19,129.3,189,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 08:00 PM,2020,11,17,20,132.6,191,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 09:00 PM,2020,11,17,21,132.8,191,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 10:00 PM,2020,11,17,22,129.3,189,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-17 11:00 PM,2020,11,17,23,126.0,187,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 12:00 AM,2020,11,18,00,123.0,186,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 01:00 AM,2020,11,18,01,120.9,185,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 02:00 AM,2020,11,18,02,112.0,180,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 03:00 AM,2020,11,18,03,104.0,176,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 04:00 AM,2020,11,18,04,102.9,175,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 05:00 AM,2020,11,18,05,99.1,174,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 06:00 AM,2020,11,18,06,83.7,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 07:00 AM,2020,11,18,07,76.7,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 08:00 AM,2020,11,18,08,73.1,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 09:00 AM,2020,11,18,09,69.3,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 10:00 AM,2020,11,18,10,72.9,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 11:00 AM,2020,11,18,11,63.8,155,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 12:00 PM,2020,11,18,12,48.9,134,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 01:00 PM,2020,11,18,13,34.4,98,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 02:00 PM,2020,11,18,14,26.7,82,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 03:00 PM,2020,11,18,15,18.3,64,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 04:00 PM,2020,11,18,16,14.1,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 05:00 PM,2020,11,18,17,11.5,48,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 06:00 PM,2020,11,18,18,8.7,36,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 07:00 PM,2020,11,18,19,7.8,33,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 08:00 PM,2020,11,18,20,8.4,35,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 09:00 PM,2020,11,18,21,7.7,32,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 10:00 PM,2020,11,18,22,8.3,35,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-18 11:00 PM,2020,11,18,23,10.1,42,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 12:00 AM,2020,11,19,00,9.5,40,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 01:00 AM,2020,11,19,01,7.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 02:00 AM,2020,11,19,02,5.8,24,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 03:00 AM,2020,11,19,03,5.4,23,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 04:00 AM,2020,11,19,04,7.2,30,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 05:00 AM,2020,11,19,05,8.1,34,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 06:00 AM,2020,11,19,06,7.0,29,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 07:00 AM,2020,11,19,07,6.0,25,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 08:00 AM,2020,11,19,08,6.0,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 09:00 AM,2020,11,19,09,8.0,33,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 10:00 AM,2020,11,19,10,8.5,35,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 11:00 AM,2020,11,19,11,7.2,30,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 12:00 PM,2020,11,19,12,7.1,30,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 01:00 PM,2020,11,19,13,11.0,46,Good,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 02:00 PM,2020,11,19,14,10.5,44,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 03:00 PM,2020,11,19,15,12.2,51,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 04:00 PM,2020,11,19,16,12.6,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 05:00 PM,2020,11,19,17,11.8,49,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 06:00 PM,2020,11,19,18,9.9,41,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 07:00 PM,2020,11,19,19,10.9,45,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 08:00 PM,2020,11,19,20,10.4,43,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 09:00 PM,2020,11,19,21,10.7,45,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 10:00 PM,2020,11,19,22,11.8,49,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-19 11:00 PM,2020,11,19,23,11.4,48,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 12:00 AM,2020,11,20,00,11.6,48,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 01:00 AM,2020,11,20,01,12.2,51,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 02:00 AM,2020,11,20,02,11.2,47,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 03:00 AM,2020,11,20,03,10.4,43,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 04:00 AM,2020,11,20,04,8.0,33,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 05:00 AM,2020,11,20,05,7.0,29,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 06:00 AM,2020,11,20,06,7.5,31,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 07:00 AM,2020,11,20,07,6.7,28,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 08:00 AM,2020,11,20,08,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 09:00 AM,2020,11,20,09,6.9,29,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 10:00 AM,2020,11,20,10,6.4,27,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 11:00 AM,2020,11,20,11,6.2,26,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 12:00 PM,2020,11,20,12,6.1,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 01:00 PM,2020,11,20,13,6.1,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 02:00 PM,2020,11,20,14,6.7,28,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 03:00 PM,2020,11,20,15,8.1,34,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 04:00 PM,2020,11,20,16,9.5,40,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 05:00 PM,2020,11,20,17,8.8,37,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 06:00 PM,2020,11,20,18,11.4,48,Good,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 07:00 PM,2020,11,20,19,12.7,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 08:00 PM,2020,11,20,20,15.8,59,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 09:00 PM,2020,11,20,21,17.4,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 10:00 PM,2020,11,20,22,18.2,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-20 11:00 PM,2020,11,20,23,20.6,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 12:00 AM,2020,11,21,00,22.3,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 01:00 AM,2020,11,21,01,25.1,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 02:00 AM,2020,11,21,02,26.0,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 03:00 AM,2020,11,21,03,30.0,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 04:00 AM,2020,11,21,04,34.0,97,Moderate,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 05:00 AM,2020,11,21,05,35.0,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 06:00 AM,2020,11,21,06,35.0,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 07:00 AM,2020,11,21,07,33.0,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 08:00 AM,2020,11,21,08,32.0,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 09:00 AM,2020,11,21,09,34.5,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 10:00 AM,2020,11,21,10,35.6,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 11:00 AM,2020,11,21,11,35.7,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 12:00 PM,2020,11,21,12,35.0,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 01:00 PM,2020,11,21,13,37.5,106,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 02:00 PM,2020,11,21,14,36.1,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 03:00 PM,2020,11,21,15,31.0,91,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 04:00 PM,2020,11,21,16,27.2,83,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 05:00 PM,2020,11,21,17,23.7,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 06:00 PM,2020,11,21,18,21.3,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 07:00 PM,2020,11,21,19,19.6,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 08:00 PM,2020,11,21,20,18.8,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 09:00 PM,2020,11,21,21,20.9,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 10:00 PM,2020,11,21,22,20.4,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-21 11:00 PM,2020,11,21,23,16.7,61,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 12:00 AM,2020,11,22,00,14.8,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 01:00 AM,2020,11,22,01,14.9,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 02:00 AM,2020,11,22,02,12.4,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 03:00 AM,2020,11,22,03,11.2,47,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 04:00 AM,2020,11,22,04,10.1,42,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 05:00 AM,2020,11,22,05,9.5,40,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 06:00 AM,2020,11,22,06,9.2,38,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 07:00 AM,2020,11,22,07,8.6,36,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 08:00 AM,2020,11,22,08,9.3,39,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 09:00 AM,2020,11,22,09,8.1,34,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 10:00 AM,2020,11,22,10,9.0,38,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 11:00 AM,2020,11,22,11,9.5,40,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 12:00 PM,2020,11,22,12,7.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 01:00 PM,2020,11,22,13,7.6,32,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 02:00 PM,2020,11,22,14,8.5,35,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 03:00 PM,2020,11,22,15,8.3,35,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 04:00 PM,2020,11,22,16,9.5,40,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 05:00 PM,2020,11,22,17,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 06:00 PM,2020,11,22,18,9.6,40,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 07:00 PM,2020,11,22,19,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 08:00 PM,2020,11,22,20,8.7,36,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 09:00 PM,2020,11,22,21,9.3,39,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 10:00 PM,2020,11,22,22,9.6,40,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-22 11:00 PM,2020,11,22,23,9.7,40,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 12:00 AM,2020,11,23,00,9.4,39,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 01:00 AM,2020,11,23,01,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 02:00 AM,2020,11,23,02,8.9,37,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 03:00 AM,2020,11,23,03,8.6,36,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 04:00 AM,2020,11,23,04,7.4,31,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 05:00 AM,2020,11,23,05,5.0,21,Good,3.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 06:00 AM,2020,11,23,06,6.5,27,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 07:00 AM,2020,11,23,07,8.2,34,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 08:00 AM,2020,11,23,08,8.6,36,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 09:00 AM,2020,11,23,09,10.8,45,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 10:00 AM,2020,11,23,10,13.4,54,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 11:00 AM,2020,11,23,11,13.2,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 12:00 PM,2020,11,23,12,12.6,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 01:00 PM,2020,11,23,13,12.3,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 02:00 PM,2020,11,23,14,13.1,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 03:00 PM,2020,11,23,15,16.5,60,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 04:00 PM,2020,11,23,16,16.5,60,Moderate,-999.0,UG/M3,1 Hr,Missing
+Beijing,PM2.5 - Principal,2020-11-23 05:00 PM,2020,11,23,17,16.1,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 06:00 PM,2020,11,23,18,16.0,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 07:00 PM,2020,11,23,19,19.2,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 08:00 PM,2020,11,23,20,26.3,81,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 09:00 PM,2020,11,23,21,31.7,92,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 10:00 PM,2020,11,23,22,31.8,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-23 11:00 PM,2020,11,23,23,34.4,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 12:00 AM,2020,11,24,00,32.7,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 01:00 AM,2020,11,24,01,31.8,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 02:00 AM,2020,11,24,02,31.4,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 03:00 AM,2020,11,24,03,31.7,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 04:00 AM,2020,11,24,04,26.8,82,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 05:00 AM,2020,11,24,05,20.4,68,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 06:00 AM,2020,11,24,06,15.7,59,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 07:00 AM,2020,11,24,07,12.8,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 08:00 AM,2020,11,24,08,11.9,50,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 09:00 AM,2020,11,24,09,14.4,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 10:00 AM,2020,11,24,10,15.2,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 11:00 AM,2020,11,24,11,20.1,68,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 12:00 PM,2020,11,24,12,23.0,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 01:00 PM,2020,11,24,13,26.0,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 02:00 PM,2020,11,24,14,31.0,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 03:00 PM,2020,11,24,15,29.0,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 04:00 PM,2020,11,24,16,29.0,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 05:00 PM,2020,11,24,17,29.5,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 06:00 PM,2020,11,24,18,35.7,101,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 07:00 PM,2020,11,24,19,44.3,123,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 08:00 PM,2020,11,24,20,51.6,141,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 09:00 PM,2020,11,24,21,54.3,147,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 10:00 PM,2020,11,24,22,54.6,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-24 11:00 PM,2020,11,24,23,54.8,149,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 12:00 AM,2020,11,25,00,56.9,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 01:00 AM,2020,11,25,01,53.9,146,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 02:00 AM,2020,11,25,02,48.9,134,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 03:00 AM,2020,11,25,03,37.4,106,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 04:00 AM,2020,11,25,04,28.7,86,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 05:00 AM,2020,11,25,05,22.8,74,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 06:00 AM,2020,11,25,06,21.4,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 07:00 AM,2020,11,25,07,21.7,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 08:00 AM,2020,11,25,08,22.3,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 09:00 AM,2020,11,25,09,20.6,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 10:00 AM,2020,11,25,10,22.3,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 11:00 AM,2020,11,25,11,22.6,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 12:00 PM,2020,11,25,12,22.3,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 01:00 PM,2020,11,25,13,20.6,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 02:00 PM,2020,11,25,14,19.9,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 03:00 PM,2020,11,25,15,20.7,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 04:00 PM,2020,11,25,16,19.9,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 05:00 PM,2020,11,25,17,18.5,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 06:00 PM,2020,11,25,18,18.0,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 07:00 PM,2020,11,25,19,17.9,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 08:00 PM,2020,11,25,20,16.1,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 09:00 PM,2020,11,25,21,15.6,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 10:00 PM,2020,11,25,22,13.8,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-25 11:00 PM,2020,11,25,23,13.9,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 12:00 AM,2020,11,26,00,13.5,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 01:00 AM,2020,11,26,01,15.1,57,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 02:00 AM,2020,11,26,02,16.4,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 03:00 AM,2020,11,26,03,15.2,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 04:00 AM,2020,11,26,04,15.5,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 05:00 AM,2020,11,26,05,14.6,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 06:00 AM,2020,11,26,06,16.2,60,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 07:00 AM,2020,11,26,07,17.8,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 08:00 AM,2020,11,26,08,18.6,65,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 09:00 AM,2020,11,26,09,18.8,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 10:00 AM,2020,11,26,10,18.4,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 11:00 AM,2020,11,26,11,17.9,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 12:00 PM,2020,11,26,12,19.0,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 01:00 PM,2020,11,26,13,18.6,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 02:00 PM,2020,11,26,14,17.6,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 03:00 PM,2020,11,26,15,17.7,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 04:00 PM,2020,11,26,16,16.3,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 05:00 PM,2020,11,26,17,17.3,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 06:00 PM,2020,11,26,18,19.5,67,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 07:00 PM,2020,11,26,19,20.1,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 08:00 PM,2020,11,26,20,22.4,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 09:00 PM,2020,11,26,21,24.1,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 10:00 PM,2020,11,26,22,27.2,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-26 11:00 PM,2020,11,26,23,29.1,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 12:00 AM,2020,11,27,00,31.5,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 01:00 AM,2020,11,27,01,31.2,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 02:00 AM,2020,11,27,02,25.1,78,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 03:00 AM,2020,11,27,03,20.0,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 04:00 AM,2020,11,27,04,18.5,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 05:00 AM,2020,11,27,05,19.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 06:00 AM,2020,11,27,06,18.6,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 07:00 AM,2020,11,27,07,18.6,65,Moderate,17.0,UG/M3,1 Hr,Invalid
+Beijing,PM2.5 - Principal,2020-11-27 08:00 AM,2020,11,27,08,-999.0,-999,N/A,17.0,UG/M3,1 Hr,Invalid
+Beijing,PM2.5 - Principal,2020-11-27 09:00 AM,2020,11,27,09,-999.0,-999,N/A,17.0,UG/M3,1 Hr,Invalid
+Beijing,PM2.5 - Principal,2020-11-27 10:00 AM,2020,11,27,10,-999.0,-999,N/A,17.0,UG/M3,1 Hr,Invalid
+Beijing,PM2.5 - Principal,2020-11-27 11:00 AM,2020,11,27,11,-999.0,-999,N/A,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 12:00 PM,2020,11,27,12,18.3,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 01:00 PM,2020,11,27,13,15.9,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 02:00 PM,2020,11,27,14,12.4,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 03:00 PM,2020,11,27,15,12.2,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 04:00 PM,2020,11,27,16,13.6,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 05:00 PM,2020,11,27,17,14.2,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 06:00 PM,2020,11,27,18,13.1,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 07:00 PM,2020,11,27,19,13.1,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 08:00 PM,2020,11,27,20,13.5,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 09:00 PM,2020,11,27,21,12.8,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 10:00 PM,2020,11,27,22,12.8,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-27 11:00 PM,2020,11,27,23,14.7,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 12:00 AM,2020,11,28,00,14.3,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 01:00 AM,2020,11,28,01,14.2,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 02:00 AM,2020,11,28,02,13.7,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 03:00 AM,2020,11,28,03,13.8,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 04:00 AM,2020,11,28,04,12.2,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 05:00 AM,2020,11,28,05,9.9,41,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 06:00 AM,2020,11,28,06,11.4,48,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 07:00 AM,2020,11,28,07,10.7,45,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 08:00 AM,2020,11,28,08,9.3,39,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 09:00 AM,2020,11,28,09,8.6,36,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 10:00 AM,2020,11,28,10,9.3,39,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 11:00 AM,2020,11,28,11,9.2,38,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 12:00 PM,2020,11,28,12,8.0,33,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 01:00 PM,2020,11,28,13,9.5,40,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 02:00 PM,2020,11,28,14,8.7,36,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 03:00 PM,2020,11,28,15,9.3,39,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 04:00 PM,2020,11,28,16,9.6,40,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 05:00 PM,2020,11,28,17,8.4,35,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 06:00 PM,2020,11,28,18,8.7,36,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 07:00 PM,2020,11,28,19,10.0,42,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 08:00 PM,2020,11,28,20,13.1,53,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 09:00 PM,2020,11,28,21,21.0,70,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 10:00 PM,2020,11,28,22,25.0,78,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-28 11:00 PM,2020,11,28,23,24.0,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 12:00 AM,2020,11,29,00,24.5,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 01:00 AM,2020,11,29,01,26.2,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 02:00 AM,2020,11,29,02,28.6,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 03:00 AM,2020,11,29,03,29.3,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 04:00 AM,2020,11,29,04,22.6,73,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 05:00 AM,2020,11,29,05,18.8,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 06:00 AM,2020,11,29,06,14.4,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 07:00 AM,2020,11,29,07,14.2,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 08:00 AM,2020,11,29,08,13.6,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 09:00 AM,2020,11,29,09,11.2,47,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 10:00 AM,2020,11,29,10,13.1,53,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 11:00 AM,2020,11,29,11,20.0,68,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 12:00 PM,2020,11,29,12,24.5,77,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 01:00 PM,2020,11,29,13,24.7,77,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 02:00 PM,2020,11,29,14,21.8,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 03:00 PM,2020,11,29,15,16.4,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 04:00 PM,2020,11,29,16,16.2,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 05:00 PM,2020,11,29,17,13.6,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 06:00 PM,2020,11,29,18,13.8,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 07:00 PM,2020,11,29,19,13.9,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 08:00 PM,2020,11,29,20,12.9,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 09:00 PM,2020,11,29,21,13.4,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 10:00 PM,2020,11,29,22,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-29 11:00 PM,2020,11,29,23,13.3,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 12:00 AM,2020,11,30,00,12.6,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 01:00 AM,2020,11,30,01,12.0,50,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 02:00 AM,2020,11,30,02,11.8,49,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 03:00 AM,2020,11,30,03,10.4,43,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 04:00 AM,2020,11,30,04,10.1,42,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 05:00 AM,2020,11,30,05,10.4,43,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 06:00 AM,2020,11,30,06,10.6,44,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 07:00 AM,2020,11,30,07,11.4,48,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 08:00 AM,2020,11,30,08,10.9,45,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 09:00 AM,2020,11,30,09,10.6,44,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 10:00 AM,2020,11,30,10,9.5,40,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 11:00 AM,2020,11,30,11,10.5,44,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 12:00 PM,2020,11,30,12,10.6,44,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 01:00 PM,2020,11,30,13,12.1,51,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 02:00 PM,2020,11,30,14,11.2,47,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 03:00 PM,2020,11,30,15,10.2,43,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 04:00 PM,2020,11,30,16,10.1,42,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 05:00 PM,2020,11,30,17,12.3,51,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 06:00 PM,2020,11,30,18,13.6,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 07:00 PM,2020,11,30,19,23.3,75,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 08:00 PM,2020,11,30,20,30.1,89,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 09:00 PM,2020,11,30,21,35.1,99,Moderate,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 10:00 PM,2020,11,30,22,34.5,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-11-30 11:00 PM,2020,11,30,23,31.2,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2020-12-01 12:00 AM,2020,12,01,00,32.6,94,Moderate,34.0,UG/M3,1 Hr,Valid

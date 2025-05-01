@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Guangzhou,PM2.5 - Principal,2017-12-01 01:00 AM,2017,12,01,01,13.3,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 02:00 AM,2017,12,01,02,12.6,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 03:00 AM,2017,12,01,03,10.8,45,Good,9.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 04:00 AM,2017,12,01,04,10.4,43,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 05:00 AM,2017,12,01,05,10.2,43,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 06:00 AM,2017,12,01,06,12.6,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 07:00 AM,2017,12,01,07,13.3,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 08:00 AM,2017,12,01,08,11.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 09:00 AM,2017,12,01,09,13.3,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 10:00 AM,2017,12,01,10,13.4,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 11:00 AM,2017,12,01,11,14.0,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 12:00 PM,2017,12,01,12,15.5,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 01:00 PM,2017,12,01,13,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 02:00 PM,2017,12,01,14,16.3,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 03:00 PM,2017,12,01,15,15.6,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 04:00 PM,2017,12,01,16,15.8,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 05:00 PM,2017,12,01,17,14.2,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 06:00 PM,2017,12,01,18,15.3,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 07:00 PM,2017,12,01,19,15.2,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 08:00 PM,2017,12,01,20,15.4,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 09:00 PM,2017,12,01,21,15.9,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 10:00 PM,2017,12,01,22,14.7,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-01 11:00 PM,2017,12,01,23,13.3,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 12:00 AM,2017,12,02,00,13.2,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 01:00 AM,2017,12,02,01,11.7,49,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 02:00 AM,2017,12,02,02,11.4,48,Good,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 03:00 AM,2017,12,02,03,10.1,42,Good,9.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 04:00 AM,2017,12,02,04,9.0,38,Good,8.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 05:00 AM,2017,12,02,05,7.5,31,Good,6.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 06:00 AM,2017,12,02,06,6.2,26,Good,5.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 07:00 AM,2017,12,02,07,6.1,25,Good,6.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 08:00 AM,2017,12,02,08,8.5,35,Good,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 09:00 AM,2017,12,02,09,9.2,38,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 10:00 AM,2017,12,02,10,10.1,42,Good,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 11:00 AM,2017,12,02,11,10.0,42,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 12:00 PM,2017,12,02,12,13.5,54,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 01:00 PM,2017,12,02,13,16.7,61,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 02:00 PM,2017,12,02,14,16.8,61,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 03:00 PM,2017,12,02,15,16.4,60,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 04:00 PM,2017,12,02,16,18.2,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 05:00 PM,2017,12,02,17,18.1,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 06:00 PM,2017,12,02,18,18.5,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 07:00 PM,2017,12,02,19,20.2,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 08:00 PM,2017,12,02,20,22.6,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 09:00 PM,2017,12,02,21,22.3,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 10:00 PM,2017,12,02,22,23.1,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-02 11:00 PM,2017,12,02,23,21.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 12:00 AM,2017,12,03,00,20.4,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 01:00 AM,2017,12,03,01,16.0,59,Moderate,12.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 02:00 AM,2017,12,03,02,14.5,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 03:00 AM,2017,12,03,03,14.2,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 04:00 AM,2017,12,03,04,12.6,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 05:00 AM,2017,12,03,05,11.8,49,Good,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 06:00 AM,2017,12,03,06,12.9,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 07:00 AM,2017,12,03,07,13.4,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 08:00 AM,2017,12,03,08,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 09:00 AM,2017,12,03,09,15.3,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 10:00 AM,2017,12,03,10,15.0,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 11:00 AM,2017,12,03,11,14.5,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 12:00 PM,2017,12,03,12,16.4,60,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 01:00 PM,2017,12,03,13,18.7,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 02:00 PM,2017,12,03,14,25.4,79,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 03:00 PM,2017,12,03,15,33.7,96,Moderate,42.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 04:00 PM,2017,12,03,16,34.3,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 05:00 PM,2017,12,03,17,34.1,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 06:00 PM,2017,12,03,18,35.0,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 07:00 PM,2017,12,03,19,35.5,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 08:00 PM,2017,12,03,20,38.2,108,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 09:00 PM,2017,12,03,21,38.1,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 10:00 PM,2017,12,03,22,34.0,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-03 11:00 PM,2017,12,03,23,32.5,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 12:00 AM,2017,12,04,00,32.2,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 01:00 AM,2017,12,04,01,31.9,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 02:00 AM,2017,12,04,02,28.6,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 03:00 AM,2017,12,04,03,27.3,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 04:00 AM,2017,12,04,04,23.2,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 05:00 AM,2017,12,04,05,24.0,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 06:00 AM,2017,12,04,06,26.0,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 07:00 AM,2017,12,04,07,24.5,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 08:00 AM,2017,12,04,08,26.1,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 09:00 AM,2017,12,04,09,25.2,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 10:00 AM,2017,12,04,10,22.6,73,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 11:00 AM,2017,12,04,11,21.9,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 12:00 PM,2017,12,04,12,21.5,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 01:00 PM,2017,12,04,13,23.0,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 02:00 PM,2017,12,04,14,23.3,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 03:00 PM,2017,12,04,15,22.9,74,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 04:00 PM,2017,12,04,16,20.5,69,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 05:00 PM,2017,12,04,17,23.4,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 06:00 PM,2017,12,04,18,28.3,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 07:00 PM,2017,12,04,19,28.6,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 08:00 PM,2017,12,04,20,30.7,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 09:00 PM,2017,12,04,21,32.9,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 10:00 PM,2017,12,04,22,32.4,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-04 11:00 PM,2017,12,04,23,31.2,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 12:00 AM,2017,12,05,00,32.1,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 01:00 AM,2017,12,05,01,32.0,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 02:00 AM,2017,12,05,02,34.5,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 03:00 AM,2017,12,05,03,33.7,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 04:00 AM,2017,12,05,04,33.4,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 05:00 AM,2017,12,05,05,35.3,100,Moderate,40.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 06:00 AM,2017,12,05,06,35.8,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 07:00 AM,2017,12,05,07,36.3,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 08:00 AM,2017,12,05,08,36.7,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 09:00 AM,2017,12,05,09,36.3,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 10:00 AM,2017,12,05,10,36.2,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 11:00 AM,2017,12,05,11,35.8,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 12:00 PM,2017,12,05,12,35.4,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 01:00 PM,2017,12,05,13,35.6,101,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-05 02:00 PM,2017,12,05,14,33.6,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 03:00 PM,2017,12,05,15,33.1,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 04:00 PM,2017,12,05,16,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 05:00 PM,2017,12,05,17,32.9,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 06:00 PM,2017,12,05,18,31.3,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 07:00 PM,2017,12,05,19,31.2,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 08:00 PM,2017,12,05,20,31.7,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 09:00 PM,2017,12,05,21,30.7,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 10:00 PM,2017,12,05,22,29.9,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-05 11:00 PM,2017,12,05,23,29.1,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 12:00 AM,2017,12,06,00,28.9,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 01:00 AM,2017,12,06,01,29.7,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 02:00 AM,2017,12,06,02,31.0,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 03:00 AM,2017,12,06,03,31.2,91,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 04:00 AM,2017,12,06,04,30.2,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 05:00 AM,2017,12,06,05,30.8,90,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 06:00 AM,2017,12,06,06,33.0,95,Moderate,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 07:00 AM,2017,12,06,07,33.0,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 08:00 AM,2017,12,06,08,34.2,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 09:00 AM,2017,12,06,09,35.0,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 10:00 AM,2017,12,06,10,37.3,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 11:00 AM,2017,12,06,11,39.6,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 12:00 PM,2017,12,06,12,40.9,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 01:00 PM,2017,12,06,13,46.0,127,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 02:00 PM,2017,12,06,14,47.4,130,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 03:00 PM,2017,12,06,15,44.4,123,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 04:00 PM,2017,12,06,16,42.7,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 05:00 PM,2017,12,06,17,42.8,119,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 06:00 PM,2017,12,06,18,43.2,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 07:00 PM,2017,12,06,19,51.4,140,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 08:00 PM,2017,12,06,20,60.1,153,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 09:00 PM,2017,12,06,21,70.5,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 10:00 PM,2017,12,06,22,72.2,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-06 11:00 PM,2017,12,06,23,74.1,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 12:00 AM,2017,12,07,00,72.0,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 01:00 AM,2017,12,07,01,68.5,158,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 02:00 AM,2017,12,07,02,68.7,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 03:00 AM,2017,12,07,03,68.8,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 04:00 AM,2017,12,07,04,68.9,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 05:00 AM,2017,12,07,05,72.1,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 06:00 AM,2017,12,07,06,73.4,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 07:00 AM,2017,12,07,07,72.6,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 08:00 AM,2017,12,07,08,71.9,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 09:00 AM,2017,12,07,09,71.2,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 10:00 AM,2017,12,07,10,67.2,157,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 11:00 AM,2017,12,07,11,65.6,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 12:00 PM,2017,12,07,12,61.8,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 01:00 PM,2017,12,07,13,60.2,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 02:00 PM,2017,12,07,14,55.7,151,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 03:00 PM,2017,12,07,15,56.1,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 04:00 PM,2017,12,07,16,53.2,145,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 05:00 PM,2017,12,07,17,52.7,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 06:00 PM,2017,12,07,18,53.4,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 07:00 PM,2017,12,07,19,54.4,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 08:00 PM,2017,12,07,20,53.9,146,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 09:00 PM,2017,12,07,21,54.6,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 10:00 PM,2017,12,07,22,52.7,143,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-07 11:00 PM,2017,12,07,23,51.3,140,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 12:00 AM,2017,12,08,00,50.6,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 01:00 AM,2017,12,08,01,50.1,137,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 02:00 AM,2017,12,08,02,48.9,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 03:00 AM,2017,12,08,03,48.6,133,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 04:00 AM,2017,12,08,04,46.5,128,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 05:00 AM,2017,12,08,05,45.8,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 06:00 AM,2017,12,08,06,41.0,115,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 07:00 AM,2017,12,08,07,38.0,107,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 08:00 AM,2017,12,08,08,38.0,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 09:00 AM,2017,12,08,09,40.1,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 10:00 AM,2017,12,08,10,41.0,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 11:00 AM,2017,12,08,11,42.2,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 12:00 PM,2017,12,08,12,44.3,123,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 01:00 PM,2017,12,08,13,44.5,123,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 02:00 PM,2017,12,08,14,45.2,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 03:00 PM,2017,12,08,15,45.4,125,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 04:00 PM,2017,12,08,16,42.8,119,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 05:00 PM,2017,12,08,17,40.4,113,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 06:00 PM,2017,12,08,18,42.7,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 07:00 PM,2017,12,08,19,46.3,128,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 08:00 PM,2017,12,08,20,48.2,132,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 09:00 PM,2017,12,08,21,48.1,132,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 10:00 PM,2017,12,08,22,50.7,138,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-08 11:00 PM,2017,12,08,23,50.5,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 12:00 AM,2017,12,09,00,51.7,141,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 01:00 AM,2017,12,09,01,52.9,144,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 02:00 AM,2017,12,09,02,60.6,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 03:00 AM,2017,12,09,03,63.7,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 04:00 AM,2017,12,09,04,67.4,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 05:00 AM,2017,12,09,05,65.8,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 06:00 AM,2017,12,09,06,64.9,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 07:00 AM,2017,12,09,07,62.0,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 08:00 AM,2017,12,09,08,61.0,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 09:00 AM,2017,12,09,09,58.5,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 10:00 AM,2017,12,09,10,58.3,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 11:00 AM,2017,12,09,11,57.7,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 12:00 PM,2017,12,09,12,58.0,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 01:00 PM,2017,12,09,13,57.8,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 02:00 PM,2017,12,09,14,58.8,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 03:00 PM,2017,12,09,15,58.8,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 04:00 PM,2017,12,09,16,59.2,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 05:00 PM,2017,12,09,17,58.8,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 06:00 PM,2017,12,09,18,58.7,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 07:00 PM,2017,12,09,19,60.2,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 08:00 PM,2017,12,09,20,62.3,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 09:00 PM,2017,12,09,21,66.1,156,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 10:00 PM,2017,12,09,22,76.1,162,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-09 11:00 PM,2017,12,09,23,85.3,166,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 12:00 AM,2017,12,10,00,92.6,170,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 01:00 AM,2017,12,10,01,91.5,170,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 02:00 AM,2017,12,10,02,90.9,169,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 03:00 AM,2017,12,10,03,93.0,170,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 04:00 AM,2017,12,10,04,101.1,175,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 05:00 AM,2017,12,10,05,98.7,173,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 06:00 AM,2017,12,10,06,97.0,172,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 07:00 AM,2017,12,10,07,97.4,173,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 08:00 AM,2017,12,10,08,95.6,172,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 09:00 AM,2017,12,10,09,90.5,169,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 10:00 AM,2017,12,10,10,84.6,166,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 11:00 AM,2017,12,10,11,73.0,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 12:00 PM,2017,12,10,12,67.5,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 01:00 PM,2017,12,10,13,65.4,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 02:00 PM,2017,12,10,14,69.2,158,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 03:00 PM,2017,12,10,15,67.8,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 04:00 PM,2017,12,10,16,73.8,160,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 05:00 PM,2017,12,10,17,74.6,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 06:00 PM,2017,12,10,18,75.1,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 07:00 PM,2017,12,10,19,75.8,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 08:00 PM,2017,12,10,20,74.4,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 09:00 PM,2017,12,10,21,78.3,163,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 10:00 PM,2017,12,10,22,76.7,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-10 11:00 PM,2017,12,10,23,72.3,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 12:00 AM,2017,12,11,00,69.7,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 01:00 AM,2017,12,11,01,60.7,154,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 02:00 AM,2017,12,11,02,50.8,139,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 03:00 AM,2017,12,11,03,46.4,128,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 04:00 AM,2017,12,11,04,39.6,111,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 05:00 AM,2017,12,11,05,36.3,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 06:00 AM,2017,12,11,06,34.1,97,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 07:00 AM,2017,12,11,07,34.5,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 08:00 AM,2017,12,11,08,34.2,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 09:00 AM,2017,12,11,09,36.1,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 10:00 AM,2017,12,11,10,37.5,106,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 11:00 AM,2017,12,11,11,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 12:00 PM,2017,12,11,12,35.7,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 01:00 PM,2017,12,11,13,36.1,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 02:00 PM,2017,12,11,14,35.8,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 03:00 PM,2017,12,11,15,35.9,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 04:00 PM,2017,12,11,16,36.2,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 05:00 PM,2017,12,11,17,36.0,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 06:00 PM,2017,12,11,18,37.1,105,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 07:00 PM,2017,12,11,19,37.9,107,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 08:00 PM,2017,12,11,20,40.2,113,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 09:00 PM,2017,12,11,21,41.5,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 10:00 PM,2017,12,11,22,43.9,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-11 11:00 PM,2017,12,11,23,46.2,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 12:00 AM,2017,12,12,00,44.6,123,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 01:00 AM,2017,12,12,01,45.3,125,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 02:00 AM,2017,12,12,02,44.0,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 03:00 AM,2017,12,12,03,42.8,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 04:00 AM,2017,12,12,04,40.8,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 05:00 AM,2017,12,12,05,38.4,108,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 06:00 AM,2017,12,12,06,37.6,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 07:00 AM,2017,12,12,07,37.4,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 08:00 AM,2017,12,12,08,37.6,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 09:00 AM,2017,12,12,09,37.3,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 10:00 AM,2017,12,12,10,37.8,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 11:00 AM,2017,12,12,11,38.1,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 12:00 PM,2017,12,12,12,37.5,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 01:00 PM,2017,12,12,13,37.5,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 02:00 PM,2017,12,12,14,37.1,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 03:00 PM,2017,12,12,15,39.4,111,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 04:00 PM,2017,12,12,16,42.6,118,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 05:00 PM,2017,12,12,17,42.4,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 06:00 PM,2017,12,12,18,43.7,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 07:00 PM,2017,12,12,19,46.1,127,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 08:00 PM,2017,12,12,20,53.0,144,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 09:00 PM,2017,12,12,21,58.7,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 10:00 PM,2017,12,12,22,61.1,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-12 11:00 PM,2017,12,12,23,62.4,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 12:00 AM,2017,12,13,00,63.1,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 01:00 AM,2017,12,13,01,61.2,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 02:00 AM,2017,12,13,02,64.1,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 03:00 AM,2017,12,13,03,63.7,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 04:00 AM,2017,12,13,04,65.3,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 05:00 AM,2017,12,13,05,65.3,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 06:00 AM,2017,12,13,06,66.5,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 07:00 AM,2017,12,13,07,66.0,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 08:00 AM,2017,12,13,08,66.5,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 09:00 AM,2017,12,13,09,64.7,156,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 10:00 AM,2017,12,13,10,64.8,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 11:00 AM,2017,12,13,11,63.4,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 12:00 PM,2017,12,13,12,63.3,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 01:00 PM,2017,12,13,13,64.9,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 02:00 PM,2017,12,13,14,63.8,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 03:00 PM,2017,12,13,15,61.3,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 04:00 PM,2017,12,13,16,55.7,151,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 05:00 PM,2017,12,13,17,54.4,148,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 06:00 PM,2017,12,13,18,55.9,151,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 07:00 PM,2017,12,13,19,57.6,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 08:00 PM,2017,12,13,20,60.1,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 09:00 PM,2017,12,13,21,63.1,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 10:00 PM,2017,12,13,22,63.0,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-13 11:00 PM,2017,12,13,23,63.0,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 12:00 AM,2017,12,14,00,61.6,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 01:00 AM,2017,12,14,01,59.1,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 02:00 AM,2017,12,14,02,58.1,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 03:00 AM,2017,12,14,03,62.4,155,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 04:00 AM,2017,12,14,04,64.5,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 05:00 AM,2017,12,14,05,64.5,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 06:00 AM,2017,12,14,06,64.6,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 07:00 AM,2017,12,14,07,65.5,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 08:00 AM,2017,12,14,08,65.9,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 09:00 AM,2017,12,14,09,64.6,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 10:00 AM,2017,12,14,10,62.2,154,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 11:00 AM,2017,12,14,11,61.4,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 12:00 PM,2017,12,14,12,58.1,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 01:00 PM,2017,12,14,13,52.5,143,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 02:00 PM,2017,12,14,14,44.7,124,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 03:00 PM,2017,12,14,15,40.8,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 04:00 PM,2017,12,14,16,35.2,100,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 05:00 PM,2017,12,14,17,33.1,95,Moderate,31.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 06:00 PM,2017,12,14,18,32.0,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 07:00 PM,2017,12,14,19,28.0,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 08:00 PM,2017,12,14,20,28.0,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 09:00 PM,2017,12,14,21,27.9,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 10:00 PM,2017,12,14,22,26.9,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-14 11:00 PM,2017,12,14,23,23.9,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 12:00 AM,2017,12,15,00,23.9,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 01:00 AM,2017,12,15,01,21.4,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 02:00 AM,2017,12,15,02,21.2,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 03:00 AM,2017,12,15,03,19.4,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 04:00 AM,2017,12,15,04,18.3,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 05:00 AM,2017,12,15,05,17.7,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 06:00 AM,2017,12,15,06,15.7,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 07:00 AM,2017,12,15,07,15.3,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 08:00 AM,2017,12,15,08,18.1,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 09:00 AM,2017,12,15,09,18.4,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 10:00 AM,2017,12,15,10,19.4,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 11:00 AM,2017,12,15,11,18.8,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 12:00 PM,2017,12,15,12,22.1,72,Moderate,26.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 01:00 PM,2017,12,15,13,23.4,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 02:00 PM,2017,12,15,14,26.8,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 03:00 PM,2017,12,15,15,26.9,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 04:00 PM,2017,12,15,16,25.9,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 05:00 PM,2017,12,15,17,24.9,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 06:00 PM,2017,12,15,18,24.9,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 07:00 PM,2017,12,15,19,23.8,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 08:00 PM,2017,12,15,20,22.7,73,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 09:00 PM,2017,12,15,21,22.8,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 10:00 PM,2017,12,15,22,22.4,73,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-15 11:00 PM,2017,12,15,23,18.1,64,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 12:00 AM,2017,12,16,00,16.0,59,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 01:00 AM,2017,12,16,01,13.5,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 02:00 AM,2017,12,16,02,13.2,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 03:00 AM,2017,12,16,03,11.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 04:00 AM,2017,12,16,04,9.8,41,Good,8.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 05:00 AM,2017,12,16,05,8.9,37,Good,8.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 06:00 AM,2017,12,16,06,6.9,29,Good,5.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 07:00 AM,2017,12,16,07,5.4,23,Good,4.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 08:00 AM,2017,12,16,08,4.7,20,Good,4.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 09:00 AM,2017,12,16,09,4.8,20,Good,5.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 10:00 AM,2017,12,16,10,5.4,23,Good,6.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 11:00 AM,2017,12,16,11,6.2,26,Good,7.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 12:00 PM,2017,12,16,12,7.6,32,Good,9.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 01:00 PM,2017,12,16,13,8.8,37,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 02:00 PM,2017,12,16,14,10.9,45,Good,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 03:00 PM,2017,12,16,15,11.9,50,Good,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 04:00 PM,2017,12,16,16,10.9,45,Good,10.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 05:00 PM,2017,12,16,17,9.9,41,Good,9.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 06:00 PM,2017,12,16,18,11.4,48,Good,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 07:00 PM,2017,12,16,19,14.7,56,Moderate,18.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 08:00 PM,2017,12,16,20,15.8,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 09:00 PM,2017,12,16,21,14.4,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 10:00 PM,2017,12,16,22,18.2,64,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-16 11:00 PM,2017,12,16,23,17.6,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 12:00 AM,2017,12,17,00,18.3,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 01:00 AM,2017,12,17,01,16.6,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 02:00 AM,2017,12,17,02,17.8,63,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 03:00 AM,2017,12,17,03,17.4,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 04:00 AM,2017,12,17,04,18.2,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 05:00 AM,2017,12,17,05,19.6,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 06:00 AM,2017,12,17,06,23.5,75,Moderate,27.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 07:00 AM,2017,12,17,07,28.2,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 08:00 AM,2017,12,17,08,31.6,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 09:00 AM,2017,12,17,09,35.8,102,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 10:00 AM,2017,12,17,10,35.8,102,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-17 11:00 AM,2017,12,17,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-17 12:00 PM,2017,12,17,12,-999.0,-999,N/A,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 01:00 PM,2017,12,17,13,50.1,137,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 02:00 PM,2017,12,17,14,50.0,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 03:00 PM,2017,12,17,15,52.1,142,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 04:00 PM,2017,12,17,16,52.0,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 05:00 PM,2017,12,17,17,53.0,144,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 06:00 PM,2017,12,17,18,52.7,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 07:00 PM,2017,12,17,19,54.4,148,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 08:00 PM,2017,12,17,20,57.5,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 09:00 PM,2017,12,17,21,57.5,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 10:00 PM,2017,12,17,22,56.7,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-17 11:00 PM,2017,12,17,23,55.0,149,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 12:00 AM,2017,12,18,00,51.5,140,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 01:00 AM,2017,12,18,01,50.1,137,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 02:00 AM,2017,12,18,02,51.3,140,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 03:00 AM,2017,12,18,03,53.3,145,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 04:00 AM,2017,12,18,04,52.9,144,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 05:00 AM,2017,12,18,05,53.8,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 06:00 AM,2017,12,18,06,52.3,142,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 07:00 AM,2017,12,18,07,52.2,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 08:00 AM,2017,12,18,08,51.5,140,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 09:00 AM,2017,12,18,09,51.5,140,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Invalid
+Guangzhou,PM2.5 - Principal,2017-12-18 10:00 AM,2017,12,18,10,-999.0,-999,N/A,49.0,UG/M3,1 Hr,Invalid
+Guangzhou,PM2.5 - Principal,2017-12-18 11:00 AM,2017,12,18,11,-999.0,-999,N/A,49.0,UG/M3,1 Hr,Invalid
+Guangzhou,PM2.5 - Principal,2017-12-18 12:00 PM,2017,12,18,12,-999.0,-999,N/A,49.0,UG/M3,1 Hr,Invalid
+Guangzhou,PM2.5 - Principal,2017-12-18 01:00 PM,2017,12,18,13,-999.0,-999,N/A,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 02:00 PM,2017,12,18,14,40.7,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 03:00 PM,2017,12,18,15,39.6,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 04:00 PM,2017,12,18,16,38.9,109,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 05:00 PM,2017,12,18,17,39.1,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 06:00 PM,2017,12,18,18,37.5,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 07:00 PM,2017,12,18,19,35.8,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 08:00 PM,2017,12,18,20,36.4,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 09:00 PM,2017,12,18,21,37.7,106,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 10:00 PM,2017,12,18,22,39.8,112,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-18 11:00 PM,2017,12,18,23,40.7,114,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 12:00 AM,2017,12,19,00,40.8,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 01:00 AM,2017,12,19,01,39.6,111,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 02:00 AM,2017,12,19,02,39.2,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 03:00 AM,2017,12,19,03,39.1,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 04:00 AM,2017,12,19,04,38.3,108,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 05:00 AM,2017,12,19,05,38.5,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 06:00 AM,2017,12,19,06,37.5,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 07:00 AM,2017,12,19,07,37.4,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 08:00 AM,2017,12,19,08,37.5,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 09:00 AM,2017,12,19,09,37.6,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 10:00 AM,2017,12,19,10,36.4,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 11:00 AM,2017,12,19,11,36.3,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 12:00 PM,2017,12,19,12,35.7,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 01:00 PM,2017,12,19,13,34.0,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 02:00 PM,2017,12,19,14,34.0,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 03:00 PM,2017,12,19,15,32.0,93,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 04:00 PM,2017,12,19,16,30.3,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 05:00 PM,2017,12,19,17,30.3,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 06:00 PM,2017,12,19,18,30.2,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 07:00 PM,2017,12,19,19,29.5,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 08:00 PM,2017,12,19,20,31.0,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 09:00 PM,2017,12,19,21,30.4,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 10:00 PM,2017,12,19,22,26.5,81,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-19 11:00 PM,2017,12,19,23,25.5,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 12:00 AM,2017,12,20,00,25.7,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 01:00 AM,2017,12,20,01,26.2,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 02:00 AM,2017,12,20,02,28.1,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 03:00 AM,2017,12,20,03,30.0,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 04:00 AM,2017,12,20,04,32.0,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 05:00 AM,2017,12,20,05,32.4,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 06:00 AM,2017,12,20,06,33.4,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 07:00 AM,2017,12,20,07,31.2,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 08:00 AM,2017,12,20,08,28.3,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 09:00 AM,2017,12,20,09,28.2,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 10:00 AM,2017,12,20,10,30.0,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 11:00 AM,2017,12,20,11,25.8,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 12:00 PM,2017,12,20,12,24.1,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 01:00 PM,2017,12,20,13,21.6,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 02:00 PM,2017,12,20,14,21.3,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 03:00 PM,2017,12,20,15,18.5,64,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 04:00 PM,2017,12,20,16,20.2,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 05:00 PM,2017,12,20,17,21.6,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 06:00 PM,2017,12,20,18,22.8,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 07:00 PM,2017,12,20,19,26.4,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 08:00 PM,2017,12,20,20,30.7,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 09:00 PM,2017,12,20,21,33.3,96,Moderate,36.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 10:00 PM,2017,12,20,22,32.1,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-20 11:00 PM,2017,12,20,23,28.5,85,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 12:00 AM,2017,12,21,00,25.7,80,Moderate,23.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 01:00 AM,2017,12,21,01,23.8,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 02:00 AM,2017,12,21,02,21.9,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 03:00 AM,2017,12,21,03,21.3,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 04:00 AM,2017,12,21,04,20.1,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 05:00 AM,2017,12,21,05,22.4,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 06:00 AM,2017,12,21,06,22.2,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 07:00 AM,2017,12,21,07,20.7,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 08:00 AM,2017,12,21,08,21.3,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 09:00 AM,2017,12,21,09,19.3,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 10:00 AM,2017,12,21,10,21.2,70,Moderate,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 11:00 AM,2017,12,21,11,21.7,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 12:00 PM,2017,12,21,12,19.7,67,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 01:00 PM,2017,12,21,13,19.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 02:00 PM,2017,12,21,14,20.2,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 03:00 PM,2017,12,21,15,21.2,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 04:00 PM,2017,12,21,16,24.8,78,Moderate,29.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 05:00 PM,2017,12,21,17,26.2,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 06:00 PM,2017,12,21,18,26.1,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 07:00 PM,2017,12,21,19,26.9,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 08:00 PM,2017,12,21,20,36.5,103,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 09:00 PM,2017,12,21,21,47.7,131,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 10:00 PM,2017,12,21,22,53.4,145,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-21 11:00 PM,2017,12,21,23,59.2,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 12:00 AM,2017,12,22,00,70.1,159,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 01:00 AM,2017,12,22,01,72.5,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 02:00 AM,2017,12,22,02,68.2,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 03:00 AM,2017,12,22,03,63.6,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 04:00 AM,2017,12,22,04,61.3,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 05:00 AM,2017,12,22,05,63.1,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 06:00 AM,2017,12,22,06,64.0,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 07:00 AM,2017,12,22,07,64.8,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 08:00 AM,2017,12,22,08,63.7,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 09:00 AM,2017,12,22,09,60.3,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 10:00 AM,2017,12,22,10,56.6,152,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 11:00 AM,2017,12,22,11,44.8,124,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 12:00 PM,2017,12,22,12,36.9,104,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 01:00 PM,2017,12,22,13,33.9,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 02:00 PM,2017,12,22,14,30.9,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 03:00 PM,2017,12,22,15,29.9,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 04:00 PM,2017,12,22,16,28.9,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 05:00 PM,2017,12,22,17,30.4,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 06:00 PM,2017,12,22,18,38.2,108,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 07:00 PM,2017,12,22,19,45.6,126,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 08:00 PM,2017,12,22,20,54.3,147,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 09:00 PM,2017,12,22,21,60.1,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 10:00 PM,2017,12,22,22,66.5,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-22 11:00 PM,2017,12,22,23,74.2,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 12:00 AM,2017,12,23,00,80.1,164,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 01:00 AM,2017,12,23,01,87.5,168,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 02:00 AM,2017,12,23,02,90.8,169,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 03:00 AM,2017,12,23,03,89.9,169,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 04:00 AM,2017,12,23,04,90.4,169,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 05:00 AM,2017,12,23,05,88.7,168,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 06:00 AM,2017,12,23,06,85.3,166,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 07:00 AM,2017,12,23,07,81.8,165,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 08:00 AM,2017,12,23,08,78.8,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 09:00 AM,2017,12,23,09,77.7,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 10:00 AM,2017,12,23,10,69.5,158,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 11:00 AM,2017,12,23,11,66.0,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 12:00 PM,2017,12,23,12,64.8,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 01:00 PM,2017,12,23,13,60.2,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 02:00 PM,2017,12,23,14,60.3,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 03:00 PM,2017,12,23,15,66.1,156,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 04:00 PM,2017,12,23,16,68.1,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 05:00 PM,2017,12,23,17,66.7,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 06:00 PM,2017,12,23,18,67.6,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 07:00 PM,2017,12,23,19,66.8,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 08:00 PM,2017,12,23,20,67.4,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 09:00 PM,2017,12,23,21,66.2,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 10:00 PM,2017,12,23,22,67.5,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-23 11:00 PM,2017,12,23,23,70.3,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 12:00 AM,2017,12,24,00,79.8,164,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 01:00 AM,2017,12,24,01,80.4,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 02:00 AM,2017,12,24,02,81.4,164,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 03:00 AM,2017,12,24,03,76.2,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 04:00 AM,2017,12,24,04,69.9,158,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 05:00 AM,2017,12,24,05,55.3,150,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 06:00 AM,2017,12,24,06,54.6,148,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 07:00 AM,2017,12,24,07,53.8,146,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 08:00 AM,2017,12,24,08,53.4,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 09:00 AM,2017,12,24,09,54.2,147,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 10:00 AM,2017,12,24,10,57.1,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 11:00 AM,2017,12,24,11,55.5,151,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 12:00 PM,2017,12,24,12,51.9,141,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 01:00 PM,2017,12,24,13,50.9,139,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 02:00 PM,2017,12,24,14,49.6,136,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 03:00 PM,2017,12,24,15,46.8,129,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 04:00 PM,2017,12,24,16,43.1,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 05:00 PM,2017,12,24,17,39.2,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 06:00 PM,2017,12,24,18,39.9,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 07:00 PM,2017,12,24,19,41.2,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 08:00 PM,2017,12,24,20,46.9,129,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 09:00 PM,2017,12,24,21,50.3,137,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 10:00 PM,2017,12,24,22,51.1,139,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-24 11:00 PM,2017,12,24,23,45.2,125,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 12:00 AM,2017,12,25,00,37.8,107,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 01:00 AM,2017,12,25,01,37.4,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 02:00 AM,2017,12,25,02,38.6,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 03:00 AM,2017,12,25,03,39.2,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 04:00 AM,2017,12,25,04,41.8,117,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 05:00 AM,2017,12,25,05,43.7,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 06:00 AM,2017,12,25,06,46.1,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 07:00 AM,2017,12,25,07,48.3,133,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 08:00 AM,2017,12,25,08,54.3,147,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 09:00 AM,2017,12,25,09,56.6,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 10:00 AM,2017,12,25,10,57.3,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 11:00 AM,2017,12,25,11,57.1,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 12:00 PM,2017,12,25,12,51.3,140,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 01:00 PM,2017,12,25,13,50.4,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 02:00 PM,2017,12,25,14,47.6,131,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 03:00 PM,2017,12,25,15,47.7,131,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 04:00 PM,2017,12,25,16,47.2,130,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 05:00 PM,2017,12,25,17,48.4,133,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 06:00 PM,2017,12,25,18,49.1,134,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 07:00 PM,2017,12,25,19,50.0,137,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 08:00 PM,2017,12,25,20,51.4,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 09:00 PM,2017,12,25,21,59.3,153,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 10:00 PM,2017,12,25,22,66.7,157,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-25 11:00 PM,2017,12,25,23,70.9,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 12:00 AM,2017,12,26,00,70.5,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 01:00 AM,2017,12,26,01,73.0,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 02:00 AM,2017,12,26,02,77.4,162,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 03:00 AM,2017,12,26,03,76.8,162,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 04:00 AM,2017,12,26,04,73.0,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 05:00 AM,2017,12,26,05,64.5,156,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 06:00 AM,2017,12,26,06,60.1,153,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 07:00 AM,2017,12,26,07,58.1,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 08:00 AM,2017,12,26,08,53.4,145,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 09:00 AM,2017,12,26,09,50.5,138,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 10:00 AM,2017,12,26,10,49.4,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 11:00 AM,2017,12,26,11,50.9,139,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 12:00 PM,2017,12,26,12,50.5,138,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 01:00 PM,2017,12,26,13,50.7,138,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 02:00 PM,2017,12,26,14,51.6,141,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 03:00 PM,2017,12,26,15,53.7,146,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 04:00 PM,2017,12,26,16,52.6,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 05:00 PM,2017,12,26,17,57.3,152,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 06:00 PM,2017,12,26,18,60.2,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 07:00 PM,2017,12,26,19,62.8,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 08:00 PM,2017,12,26,20,69.8,158,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 09:00 PM,2017,12,26,21,76.9,162,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 10:00 PM,2017,12,26,22,75.3,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-26 11:00 PM,2017,12,26,23,73.5,160,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 12:00 AM,2017,12,27,00,71.3,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 01:00 AM,2017,12,27,01,69.3,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 02:00 AM,2017,12,27,02,72.7,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 03:00 AM,2017,12,27,03,71.6,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 04:00 AM,2017,12,27,04,73.1,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 05:00 AM,2017,12,27,05,70.9,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 06:00 AM,2017,12,27,06,73.0,160,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 07:00 AM,2017,12,27,07,75.6,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 08:00 AM,2017,12,27,08,80.1,164,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 09:00 AM,2017,12,27,09,83.4,165,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 10:00 AM,2017,12,27,10,85.1,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 11:00 AM,2017,12,27,11,83.6,166,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 12:00 PM,2017,12,27,12,83.5,165,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-27 01:00 PM,2017,12,27,13,83.6,166,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 02:00 PM,2017,12,27,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 03:00 PM,2017,12,27,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 04:00 PM,2017,12,27,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 05:00 PM,2017,12,27,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 06:00 PM,2017,12,27,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 07:00 PM,2017,12,27,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 08:00 PM,2017,12,27,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 09:00 PM,2017,12,27,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 10:00 PM,2017,12,27,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-27 11:00 PM,2017,12,27,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 12:00 AM,2017,12,28,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 01:00 AM,2017,12,28,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 02:00 AM,2017,12,28,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 03:00 AM,2017,12,28,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 04:00 AM,2017,12,28,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 05:00 AM,2017,12,28,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 06:00 AM,2017,12,28,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 07:00 AM,2017,12,28,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 08:00 AM,2017,12,28,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 09:00 AM,2017,12,28,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 10:00 AM,2017,12,28,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-28 11:00 AM,2017,12,28,11,-999.0,-999,N/A,92.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 12:00 PM,2017,12,28,12,94.0,171,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 01:00 PM,2017,12,28,13,92.2,170,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 02:00 PM,2017,12,28,14,90.3,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 03:00 PM,2017,12,28,15,86.5,167,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 04:00 PM,2017,12,28,16,84.5,166,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 05:00 PM,2017,12,28,17,79.9,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 06:00 PM,2017,12,28,18,81.3,164,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 07:00 PM,2017,12,28,19,82.3,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 08:00 PM,2017,12,28,20,80.0,164,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 09:00 PM,2017,12,28,21,80.0,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 10:00 PM,2017,12,28,22,78.1,163,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-28 11:00 PM,2017,12,28,23,76.4,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 12:00 AM,2017,12,29,00,74.8,161,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 01:00 AM,2017,12,29,01,73.3,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 02:00 AM,2017,12,29,02,73.2,160,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 03:00 AM,2017,12,29,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 04:00 AM,2017,12,29,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 05:00 AM,2017,12,29,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 06:00 AM,2017,12,29,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 07:00 AM,2017,12,29,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 08:00 AM,2017,12,29,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 09:00 AM,2017,12,29,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 10:00 AM,2017,12,29,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Guangzhou,PM2.5 - Principal,2017-12-29 11:00 AM,2017,12,29,11,-999.0,-999,N/A,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 12:00 PM,2017,12,29,12,58.0,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 01:00 PM,2017,12,29,13,54.0,147,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 02:00 PM,2017,12,29,14,49.0,134,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 03:00 PM,2017,12,29,15,46.9,129,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 04:00 PM,2017,12,29,16,41.1,115,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 05:00 PM,2017,12,29,17,45.6,126,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 06:00 PM,2017,12,29,18,49.1,134,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 07:00 PM,2017,12,29,19,53.1,144,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 08:00 PM,2017,12,29,20,58.4,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 09:00 PM,2017,12,29,21,62.7,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 10:00 PM,2017,12,29,22,68.0,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-29 11:00 PM,2017,12,29,23,60.0,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 12:00 AM,2017,12,30,00,56.0,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 01:00 AM,2017,12,30,01,56.5,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 02:00 AM,2017,12,30,02,55.2,150,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 03:00 AM,2017,12,30,03,52.6,143,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 04:00 AM,2017,12,30,04,54.6,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 05:00 AM,2017,12,30,05,55.7,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 06:00 AM,2017,12,30,06,56.4,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 07:00 AM,2017,12,30,07,58.5,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 08:00 AM,2017,12,30,08,59.6,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 09:00 AM,2017,12,30,09,61.3,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 10:00 AM,2017,12,30,10,59.3,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 11:00 AM,2017,12,30,11,61.9,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 12:00 PM,2017,12,30,12,62.0,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 01:00 PM,2017,12,30,13,60.7,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 02:00 PM,2017,12,30,14,56.9,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 03:00 PM,2017,12,30,15,51.8,141,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 04:00 PM,2017,12,30,16,54.0,147,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 05:00 PM,2017,12,30,17,57.2,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 06:00 PM,2017,12,30,18,58.9,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 07:00 PM,2017,12,30,19,58.5,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 08:00 PM,2017,12,30,20,56.2,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 09:00 PM,2017,12,30,21,50.0,137,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 10:00 PM,2017,12,30,22,36.1,102,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-30 11:00 PM,2017,12,30,23,27.0,82,Moderate,18.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 12:00 AM,2017,12,31,00,22.0,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 01:00 AM,2017,12,31,01,18.0,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 02:00 AM,2017,12,31,02,15.4,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 03:00 AM,2017,12,31,03,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 04:00 AM,2017,12,31,04,16.3,60,Moderate,17.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 05:00 AM,2017,12,31,05,16.1,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 06:00 AM,2017,12,31,06,18.5,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 07:00 AM,2017,12,31,07,24.2,76,Moderate,30.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 08:00 AM,2017,12,31,08,30.6,90,Moderate,37.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 09:00 AM,2017,12,31,09,34.3,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 10:00 AM,2017,12,31,10,41.1,115,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 11:00 AM,2017,12,31,11,42.0,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 12:00 PM,2017,12,31,12,41.5,116,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 01:00 PM,2017,12,31,13,44.2,122,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 02:00 PM,2017,12,31,14,44.1,122,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 03:00 PM,2017,12,31,15,47.5,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 04:00 PM,2017,12,31,16,51.2,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 05:00 PM,2017,12,31,17,52.1,142,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 06:00 PM,2017,12,31,18,51.8,141,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 07:00 PM,2017,12,31,19,51.9,141,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 08:00 PM,2017,12,31,20,61.3,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 09:00 PM,2017,12,31,21,63.2,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 10:00 PM,2017,12,31,22,66.5,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2017-12-31 11:00 PM,2017,12,31,23,67.5,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Guangzhou,PM2.5 - Principal,2018-01-01 12:00 AM,2018,01,01,00,67.7,157,Unhealthy,69.0,UG/M3,1 Hr,Valid

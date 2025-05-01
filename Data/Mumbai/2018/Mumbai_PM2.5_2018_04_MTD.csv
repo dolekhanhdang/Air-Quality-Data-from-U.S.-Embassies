@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Mumbai,PM2.5 - Principal,2018-04-01 01:00 AM,2018,04,01,01,35.9,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 02:00 AM,2018,04,01,02,36.2,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 03:00 AM,2018,04,01,03,42.3,118,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 04:00 AM,2018,04,01,04,45.3,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 05:00 AM,2018,04,01,05,45.6,126,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 06:00 AM,2018,04,01,06,45.2,125,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 07:00 AM,2018,04,01,07,46.6,128,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 08:00 AM,2018,04,01,08,47.4,130,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 09:00 AM,2018,04,01,09,46.4,128,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 10:00 AM,2018,04,01,10,51.2,140,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 11:00 AM,2018,04,01,11,54.1,147,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 12:00 PM,2018,04,01,12,54.8,149,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 01:00 PM,2018,04,01,13,51.5,140,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 02:00 PM,2018,04,01,14,51.9,141,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 03:00 PM,2018,04,01,15,52.2,142,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 04:00 PM,2018,04,01,16,50.9,139,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 05:00 PM,2018,04,01,17,40.9,114,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 06:00 PM,2018,04,01,18,35.3,100,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 07:00 PM,2018,04,01,19,33.7,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 08:00 PM,2018,04,01,20,32.8,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 09:00 PM,2018,04,01,21,31.9,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 10:00 PM,2018,04,01,22,31.9,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-01 11:00 PM,2018,04,01,23,32.9,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 12:00 AM,2018,04,02,00,35.1,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 01:00 AM,2018,04,02,01,36.3,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 02:00 AM,2018,04,02,02,35.3,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 03:00 AM,2018,04,02,03,32.8,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 04:00 AM,2018,04,02,04,32.4,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 05:00 AM,2018,04,02,05,32.5,94,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 06:00 AM,2018,04,02,06,33.2,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 07:00 AM,2018,04,02,07,33.2,95,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 08:00 AM,2018,04,02,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 09:00 AM,2018,04,02,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 10:00 AM,2018,04,02,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 11:00 AM,2018,04,02,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 12:00 PM,2018,04,02,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 01:00 PM,2018,04,02,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 02:00 PM,2018,04,02,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 03:00 PM,2018,04,02,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 04:00 PM,2018,04,02,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 05:00 PM,2018,04,02,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 06:00 PM,2018,04,02,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 07:00 PM,2018,04,02,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 08:00 PM,2018,04,02,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 09:00 PM,2018,04,02,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-02 10:00 PM,2018,04,02,22,-999.0,-999,N/A,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-02 11:00 PM,2018,04,02,23,25.9,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 12:00 AM,2018,04,03,00,29.4,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 01:00 AM,2018,04,03,01,30.9,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 02:00 AM,2018,04,03,02,33.2,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 03:00 AM,2018,04,03,03,34.3,98,Moderate,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 04:00 AM,2018,04,03,04,35.5,101,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 05:00 AM,2018,04,03,05,36.1,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 06:00 AM,2018,04,03,06,33.2,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 07:00 AM,2018,04,03,07,31.4,92,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 08:00 AM,2018,04,03,08,31.4,92,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 09:00 AM,2018,04,03,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 10:00 AM,2018,04,03,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 11:00 AM,2018,04,03,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 12:00 PM,2018,04,03,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 01:00 PM,2018,04,03,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 02:00 PM,2018,04,03,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 03:00 PM,2018,04,03,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 04:00 PM,2018,04,03,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 05:00 PM,2018,04,03,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 06:00 PM,2018,04,03,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 07:00 PM,2018,04,03,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 08:00 PM,2018,04,03,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 09:00 PM,2018,04,03,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-03 10:00 PM,2018,04,03,22,-999.0,-999,N/A,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-03 11:00 PM,2018,04,03,23,40.0,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 12:00 AM,2018,04,04,00,41.1,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 01:00 AM,2018,04,04,01,41.6,116,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 02:00 AM,2018,04,04,02,38.2,108,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 03:00 AM,2018,04,04,03,34.7,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 04:00 AM,2018,04,04,04,35.5,101,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 05:00 AM,2018,04,04,05,36.0,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 06:00 AM,2018,04,04,06,36.3,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 07:00 AM,2018,04,04,07,39.9,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 08:00 AM,2018,04,04,08,39.9,112,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 09:00 AM,2018,04,04,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 10:00 AM,2018,04,04,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 11:00 AM,2018,04,04,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 12:00 PM,2018,04,04,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 01:00 PM,2018,04,04,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 02:00 PM,2018,04,04,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 03:00 PM,2018,04,04,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 04:00 PM,2018,04,04,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-04 05:00 PM,2018,04,04,17,-999.0,-999,N/A,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 06:00 PM,2018,04,04,18,32.7,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 07:00 PM,2018,04,04,19,34.4,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 08:00 PM,2018,04,04,20,36.4,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 09:00 PM,2018,04,04,21,39.5,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 10:00 PM,2018,04,04,22,44.5,123,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-04 11:00 PM,2018,04,04,23,46.7,129,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 12:00 AM,2018,04,05,00,45.3,125,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 01:00 AM,2018,04,05,01,44.7,124,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 02:00 AM,2018,04,05,02,41.4,116,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 03:00 AM,2018,04,05,03,39.7,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 04:00 AM,2018,04,05,04,42.3,118,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 05:00 AM,2018,04,05,05,43.0,119,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 06:00 AM,2018,04,05,06,43.5,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 07:00 AM,2018,04,05,07,44.8,124,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 08:00 AM,2018,04,05,08,45.9,127,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 09:00 AM,2018,04,05,09,43.7,121,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 10:00 AM,2018,04,05,10,41.5,116,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 11:00 AM,2018,04,05,11,46.6,128,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 12:00 PM,2018,04,05,12,50.4,138,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 01:00 PM,2018,04,05,13,48.4,133,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 02:00 PM,2018,04,05,14,43.8,121,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 03:00 PM,2018,04,05,15,39.6,111,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 04:00 PM,2018,04,05,16,37.3,105,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 05:00 PM,2018,04,05,17,36.0,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 06:00 PM,2018,04,05,18,42.0,117,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 07:00 PM,2018,04,05,19,46.0,127,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 08:00 PM,2018,04,05,20,49.6,136,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 09:00 PM,2018,04,05,21,58.2,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 10:00 PM,2018,04,05,22,62.0,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-05 11:00 PM,2018,04,05,23,63.4,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 12:00 AM,2018,04,06,00,66.3,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 01:00 AM,2018,04,06,01,67.6,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 02:00 AM,2018,04,06,02,67.8,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 03:00 AM,2018,04,06,03,66.4,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 04:00 AM,2018,04,06,04,65.2,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 05:00 AM,2018,04,06,05,64.9,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 06:00 AM,2018,04,06,06,62.2,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 07:00 AM,2018,04,06,07,60.7,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 08:00 AM,2018,04,06,08,57.0,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 09:00 AM,2018,04,06,09,55.8,151,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 10:00 AM,2018,04,06,10,63.4,155,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 11:00 AM,2018,04,06,11,69.1,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 12:00 PM,2018,04,06,12,62.1,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 01:00 PM,2018,04,06,13,57.0,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 02:00 PM,2018,04,06,14,53.9,146,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 03:00 PM,2018,04,06,15,53.9,146,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-06 04:00 PM,2018,04,06,16,-999.0,-999,N/A,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-06 05:00 PM,2018,04,06,17,-999.0,-999,N/A,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-06 06:00 PM,2018,04,06,18,-999.0,-999,N/A,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-06 07:00 PM,2018,04,06,19,-999.0,-999,N/A,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 08:00 PM,2018,04,06,20,53.2,145,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 09:00 PM,2018,04,06,21,55.5,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 10:00 PM,2018,04,06,22,56.5,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-06 11:00 PM,2018,04,06,23,53.8,146,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 12:00 AM,2018,04,07,00,53.3,145,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 01:00 AM,2018,04,07,01,53.5,145,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 02:00 AM,2018,04,07,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 03:00 AM,2018,04,07,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 04:00 AM,2018,04,07,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 05:00 AM,2018,04,07,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 06:00 AM,2018,04,07,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 07:00 AM,2018,04,07,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 08:00 AM,2018,04,07,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 09:00 AM,2018,04,07,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 10:00 AM,2018,04,07,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 11:00 AM,2018,04,07,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-07 12:00 PM,2018,04,07,12,-999.0,-999,N/A,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 01:00 PM,2018,04,07,13,63.8,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 02:00 PM,2018,04,07,14,65.4,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 03:00 PM,2018,04,07,15,56.6,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 04:00 PM,2018,04,07,16,52.4,143,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 05:00 PM,2018,04,07,17,49.9,136,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 06:00 PM,2018,04,07,18,49.2,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 07:00 PM,2018,04,07,19,48.7,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 08:00 PM,2018,04,07,20,47.7,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 09:00 PM,2018,04,07,21,47.1,130,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 10:00 PM,2018,04,07,22,46.7,129,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-07 11:00 PM,2018,04,07,23,47.8,131,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 12:00 AM,2018,04,08,00,48.6,133,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 01:00 AM,2018,04,08,01,54.3,147,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 02:00 AM,2018,04,08,02,57.4,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 03:00 AM,2018,04,08,03,54.7,148,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 04:00 AM,2018,04,08,04,53.4,145,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 05:00 AM,2018,04,08,05,55.9,151,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 06:00 AM,2018,04,08,06,57.8,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 07:00 AM,2018,04,08,07,65.6,156,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 08:00 AM,2018,04,08,08,71.5,159,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 09:00 AM,2018,04,08,09,74.6,161,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 10:00 AM,2018,04,08,10,71.8,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 11:00 AM,2018,04,08,11,75.0,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 12:00 PM,2018,04,08,12,76.9,162,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 01:00 PM,2018,04,08,13,75.4,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 02:00 PM,2018,04,08,14,66.6,157,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 03:00 PM,2018,04,08,15,61.9,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 04:00 PM,2018,04,08,16,59.5,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 05:00 PM,2018,04,08,17,53.5,145,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 06:00 PM,2018,04,08,18,45.8,126,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 07:00 PM,2018,04,08,19,43.9,122,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 08:00 PM,2018,04,08,20,42.9,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 09:00 PM,2018,04,08,21,41.9,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 10:00 PM,2018,04,08,22,43.4,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-08 11:00 PM,2018,04,08,23,44.2,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 12:00 AM,2018,04,09,00,44.9,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 01:00 AM,2018,04,09,01,46.1,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 02:00 AM,2018,04,09,02,47.1,130,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 03:00 AM,2018,04,09,03,47.0,129,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 04:00 AM,2018,04,09,04,51.6,141,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 05:00 AM,2018,04,09,05,54.4,148,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 06:00 AM,2018,04,09,06,50.3,137,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 07:00 AM,2018,04,09,07,55.7,151,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 08:00 AM,2018,04,09,08,59.1,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 09:00 AM,2018,04,09,09,68.0,157,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 10:00 AM,2018,04,09,10,72.1,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 11:00 AM,2018,04,09,11,69.7,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 12:00 PM,2018,04,09,12,60.7,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 01:00 PM,2018,04,09,13,60.8,154,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-09 02:00 PM,2018,04,09,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-09 03:00 PM,2018,04,09,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-09 04:00 PM,2018,04,09,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-09 05:00 PM,2018,04,09,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-09 06:00 PM,2018,04,09,18,-999.0,-999,N/A,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 07:00 PM,2018,04,09,19,48.7,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 08:00 PM,2018,04,09,20,51.4,140,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 09:00 PM,2018,04,09,21,53.5,145,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 10:00 PM,2018,04,09,22,54.2,147,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-09 11:00 PM,2018,04,09,23,53.4,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 12:00 AM,2018,04,10,00,48.8,134,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 01:00 AM,2018,04,10,01,42.3,118,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 02:00 AM,2018,04,10,02,42.3,118,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-10 03:00 AM,2018,04,10,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-10 04:00 AM,2018,04,10,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-10 05:00 AM,2018,04,10,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-10 06:00 AM,2018,04,10,06,-999.0,-999,N/A,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 07:00 AM,2018,04,10,07,47.4,130,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 08:00 AM,2018,04,10,08,54.7,148,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 09:00 AM,2018,04,10,09,63.1,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 10:00 AM,2018,04,10,10,66.6,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 11:00 AM,2018,04,10,11,67.8,157,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 12:00 PM,2018,04,10,12,68.4,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 01:00 PM,2018,04,10,13,68.7,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 02:00 PM,2018,04,10,14,69.2,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 03:00 PM,2018,04,10,15,64.1,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 04:00 PM,2018,04,10,16,59.1,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 05:00 PM,2018,04,10,17,45.8,126,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 06:00 PM,2018,04,10,18,45.9,127,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 07:00 PM,2018,04,10,19,45.9,127,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 08:00 PM,2018,04,10,20,48.4,133,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 09:00 PM,2018,04,10,21,49.7,136,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 10:00 PM,2018,04,10,22,48.8,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-10 11:00 PM,2018,04,10,23,48.4,133,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 12:00 AM,2018,04,11,00,46.2,127,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 01:00 AM,2018,04,11,01,43.6,121,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 02:00 AM,2018,04,11,02,40.9,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 03:00 AM,2018,04,11,03,41.0,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 04:00 AM,2018,04,11,04,43.4,120,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 05:00 AM,2018,04,11,05,44.8,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 06:00 AM,2018,04,11,06,44.0,122,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 07:00 AM,2018,04,11,07,44.8,124,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 08:00 AM,2018,04,11,08,46.3,128,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 09:00 AM,2018,04,11,09,47.3,130,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 10:00 AM,2018,04,11,10,48.5,133,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 11:00 AM,2018,04,11,11,49.2,135,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 12:00 PM,2018,04,11,12,51.5,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 01:00 PM,2018,04,11,13,58.6,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 02:00 PM,2018,04,11,14,60.8,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 03:00 PM,2018,04,11,15,56.1,151,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 04:00 PM,2018,04,11,16,49.8,136,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 05:00 PM,2018,04,11,17,45.2,125,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 06:00 PM,2018,04,11,18,46.7,129,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 07:00 PM,2018,04,11,19,47.6,131,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 08:00 PM,2018,04,11,20,48.6,133,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 09:00 PM,2018,04,11,21,49.1,134,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 10:00 PM,2018,04,11,22,45.0,124,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-11 11:00 PM,2018,04,11,23,44.5,123,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 12:00 AM,2018,04,12,00,44.3,123,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 01:00 AM,2018,04,12,01,44.3,123,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-12 02:00 AM,2018,04,12,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-12 03:00 AM,2018,04,12,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-12 04:00 AM,2018,04,12,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-12 05:00 AM,2018,04,12,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-12 06:00 AM,2018,04,12,06,-999.0,-999,N/A,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 07:00 AM,2018,04,12,07,31.6,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 08:00 AM,2018,04,12,08,35.2,100,Moderate,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 09:00 AM,2018,04,12,09,36.5,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 10:00 AM,2018,04,12,10,39.1,110,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 11:00 AM,2018,04,12,11,42.7,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 12:00 PM,2018,04,12,12,44.7,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 01:00 PM,2018,04,12,13,49.1,134,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 02:00 PM,2018,04,12,14,51.2,140,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 03:00 PM,2018,04,12,15,46.4,128,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 04:00 PM,2018,04,12,16,42.4,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 05:00 PM,2018,04,12,17,40.1,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 06:00 PM,2018,04,12,18,37.0,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 07:00 PM,2018,04,12,19,35.8,102,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 08:00 PM,2018,04,12,20,34.7,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 09:00 PM,2018,04,12,21,34.0,97,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-12 10:00 PM,2018,04,12,22,34.0,97,Moderate,27.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-12 11:00 PM,2018,04,12,23,-999.0,-999,N/A,27.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-13 12:00 AM,2018,04,13,00,-999.0,-999,N/A,27.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-13 01:00 AM,2018,04,13,01,-999.0,-999,N/A,27.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-13 02:00 AM,2018,04,13,02,-999.0,-999,N/A,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 03:00 AM,2018,04,13,03,29.8,88,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 04:00 AM,2018,04,13,04,31.2,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 05:00 AM,2018,04,13,05,30.0,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 06:00 AM,2018,04,13,06,32.6,94,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 07:00 AM,2018,04,13,07,39.5,111,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 08:00 AM,2018,04,13,08,47.9,132,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 09:00 AM,2018,04,13,09,52.0,142,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 10:00 AM,2018,04,13,10,52.5,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 11:00 AM,2018,04,13,11,54.2,147,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 12:00 PM,2018,04,13,12,55.1,149,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 01:00 PM,2018,04,13,13,43.5,121,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 02:00 PM,2018,04,13,14,35.7,101,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 03:00 PM,2018,04,13,15,31.8,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 04:00 PM,2018,04,13,16,35.4,100,Moderate,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 05:00 PM,2018,04,13,17,37.2,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 06:00 PM,2018,04,13,18,36.1,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 07:00 PM,2018,04,13,19,35.5,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 08:00 PM,2018,04,13,20,37.2,105,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 09:00 PM,2018,04,13,21,38.1,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 10:00 PM,2018,04,13,22,38.0,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-13 11:00 PM,2018,04,13,23,38.0,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 12:00 AM,2018,04,14,00,38.3,108,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 01:00 AM,2018,04,14,01,38.8,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 02:00 AM,2018,04,14,02,38.3,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 03:00 AM,2018,04,14,03,37.2,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 04:00 AM,2018,04,14,04,32.0,93,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 05:00 AM,2018,04,14,05,30.1,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 06:00 AM,2018,04,14,06,30.8,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 07:00 AM,2018,04,14,07,43.6,121,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 08:00 AM,2018,04,14,08,55.8,151,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 09:00 AM,2018,04,14,09,61.9,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-14 10:00 AM,2018,04,14,10,61.9,154,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 11:00 AM,2018,04,14,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 12:00 PM,2018,04,14,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 01:00 PM,2018,04,14,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 02:00 PM,2018,04,14,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 03:00 PM,2018,04,14,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 04:00 PM,2018,04,14,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 05:00 PM,2018,04,14,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 06:00 PM,2018,04,14,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 07:00 PM,2018,04,14,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 08:00 PM,2018,04,14,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 09:00 PM,2018,04,14,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 10:00 PM,2018,04,14,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-14 11:00 PM,2018,04,14,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 12:00 AM,2018,04,15,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 01:00 AM,2018,04,15,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 02:00 AM,2018,04,15,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 03:00 AM,2018,04,15,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 04:00 AM,2018,04,15,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 05:00 AM,2018,04,15,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 06:00 AM,2018,04,15,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 07:00 AM,2018,04,15,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 08:00 AM,2018,04,15,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 09:00 AM,2018,04,15,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 10:00 AM,2018,04,15,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 11:00 AM,2018,04,15,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 12:00 PM,2018,04,15,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 01:00 PM,2018,04,15,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 02:00 PM,2018,04,15,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 03:00 PM,2018,04,15,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 04:00 PM,2018,04,15,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 05:00 PM,2018,04,15,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 06:00 PM,2018,04,15,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 07:00 PM,2018,04,15,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 08:00 PM,2018,04,15,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 09:00 PM,2018,04,15,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 10:00 PM,2018,04,15,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-15 11:00 PM,2018,04,15,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 12:00 AM,2018,04,16,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 01:00 AM,2018,04,16,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 02:00 AM,2018,04,16,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 03:00 AM,2018,04,16,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 04:00 AM,2018,04,16,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 05:00 AM,2018,04,16,05,-999.0,-999,N/A,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-16 06:00 AM,2018,04,16,06,21.0,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-16 07:00 AM,2018,04,16,07,22.5,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-16 08:00 AM,2018,04,16,08,23.7,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-16 09:00 AM,2018,04,16,09,26.2,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-16 10:00 AM,2018,04,16,10,27.5,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-16 11:00 AM,2018,04,16,11,27.5,83,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 12:00 PM,2018,04,16,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 01:00 PM,2018,04,16,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 02:00 PM,2018,04,16,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 03:00 PM,2018,04,16,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 04:00 PM,2018,04,16,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 05:00 PM,2018,04,16,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 06:00 PM,2018,04,16,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 07:00 PM,2018,04,16,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 08:00 PM,2018,04,16,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 09:00 PM,2018,04,16,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 10:00 PM,2018,04,16,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-16 11:00 PM,2018,04,16,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 12:00 AM,2018,04,17,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 01:00 AM,2018,04,17,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 02:00 AM,2018,04,17,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 03:00 AM,2018,04,17,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 04:00 AM,2018,04,17,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 05:00 AM,2018,04,17,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 06:00 AM,2018,04,17,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 07:00 AM,2018,04,17,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 08:00 AM,2018,04,17,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 09:00 AM,2018,04,17,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 10:00 AM,2018,04,17,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 11:00 AM,2018,04,17,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 12:00 PM,2018,04,17,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 01:00 PM,2018,04,17,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 02:00 PM,2018,04,17,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 03:00 PM,2018,04,17,15,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 04:00 PM,2018,04,17,16,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 05:00 PM,2018,04,17,17,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 06:00 PM,2018,04,17,18,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 07:00 PM,2018,04,17,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 08:00 PM,2018,04,17,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 09:00 PM,2018,04,17,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 10:00 PM,2018,04,17,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-17 11:00 PM,2018,04,17,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 12:00 AM,2018,04,18,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 01:00 AM,2018,04,18,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 02:00 AM,2018,04,18,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 03:00 AM,2018,04,18,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 04:00 AM,2018,04,18,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 05:00 AM,2018,04,18,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 06:00 AM,2018,04,18,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 07:00 AM,2018,04,18,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 08:00 AM,2018,04,18,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 09:00 AM,2018,04,18,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 10:00 AM,2018,04,18,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 11:00 AM,2018,04,18,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 12:00 PM,2018,04,18,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 01:00 PM,2018,04,18,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 02:00 PM,2018,04,18,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 03:00 PM,2018,04,18,15,-999.0,-999,N/A,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-18 04:00 PM,2018,04,18,16,32.1,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-18 05:00 PM,2018,04,18,17,32.8,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-18 06:00 PM,2018,04,18,18,32.8,95,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 07:00 PM,2018,04,18,19,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 08:00 PM,2018,04,18,20,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 09:00 PM,2018,04,18,21,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 10:00 PM,2018,04,18,22,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-18 11:00 PM,2018,04,18,23,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 12:00 AM,2018,04,19,00,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 01:00 AM,2018,04,19,01,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 02:00 AM,2018,04,19,02,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 03:00 AM,2018,04,19,03,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 04:00 AM,2018,04,19,04,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 05:00 AM,2018,04,19,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 06:00 AM,2018,04,19,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 07:00 AM,2018,04,19,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 08:00 AM,2018,04,19,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 09:00 AM,2018,04,19,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-19 10:00 AM,2018,04,19,10,-999.0,-999,N/A,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 11:00 AM,2018,04,19,11,47.5,131,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 12:00 PM,2018,04,19,12,49.3,135,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 01:00 PM,2018,04,19,13,47.5,131,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 02:00 PM,2018,04,19,14,46.2,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 03:00 PM,2018,04,19,15,42.9,119,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 04:00 PM,2018,04,19,16,42.3,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 05:00 PM,2018,04,19,17,51.0,139,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 06:00 PM,2018,04,19,18,56.5,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 07:00 PM,2018,04,19,19,55.0,149,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 08:00 PM,2018,04,19,20,54.1,147,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 09:00 PM,2018,04,19,21,51.5,140,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 10:00 PM,2018,04,19,22,50.0,137,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-19 11:00 PM,2018,04,19,23,47.5,131,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 12:00 AM,2018,04,20,00,46.0,127,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 01:00 AM,2018,04,20,01,43.4,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 02:00 AM,2018,04,20,02,41.1,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 03:00 AM,2018,04,20,03,39.9,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 04:00 AM,2018,04,20,04,34.5,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 05:00 AM,2018,04,20,05,32.7,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 06:00 AM,2018,04,20,06,35.0,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 07:00 AM,2018,04,20,07,38.9,109,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 08:00 AM,2018,04,20,08,48.3,133,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 09:00 AM,2018,04,20,09,52.9,144,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 10:00 AM,2018,04,20,10,52.9,144,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-20 11:00 AM,2018,04,20,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-20 12:00 PM,2018,04,20,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-20 01:00 PM,2018,04,20,13,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-20 02:00 PM,2018,04,20,14,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-20 03:00 PM,2018,04,20,15,-999.0,-999,N/A,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 04:00 PM,2018,04,20,16,26.2,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 05:00 PM,2018,04,20,17,25.5,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 06:00 PM,2018,04,20,18,23.1,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 07:00 PM,2018,04,20,19,26.6,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 08:00 PM,2018,04,20,20,28.3,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 09:00 PM,2018,04,20,21,30.7,90,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 10:00 PM,2018,04,20,22,32.5,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-20 11:00 PM,2018,04,20,23,28.6,86,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 12:00 AM,2018,04,21,00,27.9,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 01:00 AM,2018,04,21,01,27.5,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 02:00 AM,2018,04,21,02,27.3,83,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 03:00 AM,2018,04,21,03,24.1,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 04:00 AM,2018,04,21,04,21.6,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 05:00 AM,2018,04,21,05,26.8,82,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 06:00 AM,2018,04,21,06,31.8,92,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 07:00 AM,2018,04,21,07,34.3,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 08:00 AM,2018,04,21,08,33.7,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 09:00 AM,2018,04,21,09,31.9,93,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 10:00 AM,2018,04,21,10,29.0,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 11:00 AM,2018,04,21,11,27.5,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 12:00 PM,2018,04,21,12,26.7,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 01:00 PM,2018,04,21,13,25.4,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 02:00 PM,2018,04,21,14,22.3,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 03:00 PM,2018,04,21,15,22.6,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 04:00 PM,2018,04,21,16,28.1,85,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 05:00 PM,2018,04,21,17,31.0,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 06:00 PM,2018,04,21,18,31.9,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 07:00 PM,2018,04,21,19,34.4,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 08:00 PM,2018,04,21,20,36.2,103,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 09:00 PM,2018,04,21,21,37.1,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-21 10:00 PM,2018,04,21,22,37.1,105,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-21 11:00 PM,2018,04,21,23,-999.0,-999,N/A,42.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-22 12:00 AM,2018,04,22,00,-999.0,-999,N/A,42.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-22 01:00 AM,2018,04,22,01,-999.0,-999,N/A,42.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-22 02:00 AM,2018,04,22,02,-999.0,-999,N/A,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 03:00 AM,2018,04,22,03,34.3,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 04:00 AM,2018,04,22,04,32.1,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 05:00 AM,2018,04,22,05,30.5,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 06:00 AM,2018,04,22,06,31.9,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 07:00 AM,2018,04,22,07,33.4,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 08:00 AM,2018,04,22,08,35.1,99,Moderate,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 09:00 AM,2018,04,22,09,39.9,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 10:00 AM,2018,04,22,10,42.3,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 11:00 AM,2018,04,22,11,38.6,109,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 12:00 PM,2018,04,22,12,36.4,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 01:00 PM,2018,04,22,13,39.4,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 02:00 PM,2018,04,22,14,41.2,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 03:00 PM,2018,04,22,15,37.6,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 04:00 PM,2018,04,22,16,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 05:00 PM,2018,04,22,17,38.9,109,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 06:00 PM,2018,04,22,18,41.1,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 07:00 PM,2018,04,22,19,42.6,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 08:00 PM,2018,04,22,20,44.6,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 09:00 PM,2018,04,22,21,47.2,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 10:00 PM,2018,04,22,22,49.1,134,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-22 11:00 PM,2018,04,22,23,50.2,137,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 12:00 AM,2018,04,23,00,49.8,136,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 01:00 AM,2018,04,23,01,49.5,135,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 02:00 AM,2018,04,23,02,47.7,131,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 03:00 AM,2018,04,23,03,43.7,121,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 04:00 AM,2018,04,23,04,41.5,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 05:00 AM,2018,04,23,05,40.0,112,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 06:00 AM,2018,04,23,06,39.6,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 07:00 AM,2018,04,23,07,41.4,116,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 08:00 AM,2018,04,23,08,49.1,134,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 09:00 AM,2018,04,23,09,53.6,146,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 10:00 AM,2018,04,23,10,52.1,142,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 11:00 AM,2018,04,23,11,51.2,140,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 12:00 PM,2018,04,23,12,50.3,137,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 01:00 PM,2018,04,23,13,49.7,136,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 02:00 PM,2018,04,23,14,48.6,133,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 03:00 PM,2018,04,23,15,45.0,124,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 04:00 PM,2018,04,23,16,41.9,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 05:00 PM,2018,04,23,17,37.3,105,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 06:00 PM,2018,04,23,18,42.6,118,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 07:00 PM,2018,04,23,19,45.4,125,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 08:00 PM,2018,04,23,20,43.4,120,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 09:00 PM,2018,04,23,21,42.5,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 10:00 PM,2018,04,23,22,41.6,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-23 11:00 PM,2018,04,23,23,43.7,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 12:00 AM,2018,04,24,00,45.1,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 01:00 AM,2018,04,24,01,42.4,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 02:00 AM,2018,04,24,02,40.3,113,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 03:00 AM,2018,04,24,03,40.8,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 04:00 AM,2018,04,24,04,41.2,115,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 05:00 AM,2018,04,24,05,41.3,115,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 06:00 AM,2018,04,24,06,41.4,116,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 07:00 AM,2018,04,24,07,46.6,128,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 08:00 AM,2018,04,24,08,53.0,144,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 09:00 AM,2018,04,24,09,58.1,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 10:00 AM,2018,04,24,10,60.7,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 11:00 AM,2018,04,24,11,59.9,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 12:00 PM,2018,04,24,12,59.5,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 01:00 PM,2018,04,24,13,57.1,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 02:00 PM,2018,04,24,14,52.5,143,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 03:00 PM,2018,04,24,15,41.2,115,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 04:00 PM,2018,04,24,16,40.1,112,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 05:00 PM,2018,04,24,17,39.5,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 06:00 PM,2018,04,24,18,42.7,119,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 07:00 PM,2018,04,24,19,44.3,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 08:00 PM,2018,04,24,20,42.6,118,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 09:00 PM,2018,04,24,21,44.8,124,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 10:00 PM,2018,04,24,22,48.0,132,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-24 11:00 PM,2018,04,24,23,49.8,136,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 12:00 AM,2018,04,25,00,45.5,126,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 01:00 AM,2018,04,25,01,43.4,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 02:00 AM,2018,04,25,02,43.2,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 03:00 AM,2018,04,25,03,43.6,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 04:00 AM,2018,04,25,04,44.0,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 05:00 AM,2018,04,25,05,44.3,123,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 06:00 AM,2018,04,25,06,44.9,124,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 07:00 AM,2018,04,25,07,46.6,128,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 08:00 AM,2018,04,25,08,56.3,151,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 09:00 AM,2018,04,25,09,67.8,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 10:00 AM,2018,04,25,10,72.7,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 11:00 AM,2018,04,25,11,72.7,160,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-25 12:00 PM,2018,04,25,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-25 01:00 PM,2018,04,25,13,-999.0,-999,N/A,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 02:00 PM,2018,04,25,14,38.8,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 03:00 PM,2018,04,25,15,37.2,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 04:00 PM,2018,04,25,16,34.5,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 05:00 PM,2018,04,25,17,37.3,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 06:00 PM,2018,04,25,18,38.6,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 07:00 PM,2018,04,25,19,39.3,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-25 08:00 PM,2018,04,25,20,39.3,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-25 09:00 PM,2018,04,25,21,-999.0,-999,N/A,41.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-25 10:00 PM,2018,04,25,22,-999.0,-999,N/A,41.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-25 11:00 PM,2018,04,25,23,-999.0,-999,N/A,41.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2018-04-26 12:00 AM,2018,04,26,00,-999.0,-999,N/A,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 01:00 AM,2018,04,26,01,36.0,102,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 02:00 AM,2018,04,26,02,35.7,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 03:00 AM,2018,04,26,03,34.6,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 04:00 AM,2018,04,26,04,34.7,99,Moderate,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 05:00 AM,2018,04,26,05,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 06:00 AM,2018,04,26,06,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 07:00 AM,2018,04,26,07,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 08:00 AM,2018,04,26,08,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 09:00 AM,2018,04,26,09,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 10:00 AM,2018,04,26,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 11:00 AM,2018,04,26,11,-999.0,-999,N/A,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 12:00 PM,2018,04,26,12,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2018-04-26 01:00 PM,2018,04,26,13,21.9,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 02:00 PM,2018,04,26,14,20.5,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 03:00 PM,2018,04,26,15,16.6,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 04:00 PM,2018,04,26,16,17.3,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 05:00 PM,2018,04,26,17,17.6,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 06:00 PM,2018,04,26,18,19.8,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 07:00 PM,2018,04,26,19,24.4,77,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 08:00 PM,2018,04,26,20,26.7,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 09:00 PM,2018,04,26,21,25.3,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 10:00 PM,2018,04,26,22,24.6,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-26 11:00 PM,2018,04,26,23,25.8,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 12:00 AM,2018,04,27,00,36.9,104,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 01:00 AM,2018,04,27,01,42.4,118,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 02:00 AM,2018,04,27,02,32.2,93,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 03:00 AM,2018,04,27,03,27.1,83,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 04:00 AM,2018,04,27,04,25.5,79,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 05:00 AM,2018,04,27,05,24.7,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 06:00 AM,2018,04,27,06,25.8,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 07:00 AM,2018,04,27,07,36.9,104,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 08:00 AM,2018,04,27,08,42.4,118,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 09:00 AM,2018,04,27,09,39.7,111,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 10:00 AM,2018,04,27,10,29.3,87,Moderate,19.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 11:00 AM,2018,04,27,11,30.6,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 12:00 PM,2018,04,27,12,32.8,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 01:00 PM,2018,04,27,13,33.9,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 02:00 PM,2018,04,27,14,26.9,82,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 03:00 PM,2018,04,27,15,23.4,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 04:00 PM,2018,04,27,16,27.2,83,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 05:00 PM,2018,04,27,17,29.1,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 06:00 PM,2018,04,27,18,30.5,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 07:00 PM,2018,04,27,19,47.2,130,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 08:00 PM,2018,04,27,20,60.6,154,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 09:00 PM,2018,04,27,21,67.3,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 10:00 PM,2018,04,27,22,47.1,130,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-27 11:00 PM,2018,04,27,23,35.5,101,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 12:00 AM,2018,04,28,00,30.7,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 01:00 AM,2018,04,28,01,28.3,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 02:00 AM,2018,04,28,02,23.1,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 03:00 AM,2018,04,28,03,23.5,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 04:00 AM,2018,04,28,04,23.7,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 05:00 AM,2018,04,28,05,21.8,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 06:00 AM,2018,04,28,06,20.9,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 07:00 AM,2018,04,28,07,20.4,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 08:00 AM,2018,04,28,08,23.2,74,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 09:00 AM,2018,04,28,09,23.7,75,Moderate,26.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 10:00 AM,2018,04,28,10,18.3,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 11:00 AM,2018,04,28,11,19.1,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 12:00 PM,2018,04,28,12,19.5,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 01:00 PM,2018,04,28,13,18.2,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 02:00 PM,2018,04,28,14,17.6,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 03:00 PM,2018,04,28,15,17.3,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 04:00 PM,2018,04,28,16,21.1,70,Moderate,25.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 05:00 PM,2018,04,28,17,25.0,78,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 06:00 PM,2018,04,28,18,27.0,82,Moderate,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 07:00 PM,2018,04,28,19,27.5,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 08:00 PM,2018,04,28,20,30.7,90,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 09:00 PM,2018,04,28,21,32.8,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 10:00 PM,2018,04,28,22,33.9,97,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-28 11:00 PM,2018,04,28,23,34.4,98,Moderate,35.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 12:00 AM,2018,04,29,00,36.7,104,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 01:00 AM,2018,04,29,01,37.8,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 02:00 AM,2018,04,29,02,32.9,95,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 03:00 AM,2018,04,29,03,32.7,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 04:00 AM,2018,04,29,04,32.4,94,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 05:00 AM,2018,04,29,05,31.7,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 06:00 AM,2018,04,29,06,32.4,94,Moderate,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 07:00 AM,2018,04,29,07,35.6,101,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 08:00 AM,2018,04,29,08,37.7,106,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 09:00 AM,2018,04,29,09,38.1,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 10:00 AM,2018,04,29,10,38.4,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 11:00 AM,2018,04,29,11,34.9,99,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 12:00 PM,2018,04,29,12,32.6,94,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 01:00 PM,2018,04,29,13,31.0,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 02:00 PM,2018,04,29,14,29.4,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 03:00 PM,2018,04,29,15,28.5,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 04:00 PM,2018,04,29,16,28.3,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 05:00 PM,2018,04,29,17,28.2,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 06:00 PM,2018,04,29,18,29.2,87,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 07:00 PM,2018,04,29,19,29.8,88,Moderate,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 08:00 PM,2018,04,29,20,37.2,105,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 09:00 PM,2018,04,29,21,41.3,115,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 10:00 PM,2018,04,29,22,40.8,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-29 11:00 PM,2018,04,29,23,38.7,109,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 12:00 AM,2018,04,30,00,36.3,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 01:00 AM,2018,04,30,01,40.8,114,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 02:00 AM,2018,04,30,02,43.4,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 03:00 AM,2018,04,30,03,43.5,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 04:00 AM,2018,04,30,04,44.5,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 05:00 AM,2018,04,30,05,44.8,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 06:00 AM,2018,04,30,06,69.2,158,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 07:00 AM,2018,04,30,07,81.1,164,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 08:00 AM,2018,04,30,08,64.5,156,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 09:00 AM,2018,04,30,09,56.2,151,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 10:00 AM,2018,04,30,10,46.1,127,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 11:00 AM,2018,04,30,11,43.5,121,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 12:00 PM,2018,04,30,12,42.2,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 01:00 PM,2018,04,30,13,40.6,114,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 02:00 PM,2018,04,30,14,39.3,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 03:00 PM,2018,04,30,15,39.6,111,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 04:00 PM,2018,04,30,16,41.3,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 05:00 PM,2018,04,30,17,42.1,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 06:00 PM,2018,04,30,18,40.5,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 07:00 PM,2018,04,30,19,41.6,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 08:00 PM,2018,04,30,20,42.1,117,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 09:00 PM,2018,04,30,21,43.2,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 10:00 PM,2018,04,30,22,43.8,121,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-04-30 11:00 PM,2018,04,30,23,44.9,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2018-05-01 12:00 AM,2018,05,01,00,45.6,126,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid

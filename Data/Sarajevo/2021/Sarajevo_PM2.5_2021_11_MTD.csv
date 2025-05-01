@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Sarajevo,PM2.5 - Principal,2021-11-01 01:00 AM,2021,11,01,01,88.5,168,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 02:00 AM,2021,11,01,02,73.2,160,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 03:00 AM,2021,11,01,03,64.6,156,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 04:00 AM,2021,11,01,04,62.3,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 05:00 AM,2021,11,01,05,60.6,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 06:00 AM,2021,11,01,06,55.3,150,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 07:00 AM,2021,11,01,07,46.1,127,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 08:00 AM,2021,11,01,08,42.0,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 09:00 AM,2021,11,01,09,72.5,160,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 10:00 AM,2021,11,01,10,89.2,168,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 11:00 AM,2021,11,01,11,82.1,165,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 12:00 PM,2021,11,01,12,89.5,169,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 01:00 PM,2021,11,01,13,83.2,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 02:00 PM,2021,11,01,14,63.6,155,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 03:00 PM,2021,11,01,15,48.3,133,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 04:00 PM,2021,11,01,16,28.1,85,Moderate,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 05:00 PM,2021,11,01,17,19.5,67,Moderate,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 06:00 PM,2021,11,01,18,16.7,61,Moderate,14.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 07:00 PM,2021,11,01,19,13.8,55,Moderate,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 08:00 PM,2021,11,01,20,15.4,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 09:00 PM,2021,11,01,21,17.7,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 10:00 PM,2021,11,01,22,20.3,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-01 11:00 PM,2021,11,01,23,20.1,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 12:00 AM,2021,11,02,00,21.0,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 01:00 AM,2021,11,02,01,20.0,68,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 02:00 AM,2021,11,02,02,16.5,60,Moderate,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 03:00 AM,2021,11,02,03,14.2,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 04:00 AM,2021,11,02,04,12.1,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 05:00 AM,2021,11,02,05,9.5,40,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 06:00 AM,2021,11,02,06,8.2,34,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 07:00 AM,2021,11,02,07,6.1,25,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 08:00 AM,2021,11,02,08,6.5,27,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 09:00 AM,2021,11,02,09,6.7,28,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 10:00 AM,2021,11,02,10,6.7,28,Good,-999.0,UG/M3,1 Hr,Missing
+Sarajevo,PM2.5 - Principal,2021-11-02 11:00 AM,2021,11,02,11,20.2,68,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 12:00 PM,2021,11,02,12,17.2,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 01:00 PM,2021,11,02,13,9.6,40,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 02:00 PM,2021,11,02,14,7.2,30,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 03:00 PM,2021,11,02,15,5.0,21,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 04:00 PM,2021,11,02,16,4.0,17,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 05:00 PM,2021,11,02,17,2.5,10,Good,1.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 06:00 PM,2021,11,02,18,7.7,32,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 07:00 PM,2021,11,02,19,38.9,109,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 08:00 PM,2021,11,02,20,48.4,133,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 09:00 PM,2021,11,02,21,62.2,154,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 10:00 PM,2021,11,02,22,60.1,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-02 11:00 PM,2021,11,02,23,42.5,118,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 12:00 AM,2021,11,03,00,38.7,109,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 01:00 AM,2021,11,03,01,32.8,95,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 02:00 AM,2021,11,03,02,23.9,76,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 03:00 AM,2021,11,03,03,16.4,60,Moderate,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 04:00 AM,2021,11,03,04,11.7,49,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 05:00 AM,2021,11,03,05,9.3,39,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 06:00 AM,2021,11,03,06,7.6,32,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 07:00 AM,2021,11,03,07,7.3,30,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 08:00 AM,2021,11,03,08,8.1,34,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 09:00 AM,2021,11,03,09,9.0,38,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 10:00 AM,2021,11,03,10,17.0,61,Moderate,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 11:00 AM,2021,11,03,11,19.5,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 12:00 PM,2021,11,03,12,15.2,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 01:00 PM,2021,11,03,13,11.1,46,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 02:00 PM,2021,11,03,14,7.0,29,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 03:00 PM,2021,11,03,15,5.5,23,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 04:00 PM,2021,11,03,16,5.2,22,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 05:00 PM,2021,11,03,17,5.6,23,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 06:00 PM,2021,11,03,18,4.8,20,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 07:00 PM,2021,11,03,19,3.4,14,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 08:00 PM,2021,11,03,20,3.2,13,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 09:00 PM,2021,11,03,21,1.6,7,Good,0.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 10:00 PM,2021,11,03,22,1.7,7,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-03 11:00 PM,2021,11,03,23,2.3,10,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 12:00 AM,2021,11,04,00,2.1,9,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 01:00 AM,2021,11,04,01,1.5,6,Good,1.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 02:00 AM,2021,11,04,02,2.7,11,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 03:00 AM,2021,11,04,03,4.8,20,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 04:00 AM,2021,11,04,04,5.4,23,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 05:00 AM,2021,11,04,05,5.2,22,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 06:00 AM,2021,11,04,06,7.6,32,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 07:00 AM,2021,11,04,07,8.3,35,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 08:00 AM,2021,11,04,08,10.6,44,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 09:00 AM,2021,11,04,09,11.8,49,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 10:00 AM,2021,11,04,10,10.4,43,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 11:00 AM,2021,11,04,11,8.2,34,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 12:00 PM,2021,11,04,12,6.1,25,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 01:00 PM,2021,11,04,13,4.5,19,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 02:00 PM,2021,11,04,14,4.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 03:00 PM,2021,11,04,15,6.1,25,Good,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 04:00 PM,2021,11,04,16,6.5,27,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 05:00 PM,2021,11,04,17,5.2,22,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 06:00 PM,2021,11,04,18,7.1,30,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 07:00 PM,2021,11,04,19,10.5,44,Good,14.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 08:00 PM,2021,11,04,20,11.7,49,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 09:00 PM,2021,11,04,21,13.8,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 10:00 PM,2021,11,04,22,11.4,48,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-04 11:00 PM,2021,11,04,23,15.7,59,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 12:00 AM,2021,11,05,00,16.8,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 01:00 AM,2021,11,05,01,11.4,48,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 02:00 AM,2021,11,05,02,8.2,34,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 03:00 AM,2021,11,05,03,5.6,23,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 04:00 AM,2021,11,05,04,2.8,12,Good,0.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 05:00 AM,2021,11,05,05,0.0,0,Good,-3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 06:00 AM,2021,11,05,06,0.0,0,Good,-1.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 07:00 AM,2021,11,05,07,1.7,7,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 08:00 AM,2021,11,05,08,6.3,26,Good,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 09:00 AM,2021,11,05,09,9.1,38,Good,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 10:00 AM,2021,11,05,10,11.0,46,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 11:00 AM,2021,11,05,11,14.5,56,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 12:00 PM,2021,11,05,12,18.2,64,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 01:00 PM,2021,11,05,13,20.6,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 02:00 PM,2021,11,05,14,21.3,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 03:00 PM,2021,11,05,15,23.1,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 04:00 PM,2021,11,05,16,27.5,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 05:00 PM,2021,11,05,17,30.2,89,Moderate,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 06:00 PM,2021,11,05,18,28.6,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 07:00 PM,2021,11,05,19,31.8,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 08:00 PM,2021,11,05,20,22.9,74,Moderate,14.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 09:00 PM,2021,11,05,21,17.4,62,Moderate,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 10:00 PM,2021,11,05,22,13.7,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-05 11:00 PM,2021,11,05,23,13.3,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 12:00 AM,2021,11,06,00,12.1,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 01:00 AM,2021,11,06,01,10.5,44,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 02:00 AM,2021,11,06,02,11.7,49,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 03:00 AM,2021,11,06,03,10.8,45,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 04:00 AM,2021,11,06,04,8.9,37,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 05:00 AM,2021,11,06,05,6.9,29,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 06:00 AM,2021,11,06,06,5.4,23,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 07:00 AM,2021,11,06,07,5.2,22,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 08:00 AM,2021,11,06,08,6.1,25,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 09:00 AM,2021,11,06,09,7.0,29,Good,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 10:00 AM,2021,11,06,10,8.5,35,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 11:00 AM,2021,11,06,11,14.7,56,Moderate,21.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 12:00 PM,2021,11,06,12,15.8,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 01:00 PM,2021,11,06,13,17.9,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 02:00 PM,2021,11,06,14,16.4,60,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 03:00 PM,2021,11,06,15,19.2,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 04:00 PM,2021,11,06,16,21.1,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 05:00 PM,2021,11,06,17,19.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 06:00 PM,2021,11,06,18,26.0,80,Moderate,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 07:00 PM,2021,11,06,19,39.5,111,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 08:00 PM,2021,11,06,20,36.2,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 09:00 PM,2021,11,06,21,37.1,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 10:00 PM,2021,11,06,22,36.5,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-06 11:00 PM,2021,11,06,23,37.2,105,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 12:00 AM,2021,11,07,00,41.6,116,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 01:00 AM,2021,11,07,01,43.3,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 02:00 AM,2021,11,07,02,43.6,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 03:00 AM,2021,11,07,03,48.3,133,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 04:00 AM,2021,11,07,04,43.1,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 05:00 AM,2021,11,07,05,40.6,114,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 06:00 AM,2021,11,07,06,35.0,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 07:00 AM,2021,11,07,07,33.6,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 08:00 AM,2021,11,07,08,30.1,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 09:00 AM,2021,11,07,09,30.0,89,Moderate,30.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 10:00 AM,2021,11,07,10,35.9,102,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 11:00 AM,2021,11,07,11,42.8,119,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 12:00 PM,2021,11,07,12,43.4,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 01:00 PM,2021,11,07,13,52.2,142,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 02:00 PM,2021,11,07,14,59.6,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 03:00 PM,2021,11,07,15,74.8,161,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 04:00 PM,2021,11,07,16,91.9,170,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 05:00 PM,2021,11,07,17,106.9,178,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 06:00 PM,2021,11,07,18,106.9,178,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 07:00 PM,2021,11,07,19,119.5,184,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 08:00 PM,2021,11,07,20,119.2,184,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 09:00 PM,2021,11,07,21,117.1,183,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 10:00 PM,2021,11,07,22,109.0,179,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-07 11:00 PM,2021,11,07,23,108.0,178,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 12:00 AM,2021,11,08,00,98.5,173,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 01:00 AM,2021,11,08,01,90.9,169,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 02:00 AM,2021,11,08,02,89.7,169,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 03:00 AM,2021,11,08,03,79.0,163,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 04:00 AM,2021,11,08,04,70.5,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 05:00 AM,2021,11,08,05,63.7,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 06:00 AM,2021,11,08,06,60.8,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 07:00 AM,2021,11,08,07,57.9,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 08:00 AM,2021,11,08,08,57.9,152,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Sarajevo,PM2.5 - Principal,2021-11-08 09:00 AM,2021,11,08,09,55.3,150,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 10:00 AM,2021,11,08,10,49.4,135,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 11:00 AM,2021,11,08,11,52.9,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 12:00 PM,2021,11,08,12,54.4,148,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 01:00 PM,2021,11,08,13,39.5,111,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 02:00 PM,2021,11,08,14,27.6,84,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 03:00 PM,2021,11,08,15,21.7,71,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 04:00 PM,2021,11,08,16,22.8,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 05:00 PM,2021,11,08,17,20.9,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 06:00 PM,2021,11,08,18,23.9,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 07:00 PM,2021,11,08,19,23.4,75,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 08:00 PM,2021,11,08,20,23.7,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 09:00 PM,2021,11,08,21,28.8,86,Moderate,34.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 10:00 PM,2021,11,08,22,33.9,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-08 11:00 PM,2021,11,08,23,35.9,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 12:00 AM,2021,11,09,00,36.9,104,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 01:00 AM,2021,11,09,01,35.4,100,Moderate,34.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 02:00 AM,2021,11,09,02,34.7,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 03:00 AM,2021,11,09,03,30.8,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 04:00 AM,2021,11,09,04,28.4,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 05:00 AM,2021,11,09,05,26.7,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 06:00 AM,2021,11,09,06,25.1,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 07:00 AM,2021,11,09,07,25.1,78,Moderate,-999.0,UG/M3,1 Hr,Missing
+Sarajevo,PM2.5 - Principal,2021-11-09 08:00 AM,2021,11,09,08,20.1,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 09:00 AM,2021,11,09,09,15.4,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 10:00 AM,2021,11,09,10,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 11:00 AM,2021,11,09,11,18.9,65,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 12:00 PM,2021,11,09,12,19.4,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 01:00 PM,2021,11,09,13,22.2,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 02:00 PM,2021,11,09,14,23.1,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 03:00 PM,2021,11,09,15,26.0,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 04:00 PM,2021,11,09,16,28.0,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 05:00 PM,2021,11,09,17,23.5,75,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 06:00 PM,2021,11,09,18,29.7,88,Moderate,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 07:00 PM,2021,11,09,19,41.8,117,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 08:00 PM,2021,11,09,20,45.9,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 09:00 PM,2021,11,09,21,45.9,127,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 10:00 PM,2021,11,09,22,51.9,141,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-09 11:00 PM,2021,11,09,23,58.0,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 12:00 AM,2021,11,10,00,45.0,124,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 01:00 AM,2021,11,10,01,67.0,157,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 02:00 AM,2021,11,10,02,65.0,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 03:00 AM,2021,11,10,03,71.0,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 04:00 AM,2021,11,10,04,67.5,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 05:00 AM,2021,11,10,05,65.2,156,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 06:00 AM,2021,11,10,06,57.1,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 07:00 AM,2021,11,10,07,53.0,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 08:00 AM,2021,11,10,08,43.5,121,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 09:00 AM,2021,11,10,09,43.2,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 10:00 AM,2021,11,10,10,43.1,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 11:00 AM,2021,11,10,11,43.1,120,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Sarajevo,PM2.5 - Principal,2021-11-10 12:00 PM,2021,11,10,12,51.0,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 01:00 PM,2021,11,10,13,44.1,122,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 02:00 PM,2021,11,10,14,40.3,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 03:00 PM,2021,11,10,15,34.9,99,Moderate,30.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 04:00 PM,2021,11,10,16,33.4,96,Moderate,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 05:00 PM,2021,11,10,17,40.4,113,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 06:00 PM,2021,11,10,18,58.9,153,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 07:00 PM,2021,11,10,19,80.5,164,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 08:00 PM,2021,11,10,20,87.2,167,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 09:00 PM,2021,11,10,21,99.6,174,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 10:00 PM,2021,11,10,22,107.8,178,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-10 11:00 PM,2021,11,10,23,109.9,179,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 12:00 AM,2021,11,11,00,115.9,182,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 01:00 AM,2021,11,11,01,124.9,187,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 02:00 AM,2021,11,11,02,117.0,183,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 03:00 AM,2021,11,11,03,126.0,187,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 04:00 AM,2021,11,11,04,124.5,187,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 05:00 AM,2021,11,11,05,119.3,184,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 06:00 AM,2021,11,11,06,117.0,183,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 07:00 AM,2021,11,11,07,111.5,180,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 08:00 AM,2021,11,11,08,97.9,173,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 09:00 AM,2021,11,11,09,86.7,167,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 10:00 AM,2021,11,11,10,82.3,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 11:00 AM,2021,11,11,11,85.3,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 12:00 PM,2021,11,11,12,87.8,168,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 01:00 PM,2021,11,11,13,94.5,171,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 02:00 PM,2021,11,11,14,103.2,176,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 03:00 PM,2021,11,11,15,106.8,177,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 04:00 PM,2021,11,11,16,112.6,180,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 05:00 PM,2021,11,11,17,118.9,184,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 06:00 PM,2021,11,11,18,160.2,211,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 07:00 PM,2021,11,11,19,184.1,234,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 08:00 PM,2021,11,11,20,204.5,255,Very Unhealthy,225.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 09:00 PM,2021,11,11,21,196.8,247,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 10:00 PM,2021,11,11,22,215.4,265,Very Unhealthy,234.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-11 11:00 PM,2021,11,11,23,205.7,256,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 12:00 AM,2021,11,12,00,188.8,239,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 01:00 AM,2021,11,12,01,185.9,236,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 02:00 AM,2021,11,12,02,164.9,215,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 03:00 AM,2021,11,12,03,141.8,196,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 04:00 AM,2021,11,12,04,114.2,181,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 05:00 AM,2021,11,12,05,87.6,168,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 06:00 AM,2021,11,12,06,69.2,158,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 07:00 AM,2021,11,12,07,51.1,139,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 08:00 AM,2021,11,12,08,38.5,108,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 09:00 AM,2021,11,12,09,29.7,88,Moderate,21.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 10:00 AM,2021,11,12,10,28.8,86,Moderate,28.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 11:00 AM,2021,11,12,11,39.4,111,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 12:00 PM,2021,11,12,12,48.6,133,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 01:00 PM,2021,11,12,13,61.8,154,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 02:00 PM,2021,11,12,14,74.9,161,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 03:00 PM,2021,11,12,15,86.9,167,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 04:00 PM,2021,11,12,16,89.9,169,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 05:00 PM,2021,11,12,17,95.4,172,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 06:00 PM,2021,11,12,18,98.2,173,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 07:00 PM,2021,11,12,19,101.6,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 08:00 PM,2021,11,12,20,106.8,177,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 09:00 PM,2021,11,12,21,106.9,178,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 10:00 PM,2021,11,12,22,98.4,173,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-12 11:00 PM,2021,11,12,23,95.4,172,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 12:00 AM,2021,11,13,00,93.5,171,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 01:00 AM,2021,11,13,01,93.3,171,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 02:00 AM,2021,11,13,02,84.7,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 03:00 AM,2021,11,13,03,64.9,156,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 04:00 AM,2021,11,13,04,53.9,146,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 05:00 AM,2021,11,13,05,49.9,136,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 06:00 AM,2021,11,13,06,47.4,130,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 07:00 AM,2021,11,13,07,45.2,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 08:00 AM,2021,11,13,08,44.6,123,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 09:00 AM,2021,11,13,09,46.2,127,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 10:00 AM,2021,11,13,10,48.1,132,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 11:00 AM,2021,11,13,11,53.0,144,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 12:00 PM,2021,11,13,12,61.0,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 01:00 PM,2021,11,13,13,75.5,161,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 02:00 PM,2021,11,13,14,90.2,169,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 03:00 PM,2021,11,13,15,99.6,174,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 04:00 PM,2021,11,13,16,102.3,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 05:00 PM,2021,11,13,17,110.1,179,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 06:00 PM,2021,11,13,18,119.0,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 07:00 PM,2021,11,13,19,129.0,189,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 08:00 PM,2021,11,13,20,144.0,197,Unhealthy,159.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 09:00 PM,2021,11,13,21,167.0,217,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 10:00 PM,2021,11,13,22,198.0,248,Very Unhealthy,229.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-13 11:00 PM,2021,11,13,23,195.5,246,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 12:00 AM,2021,11,14,00,189.7,240,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 01:00 AM,2021,11,14,01,181.4,232,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 02:00 AM,2021,11,14,02,173.7,224,Very Unhealthy,166.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 03:00 AM,2021,11,14,03,179.3,230,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 04:00 AM,2021,11,14,04,166.5,217,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 05:00 AM,2021,11,14,05,161.2,212,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 06:00 AM,2021,11,14,06,164.8,215,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 07:00 AM,2021,11,14,07,164.7,215,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 08:00 AM,2021,11,14,08,143.8,197,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 09:00 AM,2021,11,14,09,124.2,186,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 10:00 AM,2021,11,14,10,120.2,184,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 11:00 AM,2021,11,14,11,109.3,179,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 12:00 PM,2021,11,14,12,107.2,178,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 01:00 PM,2021,11,14,13,103.8,176,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 02:00 PM,2021,11,14,14,99.3,174,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 03:00 PM,2021,11,14,15,105.0,177,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 04:00 PM,2021,11,14,16,103.2,176,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 05:00 PM,2021,11,14,17,94.1,171,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 06:00 PM,2021,11,14,18,93.2,170,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 07:00 PM,2021,11,14,19,94.6,171,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 08:00 PM,2021,11,14,20,93.0,170,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 09:00 PM,2021,11,14,21,92.4,170,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 10:00 PM,2021,11,14,22,99.9,174,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-14 11:00 PM,2021,11,14,23,107.9,178,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 12:00 AM,2021,11,15,00,121.6,185,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 01:00 AM,2021,11,15,01,126.8,188,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 02:00 AM,2021,11,15,02,120.7,185,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 03:00 AM,2021,11,15,03,105.5,177,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 04:00 AM,2021,11,15,04,70.9,159,Unhealthy,40.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 05:00 AM,2021,11,15,05,52.9,144,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 06:00 AM,2021,11,15,06,42.4,118,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 07:00 AM,2021,11,15,07,39.2,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 08:00 AM,2021,11,15,08,38.1,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 09:00 AM,2021,11,15,09,37.0,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 10:00 AM,2021,11,15,10,39.5,111,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 11:00 AM,2021,11,15,11,39.2,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 12:00 PM,2021,11,15,12,45.6,126,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 01:00 PM,2021,11,15,13,47.2,130,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 02:00 PM,2021,11,15,14,50.1,137,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 03:00 PM,2021,11,15,15,51.5,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 04:00 PM,2021,11,15,16,46.7,129,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 05:00 PM,2021,11,15,17,51.2,140,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 06:00 PM,2021,11,15,18,56.2,151,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 07:00 PM,2021,11,15,19,59.7,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 08:00 PM,2021,11,15,20,71.8,159,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 09:00 PM,2021,11,15,21,57.9,152,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 10:00 PM,2021,11,15,22,42.9,119,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-15 11:00 PM,2021,11,15,23,34.9,99,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 12:00 AM,2021,11,16,00,31.4,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 01:00 AM,2021,11,16,01,29.7,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 02:00 AM,2021,11,16,02,30.8,90,Moderate,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 03:00 AM,2021,11,16,03,29.9,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 04:00 AM,2021,11,16,04,29.9,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 05:00 AM,2021,11,16,05,42.9,119,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 06:00 AM,2021,11,16,06,50.9,139,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 07:00 AM,2021,11,16,07,54.9,149,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 08:00 AM,2021,11,16,08,58.9,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 09:00 AM,2021,11,16,09,53.9,146,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 10:00 AM,2021,11,16,10,58.5,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 11:00 AM,2021,11,16,11,57.2,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 12:00 PM,2021,11,16,12,64.1,155,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 01:00 PM,2021,11,16,13,69.5,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 02:00 PM,2021,11,16,14,64.2,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 03:00 PM,2021,11,16,15,60.1,153,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 04:00 PM,2021,11,16,16,55.8,151,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 05:00 PM,2021,11,16,17,49.8,136,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 06:00 PM,2021,11,16,18,58.0,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 07:00 PM,2021,11,16,19,74.8,161,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 08:00 PM,2021,11,16,20,75.4,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 09:00 PM,2021,11,16,21,75.7,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 10:00 PM,2021,11,16,22,78.8,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-16 11:00 PM,2021,11,16,23,83.9,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 12:00 AM,2021,11,17,00,82.9,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 01:00 AM,2021,11,17,01,85.4,166,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 02:00 AM,2021,11,17,02,71.7,159,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 03:00 AM,2021,11,17,03,67.3,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 04:00 AM,2021,11,17,04,52.6,143,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 05:00 AM,2021,11,17,05,43.8,121,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 06:00 AM,2021,11,17,06,36.4,103,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 07:00 AM,2021,11,17,07,36.2,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 08:00 AM,2021,11,17,08,35.0,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 09:00 AM,2021,11,17,09,38.5,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 10:00 AM,2021,11,17,10,39.2,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 11:00 AM,2021,11,17,11,40.1,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 12:00 PM,2021,11,17,12,44.0,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 01:00 PM,2021,11,17,13,52.0,142,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 02:00 PM,2021,11,17,14,58.5,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 03:00 PM,2021,11,17,15,65.7,156,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 04:00 PM,2021,11,17,16,69.3,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 05:00 PM,2021,11,17,17,76.1,162,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 06:00 PM,2021,11,17,18,92.1,170,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 07:00 PM,2021,11,17,19,108.5,178,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 08:00 PM,2021,11,17,20,115.7,182,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 09:00 PM,2021,11,17,21,126.9,188,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 10:00 PM,2021,11,17,22,122.9,186,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-17 11:00 PM,2021,11,17,23,113.4,181,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 12:00 AM,2021,11,18,00,107.7,178,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 01:00 AM,2021,11,18,01,108.3,178,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 02:00 AM,2021,11,18,02,109.7,179,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 03:00 AM,2021,11,18,03,116.4,182,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 04:00 AM,2021,11,18,04,121.7,185,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 05:00 AM,2021,11,18,05,117.4,183,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 06:00 AM,2021,11,18,06,111.8,180,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 07:00 AM,2021,11,18,07,101.1,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 08:00 AM,2021,11,18,08,97.6,173,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 09:00 AM,2021,11,18,09,100.4,174,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 10:00 AM,2021,11,18,10,101.9,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 11:00 AM,2021,11,18,11,97.1,172,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 12:00 PM,2021,11,18,12,71.0,159,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 01:00 PM,2021,11,18,13,54.5,148,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 02:00 PM,2021,11,18,14,44.7,124,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 03:00 PM,2021,11,18,15,30.3,89,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 04:00 PM,2021,11,18,16,26.1,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 05:00 PM,2021,11,18,17,25.0,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 06:00 PM,2021,11,18,18,23.5,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 07:00 PM,2021,11,18,19,28.2,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 08:00 PM,2021,11,18,20,31.1,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 09:00 PM,2021,11,18,21,38.0,107,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 10:00 PM,2021,11,18,22,34.0,97,Moderate,30.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-18 11:00 PM,2021,11,18,23,35.0,99,Moderate,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 12:00 AM,2021,11,19,00,29.4,87,Moderate,24.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 01:00 AM,2021,11,19,01,36.7,104,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 02:00 AM,2021,11,19,02,46.3,128,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 03:00 AM,2021,11,19,03,42.1,117,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 04:00 AM,2021,11,19,04,41.0,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 05:00 AM,2021,11,19,05,42.0,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 06:00 AM,2021,11,19,06,50.0,137,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 07:00 AM,2021,11,19,07,44.0,122,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 08:00 AM,2021,11,19,08,33.5,96,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 09:00 AM,2021,11,19,09,30.2,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 10:00 AM,2021,11,19,10,30.6,90,Moderate,31.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 11:00 AM,2021,11,19,11,31.8,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 12:00 PM,2021,11,19,12,34.9,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 01:00 PM,2021,11,19,13,42.4,118,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 02:00 PM,2021,11,19,14,49.7,136,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 03:00 PM,2021,11,19,15,51.3,140,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 04:00 PM,2021,11,19,16,53.6,146,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 05:00 PM,2021,11,19,17,63.3,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 06:00 PM,2021,11,19,18,69.6,158,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 07:00 PM,2021,11,19,19,72.8,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 08:00 PM,2021,11,19,20,78.4,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 09:00 PM,2021,11,19,21,89.7,169,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 10:00 PM,2021,11,19,22,88.8,168,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-19 11:00 PM,2021,11,19,23,98.9,173,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 12:00 AM,2021,11,20,00,89.4,169,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 01:00 AM,2021,11,20,01,101.2,175,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 02:00 AM,2021,11,20,02,103.1,176,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 03:00 AM,2021,11,20,03,101.5,175,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 04:00 AM,2021,11,20,04,97.7,173,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 05:00 AM,2021,11,20,05,95.5,172,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 06:00 AM,2021,11,20,06,93.4,171,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 07:00 AM,2021,11,20,07,92.7,170,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 08:00 AM,2021,11,20,08,91.9,170,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 09:00 AM,2021,11,20,09,91.9,170,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 10:00 AM,2021,11,20,10,96.1,172,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 11:00 AM,2021,11,20,11,101.5,175,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 12:00 PM,2021,11,20,12,100.0,174,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 01:00 PM,2021,11,20,13,99.4,174,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 02:00 PM,2021,11,20,14,98.8,173,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 03:00 PM,2021,11,20,15,91.4,170,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 04:00 PM,2021,11,20,16,84.3,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 05:00 PM,2021,11,20,17,84.5,166,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 06:00 PM,2021,11,20,18,90.5,169,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 07:00 PM,2021,11,20,19,87.8,168,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 08:00 PM,2021,11,20,20,92.2,170,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 09:00 PM,2021,11,20,21,94.6,171,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 10:00 PM,2021,11,20,22,88.6,168,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-20 11:00 PM,2021,11,20,23,73.6,160,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 12:00 AM,2021,11,21,00,73.7,160,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 01:00 AM,2021,11,21,01,67.1,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 02:00 AM,2021,11,21,02,52.9,144,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 03:00 AM,2021,11,21,03,48.9,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 04:00 AM,2021,11,21,04,56.4,151,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 05:00 AM,2021,11,21,05,51.2,140,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 06:00 AM,2021,11,21,06,66.1,156,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 07:00 AM,2021,11,21,07,66.0,156,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 08:00 AM,2021,11,21,08,61.5,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 09:00 AM,2021,11,21,09,59.7,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 10:00 AM,2021,11,21,10,60.3,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 11:00 AM,2021,11,21,11,66.1,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 12:00 PM,2021,11,21,12,73.5,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 01:00 PM,2021,11,21,13,84.3,166,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 02:00 PM,2021,11,21,14,101.1,175,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 03:00 PM,2021,11,21,15,103.0,176,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 04:00 PM,2021,11,21,16,113.5,181,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 05:00 PM,2021,11,21,17,125.7,187,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 06:00 PM,2021,11,21,18,148.9,199,Unhealthy,172.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 07:00 PM,2021,11,21,19,196.4,246,Very Unhealthy,244.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 08:00 PM,2021,11,21,20,224.7,275,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 09:00 PM,2021,11,21,21,231.4,281,Very Unhealthy,238.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 10:00 PM,2021,11,21,22,247.7,297,Very Unhealthy,264.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-21 11:00 PM,2021,11,21,23,221.8,272,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 12:00 AM,2021,11,22,00,219.9,270,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 01:00 AM,2021,11,22,01,218.9,269,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 02:00 AM,2021,11,22,02,196.5,247,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 03:00 AM,2021,11,22,03,243.7,293,Very Unhealthy,291.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 04:00 AM,2021,11,22,04,218.8,269,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 05:00 AM,2021,11,22,05,224.9,275,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 06:00 AM,2021,11,22,06,237.1,287,Very Unhealthy,255.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 07:00 AM,2021,11,22,07,239.4,289,Very Unhealthy,243.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 08:00 AM,2021,11,22,08,238.0,288,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 09:00 AM,2021,11,22,09,224.3,274,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 10:00 AM,2021,11,22,10,216.1,266,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 11:00 AM,2021,11,22,11,216.1,266,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Sarajevo,PM2.5 - Principal,2021-11-22 12:00 PM,2021,11,22,12,197.4,247,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 01:00 PM,2021,11,22,13,172.6,223,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 02:00 PM,2021,11,22,14,173.8,224,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 03:00 PM,2021,11,22,15,185.5,236,Very Unhealthy,198.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 04:00 PM,2021,11,22,16,188.5,239,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 05:00 PM,2021,11,22,17,197.1,247,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 06:00 PM,2021,11,22,18,195.8,246,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 07:00 PM,2021,11,22,19,206.1,256,Very Unhealthy,226.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 08:00 PM,2021,11,22,20,209.7,260,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 09:00 PM,2021,11,22,21,211.7,262,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 10:00 PM,2021,11,22,22,210.8,261,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-22 11:00 PM,2021,11,22,23,208.7,259,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 12:00 AM,2021,11,23,00,137.1,193,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 01:00 AM,2021,11,23,01,80.0,164,Unhealthy,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 02:00 AM,2021,11,23,02,45.9,127,Unhealthy for Sensitive Groups,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 03:00 AM,2021,11,23,03,28.4,85,Moderate,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 04:00 AM,2021,11,23,04,18.7,65,Moderate,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 05:00 AM,2021,11,23,05,14.3,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 06:00 AM,2021,11,23,06,12.1,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 07:00 AM,2021,11,23,07,10.5,44,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 08:00 AM,2021,11,23,08,9.2,38,Good,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 09:00 AM,2021,11,23,09,10.0,42,Good,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 10:00 AM,2021,11,23,10,13.0,53,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 11:00 AM,2021,11,23,11,13.9,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 12:00 PM,2021,11,23,12,16.4,60,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 01:00 PM,2021,11,23,13,20.7,69,Moderate,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 02:00 PM,2021,11,23,14,23.8,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 03:00 PM,2021,11,23,15,25.9,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 04:00 PM,2021,11,23,16,33.9,97,Moderate,42.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 05:00 PM,2021,11,23,17,45.4,125,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 06:00 PM,2021,11,23,18,44.2,122,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 07:00 PM,2021,11,23,19,48.1,132,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 08:00 PM,2021,11,23,20,62.0,154,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 09:00 PM,2021,11,23,21,47.0,129,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 10:00 PM,2021,11,23,22,34.0,97,Moderate,21.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-23 11:00 PM,2021,11,23,23,28.5,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 12:00 AM,2021,11,24,00,27.2,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 01:00 AM,2021,11,24,01,26.6,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 02:00 AM,2021,11,24,02,17.8,63,Moderate,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 03:00 AM,2021,11,24,03,12.9,53,Moderate,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 04:00 AM,2021,11,24,04,12.9,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 05:00 AM,2021,11,24,05,13.9,55,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 06:00 AM,2021,11,24,06,12.9,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 07:00 AM,2021,11,24,07,14.4,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 08:00 AM,2021,11,24,08,13.7,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 09:00 AM,2021,11,24,09,14.3,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 10:00 AM,2021,11,24,10,16.1,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 11:00 AM,2021,11,24,11,16.0,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 12:00 PM,2021,11,24,12,15.0,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 01:00 PM,2021,11,24,13,16.0,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 02:00 PM,2021,11,24,14,14.0,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 03:00 PM,2021,11,24,15,15.3,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 04:00 PM,2021,11,24,16,15.9,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 05:00 PM,2021,11,24,17,17.0,61,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 06:00 PM,2021,11,24,18,19.5,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 07:00 PM,2021,11,24,19,19.7,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 08:00 PM,2021,11,24,20,19.8,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 09:00 PM,2021,11,24,21,19.9,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 10:00 PM,2021,11,24,22,21.9,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-24 11:00 PM,2021,11,24,23,27.4,83,Moderate,33.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 12:00 AM,2021,11,25,00,34.2,97,Moderate,41.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 01:00 AM,2021,11,25,01,46.6,128,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 02:00 AM,2021,11,25,02,44.3,123,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 03:00 AM,2021,11,25,03,48.6,133,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 04:00 AM,2021,11,25,04,44.3,123,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 05:00 AM,2021,11,25,05,53.6,146,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 06:00 AM,2021,11,25,06,55.8,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 07:00 AM,2021,11,25,07,54.9,149,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 08:00 AM,2021,11,25,08,53.9,146,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 09:00 AM,2021,11,25,09,54.4,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 10:00 AM,2021,11,25,10,53.2,145,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 11:00 AM,2021,11,25,11,57.8,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 12:00 PM,2021,11,25,12,58.7,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 01:00 PM,2021,11,25,13,61.6,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 02:00 PM,2021,11,25,14,68.3,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 03:00 PM,2021,11,25,15,74.4,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 04:00 PM,2021,11,25,16,77.0,162,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 05:00 PM,2021,11,25,17,86.0,167,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 06:00 PM,2021,11,25,18,110.6,179,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 07:00 PM,2021,11,25,19,141.3,195,Unhealthy,172.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 08:00 PM,2021,11,25,20,155.1,206,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 09:00 PM,2021,11,25,21,166.6,217,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 10:00 PM,2021,11,25,22,153.3,204,Very Unhealthy,140.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-25 11:00 PM,2021,11,25,23,81.1,164,Unhealthy,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 12:00 AM,2021,11,26,00,46.0,127,Unhealthy for Sensitive Groups,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 01:00 AM,2021,11,26,01,28.0,84,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 02:00 AM,2021,11,26,02,18.5,64,Moderate,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 03:00 AM,2021,11,26,03,14.2,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 04:00 AM,2021,11,26,04,12.6,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 05:00 AM,2021,11,26,05,9.7,40,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 06:00 AM,2021,11,26,06,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 07:00 AM,2021,11,26,07,10.6,44,Good,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 08:00 AM,2021,11,26,08,9.3,39,Good,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 09:00 AM,2021,11,26,09,10.1,42,Good,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 10:00 AM,2021,11,26,10,10.0,42,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 11:00 AM,2021,11,26,11,9.5,40,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 12:00 PM,2021,11,26,12,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 01:00 PM,2021,11,26,13,11.0,46,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 02:00 PM,2021,11,26,14,11.9,50,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 03:00 PM,2021,11,26,15,10.5,44,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 04:00 PM,2021,11,26,16,10.3,43,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 05:00 PM,2021,11,26,17,36.1,102,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 06:00 PM,2021,11,26,18,49.0,134,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 07:00 PM,2021,11,26,19,25.5,79,Moderate,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 08:00 PM,2021,11,26,20,14.2,55,Moderate,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 09:00 PM,2021,11,26,21,9.1,38,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 10:00 PM,2021,11,26,22,10.0,42,Good,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-26 11:00 PM,2021,11,26,23,9.5,40,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 12:00 AM,2021,11,27,00,7.2,30,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 01:00 AM,2021,11,27,01,6.6,28,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 02:00 AM,2021,11,27,02,7.3,30,Good,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 03:00 AM,2021,11,27,03,7.1,30,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 04:00 AM,2021,11,27,04,10.0,42,Good,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 05:00 AM,2021,11,27,05,10.0,42,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 06:00 AM,2021,11,27,06,9.0,38,Good,8.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 07:00 AM,2021,11,27,07,9.0,38,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 08:00 AM,2021,11,27,08,9.5,40,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 09:00 AM,2021,11,27,09,10.2,43,Good,11.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 10:00 AM,2021,11,27,10,16.1,59,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 11:00 AM,2021,11,27,11,15.0,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 12:00 PM,2021,11,27,12,15.0,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 01:00 PM,2021,11,27,13,12.5,52,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 02:00 PM,2021,11,27,14,9.7,40,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 03:00 PM,2021,11,27,15,7.3,30,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 04:00 PM,2021,11,27,16,5.6,23,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 05:00 PM,2021,11,27,17,4.3,18,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 06:00 PM,2021,11,27,18,3.1,13,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 07:00 PM,2021,11,27,19,2.5,10,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 08:00 PM,2021,11,27,20,2.7,11,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 09:00 PM,2021,11,27,21,4.3,18,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 10:00 PM,2021,11,27,22,5.6,23,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-27 11:00 PM,2021,11,27,23,4.8,20,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 12:00 AM,2021,11,28,00,3.4,14,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 01:00 AM,2021,11,28,01,4.2,18,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 02:00 AM,2021,11,28,02,5.1,21,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 03:00 AM,2021,11,28,03,4.5,19,Good,4.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 04:00 AM,2021,11,28,04,5.2,22,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 05:00 AM,2021,11,28,05,5.1,21,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 06:00 AM,2021,11,28,06,4.0,17,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 07:00 AM,2021,11,28,07,2.5,10,Good,1.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 08:00 AM,2021,11,28,08,3.7,15,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 09:00 AM,2021,11,28,09,4.3,18,Good,5.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 10:00 AM,2021,11,28,10,3.1,13,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 11:00 AM,2021,11,28,11,1.5,6,Good,0.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 12:00 PM,2021,11,28,12,0.2,1,Good,-1.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 01:00 PM,2021,11,28,13,1.6,7,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 02:00 PM,2021,11,28,14,2.3,10,Good,3.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 03:00 PM,2021,11,28,15,1.6,7,Good,1.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 04:00 PM,2021,11,28,16,1.8,8,Good,2.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 05:00 PM,2021,11,28,17,8.4,35,Good,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 06:00 PM,2021,11,28,18,12.2,51,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 07:00 PM,2021,11,28,19,9.1,38,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 08:00 PM,2021,11,28,20,9.5,40,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 09:00 PM,2021,11,28,21,13.7,54,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 10:00 PM,2021,11,28,22,20.8,69,Moderate,28.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-28 11:00 PM,2021,11,28,23,14.9,57,Moderate,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 12:00 AM,2021,11,29,00,10.9,45,Good,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 01:00 AM,2021,11,29,01,10.4,43,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 02:00 AM,2021,11,29,02,12.7,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 03:00 AM,2021,11,29,03,11.3,47,Good,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 04:00 AM,2021,11,29,04,11.6,48,Good,12.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 05:00 AM,2021,11,29,05,10.3,43,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 06:00 AM,2021,11,29,06,9.6,40,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 07:00 AM,2021,11,29,07,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 08:00 AM,2021,11,29,08,13.6,54,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 09:00 AM,2021,11,29,09,16.3,60,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 10:00 AM,2021,11,29,10,17.1,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 11:00 AM,2021,11,29,11,31.5,92,Moderate,46.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 12:00 PM,2021,11,29,12,36.2,103,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 01:00 PM,2021,11,29,13,52.6,143,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 02:00 PM,2021,11,29,14,37.8,107,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 03:00 PM,2021,11,29,15,36.9,104,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 04:00 PM,2021,11,29,16,29.4,87,Moderate,22.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 05:00 PM,2021,11,29,17,31.7,92,Moderate,34.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 06:00 PM,2021,11,29,18,34.8,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 07:00 PM,2021,11,29,19,29.9,88,Moderate,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 08:00 PM,2021,11,29,20,26.4,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 09:00 PM,2021,11,29,21,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 10:00 PM,2021,11,29,22,21.8,71,Moderate,17.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-29 11:00 PM,2021,11,29,23,19.9,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 12:00 AM,2021,11,30,00,18.9,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 01:00 AM,2021,11,30,01,18.4,64,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 02:00 AM,2021,11,30,02,18.7,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 03:00 AM,2021,11,30,03,14.3,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 04:00 AM,2021,11,30,04,14.1,55,Moderate,14.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 05:00 AM,2021,11,30,05,15.0,57,Moderate,16.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 06:00 AM,2021,11,30,06,14.0,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 07:00 AM,2021,11,30,07,16.0,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 08:00 AM,2021,11,30,08,17.5,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 09:00 AM,2021,11,30,09,21.2,70,Moderate,25.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 10:00 AM,2021,11,30,10,26.1,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 11:00 AM,2021,11,30,11,34.0,97,Moderate,42.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 12:00 PM,2021,11,30,12,43.5,121,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 01:00 PM,2021,11,30,13,41.7,116,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 02:00 PM,2021,11,30,14,38.3,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 03:00 PM,2021,11,30,15,28.6,86,Moderate,19.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 04:00 PM,2021,11,30,16,17.8,63,Moderate,7.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 05:00 PM,2021,11,30,17,11.9,50,Good,6.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 06:00 PM,2021,11,30,18,21.9,72,Moderate,32.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 07:00 PM,2021,11,30,19,36.9,104,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 08:00 PM,2021,11,30,20,50.4,138,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 09:00 PM,2021,11,30,21,61.7,154,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 10:00 PM,2021,11,30,22,63.8,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-11-30 11:00 PM,2021,11,30,23,70.4,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Sarajevo,PM2.5 - Principal,2021-12-01 12:00 AM,2021,12,01,00,74.2,161,Unhealthy,78.0,UG/M3,1 Hr,Valid

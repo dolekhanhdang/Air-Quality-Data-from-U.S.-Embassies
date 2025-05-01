@@ -1,0 +1,506 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Kabul,PM2.5 - Principal,2021-01-01 05:00 AM,2021,01,01,05,-999.0,-999,N/A,396.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 06:00 AM,2021,01,01,06,308.0,358,Hazardous,254.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 07:00 AM,2021,01,01,07,249.8,299,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 08:00 AM,2021,01,01,08,197.1,247,Very Unhealthy,151.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 09:00 AM,2021,01,01,09,210.9,261,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 10:00 AM,2021,01,01,10,282.0,332,Hazardous,351.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 11:00 AM,2021,01,01,11,265.9,316,Hazardous,250.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 12:00 PM,2021,01,01,12,180.1,230,Very Unhealthy,95.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 01:00 PM,2021,01,01,13,135.4,192,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 02:00 PM,2021,01,01,14,98.2,173,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 03:00 PM,2021,01,01,15,86.5,167,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 04:00 PM,2021,01,01,16,68.2,158,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 05:00 PM,2021,01,01,17,89.6,169,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 06:00 PM,2021,01,01,18,178.8,229,Very Unhealthy,268.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 07:00 PM,2021,01,01,19,251.9,302,Hazardous,325.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 08:00 PM,2021,01,01,20,288.4,339,Hazardous,325.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-01 09:00 PM,2021,01,01,21,288.4,339,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-02 04:00 AM,2021,01,02,04,-999.0,-999,N/A,429.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 05:00 AM,2021,01,02,05,365.2,411,Hazardous,327.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 06:00 AM,2021,01,02,06,322.1,372,Hazardous,275.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 07:00 AM,2021,01,02,07,261.1,312,Hazardous,216.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 08:00 AM,2021,01,02,08,256.4,307,Hazardous,252.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 09:00 AM,2021,01,02,09,201.2,251,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 10:00 AM,2021,01,02,10,174.4,225,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 11:00 AM,2021,01,02,11,240.9,291,Very Unhealthy,307.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 12:00 PM,2021,01,02,12,241.4,291,Very Unhealthy,242.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 01:00 PM,2021,01,02,13,191.6,242,Very Unhealthy,142.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 02:00 PM,2021,01,02,14,161.3,212,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 03:00 PM,2021,01,02,15,83.1,165,Unhealthy,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 04:00 PM,2021,01,02,16,43.5,121,Unhealthy for Sensitive Groups,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 05:00 PM,2021,01,02,17,23.2,74,Moderate,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 06:00 PM,2021,01,02,18,14.5,56,Moderate,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 07:00 PM,2021,01,02,19,9.7,40,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 08:00 PM,2021,01,02,20,5.8,24,Good,2.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 09:00 PM,2021,01,02,21,5.4,23,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 10:00 PM,2021,01,02,22,5.6,23,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-02 11:00 PM,2021,01,02,23,4.8,20,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 12:00 AM,2021,01,03,00,4.3,18,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 01:00 AM,2021,01,03,01,5.1,21,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 02:00 AM,2021,01,03,02,5.0,21,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 03:00 AM,2021,01,03,03,3.0,13,Good,1.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 04:00 AM,2021,01,03,04,3.5,15,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 05:00 AM,2021,01,03,05,4.7,20,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 06:00 AM,2021,01,03,06,4.8,20,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 07:00 AM,2021,01,03,07,5.4,23,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 08:00 AM,2021,01,03,08,4.7,20,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 09:00 AM,2021,01,03,09,4.3,18,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 10:00 AM,2021,01,03,10,3.6,15,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 11:00 AM,2021,01,03,11,2.8,12,Good,2.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 12:00 PM,2021,01,03,12,2.4,10,Good,2.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 01:00 PM,2021,01,03,13,2.7,11,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 02:00 PM,2021,01,03,14,2.8,12,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 03:00 PM,2021,01,03,15,3.4,14,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 04:00 PM,2021,01,03,16,3.7,15,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 05:00 PM,2021,01,03,17,4.3,18,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 06:00 PM,2021,01,03,18,4.6,19,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 07:00 PM,2021,01,03,19,4.8,20,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 08:00 PM,2021,01,03,20,3.9,16,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 09:00 PM,2021,01,03,21,3.4,14,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 10:00 PM,2021,01,03,22,3.7,15,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-03 11:00 PM,2021,01,03,23,2.3,10,Good,1.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 12:00 AM,2021,01,04,00,2.1,9,Good,2.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 01:00 AM,2021,01,04,01,4.5,19,Good,7.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 02:00 AM,2021,01,04,02,4.7,20,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 03:00 AM,2021,01,04,03,4.8,20,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 04:00 AM,2021,01,04,04,5.9,25,Good,7.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 05:00 AM,2021,01,04,05,5.9,25,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 06:00 AM,2021,01,04,06,4.4,18,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 07:00 AM,2021,01,04,07,4.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 08:00 AM,2021,01,04,08,4.1,17,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 09:00 AM,2021,01,04,09,3.0,13,Good,2.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 10:00 AM,2021,01,04,10,4.0,17,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 11:00 AM,2021,01,04,11,4.0,17,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 12:00 PM,2021,01,04,12,4.0,17,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 01:00 PM,2021,01,04,13,4.0,17,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 02:00 PM,2021,01,04,14,3.5,15,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 03:00 PM,2021,01,04,15,4.2,18,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 04:00 PM,2021,01,04,16,5.6,23,Good,7.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 05:00 PM,2021,01,04,17,5.8,24,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 06:00 PM,2021,01,04,18,4.9,20,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 07:00 PM,2021,01,04,19,4.4,18,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 08:00 PM,2021,01,04,20,4.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 09:00 PM,2021,01,04,21,4.6,19,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 10:00 PM,2021,01,04,22,3.8,16,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-04 11:00 PM,2021,01,04,23,3.4,14,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 12:00 AM,2021,01,05,00,3.7,15,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 01:00 AM,2021,01,05,01,3.8,16,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 02:00 AM,2021,01,05,02,4.4,18,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 03:00 AM,2021,01,05,03,4.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 04:00 AM,2021,01,05,04,3.6,15,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 05:00 AM,2021,01,05,05,4.2,18,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 06:00 AM,2021,01,05,06,5.1,21,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 07:00 AM,2021,01,05,07,4.5,19,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 08:00 AM,2021,01,05,08,4.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 09:00 AM,2021,01,05,09,4.6,19,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 10:00 AM,2021,01,05,10,4.8,20,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 11:00 AM,2021,01,05,11,5.4,23,Good,6.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 12:00 PM,2021,01,05,12,5.2,22,Good,5.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 01:00 PM,2021,01,05,13,4.1,17,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 02:00 PM,2021,01,05,14,3.5,15,Good,3.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 03:00 PM,2021,01,05,15,35.2,100,Moderate,67.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 04:00 PM,2021,01,05,16,49.1,134,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 05:00 PM,2021,01,05,17,56.5,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 06:00 PM,2021,01,05,18,102.3,175,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 07:00 PM,2021,01,05,19,221.1,271,Very Unhealthy,340.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 08:00 PM,2021,01,05,20,314.6,365,Hazardous,408.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 09:00 PM,2021,01,05,21,377.8,419,Hazardous,441.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 10:00 PM,2021,01,05,22,409.4,440,Hazardous,441.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-05 11:00 PM,2021,01,05,23,481.8,488,Hazardous,554.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 12:00 AM,2021,01,06,00,370.4,414,Hazardous,259.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 01:00 AM,2021,01,06,01,308.2,358,Hazardous,246.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 02:00 AM,2021,01,06,02,344.1,394,Hazardous,380.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 03:00 AM,2021,01,06,03,259.5,310,Hazardous,175.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 04:00 AM,2021,01,06,04,221.3,271,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 05:00 AM,2021,01,06,05,153.1,204,Very Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 06:00 AM,2021,01,06,06,93.5,171,Unhealthy,34.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 07:00 AM,2021,01,06,07,84.2,166,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 08:00 AM,2021,01,06,08,64.5,156,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 09:00 AM,2021,01,06,09,119.2,184,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 10:00 AM,2021,01,06,10,77.0,162,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 11:00 AM,2021,01,06,11,49.9,136,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 12:00 PM,2021,01,06,12,35.9,102,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 01:00 PM,2021,01,06,13,29.9,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 02:00 PM,2021,01,06,14,29.4,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 03:00 PM,2021,01,06,15,32.1,93,Moderate,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 04:00 PM,2021,01,06,16,40.5,113,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 05:00 PM,2021,01,06,17,67.2,157,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 06:00 PM,2021,01,06,18,125.6,187,Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 07:00 PM,2021,01,06,19,213.8,264,Very Unhealthy,302.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 08:00 PM,2021,01,06,20,309.9,360,Hazardous,406.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 09:00 PM,2021,01,06,21,358.0,406,Hazardous,406.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-06 10:00 PM,2021,01,06,22,358.0,406,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-07 04:00 AM,2021,01,07,04,-999.0,-999,N/A,543.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 05:00 AM,2021,01,07,05,440.6,461,Hazardous,390.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 06:00 AM,2021,01,07,06,413.1,442,Hazardous,386.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 07:00 AM,2021,01,07,07,424.9,450,Hazardous,429.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 08:00 AM,2021,01,07,08,424.7,450,Hazardous,424.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 09:00 AM,2021,01,07,09,325.5,375,Hazardous,232.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 10:00 AM,2021,01,07,10,198.2,248,Very Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 11:00 AM,2021,01,07,11,142.4,196,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 12:00 PM,2021,01,07,12,114.1,181,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 01:00 PM,2021,01,07,13,122.0,185,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 02:00 PM,2021,01,07,14,122.0,185,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 03:00 PM,2021,01,07,15,112.5,180,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 04:00 PM,2021,01,07,16,114.2,181,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 05:00 PM,2021,01,07,17,110.0,179,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 06:00 PM,2021,01,07,18,104.4,176,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 07:00 PM,2021,01,07,19,162.2,213,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 08:00 PM,2021,01,07,20,208.0,258,Very Unhealthy,254.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 09:00 PM,2021,01,07,21,268.5,319,Hazardous,329.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 10:00 PM,2021,01,07,22,148.2,199,Unhealthy,28.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-07 11:00 PM,2021,01,07,23,85.1,166,Unhealthy,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 12:00 AM,2021,01,08,00,60.0,153,Unhealthy,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 01:00 AM,2021,01,08,01,42.5,118,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 02:00 AM,2021,01,08,02,28.2,85,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 03:00 AM,2021,01,08,03,23.1,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 04:00 AM,2021,01,08,04,22.0,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 05:00 AM,2021,01,08,05,23.0,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 06:00 AM,2021,01,08,06,25.9,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 07:00 AM,2021,01,08,07,34.4,98,Moderate,43.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 08:00 AM,2021,01,08,08,58.2,152,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 09:00 AM,2021,01,08,09,102.0,175,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 10:00 AM,2021,01,08,10,111.0,180,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 11:00 AM,2021,01,08,11,71.0,159,Unhealthy,31.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 12:00 PM,2021,01,08,12,46.5,128,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 01:00 PM,2021,01,08,13,34.7,99,Moderate,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 02:00 PM,2021,01,08,14,26.8,82,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 03:00 PM,2021,01,08,15,23.9,76,Moderate,21.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 04:00 PM,2021,01,08,16,23.9,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 05:00 PM,2021,01,08,17,26.4,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 06:00 PM,2021,01,08,18,63.7,155,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 07:00 PM,2021,01,08,19,129.8,189,Unhealthy,196.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 08:00 PM,2021,01,08,20,208.4,258,Very Unhealthy,287.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 09:00 PM,2021,01,08,21,214.7,265,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 10:00 PM,2021,01,08,22,257.8,308,Hazardous,301.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-08 11:00 PM,2021,01,08,23,331.9,382,Hazardous,406.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 12:00 AM,2021,01,09,00,326.5,376,Hazardous,321.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 01:00 AM,2021,01,09,01,320.3,370,Hazardous,314.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 02:00 AM,2021,01,09,02,273.1,323,Hazardous,226.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 03:00 AM,2021,01,09,03,180.0,230,Very Unhealthy,87.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 04:00 AM,2021,01,09,04,139.5,194,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 05:00 AM,2021,01,09,05,105.7,177,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 06:00 AM,2021,01,09,06,83.8,166,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 07:00 AM,2021,01,09,07,76.4,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 08:00 AM,2021,01,09,08,60.6,154,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 09:00 AM,2021,01,09,09,73.3,160,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 10:00 AM,2021,01,09,10,61.6,154,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 11:00 AM,2021,01,09,11,83.2,165,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 12:00 PM,2021,01,09,12,75.6,161,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 01:00 PM,2021,01,09,13,58.7,153,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 02:00 PM,2021,01,09,14,41.3,115,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 03:00 PM,2021,01,09,15,29.6,88,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 04:00 PM,2021,01,09,16,25.8,80,Moderate,22.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 05:00 PM,2021,01,09,17,26.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 06:00 PM,2021,01,09,18,50.2,137,Unhealthy for Sensitive Groups,74.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 07:00 PM,2021,01,09,19,114.6,182,Unhealthy,179.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 08:00 PM,2021,01,09,20,214.8,265,Very Unhealthy,315.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 09:00 PM,2021,01,09,21,264.9,315,Hazardous,315.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-09 10:00 PM,2021,01,09,22,265.0,315,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-10 01:00 AM,2021,01,10,01,-999.0,-999,N/A,257.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 02:00 AM,2021,01,10,02,163.9,214,Very Unhealthy,111.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 03:00 AM,2021,01,10,03,147.1,198,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 04:00 AM,2021,01,10,04,170.3,221,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 05:00 AM,2021,01,10,05,135.2,192,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 06:00 AM,2021,01,10,06,111.7,180,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 07:00 AM,2021,01,10,07,89.7,169,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 08:00 AM,2021,01,10,08,109.4,179,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 09:00 AM,2021,01,10,09,103.6,176,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 10:00 AM,2021,01,10,10,103.8,176,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 11:00 AM,2021,01,10,11,80.4,164,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 12:00 PM,2021,01,10,12,66.6,157,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 01:00 PM,2021,01,10,13,48.3,133,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 02:00 PM,2021,01,10,14,41.6,116,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 03:00 PM,2021,01,10,15,42.8,119,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 04:00 PM,2021,01,10,16,43.8,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 05:00 PM,2021,01,10,17,71.9,159,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 06:00 PM,2021,01,10,18,111.4,180,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 07:00 PM,2021,01,10,19,167.7,218,Very Unhealthy,224.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 08:00 PM,2021,01,10,20,237.9,288,Very Unhealthy,308.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 09:00 PM,2021,01,10,21,272.9,323,Hazardous,308.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-10 10:00 PM,2021,01,10,22,273.0,323,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-11 02:00 AM,2021,01,11,02,-999.0,-999,N/A,461.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 03:00 AM,2021,01,11,03,457.2,471,Hazardous,461.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 04:00 AM,2021,01,11,04,452.0,468,Hazardous,448.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 05:00 AM,2021,01,11,05,388.3,426,Hazardous,332.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 06:00 AM,2021,01,11,06,290.3,340,Hazardous,198.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 07:00 AM,2021,01,11,07,226.2,276,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 08:00 AM,2021,01,11,08,216.0,266,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 09:00 AM,2021,01,11,09,216.4,266,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 10:00 AM,2021,01,11,10,138.0,194,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 11:00 AM,2021,01,11,11,152.5,203,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 12:00 PM,2021,01,11,12,95.7,172,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 01:00 PM,2021,01,11,13,77.3,162,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 02:00 PM,2021,01,11,14,66.6,157,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 03:00 PM,2021,01,11,15,78.7,163,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 04:00 PM,2021,01,11,16,95.3,172,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 05:00 PM,2021,01,11,17,132.6,191,Unhealthy,170.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 06:00 PM,2021,01,11,18,215.8,266,Very Unhealthy,299.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 07:00 PM,2021,01,11,19,257.4,308,Hazardous,299.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-11 08:00 PM,2021,01,11,20,257.4,308,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-12 04:00 AM,2021,01,12,04,-999.0,-999,N/A,451.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 05:00 AM,2021,01,12,05,355.0,404,Hazardous,293.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 06:00 AM,2021,01,12,06,259.4,310,Hazardous,194.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 07:00 AM,2021,01,12,07,212.9,263,Very Unhealthy,172.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 08:00 AM,2021,01,12,08,166.9,217,Very Unhealthy,123.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 09:00 AM,2021,01,12,09,160.5,211,Very Unhealthy,154.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 10:00 AM,2021,01,12,10,208.4,258,Very Unhealthy,255.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 11:00 AM,2021,01,12,11,193.5,244,Very Unhealthy,178.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 12:00 PM,2021,01,12,12,153.4,204,Very Unhealthy,113.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 01:00 PM,2021,01,12,13,104.6,176,Unhealthy,55.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 02:00 PM,2021,01,12,14,63.7,155,Unhealthy,22.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 03:00 PM,2021,01,12,15,41.7,116,Unhealthy for Sensitive Groups,19.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 04:00 PM,2021,01,12,16,27.8,84,Moderate,14.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 05:00 PM,2021,01,12,17,21.5,71,Moderate,15.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 06:00 PM,2021,01,12,18,26.7,82,Moderate,31.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 07:00 PM,2021,01,12,19,91.4,170,Unhealthy,156.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 08:00 PM,2021,01,12,20,185.7,236,Very Unhealthy,280.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 09:00 PM,2021,01,12,21,272.4,323,Hazardous,359.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-12 10:00 PM,2021,01,12,22,272.4,323,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-13 02:00 AM,2021,01,13,02,-999.0,-999,N/A,352.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 03:00 AM,2021,01,13,03,278.0,328,Hazardous,240.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 04:00 AM,2021,01,13,04,151.3,202,Very Unhealthy,54.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 05:00 AM,2021,01,13,05,90.7,169,Unhealthy,37.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 06:00 AM,2021,01,13,06,80.3,164,Unhealthy,70.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 07:00 AM,2021,01,13,07,69.2,158,Unhealthy,58.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 08:00 AM,2021,01,13,08,58.1,152,Unhealthy,47.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 09:00 AM,2021,01,13,09,79.4,163,Unhealthy,100.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 10:00 AM,2021,01,13,10,160.8,211,Very Unhealthy,241.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 11:00 AM,2021,01,13,11,199.7,250,Very Unhealthy,238.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 12:00 PM,2021,01,13,12,169.5,220,Very Unhealthy,139.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 01:00 PM,2021,01,13,13,116.6,183,Unhealthy,63.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 02:00 PM,2021,01,13,14,70.3,159,Unhealthy,24.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 03:00 PM,2021,01,13,15,48.8,134,Unhealthy for Sensitive Groups,27.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 04:00 PM,2021,01,13,16,31.0,91,Moderate,13.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 05:00 PM,2021,01,13,17,26.7,82,Moderate,22.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 06:00 PM,2021,01,13,18,48.7,134,Unhealthy for Sensitive Groups,70.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 07:00 PM,2021,01,13,19,130.2,190,Unhealthy,211.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 08:00 PM,2021,01,13,20,202.9,253,Very Unhealthy,275.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 09:00 PM,2021,01,13,21,218.9,269,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-13 10:00 PM,2021,01,13,22,218.9,269,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-14 03:00 AM,2021,01,14,03,-999.0,-999,N/A,327.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 04:00 AM,2021,01,14,04,250.8,301,Hazardous,213.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 05:00 AM,2021,01,14,05,187.9,238,Very Unhealthy,140.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 06:00 AM,2021,01,14,06,133.3,191,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 07:00 AM,2021,01,14,07,115.8,182,Unhealthy,99.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 08:00 AM,2021,01,14,08,112.8,181,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 09:00 AM,2021,01,14,09,111.3,180,Unhealthy,109.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 10:00 AM,2021,01,14,10,94.6,171,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 11:00 AM,2021,01,14,11,94.6,171,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-14 12:00 PM,2021,01,14,12,199.8,250,Very Unhealthy,252.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 01:00 PM,2021,01,14,13,148.3,199,Unhealthy,109.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 02:00 PM,2021,01,14,14,90.8,169,Unhealthy,40.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 03:00 PM,2021,01,14,15,75.3,161,Unhealthy,60.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 04:00 PM,2021,01,14,16,65.6,156,Unhealthy,56.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 05:00 PM,2021,01,14,17,67.0,157,Unhealthy,68.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 06:00 PM,2021,01,14,18,75.7,161,Unhealthy,84.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 07:00 PM,2021,01,14,19,133.0,191,Unhealthy,190.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 08:00 PM,2021,01,14,20,223.6,273,Very Unhealthy,314.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-14 09:00 PM,2021,01,14,21,223.6,273,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-15 05:00 AM,2021,01,15,05,-999.0,-999,N/A,231.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 06:00 AM,2021,01,15,06,216.1,266,Very Unhealthy,206.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 07:00 AM,2021,01,15,07,164.8,215,Very Unhealthy,127.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 08:00 AM,2021,01,15,08,104.6,176,Unhealthy,51.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 09:00 AM,2021,01,15,09,141.9,196,Unhealthy,176.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 10:00 AM,2021,01,15,10,248.5,298,Very Unhealthy,351.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 11:00 AM,2021,01,15,11,264.5,315,Hazardous,280.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 12:00 PM,2021,01,15,12,218.4,268,Very Unhealthy,172.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 01:00 PM,2021,01,15,13,174.3,225,Very Unhealthy,130.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 02:00 PM,2021,01,15,14,145.4,197,Unhealthy,116.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 03:00 PM,2021,01,15,15,124.8,187,Unhealthy,104.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 04:00 PM,2021,01,15,16,88.0,168,Unhealthy,51.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 05:00 PM,2021,01,15,17,76.0,162,Unhealthy,64.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 06:00 PM,2021,01,15,18,103.4,176,Unhealthy,130.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 07:00 PM,2021,01,15,19,159.5,210,Very Unhealthy,215.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 08:00 PM,2021,01,15,20,212.8,263,Very Unhealthy,266.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 09:00 PM,2021,01,15,21,285.9,336,Hazardous,359.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-15 10:00 PM,2021,01,15,22,285.9,336,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-16 06:00 AM,2021,01,16,06,-999.0,-999,N/A,449.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-16 07:00 AM,2021,01,16,07,358.8,406,Hazardous,305.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-16 08:00 AM,2021,01,16,08,287.3,337,Hazardous,233.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-16 09:00 AM,2021,01,16,09,256.8,307,Hazardous,230.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-16 10:00 AM,2021,01,16,10,256.8,307,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-22 09:00 PM,2021,01,22,21,-999.0,-999,N/A,47.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-22 10:00 PM,2021,01,22,22,44.1,122,Unhealthy for Sensitive Groups,40.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-22 11:00 PM,2021,01,22,23,35.8,102,Unhealthy for Sensitive Groups,28.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 12:00 AM,2021,01,23,00,50.9,139,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 01:00 AM,2021,01,23,01,63.9,155,Unhealthy,76.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 02:00 AM,2021,01,23,02,76.9,162,Unhealthy,89.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 03:00 AM,2021,01,23,03,64.4,156,Unhealthy,52.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 04:00 AM,2021,01,23,04,64.3,156,Unhealthy,64.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 05:00 AM,2021,01,23,05,69.6,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 06:00 AM,2021,01,23,06,75.8,161,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 07:00 AM,2021,01,23,07,80.2,164,Unhealthy,84.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 08:00 AM,2021,01,23,08,64.4,156,Unhealthy,48.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 09:00 AM,2021,01,23,09,94.2,171,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 10:00 AM,2021,01,23,10,171.2,222,Very Unhealthy,248.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 11:00 AM,2021,01,23,11,166.8,217,Very Unhealthy,162.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 12:00 PM,2021,01,23,12,131.7,190,Unhealthy,96.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 01:00 PM,2021,01,23,13,91.8,170,Unhealthy,51.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 02:00 PM,2021,01,23,14,67.7,157,Unhealthy,43.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 03:00 PM,2021,01,23,15,41.8,117,Unhealthy for Sensitive Groups,15.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 04:00 PM,2021,01,23,16,23.5,75,Moderate,5.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 05:00 PM,2021,01,23,17,17.8,63,Moderate,12.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 06:00 PM,2021,01,23,18,16.9,61,Moderate,16.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 07:00 PM,2021,01,23,19,18.9,65,Moderate,20.9,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 08:00 PM,2021,01,23,20,36.8,104,Unhealthy for Sensitive Groups,54.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 09:00 PM,2021,01,23,21,62.3,155,Unhealthy,87.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 10:00 PM,2021,01,23,22,109.1,179,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-23 11:00 PM,2021,01,23,23,109.1,179,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-24 01:00 AM,2021,01,24,01,-999.0,-999,N/A,387.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 02:00 AM,2021,01,24,02,244.1,294,Very Unhealthy,189.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 03:00 AM,2021,01,24,03,257.6,308,Hazardous,268.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 04:00 AM,2021,01,24,04,196.9,247,Very Unhealthy,141.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 05:00 AM,2021,01,24,05,146.4,198,Unhealthy,98.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 06:00 AM,2021,01,24,06,110.4,179,Unhealthy,75.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 07:00 AM,2021,01,24,07,96.2,172,Unhealthy,82.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 08:00 AM,2021,01,24,08,92.8,170,Unhealthy,89.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 09:00 AM,2021,01,24,09,82.0,165,Unhealthy,71.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 10:00 AM,2021,01,24,10,121.1,185,Unhealthy,160.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 11:00 AM,2021,01,24,11,178.3,229,Very Unhealthy,235.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 12:00 PM,2021,01,24,12,160.2,211,Very Unhealthy,142.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 01:00 PM,2021,01,24,13,98.3,173,Unhealthy,36.5,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 02:00 PM,2021,01,24,14,58.6,153,Unhealthy,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 03:00 PM,2021,01,24,15,38.6,109,Unhealthy for Sensitive Groups,18.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 04:00 PM,2021,01,24,16,24.8,78,Moderate,11.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 05:00 PM,2021,01,24,17,20.1,68,Moderate,15.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 06:00 PM,2021,01,24,18,27.7,84,Moderate,35.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 07:00 PM,2021,01,24,19,75.5,161,Unhealthy,123.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 08:00 PM,2021,01,24,20,141.9,196,Unhealthy,208.3,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 09:00 PM,2021,01,24,21,236.5,286,Very Unhealthy,331.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-24 10:00 PM,2021,01,24,22,236.5,286,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-25 07:00 AM,2021,01,25,07,-999.0,-999,N/A,387.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 08:00 AM,2021,01,25,08,236.4,286,Very Unhealthy,160.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 09:00 AM,2021,01,25,09,229.5,279,Very Unhealthy,224.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 10:00 AM,2021,01,25,10,215.1,265,Very Unhealthy,202.4,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 11:00 AM,2021,01,25,11,160.8,211,Very Unhealthy,110.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 12:00 PM,2021,01,25,12,133.9,191,Unhealthy,107.8,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 01:00 PM,2021,01,25,13,82.2,165,Unhealthy,31.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 02:00 PM,2021,01,25,14,61.4,154,Unhealthy,40.7,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 03:00 PM,2021,01,25,15,46.7,129,Unhealthy for Sensitive Groups,32.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 04:00 PM,2021,01,25,16,43.4,120,Unhealthy for Sensitive Groups,40.1,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 05:00 PM,2021,01,25,17,44.7,124,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 06:00 PM,2021,01,25,18,47.6,131,Unhealthy for Sensitive Groups,50.6,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 07:00 PM,2021,01,25,19,78.8,163,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 08:00 PM,2021,01,25,20,114.5,181,Unhealthy,150.2,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 09:00 PM,2021,01,25,21,172.7,223,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-25 10:00 PM,2021,01,25,22,172.7,223,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-26 06:00 AM,2021,01,26,06,-999.0,-999,N/A,390.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 07:00 AM,2021,01,26,07,360.5,408,Hazardous,346.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 08:00 AM,2021,01,26,08,298.2,348,Hazardous,238.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 09:00 AM,2021,01,26,09,203.8,254,Very Unhealthy,128.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 10:00 AM,2021,01,26,10,167.8,218,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 11:00 AM,2021,01,26,11,135.9,193,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 12:00 PM,2021,01,26,12,87.0,167,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 01:00 PM,2021,01,26,13,54.9,149,Unhealthy for Sensitive Groups,23.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 02:00 PM,2021,01,26,14,36.9,104,Unhealthy for Sensitive Groups,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 03:00 PM,2021,01,26,15,28.4,85,Moderate,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 04:00 PM,2021,01,26,16,28.7,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 05:00 PM,2021,01,26,17,39.3,110,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 06:00 PM,2021,01,26,18,68.1,158,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 07:00 PM,2021,01,26,19,115.0,182,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 08:00 PM,2021,01,26,20,235.0,285,Very Unhealthy,355.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 09:00 PM,2021,01,26,21,295.0,345,Hazardous,355.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-26 10:00 PM,2021,01,26,22,295.0,345,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-27 05:00 AM,2021,01,27,05,-999.0,-999,N/A,378.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 06:00 AM,2021,01,27,06,246.8,296,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 07:00 AM,2021,01,27,07,157.3,208,Very Unhealthy,90.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 08:00 AM,2021,01,27,08,166.1,216,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 09:00 AM,2021,01,27,09,195.4,245,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 10:00 AM,2021,01,27,10,148.5,199,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 11:00 AM,2021,01,27,11,144.2,197,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 12:00 PM,2021,01,27,12,126.0,187,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 01:00 PM,2021,01,27,13,102.4,175,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 02:00 PM,2021,01,27,14,81.2,164,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 03:00 PM,2021,01,27,15,71.1,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 04:00 PM,2021,01,27,16,67.5,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 05:00 PM,2021,01,27,17,70.7,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 06:00 PM,2021,01,27,18,120.8,185,Unhealthy,171.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 07:00 PM,2021,01,27,19,166.4,217,Very Unhealthy,212.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 08:00 PM,2021,01,27,20,260.7,311,Hazardous,355.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 09:00 PM,2021,01,27,21,307.8,358,Hazardous,355.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-27 10:00 PM,2021,01,27,22,307.9,358,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-28 05:00 AM,2021,01,28,05,-999.0,-999,N/A,433.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 06:00 AM,2021,01,28,06,430.1,454,Hazardous,429.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 07:00 AM,2021,01,28,07,354.2,403,Hazardous,275.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 08:00 AM,2021,01,28,08,325.8,376,Hazardous,289.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 09:00 AM,2021,01,28,09,218.2,268,Very Unhealthy,129.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 10:00 AM,2021,01,28,10,174.9,225,Very Unhealthy,133.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 11:00 AM,2021,01,28,11,163.3,214,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 12:00 PM,2021,01,28,12,94.4,171,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 01:00 PM,2021,01,28,13,56.1,151,Unhealthy,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 02:00 PM,2021,01,28,14,34.0,97,Moderate,12.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 03:00 PM,2021,01,28,15,26.5,81,Moderate,19.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 04:00 PM,2021,01,28,16,29.2,87,Moderate,32.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 05:00 PM,2021,01,28,17,35.0,99,Moderate,41.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 06:00 PM,2021,01,28,18,57.4,152,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 07:00 PM,2021,01,28,19,112.7,181,Unhealthy,168.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 08:00 PM,2021,01,28,20,190.3,240,Very Unhealthy,268.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 09:00 PM,2021,01,28,21,229.1,279,Very Unhealthy,268.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-28 10:00 PM,2021,01,28,22,229.2,279,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-29 05:00 AM,2021,01,29,05,-999.0,-999,N/A,387.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 06:00 AM,2021,01,29,06,415.2,444,Hazardous,430.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 07:00 AM,2021,01,29,07,356.4,405,Hazardous,300.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 08:00 AM,2021,01,29,08,314.1,364,Hazardous,263.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 09:00 AM,2021,01,29,09,214.9,265,Very Unhealthy,132.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 10:00 AM,2021,01,29,10,174.3,225,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 11:00 AM,2021,01,29,11,136.8,193,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 12:00 PM,2021,01,29,12,91.2,169,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 01:00 PM,2021,01,29,13,55.5,151,Unhealthy,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 02:00 PM,2021,01,29,14,37.7,106,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 03:00 PM,2021,01,29,15,27.8,84,Moderate,18.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 04:00 PM,2021,01,29,16,28.4,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 05:00 PM,2021,01,29,17,36.6,104,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 06:00 PM,2021,01,29,18,60.7,154,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 07:00 PM,2021,01,29,19,123.8,186,Unhealthy,187.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 08:00 PM,2021,01,29,20,233.4,283,Very Unhealthy,343.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 09:00 PM,2021,01,29,21,288.2,338,Hazardous,343.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-29 10:00 PM,2021,01,29,22,288.2,338,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-30 02:00 AM,2021,01,30,02,-999.0,-999,N/A,392.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 03:00 AM,2021,01,30,03,381.5,421,Hazardous,379.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 04:00 AM,2021,01,30,04,380.7,421,Hazardous,380.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 05:00 AM,2021,01,30,05,411.7,441,Hazardous,439.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 06:00 AM,2021,01,30,06,387.1,425,Hazardous,364.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 07:00 AM,2021,01,30,07,332.6,382,Hazardous,258.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 08:00 AM,2021,01,30,08,338.2,388,Hazardous,346.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 09:00 AM,2021,01,30,09,262.1,312,Hazardous,191.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 10:00 AM,2021,01,30,10,208.4,258,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 11:00 AM,2021,01,30,11,198.2,248,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 12:00 PM,2021,01,30,12,135.5,192,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 01:00 PM,2021,01,30,13,80.7,164,Unhealthy,26.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 02:00 PM,2021,01,30,14,55.3,150,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 03:00 PM,2021,01,30,15,51.1,139,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 04:00 PM,2021,01,30,16,47.5,131,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 05:00 PM,2021,01,30,17,59.2,153,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 06:00 PM,2021,01,30,18,79.5,163,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 07:00 PM,2021,01,30,19,133.7,191,Unhealthy,188.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 08:00 PM,2021,01,30,20,236.3,286,Very Unhealthy,339.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 09:00 PM,2021,01,30,21,296.2,346,Hazardous,356.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 10:00 PM,2021,01,30,22,326.1,376,Hazardous,356.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-30 11:00 PM,2021,01,30,23,356.0,405,Hazardous,386.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 12:00 AM,2021,01,31,00,384.0,423,Hazardous,412.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 01:00 AM,2021,01,31,01,398.0,432,Hazardous,412.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 02:00 AM,2021,01,31,02,398.1,432,Hazardous,-999.0,UG/M3,1 Hr,Missing
+Kabul,PM2.5 - Principal,2021-01-31 04:00 AM,2021,01,31,04,-999.0,-999,N/A,291.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 05:00 AM,2021,01,31,05,235.9,286,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 06:00 AM,2021,01,31,06,207.2,257,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 07:00 AM,2021,01,31,07,200.3,250,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 08:00 AM,2021,01,31,08,220.1,270,Very Unhealthy,239.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 09:00 AM,2021,01,31,09,229.6,279,Very Unhealthy,239.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 10:00 AM,2021,01,31,10,292.1,342,Hazardous,354.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 11:00 AM,2021,01,31,11,296.5,347,Hazardous,301.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 12:00 PM,2021,01,31,12,200.1,250,Very Unhealthy,104.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 01:00 PM,2021,01,31,13,136.9,193,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 02:00 PM,2021,01,31,14,97.9,173,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 03:00 PM,2021,01,31,15,84.4,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 04:00 PM,2021,01,31,16,64.7,156,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 05:00 PM,2021,01,31,17,55.3,150,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 06:00 PM,2021,01,31,18,64.1,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 07:00 PM,2021,01,31,19,77.5,162,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 08:00 PM,2021,01,31,20,93.2,170,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 09:00 PM,2021,01,31,21,106.6,177,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 10:00 PM,2021,01,31,22,135.2,192,Unhealthy,164.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-01-31 11:00 PM,2021,01,31,23,171.6,222,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-02-01 12:00 AM,2021,02,01,00,201.8,252,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+Kabul,PM2.5 - Principal,2021-02-01 01:00 AM,2021,02,01,01,258.4,309,Hazardous,315.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Hanoi,PM2.5 - Principal,2017-12-01 01:00 AM,2017,12,01,01,110.4,179,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 02:00 AM,2017,12,01,02,140.0,195,Unhealthy,169.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 03:00 AM,2017,12,01,03,121.1,185,Unhealthy,102.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 04:00 AM,2017,12,01,04,86.6,167,Unhealthy,52.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 05:00 AM,2017,12,01,05,59.2,153,Unhealthy,31.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 06:00 AM,2017,12,01,06,71.3,159,Unhealthy,83.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 07:00 AM,2017,12,01,07,54.0,147,Unhealthy for Sensitive Groups,36.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 08:00 AM,2017,12,01,08,43.0,119,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 09:00 AM,2017,12,01,09,37.5,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 10:00 AM,2017,12,01,10,35.1,99,Moderate,32.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 11:00 AM,2017,12,01,11,30.5,90,Moderate,26.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 12:00 PM,2017,12,01,12,28.3,85,Moderate,26.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 01:00 PM,2017,12,01,13,30.2,89,Moderate,32.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 02:00 PM,2017,12,01,14,31.9,93,Moderate,33.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 03:00 PM,2017,12,01,15,29.9,88,Moderate,27.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 04:00 PM,2017,12,01,16,28.4,85,Moderate,26.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 05:00 PM,2017,12,01,17,26.8,82,Moderate,25.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 06:00 PM,2017,12,01,18,30.1,89,Moderate,35.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 07:00 PM,2017,12,01,19,32.0,93,Moderate,36.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 08:00 PM,2017,12,01,20,40.5,113,Unhealthy for Sensitive Groups,48.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 09:00 PM,2017,12,01,21,48.5,133,Unhealthy for Sensitive Groups,56.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 10:00 PM,2017,12,01,22,54.8,149,Unhealthy for Sensitive Groups,61.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-01 11:00 PM,2017,12,01,23,60.4,154,Unhealthy,65.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 12:00 AM,2017,12,02,00,62.6,155,Unhealthy,64.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 01:00 AM,2017,12,02,01,62.9,155,Unhealthy,63.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 02:00 AM,2017,12,02,02,65.6,156,Unhealthy,68.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 03:00 AM,2017,12,02,03,72.4,160,Unhealthy,79.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 04:00 AM,2017,12,02,04,65.2,156,Unhealthy,57.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 05:00 AM,2017,12,02,05,60.3,153,Unhealthy,55.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 06:00 AM,2017,12,02,06,49.6,136,Unhealthy for Sensitive Groups,38.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 07:00 AM,2017,12,02,07,42.7,119,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 08:00 AM,2017,12,02,08,38.9,109,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 09:00 AM,2017,12,02,09,38.5,108,Unhealthy for Sensitive Groups,38.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 10:00 AM,2017,12,02,10,40.8,114,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 11:00 AM,2017,12,02,11,43.8,121,Unhealthy for Sensitive Groups,46.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 12:00 PM,2017,12,02,12,42.9,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 01:00 PM,2017,12,02,13,42.5,118,Unhealthy for Sensitive Groups,42.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 02:00 PM,2017,12,02,14,44.7,124,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 03:00 PM,2017,12,02,15,45.4,125,Unhealthy for Sensitive Groups,47.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 04:00 PM,2017,12,02,16,51.3,140,Unhealthy for Sensitive Groups,59.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 05:00 PM,2017,12,02,17,63.5,155,Unhealthy,74.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 06:00 PM,2017,12,02,18,73.3,160,Unhealthy,83.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 07:00 PM,2017,12,02,19,81.3,164,Unhealthy,89.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 08:00 PM,2017,12,02,20,89.0,168,Unhealthy,96.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 09:00 PM,2017,12,02,21,90.7,169,Unhealthy,92.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 10:00 PM,2017,12,02,22,97.9,173,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-02 11:00 PM,2017,12,02,23,102.5,175,Unhealthy,107.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 12:00 AM,2017,12,03,00,106.9,178,Unhealthy,111.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 01:00 AM,2017,12,03,01,100.6,174,Unhealthy,94.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 02:00 AM,2017,12,03,02,103.0,176,Unhealthy,105.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 03:00 AM,2017,12,03,03,111.0,180,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 04:00 AM,2017,12,03,04,116.2,182,Unhealthy,125.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 05:00 AM,2017,12,03,05,203.6,254,Very Unhealthy,288.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 06:00 AM,2017,12,03,06,172.7,223,Very Unhealthy,141.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 07:00 AM,2017,12,03,07,154.4,205,Very Unhealthy,136.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 08:00 AM,2017,12,03,08,119.1,184,Unhealthy,83.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 09:00 AM,2017,12,03,09,97.9,173,Unhealthy,76.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 10:00 AM,2017,12,03,10,85.4,166,Unhealthy,72.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 11:00 AM,2017,12,03,11,91.5,170,Unhealthy,97.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 12:00 PM,2017,12,03,12,89.4,169,Unhealthy,87.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 01:00 PM,2017,12,03,13,80.8,164,Unhealthy,72.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 02:00 PM,2017,12,03,14,78.8,163,Unhealthy,76.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 03:00 PM,2017,12,03,15,75.8,161,Unhealthy,72.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 04:00 PM,2017,12,03,16,72.9,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 05:00 PM,2017,12,03,17,72.1,160,Unhealthy,71.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 06:00 PM,2017,12,03,18,76.6,162,Unhealthy,81.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 07:00 PM,2017,12,03,19,80.6,164,Unhealthy,91.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 08:00 PM,2017,12,03,20,91.5,170,Unhealthy,109.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 09:00 PM,2017,12,03,21,132.4,191,Unhealthy,168.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 10:00 PM,2017,12,03,22,139.2,194,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-03 11:00 PM,2017,12,03,23,114.2,181,Unhealthy,89.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 12:00 AM,2017,12,04,00,91.4,170,Unhealthy,68.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 01:00 AM,2017,12,04,01,74.7,161,Unhealthy,58.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 02:00 AM,2017,12,04,02,69.7,158,Unhealthy,64.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 03:00 AM,2017,12,04,03,118.9,184,Unhealthy,168.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 04:00 AM,2017,12,04,04,130.8,190,Unhealthy,142.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 05:00 AM,2017,12,04,05,119.1,184,Unhealthy,107.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 06:00 AM,2017,12,04,06,103.9,176,Unhealthy,88.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 07:00 AM,2017,12,04,07,92.9,170,Unhealthy,81.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 08:00 AM,2017,12,04,08,85.7,167,Unhealthy,78.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 09:00 AM,2017,12,04,09,76.2,162,Unhealthy,66.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 10:00 AM,2017,12,04,10,66.8,157,Unhealthy,57.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 11:00 AM,2017,12,04,11,56.3,151,Unhealthy,45.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 12:00 PM,2017,12,04,12,47.1,130,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 01:00 PM,2017,12,04,13,43.6,121,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 02:00 PM,2017,12,04,14,42.6,118,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 03:00 PM,2017,12,04,15,37.9,107,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 04:00 PM,2017,12,04,16,40.4,113,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 05:00 PM,2017,12,04,17,42.1,117,Unhealthy for Sensitive Groups,43.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 06:00 PM,2017,12,04,18,41.6,116,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 07:00 PM,2017,12,04,19,43.5,121,Unhealthy for Sensitive Groups,45.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 08:00 PM,2017,12,04,20,49.4,135,Unhealthy for Sensitive Groups,55.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 09:00 PM,2017,12,04,21,43.6,121,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 10:00 PM,2017,12,04,22,42.8,119,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-04 11:00 PM,2017,12,04,23,37.5,106,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 12:00 AM,2017,12,05,00,35.1,99,Moderate,32.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 01:00 AM,2017,12,05,01,48.5,133,Unhealthy for Sensitive Groups,62.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 02:00 AM,2017,12,05,02,52.2,142,Unhealthy for Sensitive Groups,55.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 03:00 AM,2017,12,05,03,52.3,142,Unhealthy for Sensitive Groups,52.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 04:00 AM,2017,12,05,04,43.6,121,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 05:00 AM,2017,12,05,05,39.7,111,Unhealthy for Sensitive Groups,35.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 06:00 AM,2017,12,05,06,34.8,99,Moderate,29.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 07:00 AM,2017,12,05,07,30.9,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 08:00 AM,2017,12,05,08,30.2,89,Moderate,29.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 09:00 AM,2017,12,05,09,37.9,107,Unhealthy for Sensitive Groups,45.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 10:00 AM,2017,12,05,10,36.4,103,Unhealthy for Sensitive Groups,34.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 11:00 AM,2017,12,05,11,34.2,97,Moderate,31.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 12:00 PM,2017,12,05,12,32.5,94,Moderate,30.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 01:00 PM,2017,12,05,13,31.2,91,Moderate,29.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 02:00 PM,2017,12,05,14,29.7,88,Moderate,27.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 03:00 PM,2017,12,05,15,28.2,85,Moderate,25.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 04:00 PM,2017,12,05,16,26.1,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 05:00 PM,2017,12,05,17,26.0,80,Moderate,26.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 06:00 PM,2017,12,05,18,27.0,82,Moderate,28.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 07:00 PM,2017,12,05,19,32.7,94,Moderate,39.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 08:00 PM,2017,12,05,20,41.2,115,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 09:00 PM,2017,12,05,21,58.3,152,Unhealthy,75.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 10:00 PM,2017,12,05,22,51.2,140,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-05 11:00 PM,2017,12,05,23,49.6,136,Unhealthy for Sensitive Groups,48.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 12:00 AM,2017,12,06,00,51.8,141,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 01:00 AM,2017,12,06,01,52.8,144,Unhealthy for Sensitive Groups,53.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 02:00 AM,2017,12,06,02,50.4,138,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 03:00 AM,2017,12,06,03,47.7,131,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 04:00 AM,2017,12,06,04,47.0,129,Unhealthy for Sensitive Groups,46.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 05:00 AM,2017,12,06,05,86.2,167,Unhealthy,125.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 06:00 AM,2017,12,06,06,118.6,184,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 07:00 AM,2017,12,06,07,108.1,178,Unhealthy,97.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 08:00 AM,2017,12,06,08,119.2,184,Unhealthy,130.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 09:00 AM,2017,12,06,09,107.1,178,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 10:00 AM,2017,12,06,10,102.1,175,Unhealthy,97.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 11:00 AM,2017,12,06,11,104.5,176,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 12:00 PM,2017,12,06,12,104.6,176,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,2017-12-06 01:00 PM,2017,12,06,13,74.2,161,Unhealthy,59.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 02:00 PM,2017,12,06,14,70.1,159,Unhealthy,66.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 03:00 PM,2017,12,06,15,67.3,157,Unhealthy,64.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 04:00 PM,2017,12,06,16,63.0,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 05:00 PM,2017,12,06,17,63.0,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 06:00 PM,2017,12,06,18,63.5,155,Unhealthy,64.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 07:00 PM,2017,12,06,19,66.7,157,Unhealthy,69.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 08:00 PM,2017,12,06,20,65.9,156,Unhealthy,65.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 09:00 PM,2017,12,06,21,69.9,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 10:00 PM,2017,12,06,22,72.2,160,Unhealthy,74.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-06 11:00 PM,2017,12,06,23,70.0,158,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 12:00 AM,2017,12,07,00,74.5,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 01:00 AM,2017,12,07,01,78.5,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 02:00 AM,2017,12,07,02,81.5,164,Unhealthy,87.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 03:00 AM,2017,12,07,03,86.8,167,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 04:00 AM,2017,12,07,04,88.6,168,Unhealthy,94.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 05:00 AM,2017,12,07,05,93.7,171,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 06:00 AM,2017,12,07,06,96.3,172,Unhealthy,101.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 07:00 AM,2017,12,07,07,105.9,177,Unhealthy,116.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 08:00 AM,2017,12,07,08,111.6,180,Unhealthy,121.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 09:00 AM,2017,12,07,09,112.3,180,Unhealthy,113.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 10:00 AM,2017,12,07,10,123.9,186,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 11:00 AM,2017,12,07,11,127.1,188,Unhealthy,135.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 12:00 PM,2017,12,07,12,128.4,189,Unhealthy,131.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 01:00 PM,2017,12,07,13,124.9,187,Unhealthy,118.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 02:00 PM,2017,12,07,14,121.7,185,Unhealthy,115.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 03:00 PM,2017,12,07,15,111.5,180,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 04:00 PM,2017,12,07,16,105.8,177,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 05:00 PM,2017,12,07,17,106.6,177,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 06:00 PM,2017,12,07,18,108.7,178,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 07:00 PM,2017,12,07,19,111.4,180,Unhealthy,116.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 08:00 PM,2017,12,07,20,111.7,180,Unhealthy,112.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 09:00 PM,2017,12,07,21,118.8,184,Unhealthy,133.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 10:00 PM,2017,12,07,22,130.3,190,Unhealthy,147.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-07 11:00 PM,2017,12,07,23,140.7,195,Unhealthy,154.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 12:00 AM,2017,12,08,00,149.7,200,Unhealthy,160.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 01:00 AM,2017,12,08,01,159.3,210,Very Unhealthy,169.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 02:00 AM,2017,12,08,02,140.7,195,Unhealthy,118.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 03:00 AM,2017,12,08,03,130.3,190,Unhealthy,116.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 04:00 AM,2017,12,08,04,125.2,187,Unhealthy,111.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 05:00 AM,2017,12,08,05,112.0,180,Unhealthy,97.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 06:00 AM,2017,12,08,06,116.0,182,Unhealthy,121.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 07:00 AM,2017,12,08,07,101.6,175,Unhealthy,87.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 08:00 AM,2017,12,08,08,100.4,174,Unhealthy,99.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 09:00 AM,2017,12,08,09,105.5,177,Unhealthy,110.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 10:00 AM,2017,12,08,10,105.5,177,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,2017-12-08 11:00 AM,2017,12,08,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,2017-12-08 12:00 PM,2017,12,08,12,-999.0,-999,N/A,71.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 01:00 PM,2017,12,08,13,77.0,162,Unhealthy,72.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 02:00 PM,2017,12,08,14,66.4,157,Unhealthy,59.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 03:00 PM,2017,12,08,15,53.8,146,Unhealthy for Sensitive Groups,42.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 04:00 PM,2017,12,08,16,40.0,112,Unhealthy for Sensitive Groups,26.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 05:00 PM,2017,12,08,17,28.9,86,Moderate,18.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 06:00 PM,2017,12,08,18,27.9,84,Moderate,26.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 07:00 PM,2017,12,08,19,26.5,81,Moderate,25.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 08:00 PM,2017,12,08,20,27.6,84,Moderate,28.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 09:00 PM,2017,12,08,21,24.9,78,Moderate,22.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 10:00 PM,2017,12,08,22,28.4,85,Moderate,31.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-08 11:00 PM,2017,12,08,23,27.2,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 12:00 AM,2017,12,09,00,27.6,84,Moderate,28.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 01:00 AM,2017,12,09,01,31.8,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 02:00 AM,2017,12,09,02,34.0,97,Moderate,36.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 03:00 AM,2017,12,09,03,38.4,108,Unhealthy for Sensitive Groups,42.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 04:00 AM,2017,12,09,04,39.7,111,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 05:00 AM,2017,12,09,05,39.8,112,Unhealthy for Sensitive Groups,40.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 06:00 AM,2017,12,09,06,41.6,116,Unhealthy for Sensitive Groups,43.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 07:00 AM,2017,12,09,07,48.7,134,Unhealthy for Sensitive Groups,55.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 08:00 AM,2017,12,09,08,48.7,134,Unhealthy for Sensitive Groups,48.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 09:00 AM,2017,12,09,09,44.6,123,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 10:00 AM,2017,12,09,10,50.1,137,Unhealthy for Sensitive Groups,55.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 11:00 AM,2017,12,09,11,48.8,134,Unhealthy for Sensitive Groups,47.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 12:00 PM,2017,12,09,12,43.3,120,Unhealthy for Sensitive Groups,34.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 01:00 PM,2017,12,09,13,39.0,110,Unhealthy for Sensitive Groups,33.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 02:00 PM,2017,12,09,14,39.0,110,Unhealthy for Sensitive Groups,38.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 03:00 PM,2017,12,09,15,37.8,107,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 04:00 PM,2017,12,09,16,40.0,112,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 05:00 PM,2017,12,09,17,44.3,123,Unhealthy for Sensitive Groups,50.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 06:00 PM,2017,12,09,18,57.9,152,Unhealthy,70.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 07:00 PM,2017,12,09,19,70.1,159,Unhealthy,82.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 08:00 PM,2017,12,09,20,80.3,164,Unhealthy,90.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 09:00 PM,2017,12,09,21,93.2,170,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 10:00 PM,2017,12,09,22,100.3,174,Unhealthy,107.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-09 11:00 PM,2017,12,09,23,97.2,173,Unhealthy,94.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 12:00 AM,2017,12,10,00,97.5,173,Unhealthy,97.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 01:00 AM,2017,12,10,01,94.8,171,Unhealthy,92.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 02:00 AM,2017,12,10,02,96.0,172,Unhealthy,97.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 03:00 AM,2017,12,10,03,98.5,173,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 04:00 AM,2017,12,10,04,99.9,174,Unhealthy,101.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 05:00 AM,2017,12,10,05,102.8,175,Unhealthy,109.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 06:00 AM,2017,12,10,06,99.7,174,Unhealthy,94.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 07:00 AM,2017,12,10,07,105.1,177,Unhealthy,120.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 08:00 AM,2017,12,10,08,111.6,180,Unhealthy,126.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 09:00 AM,2017,12,10,09,113.6,181,Unhealthy,118.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 10:00 AM,2017,12,10,10,114.2,181,Unhealthy,115.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 11:00 AM,2017,12,10,11,112.1,180,Unhealthy,106.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 12:00 PM,2017,12,10,12,111.3,180,Unhealthy,108.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 01:00 PM,2017,12,10,13,110.5,179,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 02:00 PM,2017,12,10,14,110.0,179,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 03:00 PM,2017,12,10,15,110.2,179,Unhealthy,110.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 04:00 PM,2017,12,10,16,113.7,181,Unhealthy,123.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 05:00 PM,2017,12,10,17,114.5,181,Unhealthy,116.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 06:00 PM,2017,12,10,18,117.0,183,Unhealthy,128.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 07:00 PM,2017,12,10,19,121.2,185,Unhealthy,134.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 08:00 PM,2017,12,10,20,127.9,188,Unhealthy,142.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 09:00 PM,2017,12,10,21,131.3,190,Unhealthy,140.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 10:00 PM,2017,12,10,22,129.4,189,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-10 11:00 PM,2017,12,10,23,119.6,184,Unhealthy,96.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 12:00 AM,2017,12,11,00,120.2,184,Unhealthy,121.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 01:00 AM,2017,12,11,01,126.7,188,Unhealthy,140.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 02:00 AM,2017,12,11,02,131.7,190,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 03:00 AM,2017,12,11,03,126.4,188,Unhealthy,115.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 04:00 AM,2017,12,11,04,125.2,187,Unhealthy,122.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 05:00 AM,2017,12,11,05,129.5,189,Unhealthy,138.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 06:00 AM,2017,12,11,06,128.2,189,Unhealthy,125.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 07:00 AM,2017,12,11,07,122.9,186,Unhealthy,112.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 08:00 AM,2017,12,11,08,120.5,185,Unhealthy,115.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 09:00 AM,2017,12,11,09,122.2,185,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 10:00 AM,2017,12,11,10,123.1,186,Unhealthy,125.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 11:00 AM,2017,12,11,11,117.9,183,Unhealthy,103.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 12:00 PM,2017,12,11,12,87.8,168,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 01:00 PM,2017,12,11,13,75.5,161,Unhealthy,63.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 02:00 PM,2017,12,11,14,74.3,161,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 03:00 PM,2017,12,11,15,75.0,161,Unhealthy,75.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 04:00 PM,2017,12,11,16,71.9,159,Unhealthy,68.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 05:00 PM,2017,12,11,17,68.5,158,Unhealthy,65.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 06:00 PM,2017,12,11,18,68.3,158,Unhealthy,68.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 07:00 PM,2017,12,11,19,71.1,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 08:00 PM,2017,12,11,20,72.7,160,Unhealthy,74.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 09:00 PM,2017,12,11,21,78.4,163,Unhealthy,84.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 10:00 PM,2017,12,11,22,81.2,164,Unhealthy,87.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-11 11:00 PM,2017,12,11,23,91.4,170,Unhealthy,105.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 12:00 AM,2017,12,12,00,92.3,170,Unhealthy,94.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 01:00 AM,2017,12,12,01,99.1,174,Unhealthy,109.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 02:00 AM,2017,12,12,02,93.1,170,Unhealthy,84.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 03:00 AM,2017,12,12,03,92.8,170,Unhealthy,92.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 04:00 AM,2017,12,12,04,97.5,173,Unhealthy,104.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 05:00 AM,2017,12,12,05,94.2,171,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 06:00 AM,2017,12,12,06,93.3,171,Unhealthy,91.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 07:00 AM,2017,12,12,07,97.1,172,Unhealthy,104.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 08:00 AM,2017,12,12,08,97.6,173,Unhealthy,100.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 09:00 AM,2017,12,12,09,97.3,173,Unhealthy,95.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 10:00 AM,2017,12,12,10,94.6,171,Unhealthy,85.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 11:00 AM,2017,12,12,11,88.2,168,Unhealthy,75.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 12:00 PM,2017,12,12,12,81.5,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 01:00 PM,2017,12,12,13,79.1,163,Unhealthy,72.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 02:00 PM,2017,12,12,14,72.7,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 03:00 PM,2017,12,12,15,70.0,158,Unhealthy,65.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 04:00 PM,2017,12,12,16,63.9,155,Unhealthy,58.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 05:00 PM,2017,12,12,17,62.5,155,Unhealthy,60.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 06:00 PM,2017,12,12,18,58.6,153,Unhealthy,54.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 07:00 PM,2017,12,12,19,54.7,148,Unhealthy for Sensitive Groups,50.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 08:00 PM,2017,12,12,20,52.2,142,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 09:00 PM,2017,12,12,21,56.7,152,Unhealthy,61.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 10:00 PM,2017,12,12,22,56.1,151,Unhealthy,54.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-12 11:00 PM,2017,12,12,23,54.2,147,Unhealthy for Sensitive Groups,50.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 12:00 AM,2017,12,13,00,55.2,150,Unhealthy for Sensitive Groups,57.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 01:00 AM,2017,12,13,01,59.7,153,Unhealthy,70.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 02:00 AM,2017,12,13,02,66.5,157,Unhealthy,77.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 03:00 AM,2017,12,13,03,61.4,154,Unhealthy,52.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 04:00 AM,2017,12,13,04,49.3,135,Unhealthy for Sensitive Groups,37.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 05:00 AM,2017,12,13,05,49.4,135,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 06:00 AM,2017,12,13,06,43.8,121,Unhealthy for Sensitive Groups,38.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 07:00 AM,2017,12,13,07,43.4,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 08:00 AM,2017,12,13,08,43.5,121,Unhealthy for Sensitive Groups,43.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 09:00 AM,2017,12,13,09,39.2,110,Unhealthy for Sensitive Groups,34.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 10:00 AM,2017,12,13,10,35.8,102,Unhealthy for Sensitive Groups,32.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 11:00 AM,2017,12,13,11,41.4,116,Unhealthy for Sensitive Groups,46.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 12:00 PM,2017,12,13,12,43.6,121,Unhealthy for Sensitive Groups,45.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 01:00 PM,2017,12,13,13,42.6,118,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 02:00 PM,2017,12,13,14,37.6,106,Unhealthy for Sensitive Groups,30.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 03:00 PM,2017,12,13,15,34.1,97,Moderate,29.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 04:00 PM,2017,12,13,16,34.6,98,Moderate,35.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 05:00 PM,2017,12,13,17,37.5,106,Unhealthy for Sensitive Groups,41.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 06:00 PM,2017,12,13,18,52.2,142,Unhealthy for Sensitive Groups,66.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 07:00 PM,2017,12,13,19,52.5,143,Unhealthy for Sensitive Groups,52.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 08:00 PM,2017,12,13,20,64.6,156,Unhealthy,76.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 09:00 PM,2017,12,13,21,66.5,157,Unhealthy,68.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 10:00 PM,2017,12,13,22,60.4,154,Unhealthy,54.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-13 11:00 PM,2017,12,13,23,48.0,132,Unhealthy for Sensitive Groups,35.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 12:00 AM,2017,12,14,00,37.0,105,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 01:00 AM,2017,12,14,01,31.4,92,Moderate,25.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 02:00 AM,2017,12,14,02,27.7,84,Moderate,23.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 03:00 AM,2017,12,14,03,25.3,79,Moderate,22.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 04:00 AM,2017,12,14,04,23.6,75,Moderate,21.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 05:00 AM,2017,12,14,05,21.7,71,Moderate,19.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 06:00 AM,2017,12,14,06,19.3,66,Moderate,16.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 07:00 AM,2017,12,14,07,31.8,92,Moderate,44.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 08:00 AM,2017,12,14,08,29.4,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 09:00 AM,2017,12,14,09,28.3,85,Moderate,27.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 10:00 AM,2017,12,14,10,31.1,91,Moderate,33.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 11:00 AM,2017,12,14,11,32.0,93,Moderate,32.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 12:00 PM,2017,12,14,12,31.9,93,Moderate,31.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 01:00 PM,2017,12,14,13,29.9,88,Moderate,27.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 02:00 PM,2017,12,14,14,27.4,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 03:00 PM,2017,12,14,15,26.2,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 04:00 PM,2017,12,14,16,25.9,80,Moderate,25.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 05:00 PM,2017,12,14,17,21.5,71,Moderate,17.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 06:00 PM,2017,12,14,18,22.3,72,Moderate,23.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 07:00 PM,2017,12,14,19,24.1,76,Moderate,26.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 08:00 PM,2017,12,14,20,24.9,78,Moderate,25.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 09:00 PM,2017,12,14,21,22.5,73,Moderate,20.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 10:00 PM,2017,12,14,22,23.8,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-14 11:00 PM,2017,12,14,23,25.3,79,Moderate,27.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 12:00 AM,2017,12,15,00,27.7,84,Moderate,30.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 01:00 AM,2017,12,15,01,27.3,83,Moderate,26.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 02:00 AM,2017,12,15,02,25.8,80,Moderate,23.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 03:00 AM,2017,12,15,03,23.3,75,Moderate,20.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 04:00 AM,2017,12,15,04,26.2,81,Moderate,29.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 05:00 AM,2017,12,15,05,26.4,81,Moderate,27.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 06:00 AM,2017,12,15,06,27.5,83,Moderate,29.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 07:00 AM,2017,12,15,07,25.9,80,Moderate,22.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 08:00 AM,2017,12,15,08,22.5,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 09:00 AM,2017,12,15,09,21.7,71,Moderate,20.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 10:00 AM,2017,12,15,10,29.0,87,Moderate,36.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 11:00 AM,2017,12,15,11,30.9,91,Moderate,32.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 12:00 PM,2017,12,15,12,30.0,89,Moderate,29.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 01:00 PM,2017,12,15,13,31.4,92,Moderate,32.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 02:00 PM,2017,12,15,14,29.1,87,Moderate,26.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 03:00 PM,2017,12,15,15,27.6,84,Moderate,26.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 04:00 PM,2017,12,15,16,28.1,85,Moderate,28.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 05:00 PM,2017,12,15,17,24.6,77,Moderate,21.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 06:00 PM,2017,12,15,18,25.4,79,Moderate,26.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 07:00 PM,2017,12,15,19,28.1,85,Moderate,30.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 08:00 PM,2017,12,15,20,28.0,84,Moderate,28.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 09:00 PM,2017,12,15,21,30.3,89,Moderate,33.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 10:00 PM,2017,12,15,22,24.8,78,Moderate,18.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-15 11:00 PM,2017,12,15,23,23.1,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 12:00 AM,2017,12,16,00,22.9,74,Moderate,22.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 01:00 AM,2017,12,16,01,20.8,69,Moderate,18.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 02:00 AM,2017,12,16,02,24.9,78,Moderate,29.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 03:00 AM,2017,12,16,03,24.4,77,Moderate,23.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 04:00 AM,2017,12,16,04,22.4,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 05:00 AM,2017,12,16,05,21.3,70,Moderate,20.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 06:00 AM,2017,12,16,06,23.1,74,Moderate,25.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 07:00 AM,2017,12,16,07,26.1,80,Moderate,29.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 08:00 AM,2017,12,16,08,24.7,77,Moderate,23.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 09:00 AM,2017,12,16,09,25.6,79,Moderate,27.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 10:00 AM,2017,12,16,10,27.1,83,Moderate,29.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 11:00 AM,2017,12,16,11,25.2,79,Moderate,22.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 12:00 PM,2017,12,16,12,24.7,77,Moderate,23.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 01:00 PM,2017,12,16,13,23.9,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 02:00 PM,2017,12,16,14,23.5,75,Moderate,22.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 03:00 PM,2017,12,16,15,22.5,73,Moderate,20.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 04:00 PM,2017,12,16,16,26.6,81,Moderate,33.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 05:00 PM,2017,12,16,17,35.2,100,Moderate,43.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 06:00 PM,2017,12,16,18,39.2,110,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 07:00 PM,2017,12,16,19,43.5,121,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 08:00 PM,2017,12,16,20,44.7,124,Unhealthy for Sensitive Groups,45.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 09:00 PM,2017,12,16,21,42.9,119,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 10:00 PM,2017,12,16,22,43.8,121,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-16 11:00 PM,2017,12,16,23,42.4,118,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 12:00 AM,2017,12,17,00,41.2,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 01:00 AM,2017,12,17,01,41.8,117,Unhealthy for Sensitive Groups,42.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 02:00 AM,2017,12,17,02,51.8,141,Unhealthy for Sensitive Groups,61.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 03:00 AM,2017,12,17,03,121.8,185,Unhealthy,191.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 04:00 AM,2017,12,17,04,84.1,166,Unhealthy,46.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 05:00 AM,2017,12,17,05,71.8,159,Unhealthy,59.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 06:00 AM,2017,12,17,06,59.6,153,Unhealthy,47.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 07:00 AM,2017,12,17,07,60.7,154,Unhealthy,61.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 08:00 AM,2017,12,17,08,58.8,153,Unhealthy,56.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 09:00 AM,2017,12,17,09,56.8,152,Unhealthy,54.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 10:00 AM,2017,12,17,10,52.9,144,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 11:00 AM,2017,12,17,11,51.4,140,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 12:00 PM,2017,12,17,12,51.6,141,Unhealthy for Sensitive Groups,51.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 01:00 PM,2017,12,17,13,48.8,134,Unhealthy for Sensitive Groups,46.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 02:00 PM,2017,12,17,14,48.8,134,Unhealthy for Sensitive Groups,48.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 03:00 PM,2017,12,17,15,48.1,132,Unhealthy for Sensitive Groups,43.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 04:00 PM,2017,12,17,16,46.4,128,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 05:00 PM,2017,12,17,17,45.4,125,Unhealthy for Sensitive Groups,43.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 06:00 PM,2017,12,17,18,46.6,128,Unhealthy for Sensitive Groups,49.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 07:00 PM,2017,12,17,19,49.9,136,Unhealthy for Sensitive Groups,58.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 08:00 PM,2017,12,17,20,63.6,155,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 09:00 PM,2017,12,17,21,70.7,159,Unhealthy,78.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 10:00 PM,2017,12,17,22,73.8,160,Unhealthy,77.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-17 11:00 PM,2017,12,17,23,69.4,158,Unhealthy,64.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 12:00 AM,2017,12,18,00,70.7,159,Unhealthy,72.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 01:00 AM,2017,12,18,01,117.6,183,Unhealthy,164.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 02:00 AM,2017,12,18,02,144.9,197,Unhealthy,172.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 03:00 AM,2017,12,18,03,134.4,192,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 04:00 AM,2017,12,18,04,134.5,192,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,2017-12-18 05:00 AM,2017,12,18,05,93.7,171,Unhealthy,73.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 06:00 AM,2017,12,18,06,88.2,168,Unhealthy,84.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 07:00 AM,2017,12,18,07,88.0,168,Unhealthy,87.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 08:00 AM,2017,12,18,08,86.3,167,Unhealthy,84.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 09:00 AM,2017,12,18,09,81.8,165,Unhealthy,77.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 10:00 AM,2017,12,18,10,70.5,159,Unhealthy,59.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 11:00 AM,2017,12,18,11,58.2,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 12:00 PM,2017,12,18,12,53.2,145,Unhealthy for Sensitive Groups,48.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 01:00 PM,2017,12,18,13,52.8,144,Unhealthy for Sensitive Groups,52.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 02:00 PM,2017,12,18,14,45.7,126,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 03:00 PM,2017,12,18,15,39.3,110,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 04:00 PM,2017,12,18,16,50.8,139,Unhealthy for Sensitive Groups,62.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 05:00 PM,2017,12,18,17,59.9,153,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 06:00 PM,2017,12,18,18,65.6,156,Unhealthy,71.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 07:00 PM,2017,12,18,19,72.5,160,Unhealthy,79.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 08:00 PM,2017,12,18,20,82.5,165,Unhealthy,92.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 09:00 PM,2017,12,18,21,97.0,172,Unhealthy,111.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 10:00 PM,2017,12,18,22,125.8,187,Unhealthy,154.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-18 11:00 PM,2017,12,18,23,107.0,178,Unhealthy,88.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 12:00 AM,2017,12,19,00,100.3,174,Unhealthy,93.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 01:00 AM,2017,12,19,01,92.5,170,Unhealthy,84.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 02:00 AM,2017,12,19,02,83.7,166,Unhealthy,74.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 03:00 AM,2017,12,19,03,63.8,155,Unhealthy,43.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 04:00 AM,2017,12,19,04,53.3,145,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 05:00 AM,2017,12,19,05,45.6,126,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 06:00 AM,2017,12,19,06,57.1,152,Unhealthy,68.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 07:00 AM,2017,12,19,07,56.3,151,Unhealthy,55.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 08:00 AM,2017,12,19,08,50.2,137,Unhealthy for Sensitive Groups,44.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 09:00 AM,2017,12,19,09,50.8,139,Unhealthy for Sensitive Groups,51.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 10:00 AM,2017,12,19,10,55.6,151,Unhealthy,60.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 11:00 AM,2017,12,19,11,50.1,137,Unhealthy for Sensitive Groups,44.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 12:00 PM,2017,12,19,12,42.6,118,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 01:00 PM,2017,12,19,13,40.2,113,Unhealthy for Sensitive Groups,37.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 02:00 PM,2017,12,19,14,37.7,106,Unhealthy for Sensitive Groups,34.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 03:00 PM,2017,12,19,15,35.2,100,Moderate,32.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 04:00 PM,2017,12,19,16,33.7,96,Moderate,32.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 05:00 PM,2017,12,19,17,35.3,100,Moderate,37.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 06:00 PM,2017,12,19,18,37.0,105,Unhealthy for Sensitive Groups,38.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 07:00 PM,2017,12,19,19,50.6,138,Unhealthy for Sensitive Groups,64.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 08:00 PM,2017,12,19,20,60.7,154,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 09:00 PM,2017,12,19,21,76.3,162,Unhealthy,91.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 10:00 PM,2017,12,19,22,82.7,165,Unhealthy,89.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-19 11:00 PM,2017,12,19,23,74.8,161,Unhealthy,66.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 12:00 AM,2017,12,20,00,84.8,166,Unhealthy,94.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 01:00 AM,2017,12,20,01,89.0,168,Unhealthy,93.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 02:00 AM,2017,12,20,02,107.5,178,Unhealthy,126.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 03:00 AM,2017,12,20,03,104.2,176,Unhealthy,100.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 04:00 AM,2017,12,20,04,100.8,174,Unhealthy,97.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 05:00 AM,2017,12,20,05,89.6,169,Unhealthy,78.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 06:00 AM,2017,12,20,06,76.5,162,Unhealthy,63.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 07:00 AM,2017,12,20,07,60.3,153,Unhealthy,44.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 08:00 AM,2017,12,20,08,54.1,147,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 09:00 AM,2017,12,20,09,51.9,141,Unhealthy for Sensitive Groups,49.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 10:00 AM,2017,12,20,10,46.8,129,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 11:00 AM,2017,12,20,11,39.9,112,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 12:00 PM,2017,12,20,12,36.8,104,Unhealthy for Sensitive Groups,33.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 01:00 PM,2017,12,20,13,32.3,93,Moderate,27.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 02:00 PM,2017,12,20,14,27.5,83,Moderate,22.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 03:00 PM,2017,12,20,15,22.8,74,Moderate,18.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 04:00 PM,2017,12,20,16,23.4,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 05:00 PM,2017,12,20,17,23.7,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 06:00 PM,2017,12,20,18,24.2,76,Moderate,24.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 07:00 PM,2017,12,20,19,37.0,105,Unhealthy for Sensitive Groups,49.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 08:00 PM,2017,12,20,20,54.6,148,Unhealthy for Sensitive Groups,72.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 09:00 PM,2017,12,20,21,80.3,164,Unhealthy,106.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 10:00 PM,2017,12,20,22,94.3,171,Unhealthy,108.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-20 11:00 PM,2017,12,20,23,90.7,169,Unhealthy,87.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 12:00 AM,2017,12,21,00,90.7,169,Unhealthy,90.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 01:00 AM,2017,12,21,01,85.9,167,Unhealthy,81.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 02:00 AM,2017,12,21,02,73.5,160,Unhealthy,61.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 03:00 AM,2017,12,21,03,84.6,166,Unhealthy,95.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 04:00 AM,2017,12,21,04,113.2,181,Unhealthy,141.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 05:00 AM,2017,12,21,05,110.7,180,Unhealthy,108.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 06:00 AM,2017,12,21,06,99.6,174,Unhealthy,88.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 07:00 AM,2017,12,21,07,87.7,168,Unhealthy,75.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 08:00 AM,2017,12,21,08,79.8,164,Unhealthy,71.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 09:00 AM,2017,12,21,09,73.6,160,Unhealthy,67.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 10:00 AM,2017,12,21,10,73.6,160,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,2017-12-21 11:00 AM,2017,12,21,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Hanoi,PM2.5 - Principal,2017-12-21 12:00 PM,2017,12,21,12,-999.0,-999,N/A,66.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 01:00 PM,2017,12,21,13,62.6,155,Unhealthy,59.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 02:00 PM,2017,12,21,14,49.0,134,Unhealthy for Sensitive Groups,37.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 03:00 PM,2017,12,21,15,42.1,117,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 04:00 PM,2017,12,21,16,37.5,106,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 05:00 PM,2017,12,21,17,39.7,111,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 06:00 PM,2017,12,21,18,40.7,114,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 07:00 PM,2017,12,21,19,50.4,138,Unhealthy for Sensitive Groups,60.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 08:00 PM,2017,12,21,20,72.5,160,Unhealthy,94.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 09:00 PM,2017,12,21,21,90.6,169,Unhealthy,108.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 10:00 PM,2017,12,21,22,82.1,165,Unhealthy,73.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-21 11:00 PM,2017,12,21,23,74.0,161,Unhealthy,65.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 12:00 AM,2017,12,22,00,83.8,166,Unhealthy,93.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 01:00 AM,2017,12,22,01,81.4,164,Unhealthy,79.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 02:00 AM,2017,12,22,02,67.6,157,Unhealthy,53.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 03:00 AM,2017,12,22,03,57.7,152,Unhealthy,47.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 04:00 AM,2017,12,22,04,51.8,141,Unhealthy for Sensitive Groups,45.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 05:00 AM,2017,12,22,05,48.5,133,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 06:00 AM,2017,12,22,06,51.6,141,Unhealthy for Sensitive Groups,54.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 07:00 AM,2017,12,22,07,108.5,178,Unhealthy,165.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 08:00 AM,2017,12,22,08,155.2,206,Very Unhealthy,201.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 09:00 AM,2017,12,22,09,148.8,199,Unhealthy,142.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 10:00 AM,2017,12,22,10,137.1,193,Unhealthy,125.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 11:00 AM,2017,12,22,11,136.2,193,Unhealthy,135.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 12:00 PM,2017,12,22,12,127.6,188,Unhealthy,119.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 01:00 PM,2017,12,22,13,124.5,187,Unhealthy,121.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 02:00 PM,2017,12,22,14,114.3,181,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 03:00 PM,2017,12,22,15,95.8,172,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 04:00 PM,2017,12,22,16,92.3,170,Unhealthy,88.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 05:00 PM,2017,12,22,17,87.5,168,Unhealthy,82.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 06:00 PM,2017,12,22,18,80.3,164,Unhealthy,73.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 07:00 PM,2017,12,22,19,80.3,164,Unhealthy,80.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 08:00 PM,2017,12,22,20,86.2,167,Unhealthy,92.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 09:00 PM,2017,12,22,21,92.8,170,Unhealthy,100.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 10:00 PM,2017,12,22,22,94.0,171,Unhealthy,95.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-22 11:00 PM,2017,12,22,23,98.1,173,Unhealthy,105.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 12:00 AM,2017,12,23,00,96.7,172,Unhealthy,94.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 01:00 AM,2017,12,23,01,103.9,176,Unhealthy,116.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 02:00 AM,2017,12,23,02,103.5,176,Unhealthy,102.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 03:00 AM,2017,12,23,03,103.1,176,Unhealthy,102.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 04:00 AM,2017,12,23,04,106.5,177,Unhealthy,112.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 05:00 AM,2017,12,23,05,111.5,180,Unhealthy,119.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 06:00 AM,2017,12,23,06,116.2,182,Unhealthy,125.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 07:00 AM,2017,12,23,07,154.9,205,Very Unhealthy,190.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 08:00 AM,2017,12,23,08,151.6,202,Very Unhealthy,148.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 09:00 AM,2017,12,23,09,154.5,205,Very Unhealthy,157.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 10:00 AM,2017,12,23,10,161.9,212,Very Unhealthy,169.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 11:00 AM,2017,12,23,11,170.4,221,Very Unhealthy,178.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 12:00 PM,2017,12,23,12,172.3,223,Very Unhealthy,175.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 01:00 PM,2017,12,23,13,158.2,209,Very Unhealthy,141.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 02:00 PM,2017,12,23,14,148.6,199,Unhealthy,137.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 03:00 PM,2017,12,23,15,139.1,194,Unhealthy,123.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 04:00 PM,2017,12,23,16,138.1,194,Unhealthy,133.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 05:00 PM,2017,12,23,17,134.2,192,Unhealthy,125.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 06:00 PM,2017,12,23,18,123.5,186,Unhealthy,111.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 07:00 PM,2017,12,23,19,108.8,179,Unhealthy,94.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 08:00 PM,2017,12,23,20,96.3,172,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 09:00 PM,2017,12,23,21,90.7,169,Unhealthy,85.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 10:00 PM,2017,12,23,22,76.1,162,Unhealthy,61.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-23 11:00 PM,2017,12,23,23,61.9,154,Unhealthy,47.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 12:00 AM,2017,12,24,00,51.9,141,Unhealthy for Sensitive Groups,41.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 01:00 AM,2017,12,24,01,45.4,125,Unhealthy for Sensitive Groups,39.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 02:00 AM,2017,12,24,02,43.7,121,Unhealthy for Sensitive Groups,42.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 03:00 AM,2017,12,24,03,44.2,122,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 04:00 AM,2017,12,24,04,42.4,118,Unhealthy for Sensitive Groups,40.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 05:00 AM,2017,12,24,05,66.0,156,Unhealthy,89.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 06:00 AM,2017,12,24,06,101.1,175,Unhealthy,136.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 07:00 AM,2017,12,24,07,93.1,170,Unhealthy,85.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 08:00 AM,2017,12,24,08,104.9,177,Unhealthy,116.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 09:00 AM,2017,12,24,09,106.8,177,Unhealthy,108.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 10:00 AM,2017,12,24,10,104.9,177,Unhealthy,103.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 11:00 AM,2017,12,24,11,105.5,177,Unhealthy,106.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 12:00 PM,2017,12,24,12,107.1,178,Unhealthy,108.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 01:00 PM,2017,12,24,13,102.9,175,Unhealthy,98.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 02:00 PM,2017,12,24,14,97.6,173,Unhealthy,92.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 03:00 PM,2017,12,24,15,84.9,166,Unhealthy,72.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 04:00 PM,2017,12,24,16,67.6,157,Unhealthy,50.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 05:00 PM,2017,12,24,17,63.9,155,Unhealthy,60.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 06:00 PM,2017,12,24,18,66.6,157,Unhealthy,69.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 07:00 PM,2017,12,24,19,74.5,161,Unhealthy,82.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 08:00 PM,2017,12,24,20,85.1,166,Unhealthy,95.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 09:00 PM,2017,12,24,21,102.2,175,Unhealthy,119.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 10:00 PM,2017,12,24,22,116.7,183,Unhealthy,131.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-24 11:00 PM,2017,12,24,23,127.6,188,Unhealthy,138.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 12:00 AM,2017,12,25,00,124.8,187,Unhealthy,122.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 01:00 AM,2017,12,25,01,125.6,187,Unhealthy,126.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 02:00 AM,2017,12,25,02,116.6,183,Unhealthy,107.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 03:00 AM,2017,12,25,03,107.5,178,Unhealthy,98.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 04:00 AM,2017,12,25,04,96.4,172,Unhealthy,85.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 05:00 AM,2017,12,25,05,95.8,172,Unhealthy,95.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 06:00 AM,2017,12,25,06,99.9,174,Unhealthy,102.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 07:00 AM,2017,12,25,07,107.6,178,Unhealthy,119.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 08:00 AM,2017,12,25,08,118.0,183,Unhealthy,134.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 09:00 AM,2017,12,25,09,137.2,193,Unhealthy,157.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 10:00 AM,2017,12,25,10,146.9,198,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 11:00 AM,2017,12,25,11,139.9,195,Unhealthy,131.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 12:00 PM,2017,12,25,12,127.5,188,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 01:00 PM,2017,12,25,13,91.8,170,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 02:00 PM,2017,12,25,14,74.4,161,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 03:00 PM,2017,12,25,15,66.2,157,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 04:00 PM,2017,12,25,16,64.5,156,Unhealthy,62.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 05:00 PM,2017,12,25,17,62.3,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 06:00 PM,2017,12,25,18,62.3,155,Unhealthy,62.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 07:00 PM,2017,12,25,19,75.3,161,Unhealthy,88.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 08:00 PM,2017,12,25,20,90.9,169,Unhealthy,106.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 09:00 PM,2017,12,25,21,114.3,181,Unhealthy,137.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 10:00 PM,2017,12,25,22,120.0,184,Unhealthy,125.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-25 11:00 PM,2017,12,25,23,118.1,183,Unhealthy,116.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 12:00 AM,2017,12,26,00,123.8,186,Unhealthy,129.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 01:00 AM,2017,12,26,01,114.9,182,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 02:00 AM,2017,12,26,02,110.4,179,Unhealthy,105.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 03:00 AM,2017,12,26,03,105.2,177,Unhealthy,99.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 04:00 AM,2017,12,26,04,102.6,175,Unhealthy,100.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 05:00 AM,2017,12,26,05,136.2,193,Unhealthy,169.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 06:00 AM,2017,12,26,06,230.7,280,Very Unhealthy,325.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 07:00 AM,2017,12,26,07,200.0,250,Very Unhealthy,169.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 08:00 AM,2017,12,26,08,190.8,241,Very Unhealthy,181.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 09:00 AM,2017,12,26,09,174.3,225,Very Unhealthy,157.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 10:00 AM,2017,12,26,10,194.4,245,Very Unhealthy,214.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 11:00 AM,2017,12,26,11,189.6,240,Very Unhealthy,184.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 12:00 PM,2017,12,26,12,180.9,231,Very Unhealthy,172.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 01:00 PM,2017,12,26,13,157.9,208,Very Unhealthy,134.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 02:00 PM,2017,12,26,14,142.4,196,Unhealthy,126.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 03:00 PM,2017,12,26,15,133.4,191,Unhealthy,124.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 04:00 PM,2017,12,26,16,113.7,181,Unhealthy,93.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 05:00 PM,2017,12,26,17,102.9,175,Unhealthy,92.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 06:00 PM,2017,12,26,18,106.3,177,Unhealthy,109.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 07:00 PM,2017,12,26,19,131.0,190,Unhealthy,155.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 08:00 PM,2017,12,26,20,138.5,194,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 09:00 PM,2017,12,26,21,143.0,196,Unhealthy,147.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 10:00 PM,2017,12,26,22,160.4,211,Very Unhealthy,177.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-26 11:00 PM,2017,12,26,23,163.1,213,Very Unhealthy,167.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 12:00 AM,2017,12,27,00,168.1,218,Very Unhealthy,173.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 01:00 AM,2017,12,27,01,158.9,209,Very Unhealthy,148.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 02:00 AM,2017,12,27,02,151.9,202,Very Unhealthy,144.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 03:00 AM,2017,12,27,03,158.6,209,Very Unhealthy,165.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 04:00 AM,2017,12,27,04,158.0,208,Very Unhealthy,157.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 05:00 AM,2017,12,27,05,164.6,215,Very Unhealthy,175.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 06:00 AM,2017,12,27,06,156.9,207,Very Unhealthy,138.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 07:00 AM,2017,12,27,07,140.6,195,Unhealthy,114.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 08:00 AM,2017,12,27,08,111.0,180,Unhealthy,88.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 09:00 AM,2017,12,27,09,113.4,181,Unhealthy,115.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 10:00 AM,2017,12,27,10,113.0,181,Unhealthy,112.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 11:00 AM,2017,12,27,11,96.5,172,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 12:00 PM,2017,12,27,12,90.8,169,Unhealthy,85.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 01:00 PM,2017,12,27,13,91.2,169,Unhealthy,91.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 02:00 PM,2017,12,27,14,85.4,166,Unhealthy,79.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 03:00 PM,2017,12,27,15,73.7,160,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 04:00 PM,2017,12,27,16,69.8,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 05:00 PM,2017,12,27,17,67.8,157,Unhealthy,65.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 06:00 PM,2017,12,27,18,64.7,156,Unhealthy,60.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 07:00 PM,2017,12,27,19,60.6,154,Unhealthy,56.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 08:00 PM,2017,12,27,20,54.3,147,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 09:00 PM,2017,12,27,21,51.1,139,Unhealthy for Sensitive Groups,47.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 10:00 PM,2017,12,27,22,48.5,133,Unhealthy for Sensitive Groups,45.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-27 11:00 PM,2017,12,27,23,44.2,122,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 12:00 AM,2017,12,28,00,41.6,116,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 01:00 AM,2017,12,28,01,41.3,115,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 02:00 AM,2017,12,28,02,41.1,115,Unhealthy for Sensitive Groups,39.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 03:00 AM,2017,12,28,03,31.2,91,Moderate,22.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 04:00 AM,2017,12,28,04,27.2,83,Moderate,23.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 05:00 AM,2017,12,28,05,31.5,92,Moderate,35.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 06:00 AM,2017,12,28,06,30.2,89,Moderate,29.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 07:00 AM,2017,12,28,07,31.2,91,Moderate,32.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 08:00 AM,2017,12,28,08,37.1,105,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 09:00 AM,2017,12,28,09,42.1,117,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 10:00 AM,2017,12,28,10,49.9,136,Unhealthy for Sensitive Groups,57.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 11:00 AM,2017,12,28,11,48.5,133,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 12:00 PM,2017,12,28,12,52.9,144,Unhealthy for Sensitive Groups,57.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 01:00 PM,2017,12,28,13,58.4,152,Unhealthy,63.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 02:00 PM,2017,12,28,14,59.1,153,Unhealthy,59.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 03:00 PM,2017,12,28,15,57.2,152,Unhealthy,55.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 04:00 PM,2017,12,28,16,63.6,155,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 05:00 PM,2017,12,28,17,67.7,157,Unhealthy,71.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 06:00 PM,2017,12,28,18,67.9,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 07:00 PM,2017,12,28,19,69.5,158,Unhealthy,72.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 08:00 PM,2017,12,28,20,69.5,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 09:00 PM,2017,12,28,21,72.4,160,Unhealthy,76.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 10:00 PM,2017,12,28,22,82.3,165,Unhealthy,91.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-28 11:00 PM,2017,12,28,23,97.6,173,Unhealthy,112.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 12:00 AM,2017,12,29,00,99.7,174,Unhealthy,101.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 01:00 AM,2017,12,29,01,94.4,171,Unhealthy,89.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 02:00 AM,2017,12,29,02,94.1,171,Unhealthy,93.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 03:00 AM,2017,12,29,03,92.5,170,Unhealthy,90.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 04:00 AM,2017,12,29,04,88.1,168,Unhealthy,81.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 05:00 AM,2017,12,29,05,90.9,169,Unhealthy,95.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 06:00 AM,2017,12,29,06,139.1,194,Unhealthy,187.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 07:00 AM,2017,12,29,07,151.6,202,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 08:00 AM,2017,12,29,08,143.3,196,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 09:00 AM,2017,12,29,09,125.5,187,Unhealthy,107.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 10:00 AM,2017,12,29,10,114.4,181,Unhealthy,103.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 11:00 AM,2017,12,29,11,112.8,181,Unhealthy,111.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 12:00 PM,2017,12,29,12,114.5,181,Unhealthy,116.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 01:00 PM,2017,12,29,13,105.0,177,Unhealthy,95.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 02:00 PM,2017,12,29,14,92.3,170,Unhealthy,79.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 03:00 PM,2017,12,29,15,82.3,165,Unhealthy,72.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 04:00 PM,2017,12,29,16,82.0,165,Unhealthy,81.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 05:00 PM,2017,12,29,17,92.4,170,Unhealthy,102.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 06:00 PM,2017,12,29,18,95.5,172,Unhealthy,98.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 07:00 PM,2017,12,29,19,107.0,178,Unhealthy,120.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 08:00 PM,2017,12,29,20,107.8,178,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 09:00 PM,2017,12,29,21,109.7,179,Unhealthy,112.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 10:00 PM,2017,12,29,22,105.9,177,Unhealthy,100.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-29 11:00 PM,2017,12,29,23,96.3,172,Unhealthy,82.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 12:00 AM,2017,12,30,00,91.9,170,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 01:00 AM,2017,12,30,01,98.5,173,Unhealthy,108.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 02:00 AM,2017,12,30,02,93.6,171,Unhealthy,86.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 03:00 AM,2017,12,30,03,83.4,165,Unhealthy,69.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 04:00 AM,2017,12,30,04,73.6,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 05:00 AM,2017,12,30,05,54.7,148,Unhealthy for Sensitive Groups,36.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 06:00 AM,2017,12,30,06,44.3,123,Unhealthy for Sensitive Groups,33.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 07:00 AM,2017,12,30,07,38.3,108,Unhealthy for Sensitive Groups,32.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 08:00 AM,2017,12,30,08,39.8,112,Unhealthy for Sensitive Groups,41.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 09:00 AM,2017,12,30,09,46.2,127,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 10:00 AM,2017,12,30,10,44.8,124,Unhealthy for Sensitive Groups,43.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 11:00 AM,2017,12,30,11,36.8,104,Unhealthy for Sensitive Groups,28.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 12:00 PM,2017,12,30,12,30.5,90,Moderate,24.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 01:00 PM,2017,12,30,13,29.7,88,Moderate,28.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 02:00 PM,2017,12,30,14,28.6,86,Moderate,27.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 03:00 PM,2017,12,30,15,22.2,72,Moderate,15.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 04:00 PM,2017,12,30,16,17.1,62,Moderate,12.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 05:00 PM,2017,12,30,17,16.1,59,Moderate,15.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 06:00 PM,2017,12,30,18,17.1,62,Moderate,18.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 07:00 PM,2017,12,30,19,19.4,66,Moderate,21.7,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 08:00 PM,2017,12,30,20,16.8,61,Moderate,14.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 09:00 PM,2017,12,30,21,20.8,69,Moderate,24.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 10:00 PM,2017,12,30,22,21.6,71,Moderate,22.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-30 11:00 PM,2017,12,30,23,26.9,82,Moderate,32.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 12:00 AM,2017,12,31,00,32.4,94,Moderate,38.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 01:00 AM,2017,12,31,01,37.9,107,Unhealthy for Sensitive Groups,43.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 02:00 AM,2017,12,31,02,45.4,125,Unhealthy for Sensitive Groups,52.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 03:00 AM,2017,12,31,03,47.8,131,Unhealthy for Sensitive Groups,50.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 04:00 AM,2017,12,31,04,53.0,144,Unhealthy for Sensitive Groups,58.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 05:00 AM,2017,12,31,05,60.2,153,Unhealthy,67.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 06:00 AM,2017,12,31,06,55.0,149,Unhealthy for Sensitive Groups,49.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 07:00 AM,2017,12,31,07,51.7,141,Unhealthy for Sensitive Groups,48.4,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 08:00 AM,2017,12,31,08,56.9,152,Unhealthy,62.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 09:00 AM,2017,12,31,09,60.7,154,Unhealthy,64.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 10:00 AM,2017,12,31,10,55.1,149,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 11:00 AM,2017,12,31,11,46.2,127,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 12:00 PM,2017,12,31,12,39.2,110,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 01:00 PM,2017,12,31,13,37.2,105,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 02:00 PM,2017,12,31,14,38.1,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 03:00 PM,2017,12,31,15,38.9,109,Unhealthy for Sensitive Groups,39.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 04:00 PM,2017,12,31,16,37.5,106,Unhealthy for Sensitive Groups,36.1,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 05:00 PM,2017,12,31,17,39.2,110,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 06:00 PM,2017,12,31,18,40.7,114,Unhealthy for Sensitive Groups,42.2,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 07:00 PM,2017,12,31,19,44.2,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 08:00 PM,2017,12,31,20,47.4,130,Unhealthy for Sensitive Groups,50.8,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 09:00 PM,2017,12,31,21,61.2,154,Unhealthy,74.9,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 10:00 PM,2017,12,31,22,67.4,157,Unhealthy,73.6,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2017-12-31 11:00 PM,2017,12,31,23,65.3,156,Unhealthy,63.3,UG/M3,1 Hr,Valid
+Hanoi,PM2.5 - Principal,2018-01-01 12:00 AM,2018,01,01,00,68.6,158,Unhealthy,71.9,UG/M3,1 Hr,Valid

@@ -1,0 +1,423 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Rangoon,PM2.5 - Principal,2023-01-06 11:00 AM,2023,01,06,11,-999.0,-999,N/A,41.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 12:00 PM,2023,01,06,12,34.6,98,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 01:00 PM,2023,01,06,13,27.3,83,Moderate,22.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 02:00 PM,2023,01,06,14,23.2,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 03:00 PM,2023,01,06,15,19.0,66,Moderate,15.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 04:00 PM,2023,01,06,16,19.0,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 05:00 PM,2023,01,06,17,19.0,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 06:00 PM,2023,01,06,18,19.0,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 07:00 PM,2023,01,06,19,30.0,89,Moderate,41.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 08:00 PM,2023,01,06,20,48.5,133,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 09:00 PM,2023,01,06,21,56.7,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 10:00 PM,2023,01,06,22,67.8,157,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-06 11:00 PM,2023,01,06,23,77.9,163,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 12:00 AM,2023,01,07,00,84.9,166,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 01:00 AM,2023,01,07,01,74.4,161,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 02:00 AM,2023,01,07,02,62.7,155,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 03:00 AM,2023,01,07,03,58.3,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 04:00 AM,2023,01,07,04,49.6,136,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 05:00 AM,2023,01,07,05,50.8,139,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 06:00 AM,2023,01,07,06,51.4,140,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 07:00 AM,2023,01,07,07,50.2,137,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 08:00 AM,2023,01,07,08,53.1,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 09:00 AM,2023,01,07,09,47.5,131,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 10:00 AM,2023,01,07,10,33.7,96,Moderate,20.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 11:00 AM,2023,01,07,11,24.8,78,Moderate,16.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 12:00 PM,2023,01,07,12,19.9,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 01:00 PM,2023,01,07,13,17.4,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 02:00 PM,2023,01,07,14,14.7,56,Moderate,12.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 03:00 PM,2023,01,07,15,11.3,47,Good,8.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 04:00 PM,2023,01,07,16,11.6,48,Good,12.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 05:00 PM,2023,01,07,17,12.8,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 06:00 PM,2023,01,07,18,15.4,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 07:00 PM,2023,01,07,19,23.2,74,Moderate,31.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 08:00 PM,2023,01,07,20,31.6,92,Moderate,40.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 09:00 PM,2023,01,07,21,40.8,114,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 10:00 PM,2023,01,07,22,44.4,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-07 11:00 PM,2023,01,07,23,43.7,121,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 12:00 AM,2023,01,08,00,39.8,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 01:00 AM,2023,01,08,01,34.9,99,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 02:00 AM,2023,01,08,02,28.4,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 03:00 AM,2023,01,08,03,23.2,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 04:00 AM,2023,01,08,04,23.1,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 05:00 AM,2023,01,08,05,28.5,85,Moderate,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 06:00 AM,2023,01,08,06,31.2,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 07:00 AM,2023,01,08,07,43.6,121,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 08:00 AM,2023,01,08,08,58.8,153,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 09:00 AM,2023,01,08,09,66.9,157,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 10:00 AM,2023,01,08,10,55.9,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 11:00 AM,2023,01,08,11,43.4,120,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 12:00 PM,2023,01,08,12,30.7,90,Moderate,18.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 01:00 PM,2023,01,08,13,23.8,76,Moderate,17.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 02:00 PM,2023,01,08,14,20.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 03:00 PM,2023,01,08,15,17.2,62,Moderate,14.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 04:00 PM,2023,01,08,16,15.6,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 05:00 PM,2023,01,08,17,15.8,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 06:00 PM,2023,01,08,18,18.8,65,Moderate,22.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 07:00 PM,2023,01,08,19,28.4,85,Moderate,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 08:00 PM,2023,01,08,20,38.2,108,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 09:00 PM,2023,01,08,21,36.1,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 10:00 PM,2023,01,08,22,35.0,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-08 11:00 PM,2023,01,08,23,35.5,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 12:00 AM,2023,01,09,00,36.2,103,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 01:00 AM,2023,01,09,01,34.6,98,Moderate,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 02:00 AM,2023,01,09,02,28.8,86,Moderate,23.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 03:00 AM,2023,01,09,03,26.4,81,Moderate,24.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 04:00 AM,2023,01,09,04,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 05:00 AM,2023,01,09,05,28.3,85,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 06:00 AM,2023,01,09,06,37.1,105,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 07:00 AM,2023,01,09,07,54.5,148,Unhealthy for Sensitive Groups,72.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 08:00 AM,2023,01,09,08,59.7,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 09:00 AM,2023,01,09,09,60.4,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-09 10:00 AM,2023,01,09,10,60.4,154,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Rangoon,PM2.5 - Principal,2023-01-17 11:00 AM,2023,01,17,11,-999.0,-999,N/A,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 12:00 PM,2023,01,17,12,35.7,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 01:00 PM,2023,01,17,13,33.2,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 02:00 PM,2023,01,17,14,31.1,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 03:00 PM,2023,01,17,15,29.5,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 04:00 PM,2023,01,17,16,29.6,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 05:00 PM,2023,01,17,17,31.1,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 06:00 PM,2023,01,17,18,43.3,120,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 07:00 PM,2023,01,17,19,47.1,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 08:00 PM,2023,01,17,20,46.5,128,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 09:00 PM,2023,01,17,21,48.7,134,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 10:00 PM,2023,01,17,22,46.8,129,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-17 11:00 PM,2023,01,17,23,50.9,139,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 12:00 AM,2023,01,18,00,49.4,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 01:00 AM,2023,01,18,01,47.7,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 02:00 AM,2023,01,18,02,45.3,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 03:00 AM,2023,01,18,03,47.1,130,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 04:00 AM,2023,01,18,04,52.2,142,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 05:00 AM,2023,01,18,05,62.6,155,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 06:00 AM,2023,01,18,06,85.2,166,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 07:00 AM,2023,01,18,07,85.2,166,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Rangoon,PM2.5 - Principal,2023-01-18 09:00 AM,2023,01,18,09,-999.0,-999,N/A,109.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 10:00 AM,2023,01,18,10,94.8,171,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 11:00 AM,2023,01,18,11,82.2,165,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 12:00 PM,2023,01,18,12,72.1,160,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 01:00 PM,2023,01,18,13,65.9,156,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 02:00 PM,2023,01,18,14,59.8,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 03:00 PM,2023,01,18,15,60.9,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 04:00 PM,2023,01,18,16,57.4,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 05:00 PM,2023,01,18,17,53.2,145,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 06:00 PM,2023,01,18,18,49.1,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 07:00 PM,2023,01,18,19,55.0,149,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 08:00 PM,2023,01,18,20,58.0,152,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 09:00 PM,2023,01,18,21,60.9,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 10:00 PM,2023,01,18,22,63.1,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-18 11:00 PM,2023,01,18,23,63.8,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 12:00 AM,2023,01,19,00,61.4,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 01:00 AM,2023,01,19,01,60.6,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 02:00 AM,2023,01,19,02,66.8,157,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 03:00 AM,2023,01,19,03,70.1,159,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 04:00 AM,2023,01,19,04,67.6,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 05:00 AM,2023,01,19,05,80.3,164,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 06:00 AM,2023,01,19,06,92.4,170,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 07:00 AM,2023,01,19,07,91.7,170,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 08:00 AM,2023,01,19,08,86.2,167,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 09:00 AM,2023,01,19,09,81.0,164,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 10:00 AM,2023,01,19,10,70.7,159,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 11:00 AM,2023,01,19,11,62.0,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 12:00 PM,2023,01,19,12,52.4,143,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 01:00 PM,2023,01,19,13,46.2,127,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 02:00 PM,2023,01,19,14,40.6,114,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Suspect
+Rangoon,PM2.5 - Principal,2023-01-19 03:00 PM,2023,01,19,15,37.7,106,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Suspect
+Rangoon,PM2.5 - Principal,2023-01-19 04:00 PM,2023,01,19,16,36.3,103,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Suspect
+Rangoon,PM2.5 - Principal,2023-01-19 05:00 PM,2023,01,19,17,35.6,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Suspect
+Rangoon,PM2.5 - Principal,2023-01-19 06:00 PM,2023,01,19,18,37.8,107,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 07:00 PM,2023,01,19,19,43.9,122,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 08:00 PM,2023,01,19,20,47.4,130,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 09:00 PM,2023,01,19,21,53.9,146,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 10:00 PM,2023,01,19,22,53.5,145,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-19 11:00 PM,2023,01,19,23,55.0,149,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 12:00 AM,2023,01,20,00,54.5,148,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 01:00 AM,2023,01,20,01,50.3,137,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 02:00 AM,2023,01,20,02,52.4,143,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 03:00 AM,2023,01,20,03,53.1,144,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 04:00 AM,2023,01,20,04,49.5,135,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 05:00 AM,2023,01,20,05,49.3,135,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 06:00 AM,2023,01,20,06,51.4,140,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 07:00 AM,2023,01,20,07,55.2,150,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 08:00 AM,2023,01,20,08,62.7,155,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 09:00 AM,2023,01,20,09,67.8,157,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 10:00 AM,2023,01,20,10,59.9,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 11:00 AM,2023,01,20,11,46.5,128,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 12:00 PM,2023,01,20,12,38.2,108,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 01:00 PM,2023,01,20,13,32.6,94,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 02:00 PM,2023,01,20,14,27.8,84,Moderate,23.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 03:00 PM,2023,01,20,15,26.4,81,Moderate,25.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 04:00 PM,2023,01,20,16,25.1,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 05:00 PM,2023,01,20,17,26.0,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 06:00 PM,2023,01,20,18,32.0,93,Moderate,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 07:00 PM,2023,01,20,19,44.5,123,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 08:00 PM,2023,01,20,20,55.2,150,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 09:00 PM,2023,01,20,21,61.6,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 10:00 PM,2023,01,20,22,61.8,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-20 11:00 PM,2023,01,20,23,61.4,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 12:00 AM,2023,01,21,00,59.2,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 01:00 AM,2023,01,21,01,57.6,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 02:00 AM,2023,01,21,02,47.8,131,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 03:00 AM,2023,01,21,03,42.4,118,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 04:00 AM,2023,01,21,04,39.7,111,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 05:00 AM,2023,01,21,05,45.2,125,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 06:00 AM,2023,01,21,06,47.8,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 07:00 AM,2023,01,21,07,61.0,154,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 08:00 AM,2023,01,21,08,70.5,159,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 09:00 AM,2023,01,21,09,67.7,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 10:00 AM,2023,01,21,10,53.3,145,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 11:00 AM,2023,01,21,11,42.1,117,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 12:00 PM,2023,01,21,12,36.0,102,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 01:00 PM,2023,01,21,13,30.0,89,Moderate,24.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 02:00 PM,2023,01,21,14,29.0,87,Moderate,28.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 03:00 PM,2023,01,21,15,27.0,82,Moderate,25.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 04:00 PM,2023,01,21,16,26.0,80,Moderate,25.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 05:00 PM,2023,01,21,17,26.4,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 06:00 PM,2023,01,21,18,27.7,84,Moderate,29.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 07:00 PM,2023,01,21,19,35.8,102,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 08:00 PM,2023,01,21,20,49.4,135,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 09:00 PM,2023,01,21,21,54.7,148,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 10:00 PM,2023,01,21,22,57.3,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-21 11:00 PM,2023,01,21,23,63.1,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 12:00 AM,2023,01,22,00,65.0,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 01:00 AM,2023,01,22,01,65.0,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 02:00 AM,2023,01,22,02,60.5,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 03:00 AM,2023,01,22,03,55.7,151,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 04:00 AM,2023,01,22,04,52.3,142,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 05:00 AM,2023,01,22,05,57.1,152,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 06:00 AM,2023,01,22,06,60.0,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 07:00 AM,2023,01,22,07,72.7,160,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 08:00 AM,2023,01,22,08,76.8,162,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 09:00 AM,2023,01,22,09,79.1,163,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 10:00 AM,2023,01,22,10,67.5,157,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 11:00 AM,2023,01,22,11,51.7,141,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 12:00 PM,2023,01,22,12,42.3,118,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 01:00 PM,2023,01,22,13,37.6,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 02:00 PM,2023,01,22,14,29.8,88,Moderate,22.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 03:00 PM,2023,01,22,15,24.9,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 04:00 PM,2023,01,22,16,22.4,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 05:00 PM,2023,01,22,17,22.7,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 06:00 PM,2023,01,22,18,27.8,84,Moderate,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 07:00 PM,2023,01,22,19,43.9,122,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 08:00 PM,2023,01,22,20,57.9,152,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 09:00 PM,2023,01,22,21,62.4,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 10:00 PM,2023,01,22,22,66.7,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-22 11:00 PM,2023,01,22,23,69.8,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 12:00 AM,2023,01,23,00,69.4,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 01:00 AM,2023,01,23,01,64.2,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 02:00 AM,2023,01,23,02,59.1,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 03:00 AM,2023,01,23,03,58.0,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 04:00 AM,2023,01,23,04,57.5,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 05:00 AM,2023,01,23,05,58.2,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 06:00 AM,2023,01,23,06,60.3,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 07:00 AM,2023,01,23,07,62.4,155,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 08:00 AM,2023,01,23,08,61.4,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 09:00 AM,2023,01,23,09,68.0,157,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 10:00 AM,2023,01,23,10,66.6,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 11:00 AM,2023,01,23,11,57.4,152,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 12:00 PM,2023,01,23,12,48.8,134,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 01:00 PM,2023,01,23,13,44.9,124,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 02:00 PM,2023,01,23,14,36.4,103,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 03:00 PM,2023,01,23,15,32.7,94,Moderate,29.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 04:00 PM,2023,01,23,16,30.8,90,Moderate,29.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 05:00 PM,2023,01,23,17,46.9,129,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 06:00 PM,2023,01,23,18,57.9,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 07:00 PM,2023,01,23,19,70.9,159,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 08:00 PM,2023,01,23,20,75.9,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 09:00 PM,2023,01,23,21,81.9,165,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 10:00 PM,2023,01,23,22,85.5,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-23 11:00 PM,2023,01,23,23,88.7,168,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 12:00 AM,2023,01,24,00,87.3,167,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 01:00 AM,2023,01,24,01,82.1,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 02:00 AM,2023,01,24,02,73.1,160,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 03:00 AM,2023,01,24,03,68.0,157,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 04:00 AM,2023,01,24,04,66.9,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 05:00 AM,2023,01,24,05,60.7,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 06:00 AM,2023,01,24,06,58.3,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 07:00 AM,2023,01,24,07,66.8,157,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 08:00 AM,2023,01,24,08,74.3,161,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 09:00 AM,2023,01,24,09,74.2,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 10:00 AM,2023,01,24,10,71.6,159,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 11:00 AM,2023,01,24,11,61.1,154,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 12:00 PM,2023,01,24,12,50.3,137,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 01:00 PM,2023,01,24,13,43.6,121,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 02:00 PM,2023,01,24,14,38.8,109,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 03:00 PM,2023,01,24,15,33.4,96,Moderate,28.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 04:00 PM,2023,01,24,16,26.2,81,Moderate,19.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 05:00 PM,2023,01,24,17,24.0,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 06:00 PM,2023,01,24,18,26.0,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 07:00 PM,2023,01,24,19,41.0,115,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 08:00 PM,2023,01,24,20,51.5,140,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 09:00 PM,2023,01,24,21,55.2,150,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 10:00 PM,2023,01,24,22,67.6,157,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-24 11:00 PM,2023,01,24,23,69.3,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 12:00 AM,2023,01,25,00,71.1,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 01:00 AM,2023,01,25,01,74.0,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 02:00 AM,2023,01,25,02,70.5,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 03:00 AM,2023,01,25,03,93.2,170,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 04:00 AM,2023,01,25,04,94.6,171,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 05:00 AM,2023,01,25,05,82.3,165,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 06:00 AM,2023,01,25,06,76.1,162,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 07:00 AM,2023,01,25,07,84.5,166,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 08:00 AM,2023,01,25,08,82.3,165,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 09:00 AM,2023,01,25,09,86.0,167,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 10:00 AM,2023,01,25,10,81.7,165,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 11:00 AM,2023,01,25,11,65.6,156,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 12:00 PM,2023,01,25,12,50.3,137,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 01:00 PM,2023,01,25,13,39.6,111,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 02:00 PM,2023,01,25,14,32.3,93,Moderate,25.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 03:00 PM,2023,01,25,15,30.1,89,Moderate,28.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 04:00 PM,2023,01,25,16,29.5,88,Moderate,29.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 05:00 PM,2023,01,25,17,37.2,105,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 06:00 PM,2023,01,25,18,34.6,98,Moderate,32.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 07:00 PM,2023,01,25,19,53.8,146,Unhealthy for Sensitive Groups,73.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 08:00 PM,2023,01,25,20,66.9,157,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 09:00 PM,2023,01,25,21,77.4,162,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 10:00 PM,2023,01,25,22,77.7,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-25 11:00 PM,2023,01,25,23,76.3,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 12:00 AM,2023,01,26,00,67.6,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 01:00 AM,2023,01,26,01,63.8,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 02:00 AM,2023,01,26,02,59.4,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 03:00 AM,2023,01,26,03,55.2,150,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 04:00 AM,2023,01,26,04,60.6,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 05:00 AM,2023,01,26,05,63.8,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 06:00 AM,2023,01,26,06,67.8,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 07:00 AM,2023,01,26,07,87.9,168,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 08:00 AM,2023,01,26,08,96.4,172,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 09:00 AM,2023,01,26,09,95.7,172,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 10:00 AM,2023,01,26,10,87.3,167,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 11:00 AM,2023,01,26,11,89.6,169,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 12:00 PM,2023,01,26,12,70.3,159,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 01:00 PM,2023,01,26,13,58.1,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 02:00 PM,2023,01,26,14,47.5,131,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 03:00 PM,2023,01,26,15,42.2,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 04:00 PM,2023,01,26,16,40.1,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 05:00 PM,2023,01,26,17,39.5,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 06:00 PM,2023,01,26,18,43.2,120,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 07:00 PM,2023,01,26,19,49.1,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 08:00 PM,2023,01,26,20,48.5,133,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 09:00 PM,2023,01,26,21,47.7,131,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 10:00 PM,2023,01,26,22,47.3,130,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-26 11:00 PM,2023,01,26,23,45.6,126,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 12:00 AM,2023,01,27,00,42.2,117,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 01:00 AM,2023,01,27,01,40.4,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 02:00 AM,2023,01,27,02,38.3,108,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 03:00 AM,2023,01,27,03,31.9,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 04:00 AM,2023,01,27,04,30.9,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 05:00 AM,2023,01,27,05,31.9,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 06:00 AM,2023,01,27,06,37.4,106,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 07:00 AM,2023,01,27,07,46.7,129,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 08:00 AM,2023,01,27,08,52.8,144,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 09:00 AM,2023,01,27,09,58.4,152,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 10:00 AM,2023,01,27,10,60.7,154,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 11:00 AM,2023,01,27,11,58.8,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 12:00 PM,2023,01,27,12,48.4,133,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 01:00 PM,2023,01,27,13,43.7,121,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 02:00 PM,2023,01,27,14,40.3,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 03:00 PM,2023,01,27,15,38.1,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 04:00 PM,2023,01,27,16,38.1,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 05:00 PM,2023,01,27,17,38.7,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 06:00 PM,2023,01,27,18,38.8,109,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 07:00 PM,2023,01,27,19,48.5,133,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 08:00 PM,2023,01,27,20,56.6,152,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 09:00 PM,2023,01,27,21,60.4,154,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 10:00 PM,2023,01,27,22,67.2,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-27 11:00 PM,2023,01,27,23,69.1,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 12:00 AM,2023,01,28,00,74.5,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 01:00 AM,2023,01,28,01,76.7,162,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 02:00 AM,2023,01,28,02,74.8,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 03:00 AM,2023,01,28,03,70.4,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 04:00 AM,2023,01,28,04,69.7,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 05:00 AM,2023,01,28,05,70.3,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 06:00 AM,2023,01,28,06,69.0,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 07:00 AM,2023,01,28,07,69.9,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 08:00 AM,2023,01,28,08,78.1,163,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 09:00 AM,2023,01,28,09,77.1,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 10:00 AM,2023,01,28,10,61.2,154,Unhealthy,44.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 11:00 AM,2023,01,28,11,52.6,143,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 12:00 PM,2023,01,28,12,43.3,120,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 01:00 PM,2023,01,28,13,39.1,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 02:00 PM,2023,01,28,14,35.5,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 03:00 PM,2023,01,28,15,32.7,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 04:00 PM,2023,01,28,16,31.8,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 05:00 PM,2023,01,28,17,34.4,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 06:00 PM,2023,01,28,18,34.2,97,Moderate,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 07:00 PM,2023,01,28,19,45.1,125,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 08:00 PM,2023,01,28,20,55.0,149,Unhealthy for Sensitive Groups,65.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 09:00 PM,2023,01,28,21,57.5,152,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 10:00 PM,2023,01,28,22,56.7,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-28 11:00 PM,2023,01,28,23,56.3,151,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 12:00 AM,2023,01,29,00,53.1,144,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 01:00 AM,2023,01,29,01,46.5,128,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 02:00 AM,2023,01,29,02,39.7,111,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 03:00 AM,2023,01,29,03,30.8,90,Moderate,22.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 04:00 AM,2023,01,29,04,26.9,82,Moderate,23.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 05:00 AM,2023,01,29,05,28.9,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 06:00 AM,2023,01,29,06,29.4,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 07:00 AM,2023,01,29,07,35.7,101,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 08:00 AM,2023,01,29,08,41.8,117,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 09:00 AM,2023,01,29,09,37.4,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 10:00 AM,2023,01,29,10,32.2,93,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 11:00 AM,2023,01,29,11,28.6,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 12:00 PM,2023,01,29,12,27.7,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 01:00 PM,2023,01,29,13,27.8,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 02:00 PM,2023,01,29,14,26.9,82,Moderate,26.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 03:00 PM,2023,01,29,15,26.9,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 04:00 PM,2023,01,29,16,27.0,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 05:00 PM,2023,01,29,17,30.3,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 06:00 PM,2023,01,29,18,32.5,94,Moderate,35.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 07:00 PM,2023,01,29,19,34.2,97,Moderate,36.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 08:00 PM,2023,01,29,20,43.1,120,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 09:00 PM,2023,01,29,21,48.5,133,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 10:00 PM,2023,01,29,22,53.3,145,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-29 11:00 PM,2023,01,29,23,49.6,136,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 12:00 AM,2023,01,30,00,47.8,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 01:00 AM,2023,01,30,01,43.4,120,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 02:00 AM,2023,01,30,02,39.2,110,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 03:00 AM,2023,01,30,03,37.1,105,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 04:00 AM,2023,01,30,04,38.1,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 05:00 AM,2023,01,30,05,37.7,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 06:00 AM,2023,01,30,06,37.8,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 07:00 AM,2023,01,30,07,43.4,120,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 08:00 AM,2023,01,30,08,46.8,129,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 09:00 AM,2023,01,30,09,46.9,129,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 10:00 AM,2023,01,30,10,45.7,126,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 11:00 AM,2023,01,30,11,43.5,121,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 12:00 PM,2023,01,30,12,42.0,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 01:00 PM,2023,01,30,13,39.7,111,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 02:00 PM,2023,01,30,14,39.1,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 03:00 PM,2023,01,30,15,39.1,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 04:00 PM,2023,01,30,16,40.0,112,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 05:00 PM,2023,01,30,17,37.4,106,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 06:00 PM,2023,01,30,18,37.2,105,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 07:00 PM,2023,01,30,19,40.0,112,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 08:00 PM,2023,01,30,20,44.4,123,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 09:00 PM,2023,01,30,21,50.2,137,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 10:00 PM,2023,01,30,22,59.3,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-30 11:00 PM,2023,01,30,23,65.1,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 12:00 AM,2023,01,31,00,69.0,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 01:00 AM,2023,01,31,01,69.0,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 02:00 AM,2023,01,31,02,65.5,156,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 03:00 AM,2023,01,31,03,60.7,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 04:00 AM,2023,01,31,04,59.8,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 05:00 AM,2023,01,31,05,64.4,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 06:00 AM,2023,01,31,06,68.4,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 07:00 AM,2023,01,31,07,77.1,162,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 08:00 AM,2023,01,31,08,92.2,170,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 09:00 AM,2023,01,31,09,92.6,170,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 10:00 AM,2023,01,31,10,81.3,164,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 11:00 AM,2023,01,31,11,71.1,159,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 12:00 PM,2023,01,31,12,59.2,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 01:00 PM,2023,01,31,13,51.1,139,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 02:00 PM,2023,01,31,14,43.5,121,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 03:00 PM,2023,01,31,15,39.7,111,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 04:00 PM,2023,01,31,16,40.8,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 05:00 PM,2023,01,31,17,41.9,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 06:00 PM,2023,01,31,18,45.9,127,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 07:00 PM,2023,01,31,19,57.4,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 08:00 PM,2023,01,31,20,67.7,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 09:00 PM,2023,01,31,21,73.3,160,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 10:00 PM,2023,01,31,22,77.1,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-01-31 11:00 PM,2023,01,31,23,70.0,158,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-02-01 12:00 AM,2023,02,01,00,63.5,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Rangoon,PM2.5 - Principal,2023-02-01 01:00 AM,2023,02,01,01,52.7,143,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid

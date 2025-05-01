@@ -1,0 +1,38 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Algiers,PM2.5 - Principal,2021-03-01 01:00 AM,2021,03,01,01,25.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 02:00 AM,2021,03,01,02,24.7,77,Moderate,23.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 03:00 AM,2021,03,01,03,24.4,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 04:00 AM,2021,03,01,04,25.0,78,Moderate,26.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 05:00 AM,2021,03,01,05,25.0,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 06:00 AM,2021,03,01,06,24.6,77,Moderate,24.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 07:00 AM,2021,03,01,07,23.8,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 08:00 AM,2021,03,01,08,24.5,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 09:00 AM,2021,03,01,09,27.6,84,Moderate,33.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 10:00 AM,2021,03,01,10,31.3,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 11:00 AM,2021,03,01,11,33.5,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 12:00 PM,2021,03,01,12,36.7,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 01:00 PM,2021,03,01,13,36.7,104,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Invalid
+Algiers,PM2.5 - Principal,2021-03-01 02:00 PM,2021,03,01,14,-999.0,-999,N/A,34.0,UG/M3,1 Hr,Invalid
+Algiers,PM2.5 - Principal,2021-03-01 03:00 PM,2021,03,01,15,-999.0,-999,N/A,34.0,UG/M3,1 Hr,Invalid
+Algiers,PM2.5 - Principal,2021-03-01 04:00 PM,2021,03,01,16,-999.0,-999,N/A,34.0,UG/M3,1 Hr,Invalid
+Algiers,PM2.5 - Principal,2021-03-01 05:00 PM,2021,03,01,17,-999.0,-999,N/A,31.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 06:00 PM,2021,03,01,18,31.8,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 07:00 PM,2021,03,01,19,31.1,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 08:00 PM,2021,03,01,20,31.8,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 09:00 PM,2021,03,01,21,31.2,91,Moderate,30.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 10:00 PM,2021,03,01,22,31.4,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-01 11:00 PM,2021,03,01,23,31.2,91,Moderate,31.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 12:00 AM,2021,03,02,00,30.5,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 01:00 AM,2021,03,02,01,29.7,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 02:00 AM,2021,03,02,02,29.2,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 03:00 AM,2021,03,02,03,29.2,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 04:00 AM,2021,03,02,04,26.5,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 05:00 AM,2021,03,02,05,26.3,81,Moderate,26.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 06:00 AM,2021,03,02,06,24.3,77,Moderate,21.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 07:00 AM,2021,03,02,07,24.2,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 08:00 AM,2021,03,02,08,25.1,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 09:00 AM,2021,03,02,09,26.8,82,Moderate,30.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 10:00 AM,2021,03,02,10,29.1,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 11:00 AM,2021,03,02,11,42.6,118,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 12:00 PM,2021,03,02,12,40.3,113,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Algiers,PM2.5 - Principal,2021-03-02 01:00 PM,2021,03,02,13,40.3,113,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing

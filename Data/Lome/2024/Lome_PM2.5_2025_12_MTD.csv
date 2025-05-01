@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Lome,PM2.5 - Principal,2024-12-01 01:00 AM,2024,12,01,01,165.4,241,Very Unhealthy,205.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 02:00 AM,2024,12,01,02,166.2,241,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 03:00 AM,2024,12,01,03,137.6,213,Very Unhealthy,109.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 04:00 AM,2024,12,01,04,120.3,196,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 05:00 AM,2024,12,01,05,112.7,191,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 06:00 AM,2024,12,01,06,110.6,190,Unhealthy,108.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 07:00 AM,2024,12,01,07,124.1,199,Unhealthy,137.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 08:00 AM,2024,12,01,08,133.4,209,Very Unhealthy,142.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 09:00 AM,2024,12,01,09,114.2,192,Unhealthy,95.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 10:00 AM,2024,12,01,10,91.3,176,Unhealthy,68.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 11:00 AM,2024,12,01,11,76.6,166,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 12:00 PM,2024,12,01,12,71.1,162,Unhealthy,65.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 01:00 PM,2024,12,01,13,68.0,160,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 02:00 PM,2024,12,01,14,68.4,160,Unhealthy,68.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 03:00 PM,2024,12,01,15,69.5,161,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 04:00 PM,2024,12,01,16,70.1,161,Unhealthy,70.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 05:00 PM,2024,12,01,17,71.7,162,Unhealthy,73.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 06:00 PM,2024,12,01,18,75.2,165,Unhealthy,78.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 07:00 PM,2024,12,01,19,82.5,170,Unhealthy,89.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 08:00 PM,2024,12,01,20,82.8,170,Unhealthy,89.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 09:00 PM,2024,12,01,21,80.4,168,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 10:00 PM,2024,12,01,22,78.0,167,Unhealthy,72.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-01 11:00 PM,2024,12,01,23,78.5,167,Unhealthy,79.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 12:00 AM,2024,12,02,00,78.2,167,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 01:00 AM,2024,12,02,01,76.0,165,Unhealthy,68.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 02:00 AM,2024,12,02,02,74.6,164,Unhealthy,70.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 03:00 AM,2024,12,02,03,74.7,164,Unhealthy,74.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 04:00 AM,2024,12,02,04,79.0,167,Unhealthy,91.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 05:00 AM,2024,12,02,05,79.6,168,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 06:00 AM,2024,12,02,06,107.3,187,Unhealthy,134.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 07:00 AM,2024,12,02,07,138.6,214,Very Unhealthy,169.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 08:00 AM,2024,12,02,08,151.0,226,Very Unhealthy,163.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 09:00 AM,2024,12,02,09,113.8,192,Unhealthy,76.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 10:00 AM,2024,12,02,10,94.2,178,Unhealthy,74.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 11:00 AM,2024,12,02,11,83.3,170,Unhealthy,72.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 12:00 PM,2024,12,02,12,77.4,166,Unhealthy,71.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 01:00 PM,2024,12,02,13,69.0,160,Unhealthy,60.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 02:00 PM,2024,12,02,14,63.8,157,Unhealthy,58.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 03:00 PM,2024,12,02,15,59.7,154,Unhealthy,55.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 04:00 PM,2024,12,02,16,54.5,148,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 05:00 PM,2024,12,02,17,51.4,140,Unhealthy for Sensitive Groups,48.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 06:00 PM,2024,12,02,18,49.8,136,Unhealthy for Sensitive Groups,48.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 07:00 PM,2024,12,02,19,49.1,134,Unhealthy for Sensitive Groups,48.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 08:00 PM,2024,12,02,20,48.4,133,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 09:00 PM,2024,12,02,21,48.1,132,Unhealthy for Sensitive Groups,47.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 10:00 PM,2024,12,02,22,45.9,127,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-02 11:00 PM,2024,12,02,23,44.8,124,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 12:00 AM,2024,12,03,00,44.5,123,Unhealthy for Sensitive Groups,42.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 01:00 AM,2024,12,03,01,42.0,117,Unhealthy for Sensitive Groups,38.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 02:00 AM,2024,12,03,02,41.1,115,Unhealthy for Sensitive Groups,38.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 03:00 AM,2024,12,03,03,39.7,111,Unhealthy for Sensitive Groups,35.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 04:00 AM,2024,12,03,04,40.1,112,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 05:00 AM,2024,12,03,05,40.5,113,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 06:00 AM,2024,12,03,06,46.3,128,Unhealthy for Sensitive Groups,56.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 07:00 AM,2024,12,03,07,52.4,143,Unhealthy for Sensitive Groups,60.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 08:00 AM,2024,12,03,08,52.7,143,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 09:00 AM,2024,12,03,09,48.1,132,Unhealthy for Sensitive Groups,41.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 10:00 AM,2024,12,03,10,48.9,134,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 11:00 AM,2024,12,03,11,48.2,132,Unhealthy for Sensitive Groups,47.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 12:00 PM,2024,12,03,12,46.8,129,Unhealthy for Sensitive Groups,44.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 01:00 PM,2024,12,03,13,44.2,122,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 02:00 PM,2024,12,03,14,41.1,115,Unhealthy for Sensitive Groups,36.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 03:00 PM,2024,12,03,15,39.1,110,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 04:00 PM,2024,12,03,16,37.9,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 05:00 PM,2024,12,03,17,37.7,106,Unhealthy for Sensitive Groups,37.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 06:00 PM,2024,12,03,18,38.2,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 07:00 PM,2024,12,03,19,38.7,109,Unhealthy for Sensitive Groups,39.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 08:00 PM,2024,12,03,20,38.0,107,Unhealthy for Sensitive Groups,36.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 09:00 PM,2024,12,03,21,38.7,109,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 10:00 PM,2024,12,03,22,38.4,108,Unhealthy for Sensitive Groups,37.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-03 11:00 PM,2024,12,03,23,38.6,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 12:00 AM,2024,12,04,00,37.9,107,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 01:00 AM,2024,12,04,01,37.0,105,Unhealthy for Sensitive Groups,33.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 02:00 AM,2024,12,04,02,36.3,103,Unhealthy for Sensitive Groups,33.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 03:00 AM,2024,12,04,03,34.7,99,Moderate,30.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 04:00 AM,2024,12,04,04,34.0,97,Moderate,32.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 05:00 AM,2024,12,04,05,35.0,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 06:00 AM,2024,12,04,06,37.0,105,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 07:00 AM,2024,12,04,07,47.3,130,Unhealthy for Sensitive Groups,57.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 08:00 AM,2024,12,04,08,47.9,132,Unhealthy for Sensitive Groups,48.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 09:00 AM,2024,12,04,09,44.1,122,Unhealthy for Sensitive Groups,39.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 10:00 AM,2024,12,04,10,45.2,125,Unhealthy for Sensitive Groups,46.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 11:00 AM,2024,12,04,11,46.1,127,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 12:00 PM,2024,12,04,12,45.4,125,Unhealthy for Sensitive Groups,44.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 01:00 PM,2024,12,04,13,43.3,120,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 02:00 PM,2024,12,04,14,41.6,116,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 03:00 PM,2024,12,04,15,40.9,114,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 04:00 PM,2024,12,04,16,39.7,111,Unhealthy for Sensitive Groups,36.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 05:00 PM,2024,12,04,17,37.8,107,Unhealthy for Sensitive Groups,35.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 06:00 PM,2024,12,04,18,37.5,106,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 07:00 PM,2024,12,04,19,36.5,103,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 08:00 PM,2024,12,04,20,35.9,102,Unhealthy for Sensitive Groups,34.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 09:00 PM,2024,12,04,21,34.4,98,Moderate,31.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 10:00 PM,2024,12,04,22,32.5,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-04 11:00 PM,2024,12,04,23,33.5,96,Moderate,34.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 12:00 AM,2024,12,05,00,35.0,99,Moderate,38.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 01:00 AM,2024,12,05,01,34.0,97,Moderate,31.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 02:00 AM,2024,12,05,02,33.0,96,Moderate,30.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 03:00 AM,2024,12,05,03,31.3,92,Moderate,27.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 04:00 AM,2024,12,05,04,29.5,89,Moderate,26.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 05:00 AM,2024,12,05,05,29.4,89,Moderate,29.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 06:00 AM,2024,12,05,06,40.2,113,Unhealthy for Sensitive Groups,52.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 07:00 AM,2024,12,05,07,48.9,134,Unhealthy for Sensitive Groups,57.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 08:00 AM,2024,12,05,08,52.9,144,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 09:00 AM,2024,12,05,09,52.3,142,Unhealthy for Sensitive Groups,51.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 10:00 AM,2024,12,05,10,49.0,134,Unhealthy for Sensitive Groups,45.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 11:00 AM,2024,12,05,11,43.7,121,Unhealthy for Sensitive Groups,38.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 12:00 PM,2024,12,05,12,40.8,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 01:00 PM,2024,12,05,13,39.2,110,Unhealthy for Sensitive Groups,37.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 02:00 PM,2024,12,05,14,39.5,111,Unhealthy for Sensitive Groups,39.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 03:00 PM,2024,12,05,15,36.4,103,Unhealthy for Sensitive Groups,33.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 04:00 PM,2024,12,05,16,33.3,96,Moderate,30.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 05:00 PM,2024,12,05,17,29.3,89,Moderate,25.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 06:00 PM,2024,12,05,18,27.5,85,Moderate,25.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 07:00 PM,2024,12,05,19,29.2,88,Moderate,30.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 08:00 PM,2024,12,05,20,28.3,87,Moderate,27.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 09:00 PM,2024,12,05,21,29.0,88,Moderate,29.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 10:00 PM,2024,12,05,22,28.3,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-05 11:00 PM,2024,12,05,23,27.5,85,Moderate,26.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 12:00 AM,2024,12,06,00,27.1,85,Moderate,26.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 01:00 AM,2024,12,06,01,26.4,83,Moderate,25.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 02:00 AM,2024,12,06,02,26.8,84,Moderate,26.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 03:00 AM,2024,12,06,03,26.8,84,Moderate,26.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 04:00 AM,2024,12,06,04,26.6,84,Moderate,26.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 05:00 AM,2024,12,06,05,28.1,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 06:00 AM,2024,12,06,06,34.4,98,Moderate,42.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 07:00 AM,2024,12,06,07,45.5,126,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 08:00 AM,2024,12,06,08,40.8,114,Unhealthy for Sensitive Groups,36.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 09:00 AM,2024,12,06,09,36.5,103,Unhealthy for Sensitive Groups,32.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 10:00 AM,2024,12,06,10,35.8,102,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 11:00 AM,2024,12,06,11,31.8,93,Moderate,27.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 12:00 PM,2024,12,06,12,31.0,92,Moderate,30.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 01:00 PM,2024,12,06,13,28.8,88,Moderate,26.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 02:00 PM,2024,12,06,14,27.4,85,Moderate,25.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 03:00 PM,2024,12,06,15,26.1,83,Moderate,24.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 04:00 PM,2024,12,06,16,25.3,81,Moderate,24.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 05:00 PM,2024,12,06,17,25.2,81,Moderate,25.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 06:00 PM,2024,12,06,18,35.2,100,Moderate,45.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 07:00 PM,2024,12,06,19,29.3,89,Moderate,23.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 08:00 PM,2024,12,06,20,24.7,80,Moderate,20.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 09:00 PM,2024,12,06,21,25.8,82,Moderate,26.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 10:00 PM,2024,12,06,22,23.9,79,Moderate,22.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-06 11:00 PM,2024,12,06,23,25.6,82,Moderate,27.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 12:00 AM,2024,12,07,00,29.5,89,Moderate,33.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 01:00 AM,2024,12,07,01,31.4,93,Moderate,33.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 02:00 AM,2024,12,07,02,30.1,90,Moderate,28.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 03:00 AM,2024,12,07,03,30.1,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 04:00 AM,2024,12,07,04,28.1,86,Moderate,26.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 05:00 AM,2024,12,07,05,28.6,87,Moderate,29.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 06:00 AM,2024,12,07,06,44.7,124,Unhealthy for Sensitive Groups,60.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 07:00 AM,2024,12,07,07,55.0,149,Unhealthy for Sensitive Groups,65.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 08:00 AM,2024,12,07,08,68.8,160,Unhealthy,82.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 09:00 AM,2024,12,07,09,67.2,159,Unhealthy,65.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 10:00 AM,2024,12,07,10,54.1,147,Unhealthy for Sensitive Groups,40.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 11:00 AM,2024,12,07,11,47.7,131,Unhealthy for Sensitive Groups,41.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 12:00 PM,2024,12,07,12,41.1,115,Unhealthy for Sensitive Groups,34.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 01:00 PM,2024,12,07,13,40.2,113,Unhealthy for Sensitive Groups,39.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 02:00 PM,2024,12,07,14,40.9,114,Unhealthy for Sensitive Groups,41.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 03:00 PM,2024,12,07,15,38.4,108,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 04:00 PM,2024,12,07,16,37.0,105,Unhealthy for Sensitive Groups,35.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 05:00 PM,2024,12,07,17,37.9,107,Unhealthy for Sensitive Groups,38.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 06:00 PM,2024,12,07,18,40.1,112,Unhealthy for Sensitive Groups,42.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 07:00 PM,2024,12,07,19,38.0,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 08:00 PM,2024,12,07,20,37.0,105,Unhealthy for Sensitive Groups,35.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 09:00 PM,2024,12,07,21,38.4,108,Unhealthy for Sensitive Groups,40.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 10:00 PM,2024,12,07,22,39.5,111,Unhealthy for Sensitive Groups,43.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-07 11:00 PM,2024,12,07,23,44.2,122,Unhealthy for Sensitive Groups,52.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 12:00 AM,2024,12,08,00,46.5,128,Unhealthy for Sensitive Groups,51.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 01:00 AM,2024,12,08,01,48.1,132,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 02:00 AM,2024,12,08,02,42.2,117,Unhealthy for Sensitive Groups,31.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 03:00 AM,2024,12,08,03,35.0,99,Moderate,27.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 04:00 AM,2024,12,08,04,33.7,97,Moderate,32.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 05:00 AM,2024,12,08,05,41.4,116,Unhealthy for Sensitive Groups,50.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 06:00 AM,2024,12,08,06,45.2,125,Unhealthy for Sensitive Groups,49.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 07:00 AM,2024,12,08,07,54.9,149,Unhealthy for Sensitive Groups,64.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 08:00 AM,2024,12,08,08,66.3,159,Unhealthy,77.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 09:00 AM,2024,12,08,09,71.0,162,Unhealthy,75.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 10:00 AM,2024,12,08,10,60.5,155,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 11:00 AM,2024,12,08,11,54.7,148,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 12:00 PM,2024,12,08,12,51.0,139,Unhealthy for Sensitive Groups,47.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 01:00 PM,2024,12,08,13,49.3,135,Unhealthy for Sensitive Groups,47.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 02:00 PM,2024,12,08,14,49.9,136,Unhealthy for Sensitive Groups,50.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 03:00 PM,2024,12,08,15,47.4,130,Unhealthy for Sensitive Groups,44.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 04:00 PM,2024,12,08,16,44.2,122,Unhealthy for Sensitive Groups,40.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 05:00 PM,2024,12,08,17,42.2,117,Unhealthy for Sensitive Groups,40.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 06:00 PM,2024,12,08,18,39.6,111,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 07:00 PM,2024,12,08,19,41.1,115,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 08:00 PM,2024,12,08,20,40.7,114,Unhealthy for Sensitive Groups,40.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 09:00 PM,2024,12,08,21,40.9,114,Unhealthy for Sensitive Groups,38.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 10:00 PM,2024,12,08,22,41.9,117,Unhealthy for Sensitive Groups,44.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-08 11:00 PM,2024,12,08,23,42.2,117,Unhealthy for Sensitive Groups,43.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 12:00 AM,2024,12,09,00,56.7,152,Unhealthy,71.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 01:00 AM,2024,12,09,01,47.2,130,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 02:00 AM,2024,12,09,02,38.6,109,Unhealthy for Sensitive Groups,30.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 03:00 AM,2024,12,09,03,33.0,96,Moderate,27.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 04:00 AM,2024,12,09,04,29.7,89,Moderate,26.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 05:00 AM,2024,12,09,05,29.9,90,Moderate,30.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 06:00 AM,2024,12,09,06,53.8,146,Unhealthy for Sensitive Groups,77.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 07:00 AM,2024,12,09,07,75.3,165,Unhealthy,96.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 08:00 AM,2024,12,09,08,83.2,170,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 09:00 AM,2024,12,09,09,75.9,165,Unhealthy,68.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 10:00 AM,2024,12,09,10,59.9,154,Unhealthy,43.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 11:00 AM,2024,12,09,11,58.2,153,Unhealthy,56.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 12:00 PM,2024,12,09,12,54.2,147,Unhealthy for Sensitive Groups,50.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 01:00 PM,2024,12,09,13,53.2,145,Unhealthy for Sensitive Groups,52.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 02:00 PM,2024,12,09,14,50.2,137,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 03:00 PM,2024,12,09,15,52.0,142,Unhealthy for Sensitive Groups,53.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 04:00 PM,2024,12,09,16,52.7,143,Unhealthy for Sensitive Groups,53.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 05:00 PM,2024,12,09,17,50.7,138,Unhealthy for Sensitive Groups,48.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 06:00 PM,2024,12,09,18,48.1,132,Unhealthy for Sensitive Groups,45.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 07:00 PM,2024,12,09,19,48.3,133,Unhealthy for Sensitive Groups,48.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 08:00 PM,2024,12,09,20,51.0,139,Unhealthy for Sensitive Groups,54.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 09:00 PM,2024,12,09,21,50.8,139,Unhealthy for Sensitive Groups,51.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 10:00 PM,2024,12,09,22,52.6,143,Unhealthy for Sensitive Groups,58.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-09 11:00 PM,2024,12,09,23,53.5,145,Unhealthy for Sensitive Groups,56.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 12:00 AM,2024,12,10,00,54.6,148,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 01:00 AM,2024,12,10,01,54.3,147,Unhealthy for Sensitive Groups,53.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 02:00 AM,2024,12,10,02,49.0,134,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 03:00 AM,2024,12,10,03,43.6,121,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 04:00 AM,2024,12,10,04,43.4,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 05:00 AM,2024,12,10,05,43.6,121,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 06:00 AM,2024,12,10,06,74.6,164,Unhealthy,106.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 07:00 AM,2024,12,10,07,101.8,183,Unhealthy,128.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 08:00 AM,2024,12,10,08,85.4,172,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 09:00 AM,2024,12,10,09,64.1,157,Unhealthy,42.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 10:00 AM,2024,12,10,10,53.9,146,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 11:00 AM,2024,12,10,11,49.8,136,Unhealthy for Sensitive Groups,45.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 12:00 PM,2024,12,10,12,46.6,128,Unhealthy for Sensitive Groups,43.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 01:00 PM,2024,12,10,13,46.5,128,Unhealthy for Sensitive Groups,46.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 02:00 PM,2024,12,10,14,44.2,122,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 03:00 PM,2024,12,10,15,41.7,116,Unhealthy for Sensitive Groups,39.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 04:00 PM,2024,12,10,16,40.5,113,Unhealthy for Sensitive Groups,39.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 05:00 PM,2024,12,10,17,40.1,112,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 06:00 PM,2024,12,10,18,40.7,114,Unhealthy for Sensitive Groups,41.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 07:00 PM,2024,12,10,19,41.6,116,Unhealthy for Sensitive Groups,42.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 08:00 PM,2024,12,10,20,45.5,126,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 09:00 PM,2024,12,10,21,43.6,121,Unhealthy for Sensitive Groups,39.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 10:00 PM,2024,12,10,22,44.4,123,Unhealthy for Sensitive Groups,46.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-10 11:00 PM,2024,12,10,23,43.0,119,Unhealthy for Sensitive Groups,39.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 12:00 AM,2024,12,11,00,41.1,115,Unhealthy for Sensitive Groups,37.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 01:00 AM,2024,12,11,01,39.4,111,Unhealthy for Sensitive Groups,36.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 02:00 AM,2024,12,11,02,34.0,97,Moderate,29.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 03:00 AM,2024,12,11,03,31.4,93,Moderate,28.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 04:00 AM,2024,12,11,04,29.7,89,Moderate,28.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 05:00 AM,2024,12,11,05,29.8,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 06:00 AM,2024,12,11,06,35.7,101,Unhealthy for Sensitive Groups,41.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 07:00 AM,2024,12,11,07,43.4,120,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 08:00 AM,2024,12,11,08,43.3,120,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 09:00 AM,2024,12,11,09,39.7,111,Unhealthy for Sensitive Groups,35.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 10:00 AM,2024,12,11,10,38.1,107,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 11:00 AM,2024,12,11,11,39.0,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 12:00 PM,2024,12,11,12,41.6,116,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 01:00 PM,2024,12,11,13,39.7,111,Unhealthy for Sensitive Groups,37.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 02:00 PM,2024,12,11,14,38.1,107,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 03:00 PM,2024,12,11,15,36.8,104,Unhealthy for Sensitive Groups,35.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 04:00 PM,2024,12,11,16,34.5,98,Moderate,31.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 05:00 PM,2024,12,11,17,34.4,98,Moderate,33.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 06:00 PM,2024,12,11,18,33.6,97,Moderate,32.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 07:00 PM,2024,12,11,19,32.3,94,Moderate,29.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 08:00 PM,2024,12,11,20,30.0,90,Moderate,27.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 09:00 PM,2024,12,11,21,29.1,88,Moderate,27.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 10:00 PM,2024,12,11,22,27.7,86,Moderate,26.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-11 11:00 PM,2024,12,11,23,26.0,82,Moderate,24.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 12:00 AM,2024,12,12,00,26.3,83,Moderate,25.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 01:00 AM,2024,12,12,01,26.1,83,Moderate,25.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 02:00 AM,2024,12,12,02,26.1,83,Moderate,25.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 03:00 AM,2024,12,12,03,25.8,82,Moderate,24.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 04:00 AM,2024,12,12,04,25.6,82,Moderate,25.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 05:00 AM,2024,12,12,05,26.3,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 06:00 AM,2024,12,12,06,30.0,90,Moderate,37.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 07:00 AM,2024,12,12,07,34.5,98,Moderate,40.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 08:00 AM,2024,12,12,08,34.2,98,Moderate,33.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 09:00 AM,2024,12,12,09,32.6,95,Moderate,30.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 10:00 AM,2024,12,12,10,33.9,97,Moderate,35.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 11:00 AM,2024,12,12,11,33.5,96,Moderate,33.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 12:00 PM,2024,12,12,12,33.1,96,Moderate,32.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 01:00 PM,2024,12,12,13,32.7,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 02:00 PM,2024,12,12,14,30.8,91,Moderate,27.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 03:00 PM,2024,12,12,15,30.5,91,Moderate,29.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 04:00 PM,2024,12,12,16,30.9,92,Moderate,31.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 05:00 PM,2024,12,12,17,32.3,94,Moderate,35.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 06:00 PM,2024,12,12,18,31.0,92,Moderate,28.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 07:00 PM,2024,12,12,19,31.7,93,Moderate,33.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 08:00 PM,2024,12,12,20,32.2,94,Moderate,34.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 09:00 PM,2024,12,12,21,31.4,93,Moderate,28.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 10:00 PM,2024,12,12,22,29.9,90,Moderate,26.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-12 11:00 PM,2024,12,12,23,28.0,86,Moderate,24.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 12:00 AM,2024,12,13,00,27.7,86,Moderate,27.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 01:00 AM,2024,12,13,01,27.1,85,Moderate,25.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 02:00 AM,2024,12,13,02,26.7,84,Moderate,25.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 03:00 AM,2024,12,13,03,25.6,82,Moderate,23.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 04:00 AM,2024,12,13,04,24.8,80,Moderate,23.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 05:00 AM,2024,12,13,05,24.7,80,Moderate,24.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 06:00 AM,2024,12,13,06,29.5,89,Moderate,37.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 07:00 AM,2024,12,13,07,35.3,100,Moderate,41.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 08:00 AM,2024,12,13,08,37.5,106,Unhealthy for Sensitive Groups,40.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 09:00 AM,2024,12,13,09,35.1,99,Moderate,32.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 10:00 AM,2024,12,13,10,34.9,99,Moderate,34.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 11:00 AM,2024,12,13,11,35.2,100,Moderate,35.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 12:00 PM,2024,12,13,12,34.7,99,Moderate,34.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 01:00 PM,2024,12,13,13,35.0,99,Moderate,35.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 02:00 PM,2024,12,13,14,35.1,99,Moderate,35.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 03:00 PM,2024,12,13,15,33.8,97,Moderate,32.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 04:00 PM,2024,12,13,16,32.6,95,Moderate,30.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 05:00 PM,2024,12,13,17,33.4,96,Moderate,33.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 06:00 PM,2024,12,13,18,33.0,96,Moderate,32.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 07:00 PM,2024,12,13,19,32.5,95,Moderate,30.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 08:00 PM,2024,12,13,20,31.4,93,Moderate,27.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 09:00 PM,2024,12,13,21,31.5,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 10:00 PM,2024,12,13,22,32.1,94,Moderate,34.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-13 11:00 PM,2024,12,13,23,34.5,98,Moderate,39.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 12:00 AM,2024,12,14,00,35.6,101,Unhealthy for Sensitive Groups,38.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 01:00 AM,2024,12,14,01,34.0,97,Moderate,30.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 02:00 AM,2024,12,14,02,33.1,96,Moderate,31.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 03:00 AM,2024,12,14,03,33.1,96,Moderate,32.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 04:00 AM,2024,12,14,04,33.5,96,Moderate,34.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 05:00 AM,2024,12,14,05,39.1,110,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 06:00 AM,2024,12,14,06,48.6,133,Unhealthy for Sensitive Groups,56.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 07:00 AM,2024,12,14,07,61.0,155,Unhealthy,73.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 08:00 AM,2024,12,14,08,57.1,152,Unhealthy,53.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 09:00 AM,2024,12,14,09,46.7,129,Unhealthy for Sensitive Groups,36.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 10:00 AM,2024,12,14,10,41.9,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 11:00 AM,2024,12,14,11,41.0,115,Unhealthy for Sensitive Groups,40.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 12:00 PM,2024,12,14,12,37.2,105,Unhealthy for Sensitive Groups,33.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 01:00 PM,2024,12,14,13,35.7,101,Unhealthy for Sensitive Groups,34.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 02:00 PM,2024,12,14,14,34.7,99,Moderate,33.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 03:00 PM,2024,12,14,15,33.0,96,Moderate,31.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 04:00 PM,2024,12,14,16,32.4,94,Moderate,31.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 05:00 PM,2024,12,14,17,47.4,130,Unhealthy for Sensitive Groups,62.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 06:00 PM,2024,12,14,18,40.1,112,Unhealthy for Sensitive Groups,32.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 07:00 PM,2024,12,14,19,37.4,106,Unhealthy for Sensitive Groups,34.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 08:00 PM,2024,12,14,20,36.2,103,Unhealthy for Sensitive Groups,35.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 09:00 PM,2024,12,14,21,34.3,98,Moderate,32.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 10:00 PM,2024,12,14,22,33.6,97,Moderate,32.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-14 11:00 PM,2024,12,14,23,32.2,94,Moderate,30.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 12:00 AM,2024,12,15,00,46.1,127,Unhealthy for Sensitive Groups,60.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 01:00 AM,2024,12,15,01,43.4,120,Unhealthy for Sensitive Groups,40.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 02:00 AM,2024,12,15,02,40.3,113,Unhealthy for Sensitive Groups,37.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 03:00 AM,2024,12,15,03,38.0,107,Unhealthy for Sensitive Groups,35.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 04:00 AM,2024,12,15,04,36.3,103,Unhealthy for Sensitive Groups,34.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 05:00 AM,2024,12,15,05,40.7,114,Unhealthy for Sensitive Groups,45.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 06:00 AM,2024,12,15,06,56.0,151,Unhealthy,71.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 07:00 AM,2024,12,15,07,83.6,171,Unhealthy,111.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 08:00 AM,2024,12,15,08,104.8,186,Unhealthy,125.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 09:00 AM,2024,12,15,09,69.7,161,Unhealthy,34.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 10:00 AM,2024,12,15,10,50.9,139,Unhealthy for Sensitive Groups,32.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 11:00 AM,2024,12,15,11,43.4,120,Unhealthy for Sensitive Groups,35.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 12:00 PM,2024,12,15,12,36.5,103,Unhealthy for Sensitive Groups,29.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 01:00 PM,2024,12,15,13,33.3,96,Moderate,30.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 02:00 PM,2024,12,15,14,35.6,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 03:00 PM,2024,12,15,15,35.1,99,Moderate,34.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 04:00 PM,2024,12,15,16,35.4,100,Moderate,35.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 05:00 PM,2024,12,15,17,31.0,92,Moderate,26.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 06:00 PM,2024,12,15,18,29.4,89,Moderate,27.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 07:00 PM,2024,12,15,19,28.2,87,Moderate,27.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 08:00 PM,2024,12,15,20,27.4,85,Moderate,24.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 09:00 PM,2024,12,15,21,27.0,84,Moderate,26.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 10:00 PM,2024,12,15,22,28.0,86,Moderate,29.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-15 11:00 PM,2024,12,15,23,31.3,92,Moderate,37.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 12:00 AM,2024,12,16,00,35.7,101,Unhealthy for Sensitive Groups,41.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 01:00 AM,2024,12,16,01,34.5,98,Moderate,32.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 02:00 AM,2024,12,16,02,40.2,113,Unhealthy for Sensitive Groups,46.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 03:00 AM,2024,12,16,03,36.2,103,Unhealthy for Sensitive Groups,31.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 04:00 AM,2024,12,16,04,34.0,97,Moderate,31.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 05:00 AM,2024,12,16,05,33.5,96,Moderate,33.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 06:00 AM,2024,12,16,06,43.8,121,Unhealthy for Sensitive Groups,54.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 07:00 AM,2024,12,16,07,59.5,154,Unhealthy,75.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 08:00 AM,2024,12,16,08,64.4,157,Unhealthy,69.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 09:00 AM,2024,12,16,09,57.6,152,Unhealthy,50.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 10:00 AM,2024,12,16,10,51.2,140,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 11:00 AM,2024,12,16,11,48.1,132,Unhealthy for Sensitive Groups,45.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 12:00 PM,2024,12,16,12,46.4,128,Unhealthy for Sensitive Groups,44.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 01:00 PM,2024,12,16,13,46.9,129,Unhealthy for Sensitive Groups,47.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 02:00 PM,2024,12,16,14,45.3,125,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 03:00 PM,2024,12,16,15,43.5,121,Unhealthy for Sensitive Groups,41.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 04:00 PM,2024,12,16,16,42.1,117,Unhealthy for Sensitive Groups,40.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 05:00 PM,2024,12,16,17,38.1,107,Unhealthy for Sensitive Groups,34.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 06:00 PM,2024,12,16,18,37.8,107,Unhealthy for Sensitive Groups,37.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 07:00 PM,2024,12,16,19,37.7,106,Unhealthy for Sensitive Groups,37.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 08:00 PM,2024,12,16,20,37.8,107,Unhealthy for Sensitive Groups,36.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 09:00 PM,2024,12,16,21,39.4,111,Unhealthy for Sensitive Groups,42.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 10:00 PM,2024,12,16,22,39.7,111,Unhealthy for Sensitive Groups,40.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-16 11:00 PM,2024,12,16,23,42.1,117,Unhealthy for Sensitive Groups,47.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 12:00 AM,2024,12,17,00,39.9,112,Unhealthy for Sensitive Groups,34.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 01:00 AM,2024,12,17,01,38.1,107,Unhealthy for Sensitive Groups,33.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 02:00 AM,2024,12,17,02,46.1,127,Unhealthy for Sensitive Groups,58.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 03:00 AM,2024,12,17,03,41.6,116,Unhealthy for Sensitive Groups,35.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 04:00 AM,2024,12,17,04,36.3,103,Unhealthy for Sensitive Groups,30.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 05:00 AM,2024,12,17,05,34.5,98,Moderate,32.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 06:00 AM,2024,12,17,06,38.8,109,Unhealthy for Sensitive Groups,43.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 07:00 AM,2024,12,17,07,44.1,122,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 08:00 AM,2024,12,17,08,62.2,156,Unhealthy,79.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 09:00 AM,2024,12,17,09,54.4,148,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 10:00 AM,2024,12,17,10,52.2,142,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 11:00 AM,2024,12,17,11,72.2,163,Unhealthy,92.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 12:00 PM,2024,12,17,12,85.4,172,Unhealthy,98.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 01:00 PM,2024,12,17,13,98.8,181,Unhealthy,112.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 02:00 PM,2024,12,17,14,90.1,175,Unhealthy,81.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 03:00 PM,2024,12,17,15,87.1,173,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 04:00 PM,2024,12,17,16,87.0,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 05:00 PM,2024,12,17,17,80.1,168,Unhealthy,73.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 06:00 PM,2024,12,17,18,75.7,165,Unhealthy,71.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 07:00 PM,2024,12,17,19,79.4,168,Unhealthy,83.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 08:00 PM,2024,12,17,20,82.1,170,Unhealthy,84.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 09:00 PM,2024,12,17,21,85.2,172,Unhealthy,88.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 10:00 PM,2024,12,17,22,85.1,172,Unhealthy,86.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-17 11:00 PM,2024,12,17,23,79.5,168,Unhealthy,70.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 12:00 AM,2024,12,18,00,77.6,166,Unhealthy,74.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 01:00 AM,2024,12,18,01,73.2,163,Unhealthy,61.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 02:00 AM,2024,12,18,02,65.0,158,Unhealthy,54.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 03:00 AM,2024,12,18,03,52.9,144,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 04:00 AM,2024,12,18,04,47.1,130,Unhealthy for Sensitive Groups,41.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 05:00 AM,2024,12,18,05,55.5,151,Unhealthy,63.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 06:00 AM,2024,12,18,06,84.2,171,Unhealthy,112.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 07:00 AM,2024,12,18,07,102.1,184,Unhealthy,120.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 08:00 AM,2024,12,18,08,102.5,184,Unhealthy,102.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 09:00 AM,2024,12,18,09,86.2,173,Unhealthy,69.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 10:00 AM,2024,12,18,10,92.0,177,Unhealthy,97.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 11:00 AM,2024,12,18,11,116.9,194,Unhealthy,141.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 12:00 PM,2024,12,18,12,128.6,204,Very Unhealthy,140.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 01:00 PM,2024,12,18,13,134.1,210,Very Unhealthy,139.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 02:00 PM,2024,12,18,14,142.1,217,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 03:00 PM,2024,12,18,15,142.6,218,Very Unhealthy,143.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 04:00 PM,2024,12,18,16,139.2,215,Very Unhealthy,135.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 05:00 PM,2024,12,18,17,129.9,205,Very Unhealthy,120.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 06:00 PM,2024,12,18,18,119.6,196,Unhealthy,109.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 07:00 PM,2024,12,18,19,111.6,190,Unhealthy,103.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 08:00 PM,2024,12,18,20,109.1,189,Unhealthy,106.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 09:00 PM,2024,12,18,21,111.1,190,Unhealthy,106.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 10:00 PM,2024,12,18,22,115.0,193,Unhealthy,120.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-18 11:00 PM,2024,12,18,23,117.3,194,Unhealthy,122.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 12:00 AM,2024,12,19,00,116.6,194,Unhealthy,115.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 01:00 AM,2024,12,19,01,117.2,194,Unhealthy,118.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 02:00 AM,2024,12,19,02,109.9,189,Unhealthy,95.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 03:00 AM,2024,12,19,03,107.6,188,Unhealthy,101.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 04:00 AM,2024,12,19,04,111.6,190,Unhealthy,121.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 05:00 AM,2024,12,19,05,113.5,192,Unhealthy,120.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 06:00 AM,2024,12,19,06,119.9,196,Unhealthy,133.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 07:00 AM,2024,12,19,07,123.4,199,Unhealthy,131.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 08:00 AM,2024,12,19,08,105.5,186,Unhealthy,76.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 09:00 AM,2024,12,19,09,84.6,171,Unhealthy,66.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 10:00 AM,2024,12,19,10,72.4,163,Unhealthy,60.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 11:00 AM,2024,12,19,11,64.1,157,Unhealthy,55.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 12:00 PM,2024,12,19,12,72.0,163,Unhealthy,79.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 01:00 PM,2024,12,19,13,75.6,165,Unhealthy,79.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 02:00 PM,2024,12,19,14,74.7,164,Unhealthy,73.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 03:00 PM,2024,12,19,15,85.0,172,Unhealthy,95.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 04:00 PM,2024,12,19,16,96.1,179,Unhealthy,107.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 05:00 PM,2024,12,19,17,113.6,192,Unhealthy,131.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 06:00 PM,2024,12,19,18,113.6,192,Unhealthy,113.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 07:00 PM,2024,12,19,19,114.6,192,Unhealthy,115.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 08:00 PM,2024,12,19,20,138.8,214,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 09:00 PM,2024,12,19,21,157.8,233,Very Unhealthy,176.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 10:00 PM,2024,12,19,22,192.5,267,Very Unhealthy,227.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-19 11:00 PM,2024,12,19,23,210.3,285,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 12:00 AM,2024,12,20,00,223.3,298,Very Unhealthy,236.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 01:00 AM,2024,12,20,01,242.3,334,Hazardous,261.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 02:00 AM,2024,12,20,02,210.7,285,Very Unhealthy,179.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 03:00 AM,2024,12,20,03,186.9,262,Very Unhealthy,163.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 04:00 AM,2024,12,20,04,154.9,230,Very Unhealthy,122.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 05:00 AM,2024,12,20,05,114.6,192,Unhealthy,74.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 06:00 AM,2024,12,20,06,91.4,176,Unhealthy,68.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 07:00 AM,2024,12,20,07,84.0,171,Unhealthy,76.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 08:00 AM,2024,12,20,08,80.0,168,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 09:00 AM,2024,12,20,09,77.0,166,Unhealthy,74.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 10:00 AM,2024,12,20,10,85.1,172,Unhealthy,93.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 11:00 AM,2024,12,20,11,72.8,163,Unhealthy,60.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 12:00 PM,2024,12,20,12,68.9,160,Unhealthy,65.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 01:00 PM,2024,12,20,13,64.2,157,Unhealthy,59.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 02:00 PM,2024,12,20,14,59.9,154,Unhealthy,55.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 03:00 PM,2024,12,20,15,68.2,160,Unhealthy,76.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 04:00 PM,2024,12,20,16,70.7,162,Unhealthy,75.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 05:00 PM,2024,12,20,17,83.6,171,Unhealthy,99.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 06:00 PM,2024,12,20,18,82.2,170,Unhealthy,80.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 07:00 PM,2024,12,20,19,88.7,174,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 08:00 PM,2024,12,20,20,117.9,195,Unhealthy,145.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 09:00 PM,2024,12,20,21,169.7,245,Very Unhealthy,221.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 10:00 PM,2024,12,20,22,182.3,257,Very Unhealthy,194.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-20 11:00 PM,2024,12,20,23,291.0,431,Hazardous,399.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 12:00 AM,2024,12,21,00,374.2,597,Hazardous,457.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 01:00 AM,2024,12,21,01,314.1,477,Hazardous,254.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 02:00 AM,2024,12,21,02,258.5,367,Hazardous,202.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 03:00 AM,2024,12,21,03,222.5,297,Very Unhealthy,186.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 04:00 AM,2024,12,21,04,174.3,249,Very Unhealthy,126.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 05:00 AM,2024,12,21,05,140.2,216,Very Unhealthy,106.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 06:00 AM,2024,12,21,06,141.7,217,Very Unhealthy,143.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 07:00 AM,2024,12,21,07,161.8,237,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 08:00 AM,2024,12,21,08,188.2,263,Very Unhealthy,214.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 09:00 AM,2024,12,21,09,205.9,281,Very Unhealthy,223.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 10:00 AM,2024,12,21,10,214.5,289,Very Unhealthy,223.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 11:00 AM,2024,12,21,11,200.5,275,Very Unhealthy,186.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 12:00 PM,2024,12,21,12,170.7,246,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 01:00 PM,2024,12,21,13,134.6,210,Very Unhealthy,98.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 02:00 PM,2024,12,21,14,117.5,194,Unhealthy,100.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 03:00 PM,2024,12,21,15,117.5,194,Unhealthy,117.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 04:00 PM,2024,12,21,16,143.4,219,Very Unhealthy,169.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 05:00 PM,2024,12,21,17,156.8,232,Very Unhealthy,170.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 06:00 PM,2024,12,21,18,162.8,238,Very Unhealthy,168.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 07:00 PM,2024,12,21,19,168.2,243,Very Unhealthy,173.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 08:00 PM,2024,12,21,20,175.3,250,Very Unhealthy,182.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 09:00 PM,2024,12,21,21,174.0,249,Very Unhealthy,172.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 10:00 PM,2024,12,21,22,186.5,261,Very Unhealthy,199.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-21 11:00 PM,2024,12,21,23,194.8,270,Very Unhealthy,203.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 12:00 AM,2024,12,22,00,208.7,283,Very Unhealthy,222.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 01:00 AM,2024,12,22,01,227.8,306,Hazardous,246.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 02:00 AM,2024,12,22,02,234.8,320,Hazardous,241.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 03:00 AM,2024,12,22,03,223.6,298,Very Unhealthy,223.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 04:00 AM,2024,12,22,04,242.3,334,Hazardous,269.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 05:00 AM,2024,12,22,05,235.1,320,Hazardous,222.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 06:00 AM,2024,12,22,06,234.1,318,Hazardous,232.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 07:00 AM,2024,12,22,07,245.0,340,Hazardous,264.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 08:00 AM,2024,12,22,08,250.6,351,Hazardous,260.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 09:00 AM,2024,12,22,09,227.6,305,Hazardous,182.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 10:00 AM,2024,12,22,10,205.0,280,Very Unhealthy,169.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 11:00 AM,2024,12,22,11,192.0,267,Very Unhealthy,169.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 12:00 PM,2024,12,22,12,188.4,263,Very Unhealthy,182.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 01:00 PM,2024,12,22,13,184.8,260,Very Unhealthy,179.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 02:00 PM,2024,12,22,14,174.6,250,Very Unhealthy,161.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 03:00 PM,2024,12,22,15,168.8,244,Very Unhealthy,160.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 04:00 PM,2024,12,22,16,170.7,246,Very Unhealthy,173.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 05:00 PM,2024,12,22,17,175.4,250,Very Unhealthy,182.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 06:00 PM,2024,12,22,18,177.5,253,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 07:00 PM,2024,12,22,19,168.0,243,Very Unhealthy,154.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 08:00 PM,2024,12,22,20,161.2,236,Very Unhealthy,136.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 09:00 PM,2024,12,22,21,148.3,224,Very Unhealthy,125.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 10:00 PM,2024,12,22,22,143.3,219,Very Unhealthy,132.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-22 11:00 PM,2024,12,22,23,140.4,216,Very Unhealthy,134.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 12:00 AM,2024,12,23,00,141.2,217,Very Unhealthy,143.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 01:00 AM,2024,12,23,01,142.6,218,Very Unhealthy,146.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 02:00 AM,2024,12,23,02,148.4,224,Very Unhealthy,161.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 03:00 AM,2024,12,23,03,197.4,272,Very Unhealthy,245.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 04:00 AM,2024,12,23,04,222.9,298,Very Unhealthy,248.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 05:00 AM,2024,12,23,05,243.5,337,Hazardous,263.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 06:00 AM,2024,12,23,06,233.2,316,Hazardous,222.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 07:00 AM,2024,12,23,07,253.5,357,Hazardous,273.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 08:00 AM,2024,12,23,08,253.5,357,Hazardous,253.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 09:00 AM,2024,12,23,09,214.6,289,Very Unhealthy,175.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 10:00 AM,2024,12,23,10,175.3,250,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 11:00 AM,2024,12,23,11,159.3,234,Very Unhealthy,143.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 12:00 PM,2024,12,23,12,150.5,226,Very Unhealthy,141.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 01:00 PM,2024,12,23,13,147.5,223,Very Unhealthy,144.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 02:00 PM,2024,12,23,14,143.3,219,Very Unhealthy,139.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 03:00 PM,2024,12,23,15,142.1,217,Very Unhealthy,140.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 04:00 PM,2024,12,23,16,138.3,214,Very Unhealthy,134.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 05:00 PM,2024,12,23,17,129.7,205,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 06:00 PM,2024,12,23,18,123.5,199,Unhealthy,117.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 07:00 PM,2024,12,23,19,119.4,196,Unhealthy,115.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 08:00 PM,2024,12,23,20,121.5,197,Unhealthy,118.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 09:00 PM,2024,12,23,21,124.5,199,Unhealthy,121.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 10:00 PM,2024,12,23,22,124.7,200,Unhealthy,126.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-23 11:00 PM,2024,12,23,23,123.6,199,Unhealthy,120.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 12:00 AM,2024,12,24,00,121.8,197,Unhealthy,116.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 01:00 AM,2024,12,24,01,121.3,197,Unhealthy,119.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 02:00 AM,2024,12,24,02,123.9,199,Unhealthy,136.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 03:00 AM,2024,12,24,03,125.8,201,Very Unhealthy,137.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 04:00 AM,2024,12,24,04,127.3,203,Very Unhealthy,135.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 05:00 AM,2024,12,24,05,128.9,204,Very Unhealthy,135.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 06:00 AM,2024,12,24,06,142.7,218,Very Unhealthy,166.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 07:00 AM,2024,12,24,07,180.8,256,Very Unhealthy,217.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 08:00 AM,2024,12,24,08,230.5,311,Hazardous,277.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 09:00 AM,2024,12,24,09,176.2,251,Very Unhealthy,121.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 10:00 AM,2024,12,24,10,143.5,219,Very Unhealthy,110.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 11:00 AM,2024,12,24,11,129.7,205,Very Unhealthy,115.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 12:00 PM,2024,12,24,12,121.1,197,Unhealthy,112.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 01:00 PM,2024,12,24,13,117.4,194,Unhealthy,113.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 02:00 PM,2024,12,24,14,115.7,193,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 03:00 PM,2024,12,24,15,121.4,197,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 04:00 PM,2024,12,24,16,129.1,205,Very Unhealthy,136.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 05:00 PM,2024,12,24,17,126.6,202,Very Unhealthy,124.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 06:00 PM,2024,12,24,18,121.3,197,Unhealthy,116.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 07:00 PM,2024,12,24,19,113.8,192,Unhealthy,106.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 08:00 PM,2024,12,24,20,112.7,191,Unhealthy,100.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 09:00 PM,2024,12,24,21,110.5,190,Unhealthy,104.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 10:00 PM,2024,12,24,22,108.8,188,Unhealthy,104.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-24 11:00 PM,2024,12,24,23,106.1,186,Unhealthy,99.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 12:00 AM,2024,12,25,00,109.6,189,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 01:00 AM,2024,12,25,01,115.4,193,Unhealthy,130.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 02:00 AM,2024,12,25,02,119.7,196,Unhealthy,130.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 03:00 AM,2024,12,25,03,121.3,197,Unhealthy,125.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 04:00 AM,2024,12,25,04,121.9,198,Unhealthy,126.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 05:00 AM,2024,12,25,05,122.7,198,Unhealthy,125.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 06:00 AM,2024,12,25,06,125.1,200,Unhealthy,131.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 07:00 AM,2024,12,25,07,131.4,207,Very Unhealthy,142.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 08:00 AM,2024,12,25,08,136.1,212,Very Unhealthy,145.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 09:00 AM,2024,12,25,09,138.1,213,Very Unhealthy,141.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 10:00 AM,2024,12,25,10,146.1,221,Very Unhealthy,157.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 11:00 AM,2024,12,25,11,138.9,214,Very Unhealthy,128.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 12:00 PM,2024,12,25,12,139.9,215,Very Unhealthy,144.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 01:00 PM,2024,12,25,13,137.6,213,Very Unhealthy,129.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 02:00 PM,2024,12,25,14,133.4,209,Very Unhealthy,120.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 03:00 PM,2024,12,25,15,128.6,204,Very Unhealthy,116.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 04:00 PM,2024,12,25,16,123.7,199,Unhealthy,113.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 05:00 PM,2024,12,25,17,113.4,192,Unhealthy,100.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 06:00 PM,2024,12,25,18,106.7,187,Unhealthy,97.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 07:00 PM,2024,12,25,19,103.6,185,Unhealthy,98.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 08:00 PM,2024,12,25,20,103.2,184,Unhealthy,102.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 09:00 PM,2024,12,25,21,102.0,184,Unhealthy,100.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 10:00 PM,2024,12,25,22,98.7,181,Unhealthy,92.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-25 11:00 PM,2024,12,25,23,94.4,178,Unhealthy,88.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 12:00 AM,2024,12,26,00,96.2,180,Unhealthy,97.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 01:00 AM,2024,12,26,01,96.2,180,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 02:00 AM,2024,12,26,02,95.6,179,Unhealthy,93.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 03:00 AM,2024,12,26,03,91.5,176,Unhealthy,82.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 04:00 AM,2024,12,26,04,91.3,176,Unhealthy,87.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 05:00 AM,2024,12,26,05,90.1,175,Unhealthy,86.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 06:00 AM,2024,12,26,06,90.9,176,Unhealthy,94.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 07:00 AM,2024,12,26,07,92.6,177,Unhealthy,99.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 08:00 AM,2024,12,26,08,94.4,178,Unhealthy,102.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 09:00 AM,2024,12,26,09,98.1,181,Unhealthy,107.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 10:00 AM,2024,12,26,10,104.5,185,Unhealthy,116.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 11:00 AM,2024,12,26,11,107.1,187,Unhealthy,112.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 12:00 PM,2024,12,26,12,107.9,188,Unhealthy,109.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 01:00 PM,2024,12,26,13,107.5,187,Unhealthy,106.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 02:00 PM,2024,12,26,14,105.8,186,Unhealthy,101.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 03:00 PM,2024,12,26,15,103.8,185,Unhealthy,98.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 04:00 PM,2024,12,26,16,102.5,184,Unhealthy,98.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 05:00 PM,2024,12,26,17,102.4,184,Unhealthy,98.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 06:00 PM,2024,12,26,18,102.3,184,Unhealthy,99.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 07:00 PM,2024,12,26,19,102.6,184,Unhealthy,103.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 08:00 PM,2024,12,26,20,103.3,185,Unhealthy,106.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 09:00 PM,2024,12,26,21,101.6,183,Unhealthy,95.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 10:00 PM,2024,12,26,22,101.0,183,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-26 11:00 PM,2024,12,26,23,98.1,181,Unhealthy,88.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 12:00 AM,2024,12,27,00,96.5,180,Unhealthy,89.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 01:00 AM,2024,12,27,01,95.5,179,Unhealthy,92.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 02:00 AM,2024,12,27,02,91.5,176,Unhealthy,82.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 03:00 AM,2024,12,27,03,86.9,173,Unhealthy,77.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 04:00 AM,2024,12,27,04,80.5,169,Unhealthy,70.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 05:00 AM,2024,12,27,05,77.1,166,Unhealthy,70.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 06:00 AM,2024,12,27,06,79.9,168,Unhealthy,85.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 07:00 AM,2024,12,27,07,83.7,171,Unhealthy,91.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 08:00 AM,2024,12,27,08,85.6,172,Unhealthy,90.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 09:00 AM,2024,12,27,09,96.6,180,Unhealthy,113.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 10:00 AM,2024,12,27,10,93.7,178,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 11:00 AM,2024,12,27,11,95.0,179,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 12:00 PM,2024,12,27,12,92.0,177,Unhealthy,87.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 01:00 PM,2024,12,27,13,87.7,174,Unhealthy,80.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 02:00 PM,2024,12,27,14,83.2,170,Unhealthy,75.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 03:00 PM,2024,12,27,15,80.3,168,Unhealthy,75.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 04:00 PM,2024,12,27,16,77.6,166,Unhealthy,73.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 05:00 PM,2024,12,27,17,76.6,166,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 06:00 PM,2024,12,27,18,75.4,165,Unhealthy,73.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 07:00 PM,2024,12,27,19,76.1,165,Unhealthy,77.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 08:00 PM,2024,12,27,20,75.6,165,Unhealthy,74.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 09:00 PM,2024,12,27,21,77.4,166,Unhealthy,80.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 10:00 PM,2024,12,27,22,78.6,167,Unhealthy,82.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-27 11:00 PM,2024,12,27,23,78.9,167,Unhealthy,83.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 12:00 AM,2024,12,28,00,78.8,167,Unhealthy,81.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 01:00 AM,2024,12,28,01,79.6,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 02:00 AM,2024,12,28,02,82.9,170,Unhealthy,91.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 03:00 AM,2024,12,28,03,79.4,168,Unhealthy,66.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 04:00 AM,2024,12,28,04,75.0,165,Unhealthy,64.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 05:00 AM,2024,12,28,05,72.6,163,Unhealthy,67.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 06:00 AM,2024,12,28,06,77.0,166,Unhealthy,87.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 07:00 AM,2024,12,28,07,97.9,181,Unhealthy,120.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 08:00 AM,2024,12,28,08,93.7,178,Unhealthy,88.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 09:00 AM,2024,12,28,09,88.0,174,Unhealthy,81.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 10:00 AM,2024,12,28,10,96.2,180,Unhealthy,105.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 11:00 AM,2024,12,28,11,86.7,173,Unhealthy,75.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 12:00 PM,2024,12,28,12,80.1,168,Unhealthy,72.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 01:00 PM,2024,12,28,13,77.1,166,Unhealthy,73.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 02:00 PM,2024,12,28,14,74.2,164,Unhealthy,70.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 03:00 PM,2024,12,28,15,71.7,162,Unhealthy,68.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 04:00 PM,2024,12,28,16,68.0,160,Unhealthy,63.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 05:00 PM,2024,12,28,17,65.7,158,Unhealthy,63.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 06:00 PM,2024,12,28,18,63.4,157,Unhealthy,61.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 07:00 PM,2024,12,28,19,67.6,159,Unhealthy,72.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 08:00 PM,2024,12,28,20,66.4,159,Unhealthy,64.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 09:00 PM,2024,12,28,21,64.8,158,Unhealthy,62.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 10:00 PM,2024,12,28,22,67.0,159,Unhealthy,70.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-28 11:00 PM,2024,12,28,23,68.6,160,Unhealthy,75.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 12:00 AM,2024,12,29,00,71.1,162,Unhealthy,78.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 01:00 AM,2024,12,29,01,71.2,162,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 02:00 AM,2024,12,29,02,71.0,162,Unhealthy,70.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 03:00 AM,2024,12,29,03,70.6,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 04:00 AM,2024,12,29,04,69.7,161,Unhealthy,66.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 05:00 AM,2024,12,29,05,68.9,160,Unhealthy,65.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 06:00 AM,2024,12,29,06,78.5,167,Unhealthy,97.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 07:00 AM,2024,12,29,07,87.0,173,Unhealthy,100.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 08:00 AM,2024,12,29,08,87.2,173,Unhealthy,87.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 09:00 AM,2024,12,29,09,87.1,173,Unhealthy,88.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 10:00 AM,2024,12,29,10,83.5,171,Unhealthy,76.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 11:00 AM,2024,12,29,11,79.6,168,Unhealthy,72.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 12:00 PM,2024,12,29,12,73.5,164,Unhealthy,63.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 01:00 PM,2024,12,29,13,69.1,161,Unhealthy,62.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 02:00 PM,2024,12,29,14,66.2,159,Unhealthy,61.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 03:00 PM,2024,12,29,15,64.1,157,Unhealthy,61.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 04:00 PM,2024,12,29,16,63.3,156,Unhealthy,62.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 05:00 PM,2024,12,29,17,61.1,155,Unhealthy,58.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 06:00 PM,2024,12,29,18,60.5,155,Unhealthy,59.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 07:00 PM,2024,12,29,19,60.8,155,Unhealthy,60.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 08:00 PM,2024,12,29,20,60.2,154,Unhealthy,59.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 09:00 PM,2024,12,29,21,60.9,155,Unhealthy,61.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 10:00 PM,2024,12,29,22,60.1,154,Unhealthy,57.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-29 11:00 PM,2024,12,29,23,60.0,154,Unhealthy,58.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 12:00 AM,2024,12,30,00,58.8,153,Unhealthy,54.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 01:00 AM,2024,12,30,01,58.2,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 02:00 AM,2024,12,30,02,57.1,152,Unhealthy,53.3,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 03:00 AM,2024,12,30,03,55.5,151,Unhealthy,50.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 04:00 AM,2024,12,30,04,54.8,149,Unhealthy for Sensitive Groups,52.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 05:00 AM,2024,12,30,05,55.2,150,Unhealthy for Sensitive Groups,57.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 06:00 AM,2024,12,30,06,65.3,158,Unhealthy,82.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 07:00 AM,2024,12,30,07,102.2,184,Unhealthy,135.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 08:00 AM,2024,12,30,08,119.0,196,Unhealthy,135.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 09:00 AM,2024,12,30,09,106.2,187,Unhealthy,93.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 10:00 AM,2024,12,30,10,93.7,178,Unhealthy,81.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 11:00 AM,2024,12,30,11,100.4,182,Unhealthy,107.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 12:00 PM,2024,12,30,12,86.9,173,Unhealthy,73.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 01:00 PM,2024,12,30,13,77.4,166,Unhealthy,67.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 02:00 PM,2024,12,30,14,73.4,164,Unhealthy,69.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 03:00 PM,2024,12,30,15,70.7,162,Unhealthy,67.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 04:00 PM,2024,12,30,16,67.4,159,Unhealthy,64.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 05:00 PM,2024,12,30,17,62.5,156,Unhealthy,57.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 06:00 PM,2024,12,30,18,58.3,153,Unhealthy,54.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 07:00 PM,2024,12,30,19,54.8,149,Unhealthy for Sensitive Groups,51.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 08:00 PM,2024,12,30,20,53.7,146,Unhealthy for Sensitive Groups,52.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 09:00 PM,2024,12,30,21,53.1,144,Unhealthy for Sensitive Groups,52.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 10:00 PM,2024,12,30,22,51.3,140,Unhealthy for Sensitive Groups,49.4,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-30 11:00 PM,2024,12,30,23,56.5,152,Unhealthy,63.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 12:00 AM,2024,12,31,00,60.3,154,Unhealthy,69.7,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 01:00 AM,2024,12,31,01,62.6,156,Unhealthy,68.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 02:00 AM,2024,12,31,02,69.5,161,Unhealthy,78.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 03:00 AM,2024,12,31,03,63.4,157,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 04:00 AM,2024,12,31,04,57.7,153,Unhealthy,48.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 05:00 AM,2024,12,31,05,54.8,149,Unhealthy for Sensitive Groups,50.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 06:00 AM,2024,12,31,06,66.8,159,Unhealthy,84.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 07:00 AM,2024,12,31,07,80.9,169,Unhealthy,94.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 08:00 AM,2024,12,31,08,86.3,173,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 09:00 AM,2024,12,31,09,71.4,162,Unhealthy,55.6,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 10:00 AM,2024,12,31,10,64.5,157,Unhealthy,57.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 11:00 AM,2024,12,31,11,61.1,155,Unhealthy,57.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 12:00 PM,2024,12,31,12,58.5,153,Unhealthy,55.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 01:00 PM,2024,12,31,13,56.3,152,Unhealthy,53.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 02:00 PM,2024,12,31,14,52.7,143,Unhealthy for Sensitive Groups,48.9,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 03:00 PM,2024,12,31,15,49.5,135,Unhealthy for Sensitive Groups,46.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 04:00 PM,2024,12,31,16,44.3,123,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 05:00 PM,2024,12,31,17,43.7,121,Unhealthy for Sensitive Groups,43.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 06:00 PM,2024,12,31,18,42.4,118,Unhealthy for Sensitive Groups,41.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 07:00 PM,2024,12,31,19,44.8,124,Unhealthy for Sensitive Groups,47.1,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 08:00 PM,2024,12,31,20,45.6,126,Unhealthy for Sensitive Groups,46.5,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 09:00 PM,2024,12,31,21,48.0,132,Unhealthy for Sensitive Groups,53.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 10:00 PM,2024,12,31,22,49.5,135,Unhealthy for Sensitive Groups,52.8,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2024-12-31 11:00 PM,2024,12,31,23,49.6,136,Unhealthy for Sensitive Groups,50.2,UG/M3,1 Hr,Valid
+Lome,PM2.5 - Principal,2025-01-01 12:00 AM,2025,01,01,00,55.6,151,Unhealthy,64.0,UG/M3,1 Hr,Valid

@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Dushanbe,PM2.5 - Principal,2023-11-01 01:00 AM,2023,11,01,01,61.7,154,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 02:00 AM,2023,11,01,02,55.3,150,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 03:00 AM,2023,11,01,03,50.1,137,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 04:00 AM,2023,11,01,04,37.5,106,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 05:00 AM,2023,11,01,05,30.7,90,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 06:00 AM,2023,11,01,06,18.8,65,Moderate,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 07:00 AM,2023,11,01,07,15.3,58,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 08:00 AM,2023,11,01,08,17.7,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 09:00 AM,2023,11,01,09,19.3,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 10:00 AM,2023,11,01,10,28.1,85,Moderate,37.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 11:00 AM,2023,11,01,11,31.0,91,Moderate,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 12:00 PM,2023,11,01,12,37.0,105,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 01:00 PM,2023,11,01,13,34.0,97,Moderate,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 02:00 PM,2023,11,01,14,33.0,95,Moderate,32.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 03:00 PM,2023,11,01,15,27.0,82,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 04:00 PM,2023,11,01,16,22.4,73,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 05:00 PM,2023,11,01,17,25.2,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 06:00 PM,2023,11,01,18,49.1,134,Unhealthy for Sensitive Groups,73.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 07:00 PM,2023,11,01,19,58.5,153,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 08:00 PM,2023,11,01,20,139.3,194,Unhealthy,220.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 09:00 PM,2023,11,01,21,158.6,209,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 10:00 PM,2023,11,01,22,167.8,218,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-01 11:00 PM,2023,11,01,23,152.4,203,Very Unhealthy,137.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 12:00 AM,2023,11,02,00,159.7,210,Very Unhealthy,167.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 01:00 AM,2023,11,02,01,155.8,206,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 02:00 AM,2023,11,02,02,143.9,197,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 03:00 AM,2023,11,02,03,136.9,193,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 04:00 AM,2023,11,02,04,155.0,205,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 05:00 AM,2023,11,02,05,156.5,207,Very Unhealthy,158.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 06:00 AM,2023,11,02,06,143.2,196,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 07:00 AM,2023,11,02,07,126.6,188,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 08:00 AM,2023,11,02,08,125.3,187,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 09:00 AM,2023,11,02,09,122.2,185,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 10:00 AM,2023,11,02,10,115.6,182,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 11:00 AM,2023,11,02,11,113.4,181,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 12:00 PM,2023,11,02,12,93.5,171,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 01:00 PM,2023,11,02,13,73.2,160,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 02:00 PM,2023,11,02,14,56.1,151,Unhealthy,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 03:00 PM,2023,11,02,15,41.0,115,Unhealthy for Sensitive Groups,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 04:00 PM,2023,11,02,16,35.5,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 05:00 PM,2023,11,02,17,31.7,92,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 06:00 PM,2023,11,02,18,41.3,115,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 07:00 PM,2023,11,02,19,40.6,114,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 08:00 PM,2023,11,02,20,54.3,147,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 09:00 PM,2023,11,02,21,47.1,130,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 10:00 PM,2023,11,02,22,47.0,129,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-02 11:00 PM,2023,11,02,23,48.0,132,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 12:00 AM,2023,11,03,00,47.5,131,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 01:00 AM,2023,11,03,01,45.7,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 02:00 AM,2023,11,03,02,58.3,152,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 03:00 AM,2023,11,03,03,79.6,163,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 04:00 AM,2023,11,03,04,58.8,153,Unhealthy,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 05:00 AM,2023,11,03,05,54.9,149,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 06:00 AM,2023,11,03,06,46.4,128,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 07:00 AM,2023,11,03,07,41.2,115,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 08:00 AM,2023,11,03,08,43.1,120,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 09:00 AM,2023,11,03,09,47.0,129,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 10:00 AM,2023,11,03,10,48.0,132,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 11:00 AM,2023,11,03,11,45.0,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 12:00 PM,2023,11,03,12,53.5,145,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 01:00 PM,2023,11,03,13,41.2,115,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 02:00 PM,2023,11,03,14,41.6,116,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 03:00 PM,2023,11,03,15,31.8,92,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 04:00 PM,2023,11,03,16,25.8,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 05:00 PM,2023,11,03,17,23.4,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 06:00 PM,2023,11,03,18,28.2,85,Moderate,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 07:00 PM,2023,11,03,19,37.1,105,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 08:00 PM,2023,11,03,20,40.0,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 09:00 PM,2023,11,03,21,39.5,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 10:00 PM,2023,11,03,22,39.2,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-03 11:00 PM,2023,11,03,23,41.6,116,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 12:00 AM,2023,11,04,00,46.3,128,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 01:00 AM,2023,11,04,01,47.6,131,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 02:00 AM,2023,11,04,02,37.8,107,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 03:00 AM,2023,11,04,03,33.4,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 04:00 AM,2023,11,04,04,32.2,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 05:00 AM,2023,11,04,05,31.9,93,Moderate,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 06:00 AM,2023,11,04,06,31.5,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 07:00 AM,2023,11,04,07,27.6,84,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 08:00 AM,2023,11,04,08,28.3,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 09:00 AM,2023,11,04,09,45.1,125,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 10:00 AM,2023,11,04,10,43.5,121,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 11:00 AM,2023,11,04,11,42.2,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 12:00 PM,2023,11,04,12,47.1,130,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 01:00 PM,2023,11,04,13,49.0,134,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 02:00 PM,2023,11,04,14,43.5,121,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 03:00 PM,2023,11,04,15,35.7,101,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 04:00 PM,2023,11,04,16,29.8,88,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 05:00 PM,2023,11,04,17,22.9,74,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 06:00 PM,2023,11,04,18,46.4,128,Unhealthy for Sensitive Groups,70.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 07:00 PM,2023,11,04,19,51.7,141,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 08:00 PM,2023,11,04,20,49.8,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 09:00 PM,2023,11,04,21,57.4,152,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 10:00 PM,2023,11,04,22,57.7,152,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-04 11:00 PM,2023,11,04,23,54.3,147,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 12:00 AM,2023,11,05,00,48.6,133,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 01:00 AM,2023,11,05,01,43.3,120,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 02:00 AM,2023,11,05,02,44.1,122,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 03:00 AM,2023,11,05,03,43.0,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 04:00 AM,2023,11,05,04,44.5,123,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 05:00 AM,2023,11,05,05,62.7,155,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 06:00 AM,2023,11,05,06,60.3,153,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 07:00 AM,2023,11,05,07,46.6,128,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 08:00 AM,2023,11,05,08,43.3,120,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 09:00 AM,2023,11,05,09,46.6,128,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 10:00 AM,2023,11,05,10,46.8,129,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 11:00 AM,2023,11,05,11,63.9,155,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 12:00 PM,2023,11,05,12,81.9,165,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 01:00 PM,2023,11,05,13,71.4,159,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 02:00 PM,2023,11,05,14,58.2,152,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 03:00 PM,2023,11,05,15,42.6,118,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 04:00 PM,2023,11,05,16,26.8,82,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 05:00 PM,2023,11,05,17,26.8,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 06:00 PM,2023,11,05,18,39.4,111,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 07:00 PM,2023,11,05,19,56.2,151,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 08:00 PM,2023,11,05,20,60.1,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 09:00 PM,2023,11,05,21,67.0,157,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 10:00 PM,2023,11,05,22,56.5,152,Unhealthy,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-05 11:00 PM,2023,11,05,23,51.7,141,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 12:00 AM,2023,11,06,00,50.8,139,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 01:00 AM,2023,11,06,01,50.9,139,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 02:00 AM,2023,11,06,02,48.9,134,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 03:00 AM,2023,11,06,03,45.9,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 04:00 AM,2023,11,06,04,44.9,124,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 05:00 AM,2023,11,06,05,38.9,109,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 06:00 AM,2023,11,06,06,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 07:00 AM,2023,11,06,07,37.9,107,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 08:00 AM,2023,11,06,08,38.4,108,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 09:00 AM,2023,11,06,09,41.1,115,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 10:00 AM,2023,11,06,10,61.8,154,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 11:00 AM,2023,11,06,11,72.4,160,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 12:00 PM,2023,11,06,12,66.2,157,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 01:00 PM,2023,11,06,13,52.1,142,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 02:00 PM,2023,11,06,14,40.5,113,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 03:00 PM,2023,11,06,15,31.2,91,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 04:00 PM,2023,11,06,16,23.6,75,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 05:00 PM,2023,11,06,17,31.3,91,Moderate,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 06:00 PM,2023,11,06,18,44.1,122,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 07:00 PM,2023,11,06,19,55.0,149,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 08:00 PM,2023,11,06,20,46.0,127,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 09:00 PM,2023,11,06,21,52.0,142,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 10:00 PM,2023,11,06,22,52.0,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-06 11:00 PM,2023,11,06,23,55.0,149,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 12:00 AM,2023,11,07,00,59.5,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 01:00 AM,2023,11,07,01,62.7,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 02:00 AM,2023,11,07,02,63.8,155,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 03:00 AM,2023,11,07,03,61.9,154,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 04:00 AM,2023,11,07,04,75.4,161,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 05:00 AM,2023,11,07,05,69.7,158,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 06:00 AM,2023,11,07,06,41.8,117,Unhealthy for Sensitive Groups,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 07:00 AM,2023,11,07,07,32.9,95,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 08:00 AM,2023,11,07,08,23.9,76,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 09:00 AM,2023,11,07,09,20.9,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 10:00 AM,2023,11,07,10,13.9,55,Moderate,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 11:00 AM,2023,11,07,11,13.4,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 12:00 PM,2023,11,07,12,11.7,49,Good,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 01:00 PM,2023,11,07,13,12.3,51,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 02:00 PM,2023,11,07,14,12.1,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 03:00 PM,2023,11,07,15,12.0,50,Good,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 04:00 PM,2023,11,07,16,12.5,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 05:00 PM,2023,11,07,17,12.7,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 06:00 PM,2023,11,07,18,21.3,70,Moderate,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 07:00 PM,2023,11,07,19,33.1,95,Moderate,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 08:00 PM,2023,11,07,20,42.1,117,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 09:00 PM,2023,11,07,21,41.0,115,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 10:00 PM,2023,11,07,22,35.0,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-07 11:00 PM,2023,11,07,23,35.5,101,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 12:00 AM,2023,11,08,00,39.2,110,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 01:00 AM,2023,11,08,01,34.1,97,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 02:00 AM,2023,11,08,02,24.0,76,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 03:00 AM,2023,11,08,03,19.5,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 04:00 AM,2023,11,08,04,21.2,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 05:00 AM,2023,11,08,05,19.1,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 06:00 AM,2023,11,08,06,19.5,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 07:00 AM,2023,11,08,07,18.2,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 08:00 AM,2023,11,08,08,22.6,73,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 09:00 AM,2023,11,08,09,25.8,80,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 10:00 AM,2023,11,08,10,27.9,84,Moderate,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 11:00 AM,2023,11,08,11,49.9,136,Unhealthy for Sensitive Groups,72.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 12:00 PM,2023,11,08,12,33.4,96,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 01:00 PM,2023,11,08,13,30.2,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 02:00 PM,2023,11,08,14,33.1,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 03:00 PM,2023,11,08,15,30.5,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 04:00 PM,2023,11,08,16,25.2,79,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 05:00 PM,2023,11,08,17,24.1,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 06:00 PM,2023,11,08,18,26.0,80,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 07:00 PM,2023,11,08,19,27.0,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 08:00 PM,2023,11,08,20,38.5,108,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 09:00 PM,2023,11,08,21,35.7,101,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 10:00 PM,2023,11,08,22,34.8,99,Moderate,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-08 11:00 PM,2023,11,08,23,27.4,83,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 12:00 AM,2023,11,09,00,23.7,75,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 01:00 AM,2023,11,09,01,21.8,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 02:00 AM,2023,11,09,02,24.4,77,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 03:00 AM,2023,11,09,03,25.2,79,Moderate,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 04:00 AM,2023,11,09,04,22.6,73,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 05:00 AM,2023,11,09,05,25.3,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 06:00 AM,2023,11,09,06,34.1,97,Moderate,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 07:00 AM,2023,11,09,07,40.0,112,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 08:00 AM,2023,11,09,08,39.5,111,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 09:00 AM,2023,11,09,09,41.2,115,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 10:00 AM,2023,11,09,10,39.6,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 11:00 AM,2023,11,09,11,35.3,100,Moderate,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 12:00 PM,2023,11,09,12,35.1,99,Moderate,35.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 01:00 PM,2023,11,09,13,34.5,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 02:00 PM,2023,11,09,14,30.2,89,Moderate,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 03:00 PM,2023,11,09,15,28.1,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 04:00 PM,2023,11,09,16,22.0,72,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 05:00 PM,2023,11,09,17,16.0,59,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 06:00 PM,2023,11,09,18,13.5,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 07:00 PM,2023,11,09,19,11.7,49,Good,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 08:00 PM,2023,11,09,20,11.3,47,Good,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 09:00 PM,2023,11,09,21,10.1,42,Good,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 10:00 PM,2023,11,09,22,13.5,54,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-09 11:00 PM,2023,11,09,23,13.2,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 12:00 AM,2023,11,10,00,13.6,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 01:00 AM,2023,11,10,01,12.3,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 02:00 AM,2023,11,10,02,13.1,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 03:00 AM,2023,11,10,03,11.6,48,Good,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 04:00 AM,2023,11,10,04,14.1,55,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 05:00 AM,2023,11,10,05,15.5,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 06:00 AM,2023,11,10,06,35.3,100,Moderate,55.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 07:00 AM,2023,11,10,07,32.6,94,Moderate,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 08:00 AM,2023,11,10,08,26.8,82,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 09:00 AM,2023,11,10,09,21.9,72,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 10:00 AM,2023,11,10,10,22.9,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 11:00 AM,2023,11,10,11,23.9,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 12:00 PM,2023,11,10,12,21.9,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 01:00 PM,2023,11,10,13,16.4,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 02:00 PM,2023,11,10,14,13.2,53,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 03:00 PM,2023,11,10,15,9.6,40,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 04:00 PM,2023,11,10,16,6.8,28,Good,4.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 05:00 PM,2023,11,10,17,9.4,39,Good,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 06:00 PM,2023,11,10,18,15.6,58,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 07:00 PM,2023,11,10,19,34.3,98,Moderate,53.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 08:00 PM,2023,11,10,20,28.1,85,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 09:00 PM,2023,11,10,21,19.5,67,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 10:00 PM,2023,11,10,22,14.2,55,Moderate,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-10 11:00 PM,2023,11,10,23,12.6,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 12:00 AM,2023,11,11,00,12.3,51,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 01:00 AM,2023,11,11,01,16.1,59,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 02:00 AM,2023,11,11,02,9.5,40,Good,3.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 03:00 AM,2023,11,11,03,7.7,32,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 04:00 AM,2023,11,11,04,7.8,33,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 05:00 AM,2023,11,11,05,7.4,31,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 06:00 AM,2023,11,11,06,6.7,28,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 07:00 AM,2023,11,11,07,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 08:00 AM,2023,11,11,08,12.9,53,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 09:00 AM,2023,11,11,09,14.4,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 10:00 AM,2023,11,11,10,28.2,85,Moderate,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 11:00 AM,2023,11,11,11,25.1,78,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 12:00 PM,2023,11,11,12,18.5,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 01:00 PM,2023,11,11,13,17.7,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 02:00 PM,2023,11,11,14,19.3,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 03:00 PM,2023,11,11,15,21.1,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 04:00 PM,2023,11,11,16,25.1,78,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 05:00 PM,2023,11,11,17,27.5,83,Moderate,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 06:00 PM,2023,11,11,18,38.7,109,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 07:00 PM,2023,11,11,19,52.8,144,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 08:00 PM,2023,11,11,20,59.9,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 09:00 PM,2023,11,11,21,57.4,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 10:00 PM,2023,11,11,22,52.2,142,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-11 11:00 PM,2023,11,11,23,46.6,128,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 12:00 AM,2023,11,12,00,38.8,109,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 01:00 AM,2023,11,12,01,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 02:00 AM,2023,11,12,02,42.9,119,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 03:00 AM,2023,11,12,03,41.9,117,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 04:00 AM,2023,11,12,04,43.9,122,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 05:00 AM,2023,11,12,05,42.9,119,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 06:00 AM,2023,11,12,06,39.4,111,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 07:00 AM,2023,11,12,07,32.2,93,Moderate,25.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 08:00 AM,2023,11,12,08,28.6,86,Moderate,25.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 09:00 AM,2023,11,12,09,36.1,102,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 10:00 AM,2023,11,12,10,35.6,101,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 11:00 AM,2023,11,12,11,49.8,136,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 12:00 PM,2023,11,12,12,60.9,154,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 01:00 PM,2023,11,12,13,62.4,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 02:00 PM,2023,11,12,14,54.7,148,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 03:00 PM,2023,11,12,15,56.8,152,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 04:00 PM,2023,11,12,16,56.9,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 05:00 PM,2023,11,12,17,61.4,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 06:00 PM,2023,11,12,18,74.7,161,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 07:00 PM,2023,11,12,19,87.3,167,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 08:00 PM,2023,11,12,20,85.6,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 09:00 PM,2023,11,12,21,81.8,165,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 10:00 PM,2023,11,12,22,77.4,162,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-12 11:00 PM,2023,11,12,23,73.2,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 12:00 AM,2023,11,13,00,70.1,159,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 01:00 AM,2023,11,13,01,73.5,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 02:00 AM,2023,11,13,02,71.6,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 03:00 AM,2023,11,13,03,66.2,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 04:00 AM,2023,11,13,04,64.2,155,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 05:00 AM,2023,11,13,05,52.5,143,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 06:00 AM,2023,11,13,06,47.7,131,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 07:00 AM,2023,11,13,07,43.3,120,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 08:00 AM,2023,11,13,08,42.6,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 09:00 AM,2023,11,13,09,42.8,119,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 10:00 AM,2023,11,13,10,42.4,118,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 11:00 AM,2023,11,13,11,52.0,142,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 12:00 PM,2023,11,13,12,59.4,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 01:00 PM,2023,11,13,13,54.9,149,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 02:00 PM,2023,11,13,14,53.2,145,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 03:00 PM,2023,11,13,15,43.7,121,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 04:00 PM,2023,11,13,16,27.2,83,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 05:00 PM,2023,11,13,17,18.1,64,Moderate,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 06:00 PM,2023,11,13,18,25.5,79,Moderate,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 07:00 PM,2023,11,13,19,32.7,94,Moderate,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 08:00 PM,2023,11,13,20,37.8,107,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 09:00 PM,2023,11,13,21,43.4,120,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 10:00 PM,2023,11,13,22,40.7,114,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-13 11:00 PM,2023,11,13,23,44.3,123,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 12:00 AM,2023,11,14,00,41.1,115,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 01:00 AM,2023,11,14,01,39.5,111,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 02:00 AM,2023,11,14,02,40.7,114,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 03:00 AM,2023,11,14,03,33.3,96,Moderate,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 04:00 AM,2023,11,14,04,29.1,87,Moderate,25.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 05:00 AM,2023,11,14,05,29.6,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 06:00 AM,2023,11,14,06,26.8,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 07:00 AM,2023,11,14,07,21.3,70,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 08:00 AM,2023,11,14,08,21.1,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 09:00 AM,2023,11,14,09,24.5,77,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 10:00 AM,2023,11,14,10,43.3,120,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 11:00 AM,2023,11,14,11,43.1,120,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 12:00 PM,2023,11,14,12,31.5,92,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 01:00 PM,2023,11,14,13,24.2,76,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 02:00 PM,2023,11,14,14,18.1,64,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 03:00 PM,2023,11,14,15,14.0,55,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 04:00 PM,2023,11,14,16,13.0,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 05:00 PM,2023,11,14,17,15.5,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 06:00 PM,2023,11,14,18,30.7,90,Moderate,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 07:00 PM,2023,11,14,19,34.3,98,Moderate,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 08:00 PM,2023,11,14,20,36.1,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 09:00 PM,2023,11,14,21,26.5,81,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 10:00 PM,2023,11,14,22,19.7,67,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-14 11:00 PM,2023,11,14,23,13.8,55,Moderate,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 12:00 AM,2023,11,15,00,9.4,39,Good,5.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 01:00 AM,2023,11,15,01,13.2,53,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 02:00 AM,2023,11,15,02,9.6,40,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 03:00 AM,2023,11,15,03,6.8,28,Good,4.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 04:00 AM,2023,11,15,04,5.4,23,Good,4.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 05:00 AM,2023,11,15,05,4.1,17,Good,3.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 06:00 AM,2023,11,15,06,4.5,19,Good,5.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 07:00 AM,2023,11,15,07,5.2,22,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 08:00 AM,2023,11,15,08,7.6,32,Good,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 09:00 AM,2023,11,15,09,10.8,45,Good,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 10:00 AM,2023,11,15,10,10.9,45,Good,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 11:00 AM,2023,11,15,11,12.9,53,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 12:00 PM,2023,11,15,12,15.4,58,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 01:00 PM,2023,11,15,13,14.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 02:00 PM,2023,11,15,14,13.1,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 03:00 PM,2023,11,15,15,13.5,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 04:00 PM,2023,11,15,16,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 05:00 PM,2023,11,15,17,16.8,61,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 06:00 PM,2023,11,15,18,27.4,83,Moderate,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 07:00 PM,2023,11,15,19,38.2,108,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 08:00 PM,2023,11,15,20,41.1,115,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 09:00 PM,2023,11,15,21,33.5,96,Moderate,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 10:00 PM,2023,11,15,22,26.2,81,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-15 11:00 PM,2023,11,15,23,19.6,67,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 12:00 AM,2023,11,16,00,20.8,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 01:00 AM,2023,11,16,01,15.4,58,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 02:00 AM,2023,11,16,02,12.2,51,Moderate,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 03:00 AM,2023,11,16,03,9.1,38,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 04:00 AM,2023,11,16,04,6.5,27,Good,4.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 05:00 AM,2023,11,16,05,7.2,30,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 06:00 AM,2023,11,16,06,7.1,30,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 07:00 AM,2023,11,16,07,7.5,31,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 08:00 AM,2023,11,16,08,13.7,54,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 09:00 AM,2023,11,16,09,17.8,63,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 10:00 AM,2023,11,16,10,17.9,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 11:00 AM,2023,11,16,11,25.4,79,Moderate,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 12:00 PM,2023,11,16,12,26.7,82,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 01:00 PM,2023,11,16,13,24.3,77,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 02:00 PM,2023,11,16,14,20.1,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 03:00 PM,2023,11,16,15,17.5,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 04:00 PM,2023,11,16,16,16.7,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 05:00 PM,2023,11,16,17,18.9,65,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 06:00 PM,2023,11,16,18,37.4,106,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 07:00 PM,2023,11,16,19,37.7,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 08:00 PM,2023,11,16,20,33.3,96,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 09:00 PM,2023,11,16,21,32.6,94,Moderate,32.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 10:00 PM,2023,11,16,22,22.8,74,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-16 11:00 PM,2023,11,16,23,15.4,58,Moderate,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 12:00 AM,2023,11,17,00,11.2,47,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 01:00 AM,2023,11,17,01,9.1,38,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 02:00 AM,2023,11,17,02,7.5,31,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 03:00 AM,2023,11,17,03,6.7,28,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 04:00 AM,2023,11,17,04,7.3,30,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 05:00 AM,2023,11,17,05,6.6,28,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 06:00 AM,2023,11,17,06,5.8,24,Good,5.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 07:00 AM,2023,11,17,07,6.4,27,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 08:00 AM,2023,11,17,08,10.7,45,Good,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 09:00 AM,2023,11,17,09,12.3,51,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 10:00 AM,2023,11,17,10,13.6,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 11:00 AM,2023,11,17,11,17.3,62,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 12:00 PM,2023,11,17,12,17.1,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 01:00 PM,2023,11,17,13,23.0,74,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 02:00 PM,2023,11,17,14,24.5,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 03:00 PM,2023,11,17,15,19.7,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 04:00 PM,2023,11,17,16,21.3,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 05:00 PM,2023,11,17,17,39.7,111,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 06:00 PM,2023,11,17,18,37.8,107,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 07:00 PM,2023,11,17,19,38.9,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 08:00 PM,2023,11,17,20,44.9,124,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 09:00 PM,2023,11,17,21,40.9,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 10:00 PM,2023,11,17,22,37.9,107,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-17 11:00 PM,2023,11,17,23,32.9,95,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 12:00 AM,2023,11,18,00,23.4,75,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 01:00 AM,2023,11,18,01,15.7,59,Moderate,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 02:00 AM,2023,11,18,02,14.3,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 03:00 AM,2023,11,18,03,12.1,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 04:00 AM,2023,11,18,04,9.0,38,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 05:00 AM,2023,11,18,05,8.5,35,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 06:00 AM,2023,11,18,06,9.7,40,Good,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 07:00 AM,2023,11,18,07,9.3,39,Good,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 08:00 AM,2023,11,18,08,31.6,92,Moderate,54.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 09:00 AM,2023,11,18,09,64.3,156,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 10:00 AM,2023,11,18,10,70.6,159,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 11:00 AM,2023,11,18,11,85.8,167,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 12:00 PM,2023,11,18,12,118.4,183,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 01:00 PM,2023,11,18,13,118.2,183,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 02:00 PM,2023,11,18,14,83.6,166,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 03:00 PM,2023,11,18,15,53.8,146,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 04:00 PM,2023,11,18,16,56.4,151,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 05:00 PM,2023,11,18,17,70.7,159,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 06:00 PM,2023,11,18,18,78.3,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 07:00 PM,2023,11,18,19,81.6,164,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 08:00 PM,2023,11,18,20,89.8,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 09:00 PM,2023,11,18,21,87.9,168,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 10:00 PM,2023,11,18,22,99.9,174,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-18 11:00 PM,2023,11,18,23,96.9,172,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 12:00 AM,2023,11,19,00,99.9,174,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 01:00 AM,2023,11,19,01,101.4,175,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 02:00 AM,2023,11,19,02,97.7,173,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 03:00 AM,2023,11,19,03,94.6,171,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 04:00 AM,2023,11,19,04,95.4,172,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 05:00 AM,2023,11,19,05,87.3,167,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 06:00 AM,2023,11,19,06,50.7,138,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 07:00 AM,2023,11,19,07,76.8,162,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 08:00 AM,2023,11,19,08,78.4,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 09:00 AM,2023,11,19,09,65.7,156,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 10:00 AM,2023,11,19,10,44.8,124,Unhealthy for Sensitive Groups,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 11:00 AM,2023,11,19,11,65.4,156,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 12:00 PM,2023,11,19,12,79.7,163,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 01:00 PM,2023,11,19,13,60.8,154,Unhealthy,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 02:00 PM,2023,11,19,14,46.9,129,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 03:00 PM,2023,11,19,15,41.4,116,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 04:00 PM,2023,11,19,16,40.2,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 05:00 PM,2023,11,19,17,40.1,112,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 06:00 PM,2023,11,19,18,52.0,142,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 07:00 PM,2023,11,19,19,59.0,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 08:00 PM,2023,11,19,20,56.0,151,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 09:00 PM,2023,11,19,21,55.5,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 10:00 PM,2023,11,19,22,65.2,156,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-19 11:00 PM,2023,11,19,23,65.1,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 12:00 AM,2023,11,20,00,62.5,155,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 01:00 AM,2023,11,20,01,60.7,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 02:00 AM,2023,11,20,02,53.8,146,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 03:00 AM,2023,11,20,03,48.3,133,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 04:00 AM,2023,11,20,04,44.5,123,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 05:00 AM,2023,11,20,05,38.9,109,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 06:00 AM,2023,11,20,06,36.9,104,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 07:00 AM,2023,11,20,07,37.4,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 08:00 AM,2023,11,20,08,40.7,114,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 09:00 AM,2023,11,20,09,41.8,117,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 10:00 AM,2023,11,20,10,53.5,145,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 11:00 AM,2023,11,20,11,74.4,161,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 12:00 PM,2023,11,20,12,59.7,153,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 01:00 PM,2023,11,20,13,39.8,112,Unhealthy for Sensitive Groups,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 02:00 PM,2023,11,20,14,31.9,93,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 03:00 PM,2023,11,20,15,25.9,80,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 04:00 PM,2023,11,20,16,23.4,75,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 05:00 PM,2023,11,20,17,26.2,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 06:00 PM,2023,11,20,18,49.6,136,Unhealthy for Sensitive Groups,73.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 07:00 PM,2023,11,20,19,50.3,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 08:00 PM,2023,11,20,20,59.1,153,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 09:00 PM,2023,11,20,21,33.5,96,Moderate,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 10:00 PM,2023,11,20,22,23.7,75,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-20 11:00 PM,2023,11,20,23,20.3,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 12:00 AM,2023,11,21,00,18.6,65,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 01:00 AM,2023,11,21,01,14.3,56,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 02:00 AM,2023,11,21,02,13.6,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 03:00 AM,2023,11,21,03,10.8,45,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 04:00 AM,2023,11,21,04,8.4,35,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 05:00 AM,2023,11,21,05,7.7,32,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 06:00 AM,2023,11,21,06,7.8,33,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 07:00 AM,2023,11,21,07,8.4,35,Good,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 08:00 AM,2023,11,21,08,12.2,51,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 09:00 AM,2023,11,21,09,35.6,101,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 10:00 AM,2023,11,21,10,32.3,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 11:00 AM,2023,11,21,11,29.6,88,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 12:00 PM,2023,11,21,12,32.8,95,Moderate,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 01:00 PM,2023,11,21,13,29.4,87,Moderate,26.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 02:00 PM,2023,11,21,14,26.7,82,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 03:00 PM,2023,11,21,15,24.8,78,Moderate,23.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 04:00 PM,2023,11,21,16,26.4,81,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 05:00 PM,2023,11,21,17,31.2,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 06:00 PM,2023,11,21,18,64.1,155,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 07:00 PM,2023,11,21,19,61.5,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 08:00 PM,2023,11,21,20,66.7,157,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 09:00 PM,2023,11,21,21,57.8,152,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 10:00 PM,2023,11,21,22,45.4,125,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-21 11:00 PM,2023,11,21,23,30.2,89,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 12:00 AM,2023,11,22,00,21.6,71,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 01:00 AM,2023,11,22,01,17.8,63,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 02:00 AM,2023,11,22,02,16.9,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 03:00 AM,2023,11,22,03,15.9,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 04:00 AM,2023,11,22,04,14.4,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 05:00 AM,2023,11,22,05,12.7,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 06:00 AM,2023,11,22,06,10.3,43,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 07:00 AM,2023,11,22,07,14.6,56,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 08:00 AM,2023,11,22,08,22.8,74,Moderate,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 09:00 AM,2023,11,22,09,42.4,118,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 10:00 AM,2023,11,22,10,43.7,121,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 11:00 AM,2023,11,22,11,41.3,115,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 12:00 PM,2023,11,22,12,28.6,86,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 01:00 PM,2023,11,22,13,23.8,76,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 02:00 PM,2023,11,22,14,18.9,65,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 03:00 PM,2023,11,22,15,18.9,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 04:00 PM,2023,11,22,16,50.4,138,Unhealthy for Sensitive Groups,82.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 05:00 PM,2023,11,22,17,85.2,166,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 06:00 PM,2023,11,22,18,108.6,178,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 07:00 PM,2023,11,22,19,81.8,165,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 08:00 PM,2023,11,22,20,83.9,166,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 09:00 PM,2023,11,22,21,52.9,144,Unhealthy for Sensitive Groups,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 10:00 PM,2023,11,22,22,29.9,88,Moderate,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-22 11:00 PM,2023,11,22,23,19.4,66,Moderate,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 12:00 AM,2023,11,23,00,15.2,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 01:00 AM,2023,11,23,01,15.6,58,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 02:00 AM,2023,11,23,02,14.3,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 03:00 AM,2023,11,23,03,12.1,51,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 04:00 AM,2023,11,23,04,11.5,48,Good,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 05:00 AM,2023,11,23,05,15.7,59,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 06:00 AM,2023,11,23,06,10.8,45,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 07:00 AM,2023,11,23,07,11.4,48,Good,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 08:00 AM,2023,11,23,08,15.7,59,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 09:00 AM,2023,11,23,09,16.8,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 10:00 AM,2023,11,23,10,14.9,57,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 11:00 AM,2023,11,23,11,14.9,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 12:00 PM,2023,11,23,12,13.4,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 01:00 PM,2023,11,23,13,11.7,49,Good,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 02:00 PM,2023,11,23,14,14.3,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 03:00 PM,2023,11,23,15,15.6,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 04:00 PM,2023,11,23,16,15.3,58,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 05:00 PM,2023,11,23,17,13.6,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 06:00 PM,2023,11,23,18,16.3,60,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 07:00 PM,2023,11,23,19,28.1,85,Moderate,40.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 08:00 PM,2023,11,23,20,18.0,63,Moderate,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 09:00 PM,2023,11,23,21,18.0,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 10:00 PM,2023,11,23,22,12.0,50,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-23 11:00 PM,2023,11,23,23,11.5,48,Good,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 12:00 AM,2023,11,24,00,9.7,40,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 01:00 AM,2023,11,24,01,8.3,35,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 02:00 AM,2023,11,24,02,7.1,30,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 03:00 AM,2023,11,24,03,5.5,23,Good,4.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 04:00 AM,2023,11,24,04,6.2,26,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 05:00 AM,2023,11,24,05,9.1,38,Good,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 06:00 AM,2023,11,24,06,7.5,31,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 07:00 AM,2023,11,24,07,6.7,28,Good,6.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 08:00 AM,2023,11,24,08,7.8,33,Good,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 09:00 AM,2023,11,24,09,7.4,31,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 10:00 AM,2023,11,24,10,14.2,55,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 11:00 AM,2023,11,24,11,15.6,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 12:00 PM,2023,11,24,12,14.3,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 01:00 PM,2023,11,24,13,17.1,62,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 02:00 PM,2023,11,24,14,19.0,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 03:00 PM,2023,11,24,15,18.0,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 04:00 PM,2023,11,24,16,19.0,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 05:00 PM,2023,11,24,17,23.0,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 06:00 PM,2023,11,24,18,37.0,105,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 07:00 PM,2023,11,24,19,38.0,107,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 08:00 PM,2023,11,24,20,40.0,112,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 09:00 PM,2023,11,24,21,36.5,103,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 10:00 PM,2023,11,24,22,33.2,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-24 11:00 PM,2023,11,24,23,25.1,78,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 12:00 AM,2023,11,25,00,19.0,66,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 01:00 AM,2023,11,25,01,16.0,59,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 02:00 AM,2023,11,25,02,12.0,50,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 03:00 AM,2023,11,25,03,10.5,44,Good,9.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 04:00 AM,2023,11,25,04,9.2,38,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 05:00 AM,2023,11,25,05,11.6,48,Good,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 06:00 AM,2023,11,25,06,10.8,45,Good,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 07:00 AM,2023,11,25,07,14.4,56,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 08:00 AM,2023,11,25,08,19.1,66,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 09:00 AM,2023,11,25,09,34.6,98,Moderate,50.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 10:00 AM,2023,11,25,10,41.8,117,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 11:00 AM,2023,11,25,11,41.9,117,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 12:00 PM,2023,11,25,12,29.9,88,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 01:00 PM,2023,11,25,13,21.9,72,Moderate,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 02:00 PM,2023,11,25,14,19.4,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 03:00 PM,2023,11,25,15,41.2,115,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 04:00 PM,2023,11,25,16,35.6,101,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 05:00 PM,2023,11,25,17,59.8,153,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 06:00 PM,2023,11,25,18,79.4,163,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 07:00 PM,2023,11,25,19,67.7,157,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 08:00 PM,2023,11,25,20,63.3,155,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 09:00 PM,2023,11,25,21,59.1,153,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 10:00 PM,2023,11,25,22,57.0,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-25 11:00 PM,2023,11,25,23,50.5,138,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 12:00 AM,2023,11,26,00,40.7,114,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 01:00 AM,2023,11,26,01,39.3,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 02:00 AM,2023,11,26,02,37.6,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 03:00 AM,2023,11,26,03,44.3,123,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 04:00 AM,2023,11,26,04,37.1,105,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 05:00 AM,2023,11,26,05,41.5,116,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 06:00 AM,2023,11,26,06,40.2,113,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 07:00 AM,2023,11,26,07,34.1,97,Moderate,28.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 08:00 AM,2023,11,26,08,38.0,107,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 09:00 AM,2023,11,26,09,45.8,126,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 10:00 AM,2023,11,26,10,46.8,129,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 11:00 AM,2023,11,26,11,44.0,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 12:00 PM,2023,11,26,12,37.2,105,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 01:00 PM,2023,11,26,13,28.9,86,Moderate,21.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 02:00 PM,2023,11,26,14,22.4,73,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 03:00 PM,2023,11,26,15,18.7,65,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 04:00 PM,2023,11,26,16,14.8,57,Moderate,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 05:00 PM,2023,11,26,17,16.4,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 06:00 PM,2023,11,26,18,19.2,66,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 07:00 PM,2023,11,26,19,36.6,104,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 08:00 PM,2023,11,26,20,42.3,118,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 09:00 PM,2023,11,26,21,34.6,98,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 10:00 PM,2023,11,26,22,26.3,81,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-26 11:00 PM,2023,11,26,23,18.1,64,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 12:00 AM,2023,11,27,00,15.5,58,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 01:00 AM,2023,11,27,01,13.7,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 02:00 AM,2023,11,27,02,13.3,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 03:00 AM,2023,11,27,03,14.6,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 04:00 AM,2023,11,27,04,10.8,45,Good,7.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 05:00 AM,2023,11,27,05,10.4,43,Good,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 06:00 AM,2023,11,27,06,10.7,45,Good,11.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 07:00 AM,2023,11,27,07,11.8,49,Good,13.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 08:00 AM,2023,11,27,08,14.4,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 09:00 AM,2023,11,27,09,25.7,80,Moderate,37.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 10:00 AM,2023,11,27,10,24.8,78,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 11:00 AM,2023,11,27,11,29.9,88,Moderate,35.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 12:00 PM,2023,11,27,12,31.9,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 01:00 PM,2023,11,27,13,24.9,78,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 02:00 PM,2023,11,27,14,19.9,67,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 03:00 PM,2023,11,27,15,39.5,111,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 04:00 PM,2023,11,27,16,53.7,146,Unhealthy for Sensitive Groups,68.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 05:00 PM,2023,11,27,17,65.3,156,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 06:00 PM,2023,11,27,18,66.2,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 07:00 PM,2023,11,27,19,65.1,156,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 08:00 PM,2023,11,27,20,59.0,153,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 09:00 PM,2023,11,27,21,58.0,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 10:00 PM,2023,11,27,22,51.0,139,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-27 11:00 PM,2023,11,27,23,45.0,124,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 12:00 AM,2023,11,28,00,42.0,117,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 01:00 AM,2023,11,28,01,36.5,103,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 02:00 AM,2023,11,28,02,25.7,80,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 03:00 AM,2023,11,28,03,20.3,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 04:00 AM,2023,11,28,04,15.1,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 05:00 AM,2023,11,28,05,11.5,48,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 06:00 AM,2023,11,28,06,9.7,40,Good,8.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 07:00 AM,2023,11,28,07,11.8,49,Good,14.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 08:00 AM,2023,11,28,08,16.9,61,Moderate,22.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 09:00 AM,2023,11,28,09,25.4,79,Moderate,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 10:00 AM,2023,11,28,10,22.2,72,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 11:00 AM,2023,11,28,11,37.6,106,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 12:00 PM,2023,11,28,12,67.3,157,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 01:00 PM,2023,11,28,13,69.1,158,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 02:00 PM,2023,11,28,14,81.5,164,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 03:00 PM,2023,11,28,15,80.3,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 04:00 PM,2023,11,28,16,77.6,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 05:00 PM,2023,11,28,17,78.3,163,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 06:00 PM,2023,11,28,18,84.6,166,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 07:00 PM,2023,11,28,19,74.8,161,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 08:00 PM,2023,11,28,20,75.9,162,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 09:00 PM,2023,11,28,21,70.9,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 10:00 PM,2023,11,28,22,60.1,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-28 11:00 PM,2023,11,28,23,52.9,144,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 12:00 AM,2023,11,29,00,43.9,122,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 01:00 AM,2023,11,29,01,33.9,97,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 02:00 AM,2023,11,29,02,28.9,86,Moderate,24.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 03:00 AM,2023,11,29,03,33.4,96,Moderate,38.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 04:00 AM,2023,11,29,04,28.2,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 05:00 AM,2023,11,29,05,28.6,86,Moderate,29.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 06:00 AM,2023,11,29,06,23.2,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 07:00 AM,2023,11,29,07,20.6,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 08:00 AM,2023,11,29,08,19.8,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 09:00 AM,2023,11,29,09,57.4,152,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 10:00 AM,2023,11,29,10,56.2,151,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 11:00 AM,2023,11,29,11,67.1,157,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 12:00 PM,2023,11,29,12,42.5,118,Unhealthy for Sensitive Groups,18.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 01:00 PM,2023,11,29,13,34.7,99,Moderate,27.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 02:00 PM,2023,11,29,14,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 03:00 PM,2023,11,29,15,51.6,141,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 04:00 PM,2023,11,29,16,75.8,161,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 05:00 PM,2023,11,29,17,164.4,215,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 06:00 PM,2023,11,29,18,197.2,247,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 07:00 PM,2023,11,29,19,270.6,321,Hazardous,344.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 08:00 PM,2023,11,29,20,267.8,318,Hazardous,265.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 09:00 PM,2023,11,29,21,242.9,293,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 10:00 PM,2023,11,29,22,229.9,280,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-29 11:00 PM,2023,11,29,23,220.0,270,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 12:00 AM,2023,11,30,00,218.5,268,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 01:00 AM,2023,11,30,01,226.7,277,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 02:00 AM,2023,11,30,02,231.4,281,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 03:00 AM,2023,11,30,03,227.2,277,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 04:00 AM,2023,11,30,04,225.1,275,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 05:00 AM,2023,11,30,05,235.6,285,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 06:00 AM,2023,11,30,06,234.6,284,Very Unhealthy,233.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 07:00 AM,2023,11,30,07,230.9,281,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 08:00 AM,2023,11,30,08,234.1,284,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 09:00 AM,2023,11,30,09,237.7,287,Very Unhealthy,251.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 10:00 AM,2023,11,30,10,257.8,308,Hazardous,296.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 11:00 AM,2023,11,30,11,273.3,324,Hazardous,308.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 12:00 PM,2023,11,30,12,279.3,330,Hazardous,296.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 01:00 PM,2023,11,30,13,273.9,324,Hazardous,260.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 02:00 PM,2023,11,30,14,240.0,290,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 03:00 PM,2023,11,30,15,209.5,259,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 04:00 PM,2023,11,30,16,185.4,236,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 05:00 PM,2023,11,30,17,169.0,219,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 06:00 PM,2023,11,30,18,164.0,214,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 07:00 PM,2023,11,30,19,164.5,215,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 08:00 PM,2023,11,30,20,158.2,209,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 09:00 PM,2023,11,30,21,164.0,214,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 10:00 PM,2023,11,30,22,178.5,229,Very Unhealthy,193.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-11-30 11:00 PM,2023,11,30,23,198.9,249,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+Dushanbe,PM2.5 - Principal,2023-12-01 12:00 AM,2023,12,01,00,196.0,246,Very Unhealthy,198.0,UG/M3,1 Hr,Valid

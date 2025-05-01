@@ -1,0 +1,721 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Mumbai,PM2.5 - Principal,2017-11-01 01:00 AM,2017,11,01,01,111.2,180,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 02:00 AM,2017,11,01,02,123.1,186,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 03:00 AM,2017,11,01,03,111.5,180,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 04:00 AM,2017,11,01,04,100.7,174,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 05:00 AM,2017,11,01,05,95.4,172,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 06:00 AM,2017,11,01,06,90.4,169,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 07:00 AM,2017,11,01,07,87.2,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 08:00 AM,2017,11,01,08,82.2,165,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 09:00 AM,2017,11,01,09,85.0,166,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 10:00 AM,2017,11,01,10,86.4,167,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 11:00 AM,2017,11,01,11,77.9,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 12:00 PM,2017,11,01,12,70.8,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 01:00 PM,2017,11,01,13,67.4,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 02:00 PM,2017,11,01,14,62.3,155,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 03:00 PM,2017,11,01,15,51.0,139,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 04:00 PM,2017,11,01,16,45.0,124,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 05:00 PM,2017,11,01,17,39.5,111,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 06:00 PM,2017,11,01,18,37.7,106,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 07:00 PM,2017,11,01,19,43.8,121,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 08:00 PM,2017,11,01,20,55.4,150,Unhealthy for Sensitive Groups,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 09:00 PM,2017,11,01,21,71.7,159,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 10:00 PM,2017,11,01,22,79.8,164,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-01 11:00 PM,2017,11,01,23,86.9,167,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 12:00 AM,2017,11,02,00,106.4,177,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 01:00 AM,2017,11,02,01,116.2,182,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 02:00 AM,2017,11,02,02,109.6,179,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 03:00 AM,2017,11,02,03,98.3,173,Unhealthy,87.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 04:00 AM,2017,11,02,04,81.6,164,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 05:00 AM,2017,11,02,05,74.3,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 06:00 AM,2017,11,02,06,111.6,180,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 07:00 AM,2017,11,02,07,130.3,190,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 08:00 AM,2017,11,02,08,107.6,178,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 09:00 AM,2017,11,02,09,96.3,172,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 10:00 AM,2017,11,02,10,96.3,172,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2017-11-02 11:00 AM,2017,11,02,11,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2017-11-02 12:00 PM,2017,11,02,12,-999.0,-999,N/A,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 01:00 PM,2017,11,02,13,55.3,150,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 02:00 PM,2017,11,02,14,55.3,150,Unhealthy for Sensitive Groups,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2017-11-02 03:00 PM,2017,11,02,15,43.7,121,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 04:00 PM,2017,11,02,16,40.9,114,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 05:00 PM,2017,11,02,17,36.6,104,Unhealthy for Sensitive Groups,33.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 06:00 PM,2017,11,02,18,38.3,108,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 07:00 PM,2017,11,02,19,46.8,129,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 08:00 PM,2017,11,02,20,63.5,155,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 09:00 PM,2017,11,02,21,85.3,166,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 10:00 PM,2017,11,02,22,96.2,172,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-02 11:00 PM,2017,11,02,23,91.1,169,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 12:00 AM,2017,11,03,00,107.5,178,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 01:00 AM,2017,11,03,01,115.7,182,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 02:00 AM,2017,11,03,02,105.3,177,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 03:00 AM,2017,11,03,03,91.7,170,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 04:00 AM,2017,11,03,04,82.8,165,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 05:00 AM,2017,11,03,05,74.9,161,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 06:00 AM,2017,11,03,06,67.9,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 07:00 AM,2017,11,03,07,62.4,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 08:00 AM,2017,11,03,08,61.7,154,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 09:00 AM,2017,11,03,09,61.7,154,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2017-11-03 10:00 AM,2017,11,03,10,-999.0,-999,N/A,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2017-11-03 11:00 AM,2017,11,03,11,-999.0,-999,N/A,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 12:00 PM,2017,11,03,12,59.1,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 01:00 PM,2017,11,03,13,59.3,153,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 02:00 PM,2017,11,03,14,45.9,127,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 03:00 PM,2017,11,03,15,41.3,115,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 04:00 PM,2017,11,03,16,39.2,110,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 05:00 PM,2017,11,03,17,40.4,113,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 06:00 PM,2017,11,03,18,43.8,121,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 07:00 PM,2017,11,03,19,56.5,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 08:00 PM,2017,11,03,20,62.7,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 09:00 PM,2017,11,03,21,68.3,158,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 10:00 PM,2017,11,03,22,76.1,162,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-03 11:00 PM,2017,11,03,23,82.1,165,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 12:00 AM,2017,11,04,00,92.5,170,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 01:00 AM,2017,11,04,01,97.7,173,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 02:00 AM,2017,11,04,02,93.3,171,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 03:00 AM,2017,11,04,03,91.2,169,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 04:00 AM,2017,11,04,04,79.1,163,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 05:00 AM,2017,11,04,05,79.5,163,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 06:00 AM,2017,11,04,06,81.1,164,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 07:00 AM,2017,11,04,07,84.2,166,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 08:00 AM,2017,11,04,08,86.3,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 09:00 AM,2017,11,04,09,96.8,172,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 10:00 AM,2017,11,04,10,102.9,175,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 11:00 AM,2017,11,04,11,96.1,172,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 12:00 PM,2017,11,04,12,86.0,167,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 01:00 PM,2017,11,04,13,79.1,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 02:00 PM,2017,11,04,14,59.6,153,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 03:00 PM,2017,11,04,15,55.2,150,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 04:00 PM,2017,11,04,16,53.1,144,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 05:00 PM,2017,11,04,17,51.5,140,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 06:00 PM,2017,11,04,18,52.7,143,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 07:00 PM,2017,11,04,19,60.8,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 08:00 PM,2017,11,04,20,72.9,160,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 09:00 PM,2017,11,04,21,80.9,164,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 10:00 PM,2017,11,04,22,100.4,174,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-04 11:00 PM,2017,11,04,23,127.7,188,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 12:00 AM,2017,11,05,00,141.3,195,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 01:00 AM,2017,11,05,01,140.2,195,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 02:00 AM,2017,11,05,02,127.1,188,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 03:00 AM,2017,11,05,03,117.0,183,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 04:00 AM,2017,11,05,04,95.5,172,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 05:00 AM,2017,11,05,05,84.7,166,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 06:00 AM,2017,11,05,06,76.8,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 07:00 AM,2017,11,05,07,72.9,160,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 08:00 AM,2017,11,05,08,71.9,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 09:00 AM,2017,11,05,09,71.4,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 10:00 AM,2017,11,05,10,70.7,159,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 11:00 AM,2017,11,05,11,67.8,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 12:00 PM,2017,11,05,12,66.4,157,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 01:00 PM,2017,11,05,13,57.1,152,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 02:00 PM,2017,11,05,14,48.5,133,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 03:00 PM,2017,11,05,15,38.2,108,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 04:00 PM,2017,11,05,16,36.1,102,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 05:00 PM,2017,11,05,17,36.0,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 06:00 PM,2017,11,05,18,36.0,102,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 07:00 PM,2017,11,05,19,44.5,123,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 08:00 PM,2017,11,05,20,48.7,134,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 09:00 PM,2017,11,05,21,54.8,149,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 10:00 PM,2017,11,05,22,58.9,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-05 11:00 PM,2017,11,05,23,63.9,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 12:00 AM,2017,11,06,00,67.4,157,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 01:00 AM,2017,11,06,01,81.7,165,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 02:00 AM,2017,11,06,02,88.8,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 03:00 AM,2017,11,06,03,86.4,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 04:00 AM,2017,11,06,04,85.2,166,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 05:00 AM,2017,11,06,05,79.6,163,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 06:00 AM,2017,11,06,06,77.3,162,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 07:00 AM,2017,11,06,07,97.9,173,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 08:00 AM,2017,11,06,08,107.9,178,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 09:00 AM,2017,11,06,09,103.8,176,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 10:00 AM,2017,11,06,10,101.7,175,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 11:00 AM,2017,11,06,11,92.9,170,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 12:00 PM,2017,11,06,12,71.0,159,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 01:00 PM,2017,11,06,13,59.5,153,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 02:00 PM,2017,11,06,14,48.7,134,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 03:00 PM,2017,11,06,15,40.3,113,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 04:00 PM,2017,11,06,16,31.1,91,Moderate,22.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 05:00 PM,2017,11,06,17,29.5,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 06:00 PM,2017,11,06,18,29.7,88,Moderate,30.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 07:00 PM,2017,11,06,19,33.3,96,Moderate,37.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 08:00 PM,2017,11,06,20,45.1,125,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 09:00 PM,2017,11,06,21,51.0,139,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 10:00 PM,2017,11,06,22,53.0,144,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-06 11:00 PM,2017,11,06,23,52.5,143,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 12:00 AM,2017,11,07,00,57.7,152,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 01:00 AM,2017,11,07,01,67.3,157,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 02:00 AM,2017,11,07,02,72.1,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 03:00 AM,2017,11,07,03,73.6,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 04:00 AM,2017,11,07,04,77.3,162,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 05:00 AM,2017,11,07,05,79.1,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 06:00 AM,2017,11,07,06,80.0,164,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 07:00 AM,2017,11,07,07,79.9,164,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 08:00 AM,2017,11,07,08,80.7,164,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 09:00 AM,2017,11,07,09,82.0,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 10:00 AM,2017,11,07,10,82.8,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 11:00 AM,2017,11,07,11,81.7,165,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 12:00 PM,2017,11,07,12,79.1,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 01:00 PM,2017,11,07,13,69.7,158,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 02:00 PM,2017,11,07,14,64.6,156,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 03:00 PM,2017,11,07,15,48.0,132,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 04:00 PM,2017,11,07,16,53.0,144,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 05:00 PM,2017,11,07,17,55.5,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 06:00 PM,2017,11,07,18,55.5,151,Unhealthy,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2017-11-07 07:00 PM,2017,11,07,19,-999.0,-999,N/A,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2017-11-07 08:00 PM,2017,11,07,20,-999.0,-999,N/A,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2017-11-07 09:00 PM,2017,11,07,21,-999.0,-999,N/A,48.0,UG/M3,1 Hr,Invalid
+Mumbai,PM2.5 - Principal,2017-11-07 10:00 PM,2017,11,07,22,-999.0,-999,N/A,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-07 11:00 PM,2017,11,07,23,56.9,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 12:00 AM,2017,11,08,00,56.8,152,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 01:00 AM,2017,11,08,01,72.3,160,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 02:00 AM,2017,11,08,02,79.4,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 03:00 AM,2017,11,08,03,97.4,173,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 04:00 AM,2017,11,08,04,113.3,181,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 05:00 AM,2017,11,08,05,124.7,187,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 06:00 AM,2017,11,08,06,130.3,190,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 07:00 AM,2017,11,08,07,124.6,187,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 08:00 AM,2017,11,08,08,119.3,184,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 09:00 AM,2017,11,08,09,110.1,179,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 10:00 AM,2017,11,08,10,103.5,176,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 11:00 AM,2017,11,08,11,89.2,168,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 12:00 PM,2017,11,08,12,84.0,166,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 01:00 PM,2017,11,08,13,74.0,161,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 02:00 PM,2017,11,08,14,70.0,158,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 03:00 PM,2017,11,08,15,50.5,138,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 04:00 PM,2017,11,08,16,50.2,137,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 05:00 PM,2017,11,08,17,60.6,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 06:00 PM,2017,11,08,18,65.7,156,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 07:00 PM,2017,11,08,19,60.8,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 08:00 PM,2017,11,08,20,56.9,152,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 09:00 PM,2017,11,08,21,58.9,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 10:00 PM,2017,11,08,22,59.9,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-08 11:00 PM,2017,11,08,23,60.9,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 12:00 AM,2017,11,09,00,61.4,154,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 01:00 AM,2017,11,09,01,65.7,156,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 02:00 AM,2017,11,09,02,72.8,160,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 03:00 AM,2017,11,09,03,74.0,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 04:00 AM,2017,11,09,04,83.4,165,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 05:00 AM,2017,11,09,05,88.0,168,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 06:00 AM,2017,11,09,06,133.3,191,Unhealthy,177.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 07:00 AM,2017,11,09,07,155.1,206,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 08:00 AM,2017,11,09,08,133.0,191,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 09:00 AM,2017,11,09,09,122.0,185,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 10:00 AM,2017,11,09,10,116.5,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 11:00 AM,2017,11,09,11,94.7,171,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 12:00 PM,2017,11,09,12,71.3,159,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 01:00 PM,2017,11,09,13,57.1,152,Unhealthy,43.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 02:00 PM,2017,11,09,14,48.5,133,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 03:00 PM,2017,11,09,15,38.7,109,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 04:00 PM,2017,11,09,16,29.3,87,Moderate,20.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 05:00 PM,2017,11,09,17,37.1,105,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 06:00 PM,2017,11,09,18,41.0,115,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 07:00 PM,2017,11,09,19,47.0,129,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 08:00 PM,2017,11,09,20,61.0,154,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 09:00 PM,2017,11,09,21,67.9,157,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 10:00 PM,2017,11,09,22,67.9,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-09 11:00 PM,2017,11,09,23,68.4,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 12:00 AM,2017,11,10,00,68.7,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 01:00 AM,2017,11,10,01,85.3,166,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 02:00 AM,2017,11,10,02,93.6,171,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 03:00 AM,2017,11,10,03,84.3,166,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 04:00 AM,2017,11,10,04,81.6,164,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 05:00 AM,2017,11,10,05,85.8,167,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 06:00 AM,2017,11,10,06,98.9,173,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 07:00 AM,2017,11,10,07,105.7,177,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 08:00 AM,2017,11,10,08,112.1,180,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 09:00 AM,2017,11,10,09,115.5,182,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 10:00 AM,2017,11,10,10,102.8,175,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 11:00 AM,2017,11,10,11,91.8,170,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 12:00 PM,2017,11,10,12,85.1,166,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 01:00 PM,2017,11,10,13,80.3,164,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 02:00 PM,2017,11,10,14,71.4,159,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 03:00 PM,2017,11,10,15,55.7,151,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 04:00 PM,2017,11,10,16,46.8,129,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 05:00 PM,2017,11,10,17,49.9,136,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 06:00 PM,2017,11,10,18,53.9,146,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 07:00 PM,2017,11,10,19,58.9,153,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 08:00 PM,2017,11,10,20,61.4,154,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 09:00 PM,2017,11,10,21,67.2,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 10:00 PM,2017,11,10,22,75.1,161,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-10 11:00 PM,2017,11,10,23,79.0,163,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 12:00 AM,2017,11,11,00,81.5,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 01:00 AM,2017,11,11,01,90.2,169,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 02:00 AM,2017,11,11,02,99.6,174,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 03:00 AM,2017,11,11,03,109.8,179,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 04:00 AM,2017,11,11,04,114.9,182,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 05:00 AM,2017,11,11,05,120.4,185,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 06:00 AM,2017,11,11,06,124.7,187,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 07:00 AM,2017,11,11,07,126.8,188,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 08:00 AM,2017,11,11,08,137.4,193,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 09:00 AM,2017,11,11,09,141.0,195,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 10:00 AM,2017,11,11,10,118.2,183,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 11:00 AM,2017,11,11,11,105.7,177,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 12:00 PM,2017,11,11,12,100.0,174,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 01:00 PM,2017,11,11,13,87.8,168,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 02:00 PM,2017,11,11,14,78.9,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 03:00 PM,2017,11,11,15,67.9,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 04:00 PM,2017,11,11,16,56.4,151,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 05:00 PM,2017,11,11,17,52.7,143,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 06:00 PM,2017,11,11,18,60.8,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 07:00 PM,2017,11,11,19,64.9,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 08:00 PM,2017,11,11,20,71.4,159,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 09:00 PM,2017,11,11,21,74.6,161,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 10:00 PM,2017,11,11,22,75.3,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-11 11:00 PM,2017,11,11,23,86.1,167,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 12:00 AM,2017,11,12,00,91.5,170,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 01:00 AM,2017,11,12,01,91.7,170,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 02:00 AM,2017,11,12,02,98.4,173,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 03:00 AM,2017,11,12,03,114.2,181,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 04:00 AM,2017,11,12,04,122.1,185,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 05:00 AM,2017,11,12,05,118.1,183,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 06:00 AM,2017,11,12,06,119.5,184,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 07:00 AM,2017,11,12,07,119.7,184,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 08:00 AM,2017,11,12,08,109.0,179,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 09:00 AM,2017,11,12,09,102.8,175,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 10:00 AM,2017,11,12,10,97.2,173,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 11:00 AM,2017,11,12,11,90.5,169,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 12:00 PM,2017,11,12,12,81.6,164,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 01:00 PM,2017,11,12,13,69.4,158,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 02:00 PM,2017,11,12,14,60.6,154,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 03:00 PM,2017,11,12,15,54.3,147,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 04:00 PM,2017,11,12,16,52.1,142,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 05:00 PM,2017,11,12,17,51.0,139,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 06:00 PM,2017,11,12,18,51.5,140,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 07:00 PM,2017,11,12,19,54.2,147,Unhealthy for Sensitive Groups,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 08:00 PM,2017,11,12,20,59.9,153,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 09:00 PM,2017,11,12,21,65.5,156,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 10:00 PM,2017,11,12,22,69.1,158,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-12 11:00 PM,2017,11,12,23,76.3,162,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 12:00 AM,2017,11,13,00,90.5,169,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 01:00 AM,2017,11,13,01,101.2,175,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 02:00 AM,2017,11,13,02,109.1,179,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 03:00 AM,2017,11,13,03,121.0,185,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 04:00 AM,2017,11,13,04,127.5,188,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 05:00 AM,2017,11,13,05,134.2,192,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 06:00 AM,2017,11,13,06,143.1,196,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 07:00 AM,2017,11,13,07,147.5,199,Unhealthy,152.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 08:00 AM,2017,11,13,08,149.3,199,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 09:00 AM,2017,11,13,09,150.1,200,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 10:00 AM,2017,11,13,10,143.9,197,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 11:00 AM,2017,11,13,11,139.4,194,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 12:00 PM,2017,11,13,12,137.3,193,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 01:00 PM,2017,11,13,13,110.0,179,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 02:00 PM,2017,11,13,14,82.3,165,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 03:00 PM,2017,11,13,15,63.6,155,Unhealthy,45.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 04:00 PM,2017,11,13,16,55.8,151,Unhealthy,48.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 05:00 PM,2017,11,13,17,62.4,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 06:00 PM,2017,11,13,18,76.6,162,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 07:00 PM,2017,11,13,19,88.8,168,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 08:00 PM,2017,11,13,20,94.9,171,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 09:00 PM,2017,11,13,21,91.4,170,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 10:00 PM,2017,11,13,22,94.7,171,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-13 11:00 PM,2017,11,13,23,104.8,176,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 12:00 AM,2017,11,14,00,142.9,196,Unhealthy,181.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 01:00 AM,2017,11,14,01,167.4,218,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 02:00 AM,2017,11,14,02,179.7,230,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 03:00 AM,2017,11,14,03,192.3,242,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 04:00 AM,2017,11,14,04,198.7,249,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 05:00 AM,2017,11,14,05,198.8,249,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 06:00 AM,2017,11,14,06,198.9,249,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 07:00 AM,2017,11,14,07,187.9,238,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 08:00 AM,2017,11,14,08,190.0,240,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 09:00 AM,2017,11,14,09,191.0,241,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 10:00 AM,2017,11,14,10,193.7,244,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 11:00 AM,2017,11,14,11,194.2,244,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 12:00 PM,2017,11,14,12,193.4,244,Very Unhealthy,187.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 01:00 PM,2017,11,14,13,171.8,222,Very Unhealthy,134.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 02:00 PM,2017,11,14,14,107.7,178,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 03:00 PM,2017,11,14,15,79.8,164,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 04:00 PM,2017,11,14,16,65.9,156,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 05:00 PM,2017,11,14,17,66.4,157,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 06:00 PM,2017,11,14,18,71.2,159,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 07:00 PM,2017,11,14,19,73.5,160,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 08:00 PM,2017,11,14,20,72.7,160,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 09:00 PM,2017,11,14,21,78.3,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 10:00 PM,2017,11,14,22,88.1,168,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-14 11:00 PM,2017,11,14,23,99.5,174,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 12:00 AM,2017,11,15,00,112.2,180,Unhealthy,125.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 01:00 AM,2017,11,15,01,127.1,188,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 02:00 AM,2017,11,15,02,137.0,193,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 03:00 AM,2017,11,15,03,142.0,196,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 04:00 AM,2017,11,15,04,136.5,193,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 05:00 AM,2017,11,15,05,139.2,194,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 06:00 AM,2017,11,15,06,142.1,196,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 07:00 AM,2017,11,15,07,149.5,200,Unhealthy,157.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 08:00 AM,2017,11,15,08,152.6,203,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 09:00 AM,2017,11,15,09,180.6,231,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 10:00 AM,2017,11,15,10,192.2,242,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 11:00 AM,2017,11,15,11,173.8,224,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 12:00 PM,2017,11,15,12,151.8,202,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 01:00 PM,2017,11,15,13,121.1,185,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 02:00 PM,2017,11,15,14,100.0,174,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 03:00 PM,2017,11,15,15,85.0,166,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 04:00 PM,2017,11,15,16,68.5,158,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 05:00 PM,2017,11,15,17,59.2,153,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 06:00 PM,2017,11,15,18,56.6,152,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 07:00 PM,2017,11,15,19,61.2,154,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 08:00 PM,2017,11,15,20,68.6,158,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 09:00 PM,2017,11,15,21,81.8,165,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 10:00 PM,2017,11,15,22,88.3,168,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-15 11:00 PM,2017,11,15,23,90.6,169,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 12:00 AM,2017,11,16,00,103.3,176,Unhealthy,116.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 01:00 AM,2017,11,16,01,118.1,183,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 02:00 AM,2017,11,16,02,125.5,187,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 03:00 AM,2017,11,16,03,125.8,187,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 04:00 AM,2017,11,16,04,116.9,183,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 05:00 AM,2017,11,16,05,112.4,180,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 06:00 AM,2017,11,16,06,120.2,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 07:00 AM,2017,11,16,07,140.1,195,Unhealthy,160.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 08:00 AM,2017,11,16,08,146.4,198,Unhealthy,160.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 09:00 AM,2017,11,16,09,150.8,201,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 10:00 AM,2017,11,16,10,153.4,204,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 11:00 AM,2017,11,16,11,144.4,197,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 12:00 PM,2017,11,16,12,136.8,193,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 01:00 PM,2017,11,16,13,119.4,184,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 02:00 PM,2017,11,16,14,89.5,169,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 03:00 PM,2017,11,16,15,77.2,162,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 04:00 PM,2017,11,16,16,69.6,158,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 05:00 PM,2017,11,16,17,68.3,158,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 06:00 PM,2017,11,16,18,69.1,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 07:00 PM,2017,11,16,19,80.0,164,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 08:00 PM,2017,11,16,20,94.0,171,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 09:00 PM,2017,11,16,21,103.0,176,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 10:00 PM,2017,11,16,22,111.4,180,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-16 11:00 PM,2017,11,16,23,120.2,184,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 12:00 AM,2017,11,17,00,125.6,187,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 01:00 AM,2017,11,17,01,135.3,192,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 02:00 AM,2017,11,17,02,145.6,198,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 03:00 AM,2017,11,17,03,150.8,201,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 04:00 AM,2017,11,17,04,147.9,199,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 05:00 AM,2017,11,17,05,146.4,198,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 06:00 AM,2017,11,17,06,136.0,193,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 07:00 AM,2017,11,17,07,129.4,189,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 08:00 AM,2017,11,17,08,131.0,190,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 09:00 AM,2017,11,17,09,135.7,192,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 10:00 AM,2017,11,17,10,139.1,194,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 11:00 AM,2017,11,17,11,142.6,196,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 12:00 PM,2017,11,17,12,145.1,197,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 01:00 PM,2017,11,17,13,143.9,197,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 02:00 PM,2017,11,17,14,143.8,197,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Mumbai,PM2.5 - Principal,2017-11-17 03:00 PM,2017,11,17,15,121.3,185,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 04:00 PM,2017,11,17,16,110.4,179,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 05:00 PM,2017,11,17,17,102.2,175,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 06:00 PM,2017,11,17,18,98.8,173,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 07:00 PM,2017,11,17,19,96.9,172,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 08:00 PM,2017,11,17,20,98.8,173,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 09:00 PM,2017,11,17,21,102.7,175,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 10:00 PM,2017,11,17,22,105.1,177,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-17 11:00 PM,2017,11,17,23,118.1,183,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 12:00 AM,2017,11,18,00,124.1,186,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 01:00 AM,2017,11,18,01,126.4,188,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 02:00 AM,2017,11,18,02,131.6,190,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 03:00 AM,2017,11,18,03,140.1,195,Unhealthy,151.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 04:00 AM,2017,11,18,04,149.7,200,Unhealthy,161.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 05:00 AM,2017,11,18,05,154.3,205,Very Unhealthy,161.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 06:00 AM,2017,11,18,06,171.1,221,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 07:00 AM,2017,11,18,07,176.8,227,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 08:00 AM,2017,11,18,08,175.1,225,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 09:00 AM,2017,11,18,09,179.2,229,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 10:00 AM,2017,11,18,10,178.3,229,Very Unhealthy,185.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 11:00 AM,2017,11,18,11,175.4,226,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 12:00 PM,2017,11,18,12,158.5,209,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 01:00 PM,2017,11,18,13,115.8,182,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 02:00 PM,2017,11,18,14,108.9,179,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 03:00 PM,2017,11,18,15,105.4,177,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 04:00 PM,2017,11,18,16,91.7,170,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 05:00 PM,2017,11,18,17,87.8,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 06:00 PM,2017,11,18,18,85.9,167,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 07:00 PM,2017,11,18,19,92.4,170,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 08:00 PM,2017,11,18,20,106.7,177,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 09:00 PM,2017,11,18,21,116.8,183,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 10:00 PM,2017,11,18,22,121.9,185,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-18 11:00 PM,2017,11,18,23,119.5,184,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 12:00 AM,2017,11,19,00,125.0,187,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 01:00 AM,2017,11,19,01,136.6,193,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 02:00 AM,2017,11,19,02,142.0,196,Unhealthy,148.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 03:00 AM,2017,11,19,03,139.1,194,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 04:00 AM,2017,11,19,04,137.1,193,Unhealthy,135.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 05:00 AM,2017,11,19,05,136.6,193,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 06:00 AM,2017,11,19,06,138.6,194,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 07:00 AM,2017,11,19,07,145.5,197,Unhealthy,165.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 08:00 AM,2017,11,19,08,150.8,201,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 09:00 AM,2017,11,19,09,149.9,200,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 10:00 AM,2017,11,19,10,149.3,199,Unhealthy,147.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 11:00 AM,2017,11,19,11,141.0,195,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 12:00 PM,2017,11,19,12,107.2,178,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 01:00 PM,2017,11,19,13,85.1,166,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 02:00 PM,2017,11,19,14,74.0,161,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 03:00 PM,2017,11,19,15,67.5,157,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 04:00 PM,2017,11,19,16,59.7,153,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 05:00 PM,2017,11,19,17,63.3,155,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 06:00 PM,2017,11,19,18,65.1,156,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 07:00 PM,2017,11,19,19,65.0,156,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 08:00 PM,2017,11,19,20,72.0,160,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 09:00 PM,2017,11,19,21,75.5,161,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 10:00 PM,2017,11,19,22,76.7,162,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-19 11:00 PM,2017,11,19,23,74.4,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 12:00 AM,2017,11,20,00,94.1,171,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 01:00 AM,2017,11,20,01,103.5,176,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 02:00 AM,2017,11,20,02,106.3,177,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 03:00 AM,2017,11,20,03,107.6,178,Unhealthy,109.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 04:00 AM,2017,11,20,04,105.3,177,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 05:00 AM,2017,11,20,05,100.5,174,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 06:00 AM,2017,11,20,06,100.3,174,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 07:00 AM,2017,11,20,07,100.3,174,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 08:00 AM,2017,11,20,08,96.4,172,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 09:00 AM,2017,11,20,09,102.2,175,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 10:00 AM,2017,11,20,10,138.8,194,Unhealthy,174.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 11:00 AM,2017,11,20,11,155.6,206,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 12:00 PM,2017,11,20,12,125.9,187,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 01:00 PM,2017,11,20,13,110.8,180,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 02:00 PM,2017,11,20,14,100.1,174,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 03:00 PM,2017,11,20,15,94.7,171,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 04:00 PM,2017,11,20,16,85.6,167,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 05:00 PM,2017,11,20,17,70.8,159,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 06:00 PM,2017,11,20,18,78.4,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 07:00 PM,2017,11,20,19,87.2,167,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 08:00 PM,2017,11,20,20,100.6,174,Unhealthy,114.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 09:00 PM,2017,11,20,21,123.3,186,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 10:00 PM,2017,11,20,22,134.6,192,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-20 11:00 PM,2017,11,20,23,126.3,188,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 12:00 AM,2017,11,21,00,124.1,186,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 01:00 AM,2017,11,21,01,138.5,194,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 02:00 AM,2017,11,21,02,154.8,205,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 03:00 AM,2017,11,21,03,162.9,213,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 04:00 AM,2017,11,21,04,147.9,199,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 05:00 AM,2017,11,21,05,128.1,188,Unhealthy,108.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 06:00 AM,2017,11,21,06,128.6,189,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 07:00 AM,2017,11,21,07,130.4,190,Unhealthy,130.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 08:00 AM,2017,11,21,08,134.3,192,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 09:00 AM,2017,11,21,09,136.8,193,Unhealthy,141.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 10:00 AM,2017,11,21,10,137.2,193,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 11:00 AM,2017,11,21,11,124.2,186,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 12:00 PM,2017,11,21,12,98.9,173,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 01:00 PM,2017,11,21,13,87.9,168,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 02:00 PM,2017,11,21,14,72.4,160,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 03:00 PM,2017,11,21,15,74.7,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 04:00 PM,2017,11,21,16,75.8,161,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 05:00 PM,2017,11,21,17,80.9,164,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 06:00 PM,2017,11,21,18,87.9,168,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 07:00 PM,2017,11,21,19,91.4,170,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 08:00 PM,2017,11,21,20,93.7,171,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 09:00 PM,2017,11,21,21,115.8,182,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 10:00 PM,2017,11,21,22,126.9,188,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-21 11:00 PM,2017,11,21,23,130.4,190,Unhealthy,134.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 12:00 AM,2017,11,22,00,136.2,193,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 01:00 AM,2017,11,22,01,139.1,194,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 02:00 AM,2017,11,22,02,135.3,192,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 03:00 AM,2017,11,22,03,133.8,191,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 04:00 AM,2017,11,22,04,134.6,192,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 05:00 AM,2017,11,22,05,134.9,192,Unhealthy,136.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 06:00 AM,2017,11,22,06,146.3,198,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 07:00 AM,2017,11,22,07,152.6,203,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 08:00 AM,2017,11,22,08,146.4,198,Unhealthy,149.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 09:00 AM,2017,11,22,09,145.6,198,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 10:00 AM,2017,11,22,10,145.6,198,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 11:00 AM,2017,11,22,11,145.7,198,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 12:00 PM,2017,11,22,12,143.0,196,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 01:00 PM,2017,11,22,13,127.6,188,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 02:00 PM,2017,11,22,14,119.1,184,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 03:00 PM,2017,11,22,15,107.5,178,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 04:00 PM,2017,11,22,16,102.3,175,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 05:00 PM,2017,11,22,17,89.2,168,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 06:00 PM,2017,11,22,18,74.0,161,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 07:00 PM,2017,11,22,19,71.5,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 08:00 PM,2017,11,22,20,112.2,180,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 09:00 PM,2017,11,22,21,132.6,191,Unhealthy,153.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 10:00 PM,2017,11,22,22,122.8,186,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-22 11:00 PM,2017,11,22,23,109.4,179,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 12:00 AM,2017,11,23,00,95.1,171,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 01:00 AM,2017,11,23,01,91.5,170,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 02:00 AM,2017,11,23,02,98.2,173,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 03:00 AM,2017,11,23,03,101.6,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 04:00 AM,2017,11,23,04,99.3,174,Unhealthy,97.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 05:00 AM,2017,11,23,05,94.6,171,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 06:00 AM,2017,11,23,06,97.3,173,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 07:00 AM,2017,11,23,07,103.7,176,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 08:00 AM,2017,11,23,08,107.1,178,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 09:00 AM,2017,11,23,09,115.9,182,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 10:00 AM,2017,11,23,10,122.1,185,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 11:00 AM,2017,11,23,11,111.2,180,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 12:00 PM,2017,11,23,12,99.5,174,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 01:00 PM,2017,11,23,13,100.9,174,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 02:00 PM,2017,11,23,14,101.7,175,Unhealthy,103.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 03:00 PM,2017,11,23,15,83.5,165,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 04:00 PM,2017,11,23,16,74.7,161,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 05:00 PM,2017,11,23,17,63.8,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 06:00 PM,2017,11,23,18,66.9,157,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 07:00 PM,2017,11,23,19,68.4,158,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 08:00 PM,2017,11,23,20,66.2,157,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 09:00 PM,2017,11,23,21,62.1,154,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 10:00 PM,2017,11,23,22,62.6,155,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-23 11:00 PM,2017,11,23,23,65.2,156,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 12:00 AM,2017,11,24,00,74.3,161,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 01:00 AM,2017,11,24,01,79.0,163,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 02:00 AM,2017,11,24,02,96.1,172,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 03:00 AM,2017,11,24,03,104.5,176,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 04:00 AM,2017,11,24,04,97.2,173,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 05:00 AM,2017,11,24,05,94.2,171,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 06:00 AM,2017,11,24,06,109.0,179,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 07:00 AM,2017,11,24,07,116.5,182,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 08:00 AM,2017,11,24,08,127.2,188,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 09:00 AM,2017,11,24,09,132.6,191,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 10:00 AM,2017,11,24,10,129.8,189,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 11:00 AM,2017,11,24,11,126.2,188,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 12:00 PM,2017,11,24,12,124.6,187,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 01:00 PM,2017,11,24,13,119.8,184,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 02:00 PM,2017,11,24,14,116.7,183,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 03:00 PM,2017,11,24,15,111.2,180,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 04:00 PM,2017,11,24,16,87.3,167,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 05:00 PM,2017,11,24,17,90.1,169,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 06:00 PM,2017,11,24,18,91.5,170,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 07:00 PM,2017,11,24,19,86.2,167,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 08:00 PM,2017,11,24,20,84.1,166,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 09:00 PM,2017,11,24,21,94.1,171,Unhealthy,105.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 10:00 PM,2017,11,24,22,105.7,177,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-24 11:00 PM,2017,11,24,23,124.6,187,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 12:00 AM,2017,11,25,00,139.8,195,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 01:00 AM,2017,11,25,01,147.4,198,Unhealthy,155.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 02:00 AM,2017,11,25,02,143.2,196,Unhealthy,139.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 03:00 AM,2017,11,25,03,144.6,197,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 04:00 AM,2017,11,25,04,154.3,205,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 05:00 AM,2017,11,25,05,159.1,210,Very Unhealthy,164.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 06:00 AM,2017,11,25,06,170.0,220,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 07:00 AM,2017,11,25,07,195.0,245,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 08:00 AM,2017,11,25,08,207.5,257,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 09:00 AM,2017,11,25,09,208.5,258,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 10:00 AM,2017,11,25,10,204.0,254,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 11:00 AM,2017,11,25,11,186.3,236,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 12:00 PM,2017,11,25,12,157.9,208,Very Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 01:00 PM,2017,11,25,13,105.8,177,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 02:00 PM,2017,11,25,14,82.4,165,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 03:00 PM,2017,11,25,15,79.7,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 04:00 PM,2017,11,25,16,78.3,163,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 05:00 PM,2017,11,25,17,81.1,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 06:00 PM,2017,11,25,18,82.5,165,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 07:00 PM,2017,11,25,19,82.2,165,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 08:00 PM,2017,11,25,20,85.6,167,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 09:00 PM,2017,11,25,21,92.7,170,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 10:00 PM,2017,11,25,22,107.3,178,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-25 11:00 PM,2017,11,25,23,118.1,183,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 12:00 AM,2017,11,26,00,130.0,189,Unhealthy,142.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 01:00 AM,2017,11,26,01,155.5,206,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 02:00 AM,2017,11,26,02,168.2,219,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 03:00 AM,2017,11,26,03,182.1,232,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 04:00 AM,2017,11,26,04,192.0,242,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 05:00 AM,2017,11,26,05,197.0,247,Very Unhealthy,202.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 06:00 AM,2017,11,26,06,185.0,235,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 07:00 AM,2017,11,26,07,179.5,230,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 08:00 AM,2017,11,26,08,176.7,227,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 09:00 AM,2017,11,26,09,174.1,224,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 10:00 AM,2017,11,26,10,172.3,223,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 11:00 AM,2017,11,26,11,157.9,208,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 12:00 PM,2017,11,26,12,114.7,182,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 01:00 PM,2017,11,26,13,96.8,172,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 02:00 PM,2017,11,26,14,85.9,167,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 03:00 PM,2017,11,26,15,77.4,162,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 04:00 PM,2017,11,26,16,70.2,159,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 05:00 PM,2017,11,26,17,64.0,155,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 06:00 PM,2017,11,26,18,75.0,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 07:00 PM,2017,11,26,19,80.5,164,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 08:00 PM,2017,11,26,20,85.2,166,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 09:00 PM,2017,11,26,21,87.6,168,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 10:00 PM,2017,11,26,22,96.7,172,Unhealthy,106.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-26 11:00 PM,2017,11,26,23,107.3,178,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 12:00 AM,2017,11,27,00,118.2,183,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 01:00 AM,2017,11,27,01,124.6,187,Unhealthy,131.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 02:00 AM,2017,11,27,02,143.3,196,Unhealthy,162.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 03:00 AM,2017,11,27,03,152.6,203,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 04:00 AM,2017,11,27,04,148.3,199,Unhealthy,144.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 05:00 AM,2017,11,27,05,133.8,191,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 06:00 AM,2017,11,27,06,126.4,188,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 07:00 AM,2017,11,27,07,119.9,184,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 08:00 AM,2017,11,27,08,115.9,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 09:00 AM,2017,11,27,09,116.8,183,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 10:00 AM,2017,11,27,10,116.3,182,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 11:00 AM,2017,11,27,11,114.6,182,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 12:00 PM,2017,11,27,12,98.6,173,Unhealthy,84.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 01:00 PM,2017,11,27,13,84.5,166,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 02:00 PM,2017,11,27,14,77.7,162,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 03:00 PM,2017,11,27,15,68.3,158,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 04:00 PM,2017,11,27,16,71.1,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 05:00 PM,2017,11,27,17,82.5,165,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 06:00 PM,2017,11,27,18,85.4,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 07:00 PM,2017,11,27,19,87.1,167,Unhealthy,89.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 08:00 PM,2017,11,27,20,86.5,167,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 09:00 PM,2017,11,27,21,92.0,170,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 10:00 PM,2017,11,27,22,100.8,174,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-27 11:00 PM,2017,11,27,23,105.6,177,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 12:00 AM,2017,11,28,00,114.6,182,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 01:00 AM,2017,11,28,01,135.3,192,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 02:00 AM,2017,11,28,02,145.6,198,Unhealthy,156.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 03:00 AM,2017,11,28,03,158.3,209,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 04:00 AM,2017,11,28,04,164.5,215,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 05:00 AM,2017,11,28,05,161.8,212,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 06:00 AM,2017,11,28,06,157.4,208,Very Unhealthy,153.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 07:00 AM,2017,11,28,07,151.7,202,Very Unhealthy,146.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 08:00 AM,2017,11,28,08,148.4,199,Unhealthy,143.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 09:00 AM,2017,11,28,09,154.3,205,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 10:00 AM,2017,11,28,10,157.4,208,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 11:00 AM,2017,11,28,11,155.0,205,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 12:00 PM,2017,11,28,12,144.0,197,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 01:00 PM,2017,11,28,13,115.1,182,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 02:00 PM,2017,11,28,14,92.6,170,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 03:00 PM,2017,11,28,15,82.3,165,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 04:00 PM,2017,11,28,16,88.1,168,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 05:00 PM,2017,11,28,17,91.0,169,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 06:00 PM,2017,11,28,18,93.0,170,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 07:00 PM,2017,11,28,19,94.0,171,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 08:00 PM,2017,11,28,20,103.0,176,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 09:00 PM,2017,11,28,21,117.9,183,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 10:00 PM,2017,11,28,22,125.4,187,Unhealthy,133.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-28 11:00 PM,2017,11,28,23,130.4,190,Unhealthy,137.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 12:00 AM,2017,11,29,00,138.1,194,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 01:00 AM,2017,11,29,01,141.5,195,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 02:00 AM,2017,11,29,02,143.2,196,Unhealthy,145.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 03:00 AM,2017,11,29,03,161.2,212,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 04:00 AM,2017,11,29,04,170.7,221,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 05:00 AM,2017,11,29,05,171.7,222,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 06:00 AM,2017,11,29,06,168.5,219,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 07:00 AM,2017,11,29,07,167.6,218,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 08:00 AM,2017,11,29,08,169.6,220,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 09:00 AM,2017,11,29,09,172.6,223,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 10:00 AM,2017,11,29,10,173.1,223,Very Unhealthy,175.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 11:00 AM,2017,11,29,11,170.3,221,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 12:00 PM,2017,11,29,12,170.4,221,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 01:00 PM,2017,11,29,13,170.5,221,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 02:00 PM,2017,11,29,14,120.4,185,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 03:00 PM,2017,11,29,15,100.7,174,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 04:00 PM,2017,11,29,16,90.8,169,Unhealthy,81.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 05:00 PM,2017,11,29,17,86.9,167,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 06:00 PM,2017,11,29,18,90.9,169,Unhealthy,95.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 07:00 PM,2017,11,29,19,98.9,173,Unhealthy,107.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 08:00 PM,2017,11,29,20,104.4,176,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 09:00 PM,2017,11,29,21,111.2,180,Unhealthy,118.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 10:00 PM,2017,11,29,22,117.6,183,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-29 11:00 PM,2017,11,29,23,120.7,185,Unhealthy,124.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 12:00 AM,2017,11,30,00,133.3,191,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 01:00 AM,2017,11,30,01,139.6,194,Unhealthy,146.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 02:00 AM,2017,11,30,02,133.9,191,Unhealthy,129.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 03:00 AM,2017,11,30,03,128.1,188,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 04:00 AM,2017,11,30,04,125.1,187,Unhealthy,121.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 05:00 AM,2017,11,30,05,138.5,194,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 06:00 AM,2017,11,30,06,143.6,196,Unhealthy,158.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 07:00 AM,2017,11,30,07,139.7,194,Unhealthy,132.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 08:00 AM,2017,11,30,08,131.5,190,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 09:00 AM,2017,11,30,09,129.0,189,Unhealthy,123.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 10:00 AM,2017,11,30,10,128.1,188,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 11:00 AM,2017,11,30,11,127.5,188,Unhealthy,126.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 12:00 PM,2017,11,30,12,110.4,179,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 01:00 PM,2017,11,30,13,88.9,168,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 02:00 PM,2017,11,30,14,72.9,160,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 03:00 PM,2017,11,30,15,64.9,156,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 04:00 PM,2017,11,30,16,52.9,144,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 05:00 PM,2017,11,30,17,60.9,154,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 06:00 PM,2017,11,30,18,64.9,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 07:00 PM,2017,11,30,19,75.4,161,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 08:00 PM,2017,11,30,20,80.7,164,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 09:00 PM,2017,11,30,21,83.3,165,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 10:00 PM,2017,11,30,22,90.6,169,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-11-30 11:00 PM,2017,11,30,23,94.3,171,Unhealthy,98.0,UG/M3,1 Hr,Valid
+Mumbai,PM2.5 - Principal,2017-12-01 12:00 AM,2017,12,01,00,105.1,177,Unhealthy,116.0,UG/M3,1 Hr,Valid

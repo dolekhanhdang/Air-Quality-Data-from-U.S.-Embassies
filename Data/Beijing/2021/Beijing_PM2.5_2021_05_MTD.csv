@@ -1,0 +1,745 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Beijing,PM2.5 - Principal,2021-05-01 01:00 AM,2021,05,01,01,22.7,73,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 02:00 AM,2021,05,01,02,25.3,79,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 03:00 AM,2021,05,01,03,26.1,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 04:00 AM,2021,05,01,04,25.5,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 05:00 AM,2021,05,01,05,22.8,74,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 06:00 AM,2021,05,01,06,24.4,77,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 07:00 AM,2021,05,01,07,26.6,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 08:00 AM,2021,05,01,08,26.6,81,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 09:00 AM,2021,05,01,09,22.6,73,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 10:00 AM,2021,05,01,10,16.5,60,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 11:00 AM,2021,05,01,11,14.2,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 12:00 PM,2021,05,01,12,13.1,53,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 01:00 PM,2021,05,01,13,12.0,50,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 02:00 PM,2021,05,01,14,13.5,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 03:00 PM,2021,05,01,15,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 04:00 PM,2021,05,01,16,11.8,49,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 05:00 PM,2021,05,01,17,12.4,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 06:00 PM,2021,05,01,18,13.7,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 07:00 PM,2021,05,01,19,15.8,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 08:00 PM,2021,05,01,20,14.4,56,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 09:00 PM,2021,05,01,21,12.8,52,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 10:00 PM,2021,05,01,22,12.0,50,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-01 11:00 PM,2021,05,01,23,12.0,50,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 12:00 AM,2021,05,02,00,12.0,50,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 01:00 AM,2021,05,02,01,11.1,46,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 02:00 AM,2021,05,02,02,10.6,44,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 03:00 AM,2021,05,02,03,10.3,43,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 04:00 AM,2021,05,02,04,11.0,46,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 05:00 AM,2021,05,02,05,12.8,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 06:00 AM,2021,05,02,06,13.3,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 07:00 AM,2021,05,02,07,13.6,54,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 08:00 AM,2021,05,02,08,13.4,54,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 09:00 AM,2021,05,02,09,21.8,71,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 10:00 AM,2021,05,02,10,40.4,113,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 11:00 AM,2021,05,02,11,44.2,122,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 12:00 PM,2021,05,02,12,40.1,112,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 01:00 PM,2021,05,02,13,31.0,91,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 02:00 PM,2021,05,02,14,28.5,85,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 03:00 PM,2021,05,02,15,31.7,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 04:00 PM,2021,05,02,16,38.8,109,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 05:00 PM,2021,05,02,17,37.9,107,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 06:00 PM,2021,05,02,18,31.9,93,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 07:00 PM,2021,05,02,19,31.4,92,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 08:00 PM,2021,05,02,20,29.2,87,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 09:00 PM,2021,05,02,21,27.6,84,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 10:00 PM,2021,05,02,22,25.8,80,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-02 11:00 PM,2021,05,02,23,25.4,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 12:00 AM,2021,05,03,00,27.1,83,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 01:00 AM,2021,05,03,01,27.5,83,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 02:00 AM,2021,05,03,02,28.2,85,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 03:00 AM,2021,05,03,03,27.1,83,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 04:00 AM,2021,05,03,04,28.5,85,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 05:00 AM,2021,05,03,05,28.7,86,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 06:00 AM,2021,05,03,06,29.7,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 07:00 AM,2021,05,03,07,33.7,96,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 08:00 AM,2021,05,03,08,40.8,114,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 09:00 AM,2021,05,03,09,38.9,109,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 10:00 AM,2021,05,03,10,46.5,128,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 11:00 AM,2021,05,03,11,53.7,146,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 12:00 PM,2021,05,03,12,59.3,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 01:00 PM,2021,05,03,13,59.6,153,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 02:00 PM,2021,05,03,14,60.3,153,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 03:00 PM,2021,05,03,15,57.6,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 04:00 PM,2021,05,03,16,50.3,137,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 05:00 PM,2021,05,03,17,43.1,120,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 06:00 PM,2021,05,03,18,37.5,106,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 07:00 PM,2021,05,03,19,33.2,95,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 08:00 PM,2021,05,03,20,31.6,92,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 09:00 PM,2021,05,03,21,32.3,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 10:00 PM,2021,05,03,22,33.1,95,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-03 11:00 PM,2021,05,03,23,33.0,95,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 12:00 AM,2021,05,04,00,35.5,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 01:00 AM,2021,05,04,01,39.7,111,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 02:00 AM,2021,05,04,02,39.2,110,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 03:00 AM,2021,05,04,03,34.6,98,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 04:00 AM,2021,05,04,04,25.8,80,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 05:00 AM,2021,05,04,05,21.9,72,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 06:00 AM,2021,05,04,06,18.9,65,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 07:00 AM,2021,05,04,07,16.9,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 08:00 AM,2021,05,04,08,15.9,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 09:00 AM,2021,05,04,09,18.4,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 10:00 AM,2021,05,04,10,17.2,62,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 11:00 AM,2021,05,04,11,13.6,54,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 12:00 PM,2021,05,04,12,12.8,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 01:00 PM,2021,05,04,13,12.8,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 02:00 PM,2021,05,04,14,14.9,57,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 03:00 PM,2021,05,04,15,16.4,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 04:00 PM,2021,05,04,16,27.7,84,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 05:00 PM,2021,05,04,17,29.8,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 06:00 PM,2021,05,04,18,24.9,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 07:00 PM,2021,05,04,19,20.9,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 08:00 PM,2021,05,04,20,19.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 09:00 PM,2021,05,04,21,19.9,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 10:00 PM,2021,05,04,22,23.9,76,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-04 11:00 PM,2021,05,04,23,31.5,92,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 12:00 AM,2021,05,05,00,33.2,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 01:00 AM,2021,05,05,01,43.6,121,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 02:00 AM,2021,05,05,02,40.3,113,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 03:00 AM,2021,05,05,03,46.1,127,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 04:00 AM,2021,05,05,04,40.5,113,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 05:00 AM,2021,05,05,05,34.7,99,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 06:00 AM,2021,05,05,06,31.3,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 07:00 AM,2021,05,05,07,29.6,88,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 08:00 AM,2021,05,05,08,27.3,83,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 09:00 AM,2021,05,05,09,34.1,97,Moderate,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 10:00 AM,2021,05,05,10,37.0,105,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 11:00 AM,2021,05,05,11,37.5,106,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 12:00 PM,2021,05,05,12,50.7,138,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 01:00 PM,2021,05,05,13,53.3,145,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 02:00 PM,2021,05,05,14,51.1,139,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 03:00 PM,2021,05,05,15,45.0,124,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 04:00 PM,2021,05,05,16,63.5,155,Unhealthy,82.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 05:00 PM,2021,05,05,17,56.7,152,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 06:00 PM,2021,05,05,18,52.3,142,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 07:00 PM,2021,05,05,19,50.6,138,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 08:00 PM,2021,05,05,20,52.3,142,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 09:00 PM,2021,05,05,21,51.6,141,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 10:00 PM,2021,05,05,22,49.8,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-05 11:00 PM,2021,05,05,23,48.4,133,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 12:00 AM,2021,05,06,00,47.2,130,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 01:00 AM,2021,05,06,01,45.6,126,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 02:00 AM,2021,05,06,02,53.3,145,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 03:00 AM,2021,05,06,03,50.1,137,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 04:00 AM,2021,05,06,04,49.8,136,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 05:00 AM,2021,05,06,05,52.4,143,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 06:00 AM,2021,05,06,06,50.6,138,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 07:00 AM,2021,05,06,07,49.0,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 08:00 AM,2021,05,06,08,55.5,151,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 09:00 AM,2021,05,06,09,56.0,151,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 10:00 AM,2021,05,06,10,59.2,153,Unhealthy,65.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 11:00 AM,2021,05,06,11,62.9,155,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 12:00 PM,2021,05,06,12,65.1,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 01:00 PM,2021,05,06,13,68.4,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 02:00 PM,2021,05,06,14,128.5,189,Unhealthy,187.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 03:00 PM,2021,05,06,15,193.2,243,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 04:00 PM,2021,05,06,16,194.1,244,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 05:00 PM,2021,05,06,17,142.5,196,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 06:00 PM,2021,05,06,18,121.2,185,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 07:00 PM,2021,05,06,19,106.6,177,Unhealthy,92.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 08:00 PM,2021,05,06,20,164.8,215,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 09:00 PM,2021,05,06,21,297.9,348,Hazardous,431.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 10:00 PM,2021,05,06,22,294.0,344,Hazardous,290.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-06 11:00 PM,2021,05,06,23,320.0,370,Hazardous,346.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 12:00 AM,2021,05,07,00,315.5,365,Hazardous,311.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 01:00 AM,2021,05,07,01,268.2,319,Hazardous,221.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 02:00 AM,2021,05,07,02,176.6,227,Very Unhealthy,85.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 03:00 AM,2021,05,07,03,108.7,178,Unhealthy,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 04:00 AM,2021,05,07,04,70.8,159,Unhealthy,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 05:00 AM,2021,05,07,05,49.9,136,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 06:00 AM,2021,05,07,06,64.9,156,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 07:00 AM,2021,05,07,07,53.4,145,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 08:00 AM,2021,05,07,08,69.2,158,Unhealthy,85.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 09:00 AM,2021,05,07,09,58.0,152,Unhealthy,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 10:00 AM,2021,05,07,10,47.5,131,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 11:00 AM,2021,05,07,11,42.2,117,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 12:00 PM,2021,05,07,12,29.5,88,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 01:00 PM,2021,05,07,13,21.2,70,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 02:00 PM,2021,05,07,14,23.1,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 03:00 PM,2021,05,07,15,21.5,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 04:00 PM,2021,05,07,16,16.7,61,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 05:00 PM,2021,05,07,17,18.3,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 06:00 PM,2021,05,07,18,28.6,86,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 07:00 PM,2021,05,07,19,55.8,151,Unhealthy,83.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 08:00 PM,2021,05,07,20,78.4,163,Unhealthy,101.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 09:00 PM,2021,05,07,21,90.2,169,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 10:00 PM,2021,05,07,22,101.6,175,Unhealthy,113.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-07 11:00 PM,2021,05,07,23,109.3,179,Unhealthy,117.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 12:00 AM,2021,05,08,00,124.6,187,Unhealthy,140.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 01:00 AM,2021,05,08,01,146.8,198,Unhealthy,169.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 02:00 AM,2021,05,08,02,142.4,196,Unhealthy,138.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 03:00 AM,2021,05,08,03,134.7,192,Unhealthy,127.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 04:00 AM,2021,05,08,04,123.3,186,Unhealthy,112.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 05:00 AM,2021,05,08,05,109.6,179,Unhealthy,96.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 06:00 AM,2021,05,08,06,84.8,166,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 07:00 AM,2021,05,08,07,47.9,132,Unhealthy for Sensitive Groups,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 08:00 AM,2021,05,08,08,28.4,85,Moderate,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 09:00 AM,2021,05,08,09,17.7,63,Moderate,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 10:00 AM,2021,05,08,10,11.8,49,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 11:00 AM,2021,05,08,11,8.4,35,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 12:00 PM,2021,05,08,12,6.6,28,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 01:00 PM,2021,05,08,13,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 02:00 PM,2021,05,08,14,5.8,24,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 03:00 PM,2021,05,08,15,3.9,16,Good,2.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 04:00 PM,2021,05,08,16,1.9,8,Good,0.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 05:00 PM,2021,05,08,17,0.4,2,Good,-1.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 06:00 PM,2021,05,08,18,30.7,90,Moderate,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 07:00 PM,2021,05,08,19,18.3,64,Moderate,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 08:00 PM,2021,05,08,20,20.6,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 09:00 PM,2021,05,08,21,28.8,86,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 10:00 PM,2021,05,08,22,19.4,66,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-08 11:00 PM,2021,05,08,23,23.2,74,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 12:00 AM,2021,05,09,00,23.1,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 01:00 AM,2021,05,09,01,27.5,83,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 02:00 AM,2021,05,09,02,27.7,84,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 03:00 AM,2021,05,09,03,29.8,88,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 04:00 AM,2021,05,09,04,31.9,93,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 05:00 AM,2021,05,09,05,33.4,96,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 06:00 AM,2021,05,09,06,30.7,90,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 07:00 AM,2021,05,09,07,27.8,84,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 08:00 AM,2021,05,09,08,22.4,73,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 09:00 AM,2021,05,09,09,19.7,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 10:00 AM,2021,05,09,10,24.8,78,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 11:00 AM,2021,05,09,11,22.9,74,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 12:00 PM,2021,05,09,12,20.9,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 01:00 PM,2021,05,09,13,20.9,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 02:00 PM,2021,05,09,14,21.4,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 03:00 PM,2021,05,09,15,23.2,74,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 04:00 PM,2021,05,09,16,26.6,81,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 05:00 PM,2021,05,09,17,54.8,149,Unhealthy for Sensitive Groups,83.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 06:00 PM,2021,05,09,18,47.9,132,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 07:00 PM,2021,05,09,19,30.9,91,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 08:00 PM,2021,05,09,20,22.4,73,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 09:00 PM,2021,05,09,21,17.2,62,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 10:00 PM,2021,05,09,22,17.1,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-09 11:00 PM,2021,05,09,23,18.5,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 12:00 AM,2021,05,10,00,19.7,67,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 01:00 AM,2021,05,10,01,24.8,78,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 02:00 AM,2021,05,10,02,28.9,86,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 03:00 AM,2021,05,10,03,35.9,102,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 04:00 AM,2021,05,10,04,39.4,111,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 05:00 AM,2021,05,10,05,38.2,108,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 06:00 AM,2021,05,10,06,37.1,105,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 07:00 AM,2021,05,10,07,35.0,99,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 08:00 AM,2021,05,10,08,31.0,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 09:00 AM,2021,05,10,09,23.0,74,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 10:00 AM,2021,05,10,10,20.5,69,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 11:00 AM,2021,05,10,11,20.2,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 12:00 PM,2021,05,10,12,22.1,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 01:00 PM,2021,05,10,13,21.0,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 02:00 PM,2021,05,10,14,19.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 03:00 PM,2021,05,10,15,20.5,69,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 04:00 PM,2021,05,10,16,22.7,73,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 05:00 PM,2021,05,10,17,20.3,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 06:00 PM,2021,05,10,18,19.6,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 07:00 PM,2021,05,10,19,19.4,66,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 08:00 PM,2021,05,10,20,18.9,65,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 09:00 PM,2021,05,10,21,16.6,60,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 10:00 PM,2021,05,10,22,15.5,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-10 11:00 PM,2021,05,10,23,14.8,57,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 12:00 AM,2021,05,11,00,14.9,57,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 01:00 AM,2021,05,11,01,15.8,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 02:00 AM,2021,05,11,02,17.6,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 03:00 AM,2021,05,11,03,23.9,76,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 04:00 AM,2021,05,11,04,29.4,87,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 05:00 AM,2021,05,11,05,36.2,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 06:00 AM,2021,05,11,06,42.1,117,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 07:00 AM,2021,05,11,07,45.5,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 08:00 AM,2021,05,11,08,54.2,147,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 09:00 AM,2021,05,11,09,46.1,127,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 10:00 AM,2021,05,11,10,41.5,116,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 11:00 AM,2021,05,11,11,33.2,95,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 12:00 PM,2021,05,11,12,27.6,84,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 01:00 PM,2021,05,11,13,22.8,74,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 02:00 PM,2021,05,11,14,23.4,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 03:00 PM,2021,05,11,15,21.2,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 04:00 PM,2021,05,11,16,20.6,69,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 05:00 PM,2021,05,11,17,21.7,71,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 06:00 PM,2021,05,11,18,24.8,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 07:00 PM,2021,05,11,19,25.9,80,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 08:00 PM,2021,05,11,20,23.9,76,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 09:00 PM,2021,05,11,21,18.9,65,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 10:00 PM,2021,05,11,22,17.9,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-11 11:00 PM,2021,05,11,23,14.9,57,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 12:00 AM,2021,05,12,00,16.4,60,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 01:00 AM,2021,05,12,01,17.2,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 02:00 AM,2021,05,12,02,19.1,66,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 03:00 AM,2021,05,12,03,20.0,68,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 04:00 AM,2021,05,12,04,20.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 05:00 AM,2021,05,12,05,21.0,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 06:00 AM,2021,05,12,06,19.0,66,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 07:00 AM,2021,05,12,07,25.5,79,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 08:00 AM,2021,05,12,08,24.2,76,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 09:00 AM,2021,05,12,09,20.1,68,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 10:00 AM,2021,05,12,10,15.5,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 11:00 AM,2021,05,12,11,15.7,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 12:00 PM,2021,05,12,12,13.8,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 01:00 PM,2021,05,12,13,11.4,48,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 02:00 PM,2021,05,12,14,12.2,51,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 03:00 PM,2021,05,12,15,14.6,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 04:00 PM,2021,05,12,16,15.8,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 05:00 PM,2021,05,12,17,17.4,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 06:00 PM,2021,05,12,18,17.2,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 07:00 PM,2021,05,12,19,18.5,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 08:00 PM,2021,05,12,20,19.2,66,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 09:00 PM,2021,05,12,21,22.1,72,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 10:00 PM,2021,05,12,22,23.5,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-12 11:00 PM,2021,05,12,23,31.2,91,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 12:00 AM,2021,05,13,00,37.1,105,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 01:00 AM,2021,05,13,01,42.0,117,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 02:00 AM,2021,05,13,02,46.5,128,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 03:00 AM,2021,05,13,03,51.2,140,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 04:00 AM,2021,05,13,04,54.6,148,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 05:00 AM,2021,05,13,05,58.8,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 06:00 AM,2021,05,13,06,57.4,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 07:00 AM,2021,05,13,07,60.2,153,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 08:00 AM,2021,05,13,08,66.6,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 09:00 AM,2021,05,13,09,69.8,158,Unhealthy,73.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 10:00 AM,2021,05,13,10,72.1,160,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 11:00 AM,2021,05,13,11,70.3,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 12:00 PM,2021,05,13,12,70.3,159,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 01:00 PM,2021,05,13,13,72.4,160,Unhealthy,77.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 02:00 PM,2021,05,13,14,74.5,161,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 03:00 PM,2021,05,13,15,74.4,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 04:00 PM,2021,05,13,16,74.3,161,Unhealthy,74.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 05:00 PM,2021,05,13,17,74.9,161,Unhealthy,76.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 06:00 PM,2021,05,13,18,73.6,160,Unhealthy,70.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 07:00 PM,2021,05,13,19,70.9,159,Unhealthy,62.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 08:00 PM,2021,05,13,20,68.3,158,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 09:00 PM,2021,05,13,21,67.7,157,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 10:00 PM,2021,05,13,22,67.7,157,Unhealthy,68.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-13 11:00 PM,2021,05,13,23,66.0,156,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 12:00 AM,2021,05,14,00,59.6,153,Unhealthy,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 01:00 AM,2021,05,14,01,58.3,152,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 02:00 AM,2021,05,14,02,51.8,141,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 03:00 AM,2021,05,14,03,49.7,136,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 04:00 AM,2021,05,14,04,52.3,142,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 05:00 AM,2021,05,14,05,61.7,154,Unhealthy,75.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 06:00 AM,2021,05,14,06,65.9,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 07:00 AM,2021,05,14,07,68.4,158,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 08:00 AM,2021,05,14,08,80.4,164,Unhealthy,91.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 09:00 AM,2021,05,14,09,91.2,169,Unhealthy,102.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 10:00 AM,2021,05,14,10,103.1,176,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 11:00 AM,2021,05,14,11,112.5,180,Unhealthy,122.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 12:00 PM,2021,05,14,12,116.2,182,Unhealthy,120.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 01:00 PM,2021,05,14,13,105.1,177,Unhealthy,94.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 02:00 PM,2021,05,14,14,99.0,173,Unhealthy,93.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 03:00 PM,2021,05,14,15,89.0,168,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 04:00 PM,2021,05,14,16,77.5,162,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 05:00 PM,2021,05,14,17,74.4,161,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 06:00 PM,2021,05,14,18,70.4,159,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 07:00 PM,2021,05,14,19,63.4,155,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 08:00 PM,2021,05,14,20,56.2,151,Unhealthy,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 09:00 PM,2021,05,14,21,49.0,134,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 10:00 PM,2021,05,14,22,50.0,137,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-14 11:00 PM,2021,05,14,23,49.0,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 12:00 AM,2021,05,15,00,49.4,135,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 01:00 AM,2021,05,15,01,46.7,129,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 02:00 AM,2021,05,15,02,48.3,133,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 03:00 AM,2021,05,15,03,52.7,143,Unhealthy for Sensitive Groups,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 04:00 AM,2021,05,15,04,56.1,151,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 05:00 AM,2021,05,15,05,54.9,149,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 06:00 AM,2021,05,15,06,54.3,147,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 07:00 AM,2021,05,15,07,54.5,148,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 08:00 AM,2021,05,15,08,54.3,147,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 09:00 AM,2021,05,15,09,58.8,153,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 10:00 AM,2021,05,15,10,48.2,132,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 11:00 AM,2021,05,15,11,26.9,82,Moderate,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 12:00 PM,2021,05,15,12,15.9,59,Moderate,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 01:00 PM,2021,05,15,13,9.9,41,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 02:00 PM,2021,05,15,14,6.9,29,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 03:00 PM,2021,05,15,15,6.4,27,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 04:00 PM,2021,05,15,16,6.2,26,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 05:00 PM,2021,05,15,17,5.6,23,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 06:00 PM,2021,05,15,18,5.8,24,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 07:00 PM,2021,05,15,19,7.3,30,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 08:00 PM,2021,05,15,20,8.1,34,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 09:00 PM,2021,05,15,21,8.0,33,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 10:00 PM,2021,05,15,22,7.5,31,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-15 11:00 PM,2021,05,15,23,6.7,28,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 12:00 AM,2021,05,16,00,7.8,33,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 01:00 AM,2021,05,16,01,7.4,31,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 02:00 AM,2021,05,16,02,7.6,32,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 03:00 AM,2021,05,16,03,6.9,29,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 04:00 AM,2021,05,16,04,6.5,27,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 05:00 AM,2021,05,16,05,5.2,22,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 06:00 AM,2021,05,16,06,7.1,30,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 07:00 AM,2021,05,16,07,6.5,27,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 08:00 AM,2021,05,16,08,6.2,26,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 09:00 AM,2021,05,16,09,6.1,25,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 10:00 AM,2021,05,16,10,7.5,31,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 11:00 AM,2021,05,16,11,9.2,38,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 12:00 PM,2021,05,16,12,8.6,36,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 01:00 PM,2021,05,16,13,6.8,28,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 02:00 PM,2021,05,16,14,5.9,25,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 03:00 PM,2021,05,16,15,4.4,18,Good,3.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 04:00 PM,2021,05,16,16,4.2,18,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 05:00 PM,2021,05,16,17,5.1,21,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 06:00 PM,2021,05,16,18,6.0,25,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 07:00 PM,2021,05,16,19,10.0,42,Good,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 08:00 PM,2021,05,16,20,10.5,44,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 09:00 PM,2021,05,16,21,10.2,43,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 10:00 PM,2021,05,16,22,11.6,48,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-16 11:00 PM,2021,05,16,23,11.3,47,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 12:00 AM,2021,05,17,00,12.1,51,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 01:00 AM,2021,05,17,01,14.5,56,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 02:00 AM,2021,05,17,02,19.7,67,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 03:00 AM,2021,05,17,03,21.3,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 04:00 AM,2021,05,17,04,22.2,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 05:00 AM,2021,05,17,05,21.1,70,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 06:00 AM,2021,05,17,06,21.0,70,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 07:00 AM,2021,05,17,07,19.5,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 08:00 AM,2021,05,17,08,17.2,62,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 09:00 AM,2021,05,17,09,17.1,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 10:00 AM,2021,05,17,10,16.0,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 11:00 AM,2021,05,17,11,13.5,54,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 12:00 PM,2021,05,17,12,9.7,40,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 01:00 PM,2021,05,17,13,9.8,41,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 02:00 PM,2021,05,17,14,8.4,35,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 03:00 PM,2021,05,17,15,8.7,36,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 04:00 PM,2021,05,17,16,8.8,37,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 05:00 PM,2021,05,17,17,8.4,35,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 06:00 PM,2021,05,17,18,8.7,36,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 07:00 PM,2021,05,17,19,10.3,43,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 08:00 PM,2021,05,17,20,11.6,48,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 09:00 PM,2021,05,17,21,12.8,52,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 10:00 PM,2021,05,17,22,14.4,56,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-17 11:00 PM,2021,05,17,23,15.7,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 12:00 AM,2021,05,18,00,17.3,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 01:00 AM,2021,05,18,01,20.1,68,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 02:00 AM,2021,05,18,02,24.0,76,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 03:00 AM,2021,05,18,03,24.0,76,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 04:00 AM,2021,05,18,04,26.5,81,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 05:00 AM,2021,05,18,05,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 06:00 AM,2021,05,18,06,31.3,91,Moderate,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 07:00 AM,2021,05,18,07,34.1,97,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 08:00 AM,2021,05,18,08,36.1,102,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 09:00 AM,2021,05,18,09,33.0,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 10:00 AM,2021,05,18,10,33.5,96,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 11:00 AM,2021,05,18,11,35.7,101,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 12:00 PM,2021,05,18,12,33.1,95,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 01:00 PM,2021,05,18,13,30.1,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 02:00 PM,2021,05,18,14,22.4,73,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 03:00 PM,2021,05,18,15,14.7,56,Moderate,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 04:00 PM,2021,05,18,16,11.3,47,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 05:00 PM,2021,05,18,17,15.6,58,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 06:00 PM,2021,05,18,18,15.8,59,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 07:00 PM,2021,05,18,19,16.9,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 08:00 PM,2021,05,18,20,18.4,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 09:00 PM,2021,05,18,21,20.2,68,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 10:00 PM,2021,05,18,22,19.6,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-18 11:00 PM,2021,05,18,23,14.8,57,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 12:00 AM,2021,05,19,00,14.3,56,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 01:00 AM,2021,05,19,01,18.6,65,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 02:00 AM,2021,05,19,02,23.3,75,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 03:00 AM,2021,05,19,03,30.1,89,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 04:00 AM,2021,05,19,04,36.5,103,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 05:00 AM,2021,05,19,05,44.3,123,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 06:00 AM,2021,05,19,06,47.6,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 07:00 AM,2021,05,19,07,51.8,141,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 08:00 AM,2021,05,19,08,53.4,145,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 09:00 AM,2021,05,19,09,53.7,146,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 10:00 AM,2021,05,19,10,51.8,141,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 11:00 AM,2021,05,19,11,50.9,139,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 12:00 PM,2021,05,19,12,51.4,140,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 01:00 PM,2021,05,19,13,49.7,136,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 02:00 PM,2021,05,19,14,49.8,136,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 03:00 PM,2021,05,19,15,49.0,134,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 04:00 PM,2021,05,19,16,45.6,126,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 05:00 PM,2021,05,19,17,42.9,119,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 06:00 PM,2021,05,19,18,34.2,97,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 07:00 PM,2021,05,19,19,31.2,91,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 08:00 PM,2021,05,19,20,26.5,81,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 09:00 PM,2021,05,19,21,26.7,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 10:00 PM,2021,05,19,22,26.8,82,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-19 11:00 PM,2021,05,19,23,30.4,89,Moderate,34.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 12:00 AM,2021,05,20,00,31.7,92,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 01:00 AM,2021,05,20,01,34.3,98,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 02:00 AM,2021,05,20,02,37.6,106,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 03:00 AM,2021,05,20,03,41.8,117,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 04:00 AM,2021,05,20,04,46.4,128,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 05:00 AM,2021,05,20,05,48.2,132,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 06:00 AM,2021,05,20,06,48.1,132,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 07:00 AM,2021,05,20,07,49.5,135,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 08:00 AM,2021,05,20,08,50.6,138,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 09:00 AM,2021,05,20,09,52.8,144,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 10:00 AM,2021,05,20,10,52.0,142,Unhealthy for Sensitive Groups,52.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 11:00 AM,2021,05,20,11,50.8,139,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 12:00 PM,2021,05,20,12,49.2,135,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 01:00 PM,2021,05,20,13,49.1,134,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 02:00 PM,2021,05,20,14,47.0,129,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 03:00 PM,2021,05,20,15,45.7,126,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 04:00 PM,2021,05,20,16,44.9,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 05:00 PM,2021,05,20,17,43.9,122,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 06:00 PM,2021,05,20,18,42.6,118,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 07:00 PM,2021,05,20,19,42.6,118,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 08:00 PM,2021,05,20,20,45.5,126,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 09:00 PM,2021,05,20,21,58.0,152,Unhealthy,72.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 10:00 PM,2021,05,20,22,69.1,158,Unhealthy,79.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-20 11:00 PM,2021,05,20,23,78.6,163,Unhealthy,88.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 12:00 AM,2021,05,21,00,84.3,166,Unhealthy,90.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 01:00 AM,2021,05,21,01,91.6,170,Unhealthy,99.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 02:00 AM,2021,05,21,02,95.8,172,Unhealthy,100.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 03:00 AM,2021,05,21,03,99.9,174,Unhealthy,104.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 04:00 AM,2021,05,21,04,105.4,177,Unhealthy,111.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 05:00 AM,2021,05,21,05,112.2,180,Unhealthy,119.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 06:00 AM,2021,05,21,06,111.1,180,Unhealthy,110.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 07:00 AM,2021,05,21,07,70.0,158,Unhealthy,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 08:00 AM,2021,05,21,08,50.5,138,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 09:00 AM,2021,05,21,09,42.7,119,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 10:00 AM,2021,05,21,10,38.8,109,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 11:00 AM,2021,05,21,11,42.4,118,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 12:00 PM,2021,05,21,12,53.2,145,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 01:00 PM,2021,05,21,13,53.1,144,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 02:00 PM,2021,05,21,14,50.5,138,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 03:00 PM,2021,05,21,15,55.7,151,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 04:00 PM,2021,05,21,16,49.3,135,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 05:00 PM,2021,05,21,17,47.6,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 06:00 PM,2021,05,21,18,47.8,131,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 07:00 PM,2021,05,21,19,50.4,138,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 08:00 PM,2021,05,21,20,56.0,151,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 09:00 PM,2021,05,21,21,61.4,154,Unhealthy,67.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 10:00 PM,2021,05,21,22,38.4,108,Unhealthy for Sensitive Groups,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-21 11:00 PM,2021,05,21,23,22.2,72,Moderate,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 12:00 AM,2021,05,22,00,20.0,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 01:00 AM,2021,05,22,01,20.0,68,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 02:00 AM,2021,05,22,02,24.0,76,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 03:00 AM,2021,05,22,03,22.0,72,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 04:00 AM,2021,05,22,04,33.0,95,Moderate,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 05:00 AM,2021,05,22,05,28.4,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 06:00 AM,2021,05,22,06,28.2,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 07:00 AM,2021,05,22,07,27.6,84,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 08:00 AM,2021,05,22,08,31.3,91,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 09:00 AM,2021,05,22,09,42.6,118,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 10:00 AM,2021,05,22,10,48.8,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 11:00 AM,2021,05,22,11,55.9,151,Unhealthy,63.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 12:00 PM,2021,05,22,12,49.9,136,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 01:00 PM,2021,05,22,13,52.9,144,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 02:00 PM,2021,05,22,14,45.9,127,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 03:00 PM,2021,05,22,15,46.5,128,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 04:00 PM,2021,05,22,16,45.2,125,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 05:00 PM,2021,05,22,17,46.6,128,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 06:00 PM,2021,05,22,18,47.3,130,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 07:00 PM,2021,05,22,19,50.7,138,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 08:00 PM,2021,05,22,20,52.4,143,Unhealthy for Sensitive Groups,56.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 09:00 PM,2021,05,22,21,55.7,151,Unhealthy,61.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 10:00 PM,2021,05,22,22,68.6,158,Unhealthy,80.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-22 11:00 PM,2021,05,22,23,73.3,160,Unhealthy,78.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 12:00 AM,2021,05,23,00,63.1,155,Unhealthy,53.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 01:00 AM,2021,05,23,01,44.0,122,Unhealthy for Sensitive Groups,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 02:00 AM,2021,05,23,02,33.0,95,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 03:00 AM,2021,05,23,03,24.5,77,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 04:00 AM,2021,05,23,04,21.7,71,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 05:00 AM,2021,05,23,05,22.8,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 06:00 AM,2021,05,23,06,22.9,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 07:00 AM,2021,05,23,07,24.9,78,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 08:00 AM,2021,05,23,08,31.4,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 09:00 AM,2021,05,23,09,58.7,153,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 10:00 AM,2021,05,23,10,131.3,190,Unhealthy,204.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 11:00 AM,2021,05,23,11,155.7,206,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 12:00 PM,2021,05,23,12,151.8,202,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 01:00 PM,2021,05,23,13,133.4,191,Unhealthy,115.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 02:00 PM,2021,05,23,14,109.7,179,Unhealthy,86.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 03:00 PM,2021,05,23,15,80.8,164,Unhealthy,52.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 04:00 PM,2021,05,23,16,65.4,156,Unhealthy,50.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 05:00 PM,2021,05,23,17,59.7,153,Unhealthy,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 06:00 PM,2021,05,23,18,64.3,156,Unhealthy,69.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 07:00 PM,2021,05,23,19,64.1,155,Unhealthy,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 08:00 PM,2021,05,23,20,60.5,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 09:00 PM,2021,05,23,21,52.2,142,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 10:00 PM,2021,05,23,22,42.1,117,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-23 11:00 PM,2021,05,23,23,36.0,102,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 12:00 AM,2021,05,24,00,30.0,89,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 01:00 AM,2021,05,24,01,24.9,78,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 02:00 AM,2021,05,24,02,31.4,92,Moderate,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 03:00 AM,2021,05,24,03,30.7,90,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 04:00 AM,2021,05,24,04,28.8,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 05:00 AM,2021,05,24,05,24.9,78,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 06:00 AM,2021,05,24,06,20.9,70,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 07:00 AM,2021,05,24,07,19.9,67,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 08:00 AM,2021,05,24,08,28.4,85,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 09:00 AM,2021,05,24,09,31.7,92,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 10:00 AM,2021,05,24,10,32.3,93,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 11:00 AM,2021,05,24,11,35.1,99,Moderate,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 12:00 PM,2021,05,24,12,36.0,102,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 01:00 PM,2021,05,24,13,33.5,96,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 02:00 PM,2021,05,24,14,30.2,89,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 03:00 PM,2021,05,24,15,24.6,77,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 04:00 PM,2021,05,24,16,24.8,78,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 05:00 PM,2021,05,24,17,23.4,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 06:00 PM,2021,05,24,18,22.2,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 07:00 PM,2021,05,24,19,19.6,67,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 08:00 PM,2021,05,24,20,17.7,63,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 09:00 PM,2021,05,24,21,18.3,64,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 10:00 PM,2021,05,24,22,17.6,63,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-24 11:00 PM,2021,05,24,23,17.8,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 12:00 AM,2021,05,25,00,19.8,67,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 01:00 AM,2021,05,25,01,19.7,67,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 02:00 AM,2021,05,25,02,17.8,63,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 03:00 AM,2021,05,25,03,17.9,63,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 04:00 AM,2021,05,25,04,17.0,61,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 05:00 AM,2021,05,25,05,16.7,61,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 06:00 AM,2021,05,25,06,16.1,59,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 07:00 AM,2021,05,25,07,14.0,55,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 08:00 AM,2021,05,25,08,15.8,59,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 09:00 AM,2021,05,25,09,18.1,64,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 10:00 AM,2021,05,25,10,20.5,69,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 11:00 AM,2021,05,25,11,25.8,80,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 12:00 PM,2021,05,25,12,25.4,79,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 01:00 PM,2021,05,25,13,29.2,87,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 02:00 PM,2021,05,25,14,31.1,91,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 03:00 PM,2021,05,25,15,35.5,101,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 04:00 PM,2021,05,25,16,49.7,136,Unhealthy for Sensitive Groups,64.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 05:00 PM,2021,05,25,17,47.8,131,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 06:00 PM,2021,05,25,18,46.9,129,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 07:00 PM,2021,05,25,19,44.9,124,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 08:00 PM,2021,05,25,20,37.4,106,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 09:00 PM,2021,05,25,21,35.2,100,Moderate,33.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 10:00 PM,2021,05,25,22,30.1,89,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-25 11:00 PM,2021,05,25,23,28.5,85,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 12:00 AM,2021,05,26,00,28.2,85,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 01:00 AM,2021,05,26,01,24.1,76,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 02:00 AM,2021,05,26,02,25.5,79,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 03:00 AM,2021,05,26,03,32.7,94,Moderate,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 04:00 AM,2021,05,26,04,34.8,99,Moderate,37.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 05:00 AM,2021,05,26,05,30.9,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 06:00 AM,2021,05,26,06,28.9,86,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 07:00 AM,2021,05,26,07,33.9,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 08:00 AM,2021,05,26,08,36.4,103,Unhealthy for Sensitive Groups,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 09:00 AM,2021,05,26,09,41.2,115,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 10:00 AM,2021,05,26,10,43.6,121,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 11:00 AM,2021,05,26,11,46.3,128,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 12:00 PM,2021,05,26,12,37.1,105,Unhealthy for Sensitive Groups,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 01:00 PM,2021,05,26,13,38.7,109,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 02:00 PM,2021,05,26,14,39.3,110,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 03:00 PM,2021,05,26,15,26.1,80,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 04:00 PM,2021,05,26,16,20.5,69,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 05:00 PM,2021,05,26,17,22.2,72,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 06:00 PM,2021,05,26,18,20.1,68,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 07:00 PM,2021,05,26,19,18.5,64,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 08:00 PM,2021,05,26,20,14.7,56,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 09:00 PM,2021,05,26,21,18.8,65,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 10:00 PM,2021,05,26,22,20.9,70,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-26 11:00 PM,2021,05,26,23,21.4,71,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 12:00 AM,2021,05,27,00,22.2,72,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 01:00 AM,2021,05,27,01,20.6,69,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 02:00 AM,2021,05,27,02,21.3,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 03:00 AM,2021,05,27,03,22.6,73,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 04:00 AM,2021,05,27,04,22.3,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 05:00 AM,2021,05,27,05,21.6,71,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 06:00 AM,2021,05,27,06,22.8,74,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 07:00 AM,2021,05,27,07,23.9,76,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 08:00 AM,2021,05,27,08,40.9,114,Unhealthy for Sensitive Groups,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 09:00 AM,2021,05,27,09,35.9,102,Unhealthy for Sensitive Groups,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 10:00 AM,2021,05,27,10,38.9,109,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 11:00 AM,2021,05,27,11,39.9,112,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 12:00 PM,2021,05,27,12,39.0,110,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 01:00 PM,2021,05,27,13,35.5,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 02:00 PM,2021,05,27,14,31.2,91,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 03:00 PM,2021,05,27,15,33.1,95,Moderate,35.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 04:00 PM,2021,05,27,16,28.5,85,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 05:00 PM,2021,05,27,17,29.2,87,Moderate,30.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 06:00 PM,2021,05,27,18,34.1,97,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 07:00 PM,2021,05,27,19,28.5,85,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 08:00 PM,2021,05,27,20,26.2,81,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 09:00 PM,2021,05,27,21,20.3,68,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 10:00 PM,2021,05,27,22,15.6,58,Moderate,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-27 11:00 PM,2021,05,27,23,11.8,49,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 12:00 AM,2021,05,28,00,10.4,43,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 01:00 AM,2021,05,28,01,9.2,38,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 02:00 AM,2021,05,28,02,10.1,42,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 03:00 AM,2021,05,28,03,8.5,35,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 04:00 AM,2021,05,28,04,7.2,30,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 05:00 AM,2021,05,28,05,6.6,28,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 06:00 AM,2021,05,28,06,6.8,28,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 07:00 AM,2021,05,28,07,6.9,29,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 08:00 AM,2021,05,28,08,5.9,25,Good,5.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 09:00 AM,2021,05,28,09,4.9,20,Good,4.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 10:00 AM,2021,05,28,10,7.4,31,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 11:00 AM,2021,05,28,11,8.7,36,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 12:00 PM,2021,05,28,12,10.3,43,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 01:00 PM,2021,05,28,13,12.6,52,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 02:00 PM,2021,05,28,14,11.3,47,Good,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 03:00 PM,2021,05,28,15,15.6,58,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 04:00 PM,2021,05,28,16,16.8,61,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 05:00 PM,2021,05,28,17,15.4,58,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 06:00 PM,2021,05,28,18,14.2,55,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 07:00 PM,2021,05,28,19,14.6,56,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 08:00 PM,2021,05,28,20,15.8,59,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 09:00 PM,2021,05,28,21,17.9,63,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 10:00 PM,2021,05,28,22,23.4,75,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-28 11:00 PM,2021,05,28,23,21.7,71,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 12:00 AM,2021,05,29,00,24.8,78,Moderate,28.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 01:00 AM,2021,05,29,01,23.4,75,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 02:00 AM,2021,05,29,02,22.2,72,Moderate,21.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 03:00 AM,2021,05,29,03,23.6,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 04:00 AM,2021,05,29,04,21.3,70,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 05:00 AM,2021,05,29,05,18.1,64,Moderate,15.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 06:00 AM,2021,05,29,06,40.0,112,Unhealthy for Sensitive Groups,62.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 07:00 AM,2021,05,29,07,25.0,78,Moderate,10.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 08:00 AM,2021,05,29,08,16.5,60,Moderate,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 09:00 AM,2021,05,29,09,12.7,52,Moderate,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 10:00 AM,2021,05,29,10,9.3,39,Good,6.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 11:00 AM,2021,05,29,11,8.1,34,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 12:00 PM,2021,05,29,12,8.0,33,Good,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 01:00 PM,2021,05,29,13,10.0,42,Good,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 02:00 PM,2021,05,29,14,13.0,53,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 03:00 PM,2021,05,29,15,15.0,57,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 04:00 PM,2021,05,29,16,11.0,46,Good,7.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 05:00 PM,2021,05,29,17,13.5,54,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 06:00 PM,2021,05,29,18,13.7,54,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 07:00 PM,2021,05,29,19,12.8,52,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 08:00 PM,2021,05,29,20,14.9,57,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 09:00 PM,2021,05,29,21,13.4,54,Moderate,12.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 10:00 PM,2021,05,29,22,16.7,61,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-29 11:00 PM,2021,05,29,23,17.3,62,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 12:00 AM,2021,05,30,00,12.6,52,Moderate,8.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 01:00 AM,2021,05,30,01,10.8,45,Good,9.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 02:00 AM,2021,05,30,02,11.9,50,Good,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 03:00 AM,2021,05,30,03,12.9,53,Moderate,14.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 04:00 AM,2021,05,30,04,12.9,53,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 05:00 AM,2021,05,30,05,11.9,50,Good,11.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 06:00 AM,2021,05,30,06,12.4,52,Moderate,13.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 07:00 AM,2021,05,30,07,14.2,55,Moderate,16.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 08:00 AM,2021,05,30,08,15.6,58,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 09:00 AM,2021,05,30,09,17.3,62,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 10:00 AM,2021,05,30,10,17.1,62,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 11:00 AM,2021,05,30,11,18.5,64,Moderate,20.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 12:00 PM,2021,05,30,12,18.7,65,Moderate,19.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 01:00 PM,2021,05,30,13,23.8,76,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 02:00 PM,2021,05,30,14,20.9,70,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 03:00 PM,2021,05,30,15,23.9,76,Moderate,27.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 04:00 PM,2021,05,30,16,20.4,68,Moderate,17.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 05:00 PM,2021,05,30,17,21.2,70,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 06:00 PM,2021,05,30,18,19.8,67,Moderate,18.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 07:00 PM,2021,05,30,19,22.4,73,Moderate,26.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 08:00 PM,2021,05,30,20,22.2,72,Moderate,22.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 09:00 PM,2021,05,30,21,23.4,75,Moderate,25.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 10:00 PM,2021,05,30,22,23.2,74,Moderate,23.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-30 11:00 PM,2021,05,30,23,23.5,75,Moderate,24.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 12:00 AM,2021,05,31,00,26.9,82,Moderate,31.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 01:00 AM,2021,05,31,01,31.6,92,Moderate,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 02:00 AM,2021,05,31,02,31.8,92,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 03:00 AM,2021,05,31,03,35.4,100,Moderate,39.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 04:00 AM,2021,05,31,04,40.7,114,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 05:00 AM,2021,05,31,05,44.8,124,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 06:00 AM,2021,05,31,06,47.9,132,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 07:00 AM,2021,05,31,07,46.9,129,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 08:00 AM,2021,05,31,08,47.9,132,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 09:00 AM,2021,05,31,09,45.4,125,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 10:00 AM,2021,05,31,10,49.2,135,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 11:00 AM,2021,05,31,11,49.6,136,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 12:00 PM,2021,05,31,12,51.4,140,Unhealthy for Sensitive Groups,54.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 01:00 PM,2021,05,31,13,55.6,151,Unhealthy,60.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 02:00 PM,2021,05,31,14,55.5,151,Unhealthy,58.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 03:00 PM,2021,05,31,15,61.9,154,Unhealthy,71.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 04:00 PM,2021,05,31,16,60.8,154,Unhealthy,59.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 05:00 PM,2021,05,31,17,62.8,155,Unhealthy,66.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 06:00 PM,2021,05,31,18,60.5,154,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 07:00 PM,2021,05,31,19,48.3,133,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 08:00 PM,2021,05,31,20,38.5,108,Unhealthy for Sensitive Groups,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 09:00 PM,2021,05,31,21,35.2,100,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 10:00 PM,2021,05,31,22,32.1,93,Moderate,29.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-05-31 11:00 PM,2021,05,31,23,32.0,93,Moderate,32.0,UG/M3,1 Hr,Valid
+Beijing,PM2.5 - Principal,2021-06-01 12:00 AM,2021,06,01,00,37.0,105,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid

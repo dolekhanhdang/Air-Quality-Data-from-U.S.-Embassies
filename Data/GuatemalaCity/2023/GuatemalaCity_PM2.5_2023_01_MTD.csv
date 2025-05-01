@@ -1,0 +1,7 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Guatemala City,PM2.5 - Principal,2023-01-04 10:00 AM,2023,01,04,10,-999.0,-999,N/A,14.0,UG/M3,1 Hr,Valid
+Guatemala City,PM2.5 - Principal,2023-01-04 11:00 AM,2023,01,04,11,12.3,51,Moderate,11.0,UG/M3,1 Hr,Valid
+Guatemala City,PM2.5 - Principal,2023-01-04 12:00 PM,2023,01,04,12,10.6,44,Good,9.0,UG/M3,1 Hr,Valid
+Guatemala City,PM2.5 - Principal,2023-01-04 01:00 PM,2023,01,04,13,8.5,35,Good,7.0,UG/M3,1 Hr,Valid
+Guatemala City,PM2.5 - Principal,2023-01-04 02:00 PM,2023,01,04,14,9.2,38,Good,10.0,UG/M3,1 Hr,Valid
+Guatemala City,PM2.5 - Principal,2023-01-04 03:00 PM,2023,01,04,15,9.2,38,Good,-999.0,UG/M3,1 Hr,Missing

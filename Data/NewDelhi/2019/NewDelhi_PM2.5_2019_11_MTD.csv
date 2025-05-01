@@ -1,0 +1,717 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+New Delhi,PM2.5 - Principal,2019-11-01 01:00 AM,2019,11,01,01,425.1,450,Hazardous,418.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 02:00 AM,2019,11,01,02,421.2,448,Hazardous,408.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 03:00 AM,2019,11,01,03,423.5,449,Hazardous,426.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 04:00 AM,2019,11,01,04,433.9,456,Hazardous,466.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 05:00 AM,2019,11,01,05,440.2,460,Hazardous,470.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 06:00 AM,2019,11,01,06,446.9,465,Hazardous,474.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 07:00 AM,2019,11,01,07,451.1,467,Hazardous,474.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 08:00 AM,2019,11,01,08,455.8,471,Hazardous,477.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 09:00 AM,2019,11,01,09,456.1,471,Hazardous,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-01 11:00 AM,2019,11,01,11,-999.0,-999,N/A,407.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 12:00 PM,2019,11,01,12,430.4,454,Hazardous,389.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 01:00 PM,2019,11,01,13,425.3,450,Hazardous,409.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 02:00 PM,2019,11,01,14,429.7,453,Hazardous,442.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 03:00 PM,2019,11,01,15,427.7,452,Hazardous,421.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 04:00 PM,2019,11,01,16,418.9,446,Hazardous,392.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 05:00 PM,2019,11,01,17,402.3,435,Hazardous,366.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 06:00 PM,2019,11,01,18,387.0,425,Hazardous,354.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 07:00 PM,2019,11,01,19,351.2,401,Hazardous,304.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 08:00 PM,2019,11,01,20,344.1,394,Hazardous,318.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 09:00 PM,2019,11,01,21,272.2,323,Hazardous,217.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 10:00 PM,2019,11,01,22,233.0,283,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-01 11:00 PM,2019,11,01,23,212.0,262,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 12:00 AM,2019,11,02,00,192.9,243,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 01:00 AM,2019,11,02,01,186.9,237,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 02:00 AM,2019,11,02,02,190.9,241,Very Unhealthy,195.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 03:00 AM,2019,11,02,03,194.9,245,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 04:00 AM,2019,11,02,04,182.9,233,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 05:00 AM,2019,11,02,05,165.4,216,Very Unhealthy,148.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 06:00 AM,2019,11,02,06,145.1,197,Unhealthy,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 07:00 AM,2019,11,02,07,137.0,193,Unhealthy,129.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 08:00 AM,2019,11,02,08,147.3,198,Unhealthy,156.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 09:00 AM,2019,11,02,09,157.2,208,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 10:00 AM,2019,11,02,10,182.9,233,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 11:00 AM,2019,11,02,11,259.5,310,Hazardous,331.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 12:00 PM,2019,11,02,12,332.8,383,Hazardous,406.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 01:00 PM,2019,11,02,13,380.9,421,Hazardous,429.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 02:00 PM,2019,11,02,14,375.9,418,Hazardous,371.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 03:00 PM,2019,11,02,15,347.5,397,Hazardous,319.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 04:00 PM,2019,11,02,16,359.2,407,Hazardous,371.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 05:00 PM,2019,11,02,17,399.6,433,Hazardous,440.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 06:00 PM,2019,11,02,18,502.8,502,Hazardous,606.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 07:00 PM,2019,11,02,19,591.5,560,Hazardous,680.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 08:00 PM,2019,11,02,20,580.3,553,Hazardous,569.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 09:00 PM,2019,11,02,21,575.2,549,Hazardous,570.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 10:00 PM,2019,11,02,22,550.6,533,Hazardous,526.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-02 11:00 PM,2019,11,02,23,522.8,515,Hazardous,495.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 12:00 AM,2019,11,03,00,509.4,506,Hazardous,496.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 01:00 AM,2019,11,03,01,541.2,527,Hazardous,573.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 02:00 AM,2019,11,03,02,602.6,567,Hazardous,664.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 03:00 AM,2019,11,03,03,627.6,584,Hazardous,665.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 04:00 AM,2019,11,03,04,654.2,602,Hazardous,713.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 05:00 AM,2019,11,03,05,648.3,598,Hazardous,666.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 06:00 AM,2019,11,03,06,737.1,656,Hazardous,843.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 07:00 AM,2019,11,03,07,790.3,691,Hazardous,859.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 08:00 AM,2019,11,03,08,778.8,684,Hazardous,763.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 09:00 AM,2019,11,03,09,797.2,696,Hazardous,822.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 10:00 AM,2019,11,03,10,900.9,765,Hazardous,998.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 11:00 AM,2019,11,03,11,970.0,810,Hazardous,1039.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 12:00 PM,2019,11,03,12,968.0,809,Hazardous,982.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 01:00 PM,2019,11,03,13,957.5,802,Hazardous,971.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 02:00 PM,2019,11,03,14,892.6,759,Hazardous,777.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 03:00 PM,2019,11,03,15,681.1,619,Hazardous,487.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 04:00 PM,2019,11,03,16,470.0,480,Hazardous,259.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 05:00 PM,2019,11,03,17,340.9,391,Hazardous,212.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 06:00 PM,2019,11,03,18,289.4,340,Hazardous,238.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 07:00 PM,2019,11,03,19,282.6,333,Hazardous,276.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 08:00 PM,2019,11,03,20,266.7,317,Hazardous,251.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 09:00 PM,2019,11,03,21,219.7,270,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 10:00 PM,2019,11,03,22,177.7,228,Very Unhealthy,136.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-03 11:00 PM,2019,11,03,23,148.7,199,Unhealthy,120.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 12:00 AM,2019,11,04,00,136.7,193,Unhealthy,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 01:00 AM,2019,11,04,01,133.7,191,Unhealthy,131.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 02:00 AM,2019,11,04,02,155.3,206,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 03:00 AM,2019,11,04,03,220.6,270,Very Unhealthy,286.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 04:00 AM,2019,11,04,04,259.8,310,Hazardous,299.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 05:00 AM,2019,11,04,05,363.4,410,Hazardous,467.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 06:00 AM,2019,11,04,06,488.2,492,Hazardous,613.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 07:00 AM,2019,11,04,07,469.1,479,Hazardous,450.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 08:00 AM,2019,11,04,08,463.1,475,Hazardous,457.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 09:00 AM,2019,11,04,09,507.0,504,Hazardous,551.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 10:00 AM,2019,11,04,10,488.0,492,Hazardous,469.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 11:00 AM,2019,11,04,11,387.0,425,Hazardous,286.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 12:00 PM,2019,11,04,12,313.0,363,Hazardous,239.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 01:00 PM,2019,11,04,13,276.0,326,Hazardous,239.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 02:00 PM,2019,11,04,14,276.0,326,Hazardous,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-04 06:00 PM,2019,11,04,18,-999.0,-999,N/A,86.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 07:00 PM,2019,11,04,19,88.4,168,Unhealthy,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 08:00 PM,2019,11,04,20,93.2,170,Unhealthy,97.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 09:00 PM,2019,11,04,21,103.6,176,Unhealthy,113.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 10:00 PM,2019,11,04,22,116.1,182,Unhealthy,128.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-04 11:00 PM,2019,11,04,23,139.4,194,Unhealthy,162.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 12:00 AM,2019,11,05,00,189.5,240,Very Unhealthy,239.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 01:00 AM,2019,11,05,01,278.1,328,Hazardous,366.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 02:00 AM,2019,11,05,02,340.6,390,Hazardous,403.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 03:00 AM,2019,11,05,03,377.3,419,Hazardous,414.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 04:00 AM,2019,11,05,04,382.1,422,Hazardous,387.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 05:00 AM,2019,11,05,05,383.5,423,Hazardous,385.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 06:00 AM,2019,11,05,06,379.3,420,Hazardous,375.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 07:00 AM,2019,11,05,07,349.1,399,Hazardous,319.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 08:00 AM,2019,11,05,08,307.1,357,Hazardous,265.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 09:00 AM,2019,11,05,09,281.0,331,Hazardous,255.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 10:00 AM,2019,11,05,10,255.5,306,Hazardous,230.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 11:00 AM,2019,11,05,11,221.7,272,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 12:00 PM,2019,11,05,12,180.3,231,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 01:00 PM,2019,11,05,13,129.6,189,Unhealthy,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 02:00 PM,2019,11,05,14,96.2,172,Unhealthy,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 03:00 PM,2019,11,05,15,74.0,161,Unhealthy,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 04:00 PM,2019,11,05,16,66.5,157,Unhealthy,59.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 05:00 PM,2019,11,05,17,70.2,159,Unhealthy,74.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 06:00 PM,2019,11,05,18,62.0,154,Unhealthy,54.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 07:00 PM,2019,11,05,19,67.5,157,Unhealthy,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 08:00 PM,2019,11,05,20,77.7,162,Unhealthy,88.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 09:00 PM,2019,11,05,21,77.3,162,Unhealthy,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 10:00 PM,2019,11,05,22,80.1,164,Unhealthy,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-05 11:00 PM,2019,11,05,23,82.5,165,Unhealthy,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 12:00 AM,2019,11,06,00,85.6,167,Unhealthy,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 01:00 AM,2019,11,06,01,91.2,169,Unhealthy,97.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 02:00 AM,2019,11,06,02,101.4,175,Unhealthy,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 03:00 AM,2019,11,06,03,102.7,175,Unhealthy,104.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 04:00 AM,2019,11,06,04,101.8,175,Unhealthy,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 05:00 AM,2019,11,06,05,98.4,173,Unhealthy,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 06:00 AM,2019,11,06,06,98.2,173,Unhealthy,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 07:00 AM,2019,11,06,07,101.5,175,Unhealthy,109.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 08:00 AM,2019,11,06,08,101.1,175,Unhealthy,100.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 09:00 AM,2019,11,06,09,101.9,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 10:00 AM,2019,11,06,10,102.7,175,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 11:00 AM,2019,11,06,11,101.3,175,Unhealthy,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 12:00 PM,2019,11,06,12,97.4,173,Unhealthy,85.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 01:00 PM,2019,11,06,13,82.0,165,Unhealthy,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 02:00 PM,2019,11,06,14,63.8,155,Unhealthy,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 03:00 PM,2019,11,06,15,49.9,136,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 04:00 PM,2019,11,06,16,42.4,118,Unhealthy for Sensitive Groups,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 05:00 PM,2019,11,06,17,45.2,125,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 06:00 PM,2019,11,06,18,53.1,144,Unhealthy for Sensitive Groups,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 07:00 PM,2019,11,06,19,60.5,154,Unhealthy,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 08:00 PM,2019,11,06,20,88.7,168,Unhealthy,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 09:00 PM,2019,11,06,21,106.3,177,Unhealthy,124.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 10:00 PM,2019,11,06,22,129.7,189,Unhealthy,153.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-06 11:00 PM,2019,11,06,23,137.8,193,Unhealthy,146.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 12:00 AM,2019,11,07,00,137.9,194,Unhealthy,138.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 01:00 AM,2019,11,07,01,133.9,191,Unhealthy,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 02:00 AM,2019,11,07,02,128.9,189,Unhealthy,124.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 03:00 AM,2019,11,07,03,128.0,188,Unhealthy,127.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 04:00 AM,2019,11,07,04,136.5,193,Unhealthy,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 05:00 AM,2019,11,07,05,139.2,194,Unhealthy,142.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 06:00 AM,2019,11,07,06,144.1,197,Unhealthy,149.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 07:00 AM,2019,11,07,07,146.9,198,Unhealthy,163.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 08:00 AM,2019,11,07,08,160.2,211,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 09:00 AM,2019,11,07,09,196.7,247,Very Unhealthy,231.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 10:00 AM,2019,11,07,10,215.2,265,Very Unhealthy,235.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 11:00 AM,2019,11,07,11,237.7,287,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 12:00 PM,2019,11,07,12,291.3,341,Hazardous,345.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 01:00 PM,2019,11,07,13,272.7,323,Hazardous,254.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 02:00 PM,2019,11,07,14,277.8,328,Hazardous,283.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 03:00 PM,2019,11,07,15,259.9,310,Hazardous,242.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 04:00 PM,2019,11,07,16,216.9,267,Very Unhealthy,174.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 05:00 PM,2019,11,07,17,201.4,251,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 06:00 PM,2019,11,07,18,211.7,262,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 07:00 PM,2019,11,07,19,238.7,288,Very Unhealthy,266.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 08:00 PM,2019,11,07,20,236.3,286,Very Unhealthy,234.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 09:00 PM,2019,11,07,21,226.7,277,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 10:00 PM,2019,11,07,22,209.0,259,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-07 11:00 PM,2019,11,07,23,202.5,253,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 12:00 AM,2019,11,08,00,206.3,256,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 01:00 AM,2019,11,08,01,205.3,255,Very Unhealthy,204.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 02:00 AM,2019,11,08,02,208.3,258,Very Unhealthy,213.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 03:00 AM,2019,11,08,03,208.8,259,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 04:00 AM,2019,11,08,04,209.0,259,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 05:00 AM,2019,11,08,05,211.2,261,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 06:00 AM,2019,11,08,06,204.6,255,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 07:00 AM,2019,11,08,07,192.4,243,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 08:00 AM,2019,11,08,08,184.4,235,Very Unhealthy,160.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 09:00 AM,2019,11,08,09,180.8,231,Very Unhealthy,171.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 10:00 AM,2019,11,08,10,165.9,216,Very Unhealthy,144.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 11:00 AM,2019,11,08,11,139.1,194,Unhealthy,116.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 12:00 PM,2019,11,08,12,115.3,182,Unhealthy,94.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 01:00 PM,2019,11,08,13,110.1,179,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 02:00 PM,2019,11,08,14,119.0,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 03:00 PM,2019,11,08,15,141.0,195,Unhealthy,163.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 04:00 PM,2019,11,08,16,132.0,190,Unhealthy,123.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 05:00 PM,2019,11,08,17,121.9,185,Unhealthy,112.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 06:00 PM,2019,11,08,18,113.8,181,Unhealthy,103.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 07:00 PM,2019,11,08,19,109.8,179,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 08:00 PM,2019,11,08,20,112.1,180,Unhealthy,115.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 09:00 PM,2019,11,08,21,118.9,184,Unhealthy,128.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 10:00 PM,2019,11,08,22,124.9,187,Unhealthy,133.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-08 11:00 PM,2019,11,08,23,132.5,191,Unhealthy,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 12:00 AM,2019,11,09,00,137.2,193,Unhealthy,148.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 01:00 AM,2019,11,09,01,147.9,199,Unhealthy,165.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 02:00 AM,2019,11,09,02,170.4,221,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 03:00 AM,2019,11,09,03,188.6,239,Very Unhealthy,205.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 04:00 AM,2019,11,09,04,205.9,256,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 05:00 AM,2019,11,09,05,216.9,267,Very Unhealthy,228.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 06:00 AM,2019,11,09,06,228.0,278,Very Unhealthy,239.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 07:00 AM,2019,11,09,07,241.5,291,Very Unhealthy,255.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 08:00 AM,2019,11,09,08,241.4,291,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-09 09:00 AM,2019,11,09,09,249.1,299,Very Unhealthy,254.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 10:00 AM,2019,11,09,10,190.7,241,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 11:00 AM,2019,11,09,11,147.3,198,Unhealthy,113.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 12:00 PM,2019,11,09,12,102.2,175,Unhealthy,60.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 01:00 PM,2019,11,09,13,78.2,163,Unhealthy,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 02:00 PM,2019,11,09,14,60.9,154,Unhealthy,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 03:00 PM,2019,11,09,15,49.4,135,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 04:00 PM,2019,11,09,16,46.1,127,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 05:00 PM,2019,11,09,17,44.0,122,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 06:00 PM,2019,11,09,18,47.5,131,Unhealthy for Sensitive Groups,51.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 07:00 PM,2019,11,09,19,58.2,152,Unhealthy,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 08:00 PM,2019,11,09,20,81.6,164,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 09:00 PM,2019,11,09,21,113.2,181,Unhealthy,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 10:00 PM,2019,11,09,22,140.1,195,Unhealthy,167.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-09 11:00 PM,2019,11,09,23,154.0,204,Very Unhealthy,168.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 12:00 AM,2019,11,10,00,163.0,213,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 01:00 AM,2019,11,10,01,186.5,237,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 02:00 AM,2019,11,10,02,219.7,270,Very Unhealthy,253.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 03:00 AM,2019,11,10,03,271.9,322,Hazardous,324.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 04:00 AM,2019,11,10,04,286.9,337,Hazardous,302.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 05:00 AM,2019,11,10,05,305.0,355,Hazardous,323.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 06:00 AM,2019,11,10,06,311.5,361,Hazardous,318.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 07:00 AM,2019,11,10,07,303.3,353,Hazardous,295.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 08:00 AM,2019,11,10,08,292.6,343,Hazardous,282.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 09:00 AM,2019,11,10,09,288.6,339,Hazardous,284.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 10:00 AM,2019,11,10,10,275.3,326,Hazardous,261.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 11:00 AM,2019,11,10,11,250.1,300,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 12:00 PM,2019,11,10,12,232.9,283,Very Unhealthy,197.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 01:00 PM,2019,11,10,13,188.7,239,Very Unhealthy,155.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 02:00 PM,2019,11,10,14,144.8,197,Unhealthy,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 03:00 PM,2019,11,10,15,114.3,181,Unhealthy,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 04:00 PM,2019,11,10,16,92.6,170,Unhealthy,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 05:00 PM,2019,11,10,17,78.8,163,Unhealthy,65.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 06:00 PM,2019,11,10,18,75.8,161,Unhealthy,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 07:00 PM,2019,11,10,19,80.9,164,Unhealthy,86.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 08:00 PM,2019,11,10,20,90.4,169,Unhealthy,100.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 09:00 PM,2019,11,10,21,108.1,178,Unhealthy,126.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 10:00 PM,2019,11,10,22,129.0,189,Unhealthy,150.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-10 11:00 PM,2019,11,10,23,147.0,198,Unhealthy,165.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 12:00 AM,2019,11,11,00,168.5,219,Very Unhealthy,190.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 01:00 AM,2019,11,11,01,174.7,225,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 02:00 AM,2019,11,11,02,173.3,224,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 03:00 AM,2019,11,11,03,183.7,234,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 04:00 AM,2019,11,11,04,217.8,268,Very Unhealthy,252.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 05:00 AM,2019,11,11,05,251.9,302,Hazardous,286.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 06:00 AM,2019,11,11,06,273.5,324,Hazardous,295.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 07:00 AM,2019,11,11,07,296.7,347,Hazardous,320.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 08:00 AM,2019,11,11,08,307.9,358,Hazardous,319.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 09:00 AM,2019,11,11,09,362.9,409,Hazardous,418.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 10:00 AM,2019,11,11,10,429.0,453,Hazardous,495.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 11:00 AM,2019,11,11,11,484.5,489,Hazardous,540.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 12:00 PM,2019,11,11,12,406.2,438,Hazardous,328.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 01:00 PM,2019,11,11,13,338.1,388,Hazardous,270.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 02:00 PM,2019,11,11,14,267.0,317,Hazardous,196.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 03:00 PM,2019,11,11,15,224.0,274,Very Unhealthy,181.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 04:00 PM,2019,11,11,16,183.5,234,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 05:00 PM,2019,11,11,17,153.2,204,Very Unhealthy,123.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 06:00 PM,2019,11,11,18,134.5,192,Unhealthy,116.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 07:00 PM,2019,11,11,19,128.2,189,Unhealthy,122.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 08:00 PM,2019,11,11,20,129.6,189,Unhealthy,131.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 09:00 PM,2019,11,11,21,141.7,196,Unhealthy,154.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 10:00 PM,2019,11,11,22,159.8,210,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-11 11:00 PM,2019,11,11,23,188.8,239,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 12:00 AM,2019,11,12,00,238.4,288,Very Unhealthy,288.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 01:00 AM,2019,11,12,01,279.7,330,Hazardous,321.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 02:00 AM,2019,11,12,02,310.3,360,Hazardous,341.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 03:00 AM,2019,11,12,03,348.7,398,Hazardous,387.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 04:00 AM,2019,11,12,04,396.3,431,Hazardous,444.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 05:00 AM,2019,11,12,05,451.2,468,Hazardous,506.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 06:00 AM,2019,11,12,06,490.1,493,Hazardous,529.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 07:00 AM,2019,11,12,07,523.6,515,Hazardous,557.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 08:00 AM,2019,11,12,08,539.3,526,Hazardous,555.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 09:00 AM,2019,11,12,09,565.7,543,Hazardous,592.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 10:00 AM,2019,11,12,10,559.9,539,Hazardous,554.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 11:00 AM,2019,11,12,11,519.9,513,Hazardous,480.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 12:00 PM,2019,11,12,12,489.6,493,Hazardous,451.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 01:00 PM,2019,11,12,13,409.1,440,Hazardous,317.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 02:00 PM,2019,11,12,14,348.6,398,Hazardous,296.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 03:00 PM,2019,11,12,15,296.2,346,Hazardous,244.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 04:00 PM,2019,11,12,16,276.6,327,Hazardous,257.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 05:00 PM,2019,11,12,17,255.2,306,Hazardous,234.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 06:00 PM,2019,11,12,18,242.6,292,Very Unhealthy,230.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 07:00 PM,2019,11,12,19,237.2,287,Very Unhealthy,232.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 08:00 PM,2019,11,12,20,244.0,294,Very Unhealthy,251.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 09:00 PM,2019,11,12,21,259.5,310,Hazardous,275.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 10:00 PM,2019,11,12,22,284.2,334,Hazardous,309.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-12 11:00 PM,2019,11,12,23,314.6,365,Hazardous,347.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 12:00 AM,2019,11,13,00,327.2,377,Hazardous,368.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 01:00 AM,2019,11,13,01,355.0,404,Hazardous,389.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 02:00 AM,2019,11,13,02,375.4,417,Hazardous,400.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 03:00 AM,2019,11,13,03,397.2,432,Hazardous,420.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 04:00 AM,2019,11,13,04,428.3,452,Hazardous,456.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 05:00 AM,2019,11,13,05,452.8,469,Hazardous,477.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 06:00 AM,2019,11,13,06,456.9,471,Hazardous,461.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 07:00 AM,2019,11,13,07,448.6,466,Hazardous,441.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 08:00 AM,2019,11,13,08,439.6,460,Hazardous,429.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 09:00 AM,2019,11,13,09,485.9,490,Hazardous,546.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 10:00 AM,2019,11,13,10,497.2,498,Hazardous,529.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 11:00 AM,2019,11,13,11,484.2,489,Hazardous,466.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 12:00 PM,2019,11,13,12,455.8,471,Hazardous,391.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 01:00 PM,2019,11,13,13,442.7,462,Hazardous,409.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 02:00 PM,2019,11,13,14,422.4,448,Hazardous,380.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 03:00 PM,2019,11,13,15,362.9,409,Hazardous,306.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 04:00 PM,2019,11,13,16,343.5,393,Hazardous,319.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 05:00 PM,2019,11,13,17,340.6,390,Hazardous,337.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 06:00 PM,2019,11,13,18,347.3,397,Hazardous,356.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 07:00 PM,2019,11,13,19,357.2,405,Hazardous,370.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 08:00 PM,2019,11,13,20,361.5,408,Hazardous,367.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 09:00 PM,2019,11,13,21,357.6,406,Hazardous,353.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 10:00 PM,2019,11,13,22,358.5,406,Hazardous,361.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-13 11:00 PM,2019,11,13,23,366.1,411,Hazardous,391.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 12:00 AM,2019,11,14,00,373.9,416,Hazardous,397.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 01:00 AM,2019,11,14,01,377.4,419,Hazardous,394.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 02:00 AM,2019,11,14,02,382.8,422,Hazardous,399.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 03:00 AM,2019,11,14,03,383.8,423,Hazardous,391.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 04:00 AM,2019,11,14,04,383.1,423,Hazardous,385.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 05:00 AM,2019,11,14,05,382.3,422,Hazardous,378.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 06:00 AM,2019,11,14,06,381.8,422,Hazardous,373.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 07:00 AM,2019,11,14,07,381.9,422,Hazardous,380.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 08:00 AM,2019,11,14,08,386.1,425,Hazardous,405.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 09:00 AM,2019,11,14,09,403.5,436,Hazardous,458.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 10:00 AM,2019,11,14,10,436.9,458,Hazardous,512.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 11:00 AM,2019,11,14,11,452.2,468,Hazardous,491.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 12:00 PM,2019,11,14,12,430.8,454,Hazardous,374.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 01:00 PM,2019,11,14,13,399.9,434,Hazardous,338.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 02:00 PM,2019,11,14,14,388.6,426,Hazardous,367.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 03:00 PM,2019,11,14,15,401.1,434,Hazardous,425.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 04:00 PM,2019,11,14,16,404.5,437,Hazardous,411.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 05:00 PM,2019,11,14,17,401.6,435,Hazardous,396.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 06:00 PM,2019,11,14,18,403.5,436,Hazardous,407.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 07:00 PM,2019,11,14,19,400.0,434,Hazardous,393.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 08:00 PM,2019,11,14,20,400.3,434,Hazardous,401.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 09:00 PM,2019,11,14,21,413.4,443,Hazardous,439.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 10:00 PM,2019,11,14,22,413.8,443,Hazardous,418.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-14 11:00 PM,2019,11,14,23,400.9,434,Hazardous,372.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 12:00 AM,2019,11,15,00,384.1,423,Hazardous,333.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 01:00 AM,2019,11,15,01,373.7,416,Hazardous,341.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 02:00 AM,2019,11,15,02,387.6,426,Hazardous,429.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 03:00 AM,2019,11,15,03,511.3,507,Hazardous,642.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 04:00 AM,2019,11,15,04,636.7,590,Hazardous,757.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 05:00 AM,2019,11,15,05,695.4,629,Hazardous,754.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 06:00 AM,2019,11,15,06,717.2,643,Hazardous,739.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 07:00 AM,2019,11,15,07,720.6,645,Hazardous,724.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 08:00 AM,2019,11,15,08,720.7,645,Hazardous,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-15 09:00 AM,2019,11,15,09,772.9,680,Hazardous,799.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 10:00 AM,2019,11,15,10,702.7,634,Hazardous,650.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 11:00 AM,2019,11,15,11,617.0,577,Hazardous,542.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 12:00 PM,2019,11,15,12,574.7,549,Hazardous,535.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 01:00 PM,2019,11,15,13,529.4,519,Hazardous,472.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 02:00 PM,2019,11,15,14,388.2,426,Hazardous,256.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 03:00 PM,2019,11,15,15,366.4,412,Hazardous,345.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 04:00 PM,2019,11,15,16,328.1,378,Hazardous,290.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 05:00 PM,2019,11,15,17,287.9,338,Hazardous,248.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 06:00 PM,2019,11,15,18,248.3,298,Very Unhealthy,209.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 07:00 PM,2019,11,15,19,235.1,285,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 08:00 PM,2019,11,15,20,244.5,294,Very Unhealthy,254.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 09:00 PM,2019,11,15,21,256.7,307,Hazardous,269.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 10:00 PM,2019,11,15,22,272.8,323,Hazardous,289.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-15 11:00 PM,2019,11,15,23,309.3,359,Hazardous,346.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 12:00 AM,2019,11,16,00,339.1,389,Hazardous,369.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 01:00 AM,2019,11,16,01,346.0,396,Hazardous,365.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 02:00 AM,2019,11,16,02,330.4,380,Hazardous,310.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 03:00 AM,2019,11,16,03,314.1,364,Hazardous,293.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 04:00 AM,2019,11,16,04,291.9,342,Hazardous,263.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 05:00 AM,2019,11,16,05,280.7,331,Hazardous,266.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 06:00 AM,2019,11,16,06,277.0,327,Hazardous,268.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 07:00 AM,2019,11,16,07,268.7,319,Hazardous,245.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 08:00 AM,2019,11,16,08,259.1,310,Hazardous,242.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 09:00 AM,2019,11,16,09,252.1,303,Hazardous,240.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 10:00 AM,2019,11,16,10,219.9,270,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 11:00 AM,2019,11,16,11,195.7,246,Very Unhealthy,173.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 12:00 PM,2019,11,16,12,158.3,209,Very Unhealthy,121.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 01:00 PM,2019,11,16,13,118.6,184,Unhealthy,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 02:00 PM,2019,11,16,14,84.2,166,Unhealthy,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 03:00 PM,2019,11,16,15,70.6,159,Unhealthy,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 04:00 PM,2019,11,16,16,59.7,153,Unhealthy,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 05:00 PM,2019,11,16,17,65.8,156,Unhealthy,72.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 06:00 PM,2019,11,16,18,73.4,160,Unhealthy,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 07:00 PM,2019,11,16,19,71.1,159,Unhealthy,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 08:00 PM,2019,11,16,20,77.0,162,Unhealthy,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 09:00 PM,2019,11,16,21,101.5,175,Unhealthy,126.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 10:00 PM,2019,11,16,22,149.2,199,Unhealthy,197.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-16 11:00 PM,2019,11,16,23,182.6,233,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 12:00 AM,2019,11,17,00,182.8,233,Very Unhealthy,183.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 01:00 AM,2019,11,17,01,190.9,241,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 02:00 AM,2019,11,17,02,170.4,221,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 03:00 AM,2019,11,17,03,140.2,195,Unhealthy,110.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 04:00 AM,2019,11,17,04,134.6,192,Unhealthy,129.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 05:00 AM,2019,11,17,05,139.3,194,Unhealthy,144.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 06:00 AM,2019,11,17,06,142.1,196,Unhealthy,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 07:00 AM,2019,11,17,07,137.0,193,Unhealthy,132.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 08:00 AM,2019,11,17,08,125.8,187,Unhealthy,114.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 09:00 AM,2019,11,17,09,115.2,182,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 10:00 AM,2019,11,17,10,110.1,179,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 11:00 AM,2019,11,17,11,93.0,170,Unhealthy,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 12:00 PM,2019,11,17,12,71.0,159,Unhealthy,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 01:00 PM,2019,11,17,13,51.4,140,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 02:00 PM,2019,11,17,14,39.2,110,Unhealthy for Sensitive Groups,27.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 03:00 PM,2019,11,17,15,35.6,101,Unhealthy for Sensitive Groups,32.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 04:00 PM,2019,11,17,16,29.2,87,Moderate,23.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 05:00 PM,2019,11,17,17,27.1,83,Moderate,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 06:00 PM,2019,11,17,18,31.0,91,Moderate,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 07:00 PM,2019,11,17,19,37.5,106,Unhealthy for Sensitive Groups,44.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 08:00 PM,2019,11,17,20,53.2,145,Unhealthy for Sensitive Groups,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 09:00 PM,2019,11,17,21,79.1,163,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 10:00 PM,2019,11,17,22,122.5,186,Unhealthy,166.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-17 11:00 PM,2019,11,17,23,170.3,221,Very Unhealthy,218.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 12:00 AM,2019,11,18,00,183.1,233,Very Unhealthy,196.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 01:00 AM,2019,11,18,01,194.6,245,Very Unhealthy,206.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 02:00 AM,2019,11,18,02,205.8,256,Very Unhealthy,217.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 03:00 AM,2019,11,18,03,206.9,257,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 04:00 AM,2019,11,18,04,179.4,230,Very Unhealthy,152.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 05:00 AM,2019,11,18,05,159.2,210,Very Unhealthy,139.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 06:00 AM,2019,11,18,06,144.6,197,Unhealthy,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 07:00 AM,2019,11,18,07,127.8,188,Unhealthy,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 08:00 AM,2019,11,18,08,116.9,183,Unhealthy,106.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 09:00 AM,2019,11,18,09,110.9,180,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 10:00 AM,2019,11,18,10,106.4,177,Unhealthy,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 11:00 AM,2019,11,18,11,91.7,170,Unhealthy,77.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 12:00 PM,2019,11,18,12,73.8,160,Unhealthy,56.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 01:00 PM,2019,11,18,13,59.9,153,Unhealthy,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 02:00 PM,2019,11,18,14,55.9,151,Unhealthy,52.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 03:00 PM,2019,11,18,15,52.9,144,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 04:00 PM,2019,11,18,16,49.4,135,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 05:00 PM,2019,11,18,17,44.7,124,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 06:00 PM,2019,11,18,18,43.3,120,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 07:00 PM,2019,11,18,19,49.1,134,Unhealthy for Sensitive Groups,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 08:00 PM,2019,11,18,20,69.0,158,Unhealthy,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 09:00 PM,2019,11,18,21,71.0,159,Unhealthy,73.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 10:00 PM,2019,11,18,22,80.0,164,Unhealthy,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-18 11:00 PM,2019,11,18,23,94.5,171,Unhealthy,109.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 12:00 AM,2019,11,19,00,102.7,175,Unhealthy,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 01:00 AM,2019,11,19,01,114.3,181,Unhealthy,126.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 02:00 AM,2019,11,19,02,124.7,187,Unhealthy,135.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 03:00 AM,2019,11,19,03,133.8,191,Unhealthy,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 04:00 AM,2019,11,19,04,137.4,193,Unhealthy,141.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 05:00 AM,2019,11,19,05,143.7,197,Unhealthy,150.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 06:00 AM,2019,11,19,06,145.3,197,Unhealthy,147.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 07:00 AM,2019,11,19,07,145.2,197,Unhealthy,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 08:00 AM,2019,11,19,08,135.6,192,Unhealthy,126.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 09:00 AM,2019,11,19,09,132.4,191,Unhealthy,126.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 10:00 AM,2019,11,19,10,143.4,196,Unhealthy,163.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 11:00 AM,2019,11,19,11,153.0,203,Very Unhealthy,170.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 12:00 PM,2019,11,19,12,146.9,198,Unhealthy,138.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 01:00 PM,2019,11,19,13,142.5,196,Unhealthy,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 02:00 PM,2019,11,19,14,130.9,190,Unhealthy,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 03:00 PM,2019,11,19,15,102.5,175,Unhealthy,80.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 04:00 PM,2019,11,19,16,78.7,163,Unhealthy,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 05:00 PM,2019,11,19,17,67.8,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 06:00 PM,2019,11,19,18,68.4,158,Unhealthy,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 07:00 PM,2019,11,19,19,82.7,165,Unhealthy,97.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 08:00 PM,2019,11,19,20,94.8,171,Unhealthy,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 09:00 PM,2019,11,19,21,101.9,175,Unhealthy,109.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 10:00 PM,2019,11,19,22,106.4,177,Unhealthy,111.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-19 11:00 PM,2019,11,19,23,112.7,181,Unhealthy,119.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 12:00 AM,2019,11,20,00,114.3,181,Unhealthy,116.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 01:00 AM,2019,11,20,01,120.1,184,Unhealthy,126.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 02:00 AM,2019,11,20,02,120.0,184,Unhealthy,120.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 03:00 AM,2019,11,20,03,117.5,183,Unhealthy,115.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 04:00 AM,2019,11,20,04,121.7,185,Unhealthy,126.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 05:00 AM,2019,11,20,05,126.5,188,Unhealthy,132.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 06:00 AM,2019,11,20,06,136.8,193,Unhealthy,156.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 07:00 AM,2019,11,20,07,148.4,199,Unhealthy,169.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 08:00 AM,2019,11,20,08,150.0,200,Unhealthy,154.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 09:00 AM,2019,11,20,09,151.8,202,Very Unhealthy,156.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 10:00 AM,2019,11,20,10,186.0,236,Very Unhealthy,220.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 11:00 AM,2019,11,20,11,204.2,254,Very Unhealthy,223.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 12:00 PM,2019,11,20,12,191.0,241,Very Unhealthy,177.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 01:00 PM,2019,11,20,13,168.7,219,Very Unhealthy,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 02:00 PM,2019,11,20,14,137.0,193,Unhealthy,106.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 03:00 PM,2019,11,20,15,122.0,185,Unhealthy,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 04:00 PM,2019,11,20,16,112.0,180,Unhealthy,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 05:00 PM,2019,11,20,17,101.9,175,Unhealthy,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 06:00 PM,2019,11,20,18,101.9,175,Unhealthy,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 07:00 PM,2019,11,20,19,108.4,178,Unhealthy,115.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 08:00 PM,2019,11,20,20,114.7,182,Unhealthy,121.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 09:00 PM,2019,11,20,21,119.8,184,Unhealthy,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 10:00 PM,2019,11,20,22,126.4,188,Unhealthy,133.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-20 11:00 PM,2019,11,20,23,125.9,187,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-21 12:00 AM,2019,11,21,00,177.4,228,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 01:00 AM,2019,11,21,01,185.7,236,Very Unhealthy,192.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 02:00 AM,2019,11,21,02,198.7,249,Very Unhealthy,210.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 03:00 AM,2019,11,21,03,210.2,260,Very Unhealthy,221.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 04:00 AM,2019,11,21,04,216.2,266,Very Unhealthy,222.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 05:00 AM,2019,11,21,05,237.2,287,Very Unhealthy,258.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 06:00 AM,2019,11,21,06,272.3,323,Hazardous,307.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 07:00 AM,2019,11,21,07,297.2,347,Hazardous,322.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 08:00 AM,2019,11,21,08,302.6,353,Hazardous,308.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 09:00 AM,2019,11,21,09,302.6,353,Hazardous,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-21 10:00 AM,2019,11,21,10,311.9,362,Hazardous,325.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 11:00 AM,2019,11,21,11,272.2,323,Hazardous,229.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 12:00 PM,2019,11,21,12,237.2,287,Very Unhealthy,194.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 01:00 PM,2019,11,21,13,196.3,246,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 02:00 PM,2019,11,21,14,161.2,212,Very Unhealthy,128.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 03:00 PM,2019,11,21,15,147.4,198,Unhealthy,134.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 04:00 PM,2019,11,21,16,152.2,203,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 05:00 PM,2019,11,21,17,150.1,200,Unhealthy,148.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 06:00 PM,2019,11,21,18,142.5,196,Unhealthy,135.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 07:00 PM,2019,11,21,19,138.2,194,Unhealthy,134.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 08:00 PM,2019,11,21,20,144.6,197,Unhealthy,151.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 09:00 PM,2019,11,21,21,151.8,202,Very Unhealthy,159.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 10:00 PM,2019,11,21,22,157.0,207,Very Unhealthy,165.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-21 11:00 PM,2019,11,21,23,165.4,216,Very Unhealthy,186.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 12:00 AM,2019,11,22,00,178.4,229,Very Unhealthy,200.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 01:00 AM,2019,11,22,01,195.4,245,Very Unhealthy,216.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 02:00 AM,2019,11,22,02,200.2,250,Very Unhealthy,211.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 03:00 AM,2019,11,22,03,199.8,250,Very Unhealthy,199.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 04:00 AM,2019,11,22,04,196.5,247,Very Unhealthy,191.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 05:00 AM,2019,11,22,05,191.8,242,Very Unhealthy,184.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 06:00 AM,2019,11,22,06,186.6,237,Very Unhealthy,178.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 07:00 AM,2019,11,22,07,188.0,238,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 08:00 AM,2019,11,22,08,193.9,244,Very Unhealthy,208.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 09:00 AM,2019,11,22,09,207.1,257,Very Unhealthy,236.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 10:00 AM,2019,11,22,10,204.7,255,Very Unhealthy,203.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 11:00 AM,2019,11,22,11,195.1,245,Very Unhealthy,169.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 12:00 PM,2019,11,22,12,184.2,234,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 01:00 PM,2019,11,22,13,172.6,223,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 02:00 PM,2019,11,22,14,150.4,200,Unhealthy,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 03:00 PM,2019,11,22,15,150.4,200,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-22 04:00 PM,2019,11,22,16,133.1,191,Unhealthy,124.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 05:00 PM,2019,11,22,17,137.4,193,Unhealthy,141.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 06:00 PM,2019,11,22,18,140.7,195,Unhealthy,144.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 07:00 PM,2019,11,22,19,146.2,198,Unhealthy,152.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 08:00 PM,2019,11,22,20,150.0,200,Unhealthy,154.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 09:00 PM,2019,11,22,21,150.9,201,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 10:00 PM,2019,11,22,22,155.9,206,Very Unhealthy,172.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-22 11:00 PM,2019,11,22,23,168.2,219,Very Unhealthy,188.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 12:00 AM,2019,11,23,00,175.6,226,Very Unhealthy,189.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 01:00 AM,2019,11,23,01,177.1,227,Very Unhealthy,180.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 02:00 AM,2019,11,23,02,167.8,218,Very Unhealthy,150.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 03:00 AM,2019,11,23,03,159.2,210,Very Unhealthy,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 04:00 AM,2019,11,23,04,151.2,202,Very Unhealthy,131.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 05:00 AM,2019,11,23,05,145.9,198,Unhealthy,134.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 06:00 AM,2019,11,23,06,150.2,200,Unhealthy,160.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 07:00 AM,2019,11,23,07,154.2,205,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 08:00 AM,2019,11,23,08,156.9,207,Very Unhealthy,163.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 09:00 AM,2019,11,23,09,158.5,209,Very Unhealthy,162.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 10:00 AM,2019,11,23,10,157.0,207,Very Unhealthy,154.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 11:00 AM,2019,11,23,11,156.9,207,Very Unhealthy,157.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 12:00 PM,2019,11,23,12,152.2,203,Very Unhealthy,141.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 01:00 PM,2019,11,23,13,144.7,197,Unhealthy,123.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 02:00 PM,2019,11,23,14,137.0,193,Unhealthy,119.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 03:00 PM,2019,11,23,15,110.0,179,Unhealthy,88.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 04:00 PM,2019,11,23,16,88.3,168,Unhealthy,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 05:00 PM,2019,11,23,17,79.6,163,Unhealthy,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 06:00 PM,2019,11,23,18,73.8,160,Unhealthy,68.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 07:00 PM,2019,11,23,19,76.4,162,Unhealthy,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 08:00 PM,2019,11,23,20,87.1,167,Unhealthy,98.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 09:00 PM,2019,11,23,21,103.5,176,Unhealthy,120.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 10:00 PM,2019,11,23,22,110.2,179,Unhealthy,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-23 11:00 PM,2019,11,23,23,120.1,184,Unhealthy,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 12:00 AM,2019,11,24,00,126.8,188,Unhealthy,134.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 01:00 AM,2019,11,24,01,134.5,192,Unhealthy,142.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 02:00 AM,2019,11,24,02,133.7,191,Unhealthy,133.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 03:00 AM,2019,11,24,03,127.8,188,Unhealthy,122.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 04:00 AM,2019,11,24,04,122.4,186,Unhealthy,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 05:00 AM,2019,11,24,05,119.2,184,Unhealthy,116.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 06:00 AM,2019,11,24,06,122.2,185,Unhealthy,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 07:00 AM,2019,11,24,07,127.6,188,Unhealthy,138.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 08:00 AM,2019,11,24,08,132.0,190,Unhealthy,148.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 09:00 AM,2019,11,24,09,139.5,194,Unhealthy,157.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 10:00 AM,2019,11,24,10,135.7,192,Unhealthy,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 11:00 AM,2019,11,24,11,123.8,186,Unhealthy,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 12:00 PM,2019,11,24,12,103.3,176,Unhealthy,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 01:00 PM,2019,11,24,13,98.0,173,Unhealthy,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 02:00 PM,2019,11,24,14,78.8,163,Unhealthy,61.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 03:00 PM,2019,11,24,15,67.9,157,Unhealthy,57.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 04:00 PM,2019,11,24,16,58.9,153,Unhealthy,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 05:00 PM,2019,11,24,17,56.9,152,Unhealthy,55.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 06:00 PM,2019,11,24,18,59.4,153,Unhealthy,62.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 07:00 PM,2019,11,24,19,75.2,161,Unhealthy,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 08:00 PM,2019,11,24,20,98.6,173,Unhealthy,122.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 09:00 PM,2019,11,24,21,120.8,185,Unhealthy,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 10:00 PM,2019,11,24,22,132.9,191,Unhealthy,145.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-24 11:00 PM,2019,11,24,23,137.9,194,Unhealthy,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 12:00 AM,2019,11,25,00,138.9,194,Unhealthy,140.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 01:00 AM,2019,11,25,01,143.4,196,Unhealthy,148.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 02:00 AM,2019,11,25,02,144.7,197,Unhealthy,146.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 03:00 AM,2019,11,25,03,143.8,197,Unhealthy,143.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 04:00 AM,2019,11,25,04,143.9,197,Unhealthy,144.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 05:00 AM,2019,11,25,05,141.4,195,Unhealthy,139.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 06:00 AM,2019,11,25,06,141.5,195,Unhealthy,141.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 07:00 AM,2019,11,25,07,141.6,195,Unhealthy,140.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 08:00 AM,2019,11,25,08,144.9,197,Unhealthy,159.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 09:00 AM,2019,11,25,09,154.8,205,Very Unhealthy,182.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 10:00 AM,2019,11,25,10,155.0,205,Very Unhealthy,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-25 11:00 AM,2019,11,25,11,130.3,190,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 12:00 PM,2019,11,25,12,90.2,169,Unhealthy,64.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 01:00 PM,2019,11,25,13,78.9,163,Unhealthy,69.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 02:00 PM,2019,11,25,14,76.8,162,Unhealthy,75.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 03:00 PM,2019,11,25,15,76.8,162,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+New Delhi,PM2.5 - Principal,2019-11-25 04:00 PM,2019,11,25,16,79.6,163,Unhealthy,81.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 05:00 PM,2019,11,25,17,74.0,161,Unhealthy,70.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 06:00 PM,2019,11,25,18,76.7,162,Unhealthy,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 07:00 PM,2019,11,25,19,79.9,164,Unhealthy,83.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 08:00 PM,2019,11,25,20,84.5,166,Unhealthy,89.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 09:00 PM,2019,11,25,21,88.2,168,Unhealthy,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 10:00 PM,2019,11,25,22,91.3,169,Unhealthy,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-25 11:00 PM,2019,11,25,23,108.6,178,Unhealthy,125.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 12:00 AM,2019,11,26,00,119.6,184,Unhealthy,132.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 01:00 AM,2019,11,26,01,128.3,189,Unhealthy,137.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 02:00 AM,2019,11,26,02,129.1,189,Unhealthy,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 03:00 AM,2019,11,26,03,119.3,184,Unhealthy,109.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 04:00 AM,2019,11,26,04,110.8,180,Unhealthy,102.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 05:00 AM,2019,11,26,05,105.3,177,Unhealthy,96.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 06:00 AM,2019,11,26,06,100.5,174,Unhealthy,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 07:00 AM,2019,11,26,07,101.2,175,Unhealthy,100.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 08:00 AM,2019,11,26,08,104.2,176,Unhealthy,109.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 09:00 AM,2019,11,26,09,110.7,180,Unhealthy,124.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 10:00 AM,2019,11,26,10,118.5,184,Unhealthy,134.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 11:00 AM,2019,11,26,11,122.6,186,Unhealthy,131.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 12:00 PM,2019,11,26,12,115.1,182,Unhealthy,100.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 01:00 PM,2019,11,26,13,108.0,178,Unhealthy,93.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 02:00 PM,2019,11,26,14,105.7,177,Unhealthy,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 03:00 PM,2019,11,26,15,102.3,175,Unhealthy,95.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 04:00 PM,2019,11,26,16,107.2,178,Unhealthy,118.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 05:00 PM,2019,11,26,17,118.1,183,Unhealthy,139.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 06:00 PM,2019,11,26,18,123.0,186,Unhealthy,133.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 07:00 PM,2019,11,26,19,117.0,183,Unhealthy,105.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 08:00 PM,2019,11,26,20,83.8,166,Unhealthy,51.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 09:00 PM,2019,11,26,21,62.9,155,Unhealthy,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 10:00 PM,2019,11,26,22,51.4,140,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-26 11:00 PM,2019,11,26,23,42.7,119,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 12:00 AM,2019,11,27,00,36.3,103,Unhealthy for Sensitive Groups,30.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 01:00 AM,2019,11,27,01,30.1,89,Moderate,24.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 02:00 AM,2019,11,27,02,23.0,74,Moderate,16.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 03:00 AM,2019,11,27,03,22.0,72,Moderate,21.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 04:00 AM,2019,11,27,04,20.5,69,Moderate,19.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 05:00 AM,2019,11,27,05,16.7,61,Moderate,13.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 06:00 AM,2019,11,27,06,18.8,65,Moderate,21.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 07:00 AM,2019,11,27,07,18.9,65,Moderate,19.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 08:00 AM,2019,11,27,08,21.9,72,Moderate,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 09:00 AM,2019,11,27,09,34.4,98,Moderate,47.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 10:00 AM,2019,11,27,10,41.7,116,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 11:00 AM,2019,11,27,11,47.3,130,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 12:00 PM,2019,11,27,12,55.1,149,Unhealthy for Sensitive Groups,63.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 01:00 PM,2019,11,27,13,69.6,158,Unhealthy,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 02:00 PM,2019,11,27,14,77.8,163,Unhealthy,86.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 03:00 PM,2019,11,27,15,80.9,164,Unhealthy,84.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 04:00 PM,2019,11,27,16,88.9,168,Unhealthy,97.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 05:00 PM,2019,11,27,17,105.4,177,Unhealthy,122.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 06:00 PM,2019,11,27,18,111.2,180,Unhealthy,117.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 07:00 PM,2019,11,27,19,120.6,185,Unhealthy,130.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 08:00 PM,2019,11,27,20,127.8,188,Unhealthy,135.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 09:00 PM,2019,11,27,21,131.9,190,Unhealthy,136.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 10:00 PM,2019,11,27,22,89.9,169,Unhealthy,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-27 11:00 PM,2019,11,27,23,57.4,152,Unhealthy,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 12:00 AM,2019,11,28,00,37.2,105,Unhealthy for Sensitive Groups,17.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 01:00 AM,2019,11,28,01,29.1,87,Moderate,21.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 02:00 AM,2019,11,28,02,24.0,76,Moderate,19.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 03:00 AM,2019,11,28,03,21.5,71,Moderate,19.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 04:00 AM,2019,11,28,04,18.7,65,Moderate,16.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 05:00 AM,2019,11,28,05,20.8,69,Moderate,23.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 06:00 AM,2019,11,28,06,20.9,70,Moderate,21.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 07:00 AM,2019,11,28,07,23.4,75,Moderate,26.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 08:00 AM,2019,11,28,08,26.2,81,Moderate,29.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 09:00 AM,2019,11,28,09,25.5,79,Moderate,25.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 10:00 AM,2019,11,28,10,27.5,83,Moderate,30.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 11:00 AM,2019,11,28,11,36.8,104,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 12:00 PM,2019,11,28,12,41.4,116,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 01:00 PM,2019,11,28,13,44.7,124,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 02:00 PM,2019,11,28,14,44.8,124,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 03:00 PM,2019,11,28,15,42.4,118,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 04:00 PM,2019,11,28,16,38.2,108,Unhealthy for Sensitive Groups,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 05:00 PM,2019,11,28,17,33.6,96,Moderate,29.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 06:00 PM,2019,11,28,18,33.9,97,Moderate,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 07:00 PM,2019,11,28,19,33.9,97,Moderate,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 08:00 PM,2019,11,28,20,34.4,98,Moderate,35.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 09:00 PM,2019,11,28,21,34.3,98,Moderate,34.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 10:00 PM,2019,11,28,22,36.6,104,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-28 11:00 PM,2019,11,28,23,36.3,103,Unhealthy for Sensitive Groups,36.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 12:00 AM,2019,11,29,00,38.5,108,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 01:00 AM,2019,11,29,01,39.9,112,Unhealthy for Sensitive Groups,43.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 02:00 AM,2019,11,29,02,42.2,117,Unhealthy for Sensitive Groups,46.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 03:00 AM,2019,11,29,03,47.6,131,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 04:00 AM,2019,11,29,04,45.0,124,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 05:00 AM,2019,11,29,05,42.9,119,Unhealthy for Sensitive Groups,40.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 06:00 AM,2019,11,29,06,40.8,114,Unhealthy for Sensitive Groups,37.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 07:00 AM,2019,11,29,07,40.9,114,Unhealthy for Sensitive Groups,41.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 08:00 AM,2019,11,29,08,39.8,112,Unhealthy for Sensitive Groups,38.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 09:00 AM,2019,11,29,09,44.2,122,Unhealthy for Sensitive Groups,53.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 10:00 AM,2019,11,29,10,45.8,126,Unhealthy for Sensitive Groups,49.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 11:00 AM,2019,11,29,11,47.0,129,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 12:00 PM,2019,11,29,12,45.5,126,Unhealthy for Sensitive Groups,42.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 01:00 PM,2019,11,29,13,46.8,129,Unhealthy for Sensitive Groups,50.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 02:00 PM,2019,11,29,14,47.2,130,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 03:00 PM,2019,11,29,15,47.4,130,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 04:00 PM,2019,11,29,16,47.6,131,Unhealthy for Sensitive Groups,48.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 05:00 PM,2019,11,29,17,46.8,129,Unhealthy for Sensitive Groups,45.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 06:00 PM,2019,11,29,18,46.9,129,Unhealthy for Sensitive Groups,47.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 07:00 PM,2019,11,29,19,54.9,149,Unhealthy for Sensitive Groups,66.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 08:00 PM,2019,11,29,20,64.6,156,Unhealthy,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 09:00 PM,2019,11,29,21,71.7,159,Unhealthy,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 10:00 PM,2019,11,29,22,86.3,167,Unhealthy,100.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-29 11:00 PM,2019,11,29,23,99.1,174,Unhealthy,112.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 12:00 AM,2019,11,30,00,106.0,177,Unhealthy,113.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 01:00 AM,2019,11,30,01,103.5,176,Unhealthy,101.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 02:00 AM,2019,11,30,02,97.2,173,Unhealthy,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 03:00 AM,2019,11,30,03,102.1,175,Unhealthy,107.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 04:00 AM,2019,11,30,04,110.0,179,Unhealthy,118.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 05:00 AM,2019,11,30,05,126.0,187,Unhealthy,142.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 06:00 AM,2019,11,30,06,127.5,188,Unhealthy,129.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 07:00 AM,2019,11,30,07,121.2,185,Unhealthy,115.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 08:00 AM,2019,11,30,08,121.1,185,Unhealthy,121.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 09:00 AM,2019,11,30,09,117.9,183,Unhealthy,113.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 10:00 AM,2019,11,30,10,129.5,189,Unhealthy,148.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 11:00 AM,2019,11,30,11,127.0,188,Unhealthy,123.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 12:00 PM,2019,11,30,12,116.2,182,Unhealthy,99.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 01:00 PM,2019,11,30,13,106.8,177,Unhealthy,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 02:00 PM,2019,11,30,14,100.7,174,Unhealthy,91.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 03:00 PM,2019,11,30,15,100.4,174,Unhealthy,100.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 04:00 PM,2019,11,30,16,89.5,169,Unhealthy,79.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 05:00 PM,2019,11,30,17,79.8,164,Unhealthy,71.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 06:00 PM,2019,11,30,18,77.9,163,Unhealthy,76.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 07:00 PM,2019,11,30,19,84.9,166,Unhealthy,92.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 08:00 PM,2019,11,30,20,96.4,172,Unhealthy,108.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 09:00 PM,2019,11,30,21,102.2,175,Unhealthy,108.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 10:00 PM,2019,11,30,22,114.8,182,Unhealthy,131.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-11-30 11:00 PM,2019,11,30,23,126.6,188,Unhealthy,138.0,UG/M3,1 Hr,Valid
+New Delhi,PM2.5 - Principal,2019-12-01 12:00 AM,2019,12,01,00,132.8,191,Unhealthy,139.0,UG/M3,1 Hr,Valid

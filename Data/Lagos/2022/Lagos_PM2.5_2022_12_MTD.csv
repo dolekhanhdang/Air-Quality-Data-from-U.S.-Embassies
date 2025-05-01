@@ -1,0 +1,52 @@
+Site,Parameter,Date (LT),Year,Month,Day,Hour,NowCast Conc.,AQI,AQI Category,Raw Conc.,Conc. Unit,Duration,QC Name
+Lagos,PM2.5 - Principal,2022-12-10 02:00 PM,2022,12,10,14,-999.0,-999,N/A,49.9,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 08:00 AM,2022,12,12,08,-999.0,-999,N/A,61.8,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 09:00 AM,2022,12,12,09,82.2,165,Unhealthy,95.4,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 10:00 AM,2022,12,12,10,82.2,165,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2022-12-12 12:00 PM,2022,12,12,12,-999.0,-999,N/A,33.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 01:00 PM,2022,12,12,13,35.1,99,Moderate,31.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 02:00 PM,2022,12,12,14,35.1,99,Moderate,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2022-12-12 03:00 PM,2022,12,12,15,31.6,92,Moderate,30.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 05:00 PM,2022,12,12,17,33.1,95,Moderate,33.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 06:00 PM,2022,12,12,18,33.3,96,Moderate,33.4,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 07:00 PM,2022,12,12,19,33.5,96,Moderate,33.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 08:00 PM,2022,12,12,20,32.9,95,Moderate,32.4,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-12 09:00 PM,2022,12,12,21,32.7,94,Moderate,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2022-12-13 11:00 AM,2022,12,13,11,-999.0,-999,N/A,69.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 12:00 PM,2022,12,13,12,61.9,154,Unhealthy,56.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 01:00 PM,2022,12,13,13,61.9,154,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2022-12-13 03:00 PM,2022,12,13,15,-999.0,-999,N/A,48.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 04:00 PM,2022,12,13,16,48.8,134,Unhealthy for Sensitive Groups,45.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 05:00 PM,2022,12,13,17,47.8,131,Unhealthy for Sensitive Groups,46.6,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 06:00 PM,2022,12,13,18,49.2,135,Unhealthy for Sensitive Groups,51.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 07:00 PM,2022,12,13,19,50.1,137,Unhealthy for Sensitive Groups,51.5,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 08:00 PM,2022,12,13,20,49.8,136,Unhealthy for Sensitive Groups,49.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 09:00 PM,2022,12,13,21,48.7,134,Unhealthy for Sensitive Groups,46.8,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 10:00 PM,2022,12,13,22,48.6,133,Unhealthy for Sensitive Groups,48.4,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-13 11:00 PM,2022,12,13,23,48.0,132,Unhealthy for Sensitive Groups,45.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 12:00 AM,2022,12,14,00,48.2,132,Unhealthy for Sensitive Groups,49.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 01:00 AM,2022,12,14,01,48.4,133,Unhealthy for Sensitive Groups,49.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 02:00 AM,2022,12,14,02,48.9,134,Unhealthy for Sensitive Groups,51.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 03:00 AM,2022,12,14,03,50.6,138,Unhealthy for Sensitive Groups,56.4,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 04:00 AM,2022,12,14,04,52.3,142,Unhealthy for Sensitive Groups,57.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 05:00 AM,2022,12,14,05,68.4,158,Unhealthy,84.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 06:00 AM,2022,12,14,06,100.9,174,Unhealthy,132.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 07:00 AM,2022,12,14,07,102.1,175,Unhealthy,103.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 08:00 AM,2022,12,14,08,108.7,178,Unhealthy,115.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 09:00 AM,2022,12,14,09,112.4,180,Unhealthy,116.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 10:00 AM,2022,12,14,10,94.2,171,Unhealthy,76.1,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 11:00 AM,2022,12,14,11,87.5,168,Unhealthy,80.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 12:00 PM,2022,12,14,12,72.1,160,Unhealthy,56.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-14 01:00 PM,2022,12,14,13,72.1,160,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2022-12-15 08:00 AM,2022,12,15,08,-999.0,-999,N/A,105.2,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-15 04:00 PM,2022,12,15,16,-999.0,-999,N/A,58.9,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-15 05:00 PM,2022,12,15,17,58.2,152,Unhealthy,57.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-15 06:00 PM,2022,12,15,18,60.4,154,Unhealthy,62.3,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-15 07:00 PM,2022,12,15,19,58.7,153,Unhealthy,57.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-15 08:00 PM,2022,12,15,20,57.9,152,Unhealthy,54.8,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-15 09:00 PM,2022,12,15,21,56.5,152,Unhealthy,52.5,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-15 10:00 PM,2022,12,15,22,56.5,152,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2022-12-16 08:00 AM,2022,12,16,08,-999.0,-999,N/A,0.0,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-16 09:00 AM,2022,12,16,09,75.8,161,Unhealthy,113.7,UG/M3,1 Hr,Valid
+Lagos,PM2.5 - Principal,2022-12-16 10:00 AM,2022,12,16,10,75.8,161,Unhealthy,-999.0,UG/M3,1 Hr,Missing
+Lagos,PM2.5 - Principal,2022-12-16 12:00 PM,2022,12,16,12,-999.0,-999,N/A,61.4,UG/M3,1 Hr,Valid
